@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ Terror.
 
-420 songs - 17 hr 11 min
+421 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Can't See Straight](https://open.spotify.com/track/71MlY5h47k1txHLM1Z03qB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Can't See Straight](https://open.spotify.com/album/76jpo9MP2lrWtR4x9qyDxU) | 1:03 | 2024-08-09 | 2025-02-01 |
 | [CAN'T STOP IT](https://open.spotify.com/track/6RJB07ZqQUOb08bnJYKAGv) | [Hereditary](https://open.spotify.com/artist/0dt2nmzBLD7oAyy7sjszvo), [Big Boy](https://open.spotify.com/artist/3jOHrCdds0VE1VzdjPvvv1) | [CAN'T STOP IT](https://open.spotify.com/album/0UScfF1NDqhyU3fYgnUPBS) | 2:34 | 2024-04-26 |  |
 | [Carry My Own Torch](https://open.spotify.com/track/42B8UsJCOI7kC2yoABBULa) | [Firewalker](https://open.spotify.com/artist/5IeFfgx0s1a3ny8dFyz5si) | [Hell Bent](https://open.spotify.com/album/6kmwWlNdCsUkStiJxZxV2R) | 1:49 | 2024-07-03 | 2025-03-08 |
+| [Cause and Effect](https://open.spotify.com/track/4ZrmK8wrGLBdkEp1qgDVRc) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [No Escape](https://open.spotify.com/album/0VOK9FZtYpXbKSg9qROQTL) | 2:14 | 2026-03-10 |  |
 | [Chains](https://open.spotify.com/track/2xxCaSfOiU11PgSZYvSKsB) | [Rise Above](https://open.spotify.com/artist/3le4zTdLcBAhhjhYOgqCnW) | [Thread the Needle](https://open.spotify.com/album/0OBvndHGQo0sDVuCjsZUSO) | 1:58 | 2025-07-18 |  |
 | [Charm](https://open.spotify.com/track/5E3FIBDyOjVuV0SPOLg6sM) | [Mile End](https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ) | [Mile End](https://open.spotify.com/album/22EabJ9O2Sqdvblo9qlv0F) | 2:59 | 2024-11-22 |  |
 | [Chew](https://open.spotify.com/track/3QOg1az5WvUJNT0pVhCI3q) | [Destiny Bond](https://open.spotify.com/artist/4XGRuOMAK9ritE48mxQgYs) | [Be My Vengeance](https://open.spotify.com/album/1k50Z5L0x3NHXo3aocmSEL) | 2:42 | 2024-01-30 | 2025-04-05 |
@@ -200,7 +201,7 @@
 | [Know Not](https://open.spotify.com/track/3JBckWUvq6YxjiubQKpYLj) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Know Not](https://open.spotify.com/album/02ystanZLEriuyxcPxD4dK) | 1:58 | 2025-07-18 |  |
 | [Koniec](https://open.spotify.com/track/0AkpbeijRYbavdv8mczxl4) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Satisfaction](https://open.spotify.com/album/7F5ZISHwZlOgSFmg5LKVeG) | 1:08 | 2024-03-01 | 2024-04-27 |
 | [Kubrick Stare](https://open.spotify.com/track/78XlxZ40ogIPZq1dYMmu2Y) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Kubrick Stare](https://open.spotify.com/album/4ZIsPCJgM1GqaMxGSqsKWd) | 3:18 | 2025-02-11 |  |
-| [Landslide](https://open.spotify.com/track/0xZYAXXGFoe3PfjglBrr8B) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [This Is All We Ever Get](https://open.spotify.com/album/3W1oOBFsQ3OETOnmX1NmH4) | 1:36 | 2024-04-26 |  |
+| [Landslide](https://open.spotify.com/track/0xZYAXXGFoe3PfjglBrr8B) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [This Is All We Ever Get](https://open.spotify.com/album/3W1oOBFsQ3OETOnmX1NmH4) | 1:36 | 2024-04-26 | 2026-03-10 |
 | [Landslide](https://open.spotify.com/track/4UnezplnQOoiNCRxYfveZR) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Landslide](https://open.spotify.com/album/6Jca9m0heHbc7wu44GZs0A) | 1:36 | 2024-01-30 | 2024-04-27 |
 | [LIAR](https://open.spotify.com/track/1nJ8mIgJWtDXIHzckDZtUV) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [LIAR](https://open.spotify.com/album/6jBHYrJCpKfDWKXeSlD6f8) | 2:35 | 2025-07-18 |  |
 | [Life](https://open.spotify.com/track/5Yoou8RssU63J1J3jX8wPg) | [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt) | [Life](https://open.spotify.com/album/6FYvq6Y0Ohx9bBF8BlB2sD) | 2:58 | 2024-11-08 |  |

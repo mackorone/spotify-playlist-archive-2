@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 134848,
+  "num_followers": 134832,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Bonita y Triste",
+        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
+      },
+      "artists": [
+        {
+          "name": "Mi Sobrino Memo",
+          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        }
+      ],
+      "duration_ms": 216745,
+      "name": "Bonita y Triste",
+      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Tu",
         "url": "https://open.spotify.com/album/2WgwPpY2aNg2gwgCheg8lT"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 192800,
       "name": "Terrorista del Amor",
       "url": "https://open.spotify.com/track/0C5jThTBhHF2fxz2YU6PNX"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Bonita y Triste",
-        "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
-      },
-      "artists": [
-        {
-          "name": "Mi Sobrino Memo",
-          "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        }
-      ],
-      "duration_ms": 216745,
-      "name": "Bonita y Triste",
-      "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "SEM MALDADE",
+        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 170465,
+      "name": "SEM MALDADE",
+      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Maris",
         "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
       },
@@ -631,38 +647,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Dan\u00e7a Entre Casais",
-        "url": "https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 232476,
-      "name": "Sonho Bossa Nova",
-      "url": "https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "SEM MALDADE",
-        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 170465,
-      "name": "SEM MALDADE",
-      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Quarta Feira",
         "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 174543,
       "name": "Quarta Feira",
       "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Dan\u00e7a Entre Casais",
+        "url": "https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 232476,
+      "name": "Sonho Bossa Nova",
+      "url": "https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox"
     },
     {
       "added_at": "2023-06-23 03:00:00",

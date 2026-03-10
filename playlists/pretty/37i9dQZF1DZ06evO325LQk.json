@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38062,
+  "num_followers": 38060,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACZEu3RITu59dUNWjsbZh1C",
+  "snapshot_id": "aay8AAAAAABTp6vdDZ6dRW8ONd2mMMas",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE",
-        "url": "https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3"
+        "name": "MSMSMSM",
+        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 118727,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7"
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MSMSMSM",
-        "url": "https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4"
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/57sloqMgDMARCIGqu7qbL3"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
+      "duration_ms": 118727,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/390ey4VzRGd88FHKCIflG7"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 327093,
       "name": "Push Emission (Whore Moans)",
       "url": "https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPER EUROBEAT presents \u982d\u6587\u5b57[\u30a4\u30cb\u30b7\u30e3\u30eb]D THE BEST OF DREAM COLLECTION",
-        "url": "https://open.spotify.com/album/6Q44w6id91239bhOHSDs4c"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "LOVE AND PAIN",
-      "url": "https://open.spotify.com/track/7ePgEt29p3nb2HOLV7uLo4"
     },
     {
       "added_at": null,

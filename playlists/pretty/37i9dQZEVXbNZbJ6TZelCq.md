@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Romania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,804 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,810 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNZbJ6TZelCq.md) - [plain]
 | 49 | [Filipineza](https://open.spotify.com/track/0VXsihzxr9XBsDycUYu9o9) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Filipineza](https://open.spotify.com/album/5q3uvSorja97Z3v8pb6P0q) | 2:34 |
 | 50 | [Brasileiro](https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Brasileiro](https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7) | 2:38 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

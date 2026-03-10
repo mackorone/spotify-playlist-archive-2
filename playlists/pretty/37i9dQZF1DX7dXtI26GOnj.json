@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Shakira, Bel\u00e9e",
-  "num_followers": 239870,
+  "num_followers": 239903,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -987,30 +987,6 @@
     {
       "added_at": "2026-03-06 14:43:32",
       "album": {
-        "name": "ASTRO",
-        "url": "https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Take A Daytrip",
-          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "PERVERSA",
-      "url": "https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB"
-    },
-    {
-      "added_at": "2026-03-06 14:43:32",
-      "album": {
         "name": "Papi Chulo x Mali",
         "url": "https://open.spotify.com/album/3f1kIDTAWun9b7mIo1d0R8"
       },
@@ -1031,6 +1007,30 @@
       "duration_ms": 179454,
       "name": "Papi Chulo x Mali",
       "url": "https://open.spotify.com/track/2VkPDAZMr1QrBxW4M4IYj1"
+    },
+    {
+      "added_at": "2026-03-06 14:43:32",
+      "album": {
+        "name": "ASTRO",
+        "url": "https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Take A Daytrip",
+          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "PERVERSA",
+      "url": "https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB"
     },
     {
       "added_at": "2026-03-06 14:43:32",

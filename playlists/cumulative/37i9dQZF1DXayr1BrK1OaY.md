@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-656 songs - 1 day 14 hr 19 min
+657 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,7 +613,7 @@
 | [Untroubled](https://open.spotify.com/track/28WFDBPuVavZOK0KxkYSd7) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Cold Water](https://open.spotify.com/album/5h8uwG3AnNcrJt3Jhx7i7y) | 4:00 | 2021-08-13 | 2023-04-24 |
 | [UR Heart](https://open.spotify.com/track/1aLZxUcQtwSmGlcZuNjWpW) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [UR Heart](https://open.spotify.com/album/2yZnnAxCi0BNCpjNwLvf2Z) | 3:21 | 2022-03-25 | 2022-04-02 |
 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 | 2022-07-08 | 2022-10-19 |
-| [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 | 2024-04-19 |  |
+| [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 | 2024-04-19 | 2026-03-10 |
 | [Violence \- Club Mix](https://open.spotify.com/track/5oOlKEj3vJeivb5QGYJFKt) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene](https://open.spotify.com/album/6PVARuXkH97DKHlhI5wzgq) | 4:12 | 2021-04-02 | 2022-06-01 |
 | [Visions \- jamesjamesjames Remix](https://open.spotify.com/track/7nbMyWcTfIydxb9iXAtNaE) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [First Contact \(The Remixes\)](https://open.spotify.com/album/3ROEyvvxjEl2GpS4mcL273) | 5:06 | 2021-08-14 | 2022-07-29 |
 | [Wait \(Alibi Blue\)](https://open.spotify.com/track/6UeX8EDqvDrtX3uNqIkErH) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Wait \(Alibi Blue\)](https://open.spotify.com/album/43FgYStLNAtLavSCL8Otys) | 2:38 | 2025-09-06 | 2025-12-11 |
@@ -640,6 +640,7 @@
 | [whenyousayit](https://open.spotify.com/track/3kYI5fvpetkwM3sRGlNMyP) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [shy tea](https://open.spotify.com/artist/0hxiA4ubuoSCS0jLrwnlVP) | [whenyousayit](https://open.spotify.com/album/65b51M3Ci3EmTIxJUbShmz) | 3:32 | 2025-01-17 | 2025-01-25 |
 | [Where did you go](https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Where did you go](https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE) | 2:48 | 2023-06-09 | 2025-06-07 |
 | [where did you go?](https://open.spotify.com/track/5zXH0K9DAsQ0r5mazmqD0U) | [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [where did you go?](https://open.spotify.com/album/4a0Eae4CM0QQAFwjOz7ea2) | 3:26 | 2025-05-30 | 2025-06-28 |
+| [White Flag Down](https://open.spotify.com/track/2lRP0VwAcpM25NJS1CCOUV) | [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [White Flag Down](https://open.spotify.com/album/0gFxtkxPt8qZyI83cP8o9L) | 2:02 | 2026-03-06 |  |
 | [Wild Feelings](https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Wild Feelings](https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ) | 2:41 | 2022-05-13 | 2023-03-26 |
 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 | 2023-06-09 | 2025-01-25 |
 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 | 2023-10-06 | 2024-08-17 |

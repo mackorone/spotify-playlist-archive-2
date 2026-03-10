@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 107099,
+  "num_followers": 107121,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Lost My Way",
         "url": "https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 142700,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        },
-        {
-          "name": "SUPERSTRINGS",
-          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "California (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "California (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "When You're Lonely",
         "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
       },
@@ -1723,26 +1743,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "California (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "California (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
       },
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa"
-      },
-      "artists": [
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        },
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        }
-      ],
-      "duration_ms": 151904,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "PEGASUS",
         "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 180462,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "duration_ms": 151904,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ"
     },
     {
       "added_at": "2025-10-30 23:00:21",

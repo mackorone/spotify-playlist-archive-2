@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,655 likes - 276 songs - 13 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,656 likes - 276 songs - 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,8 +234,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 224 | [M$tAdNtpLy](https://open.spotify.com/track/7jA1ha00uRO2tGnNYkVNoN) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 2:55 |
 | 225 | [Do Better](https://open.spotify.com/track/6W55PELuIrhPwFAr9T64Df) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:24 |
 | 226 | [Last Hook](https://open.spotify.com/track/6HfGKIFVkSAWvB64DSQdFa) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Life of a SlimeCrook](https://open.spotify.com/album/3dYWvEeuKRCht48uU9DQjD) | 2:30 |
-| 227 | [Tay Keith](https://open.spotify.com/track/6sSmh6H1tMZDmREz3ev6c3) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:00 |
-| 228 | [Real Trap](https://open.spotify.com/track/3yBpubzW5iquSgWt8Nt0BQ) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:00 |
+| 227 | [Real Trap](https://open.spotify.com/track/3yBpubzW5iquSgWt8Nt0BQ) | [Boston George](https://open.spotify.com/artist/7gten3sDCiuil5aBzq9Rej), [Diego](https://open.spotify.com/artist/6JMZQemAU6yRUWVc9e3gHo) | [Boston George & Diego](https://open.spotify.com/album/1bApVxEdfGoql7ExpWtdJW) | 3:00 |
+| 228 | [Tay Keith](https://open.spotify.com/track/6sSmh6H1tMZDmREz3ev6c3) | [2KBABY](https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE) | [First Quarter](https://open.spotify.com/album/4LAiL2z5jIvFRvNSzzFBVG) | 2:00 |
 | 229 | [Pirate](https://open.spotify.com/track/4nCg9oFwTWLHMYdIB4Kuxx) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [DMV](https://open.spotify.com/album/4be8M47GQNAYsHHMFJ77Hx) | 2:35 |
 | 230 | [Slow Dance \(feat\. BlocBoy JB\)](https://open.spotify.com/track/1Ak4uEbwPtAnKZFqi4R9nM) | [Brianna Perry](https://open.spotify.com/artist/7dCeHFqROnBJFZwRfp8B3Z), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Fortune Cookie](https://open.spotify.com/album/0UM6R2ygjqnq4rE8FsHD8y) | 3:16 |
 | 231 | [Way Too Turnt](https://open.spotify.com/track/5B2rkcsGZzOV5hFWVunGbC) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 1:48 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 275 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 276 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `AcLnQAAAAAAtS93FlAej93bnUHYYiSas`
+Snapshot ID: `AcLs4AAAAABvA2iCmwmF/ycJNkV2jEuH`

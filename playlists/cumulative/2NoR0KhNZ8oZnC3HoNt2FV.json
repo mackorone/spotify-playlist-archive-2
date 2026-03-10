@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-30",
   "description": "",
-  "name": "Hip-Hop and Play -- Baby Keem, No Security Takeover",
+  "name": "Hip-Hop and Play",
   "tracks": [
     {
       "album": {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 184930,
       "name": "$ex Appeal (feat. Too $hort)",
       "url": "https://open.spotify.com/track/2N1D5t5zkvlNElbH9q0vBv"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 136542,
       "name": "Birds & the Bees",
       "url": "https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V"
@@ -2994,6 +2994,24 @@
       "duration_ms": 178708,
       "name": "Bodies (with JID)",
       "url": "https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155753,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
     },
     {
       "album": {
@@ -3429,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176294,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
+    },
+    {
+      "album": {
         "name": "tobi lou and the Loop",
         "url": "https://open.spotify.com/album/1JjGKMycjULPogQw8YnDpS"
       },
@@ -3644,7 +3680,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 260825,
       "name": "Ca$ino",
       "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
@@ -4394,7 +4430,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 292359,
       "name": "Circus Circus Free$tyle",
       "url": "https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM"
@@ -5958,7 +5994,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 199831,
       "name": "Dramatic Girl (feat. Che Ecru)",
       "url": "https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb"
@@ -6338,6 +6374,28 @@
       "duration_ms": 259301,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/4AH8GJVosfrbfhe5NVTAnx"
+    },
+    {
+      "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "KARBeats",
+          "url": "https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "EL MUNDO SE VA A ACABAR",
+      "url": "https://open.spotify.com/track/6SkbzQSYMJzrmmDBEvbh0S"
     },
     {
       "album": {
@@ -8292,6 +8350,24 @@
       "duration_ms": 165866,
       "name": "Future Swag",
       "url": "https://open.spotify.com/track/1ckxFDBKrcepE6pDmayXzP"
+    },
+    {
+      "album": {
+        "name": "MASA",
+        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263359,
+      "name": "Games Of War",
+      "url": "https://open.spotify.com/track/0Bu4Ftm8pa65s690nhgGTV"
     },
     {
       "album": {
@@ -10442,7 +10518,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 228013,
       "name": "Highway 95 pt.2",
       "url": "https://open.spotify.com/track/5OUtx1HW0cLbt1bCuSHlw8"
@@ -10806,7 +10882,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 195612,
       "name": "House Money",
       "url": "https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL"
@@ -10940,7 +11016,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 205176,
       "name": "I am not a Lyricist",
       "url": "https://open.spotify.com/track/76uwSqRmmSfRZVocIceH1b"
@@ -14159,6 +14235,32 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
+    },
+    {
+      "album": {
         "name": "Lyric Ave",
         "url": "https://open.spotify.com/album/2WU80v2Y0jQ7OsFh7fEztN"
       },
@@ -15802,7 +15904,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 166469,
       "name": "No Blame",
       "url": "https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK"
@@ -16054,7 +16156,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 118425,
       "name": "No Security",
       "url": "https://open.spotify.com/track/4LGFc5Vv5YlqTvWIa37CbG"
@@ -19602,6 +19704,28 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "Run A Train (with Future)",
+      "url": "https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99"
     },
     {
       "album": {
@@ -26078,6 +26202,24 @@
       "duration_ms": 226840,
       "name": "You Can Do It! (Give Up)",
       "url": "https://open.spotify.com/track/1v9bR4jQ5UbTNTZJJ2eKvz"
+    },
+    {
+      "album": {
+        "name": "early life crisis",
+        "url": "https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148253,
+      "name": "you ready?",
+      "url": "https://open.spotify.com/track/4StTpr2rt9cNqeDsu1bqFk"
     },
     {
       "album": {

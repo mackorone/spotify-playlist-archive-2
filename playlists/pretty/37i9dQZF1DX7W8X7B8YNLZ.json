@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 125079,
+  "num_followers": 125101,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "Coucou Me Revoilou",
-        "url": "https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "Lettre \u00e0 France",
-      "url": "https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "En Chantant",
         "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 234173,
       "name": "En chantant",
       "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "Coucou Me Revoilou",
+        "url": "https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "Lettre \u00e0 France",
+      "url": "https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
-        "name": "Comme un boomerang",
-        "url": "https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        }
-      ],
-      "duration_ms": 219706,
-      "name": "Sea, Sex And Sun",
-      "url": "https://open.spotify.com/track/2RJBXZ8bWc6DDOuIlPdF7R"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
         "name": "Pour me comprendre (40 titres)",
         "url": "https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 136386,
       "name": "\u00c7a balance pas mal \u00e0 Paris - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
+        "name": "Comme un boomerang",
+        "url": "https://open.spotify.com/album/7IoGi1b3jxA6FXOaoa66iK"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Sea, Sex And Sun",
+      "url": "https://open.spotify.com/track/2RJBXZ8bWc6DDOuIlPdF7R"
     },
     {
       "added_at": "2025-12-28 17:29:00",

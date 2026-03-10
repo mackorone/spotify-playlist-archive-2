@@ -4,14 +4,14 @@
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-134 songs - 7 hr 11 min
+135 songs - 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All in the Mood \(Everybody's in the Mood\)](https://open.spotify.com/track/5T0RKELHLZS8DaHT7qwax9) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Essential Classics, Vol\. 435: Howlin' Wolf](https://open.spotify.com/album/6vuFaQeftqSS8TWli6HGOX) | 2:59 | 2025-01-21 | 2025-01-25 |
 | [All In The Mood \(Everybody's In The Mood\)](https://open.spotify.com/track/7bwTE6zcxNSNPTcNgrv0tR) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:59 | 2024-01-24 | 2024-07-24 |
 | [All My Life \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 4:08 | 2024-07-01 | 2024-11-03 |
-| [All My Life \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 4:09 | 2026-03-07 |  |
+| [All My Life \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 4:09 | 2026-03-07 | 2026-03-10 |
 | [All Night Boogie \(All Night Long\)](https://open.spotify.com/track/6UXUwb2mZK0LFsColT6uup) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:15 | 2022-11-02 | 2024-02-24 |
 | [Baby How Long](https://open.spotify.com/track/7qAUeIKdz6LEdP6K8y2GLo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:55 | 2022-08-05 | 2024-07-17 |
 | [Baby Workout \- Live](https://open.spotify.com/track/3KzatBx1q40B6HMP3TLyMO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Shape I'm In \(Live Boston '73\)](https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3) | 3:03 | 2022-12-09 | 2024-07-02 |
@@ -40,6 +40,7 @@
 | [Dorothy Mae](https://open.spotify.com/track/3qpXAvpugJc1V96bs06blC) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:35 | 2024-03-07 | 2024-06-27 |
 | [Down In The Bottom \- Single Version](https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Chess Box](https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B) | 2:34 | 2022-08-05 |  |
 | [Drinkin' C\. V\. Wine Blues](https://open.spotify.com/track/0TFIQVD6OqwjnoKlVzPPUA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames \(25 Blues Originals\)](https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM) | 3:02 | 2022-11-28 | 2023-11-11 |
+| [Dust My Broom \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/4a0NdfY3aWOlZCB3nWz0vS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 5:02 | 2026-03-10 |  |
 | [Everybody's in the Mood](https://open.spotify.com/track/5dlV27sZIok7UTNOwixsrc) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 3:00 | 2022-08-05 | 2023-02-02 |
 | [Evil \(Is Going On\)](https://open.spotify.com/track/7LdbDjg6esKNAsnFElpFnB) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:53 | 2022-08-06 |  |
 | [Forty Four](https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:50 | 2022-08-05 | 2024-07-24 |

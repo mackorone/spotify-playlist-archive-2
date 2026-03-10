@@ -1,12 +1,12 @@
 {
   "description": "put it on and let it play. ",
-  "num_followers": 1256939,
+  "num_followers": 1256992,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGKLmn4q2j4ects4CHg4ZC8RemvA",
+  "snapshot_id": "AAAAAF2B14208Efq0yE82L2kpE8wD8HW",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:21",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     },
     {
-      "added_at": "2026-03-06 05:00:21",
+      "added_at": "2026-03-09 14:51:00",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+        "name": "A Rush To Nowhere",
+        "url": "https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs"
       },
       "artists": [
         {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Sarah",
-      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
+      "duration_ms": 299520,
+      "name": "Gemini Eyes",
+      "url": "https://open.spotify.com/track/6BXUGrMChRpa4jXpUJWseE"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -275,22 +275,18 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "neo roneo",
-        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
       "artists": [
         {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 166704,
-      "name": "neo roneo",
-      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
+      "duration_ms": 176146,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -311,6 +307,26 @@
       "duration_ms": 242000,
       "name": "Loveseat",
       "url": "https://open.spotify.com/track/3XBycqVB8UDEtEboLU9iJT"
+    },
+    {
+      "added_at": "2026-03-06 05:00:21",
+      "album": {
+        "name": "neo roneo",
+        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 166704,
+      "name": "neo roneo",
+      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -419,6 +435,22 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 279506,
+      "name": "Ecstatic Heads",
+      "url": "https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2"
+    },
+    {
+      "added_at": "2026-03-06 05:00:21",
+      "album": {
         "name": "lucre",
         "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
       },
@@ -435,22 +467,6 @@
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
-    },
-    {
-      "added_at": "2026-03-06 05:00:21",
-      "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 279506,
-      "name": "Ecstatic Heads",
-      "url": "https://open.spotify.com/track/6h8nLmwNxWrHKYm9p28oc2"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -503,22 +519,6 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "Heavy Metal",
-        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
-      },
-      "artists": [
-        {
-          "name": "Cameron Winter",
-          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
-        }
-      ],
-      "duration_ms": 251637,
-      "name": "Nausica\u00e4 (Love Will Be Revealed)",
-      "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
-    },
-    {
-      "added_at": "2026-03-06 05:00:21",
-      "album": {
         "name": "Woman Lake",
         "url": "https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-03-06 05:00:21",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 251637,
+      "name": "Nausica\u00e4 (Love Will Be Revealed)",
+      "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -583,22 +599,6 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/2cF9Jv83As09soxqHeJuuf"
-      },
-      "artists": [
-        {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
-        }
-      ],
-      "duration_ms": 196302,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff"
-    },
-    {
-      "added_at": "2026-03-06 05:00:21",
-      "album": {
         "name": "Fool Moon (Cruised) / Swan AAA +1",
         "url": "https://open.spotify.com/album/5ukVoKIQuNe467KeCeYk01"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 231500,
       "name": "Fool Moon (Cruised) Feat. PWNT",
       "url": "https://open.spotify.com/track/5EvRDvtQFIAsbr6ucVD4mM"
+    },
+    {
+      "added_at": "2026-03-06 05:00:21",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/2cF9Jv83As09soxqHeJuuf"
+      },
+      "artists": [
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 196302,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/2ykiSY1uHTHCBVpbym4Uff"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -923,22 +939,6 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "Divinations",
-        "url": "https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 236346,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a"
-    },
-    {
-      "added_at": "2026-03-06 05:00:21",
-      "album": {
         "name": "From 2 to 3",
         "url": "https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 257007,
       "name": "Give Up Baby Go",
       "url": "https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy"
+    },
+    {
+      "added_at": "2026-03-06 05:00:21",
+      "album": {
+        "name": "Divinations",
+        "url": "https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 236346,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "Second Sleep / Star Eyes",
-        "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Second Sleep",
-      "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
-    },
-    {
-      "added_at": "2026-03-06 05:00:21",
-      "album": {
         "name": "In Russia. A is a 9",
         "url": "https://open.spotify.com/album/2puthl2ughnGeS7jor8GJU"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 209534,
       "name": "Losing Focus",
       "url": "https://open.spotify.com/track/1dfs70eiZmlIo88oDCjodF"
+    },
+    {
+      "added_at": "2026-03-06 05:00:21",
+      "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 142456,
+      "name": "Police Scanner",
+      "url": "https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "Your Day Will Come",
-        "url": "https://open.spotify.com/album/0TX4JFqSmYn8T7qMpZbvGY"
+        "name": "Second Sleep / Star Eyes",
+        "url": "https://open.spotify.com/album/3EdUtcidzDOrmwRn31dfuU"
       },
       "artists": [
         {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 142456,
-      "name": "Police Scanner",
-      "url": "https://open.spotify.com/track/1uLOYD6T0wdpOD8FcgsPuv"
+      "duration_ms": 288453,
+      "name": "Second Sleep",
+      "url": "https://open.spotify.com/track/47N21fn8V8IN392MGlicT5"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "Mark William Lewis",
-        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
-      },
-      "artists": [
-        {
-          "name": "mark william lewis",
-          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
-    },
-    {
-      "added_at": "2026-03-06 05:00:21",
-      "album": {
         "name": "Earthstar Mountain",
         "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 301242,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg"
+    },
+    {
+      "added_at": "2026-03-06 05:00:21",
+      "album": {
+        "name": "Mark William Lewis",
+        "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
     },
     {
       "added_at": "2026-03-06 05:00:21",
@@ -1635,26 +1651,6 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "Beck n Call",
-        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        },
-        {
-          "name": "ttoh",
-          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Beck n Call",
-      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
-    },
-    {
-      "added_at": "2026-03-06 05:00:21",
-      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -1695,18 +1691,22 @@
     {
       "added_at": "2026-03-06 05:00:21",
       "album": {
-        "name": "special",
-        "url": "https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj"
+        "name": "Beck n Call",
+        "url": "https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI"
       },
       "artists": [
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
         }
       ],
-      "duration_ms": 138861,
-      "name": "special",
-      "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+      "duration_ms": 203320,
+      "name": "Beck n Call",
+      "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
     }
   ],
   "unique_name": "Indie Chillout",

@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABg6IFHhja87qrkTwUgpYjM7c2FqaE",
+  "snapshot_id": "AAABhc0QvLI2Fvlx03a3m1ve2oCF/6JR",
   "tracks": [
     {
       "added_at": "2025-10-04 15:07:39",
@@ -367,6 +367,38 @@
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "added_at": "2026-03-09 11:44:33",
+      "album": {
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 154606,
+      "name": "Never Ending Song",
+      "url": "https://open.spotify.com/track/5468fNbvpCnangJjmnc5V0"
+    },
+    {
+      "added_at": "2026-03-09 11:44:38",
+      "album": {
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 151738,
+      "name": "Bourgeoisieses",
+      "url": "https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"
     }
   ],
   "unique_name": "THE playlist",

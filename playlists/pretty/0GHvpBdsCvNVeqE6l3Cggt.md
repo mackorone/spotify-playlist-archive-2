@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,300 likes - 48 songs - 3 hr 2 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 46 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 |
 | 47 | [Drunk on Expectations](https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [Drunk on Expectations](https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz) | 2:57 |
 | 48 | [yung n dumb](https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK) | [Marc Vinyls](https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8) | [yung n dumb](https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj) | 1:52 |
+| 49 | [LOCO](https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n) | [ZIG LA RIME](https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N) | [LOCO](https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd) | 2:12 |
 
-Snapshot ID: `AAAkAp7xzA92goA58lAD8Nb58bVSX9vL`
+Snapshot ID: `AAAkAyL1w/8mRPHiGq7aSHAvdVRzSmsp`

@@ -2,7 +2,7 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Baby Rexha
+> Your weekly dose of new dance\. Cover: Bebe Rexha
 
 3,813 songs - 8 day 16 hr 53 min
 

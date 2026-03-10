@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-255 songs - 21 hr 52 min
+256 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,12 +45,13 @@
 | [Bubbles](https://open.spotify.com/track/2pRpSND6CcxuZYfBlccZXN) | [Jacob Karlzon Trio](https://open.spotify.com/artist/1ap7d4ByxAHY8C3QnedJH7) | [Jacob Karlzon Trio: Today](https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA) | 5:06 | 2021-12-21 | 2022-07-29 |
 | [Bye Bye Blackbird \- Live](https://open.spotify.com/track/6uOOsk7EiY6KUPOrrZZ3T1) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [Bye Bye Blackbird \(Live\)](https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE) | 7:02 | 2022-02-10 | 2025-11-22 |
 | [Came and Went](https://open.spotify.com/track/4U04pGOxmK2x1ily3xbRJR) | [Geoffrey Dean](https://open.spotify.com/artist/0nQ0ewyoymNbuOpW9HecWE) | [Came and Went](https://open.spotify.com/album/0O5R1D3Swqfd259ZwdGf3j) | 5:35 | 2025-01-31 | 2025-11-08 |
-| [Casual – Lee](https://open.spotify.com/track/1eAdHNRLWded0ioKpyIbgi) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Casual \- Lee](https://open.spotify.com/album/3pyn1EAOOmVzAQbn4ckGbh) | 6:37 | 2026-02-06 |  |
+| [Casual – Lee](https://open.spotify.com/track/1eAdHNRLWded0ioKpyIbgi) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Casual \- Lee](https://open.spotify.com/album/3pyn1EAOOmVzAQbn4ckGbh) | 6:37 | 2026-02-06 | 2026-03-10 |
 | [central park west](https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [central park west](https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG) | 4:28 | 2024-01-26 |  |
 | [central park west](https://open.spotify.com/track/5jPy6437F28samqS2tJu7n) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 4:28 | 2024-02-20 | 2024-04-19 |
 | [Chalcedon](https://open.spotify.com/track/4SRS9WPIKQ2utUk5ojd4XY) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Alternate Summer](https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C) | 6:16 | 2024-08-23 | 2024-09-13 |
 | [Cherry Coffee](https://open.spotify.com/track/0Y9UzlQjWC5a10L9Gmo4KB) | [James Butler](https://open.spotify.com/artist/5BVCx8PM4yCayPORiTmmgA) | [Coffee & Jazz](https://open.spotify.com/album/3L7Nkvi8EWJqDNaczof0u9) | 2:21 | 2024-05-31 | 2024-06-12 |
 | [Choctaw Alley](https://open.spotify.com/track/6nFCsAi3K3pOegQLOOX3OG) | [Jesse Davis](https://open.spotify.com/artist/2uFsCpn3Cqi3ml8QXYqfOs), [Lewis Nash](https://open.spotify.com/artist/2v2TVDl1P2YDSy9jXntWFt) | [Choctaw Alley](https://open.spotify.com/album/5GJ85LlMnvSKZa4vCHax0f) | 6:23 | 2026-01-23 |  |
+| [Circus](https://open.spotify.com/track/4WaueK654l7uuPzuM25jqU) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Twio Vol\. 2](https://open.spotify.com/album/6FeF2mRDXdsvuz5gNNHDBs) | 4:52 | 2026-03-09 |  |
 | [Cloudland](https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cloudland](https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng) | 4:34 | 2022-02-10 |  |
 | [Colour Yes \- Special Edition](https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46) | 8:41 | 2024-09-06 | 2025-03-22 |
 | [Compromises](https://open.spotify.com/track/6teUPQnEbgYScxhKjVNcOc) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Arne Torvik](https://open.spotify.com/artist/3T69SoM3RxKdkpQd2gn2iv), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Compromises](https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM) | 3:05 | 2021-12-21 |  |

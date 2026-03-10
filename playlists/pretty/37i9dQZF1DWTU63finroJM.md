@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 ### [RADAR Global ](https://open.spotify.com/playlist/37i9dQZF1DWTU63finroJM)
 
-> Meet the future of music around the world\. Cover: Fernanda Díaz
+> Meet the future of music around the world\. Cover: wane
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,971 likes - 37 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,016 likes - 37 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
 | 2 | [Odegaard](https://open.spotify.com/track/0GUZWr03s8y0x4BpvXGhDH) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Odegaard](https://open.spotify.com/album/4s684epQ5Mto0TmrdMgCnR) | 1:49 |
 | 3 | [savior](https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [savior](https://open.spotify.com/album/2JP5Mp4SKK352Jeb4mLrUa) | 2:43 |
-| 4 | [BLINDERS](https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BLINDERS](https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp) | 3:34 |
-| 5 | [J'Suis Pas Bo](https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !](https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn) | 2:31 |
+| 4 | [J'Suis Pas Bo](https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Mesdames, Messieurs !](https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn) | 2:31 |
+| 5 | [BLINDERS](https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BLINDERS](https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp) | 3:34 |
 | 6 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
 | 7 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
 | 8 | [溝之口 沒有 藤井風](https://open.spotify.com/track/4oJ48e7NpKp5q1PV29B48M) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [溝之口 沒有 藤井風](https://open.spotify.com/album/5jWf608RiFad3ns8WtMOTz) | 3:32 |

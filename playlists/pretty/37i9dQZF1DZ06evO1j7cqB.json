@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11387,
+  "num_followers": 11386,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABaws7i1t+Q6I2KV5KS7hSc",
+  "snapshot_id": "aay8AAAAAABTukDn22KdsKm8wHsVwQFf",
   "tracks": [
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Percy Jackson and the Olympians: Season 2 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4"
+        "name": "Outlander: Season 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 138420,
-      "name": "Percy Jackson and the Olympians (Season 2 Theme)",
-      "url": "https://open.spotify.com/track/2KBYU1it0E77OQixoXqztq"
+      "duration_ms": 209746,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Percy Jackson and the Olympians: Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1NMTLznBXQWex0NA9hpEk4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 138420,
+      "name": "Percy Jackson and the Olympians (Season 2 Theme)",
+      "url": "https://open.spotify.com/track/2KBYU1it0E77OQixoXqztq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Season 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
       },
@@ -627,30 +627,6 @@
       "duration_ms": 154560,
       "name": "Godzilla Main Title",
       "url": "https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Rory Kinnear",
-          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
-        },
-        {
-          "name": "Daniel Weyman",
-          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
-        }
-      ],
-      "duration_ms": 139988,
-      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
-      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
     },
     {
       "added_at": null,
@@ -687,6 +663,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Rory Kinnear",
+          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
+        },
+        {
+          "name": "Daniel Weyman",
+          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
+        }
+      ],
+      "duration_ms": 139988,
+      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
+      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5txUaOE0Skafk1JBkyzc7V"
       },
@@ -699,54 +699,6 @@
       "duration_ms": 204666,
       "name": "Brianna and Roger Theme",
       "url": "https://open.spotify.com/track/7HvFEJxUMSKnfcZVJcRtur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 160069,
-      "name": "Forgiveness Takes an Age",
-      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 209624,
-      "name": "Black Flags",
-      "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Echoes of an Old Life (From \"God of War\" Soundtrack)",
-      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
     },
     {
       "added_at": null,
@@ -775,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 209624,
+      "name": "Black Flags",
+      "url": "https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -782,15 +750,27 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 190186,
-      "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
-      "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
+      "duration_ms": 160069,
+      "name": "Forgiveness Takes an Age",
+      "url": "https://open.spotify.com/track/667hyG6LZ5wlyWEusTen9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Echoes of an Old Life (From \"God of War\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
     },
     {
       "added_at": null,
@@ -807,26 +787,6 @@
       "duration_ms": 392964,
       "name": "Infirmary",
       "url": "https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sophia Nomvete",
-          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "A Plea to the Rocks",
-      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
     },
     {
       "added_at": null,
@@ -860,13 +820,33 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Benjamin Walker",
-          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 198872,
-      "name": "Golden Leaves (feat. Benjamin Walker)",
-      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
+      "duration_ms": 190186,
+      "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Four: The Great Wave - Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sophia Nomvete",
+          "url": "https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "A Plea to the Rocks",
+      "url": "https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l"
     },
     {
       "added_at": null,
@@ -891,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander: Blood of my Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+        "name": "Battlestar Galactica: Season 1 (Original Soundtrack) [Remastered]",
+        "url": "https://open.spotify.com/album/7neV6oTowNHwpXXXbDOEzv"
       },
       "artists": [
         {
@@ -900,9 +880,29 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         }
       ],
-      "duration_ms": 238314,
-      "name": "The Julia and Henry Theme",
-      "url": "https://open.spotify.com/track/5L97IMqGQrDaHMQaCeg3pQ"
+      "duration_ms": 315440,
+      "name": "Passacaglia",
+      "url": "https://open.spotify.com/track/5B7UhhIGDHgcvY1TdnLl8x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Benjamin Walker",
+          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
+        }
+      ],
+      "duration_ms": 198872,
+      "name": "Golden Leaves (feat. Benjamin Walker)",
+      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
     }
   ],
   "unique_name": "This Is Bear McCreary",

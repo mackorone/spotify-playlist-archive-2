@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 241425,
+  "num_followers": 241447,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAmbiejM+gQqhLYiDa/FnBE",
+  "snapshot_id": "aay8AAAAAAAaJysfu7nKfnYgqhSytzWI",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Momentos",
-        "url": "https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 216746,
       "name": "M\u00edrame Bien",
       "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Momentos",
+        "url": "https://open.spotify.com/album/7L5G2yWZKE08abmnCUvW49"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/3JBFUsZatpE435Y8ejP7RZ"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mar Dulce",
         "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 218920,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": null,

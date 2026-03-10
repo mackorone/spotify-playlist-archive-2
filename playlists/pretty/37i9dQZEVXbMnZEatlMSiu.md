@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMnZEatlMSiu.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,392 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,420 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMnZEatlMSiu.md) - [plain]
 | 49 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 |
 | 50 | [浪流連](https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [我們以後要結婚](https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL) | 4:13 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

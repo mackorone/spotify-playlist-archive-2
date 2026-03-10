@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Liberator",
+        "url": "https://open.spotify.com/album/6vxV7EI4zVwR1vnlX5BTdv"
+      },
+      "artists": [
+        {
+          "name": "PassCode",
+          "url": "https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "AWANE",
+      "url": "https://open.spotify.com/track/2TjgAzVAixQAsTUQnd8r4V"
+    },
+    {
+      "album": {
         "name": "HYPERBEAT",
         "url": "https://open.spotify.com/album/1a9JgHD0ZcwHSZ35wQ7v14"
       },
@@ -5436,7 +5454,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-26",
+      "date_removed": null,
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
@@ -5812,7 +5830,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 237813,
       "name": "Something New",
       "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
@@ -8232,7 +8250,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 252200,
       "name": "\u5b8c\u5168\u611f\u899aDreamer",
       "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"

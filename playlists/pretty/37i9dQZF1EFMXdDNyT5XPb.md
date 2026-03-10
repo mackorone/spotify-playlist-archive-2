@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 109 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 109 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 34 | [Beautiful Life](https://open.spotify.com/track/7riLWN8xJpulvAYzvFcKS4) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [Union J \(Deluxe\)](https://open.spotify.com/album/3uUmVrNEI2rGGeaREn3zlE) | 4:03 |
 | 35 | [Beautiful to Me](https://open.spotify.com/track/7fa1oiFqQFhlO8ghtLIGpR) | [Shane Filan](https://open.spotify.com/artist/3Q2ya2vGeOhQ9CaF9wWNP6) | [Right Here](https://open.spotify.com/album/2X5hXnYddswmHZUDOsHq0D) | 3:33 |
 | 36 | [Hole in My Heart](https://open.spotify.com/track/6KOCCvjH3DEyUPhjjfOsP3) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Hole in My Heart](https://open.spotify.com/album/1vKIu5jM2MeRMo6aCfNvIi) | 3:08 |
-| 37 | [Never Give Up on Us](https://open.spotify.com/track/6T7Z0YRT0cHxkhmcNkkqSf) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Never Give Up on Us](https://open.spotify.com/album/34UFv48EtDCZ0dJkDPGT07) | 3:48 |
-| 38 | [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 |
+| 37 | [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 |
+| 38 | [Never Give Up on Us](https://open.spotify.com/track/6T7Z0YRT0cHxkhmcNkkqSf) | [Connie Talbot](https://open.spotify.com/artist/6v6kEdFKqKZ2T7XjjBD9um) | [Never Give Up on Us](https://open.spotify.com/album/34UFv48EtDCZ0dJkDPGT07) | 3:48 |
 | 39 | [Stick the Kettle On](https://open.spotify.com/track/7Mob9AxqWbMbhV0PKbRrSG) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Today Was a Good Day \(Deluxe\)](https://open.spotify.com/album/2OvioEMUJr9AlI02k6KnT4) | 2:55 |
 | 40 | [Then There Was You \- From "The Garfield Movie"](https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Then There Was You \(From "The Garfield Movie"\)](https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U) | 2:42 |
 | 41 | [Adrenaline](https://open.spotify.com/track/2eR6FzowkVYAOBdZrO1VPj) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [SUCKAPUNCH](https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t) | 3:30 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 108 | [Breaking My Back](https://open.spotify.com/track/2BMzyOMgpmVRF9vqzYXGvA) | [Sons of William](https://open.spotify.com/artist/7JLB199dcJqEozdoTndjQo) | [Sons Of William](https://open.spotify.com/album/5tN9cixqUntcylVZ2T4f6K) | 2:25 |
 | 109 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcLnQAAAAAAeAWqmLqcmkNBhDGaUmiCl`
+Snapshot ID: `AcLs4AAAAACJNaBRxt8m57zszSrDQPBC`

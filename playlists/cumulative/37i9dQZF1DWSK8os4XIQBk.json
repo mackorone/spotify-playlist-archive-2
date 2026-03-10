@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "A Man Without A Woman",
+        "url": "https://open.spotify.com/album/7alDpK3rtHDlToG8GFxpxm"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215002,
+      "name": "A Man Without A Woman",
+      "url": "https://open.spotify.com/track/0qAuzgQAd3jdfYLm7Z4NdO"
+    },
+    {
+      "album": {
         "name": "A Real Man",
         "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
       },
@@ -1498,6 +1516,24 @@
       "duration_ms": 186453,
       "name": "better be tough",
       "url": "https://open.spotify.com/track/0gmQyWfN1iSYnwLMOlMPLi"
+    },
+    {
+      "album": {
+        "name": "Night Diving",
+        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "Better Me For You (Brown Eyes)",
+      "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
     },
     {
       "album": {
@@ -3542,7 +3578,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 150138,
       "name": "Crushin' Cans",
       "url": "https://open.spotify.com/track/6AZdHnCPvDw8ePLHVDY9o4"
@@ -4466,7 +4502,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 148031,
       "name": "Drink Around",
       "url": "https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv"
@@ -6748,6 +6784,28 @@
       "duration_ms": 135133,
       "name": "Home (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/7LaLY7dkzWEtmtJ8o7oD05"
+    },
+    {
+      "album": {
+        "name": "Hometown Heroes (feat. Dean Brody)",
+        "url": "https://open.spotify.com/album/7oNjPhQc4OEP93PWPFecsp"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        },
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223538,
+      "name": "Hometown Heroes (feat. Dean Brody)",
+      "url": "https://open.spotify.com/track/6p7rRIvBUDsWkJoJpTYMIo"
     },
     {
       "album": {
@@ -10538,7 +10596,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 149854,
       "name": "Never Drinking Again",
       "url": "https://open.spotify.com/track/6h6ncnPmJ1qa75RcjmlkuK"

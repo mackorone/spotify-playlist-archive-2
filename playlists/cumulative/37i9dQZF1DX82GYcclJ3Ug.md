@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Metric
 
-3,427 songs - 7 day 20 hr 22 min
+3,428 songs - 7 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1301,6 +1301,7 @@
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2023-12-08 | 2024-01-13 |
 | [HEADLIGHT](https://open.spotify.com/track/6JpeHE4nPtPHnjLrzwvf2m) | [Quarters](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [HEADLIGHT/PERFECT WORD](https://open.spotify.com/album/6KCyQDhgzEKABJST37Vao4) | 2:03 | 2026-01-16 | 2026-02-28 |
 | [Headsweat](https://open.spotify.com/track/4R0lJ8go7EFcqHYEJln0xz) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Headsweat](https://open.spotify.com/album/19KlvLIGg73WDRstbHCrf0) | 3:01 | 2022-07-15 | 2022-08-13 |
+| [Heard What You Said](https://open.spotify.com/track/5rX8YRB4QrwKX1Gdneg57a) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 3:05 | 2026-03-09 |  |
 | [Hearse For Two \(feat\. Lilith Czar\)](https://open.spotify.com/track/0Z831ytcQOgMDimNBObLCI) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Hearse For Two \(feat\. Lilith Czar\)](https://open.spotify.com/album/5QbqhKYmOEBFk5ggMocBPf) | 3:28 | 2025-02-14 | 2025-04-12 |
 | [Heart Medicine](https://open.spotify.com/track/0Ymr7bBhvXLu8xrpCN2GUs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Heart Medicine](https://open.spotify.com/album/6vTgHn3r0keWWSSHbGeybq) | 2:44 | 2023-06-16 | 2023-09-23 |
 | [Heart To Heart](https://open.spotify.com/track/0ReAOLM3cKp3OQktV32ruJ) | [Now More Than Ever](https://open.spotify.com/artist/4rs2uBw6Y9uBQ1eJ0gFRwl) | [Heart To Heart](https://open.spotify.com/album/7K59JMBaDefg9AjOWhkSem) | 2:49 | 2022-12-09 | 2023-03-18 |

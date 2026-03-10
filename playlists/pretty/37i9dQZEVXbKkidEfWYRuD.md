@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,312 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,315 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 | 49 | [Генгста](https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt) | [Drevo](https://open.spotify.com/artist/2FbcO51yLIYdfqIQXocwVg) | [Генгста](https://open.spotify.com/album/6KRyzLpc7v8is3WVUmVoNP) | 3:20 |
 | 50 | [Рана](https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Рана](https://open.spotify.com/album/1bfoR7QMS6sbBQ3H6EWW1H) | 2:01 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

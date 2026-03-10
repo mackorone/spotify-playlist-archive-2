@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 627210,
+  "num_followers": 627281,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABL8U9ozV2xlJi6/O+RBt6r",
+  "snapshot_id": "aay8AAAAAADenmvreMZNFlEVg0vuFkKs",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 196613,
-      "name": "I, Carrion (Icarian)",
-      "url": "https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf"
+      "duration_ms": 227826,
+      "name": "De Selby (Part 2)",
+      "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 227826,
-      "name": "De Selby (Part 2)",
-      "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
+      "duration_ms": 196613,
+      "name": "I, Carrion (Icarian)",
+      "url": "https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "Moment's Silence (Common Tongue)",
-      "url": "https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Parting Glass (Live from the Late Late Show)",
         "url": "https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 135133,
       "name": "The Parting Glass - Live from the Late Late Show",
       "url": "https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "Moment's Silence (Common Tongue)",
+      "url": "https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8"
     },
     {
       "added_at": null,

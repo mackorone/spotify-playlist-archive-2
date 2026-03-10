@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,959 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,958 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 35 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
 | 36 | [Ke Kali Nei Au \- The Hawaiian Wedding Song](https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb) | [Hawaii Calls Orchestra](https://open.spotify.com/artist/3YGJZFuhB4CAX3QAWDvQ79) | [Hawaii's Favorite Music Vol\. II \- Instrumentals](https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx) | 3:10 |
 | 37 | [Perfidia](https://open.spotify.com/track/3Zgl5jhVzcK9ZQdrj4WIUR) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Lo Mejor De Xavier Cugat Y Su Orquesta](https://open.spotify.com/album/5nNGjwNd47TTnMWUnEa5he) | 3:27 |
-| 38 | [Mini Skirt](https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:29 |
-| 39 | [Lust](https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:59 |
+| 38 | [Lust](https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:59 |
+| 39 | [Mini Skirt](https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:29 |
 | 40 | [Hawaiian Wedding Song](https://open.spotify.com/track/6c3nHwUXBRVJxF2tLRj16w) | [The Surfmen](https://open.spotify.com/artist/5DZTIpbNQehcLsiQYRQQPV) | [Chill Out Hawaiian Music](https://open.spotify.com/album/0eirWmh8yL6BAJcyijggSJ) | 1:43 |
 | 41 | [My Three Sons \- Remastered](https://open.spotify.com/track/67OLtDm3jaMdhywCIxZNgP) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ultra\-Lounge / Tiki Sampler](https://open.spotify.com/album/1M1KRm2CzwxzwJvQ3ZqzlU) | 2:22 |
 | 42 | [Within The Temple Of Macuilizochitl](https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4) | [Elisabeth Waldo](https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF) | [Sacred Rites \(Rites of the Pagan / Realm of the Incas\)](https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L) | 3:07 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 59 | [Loads of Love](https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz) | [Joe Harnell His Piano And Orchestra](https://open.spotify.com/artist/3WhRGRPieFbdf9HKgyVHaM) | [Fly Me to the Moon and the Bossa Nova Pops](https://open.spotify.com/album/554YoVzdZW43JXVXl4E8gm) | 2:46 |
 | 60 | [Mareld 2021](https://open.spotify.com/track/7vTne4h3Rxpk8lCRfcONXJ) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Mareld 2021](https://open.spotify.com/album/7dGU6JD2hxL29IZ1jlfoyi) | 3:02 |
 | 61 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 |
-| 62 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
-| 63 | [Sweet Leilani](https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2) | [Lawrence Welk & His Orchestra](https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R) | [Songs Of The Islands](https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x) | 2:18 |
-| 64 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |
+| 62 | [Sweet Leilani](https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2) | [Lawrence Welk & His Orchestra](https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R) | [Songs Of The Islands](https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x) | 2:18 |
+| 63 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |
+| 64 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
 | 65 | [Ringo Oiwake](https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1) | [Ethel Azama](https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV) | [Cool Heat + Exotic Dreams](https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK) | 2:34 |
 | 66 | [Bim\-Boo](https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP) | [Chaino](https://open.spotify.com/artist/6odPRDb7fKDOFYPZQvEQlp) | [Kirby Allen Presents: Eye Of The Spectre](https://open.spotify.com/album/5n6we7GWIrbonq6GeKWOkO) | 3:27 |
 | 67 | [Hana Maui](https://open.spotify.com/track/44af8bRzfNjWQrx28h2eeP) | [Chick Floyd & His Orchestra](https://open.spotify.com/artist/4eamYt7q78mgbl55OkWBxW) | [Exotic World](https://open.spotify.com/album/5Q5D1PmZjo2l6bG3dOsKQ5) | 3:21 |

@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1176087,
+  "num_followers": 1176163,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "Ants From Up There",
-        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 363773,
-      "name": "Concorde",
-      "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 176466,
       "name": "Campus",
       "url": "https://open.spotify.com/track/1eNrlXlW7Cj1QB1YUcZmpb"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 363773,
+      "name": "Concorde",
+      "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "In Mind",
-        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 260386,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "The King Is Dead",
         "url": "https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 256560,
       "name": "Don't Carry It All",
       "url": "https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "In Mind",
+        "url": "https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 260386,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "When The Night (Deluxe)",
-        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 308360,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 237693,
       "name": "Coins",
       "url": "https://open.spotify.com/track/53I7CviVHhNYEKth717RLG"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "When The Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 308360,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
     },
     {
       "added_at": "2025-06-23 14:31:12",

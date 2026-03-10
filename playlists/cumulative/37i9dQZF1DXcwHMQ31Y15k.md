@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: NDX A.K.A.
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Esa Risty
 
-579 songs - 2 day 0 hr 33 min
+583 songs - 2 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Kangen](https://open.spotify.com/track/6MvizcfBosmHSrNgZuheAh) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kangen](https://open.spotify.com/album/6IZxiBZJTNZaRmJ0dNxpwf) | 5:32 | 2025-10-10 | 2025-11-14 |
 | [Kangen Bali Ndeso](https://open.spotify.com/track/1hr1xhmLrwPKee1YT5Z9US) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0sp7XtTa4O9BqJIDBi8FhQ) | 3:19 | 2023-05-04 | 2023-07-29 |
 | [Kangen Bali Ndeso](https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU) | 3:19 | 2022-09-01 | 2023-05-08 |
+| [Kanggo Kowe](https://open.spotify.com/track/4yGCc3TSHQIkvQetlFTpmy) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Kanggo Kowe](https://open.spotify.com/album/2ajHMLw4TUMKlDKFGZTiKA) | 4:40 | 2026-03-09 |  |
 | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/track/4YQ5EKOsHCNKZLIuUQkDAM) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv), [Ajeng Yulia Abdilla](https://open.spotify.com/artist/6KNevSfPmGyAXGulaz95Hl) | [Kapang \(feat\. Ajeng Yulia Abdilla\)](https://open.spotify.com/album/0YLvl6OFE7wBC1uFRQgNPY) | 5:39 | 2023-12-08 | 2024-02-09 |
 | [Kapang \- Acoustic Version](https://open.spotify.com/track/6f7p0FiKZsMyXF3kN8ZfQd) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Kapang \(Acoustic Version\)](https://open.spotify.com/album/6eLiJGKbsoNWGlByJ3CM40) | 4:39 | 2024-02-16 | 2024-03-30 |
 | [Kapusan](https://open.spotify.com/track/3wSdgNJVOdyc00wE1Cn1V4) | [svaranara](https://open.spotify.com/artist/7hT9A08VWANxP6hZQ1VXik) | [Kapusan](https://open.spotify.com/album/4QGiUi1b50xhRhENTGwC3U) | 3:55 | 2025-03-20 | 2025-05-02 |
@@ -411,6 +412,7 @@
 | [PUJANINGSIH](https://open.spotify.com/track/5HJ6EpywbFvVl7T8MaGjug) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [PUJANINGSIH](https://open.spotify.com/album/0omqUjODctC7iOr6ykcTLj) | 5:46 | 2024-08-29 | 2025-02-21 |
 | [Pungkas](https://open.spotify.com/track/4sVArZtZaWWyAa1uRhuDtw) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Pungkas](https://open.spotify.com/album/2ZjIMz1UN6S7uQxMeX1pKi) | 4:36 | 2024-02-16 | 2024-03-30 |
 | [Pupus](https://open.spotify.com/track/1B03UqsH5VJ5YQSO1ew0aP) | [Evan Sanders](https://open.spotify.com/artist/1qiBflbBz0FZdGLkoTH0uM) | [Pupus](https://open.spotify.com/album/1btDc2Ec1fnYrdMsf0VeRc) | 4:27 | 2024-10-31 | 2025-01-03 |
+| [Puspita Nala](https://open.spotify.com/track/79XJjDgGqrUBBx2ziwcTeY) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Mabes Balker](https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI) | [Puspita Nala](https://open.spotify.com/album/4oU1zaXsqnu05L7TjPQWQ9) | 4:48 | 2026-03-09 |  |
 | [Putri Shanghai](https://open.spotify.com/track/3WXVIA4xWlWVHgKQ7BzA1n) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5) | 3:00 | 2024-03-08 | 2024-07-27 |
 | [Putri Shanghai](https://open.spotify.com/track/5SDMXIi9qDUhFeAwkWiQus) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Putri Shanghai](https://open.spotify.com/album/63UvRwzqEhOIWgqGu5ZFig) | 3:00 | 2024-03-14 | 2024-04-19 |
 | [Putusen Isun](https://open.spotify.com/track/0BOqquPAmK8CQfAakY2era) | [Suci Tacik](https://open.spotify.com/artist/3TKvWnJYLr7jadsDJkyNod) | [Putusen Isun](https://open.spotify.com/album/4FIbk7xS83FyEBDaoP0YV5) | 4:32 | 2022-07-29 | 2023-06-16 |
@@ -583,7 +585,9 @@
 | [Wis Suwe](https://open.spotify.com/track/2LcUKD0CzqpKXOxZw5bilF) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Kirom](https://open.spotify.com/artist/1VJhGq3bMl48DBbLxoJt9e) | [Wis Suwe](https://open.spotify.com/album/7wmnZAEqH7KGv5U8OVej7X) | 4:45 | 2025-12-12 |  |
 | [Wkwkwk](https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Wkwkwk](https://open.spotify.com/album/18Gtv8JfqAIwVwLuShicWm) | 4:03 | 2022-07-14 | 2022-07-22 |
 | [Wong Sepele](https://open.spotify.com/track/3UpBURXLePX1rVrH5RdndE) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Fauzi Haidi](https://open.spotify.com/artist/16GONCEkIfXCfSzgsuJBBJ) | [Wong Sepele](https://open.spotify.com/album/79fUg4zJxfJnrehgiN9DvT) | 4:34 | 2025-07-22 |  |
+| [WONG SEPELE \- Special Live Session](https://open.spotify.com/track/1ZW8jjnvrcuD2THJ71Ihdd) | [Losskita](https://open.spotify.com/artist/6gFk218PI8SlzkhDHR0LfL) | [WONG SEPELE \(Special Live Session\)](https://open.spotify.com/album/2Zyj5698d6tRkZWm54Mucx) | 4:52 | 2026-03-09 |  |
 | [Wongliyo Ngerti Opo](https://open.spotify.com/track/6gHdhWdC2cdv6O4bMFXe2f) | [Imogiri Boys](https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3) | [Wongliyo Ngerti Opo](https://open.spotify.com/album/5KyUH0zimFbYkYOlzYzLKa) | 3:56 | 2025-09-25 |  |
+| [Wulan Suci](https://open.spotify.com/track/1UaG1Vewr1NWstMecYrSfZ) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Diva Hani](https://open.spotify.com/artist/0rY381w1KbZR9IUPhp2ppK) | [Wulan Suci](https://open.spotify.com/album/2Cz6LGDvOQlJrr1enK3ok3) | 6:24 | 2026-03-09 |  |
 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 | 2022-05-26 | 2022-11-14 |
 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 | 2024-06-14 | 2025-10-24 |
 | [Yowis! \- Koplo](https://open.spotify.com/track/6uatCDtgBGZM22PQ1HFhHb) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Yowis! \(Koplo\)](https://open.spotify.com/album/61f6QjZDfdn7o3T4ahIplo) | 4:46 | 2022-05-26 | 2022-09-16 |

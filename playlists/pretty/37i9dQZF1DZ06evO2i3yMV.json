@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8663,
+  "num_followers": 8662,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAfm++ZVvjYcut/0clMoujG",
+  "snapshot_id": "aay8AAAAAAAxDXtlQ4PQn0fm7x7mvKBN",
   "tracks": [
     {
       "added_at": null,
@@ -139,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 309145,
       "name": "Darkest (Dim)",
       "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy"
     },
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINGOS DESERT",
-        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 198567,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die Trying",
         "url": "https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 175680,
       "name": "Die Trying",
       "url": "https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINGOS DESERT",
+        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 198567,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 146441,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/5JLSIy36h3QNQoanUJOd98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On Sum (MPH Remix)",
         "url": "https://open.spotify.com/album/2GG04Ana1NWA4pScy2s0RO"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 232848,
       "name": "On Sum - MPH Remix",
       "url": "https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 146441,
-      "name": "Gamble",
-      "url": "https://open.spotify.com/track/5JLSIy36h3QNQoanUJOd98"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "For My Eternal, Oh Dream My Treasure",
-      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midnight Menu",
         "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 220032,
       "name": "Lovely Soul",
       "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 280022,
-      "name": "Up and Out",
-      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 214588,
       "name": "Love That Never - IMANU Remix",
       "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 280022,
+      "name": "Up and Out",
+      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Reverie",
         "url": "https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU"
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 209280,
-      "name": "Soul to Seoul",
-      "url": "https://open.spotify.com/track/2ky2TxpMH6PSoQmwGxeK2N"
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 211764,
       "name": "Heart on the Ground",
       "url": "https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/1jvY3JDZfN7n1mEJqkkApU"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Soul to Seoul",
+      "url": "https://open.spotify.com/track/2ky2TxpMH6PSoQmwGxeK2N"
     },
     {
       "added_at": null,
@@ -839,50 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Floating (feat. Candy Crush Saga)",
-        "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 173096,
-      "name": "Floating - feat. Candy Crush Saga",
-      "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO WAY",
-        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 204077,
-      "name": "NO WAY",
-      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -919,6 +875,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 204077,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Floating (feat. Candy Crush Saga)",
+        "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "Floating - feat. Candy Crush Saga",
+      "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -935,22 +935,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "PARTYOF2",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
         }
       ],
-      "duration_ms": 227533,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V"
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

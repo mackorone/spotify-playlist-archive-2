@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2163371,
+  "num_followers": 2163868,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Seminole Wind",
-        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
-      },
-      "artists": [
-        {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "Straight Tequila Night",
-      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+        "name": "Seminole Wind",
+        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
+      "duration_ms": 173866,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -727,6 +711,22 @@
       "duration_ms": 201600,
       "name": "Where The Green Grass Grows",
       "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Livin' On Love",
-      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
+      "duration_ms": 260493,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 260493,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
+      "duration_ms": 229560,
+      "name": "Livin' On Love",
+      "url": "https://open.spotify.com/track/15gU2OepIEbeNTBbes6pIF"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
         }
       ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
       },
       "artists": [
         {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
-      },
-      "artists": [
-        {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
-        }
-      ],
-      "duration_ms": 200533,
-      "name": "Ain't That Lonely Yet",
-      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Brand New Man",
         "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 197640,
       "name": "Boot Scootin' Boogie",
       "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 200533,
+      "name": "Ain't That Lonely Yet",
+      "url": "https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w"
     },
     {
       "added_at": "2026-02-11 22:52:29",

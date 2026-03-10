@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > Hallgasd teljes hangerővel ezeket a kíváló női előadókat\. A lejátszási listát részben a girlhood készítette!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,376 likes - 59 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,377 likes - 59 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

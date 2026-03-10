@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 90733,
+  "num_followers": 90739,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-01-28 11:21:13",
       "album": {
+        "name": "Shringar: The Many Moods of Love - Volume 3",
+        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
+      },
+      "artists": [
+        {
+          "name": "Lakshmi Shankar, Aneesh Pradhan",
+          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
+        }
+      ],
+      "duration_ms": 764526,
+      "name": "Jadoo Bharey Torey Nain",
+      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
+    },
+    {
+      "added_at": "2026-01-28 11:21:13",
+      "album": {
         "name": "Synergy",
         "url": "https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 835312,
       "name": "Komal Rishabh Asavari - Jhaptaal",
       "url": "https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d"
-    },
-    {
-      "added_at": "2026-01-28 11:21:13",
-      "album": {
-        "name": "Shringar: The Many Moods of Love - Volume 3",
-        "url": "https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr"
-      },
-      "artists": [
-        {
-          "name": "Lakshmi Shankar, Aneesh Pradhan",
-          "url": "https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I"
-        }
-      ],
-      "duration_ms": 764526,
-      "name": "Jadoo Bharey Torey Nain",
-      "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
     },
     {
       "added_at": "2026-01-28 11:21:13",

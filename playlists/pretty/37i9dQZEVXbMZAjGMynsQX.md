@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMZAjGMynsQX.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,605 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,633 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMZAjGMynsQX.md) - [plain]
 | 49 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
 | 50 | [$UELTA GATITA $UELTA](https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:51 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

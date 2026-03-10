@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 139200,
       "name": "Contar pro meu filho",
       "url": "https://open.spotify.com/track/1RH4Z8p8MXX3Np0dxknnuO"
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 123333,
       "name": "FLAMENGO",
       "url": "https://open.spotify.com/track/7qNoICp7xpRJ2R27GCn7Dd"
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 121874,
       "name": "Mas Que Porra",
       "url": "https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z"
@@ -4787,6 +4787,36 @@
     },
     {
       "album": {
+        "name": "Maioridade 18",
+        "url": "https://open.spotify.com/album/0eKAnTyNyEXLN6vbj2bjvV"
+      },
+      "artists": [
+        {
+          "name": "Relikia",
+          "url": "https://open.spotify.com/artist/6W87gpXtGPtbgQer83mS2J"
+        },
+        {
+          "name": "Subsolo",
+          "url": "https://open.spotify.com/artist/68u9LcXws8gMwc6BoPyJtm"
+        },
+        {
+          "name": "Brenu",
+          "url": "https://open.spotify.com/artist/5MiTkJ4H1ELFFLNSU149Uv"
+        },
+        {
+          "name": "Ruan Bryant",
+          "url": "https://open.spotify.com/artist/3DIwgkheDaERnD6pp1Y6MV"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155380,
+      "name": "Qualidade 100%",
+      "url": "https://open.spotify.com/track/7nQGuKDMWjne2oEY94yWNT"
+    },
+    {
+      "album": {
         "name": "Quando Eu Falei Pra Ela",
         "url": "https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY"
       },
@@ -5507,6 +5537,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasicas Para Mulheres, Vol. 1",
+        "url": "https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF"
+      },
+      "artists": [
+        {
+          "name": "Dash Foreal",
+          "url": "https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167876,
+      "name": "S\u00f3 pra voc\u00ea",
+      "url": "https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc"
+    },
+    {
+      "album": {
         "name": "MORPHEUS",
         "url": "https://open.spotify.com/album/74KxJCOEbdrNqOqW5O4E3C"
       },
@@ -6144,6 +6192,24 @@
       "duration_ms": 171612,
       "name": "Ver\u00e3o",
       "url": "https://open.spotify.com/track/5NbOilBmttx0b5dJcdL697"
+    },
+    {
+      "album": {
+        "name": "VICIADO",
+        "url": "https://open.spotify.com/album/3ZAbEGPGyjSpWow34CfFQx"
+      },
+      "artists": [
+        {
+          "name": "Breno Branches",
+          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213857,
+      "name": "VICIADO",
+      "url": "https://open.spotify.com/track/6XvlV70mYDJewt6BsEN5UW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-908 songs - 1 day 21 hr 19 min
+909 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 | 2026-01-15 |  |
 | [247](https://open.spotify.com/track/7JCSgrKfAWLoW5EttS6tEo) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [247](https://open.spotify.com/album/2GpSzKe87fYEtw9luJcKvI) | 2:51 | 2024-07-04 | 2024-07-27 |
 | [7 minuuttii](https://open.spotify.com/track/7aqh51LsKyhgFDPJKrh4pL) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [7 minuuttii](https://open.spotify.com/album/4bNB7WdqZ5fOJXN8NO12Ln) | 3:52 | 2024-07-02 | 2024-08-10 |
-| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 | 2025-10-30 |  |
+| [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 | 2025-10-30 | 2026-03-10 |
 | [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 | 2025-06-12 | 2025-10-24 |
 | [Aamuihmiset](https://open.spotify.com/track/6ZaEw9vOMaKvg3WYkDQHOu) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Suomalaista muotoiluu](https://open.spotify.com/album/75be1pSUYClB92gUh4E9Ar) | 3:14 | 2025-03-27 | 2025-04-11 |
 | [Aamun kuiskaus \(Vain elämää kausi 16\)](https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [VIIVI \(Vain elämää kausi 16\)](https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5) | 3:11 | 2025-11-27 |  |
@@ -230,6 +230,7 @@
 | [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 | 2024-12-26 | 2025-01-24 |
 | [Jiihaa](https://open.spotify.com/track/13kEg5VG2AxCHwM7Haudzd) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Jiihaa](https://open.spotify.com/album/2642MXbCEbPaqqvO1q6KHC) | 2:56 | 2025-08-28 | 2025-10-17 |
 | [Johanna](https://open.spotify.com/track/29XLWg8h9VBg9RCsvAnHib) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Johanna](https://open.spotify.com/album/67M12SKDlK5yLdHsN8rlPP) | 2:39 | 2025-05-01 | 2025-07-04 |
+| [Jokaisen hymyn takana](https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jokaisen hymyn takana](https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu) | 3:08 | 2026-03-06 |  |
 | [Joku jonka tunsin](https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [\#ULTRA](https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG) | 2:59 | 2024-07-02 | 2024-07-12 |
 | [Joku, jonka luo palata](https://open.spotify.com/track/1XYPk1AGMeJ4wOfkudWsXb) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Joku, jonka luo palata](https://open.spotify.com/album/1kuWX6YfOl9tnpEHMf8i5r) | 3:10 | 2024-10-24 | 2025-01-03 |
 | [JORMA](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [JORMA](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 | 2024-09-05 | 2024-09-20 |

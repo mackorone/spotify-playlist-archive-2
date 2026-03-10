@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2150352,
+  "num_followers": 2150205,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "The Wild Swan",
+        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "She Burns",
+      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "The Wild Swan",
-        "url": "https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "She Burns",
-      "url": "https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "K.",
-        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "K.",
-      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Seed of a Seed",
         "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 257904,
       "name": "Mouth of a Flower",
       "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "K.",
+        "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "K.",
+      "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Bashed Out",
+        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Bashed Out",
+      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Manly Man",
         "url": "https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 210963,
       "name": "Manly Man",
       "url": "https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Bashed Out",
-        "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Bashed Out",
-      "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
-      },
-      "artists": [
-        {
-          "name": "Soll",
-          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "River",
-      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 273413,
       "name": "For a While",
       "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
+      },
+      "artists": [
+        {
+          "name": "Soll",
+          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "River",
+      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Inside the stone",
-        "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
-      },
-      "artists": [
-        {
-          "name": "lili may",
-          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
-        }
-      ],
-      "duration_ms": 124034,
-      "name": "Inside the stone",
-      "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 178240,
       "name": "New Paint - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Inside the stone",
+        "url": "https://open.spotify.com/album/2u9U3J5NzpPSPds9VsP5xi"
+      },
+      "artists": [
+        {
+          "name": "lili may",
+          "url": "https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a"
+        }
+      ],
+      "duration_ms": 124034,
+      "name": "Inside the stone",
+      "url": "https://open.spotify.com/track/1TgZWTvjhmFiHh7A7ld6kl"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "They Moved In Shadow All Together",
+        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
+      },
+      "artists": [
+        {
+          "name": "Emily Jane White",
+          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Pallid Eyes",
+      "url": "https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "I Hope It Takes You Higher (Acoustic)",
         "url": "https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 220864,
       "name": "I Hope It Takes You Higher - Acoustic",
       "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "They Moved In Shadow All Together",
-        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
-      },
-      "artists": [
-        {
-          "name": "Emily Jane White",
-          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Pallid Eyes",
-      "url": "https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Sweetpie",
-      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "the castle",
         "url": "https://open.spotify.com/album/2BFNtCmTyyrneqIAeh0FQk"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 197577,
       "name": "the castle",
       "url": "https://open.spotify.com/track/1BfkVeODgeTd1sFN9iKA33"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
     },
     {
       "added_at": "2026-01-09 13:51:16",

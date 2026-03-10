@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: Shabaka
 
-783 songs - 2 day 6 hr 27 min
+784 songs - 2 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [CD'S LAMENT](https://open.spotify.com/track/3aeDOjir25xQPcl5FW1DJA) | [Don't Problem](https://open.spotify.com/artist/4kNI75Fr3ijE8KxLFla3eP) | [CD's Lament](https://open.spotify.com/album/3TY9MWvlboa28kki59cR9z) | 3:48 | 2022-01-07 | 2022-04-12 |
 | [Champion](https://open.spotify.com/track/1vPNWcs7Ert6vHto2p6ySc) | [Jamie Leeming](https://open.spotify.com/artist/1aIoXz1gXoYjpExn1YISkD), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Resynthesis](https://open.spotify.com/album/0h53lAKeUdvII1H6B4QvbQ) | 3:39 | 2022-06-10 | 2023-08-29 |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-04 | 2022-07-26 |
-| [Change](https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Kismet](https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48) | 3:08 | 2025-06-19 |  |
+| [Change](https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Kismet](https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48) | 3:08 | 2025-06-19 | 2026-03-10 |
 | [Channel Your Anger](https://open.spotify.com/track/7eMzWIZCj6Q6GY1MEj1QbG) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Channel Your Anger](https://open.spotify.com/album/6S9uyhVqKUzLbxom8YMlTF) | 4:47 | 2022-09-09 | 2022-11-08 |
 | [Channels](https://open.spotify.com/track/42axdcjSXRX7golnIj1Xfv) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI), [Ty Healy](https://open.spotify.com/artist/2bgmIVNSG1wdRu0GfNmIH1) | [The Fresh Organic](https://open.spotify.com/album/3erQdHlfzhMAnwko7Eii5F) | 2:32 | 2022-03-24 | 2022-07-29 |
 | [Chapter 8](https://open.spotify.com/track/4SdLOuoXHLGhUsVfs7LmoH) | [Jude the Obscure](https://open.spotify.com/artist/4S2TskYEqBIYO7zLXHOj2R) | [Chapter 8](https://open.spotify.com/album/7MoukJtX3G5QK3CajdADIM) | 3:26 | 2022-01-07 | 2022-05-17 |
@@ -334,6 +334,7 @@
 | [Intertwine](https://open.spotify.com/track/0RYGO7ZSYA2b7ziV0jF51F) | [Giorgia\-May](https://open.spotify.com/artist/0qobc1hiGI0EpDVQgTByMX), [tuftyhead](https://open.spotify.com/artist/0XdAZm6bPa9e2r1hN9PXit) | [Intertwine](https://open.spotify.com/album/4DG36ppVycC42s8swCPsEx) | 3:45 | 2024-03-08 | 2024-03-12 |
 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 | 2024-02-14 | 2024-04-21 |
 | [Into The Night](https://open.spotify.com/track/0n2zCTohMb9QORwBk9DmfF) | [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Into The Night](https://open.spotify.com/album/3LXKWerzEPTDudnUuRvdAP) | 1:44 | 2025-01-17 | 2025-05-10 |
+| [Irreparable Parables](https://open.spotify.com/track/0rhhLnyaEM3xwTWX8gu2ef) | [Andrew Wasylyk](https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG) | [Irreparable Parables](https://open.spotify.com/album/1TVxDSGkqJMhIk9TY5koto) | 3:30 | 2026-03-06 |  |
 | [Is It Me?](https://open.spotify.com/track/3DSxZGmDPVSB4lgWVxBQ3P) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Is It Me?](https://open.spotify.com/album/5o0d9ZhLE91EVPlBL3kuRe) | 3:50 | 2022-03-11 | 2022-07-19 |
 | [It Blooms / Then Nothing](https://open.spotify.com/track/3Xt8LOUh3TNmEas40OiDEI) | [Kinkajous](https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez) | [It Blooms / Then Nothing](https://open.spotify.com/album/00pgxsTWMoNY5BLEfDcZUO) | 5:10 | 2022-01-21 | 2022-02-09 |
 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 | 2025-06-05 |  |

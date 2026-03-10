@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30620,
+  "num_followers": 30621,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAgvy64ZYTrnGQUZx0LmUlD",
+  "snapshot_id": "aay8AAAAAAAwPGHA8bjzRrylP6/4Fafm",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "Damn I'm In Love Again",
-      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...The Stories We Could Tell",
         "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 259293,
       "name": "Just Let Your Heart Decide",
       "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0HOvcOEPF8JnjuJAw6GWME"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "Damn I'm In Love Again",
+      "url": "https://open.spotify.com/track/46b9DcpbBoMmTWK1zmLqMy"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big (2023 Remastered)",
-        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 295472,
-      "name": "Had Enough - 2023 Remastered",
-      "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 247093,
       "name": "Voodoo Kiss",
       "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big (2023 Remastered)",
+        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 295472,
+      "name": "Had Enough - 2023 Remastered",
+      "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
     },
     {
       "added_at": null,

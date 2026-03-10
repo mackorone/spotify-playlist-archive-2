@@ -3337,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Back Again",
+        "url": "https://open.spotify.com/album/0Vak52W6lRXl88fMUML7wa"
+      },
+      "artists": [
+        {
+          "name": "Gui Aly",
+          "url": "https://open.spotify.com/artist/6AZ6ilT4AYnj4bXMUhkbJa"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/45LINu0RLccmLrkAMGqg9S"
+    },
+    {
+      "album": {
         "name": "back from the dead",
         "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
       },
@@ -41284,7 +41302,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 185026,
       "name": "The Pines",
       "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"

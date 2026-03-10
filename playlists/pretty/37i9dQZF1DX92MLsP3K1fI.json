@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! RPLK y DannyLux en portada \u2728",
-  "num_followers": 94141,
+  "num_followers": 94156,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-03-06 06:00:03",
       "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+    },
+    {
+      "added_at": "2026-03-06 06:00:03",
+      "album": {
         "name": "PALACIO DE LUX",
         "url": "https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 194565,
       "name": "bachata m\u00eda",
       "url": "https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW"
-    },
-    {
-      "added_at": "2026-03-06 06:00:03",
-      "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     }
   ],
   "unique_name": "Oye Pop",

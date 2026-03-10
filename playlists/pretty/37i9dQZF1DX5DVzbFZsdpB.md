@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 | 7 | [EP15 \- What's The Go? Worlds Craziest Conspiracy Theories, Is Jay\-Z in a cult? Is Britney Spears alive?](https://open.spotify.com/episode/3OWtZt9enlBY7SGp2UIMEn) | [What's The Go?](https://open.spotify.com/show/5Dz8wdBDqyyCMubHqvfFea) | [What's The Go?](https://open.spotify.com/album/5Dz8wdBDqyyCMubHqvfFea) | 46:54 |
 | 8 | [SPECIAL EP \- The Ick List: Harmless Habits That Secretly Turn People Off](https://open.spotify.com/episode/2C2XHgE7W22XvBWnuZvuR1) | [What's The Go?](https://open.spotify.com/show/5Dz8wdBDqyyCMubHqvfFea) | [What's The Go?](https://open.spotify.com/album/5Dz8wdBDqyyCMubHqvfFea) | 24:18 |
 
-Snapshot ID: `AAAAAJ3bk4TN0HH7FniGBnZoJ72sJ+d0`
+Snapshot ID: `AAAAABO2DVVBZFUY5ZXrClfrAp23v/RV`

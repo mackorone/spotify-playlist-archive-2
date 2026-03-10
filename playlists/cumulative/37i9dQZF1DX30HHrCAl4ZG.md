@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from The Brook & The Bluff
 
-2,121 songs - 5 day 0 hr 3 min
+2,122 songs - 5 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [I Just Do!](https://open.spotify.com/track/7AL5SFvQYZLbfmGzq1WFQ2) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Just Do!](https://open.spotify.com/album/0NoxyeMZ6UNGNSDRG1UUFq) | 3:09 | 2025-02-07 | 2025-05-17 |
 | [i just want to hide my face](https://open.spotify.com/track/1xDZoTi6F9wZtpcQ1dlyE7) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i just want to hide my face](https://open.spotify.com/album/0mPO0i23qRLIkp5DgmpFkB) | 2:12 | 2022-09-16 | 2022-10-01 |
 | [I Know I'm Funny haha](https://open.spotify.com/track/6XZFsJP56Sn0LyGolV8IMT) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/1t5Hqutu3LDNs1p0ZaeZdW) | 2:43 | 2021-06-07 | 2022-06-07 |
+| [I Know!](https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [I Know!](https://open.spotify.com/album/0M2XvfmdGjy0jer1Z7gbXW) | 3:34 | 2026-03-09 |  |
 | [I Lied Again](https://open.spotify.com/track/3ZqRBncgNX4Ty8S9dk2RMk) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [I Lied Again](https://open.spotify.com/album/2o5qh4bTUArB2T7BQA1XoF) | 2:50 | 2023-08-11 | 2023-12-02 |
 | [I Miss When I Smelled Like You](https://open.spotify.com/track/6IhWjoBYe5hvHKA4ZLH4dX) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [I Miss When I Smelled Like You](https://open.spotify.com/album/0L0s3OfgFfFoHBlk1A07WH) | 3:51 | 2022-07-22 | 2022-10-08 |
 | [I Need You](https://open.spotify.com/track/4LU6OmxWbg2puqLHamzgLH) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [I Need You](https://open.spotify.com/album/4R1eHgQT9pw9kIANAqlSIj) | 6:21 | 2025-02-07 | 2025-03-08 |

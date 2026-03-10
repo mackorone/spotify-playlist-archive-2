@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 127959,
+  "num_followers": 127964,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACDh89lQRVrhyA/b2EsfDjQ",
+  "snapshot_id": "aay8AAAAAACHHCPDe0jU0joYn/f3kAF0",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
-        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "The Man Who Plays The Mandolino",
-      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
         "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 169226,
       "name": "Under The Bridges Of Paris",
       "url": "https://open.spotify.com/track/4LbhIS1d4kBg7lapZ61B4z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
+        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "The Man Who Plays The Mandolino",
+      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
         "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 176960,
       "name": "In Napoli",
       "url": "https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
     },
     {
       "added_at": null,

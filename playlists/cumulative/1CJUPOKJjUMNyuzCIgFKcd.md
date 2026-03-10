@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-561 songs - 1 day 1 hr 16 min
+564 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Feelin' Me](https://open.spotify.com/track/0JCfyEk0KGWhvhbjNpY06C) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Feelin' Me](https://open.spotify.com/album/7GQdle0wCteWE7MHgRaMHU) | 2:37 | 2024-11-18 | 2025-04-01 |
 | [Fenty](https://open.spotify.com/track/4OHBKKxfdfTAGT9SlwFghh) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu) | [Fenty](https://open.spotify.com/album/3V6CMRaUuIglqh0OzGqkwf) | 2:03 | 2025-11-03 | 2026-01-27 |
 | [Ferraris in The Rain \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/69VA8V5j9jHmaiBNOuJ7g1) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 3:04 | 2024-09-23 | 2025-02-25 |
+| [FIJI](https://open.spotify.com/track/3o3oF6mXg9Ko21ylS5DBzB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [FIJI](https://open.spotify.com/album/2SknDGjIYMDmm3imTXp8RD) | 3:34 | 2026-03-09 |  |
 | [Fish Bowl](https://open.spotify.com/track/56sxhRbTBj6ekLi0sPW28B) | [FMB DZ](https://open.spotify.com/artist/1h6ob3DaPqHakcGmqbzLWa) | [Fish Bowl](https://open.spotify.com/album/50LOxYYUJns97tycJc4kDg) | 1:46 | 2023-12-08 | 2024-03-16 |
 | [Flea Flickin](https://open.spotify.com/track/3mVP3VKelYDNLaoIg1NmGA) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Tee Romano](https://open.spotify.com/artist/2jqTneUf8hbgKmwzO5Mk0I) | [Flea Flickin](https://open.spotify.com/album/20b6X3aKOWMq8Ck3ePUJI4) | 2:29 | 2025-10-27 | 2026-01-27 |
 | [Flowers](https://open.spotify.com/track/0892L8jMWtFSKq5Xo9EEfA) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Flowers](https://open.spotify.com/album/2k16zP9LysfnBtxnyw6Ihd) | 3:10 | 2024-03-25 | 2024-07-23 |
@@ -280,6 +281,7 @@
 | [James Worthy](https://open.spotify.com/track/2rK0TxwiK1jrWhSwOwhVcJ) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [James Worthy](https://open.spotify.com/album/54Bb7SRYdchPEpm9bfk67w) | 2:43 | 2025-11-24 | 2026-01-27 |
 | [Jan 14th](https://open.spotify.com/track/7oYc3OXMLhxzJLmCCbdL5V) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Jan 14th](https://open.spotify.com/album/19cwtBmyKmLFcmrJJEraNT) | 1:43 | 2025-01-17 | 2025-04-30 |
 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/5CG71bdXpZdQBYPMCzTXvK) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [ROCKSTAR LIFESTYLE 2](https://open.spotify.com/album/5Ma67N8iTqF6wY6kIT7oBI) | 2:07 | 2024-03-04 | 2024-07-23 |
+| [Jumpin' Out a Window](https://open.spotify.com/track/5s5yhDeZvpdhEbK5E6xmbh) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:18 | 2026-03-09 |  |
 | [Just Getting By, Pt\. 2](https://open.spotify.com/track/1UgGL75FJDEWMowAzILMOx) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Just Getting By, Pt\. 2](https://open.spotify.com/album/0d8HioxkuWiYfF2Fma9JoA) | 2:13 | 2024-07-22 | 2024-11-19 |
 | [Just Like You](https://open.spotify.com/track/6XplrO4V3wQ5yhm5o6nz6u) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Just Like You](https://open.spotify.com/album/5YKZYtxQzL7dgvAHlu5IX1) | 2:50 | 2024-02-12 | 2024-05-21 |
 | [Kai Cenat](https://open.spotify.com/track/5Rd14I96gYQcBayiR799qw) | [Kardashhh](https://open.spotify.com/artist/6tI6IK5AHHkUYOZ53VWgFb) | [Kai Cenat](https://open.spotify.com/album/30I326J1Rg65eMlDoKAtYT) | 2:21 | 2025-01-17 | 2025-04-30 |
@@ -431,6 +433,7 @@
 | [Rose](https://open.spotify.com/track/5tSWQPbUQUgc5wG6oEewwQ) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0), [Jeeezy Obama](https://open.spotify.com/artist/7JcfLQcJoAdUZHBPYUf9sQ) | [Rose](https://open.spotify.com/album/2aSZxunbzSgHottSApgzUO) | 3:04 | 2025-09-15 | 2026-01-27 |
 | [Rucci, I Luv U](https://open.spotify.com/track/7lVmH2y2WwudeVeqSZYd6C) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Rucci, I Luv U](https://open.spotify.com/album/4GReRw0auBIg1Dshm80aFB) | 2:23 | 2025-07-15 | 2025-09-25 |
 | [Runnin' Out](https://open.spotify.com/track/1ZHFRdoknRywefniSsZTWN) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Runnin' Out](https://open.spotify.com/album/41ocYSorg2ccPLzCVDwSwu) | 2:27 | 2025-09-15 | 2026-01-27 |
+| [S/O Alysa Liu](https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [S/O Alysa Liu](https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH) | 2:17 | 2026-03-09 |  |
 | [Sake](https://open.spotify.com/track/11Rny6gcS3koCDu6gKqd6h) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Sake](https://open.spotify.com/album/6iBmxRTG2X3MmeeyvfA06X) | 2:56 | 2025-09-24 | 2026-01-27 |
 | [SANTO](https://open.spotify.com/track/7bYT7ERwIIcAz3zLcty1Cs) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [SANTO](https://open.spotify.com/album/6Y6HgQ5O9Tb8B6io29rjtl) | 2:20 | 2024-07-22 | 2025-02-25 |
 | [Say You Are](https://open.spotify.com/track/7zGLbCfnWNOyVcGk1bW8yT) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [You Decide](https://open.spotify.com/album/6tvtGdHzjNccJLZIZ7hfPv) | 1:28 | 2026-01-12 | 2026-01-27 |

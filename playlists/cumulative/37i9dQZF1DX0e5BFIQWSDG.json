@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ethismos",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Arab",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -590,6 +590,32 @@
       "duration_ms": 127179,
       "name": "AJO",
       "url": "https://open.spotify.com/track/4zrCTfiRoVOXrz3q0sNW5B"
+    },
+    {
+      "album": {
+        "name": "Runnin' Busy",
+        "url": "https://open.spotify.com/album/3e5lplDylZTPn9Ggpu3huQ"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "AKATE",
+      "url": "https://open.spotify.com/track/5wu3OoKbAM890BG0UwMySs"
     },
     {
       "album": {
@@ -1954,7 +1980,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 161589,
       "name": "CARTEL",
       "url": "https://open.spotify.com/track/1sH3C1vAF0x9lUz2viD8t6"
@@ -2274,7 +2300,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 179880,
       "name": "Dark Side Of The Moon",
       "url": "https://open.spotify.com/track/5XpEAg0ZT8OiJL2TDDDHlr"
@@ -5011,6 +5037,36 @@
     },
     {
       "album": {
+        "name": "Runnin' Busy",
+        "url": "https://open.spotify.com/album/3e5lplDylZTPn9Ggpu3huQ"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        },
+        {
+          "name": "MUNEYLXRD",
+          "url": "https://open.spotify.com/artist/6DAImhimwKn8bCYuGyflgB"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116400,
+      "name": "KGB",
+      "url": "https://open.spotify.com/track/69Qsq394czCslHQYmKlvlq"
+    },
+    {
+      "album": {
         "name": "Kodikas",
         "url": "https://open.spotify.com/album/0UMWCCRPN89z7SqOlPSwzZ"
       },
@@ -7108,7 +7164,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 178403,
       "name": "PAR\u00c9A",
       "url": "https://open.spotify.com/track/2NeN8zS1StQmyZlm5bXk3w"
@@ -10206,6 +10262,28 @@
       "duration_ms": 180979,
       "name": "ZARI",
       "url": "https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW"
+    },
+    {
+      "album": {
+        "name": "ZELJKO",
+        "url": "https://open.spotify.com/album/4lR1PUDNmeHgR3WwA4GZpv"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Misk",
+          "url": "https://open.spotify.com/artist/4JMMgnz7NNpnj5okuoV7Xx"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209310,
+      "name": "ZELJKO",
+      "url": "https://open.spotify.com/track/4TiuDw2IxnpGAYtLDODAbG"
     },
     {
       "album": {

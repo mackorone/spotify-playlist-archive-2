@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Harry Styles, Sarah Connor, Mary Middlefield, Jazeek & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,797 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,792 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Leanna Crawford & Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,803 likes - 83 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,914 likes - 83 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

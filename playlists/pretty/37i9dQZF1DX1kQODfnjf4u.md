@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Yzomandias
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,547 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,541 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HIP THRUST](https://open.spotify.com/track/3kjReKinqmvImzc9CAXDGk) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TYPE BEAT / HIP THRUST](https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ) | 1:40 |
 | 2 | [Vodka není voda](https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ) | [Lboy Bsc](https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2), [Dorian](https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY), [Freez247](https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA) | [Napoleon](https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo) | 3:26 |
-| 3 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
+| 3 | [Den a noc](https://open.spotify.com/track/04zZaxfyIcri7AO7efBeZ7) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Den a noc](https://open.spotify.com/album/12u8ai9zrYYXVtmaSgDCXD) | 2:23 |
 | 4 | [Kdo??](https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Majitel](https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL) | 2:49 |
 | 5 | [TYPE BEAT](https://open.spotify.com/track/3OhcMbapB8evsgarEoPGH0) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [TYPE BEAT / HIP THRUST](https://open.spotify.com/album/4Lq7fDwKvULCKCiLtXY5tZ) | 2:03 |
-| 6 | [Den a noc](https://open.spotify.com/track/04zZaxfyIcri7AO7efBeZ7) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Den a noc](https://open.spotify.com/album/12u8ai9zrYYXVtmaSgDCXD) | 2:23 |
-| 7 | [NEPO](https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV) | [Mat213](https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx), [Franta Prachař](https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU), [Anna Mercedes](https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt) | [NEPO](https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez) | 2:51 |
+| 6 | [NEPO](https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV) | [Mat213](https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx), [Franta Prachař](https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU), [Anna Mercedes](https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt) | [NEPO](https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez) | 2:51 |
+| 7 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 |
 | 8 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 9 | [Vlajka](https://open.spotify.com/track/1dFkFkXOe5o9frpTi4vR17) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Vlajka](https://open.spotify.com/album/062oTWHWCeDsWvaXn5zuJ2) | 2:09 |
 | 10 | [Jak Robot](https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [BOYBAND](https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB) | 2:26 |
-| 11 | [Strach](https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 3:25 |
-| 12 | [Stovky let](https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Stovky let](https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W) | 2:41 |
-| 13 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
-| 14 | [23](https://open.spotify.com/track/4mgUD7Yz4YJRb4cr2NnKpu) | [Raphael](https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe) | [23](https://open.spotify.com/album/6far1bcY49VtxZF5PWYozd) | 1:57 |
-| 15 | [ZA KATREM](https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [ZA KATREM](https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN) | 3:00 |
-| 16 | [Dilema](https://open.spotify.com/track/7ksKB1i7m3qe7ZpHOaG4je) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Dilema](https://open.spotify.com/album/6D3NudgxdtKN4csseJ3yYP) | 2:36 |
-| 17 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
+| 11 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
+| 12 | [Strach](https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 3:25 |
+| 13 | [Stovky let](https://open.spotify.com/track/4ngeoCqT1A0H2l6tJX7KTr) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Stovky let](https://open.spotify.com/album/7jKEFgDqdk6XtUDQivJN9W) | 2:41 |
+| 14 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 15 | [23](https://open.spotify.com/track/4mgUD7Yz4YJRb4cr2NnKpu) | [Raphael](https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe) | [23](https://open.spotify.com/album/6far1bcY49VtxZF5PWYozd) | 1:57 |
+| 16 | [ZA KATREM](https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [ZA KATREM](https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN) | 3:00 |
+| 17 | [Dilema](https://open.spotify.com/track/7ksKB1i7m3qe7ZpHOaG4je) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Dilema](https://open.spotify.com/album/6D3NudgxdtKN4csseJ3yYP) | 2:36 |
 | 18 | [Ať je klid](https://open.spotify.com/track/43iLUibjKqDJBq4rCGF49n) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Ať je klid](https://open.spotify.com/album/6P6f3ThMW0xwWW1C4OsjCI) | 2:47 |
 | 19 | [NÁS NEZASTAVÍ \(feat\. Hard Rico\)](https://open.spotify.com/track/48l2ey9095iFLzL4MzWiGo) | [13Many](https://open.spotify.com/artist/3j3xobDzxD2HDTvHpkZLKi), [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [BIG PROBLEM](https://open.spotify.com/album/6NsKlfSL4np64YrQsmSh8R) | 2:42 |
 | 20 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 50 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 
-Snapshot ID: `AAAAAPocIaYItPOVllzJzxHOMhwQXEGe`
+Snapshot ID: `AAAAAIz4sKRhWkY7ltClSYzJXgFjwHi1`

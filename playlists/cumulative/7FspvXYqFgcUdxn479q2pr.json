@@ -8531,6 +8531,36 @@
     },
     {
       "album": {
+        "name": "Hypnotise",
+        "url": "https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Enveak",
+          "url": "https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS"
+        },
+        {
+          "name": "SURAYA",
+          "url": "https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3"
+        },
+        {
+          "name": "SHOWTEKNO",
+          "url": "https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "Hypnotise",
+      "url": "https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to"
+    },
+    {
+      "album": {
         "name": "Hypnotised",
         "url": "https://open.spotify.com/album/0Hal36AbLV32WQOVks52Ot"
       },
@@ -13652,6 +13682,28 @@
       "duration_ms": 228750,
       "name": "No Guest List (JADED Remix)",
       "url": "https://open.spotify.com/track/3Xfm77Umzbn9ZsKgJS77Ri"
+    },
+    {
+      "album": {
+        "name": "No Lames",
+        "url": "https://open.spotify.com/album/3ElEMTFQpVwIpYuSDtTt1U"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185347,
+      "name": "No Lames",
+      "url": "https://open.spotify.com/track/1SbDWaKSqQz3RjjINLUgI0"
     },
     {
       "album": {

@@ -25316,7 +25316,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 153181,
       "name": "E85",
       "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
@@ -26994,10 +26994,28 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 209959,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8"
+    },
+    {
+      "album": {
+        "name": "Entre t\u00fa y yo",
+        "url": "https://open.spotify.com/album/0PLwDyWkRzkL00AGBkVjXc"
+      },
+      "artists": [
+        {
+          "name": "Tu Corrido Mx",
+          "url": "https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209964,
+      "name": "Entre t\u00fa y yo",
+      "url": "https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A"
     },
     {
       "album": {
@@ -44295,6 +44313,24 @@
     },
     {
       "album": {
+        "name": "Kavkaz",
+        "url": "https://open.spotify.com/album/5HTW8Ojcm14bO6YitNIE1w"
+      },
+      "artists": [
+        {
+          "name": "starly",
+          "url": "https://open.spotify.com/artist/1jnOfHWIo5RxjjUueKs2SL"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Kavkaz",
+      "url": "https://open.spotify.com/track/7yoqSltRmGVlJF34OdLyZG"
+    },
+    {
+      "album": {
         "name": "GOLDEN FLOWER",
         "url": "https://open.spotify.com/album/7iUuXpOPDfKXT5DwelKQpz"
       },
@@ -52642,7 +52678,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 202969,
       "name": "Mattone",
       "url": "https://open.spotify.com/track/5kAqhOUfi3ku5jZREYRFti"
@@ -54378,6 +54414,28 @@
       "duration_ms": 292906,
       "name": "Meu Lugar",
       "url": "https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG"
+    },
+    {
+      "album": {
+        "name": "Meu Pai Paga Minha Faculdade / Mexe Essa Sanfona / Eu Vou Pra Vaquejada / Vuco Vuco / Rei Do Baralho / Sala De Reboco",
+        "url": "https://open.spotify.com/album/7ix4iaNVXd09MNTnyBeArR"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        },
+        {
+          "name": "Claudio Ney & Juliana",
+          "url": "https://open.spotify.com/artist/6L6rxGWItXnLf68IlHTXlP"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391130,
+      "name": "Meu Pai Paga Minha Faculdade / Mexe Essa Sanfona / Eu Vou Pra Vaquejada / Vuco Vuco / Rei Do Baralho / Sala De Reboco",
+      "url": "https://open.spotify.com/track/6swbbMI7aNHRAJgNaP5Ku0"
     },
     {
       "album": {

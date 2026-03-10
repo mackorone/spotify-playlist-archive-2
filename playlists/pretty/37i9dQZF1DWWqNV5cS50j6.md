@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,835 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,105 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 2 | [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 2:20 |
-| 3 | [TIRED](https://open.spotify.com/track/1iQqrQtPfZ9fGe6vLD6hnF) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [TIRED](https://open.spotify.com/album/7Gkfk4oxSOgA8Tvt9Pf7XN) | 1:35 |
-| 4 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
+| 1 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
+| 2 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
+| 3 | [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 2:20 |
+| 4 | [TIRED](https://open.spotify.com/track/1iQqrQtPfZ9fGe6vLD6hnF) | [Passion Mango](https://open.spotify.com/artist/1duhcJbPuZ66kIsntXd9zn) | [TIRED](https://open.spotify.com/album/7Gkfk4oxSOgA8Tvt9Pf7XN) | 1:35 |
 | 5 | [The Cost of Freedom](https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2) | [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [The Cost of Freedom](https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0) | 3:30 |
 | 6 | [Society](https://open.spotify.com/track/0GjDfRE6GZL74N80Y9pGCu) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [uhhh 3](https://open.spotify.com/album/45tyY8OMbwqoRThUfrRIui) | 3:17 |
 | 7 | [Self Sabotage](https://open.spotify.com/track/21NdaVgRO8S8mdzfeLdLAk) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw), [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Self Sabotage](https://open.spotify.com/album/5xGMfD4HeoMkhe4OoCkJP1) | 2:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 98 | [Imposter](https://open.spotify.com/track/1OYOObc7WZnhkhvNgfrB2M) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:33 |
 | 99 | [The Big Leagues](https://open.spotify.com/track/350fMBx2Q0iGVBblBri46j) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [The Big Leagues](https://open.spotify.com/album/2lE1xTqPNmvbO1G3MnTttE) | 2:45 |
 
-Snapshot ID: `AAAAANsBxOy26xeSnMSrcgZG+33AHo+L`
+Snapshot ID: `AAAAAMXtSFxt8bFZEKOsJVELs3RQep/A`

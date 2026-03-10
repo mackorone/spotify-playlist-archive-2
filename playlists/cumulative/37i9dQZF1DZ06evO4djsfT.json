@@ -685,6 +685,32 @@
     },
     {
       "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199065,
+      "name": "Glorious Day",
+      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
+    },
+    {
+      "album": {
         "name": "Glory 2 Glory",
         "url": "https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP"
       },
@@ -1978,7 +2004,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 216586,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"

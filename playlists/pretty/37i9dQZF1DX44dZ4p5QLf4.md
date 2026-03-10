@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > Hand\-picked releases from the new wave in soul\. Cover: Yas Mayou
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,505 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,525 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pour Some More](https://open.spotify.com/track/0FpWKANWyGMQku1LNLUO7a) | [Yas Mayou](https://open.spotify.com/artist/23tleadB20w0exvWcMYROK) | [Pour Some More](https://open.spotify.com/album/2GWRXNkOxM7otzMuhInBqF) | 3:27 |
 | 2 | [Only Water \- Feat\. Lady Donli](https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF) | 3:07 |
-| 3 | [NEVER BE THE SAME](https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [NEVER BE THE SAME](https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk) | 2:52 |
-| 4 | [Rain Down](https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Rain Down](https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL) | 4:38 |
-| 5 | [Helicopters](https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Helicopters](https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX) | 3:58 |
-| 6 | [I Just Want You 2 Love Me Back](https://open.spotify.com/track/1s94TlzTbyg4H4Rs5yThha) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Daniel Mougerman](https://open.spotify.com/artist/6GJ6tflEl8U8hoLkj3F9sG) | [Random Acts Of Kindness](https://open.spotify.com/album/4VL9iWxf2Y5hF2kfW1vnn8) | 4:40 |
-| 7 | [Miss You](https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [Who Have I Become?](https://open.spotify.com/album/3VftFr2y5vitTyGorElKIA) | 4:05 |
-| 8 | [Feeling Blue](https://open.spotify.com/track/58CHDPWwZOaHi6YqNxNvnu) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Feeling Blue](https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH) | 3:14 |
+| 3 | [Rain Down](https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Rain Down](https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL) | 4:38 |
+| 4 | [Miss You](https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX) | [GeeJay](https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W) | [Who Have I Become?](https://open.spotify.com/album/3VftFr2y5vitTyGorElKIA) | 4:05 |
+| 5 | [NEVER BE THE SAME](https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [NEVER BE THE SAME](https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk) | 2:52 |
+| 6 | [Helicopters](https://open.spotify.com/track/2ofMsovltZ6Nn6wQz1ZphY) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Helicopters](https://open.spotify.com/album/53IVWLHnBwJ6KwpOAc5NRX) | 3:58 |
+| 7 | [Feeling Blue](https://open.spotify.com/track/58CHDPWwZOaHi6YqNxNvnu) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Feeling Blue](https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH) | 3:14 |
+| 8 | [I Just Want You 2 Love Me Back](https://open.spotify.com/track/1s94TlzTbyg4H4Rs5yThha) | [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Daniel Mougerman](https://open.spotify.com/artist/6GJ6tflEl8U8hoLkj3F9sG) | [Random Acts Of Kindness](https://open.spotify.com/album/4VL9iWxf2Y5hF2kfW1vnn8) | 4:40 |
 | 9 | [Mother's Arms](https://open.spotify.com/track/1bvuJTinhvq4VzudaDVL0d) | [Ni Maxine](https://open.spotify.com/artist/60iNWYBsD9L0ucxpSbxpgS) | [Mother's Arms](https://open.spotify.com/album/1nA2yNcvJUwcgdtCe1efAV) | 3:34 |
 | 10 | [Watchu Say](https://open.spotify.com/track/3MU4fOC3qVJqDGbjomnyDm) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Watchu Say](https://open.spotify.com/album/3wRddtFjb5v5x3k06eWqgU) | 4:00 |
 | 11 | [SOAP](https://open.spotify.com/track/0SsQlBx10cCgIZIV2SH9wq) | [Lizzy](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [SOAP](https://open.spotify.com/album/7LnaNERJs0GUwZvnHrxiQ9) | 2:36 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 71 | [Wash Away](https://open.spotify.com/track/1jD16HoA2HqZvi4UR9COqA) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Wash Away](https://open.spotify.com/album/08dm0IDwGbe12jOialzXaD) | 2:32 |
 | 72 | [In The End](https://open.spotify.com/track/6E8vEr5MN0GH7xMW2jN8SD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [LK99: The Prelude](https://open.spotify.com/album/5DOLO9rRo3YyKQcbYsrkqR) | 4:05 |
 
-Snapshot ID: `AAAAANWknk5VjkOR2wr+XU8ghiljKSDg`
+Snapshot ID: `AAAAAIvbEBmqlY86inQML7d69UlzNNeW`

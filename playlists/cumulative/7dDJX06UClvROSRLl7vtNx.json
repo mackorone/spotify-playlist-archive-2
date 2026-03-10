@@ -9452,6 +9452,24 @@
     {
       "album": {
         "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/0L1HeQ5H5ut6lfOGt8PUVo"
+      },
+      "artists": [
+        {
+          "name": "Nofsky",
+          "url": "https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/0IwKgvLvEpZWLvuHKTyuzH"
+    },
+    {
+      "album": {
+        "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/1b1CiWm3Psfi4US4Ec5d4h"
       },
       "artists": [

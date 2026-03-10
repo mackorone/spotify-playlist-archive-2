@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 498169,
+  "num_followers": 498171,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 185898,
-      "name": "On the Low",
-      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 187873,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Active",
         "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Bobo",
-        "url": "https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 187873,
-      "name": "Bobo",
-      "url": "https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2015,26 +2015,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Basshall Party",
-        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        }
-      ],
-      "duration_ms": 123647,
-      "name": "Basshall Party",
-      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 146776,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Basshall Party",
+        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "duration_ms": 123647,
+      "name": "Basshall Party",
+      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2107,26 +2107,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "N\u00e3o Deixa",
-        "url": "https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Nuno Ribeiro",
-          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
-        }
-      ],
-      "duration_ms": 196948,
-      "name": "N\u00e3o Deixa",
-      "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Dare You",
         "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
       },
@@ -2143,6 +2123,26 @@
       "duration_ms": 182044,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "N\u00e3o Deixa",
+        "url": "https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Nuno Ribeiro",
+          "url": "https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt"
+        }
+      ],
+      "duration_ms": 196948,
+      "name": "N\u00e3o Deixa",
+      "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Sal Gason",
-        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
-      },
-      "artists": [
-        {
-          "name": "Klassik Frescobar",
-          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
-        }
-      ],
-      "duration_ms": 138897,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Real Man",
         "url": "https://open.spotify.com/album/3GZNX1TLAGQu3FyE3J6F2w"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 175098,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Sal Gason",
+        "url": "https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0"
+      },
+      "artists": [
+        {
+          "name": "Klassik Frescobar",
+          "url": "https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4"
+        }
+      ],
+      "duration_ms": 138897,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "MOTO",
+        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 178579,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Ayaya",
         "url": "https://open.spotify.com/album/3JEnwy3Wdd9KFkk9K6oQzm"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 155783,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/11hQ4ru2zeb5rN0QTVhzr1"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "MOTO",
-        "url": "https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 178579,
-      "name": "MOTO",
-      "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
     },
     {
       "added_at": "2026-02-26 23:00:40",

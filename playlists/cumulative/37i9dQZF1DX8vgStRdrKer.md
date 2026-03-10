@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-737 songs - 2 day 14 hr 47 min
+738 songs - 2 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Lord I believe](https://open.spotify.com/track/7Kr8B8QNOQQFPXBwoWEahG) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Lord I believe](https://open.spotify.com/album/7E0yZmCOLdc5zSjXAWiRtb) | 6:14 | 2026-02-27 |  |
 | [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-17 | 2025-03-08 |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-09-13 |
+| [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 | 2026-03-06 |  |
 | [M'manja Mwanu](https://open.spotify.com/track/7qsuw2hbLEAW8dzQx7nRhP) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [M'manja Mwanu](https://open.spotify.com/album/2djFFunGWCcsrMthfOOUP9) | 3:12 | 2024-11-29 | 2025-06-06 |
 | [Maberumo \(This Is Morning\)](https://open.spotify.com/track/2OHmueqAp9USbKTxRfxwAa) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Maberumo \(This Is Morning\)](https://open.spotify.com/album/0iFZYlC4A0jHonYR3HpU8Y) | 4:04 | 2025-07-25 |  |
 | [MADE A WAY](https://open.spotify.com/track/5KTeaHW8nPu8eM1RGeHfg1) | [Legacy](https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ) | [MADE A WAY](https://open.spotify.com/album/0anTHpku1SxIFHtZIVHMAR) | 2:48 | 2025-05-16 | 2025-07-11 |
@@ -711,7 +712,7 @@
 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 | 2025-08-01 | 2026-01-23 |
 | [Worship Him](https://open.spotify.com/track/4Ev3u4Uyy03eTn1JS5sdfk) | [Adegrace](https://open.spotify.com/artist/3ycO6fT2nSoiIiXuo2Omoe) | [Worship Him](https://open.spotify.com/album/1ymg70A7GMt3FwTJVf6rbO) | 10:49 | 2025-11-14 | 2026-01-15 |
 | [Worship Medley](https://open.spotify.com/track/33WHn1LRXdtLZfMN04rwRb) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Medley](https://open.spotify.com/album/4oXBqPiUw56WoVhh6aZKz0) | 4:26 | 2025-09-12 | 2025-10-11 |
-| [Worship Medley 16](https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 16](https://open.spotify.com/album/6wkRwNf3cbMXLnKxEV746g) | 6:45 | 2025-07-11 |  |
+| [Worship Medley 16](https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 16](https://open.spotify.com/album/6wkRwNf3cbMXLnKxEV746g) | 6:45 | 2025-07-11 | 2026-03-10 |
 | [WORTHY](https://open.spotify.com/track/01VqTmMt86wGlRVjvrhZ23) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [WORTHY](https://open.spotify.com/album/64aFpFjW3mtEzikvLGTWzW) | 3:56 | 2025-08-29 |  |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-04-26 | 2025-06-27 |
 | [Yahweh](https://open.spotify.com/track/0rCqiszNjjmwidpPGp8bW6) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Yahweh](https://open.spotify.com/album/4FTzomnXkLei8TG5sWYKTu) | 5:15 | 2025-07-04 | 2025-10-18 |

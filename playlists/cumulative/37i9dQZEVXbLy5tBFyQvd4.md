@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-1,161 songs - 2 day 16 hr 42 min
+1,162 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,8 @@
 | [Entre las de 20](https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Entre las de 20](https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6) | 2:48 | 2024-04-05 | 2024-05-04 |
 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 | 2021-07-14 | 2022-01-24 |
 | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Entre Nosotros \(Remix\) \[con Nicki Nicole\]](https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm) | 4:20 | 2022-01-08 | 2022-01-27 |
-| [Entre tú y yo](https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/2W5yGu6abXNhtny9ersYok) | 3:29 | 2026-01-15 |  |
+| [Entre tú y yo](https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/2W5yGu6abXNhtny9ersYok) | 3:29 | 2026-01-15 | 2026-03-10 |
+| [Entre tú y yo](https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/0PLwDyWkRzkL00AGBkVjXc) | 3:29 | 2026-03-08 |  |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-04-14 | 2022-07-09 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-08 | 2022-04-15 |
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-06 |  |

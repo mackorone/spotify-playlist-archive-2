@@ -4,7 +4,7 @@
 
 > 
 
-309 songs - 12 hr 6 min
+310 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [WHATITMEAN!?](https://open.spotify.com/track/3T6Cx9YYK38MSiHXKRwb0U) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [WHATITMEAN!?](https://open.spotify.com/album/2WwACGlMbQxWhwDkSRhza5) | 1:00 | 2025-04-11 | 2025-08-07 |
 | [whats the use?](https://open.spotify.com/track/0eyiSPQKRiWUBYqlswj0m8) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [whats the use?](https://open.spotify.com/album/6LRWRsdhgXRHNOGrGLnG1T) | 2:18 | 2025-05-03 | 2025-09-05 |
 | [WHATS UP!](https://open.spotify.com/track/5wHrkFzq57D0dErqtUoZ1e) | [SUPXR](https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt) | [WHATS UP!](https://open.spotify.com/album/3OJY3Vu9dfhtEkzoiBLWGp) | 2:12 | 2025-05-12 |  |
+| [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 | 2026-03-09 |  |
 | [why try?](https://open.spotify.com/track/4TaktbfwiMLBG8TI49Qi9o) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [why try?](https://open.spotify.com/album/4UnwglMgm3Slopx5HGDoJb) | 2:39 | 2025-01-16 |  |
 | [WOA!](https://open.spotify.com/track/4pBZbCEiabXZrWfSFpm7Bs) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 2:26 | 2024-12-08 |  |
 | [worth saving](https://open.spotify.com/track/6VKkKLLH2ZHaw3oCHlxJx8) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [Stardust](https://open.spotify.com/album/2B9wUcdcHVW9H9OGMpd6Bn) | 1:52 | 2025-05-28 |  |

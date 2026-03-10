@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 19031,
+  "num_followers": 19032,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAiQa/xq1C2qCcd8V+oybwc",
+  "snapshot_id": "aay8AAAAAAAVkHBfvoXbPn94aCFc/LZT",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 110826,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Money (feat. G Herbo)",
         "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 164586,
       "name": "Pink Money (feat. G Herbo)",
       "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 110826,
-      "name": "Get Loud",
-      "url": "https://open.spotify.com/track/31WthjI5kvPSdD9Eb70ZBi"
     },
     {
       "added_at": null,
@@ -723,26 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
-        "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
+        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
+        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
       },
       "artists": [
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          "name": "10X",
+          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 190104,
-      "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
-      "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
+      "duration_ms": 231470,
+      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
+      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
     },
     {
       "added_at": null,
@@ -763,22 +759,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
-        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
+        "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
+        "url": "https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc"
       },
       "artists": [
         {
-          "name": "10X",
-          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
         },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 231470,
-      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
-      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
+      "duration_ms": 190104,
+      "name": "Femme Fatale (feat. Coi Leray & Kaliii)",
+      "url": "https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61"
     },
     {
       "added_at": null,
@@ -839,6 +839,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wanna Come Thru",
+        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 131900,
+      "name": "Wanna Come Thru",
+      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 135613,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/3ZnMKPhpgpTwXRSrXZ4XEm"
       },
@@ -859,42 +895,6 @@
       "duration_ms": 170062,
       "name": "Hold Me Down (42 Dugg, Coi Leray)",
       "url": "https://open.spotify.com/track/3RXjFdXvbIIydnkrCKIjcA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/2U2PWiUPxeKBipJrPlTW3u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanna Come Thru",
-        "url": "https://open.spotify.com/album/5XlqlnXXjWMlgfj2Y4pyOF"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        }
-      ],
-      "duration_ms": 131900,
-      "name": "Wanna Come Thru",
-      "url": "https://open.spotify.com/track/1peSFUNahpj7paMnJGg9aX"
     },
     {
       "added_at": null,
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 135613,
-      "name": "Black Rose",
-      "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
+      "duration_ms": 168013,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/2U2PWiUPxeKBipJrPlTW3u"
     },
     {
       "added_at": null,

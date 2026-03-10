@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Best of Hindi Hip\-Hop! Cover: Siroyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,021 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,037 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 72 | [Bhala Kyun](https://open.spotify.com/track/0PQCaJpJm0CLEkUW2V0uf2) | [DOTM](https://open.spotify.com/artist/2AL0XQ1mbnWU5xVR6R4KRa) | [Bhala Kyun](https://open.spotify.com/album/4LOMwtCuIoTwddmvBsxta6) | 2:45 |
 | 73 | [Aai Bo](https://open.spotify.com/track/7L9Um3qwrdu01waYwxjVOi) | [GhAatak](https://open.spotify.com/artist/27OuoF6QLsNbENNBDLyvQt), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [AAI BO](https://open.spotify.com/album/1s1PpEtbO5HtZ5K2FyvSNM) | 2:36 |
 | 74 | [Awaaz Kam](https://open.spotify.com/track/0nwGtRHXoweqaASd8leFFj) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy), [RiJ](https://open.spotify.com/artist/5zAGfUsWeJgswvM18wXx2y) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 3:39 |
-| 75 | [PISHA](https://open.spotify.com/track/4bJWn4e2WDJrEv1kJrO0WC) | [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g) | [PentHouse Tapes, Vol\. 1](https://open.spotify.com/album/0UxThxnp2R4wDnrJFEWGzP) | 3:05 |
+| 75 | [PISHA](https://open.spotify.com/track/4bJWn4e2WDJrEv1kJrO0WC) | [Calm](https://open.spotify.com/artist/10qWcrbcxZeuyHHQO1hXxE), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Ab 17](https://open.spotify.com/artist/6WZbxCOTFeEqJHpcZYgDiG), [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [PentHouse Tapes, Vol\. 1](https://open.spotify.com/album/0UxThxnp2R4wDnrJFEWGzP) | 3:05 |
 
 Snapshot ID: `AAAAAOsPp7t89RZsfT67DzmFG18Fk0aL`

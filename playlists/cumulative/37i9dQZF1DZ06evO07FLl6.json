@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Miles '55 (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0YO1jsKIjc53uqC2AShPAI"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448963,
+      "name": "Just Squeeze Me - Remastered 2025",
+      "url": "https://open.spotify.com/track/139umzmd3h9DgkK9E5737Z"
+    },
+    {
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 183693,
       "name": "Moose The Mooche",
       "url": "https://open.spotify.com/track/5M6mJfaNbWIrBjjy8AVf77"

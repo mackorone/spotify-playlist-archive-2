@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483776,
+  "num_followers": 483781,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Fish on the Sand",
         "url": "https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 218019,
       "name": "Fish on the Sand",
       "url": "https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/46ypwm5vShRtDEwARQHoNM"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -939,38 +939,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
-      },
-      "artists": [
-        {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Dear Grandpa",
-        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
-      },
-      "artists": [
-        {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
-        }
-      ],
-      "duration_ms": 178501,
-      "name": "Dear Grandpa",
-      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "The Way You Talk",
         "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
       },
@@ -987,6 +955,22 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+      },
+      "artists": [
+        {
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
         "name": "Naga Damai",
         "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 217413,
       "name": "Naga Damai",
       "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Dear Grandpa",
+        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "Dear Grandpa",
+      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
     },
     {
       "added_at": "2026-01-23 05:00:19",

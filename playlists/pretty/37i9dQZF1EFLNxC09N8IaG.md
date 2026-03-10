@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,645 likes - 184 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,644 likes - 184 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 171 | [Jonjo](https://open.spotify.com/track/2yOQJwqTDQFPHv57WHnExE) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 2:40 |
 | 172 | [Bacon 'N Eggs](https://open.spotify.com/track/6fEBlVQSTYx6Ej0QhXPyb0) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 3:05 |
 | 173 | [If I Ever Loved You](https://open.spotify.com/track/7CwEYUryiaGpdoYX7Z7Y5I) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 4:41 |
-| 174 | [City Love](https://open.spotify.com/track/4jYTnOsT1tzqV75IzDupiD) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 3:43 |
-| 175 | [Denim](https://open.spotify.com/track/4qqkeoa2AygTR5qTYzRwuO) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:24 |
+| 174 | [Denim](https://open.spotify.com/track/4qqkeoa2AygTR5qTYzRwuO) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:24 |
+| 175 | [City Love](https://open.spotify.com/track/4jYTnOsT1tzqV75IzDupiD) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Jukebox](https://open.spotify.com/album/6y2o7hPNHIfGUtOUyuX03D) | 3:43 |
 | 176 | [Cry](https://open.spotify.com/track/7GtDHdPBkpKHS8uTayjo6M) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Hello My Apple](https://open.spotify.com/album/2LnBYjNaTXBdR2IymbB2wQ) | 3:29 |
 | 177 | [Different Color](https://open.spotify.com/track/4szP6ScOP2FSm14Zask3II) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 3:03 |
 | 178 | [You Shaped Box](https://open.spotify.com/track/43a3MpvnkjagLlyYiLF5fA) | [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Coloured](https://open.spotify.com/album/0tmicByUrXQoXVP9NIL8NF) | 2:47 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 183 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 184 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `AcLnVAAAAACv2x5Z5Y5VCKqw8m54miU6`
+Snapshot ID: `AcLsuAAAAADZl7vxqmtxotI2Nh5YxwWl`

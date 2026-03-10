@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Future hits in the Philippines! Cover: RAYE",
+  "description": "Future hits in the Philippines! Cover: aron!",
   "name": "Pop Rising Philippines",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 234608,
       "name": "100",
       "url": "https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa"
@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147505,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV"
+    },
+    {
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
       },
@@ -968,7 +986,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 178461,
       "name": "Beat Yourself Up",
       "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
@@ -5437,6 +5455,24 @@
     },
     {
       "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "album": {
         "name": "Imposter",
         "url": "https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314"
       },
@@ -5448,7 +5484,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 158238,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
@@ -5792,7 +5828,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 240491,
       "name": "It's You - from \"Heated Rivalry\"",
       "url": "https://open.spotify.com/track/6mCpjU7bPQgImcu7iW7rDD"
@@ -6539,6 +6575,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176887,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
+    },
+    {
+      "album": {
         "name": "Soft Spot",
         "url": "https://open.spotify.com/album/4W2jsXW6tFmAtPzeEBWAlA"
       },
@@ -6626,6 +6680,24 @@
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+    },
+    {
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242287,
+      "name": "LOVE, LOVE, LOVE",
+      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
     },
     {
       "album": {
@@ -7303,6 +7375,28 @@
     },
     {
       "album": {
+        "name": "moonboy",
+        "url": "https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173207,
+      "name": "moonboy",
+      "url": "https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/3JUFjVKXhpkbChyYQ49w8R"
       },
@@ -7524,7 +7618,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 191840,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
@@ -7658,6 +7752,28 @@
       "duration_ms": 165668,
       "name": "new friends",
       "url": "https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ"
+    },
+    {
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
       "album": {
@@ -8912,7 +9028,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 151016,
       "name": "Ruin Me",
       "url": "https://open.spotify.com/track/06aYveh0EiqRRfewlpdPh5"
@@ -9232,7 +9348,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 163559,
       "name": "savior",
       "url": "https://open.spotify.com/track/6Heo2pp06wmsxb64urcoR0"
@@ -9690,7 +9806,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 225292,
       "name": "Smitten",
       "url": "https://open.spotify.com/track/0dj0VzB0HuqwriLuce76e6"
@@ -11078,6 +11194,28 @@
       "duration_ms": 163722,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0w9z8zQTNKOwp56AK42jkB"
+    },
+    {
+      "album": {
+        "name": "That's Her (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/2YTsUD2n4AWeXGK51A4fYb"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "That's Her (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/3mAttc0Ojiw3xELRfVN6Ea"
     },
     {
       "album": {
@@ -13026,6 +13164,24 @@
       "duration_ms": 163000,
       "name": "WOMAN\u2019S WORLD",
       "url": "https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW"
+    },
+    {
+      "album": {
+        "name": "Wonderful Thing",
+        "url": "https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134198,
+      "name": "Wonderful Thing",
+      "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"
     },
     {
       "album": {

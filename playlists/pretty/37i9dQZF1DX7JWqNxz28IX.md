@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,295 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,292 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 21 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 |
 | 22 | [castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [castles](https://open.spotify.com/album/26dxoE2E0uXPs8zhlo7PxR) | 2:24 |
 | 23 | [girl](https://open.spotify.com/track/3vMMqHjTyukdNcIVvzka2c) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 3:06 |
-| 24 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
+| 24 | [verticale](https://open.spotify.com/track/7CRiclkzpprFei2hnUagca) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 4:28 |
 | 25 | [l'ultima stella \(feat\. Visino Bianco\)](https://open.spotify.com/track/7el3huhG3gAMjjJehLd1sT) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr), [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [l'ultima stella \(feat\. Visino Bianco\)](https://open.spotify.com/album/5ykfizUolhrCdf8yYwnw6p) | 2:58 |
-| 26 | [verticale](https://open.spotify.com/track/7CRiclkzpprFei2hnUagca) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 4:28 |
+| 26 | [CUORE RINCHIUSO](https://open.spotify.com/track/0DGqgl9pcwDEn5qM9L6y5d) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [CUORE RINCHIUSO](https://open.spotify.com/album/1PQfrFscLTGJxoURQ8pjKX) | 2:15 |
 | 27 | [RemindsMeOfMyself](https://open.spotify.com/track/4u4V5hLnTJwNRYty5coqEr) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [ItsTheLeastWeCanDo](https://open.spotify.com/album/2nWtM6uN42CmcAmi7JuRDM) | 2:30 |
-| 28 | [KING NOTHINGG](https://open.spotify.com/track/4pTeMPZunwlT9ZVaE9NvvO) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/2cEL04tddUszYFy6tEM1rI) | 2:26 |
-| 29 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 |
+| 28 | [Danimarca](https://open.spotify.com/track/5bkUPNhCQ3LlUEnOT9jQW3) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [Danimarca](https://open.spotify.com/album/01yiaCziEOgYtQZggS6hYA) | 2:46 |
+| 29 | [KING NOTHINGG](https://open.spotify.com/track/4pTeMPZunwlT9ZVaE9NvvO) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/2cEL04tddUszYFy6tEM1rI) | 2:26 |
 | 30 | [MIGLIAIA DI PROBLEMI](https://open.spotify.com/track/62gN6FiKKiWnYIE8RPhRM5) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [MIGLIAIA DI PROBLEMI](https://open.spotify.com/album/4O6bLYvHWxJecTT95NQGeY) | 2:12 |
 | 31 | [Acqua Salata](https://open.spotify.com/track/4FgLocnzkfcDbEjKU9Q2ts) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua Salata](https://open.spotify.com/album/3wpFDAZw49DchQMUWfi0iY) | 3:52 |
 | 32 | [RepeatInfinite](https://open.spotify.com/track/4ALZ8gmNvmtOVNkZwK19dC) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:59 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 92 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 |
 | 93 | [Primavera](https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Foglio rosa](https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7) | 2:19 |
 | 94 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
-| 95 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
+| 95 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 96 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
-| 97 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
+| 97 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |
 | 98 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 99 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 |
 | 100 | [distruggermi piano](https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [distruggermi](https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B) | 2:45 |

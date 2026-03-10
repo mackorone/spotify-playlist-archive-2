@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO3qyFxbkOE1.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Mexico.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,183,935 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,184,275 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbO3qyFxbkOE1.md) - [plain]
 | 49 | [Alaska](https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Alaska](https://open.spotify.com/album/3MvcDpkQUcYIQJx35P1l12) | 3:26 |
 | 50 | [PIÉNSALO](https://open.spotify.com/track/4ZOkfHC38nxSeSqzGE5HFr) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 4:00 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

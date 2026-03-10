@@ -12613,6 +12613,24 @@
     },
     {
       "album": {
+        "name": "Humiliation Ritual",
+        "url": "https://open.spotify.com/album/7J5jQo3kiK4rKN2UXXTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Kyra Machida",
+          "url": "https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142978,
+      "name": "Humiliation Ritual",
+      "url": "https://open.spotify.com/track/1FWWfdQgVeyHsPnScxtsRk"
+    },
+    {
+      "album": {
         "name": "Hunnyb\u00e5n / Fine Curls",
         "url": "https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M"
       },
@@ -17278,7 +17296,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 146378,
       "name": "Lucky Number One",
       "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"

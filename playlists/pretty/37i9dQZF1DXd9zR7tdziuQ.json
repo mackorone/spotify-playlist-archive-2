@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 962324,
+  "num_followers": 962350,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Spotify Session",
-        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "I'm Not the Only One - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Spotify Session",
+        "url": "https://open.spotify.com/album/3NW16XZ8U99Qm8E9v52UTz"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "I'm Not the Only One - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7wIYDzWW82O6Rc4vGuzjND"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
-      },
-      "artists": [
-        {
-          "name": "The Wind and The Wave",
-          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "The Bluebird of Happiness",
         "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 269920,
       "name": "Halo",
       "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
+      },
+      "artists": [
+        {
+          "name": "The Wind and The Wave",
+          "url": "https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy"
+        }
+      ],
+      "duration_ms": 268893,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 154764,
       "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "#Acoustic",
-        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "It Aint me (Acoustic)",
         "url": "https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "#Acoustic",
+        "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Dancing In The Moonlight: The Best Of Toploader",
+        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Dancing in the Moonlight - Acoustic Version",
+      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 176182,
       "name": "Shut up and Dance",
       "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Dancing In The Moonlight: The Best Of Toploader",
-        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Dancing in the Moonlight - Acoustic Version",
-      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Blood & Rust",
+        "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 239133,
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Mama (Acoustic)",
         "url": "https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5"
       },
@@ -2059,18 +2075,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Blood & Rust",
-        "url": "https://open.spotify.com/album/3i0G8lTtnie5oGe4xJuicR"
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp"
       },
       "artists": [
         {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
         }
       ],
-      "duration_ms": 239133,
-      "name": "Dancing in the Dark",
-      "url": "https://open.spotify.com/track/0aLBrgdmfl1DADg3ZO6y0N"
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2107,6 +2123,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Sweet Child o\u2019 Mine",
+        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0w8ZP4LJNTahWf43STWyIA"
       },
@@ -2139,22 +2171,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Send Me on My Way (Acoustic)",
-        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 187812,
-      "name": "Send Me on My Way (Acoustic)",
-      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Acoustic Favourites",
         "url": "https://open.spotify.com/album/1wpciFEPWX1fdgmIHO19Ez"
       },
@@ -2171,18 +2187,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/79BHHa7ok6SfZGELIOeBXp"
+        "name": "Send Me on My Way (Acoustic)",
+        "url": "https://open.spotify.com/album/1iAVTWqne8RsvIoicto48v"
       },
       "artists": [
         {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v"
+      "duration_ms": 187812,
+      "name": "Send Me on My Way (Acoustic)",
+      "url": "https://open.spotify.com/track/61tV4cFi7ECPLVdmcoTTf9"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2203,6 +2219,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "You're the One That I Want",
+      "url": "https://open.spotify.com/track/2lMT78bIa5p661B5ajMIbr"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Attention (Acoustic)",
         "url": "https://open.spotify.com/album/08BovLE1x4JHA0zJz07Oaw"
       },
@@ -2219,22 +2251,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 194129,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Without Fear (The Complete Edition)",
         "url": "https://open.spotify.com/album/55yX6dAMACVgUGxG2RCnIq"
       },
@@ -2247,6 +2263,22 @@
       "duration_ms": 149803,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/66aH9gXNBfTJUikVIZfzcA"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 194129,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/6r8OnTtDrhKBIIYgzxrnZ1"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2287,22 +2319,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Sweet Child o\u2019 Mine",
-        "url": "https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Slow Hands (Acoustic)",
         "url": "https://open.spotify.com/album/3Uab8u2BzV3lvjD6LsUBVo"
       },
@@ -2319,22 +2335,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "The Covers, Vol. 4",
         "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
       },
@@ -2347,6 +2347,22 @@
       "duration_ms": 233377,
       "name": "Set Fire To The Rain",
       "url": "https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2399,22 +2415,6 @@
       "duration_ms": 270698,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/4kG6Rt94q7eJaikOFrqsTn"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/6nhLs4qiFClX5ef3YaCfFm"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "You're the One That I Want",
-      "url": "https://open.spotify.com/track/2lMT78bIa5p661B5ajMIbr"
     },
     {
       "added_at": "2024-07-10 07:20:21",

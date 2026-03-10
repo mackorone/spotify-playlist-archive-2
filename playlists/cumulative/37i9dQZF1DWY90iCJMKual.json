@@ -1051,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "Mixed Signals",
+        "url": "https://open.spotify.com/album/1Tnc1piIaq0raoIc613uyW"
+      },
+      "artists": [
+        {
+          "name": "$ho",
+          "url": "https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132558,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/670D5GXUpwrTugYxiBpomp"
+    },
+    {
+      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt"
       },
@@ -9140,6 +9158,24 @@
       "duration_ms": 200785,
       "name": "Walang Iba",
       "url": "https://open.spotify.com/track/5h3vsRx6ipMLg7ijWECx06"
+    },
+    {
+      "album": {
+        "name": "Walang Sala",
+        "url": "https://open.spotify.com/album/3JJ5hUOZsHOsclCNAGASis"
+      },
+      "artists": [
+        {
+          "name": "K.O.N",
+          "url": "https://open.spotify.com/artist/3GetIhCdRbofYJT7EFoEv9"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171052,
+      "name": "Walang Sala",
+      "url": "https://open.spotify.com/track/12dVvamWnsPN50ZSaIqBZB"
     },
     {
       "album": {

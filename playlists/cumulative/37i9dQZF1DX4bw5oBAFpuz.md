@@ -4,12 +4,12 @@
 
 > Ideale muziek voor de werkdag
 
-624 songs - 1 day 11 hr 29 min
+625 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-02-23 | 2024-10-04 |
-| [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-26 |  |
+| [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-26 | 2026-03-10 |
 | [17](https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [17](https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe) | 3:38 | 2023-09-07 |  |
 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 | 2023-02-23 | 2025-05-10 |
 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-09-11 |  |
@@ -116,6 +116,7 @@
 | [Crush](https://open.spotify.com/track/6YXWauQKn5nQVhcC4KVplQ) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/0uKakjHwamECXOBi80uvNv) | 3:19 | 2024-03-21 | 2024-04-19 |
 | [Crush](https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz) | 3:20 | 2024-04-11 | 2025-08-29 |
 | [Daily](https://open.spotify.com/track/4HnSHcMuCSiytNZMoO5IGU) | [Vinchenzo](https://open.spotify.com/artist/6Jc18GpeJVDe3HWhfrQ0Bu) | [Daily](https://open.spotify.com/album/50ZKEw4Rfks4vpnfxNtPFM) | 2:42 | 2023-02-23 | 2023-04-26 |
+| [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2026-03-09 |  |
 | [Dance All Over Me \- Acoustic](https://open.spotify.com/track/0O2oOTckr08VasDGv8m7kc) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Dance All Over Me](https://open.spotify.com/album/2UdthZopBNkIeFXEEUg9sQ) | 3:34 | 2023-02-23 | 2024-04-19 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2023-02-23 | 2023-04-26 |
 | [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 | 2024-04-11 |  |

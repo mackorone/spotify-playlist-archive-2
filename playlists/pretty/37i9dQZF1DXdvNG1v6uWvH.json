@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Harry Styles, M\u00d8 og m\u00f6rgum fleiri!",
-  "num_followers": 9601,
+  "num_followers": 9600,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 184481,
-      "name": "Earth, Wind & California",
-      "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "LOVE, LOVE, LOVE",
         "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 242287,
       "name": "LOVE, LOVE, LOVE",
       "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 184481,
+      "name": "Earth, Wind & California",
+      "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -279,6 +279,26 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "duration_ms": 269421,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2cLjmhezy7CVKMTRAOcnEx"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 203660,
       "name": "Relive, Redie",
       "url": "https://open.spotify.com/track/4XVY1N1g9j0XKQQRSWq8RH"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "HELP(2)",
-        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        },
-        {
-          "name": "War Child Records",
-          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
-        }
-      ],
-      "duration_ms": 269421,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/2cLjmhezy7CVKMTRAOcnEx"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Love Freely",
-        "url": "https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 232044,
-      "name": "Love Freely",
-      "url": "https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 157556,
       "name": "Dog",
       "url": "https://open.spotify.com/track/7ESSAGx96yIcYmYXFXRPeC"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Love Freely",
+        "url": "https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 232044,
+      "name": "Love Freely",
+      "url": "https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "Pluto Baby",
+        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Pluto Baby",
+      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "Night Bloom",
         "url": "https://open.spotify.com/album/4bj5Sz2HFCIgWNwjEWk4I6"
       },
@@ -535,38 +551,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Turn It Around",
-        "url": "https://open.spotify.com/album/01SHVwmFX05g57hArB14RW"
-      },
-      "artists": [
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
-        }
-      ],
-      "duration_ms": 205096,
-      "name": "Turn It Around",
-      "url": "https://open.spotify.com/track/7c2GfylG2F77Ujwtt8hj4c"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "Pluto Baby",
-        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Pluto Baby",
-      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Things",
         "url": "https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "Turn It Around",
+        "url": "https://open.spotify.com/album/01SHVwmFX05g57hArB14RW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "duration_ms": 205096,
+      "name": "Turn It Around",
+      "url": "https://open.spotify.com/track/7c2GfylG2F77Ujwtt8hj4c"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "Crumbs",
         "url": "https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Gosh I Luv It !!!",
-        "url": "https://open.spotify.com/album/2KbKLg1yhMvFq0LdrjdPdH"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 203763,
-      "name": "Gosh I Luv It !!!",
-      "url": "https://open.spotify.com/track/3I7uEyg1QhIdl6msbxpieX"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "all of me was you",
         "url": "https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 184273,
       "name": "all of me was you",
       "url": "https://open.spotify.com/track/3jd0nELFcCS31ly7VmeJ71"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Gosh I Luv It !!!",
+        "url": "https://open.spotify.com/album/2KbKLg1yhMvFq0LdrjdPdH"
+      },
+      "artists": [
+        {
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+        }
+      ],
+      "duration_ms": 203763,
+      "name": "Gosh I Luv It !!!",
+      "url": "https://open.spotify.com/track/3I7uEyg1QhIdl6msbxpieX"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "It's A Shame You Swim So Well",
-        "url": "https://open.spotify.com/album/60BujIdoaJj1QfhLGbDu58"
-      },
-      "artists": [
-        {
-          "name": "Edwin Raphael",
-          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
-        }
-      ],
-      "duration_ms": 260226,
-      "name": "It's A Shame You Swim So Well",
-      "url": "https://open.spotify.com/track/68R5SgLmvLpX5F6SMmgRIn"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "better without me.",
         "url": "https://open.spotify.com/album/36yJOEUq5FtaO6ArH1LyuM"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "It's A Shame You Swim So Well",
+        "url": "https://open.spotify.com/album/60BujIdoaJj1QfhLGbDu58"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "duration_ms": 260226,
+      "name": "It's A Shame You Swim So Well",
+      "url": "https://open.spotify.com/track/68R5SgLmvLpX5F6SMmgRIn"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "Word on the street",
         "url": "https://open.spotify.com/album/51HgLUE9SGE3Li2t1KgsrX"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 120552,
       "name": "Word on the street",
       "url": "https://open.spotify.com/track/0b2M9TqXTOEHf4i4WwApB7"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Big Deal",
+        "url": "https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 150264,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -791,34 +807,18 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Big Deal",
-        "url": "https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu"
+        "name": "The Cost of Freedom",
+        "url": "https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0"
       },
       "artists": [
         {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+          "name": "Koko Love",
+          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
         }
       ],
-      "duration_ms": 150264,
-      "name": "Big Deal",
-      "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/2ajSzW4bjY8bGnRt0RBMhm"
-      },
-      "artists": [
-        {
-          "name": "Hater",
-          "url": "https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/6xmfvJOanTz7lLPTOnPCG2"
+      "duration_ms": 210681,
+      "name": "The Cost of Freedom",
+      "url": "https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -843,18 +843,18 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "The Cost of Freedom",
-        "url": "https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0"
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/2ajSzW4bjY8bGnRt0RBMhm"
       },
       "artists": [
         {
-          "name": "Koko Love",
-          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
+          "name": "Hater",
+          "url": "https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz"
         }
       ],
-      "duration_ms": 210681,
-      "name": "The Cost of Freedom",
-      "url": "https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2"
+      "duration_ms": 246546,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/6xmfvJOanTz7lLPTOnPCG2"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "PLANET 33",
-        "url": "https://open.spotify.com/album/7vvy6Lvy8oTafeQ8PnA43h"
-      },
-      "artists": [
-        {
-          "name": "Pam Rabbit",
-          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "red corvette",
-      "url": "https://open.spotify.com/track/6M4TVX69lJwHqWsugtXknT"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Don't Say You Love Me",
         "url": "https://open.spotify.com/album/3c8XPyoCW8d30Jmhlye9TF"
       },
@@ -947,22 +931,18 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "SOS XOX (ft. vi0let)",
-        "url": "https://open.spotify.com/album/6tyUrFJViUo8l93eqpn2Wh"
+        "name": "PLANET 33",
+        "url": "https://open.spotify.com/album/7vvy6Lvy8oTafeQ8PnA43h"
       },
       "artists": [
         {
-          "name": "MARiMARi",
-          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
-        },
-        {
-          "name": "vi0let",
-          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+          "name": "Pam Rabbit",
+          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
         }
       ],
-      "duration_ms": 139710,
-      "name": "SOS XOX (ft. vi0let)",
-      "url": "https://open.spotify.com/track/1reCHfsIleI81FSbGvcHBN"
+      "duration_ms": 154573,
+      "name": "red corvette",
+      "url": "https://open.spotify.com/track/6M4TVX69lJwHqWsugtXknT"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -991,6 +971,26 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "SOS XOX (ft. vi0let)",
+        "url": "https://open.spotify.com/album/6tyUrFJViUo8l93eqpn2Wh"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        },
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 139710,
+      "name": "SOS XOX (ft. vi0let)",
+      "url": "https://open.spotify.com/track/1reCHfsIleI81FSbGvcHBN"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "EVERYBODY KNOW",
         "url": "https://open.spotify.com/album/2algVHmBMOzvr0scYeJoxj"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 137844,
       "name": "EVERYBODY KNOW",
       "url": "https://open.spotify.com/track/22Eril89EV5bWP0CZivVMp"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/1cpt9fKmP3RMYoZfTHUArc"
-      },
-      "artists": [
-        {
-          "name": "Arky Waters",
-          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
-        }
-      ],
-      "duration_ms": 238887,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/2pLMx0n2rDlEdAwTSWwMQZ"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/1cpt9fKmP3RMYoZfTHUArc"
+      },
+      "artists": [
+        {
+          "name": "Arky Waters",
+          "url": "https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli"
+        }
+      ],
+      "duration_ms": 238887,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/2pLMx0n2rDlEdAwTSWwMQZ"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "Burgundy Red",
         "url": "https://open.spotify.com/album/3wHojP4JkzVrEs9d2LaHFe"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "solitude nest",
-        "url": "https://open.spotify.com/album/2CbBnZHQq2mTvNDqKtU4n5"
-      },
-      "artists": [
-        {
-          "name": "Mercedess",
-          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
-        }
-      ],
-      "duration_ms": 189341,
-      "name": "solitude nest",
-      "url": "https://open.spotify.com/track/6QnNXC3mfF27IRXFFfFM9u"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Idol Melodies",
         "url": "https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT"
       },
@@ -1123,22 +1107,18 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "After Tokyo",
-        "url": "https://open.spotify.com/album/0XwhbVYOJNBDfEryDYmvT0"
+        "name": "solitude nest",
+        "url": "https://open.spotify.com/album/2CbBnZHQq2mTvNDqKtU4n5"
       },
       "artists": [
         {
-          "name": "Saint DX",
-          "url": "https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18"
-        },
-        {
-          "name": "Rallye",
-          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
         }
       ],
-      "duration_ms": 190250,
-      "name": "After Tokyo",
-      "url": "https://open.spotify.com/track/02b5PmgFNkAGCVuvtz0ioX"
+      "duration_ms": 189341,
+      "name": "solitude nest",
+      "url": "https://open.spotify.com/track/6QnNXC3mfF27IRXFFfFM9u"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1159,6 +1139,26 @@
       "duration_ms": 120173,
       "name": "Leech",
       "url": "https://open.spotify.com/track/244k2d83RmmbcfXa6K6fgx"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "After Tokyo",
+        "url": "https://open.spotify.com/album/0XwhbVYOJNBDfEryDYmvT0"
+      },
+      "artists": [
+        {
+          "name": "Saint DX",
+          "url": "https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18"
+        },
+        {
+          "name": "Rallye",
+          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+        }
+      ],
+      "duration_ms": 190250,
+      "name": "After Tokyo",
+      "url": "https://open.spotify.com/track/02b5PmgFNkAGCVuvtz0ioX"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "jamie",
-        "url": "https://open.spotify.com/album/2Gsvf58voRfAA29s4Dullf"
-      },
-      "artists": [
-        {
-          "name": "Marie April",
-          "url": "https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "jamie",
-      "url": "https://open.spotify.com/track/24aaGiYyZmQv3E8GeswyV5"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Dear Mr. Trump",
         "url": "https://open.spotify.com/album/1pgsEDx8KVdpelUU4ET2Ae"
       },
@@ -1279,22 +1263,18 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "What's The Frequency, Kenneth?",
-        "url": "https://open.spotify.com/album/2Inzn89OscmtQde0J1eiA4"
+        "name": "jamie",
+        "url": "https://open.spotify.com/album/2Gsvf58voRfAA29s4Dullf"
       },
       "artists": [
         {
-          "name": "Kenneth Bager",
-          "url": "https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU"
-        },
-        {
-          "name": "Le Bacoll",
-          "url": "https://open.spotify.com/artist/0DPnzUnKDLwRlkVA8Fvhll"
+          "name": "Marie April",
+          "url": "https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo"
         }
       ],
-      "duration_ms": 338285,
-      "name": "What's The Frequency, Kenneth?",
-      "url": "https://open.spotify.com/track/0ABeFnrMFlJ3N2Mfyxq8Ak"
+      "duration_ms": 208680,
+      "name": "jamie",
+      "url": "https://open.spotify.com/track/24aaGiYyZmQv3E8GeswyV5"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1331,6 +1311,26 @@
       "duration_ms": 114728,
       "name": "CAN I GET UR NUMBER",
       "url": "https://open.spotify.com/track/1jbjNL3QZ3ImdTzi9I3Dli"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "What's The Frequency, Kenneth?",
+        "url": "https://open.spotify.com/album/2Inzn89OscmtQde0J1eiA4"
+      },
+      "artists": [
+        {
+          "name": "Kenneth Bager",
+          "url": "https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU"
+        },
+        {
+          "name": "Le Bacoll",
+          "url": "https://open.spotify.com/artist/0DPnzUnKDLwRlkVA8Fvhll"
+        }
+      ],
+      "duration_ms": 338285,
+      "name": "What's The Frequency, Kenneth?",
+      "url": "https://open.spotify.com/track/0ABeFnrMFlJ3N2Mfyxq8Ak"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "takumiminamino.",
-        "url": "https://open.spotify.com/album/4oEmakg4AdEYv4mEg8jPC9"
-      },
-      "artists": [
-        {
-          "name": "gr8scott.",
-          "url": "https://open.spotify.com/artist/4C1Q4YzttxJPSrvYFYfZJj"
-        }
-      ],
-      "duration_ms": 219527,
-      "name": "takumiminamino.",
-      "url": "https://open.spotify.com/track/1ZWNQttXTBV9V7ZhnJSdc0"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "dark blue night",
         "url": "https://open.spotify.com/album/00ouVcovzzdVeEtQJLP5Ym"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 305000,
       "name": "dark blue night",
       "url": "https://open.spotify.com/track/1jsvqaMxElY7fJ3b1hYkSt"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "takumiminamino.",
+        "url": "https://open.spotify.com/album/4oEmakg4AdEYv4mEg8jPC9"
+      },
+      "artists": [
+        {
+          "name": "gr8scott.",
+          "url": "https://open.spotify.com/artist/4C1Q4YzttxJPSrvYFYfZJj"
+        }
+      ],
+      "duration_ms": 219527,
+      "name": "takumiminamino.",
+      "url": "https://open.spotify.com/track/1ZWNQttXTBV9V7ZhnJSdc0"
     },
     {
       "added_at": "2026-03-06 00:00:31",

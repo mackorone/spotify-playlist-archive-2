@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-3,662 songs - 8 day 7 hr 36 min
+3,663 songs - 8 day 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Bailando](https://open.spotify.com/track/0kRJ3rwE3rTDJGnGO4HmoD) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Bailando](https://open.spotify.com/album/15w28xIK85L1TcTjNjjTAI) | 3:44 | 2022-04-04 | 2022-05-28 |
 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 | 2023-06-20 | 2023-06-28 |
 | [Baile de los esqueletos](https://open.spotify.com/track/3O1OsRHMbAMC3BEb9krqS8) | [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [Un, dos, tres, por mí y por todos](https://open.spotify.com/album/0erkJ4aigti7prmSnfxSEu) | 1:33 | 2024-11-03 | 2024-11-07 |
-| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-21 |  |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-21 | 2026-03-10 |
 | [BAIXO](https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G) | 1:44 | 2023-10-10 | 2023-10-20 |
 | [BAIXO](https://open.spotify.com/track/0rb7HcBkdMPp04ybHBfX41) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 1:44 | 2023-10-19 | 2023-10-25 |
 | [Bajale 2](https://open.spotify.com/track/1vVsx4eCWW93weO8eJL7BI) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Bajale 2](https://open.spotify.com/album/5bvqIornW5PwybS2q7UpXb) | 2:19 | 2025-03-22 | 2025-04-03 |
@@ -3603,6 +3603,7 @@
 | [Yo siempre contesto.](https://open.spotify.com/track/1ZunPTRc0PUFfdSWa3qMB1) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 3:19 | 2024-11-12 | 2025-06-25 |
 | [Yo Soy Feliz](https://open.spotify.com/track/0OuW7k0zxY135Jq4oJxniJ) | [El Pesito](https://open.spotify.com/artist/17TsQWu7cRZrMfftAk7AqB) | [Yo Soy Feliz](https://open.spotify.com/album/5ef6KpV7hufrkPPhWKz4QG) | 2:51 | 2025-11-28 | 2025-12-06 |
 | [Yo Sí Me Veía Contigo](https://open.spotify.com/track/6x0jkqB9jdaJBL2T0phUta) | [José Esparza](https://open.spotify.com/artist/1XGG9ovY2aBYQwCvh4xRzS), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Yo Sí Me Veía Contigo](https://open.spotify.com/album/3Yns3c7qHuhwMlegw08zM0) | 2:40 | 2023-05-16 | 2023-05-24 |
+| [Yo te conozco :\):](https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [FX De La Rose](https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3) | 1:58 | 2026-03-09 |  |
 | [Yo Todo Lo Doy](https://open.spotify.com/track/2fQrrBtuNVMWOHqLyk4EfO) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [ALFA & OMEGA](https://open.spotify.com/album/63HJKqg9tMk2eJyQezaTes) | 3:22 | 2022-10-11 | 2022-11-16 |
 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 | 2025-01-07 | 2025-03-04 |
 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 | 2025-07-01 | 2025-07-16 |

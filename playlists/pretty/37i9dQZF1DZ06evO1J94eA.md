@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 
 > This is Herbie Hancock\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,795 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,796 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 23 | [Speak Like A Child](https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Speak Like A Child \(Expanded Edition\)](https://open.spotify.com/album/5KnNC5kCRiEGk7dZMjr07r) | 7:50 |
 | 24 | [Bring Down the Birds \- Outtake](https://open.spotify.com/track/3i0meyRRCpIzyMmLdYssGw) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Blow\-Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1NACGaotxNRFPquvQb4Crs) | 1:46 |
 | 25 | [And What If I Don't Know](https://open.spotify.com/track/27f0Yf20I6CITv7q1BwEr3) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [My Point Of View \(Expanded Edition\)](https://open.spotify.com/album/2d2kGgtdmuiBR7D9HsOJGh) | 6:35 |
-| 26 | [Little One \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 8:47 |
-| 27 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:21 |
+| 26 | [Sly](https://open.spotify.com/track/4WyVRn3L2uXnSUkY762gqN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 10:21 |
+| 27 | [Little One \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Maiden Voyage \(Remastered 1999/Rudy Van Gelder Edition\)](https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf) | 8:47 |
 | 28 | [Sister Moon \(feat\. Sting\)](https://open.spotify.com/track/0GiqmR1TtxOTZgf3AIYEp7) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Possibilities](https://open.spotify.com/album/7MEY24jBSYdNHh5XezNWUH) | 6:54 |
 | 29 | [Don't give up](https://open.spotify.com/track/6tNodrmrsA206cZ0MTJNFN) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Imagine Project](https://open.spotify.com/album/418IYElTJziJTcSaxJy2PA) | 7:28 |
 | 30 | [Three Bags Full \- Remastered 2007](https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 5:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1J94eA.md) - [plain]
 | 49 | [Butterfly](https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Thrust](https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k) | 11:17 |
 | 50 | [I Thought It Was You](https://open.spotify.com/track/0taRW8bPp2xW6ewm6PDMTZ) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Sunlight](https://open.spotify.com/album/67PT7U66Ql5HXNf5hP5zzC) | 8:58 |
 
-Snapshot ID: `aatqgAAAAADAQJfLBLTKFAsF74GRswtY`
+Snapshot ID: `aay8AAAAAAC1hvl/I52x+jtvQ6JxjFOq`

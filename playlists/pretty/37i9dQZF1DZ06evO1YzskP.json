@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 65404,
+  "num_followers": 65418,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACQ5OcF22rxPwnuPzkO3U9t",
+  "snapshot_id": "aay8AAAAAADGu8r3l0E0qG01J7W6UnVv",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/3eBctKkHAKK88qa6XlZWut"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2prcxod9IHy67emTpzKu47"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dueles",
+        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 146032,
-      "name": "Borracho",
-      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
+      "duration_ms": 131200,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 131200,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
+      "duration_ms": 146032,
+      "name": "Borracho",
+      "url": "https://open.spotify.com/track/1sBQCmnlEwq6UN2qsQ7WIe"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 237948,
-      "name": "El Gerente",
-      "url": "https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos Mayiza",
         "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 192600,
       "name": "Somos Mayiza",
       "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 237948,
+      "name": "El Gerente",
+      "url": "https://open.spotify.com/track/0NZwFdoCx6tpXgZTZP2LWe"
     },
     {
       "added_at": null,

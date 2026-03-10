@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove with a selection of new underground deep house
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,320 likes - 138 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,394 likes - 138 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 58 | [Mother](https://open.spotify.com/track/5BQbR0EiZtA9YvfSsDCOuF) | [Megatronic](https://open.spotify.com/artist/3aU6ncVBmlnA8TtCXDwJKZ), [Chiqo Casidi](https://open.spotify.com/artist/2o1Ee1iifTeGFbOZqqbXgv) | [There's Truth In Gospel](https://open.spotify.com/album/2Xwg8pKhSG1btAogNbX0xU) | 4:50 |
 | 59 | [EFUNK Anthem \- The Funk Mix \(Radio Edit\)](https://open.spotify.com/track/0Y6k5sSmga1qIyQDBl3eTW) | [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [Drowning In Your Love EP](https://open.spotify.com/album/05GG0WTYXUI1oyindW7ZsD) | 4:42 |
 | 60 | [Midnight](https://open.spotify.com/track/2IOh8smJP9QHzGc5dEElEg) | [Aberton](https://open.spotify.com/artist/1fzHaPT9iUGRk6s8CK4C2D), [Mirko Paoloni](https://open.spotify.com/artist/3jFAQ7DJhQ3RgKxvApkaCS) | [Midnight](https://open.spotify.com/album/0tyKxc6hDzc2SUmOMVm3do) | 3:36 |
-| 61 | [things2proof \- Rosie from the Block Remix](https://open.spotify.com/track/3T8Q7KeDpdRGlQkOjtkYmd) | [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2), [Rosie From The Block](https://open.spotify.com/artist/0AsrSk8NY7dfEKF7h4XFDi) | [things2proof remixes, Vol\. 1](https://open.spotify.com/album/1YReixIhpmnSy8w0I3JUNp) | 3:55 |
+| 61 | [things2proof \- Rosie from the Block Remix](https://open.spotify.com/track/3T8Q7KeDpdRGlQkOjtkYmd) | [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2), [Rosie From The Block](https://open.spotify.com/artist/2AXxpeo2g947FYlmiByK1z) | [things2proof remixes, Vol\. 1](https://open.spotify.com/album/1YReixIhpmnSy8w0I3JUNp) | 3:55 |
 | 62 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 |
 | 63 | [Beat & Break](https://open.spotify.com/track/3UjIFdmhQ5Oy0I7W21Rzgg) | [Tesfa Williams](https://open.spotify.com/artist/11nSfSXq7PfcDhW7gT95d6) | [Beat & Break](https://open.spotify.com/album/5sbagxBlRYKNTY3hcH0bCE) | 4:38 |
 | 64 | [Stand!ng By](https://open.spotify.com/track/2sqw86P7Pd60sXWBgaWUZs) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Can't Call !t](https://open.spotify.com/album/7ngDggqJLcmLKM6hd2TVmh) | 5:04 |

@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269535,
+  "num_followers": 269569,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "X-Rated",
+        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "X-Rated",
+      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "X-Rated",
-        "url": "https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Funkdoobiest",
-          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
-        }
-      ],
-      "duration_ms": 184620,
-      "name": "X-Rated",
-      "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -895,6 +895,26 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "Skepta .. Fred",
+        "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 225897,
+      "name": "Last 1s Left",
+      "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -927,22 +947,18 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "Skepta .. Fred",
-        "url": "https://open.spotify.com/album/7x9gF8DtACwxkejv2xBndT"
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
         }
       ],
-      "duration_ms": 225897,
-      "name": "Last 1s Left",
-      "url": "https://open.spotify.com/track/78igz8PCqqNYLVyhhSh0z5"
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -963,22 +979,6 @@
       "duration_ms": 171380,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "This isn\u2019t what you think it is (EP)",
-        "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        }
-      ],
-      "duration_ms": 199395,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
         "name": "KODAK",
         "url": "https://open.spotify.com/album/7LdmGFahNZPl1EyBXeMyWS"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 173913,
       "name": "KODAK",
       "url": "https://open.spotify.com/track/30utr0JCDJbOgMPoUuV8uw"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "This isn\u2019t what you think it is (EP)",
+        "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        }
+      ],
+      "duration_ms": 199395,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "Curry Goat",
-        "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        },
-        {
-          "name": "Solesky",
-          "url": "https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw"
-        }
-      ],
-      "duration_ms": 139064,
-      "name": "Curry Goat",
-      "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
         "name": "dollaz n dollaz",
         "url": "https://open.spotify.com/album/2Bl0W2ypDwTGp04bWlDKEq"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 144826,
       "name": "dollaz n dollaz",
       "url": "https://open.spotify.com/track/6loojrz5G1FPzQyEdTm7Gs"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "Curry Goat",
+        "url": "https://open.spotify.com/album/5XZCh5gSJM8IIzgK7RFOfV"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Solesky",
+          "url": "https://open.spotify.com/artist/68Qt3UOMYDriBgoq9NAATw"
+        }
+      ],
+      "duration_ms": 139064,
+      "name": "Curry Goat",
+      "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "Howweroll",
-        "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
-      },
-      "artists": [
-        {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        }
-      ],
-      "duration_ms": 155483,
-      "name": "Howweroll",
-      "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
         "name": "Puppy",
         "url": "https://open.spotify.com/album/5YvNEVFkFgV162fGi5Kvyb"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 138461,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/5f3q2U4nESdYhs6dBaSdCA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "Howweroll",
+        "url": "https://open.spotify.com/album/1tdFexpCXqL8b1M0Fir6lz"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        }
+      ],
+      "duration_ms": 155483,
+      "name": "Howweroll",
+      "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
     },
     {
       "added_at": "2026-03-06 05:00:20",

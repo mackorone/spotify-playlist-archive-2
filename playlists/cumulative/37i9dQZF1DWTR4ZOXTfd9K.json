@@ -974,7 +974,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 276680,
       "name": "C\u00e9zanne",
       "url": "https://open.spotify.com/track/43tFlVF8B9S04520bgAjtJ"
@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Filin",
+        "url": "https://open.spotify.com/album/6VfLUVPWfuVl3pJFUsZfzt"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278196,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/7I1Pi3gacytBIYGWCIi1Yl"
+    },
+    {
+      "album": {
         "name": "Modes Of Communication: Letters From The Underworlds",
         "url": "https://open.spotify.com/album/6D5gR5dxP0iUeueQlwRQDe"
       },
@@ -2181,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Twio Vol. 2",
+        "url": "https://open.spotify.com/album/6FeF2mRDXdsvuz5gNNHDBs"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/1DFS3kMi6x9AmllIP764Uq"
+    },
+    {
+      "album": {
         "name": "Two Headed Freap",
         "url": "https://open.spotify.com/album/2raiYCmtaHV9E2RFtovGfE"
       },
@@ -2264,7 +2300,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 254560,
       "name": "Nothing Happens Here",
       "url": "https://open.spotify.com/track/3rTLTIj9UU6uss4re4G2H8"
@@ -3125,6 +3161,36 @@
     },
     {
       "album": {
+        "name": "Scenes From Above",
+        "url": "https://open.spotify.com/album/3ttcqbXYZLuyCDPQIGDacR"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "John Medeski",
+          "url": "https://open.spotify.com/artist/46IQ7Q0jkW6dW0l4e15FFD"
+        },
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        },
+        {
+          "name": "Kenny Wollesen",
+          "url": "https://open.spotify.com/artist/6Zn84vmI9vs51dH9UK52bV"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306733,
+      "name": "Talking Drum",
+      "url": "https://open.spotify.com/track/4WMrkgRmUY6XtBherim20v"
+    },
+    {
+      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -3320,7 +3386,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 368402,
       "name": "The Solitary Seeker",
       "url": "https://open.spotify.com/track/0L2naOS6D4kKI3DiNhmru5"

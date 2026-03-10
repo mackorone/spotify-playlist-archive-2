@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Bad Gyal, Shakira con Beéle, Harry Styles y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,857 likes - 71 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,858 likes - 71 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 27 | [Se Hizo Realidad](https://open.spotify.com/track/43MS98DssZVzXC7PR5J2vF) | [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Aloy](https://open.spotify.com/artist/3gehFozuAvROPOiqCT8OjI), [Teno Alvarez](https://open.spotify.com/artist/4H8Ey5shVulQzW3fNWGCZQ), [Mc Caribeño](https://open.spotify.com/artist/0GrUv9AqxHpyPl3TTSGcp0) | [Se Hizo Realidad](https://open.spotify.com/album/4g0X7ylwguyZsW6l6Ebrox) | 3:09 |
 | 28 | [RAPSINCORTE 57](https://open.spotify.com/track/5NGyqTq5fqeOUx8leNDSfn) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [RAPSINCORTE 57](https://open.spotify.com/album/5m68FwXNkeAULPTa4Eme0E) | 2:15 |
 | 29 | [Pequeños Fuegos por Todas Partes](https://open.spotify.com/track/4Zx9xPROYcz76508hO4tnX) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc), [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [ZPU](https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb), [Locus](https://open.spotify.com/artist/6vuZePQX5LQJGq4SGIUMFR), [Club 4](https://open.spotify.com/artist/79vkBFesydiI0Gfueb4xEw) | [BALANCE \[PARTE UNO\]](https://open.spotify.com/album/5HILIgflbg9H8jWSIu8gCZ) | 5:00 |
-| 30 | [UN PIKETON](https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [le f\*llen al miedo](https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi) | 2:27 |
+| 30 | [UN PIKETON](https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [le f\*llen al miedo](https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi) | 2:27 |
 | 31 | [POMPA](https://open.spotify.com/track/6qPAOTd3wyzq9iNXkSjpmO) | [Anthony & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7) | [POMPA](https://open.spotify.com/album/4aFMv7KAZ0AQVZAmHa6k5t) | 2:29 |
 | 32 | [Me Gusta Más Tu Mamá Que Tú](https://open.spotify.com/track/7zybWxQbA2ghneUJh1Wc17) | [Los de la Miel](https://open.spotify.com/artist/2FS4h1jQ8hW1a79MZR6qPw) | [Me Gusta Más Tu Mamá Que Tú](https://open.spotify.com/album/0xwlphgIrnhAupdoM5F8Ek) | 3:22 |
 | 33 | [LQNTD \(Lo que nunca te dije\) \(feat\. Dalex\)](https://open.spotify.com/track/7shyHgsDAJ9nrPrPGW7bjh) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Agua Salada](https://open.spotify.com/album/1GKrXL0T9MlmSsCiCULrHw) | 2:15 |

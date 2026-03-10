@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 884 songs - 1 day 21 hr 12 min
+[Wyatt Zaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 884 songs - 1 day 21 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

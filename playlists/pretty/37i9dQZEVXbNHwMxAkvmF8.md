@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNHwMxAkvmF8.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,251 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,258 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNHwMxAkvmF8.md) - [plain]
 | 49 | [Rampapapam](https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Lord Panamo](https://open.spotify.com/artist/7veanrmdYNXRdmVxbsjSNh) | [CARPE DIEM](https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb) | 3:09 |
 | 50 | [Passport](https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Lidokain](https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ) | 2:17 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 222882,
+  "num_followers": 222974,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Patan",
-          "url": "https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz"
-        }
-      ],
-      "duration_ms": 293346,
-      "name": "Volar Volar",
-      "url": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "El Chivo",
         "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 275400,
       "name": "El Chivo (feat. T3r Elemento)",
       "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Patan",
+          "url": "https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz"
+        }
+      ],
+      "duration_ms": 293346,
+      "name": "Volar Volar",
+      "url": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Con el Coco Rapado",
-      "url": "https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "Con el Coco Rapado",
+      "url": "https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Faruz Fit, Vol. 1",
-        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 204214,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Faruz Fit, Vol. 1",
+        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 204214,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Chaco (Serie Rock Nacional 2004)",
         "url": "https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Nunca Vemos Nada",
-        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Sexo de Despedida",
-      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Tequila Sunrise",
         "url": "https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 237333,
       "name": "Tequila Sunrise - Spanish Version",
       "url": "https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Nunca Vemos Nada",
+        "url": "https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Sexo de Despedida",
+      "url": "https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Expreso Aerophon",
-        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
-      },
-      "artists": [
-        {
-          "name": "Aerophon",
-          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
-        }
-      ],
-      "duration_ms": 313183,
-      "name": "Mi Familia",
-      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Mi Vicio",
         "url": "https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 222066,
       "name": "Mi Vicio",
       "url": "https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Expreso Aerophon",
+        "url": "https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr"
+      },
+      "artists": [
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
+        }
+      ],
+      "duration_ms": 313183,
+      "name": "Mi Familia",
+      "url": "https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Lo Necesario",
+        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 193330,
+      "name": "Pasame la Yesca",
+      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Dale Gas",
         "url": "https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 212495,
       "name": "Dale Gas",
       "url": "https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Lo Necesario",
-        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 193330,
-      "name": "Pasame la Yesca",
-      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
     },
     {
       "added_at": "2024-07-12 18:46:41",

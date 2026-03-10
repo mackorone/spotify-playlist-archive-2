@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,418 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,423 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 11 | [not a fantasy](https://open.spotify.com/track/0rfX5QNcW0Ne4IzdLNkfxA) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 2:14 |
 | 12 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 |
 | 13 | [99%](https://open.spotify.com/track/0o3sj3ey0ToG7RFan4Iboa) | [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU) | [99%](https://open.spotify.com/album/14qQptEky4jLSxxJ0jIuNn) | 2:58 |
-| 14 | [Days Are Over](https://open.spotify.com/track/2HEQmnm5GxHysvHRc5uttV) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i), [Kaliyah S.](https://open.spotify.com/artist/1xKe2GHa2JWDHVTNZRtEpT) | [Days Are Over](https://open.spotify.com/album/22pHrLhD7PQ5RTE0F4AaqB) | 2:57 |
+| 14 | [Days Are Over](https://open.spotify.com/track/2HEQmnm5GxHysvHRc5uttV) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Days Are Over](https://open.spotify.com/album/22pHrLhD7PQ5RTE0F4AaqB) | 2:57 |
 | 15 | [Shut It Down](https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Shut It Down](https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT) | 2:26 |
 | 16 | [Fantasy](https://open.spotify.com/track/2t59BDeppXjzPUDQtbzoqc) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Fantasy](https://open.spotify.com/album/0YhwyHFb8hngSqSyXgu071) | 3:42 |
 | 17 | [Lights On](https://open.spotify.com/track/4UWzCixQ0QxjzttrG1cYMI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Lights On](https://open.spotify.com/album/53n2pGHjDjIBCuFV093YPN) | 2:29 |

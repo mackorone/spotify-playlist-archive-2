@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! RPLK y DannyLux en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,141 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,156 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 46 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
 | 47 | [Lienzo](https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Lienzo](https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv) | 3:00 |
 | 48 | [BRAINCHEM](https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [BRAINCHEM](https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf) | 2:28 |
-| 49 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 |
-| 50 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
+| 49 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
+| 50 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 |
 
 Snapshot ID: `AAAAAB3OfwIPp8YHiavDuErwXE8iD12J`

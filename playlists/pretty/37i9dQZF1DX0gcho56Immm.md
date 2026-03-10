@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Maria BC
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,999 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,063 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 4 | [Butterfly Knives](https://open.spotify.com/track/7kSrQbne9ovuITpTocNc4i) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Butterfly Knives](https://open.spotify.com/album/4zkWLFaNafYsgjBggpjMF6) | 3:35 |
 | 5 | [The Coward Forgets His Nightmare](https://open.spotify.com/track/4x6ZZ97Ze9K8IoaHFkxJWb) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [The Coward Forgets His Nightmare](https://open.spotify.com/album/792UORpgms3EOVSbVtSD0A) | 3:32 |
 | 6 | [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 |
-| 7 | [unravelled roads less travelled](https://open.spotify.com/track/494qesfpxYkipe7LjuXIl3) | [Flow Clark](https://open.spotify.com/artist/43nFOwQey7Bz7ttphB5cKC) | [unravelled roads less travelled](https://open.spotify.com/album/6k5kilfNaP6sFZEIRWq0gb) | 1:52 |
+| 7 | [unravelled roads less travelled](https://open.spotify.com/track/494qesfpxYkipe7LjuXIl3) | [Flow Clark](https://open.spotify.com/artist/43nFOwQey7Bz7ttphB5cKC), [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk) | [unravelled roads less travelled](https://open.spotify.com/album/6k5kilfNaP6sFZEIRWq0gb) | 1:52 |
 | 8 | [Shadow Of A Bird](https://open.spotify.com/track/5khNrNDRBfOpMZccGImGVZ) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [Shadow Of A Bird](https://open.spotify.com/album/2q7MrQ1wRDkJCpzhPdkgwi) | 3:27 |
 | 9 | [If I](https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [If I](https://open.spotify.com/album/5rdeXSZ2oLrt4DoKXAxnzo) | 2:56 |
 | 10 | [Boyface](https://open.spotify.com/track/16WSwwZg4SPNYwy3X4W7Ns) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [No More Like This](https://open.spotify.com/album/12DsfLStHj9iTWgbNQVoRK) | 3:16 |

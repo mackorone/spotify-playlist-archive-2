@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Kler",
-  "num_followers": 13999,
+  "num_followers": 14007,
   "original_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-03-05 22:00:15",
-      "album": {
         "name": "Beat Yourself Up",
         "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 178461,
       "name": "Beat Yourself Up",
       "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-03-05 22:00:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "TYT",
-        "url": "https://open.spotify.com/album/5e5IyjB6CJTrEh8TD5YzhR"
-      },
-      "artists": [
-        {
-          "name": "Monokate",
-          "url": "https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF"
-        }
-      ],
-      "duration_ms": 166486,
-      "name": "TYT",
-      "url": "https://open.spotify.com/track/6qj3K4gUD0vALscsTgMUpV"
-    },
-    {
-      "added_at": "2026-03-05 22:00:15",
-      "album": {
         "name": "Bird of Pray (Eurovision 2025)",
         "url": "https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Romcom",
-        "url": "https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d"
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/5e5IyjB6CJTrEh8TD5YzhR"
       },
       "artists": [
         {
-          "name": "CHEEV",
-          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
+          "name": "Monokate",
+          "url": "https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF"
         }
       ],
-      "duration_ms": 193608,
-      "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
-      "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
+      "duration_ms": 166486,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/6qj3K4gUD0vALscsTgMUpV"
     },
     {
       "added_at": "2026-03-05 22:00:15",
@@ -1095,6 +1079,22 @@
       "duration_ms": 193513,
       "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
       "url": "https://open.spotify.com/track/0i5arZ6f0zuS2M6K1NgOPO"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Romcom",
+        "url": "https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d"
+      },
+      "artists": [
+        {
+          "name": "CHEEV",
+          "url": "https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "\u0422\u0432\u0456\u0439 \u0430\u0440\u043e\u043c\u0430\u0442",
+      "url": "https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF"
     },
     {
       "added_at": "2026-03-05 22:00:15",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Stomach Butterflies",
-        "url": "https://open.spotify.com/album/3yP0f4ywFTS8Y2SJAtmIvv"
+        "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
+        "url": "https://open.spotify.com/album/50qlzYAjmFiBiMqvk2qLpY"
       },
       "artists": [
         {
-          "name": "MAX BARSKIH",
-          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+          "name": "KLER",
+          "url": "https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui"
         }
       ],
-      "duration_ms": 171176,
-      "name": "Stomach Butterflies",
-      "url": "https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG"
+      "duration_ms": 213625,
+      "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
+      "url": "https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh"
     }
   ],
   "unique_name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",

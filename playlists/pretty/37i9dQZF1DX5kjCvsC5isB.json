@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 315135,
+  "num_followers": 315144,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5"
+      },
+      "artists": [
+        {
+          "name": "Hana Lili",
+          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 219964,
       "name": "Perfume",
       "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5"
-      },
-      "artists": [
-        {
-          "name": "Hana Lili",
-          "url": "https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
+        "name": "Scaredy Pants",
+        "url": "https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C"
+      },
+      "artists": [
+        {
+          "name": "Venus & the Flytraps",
+          "url": "https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Scaredy Pants",
+      "url": "https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
-        "name": "Scaredy Pants",
-        "url": "https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C"
-      },
-      "artists": [
-        {
-          "name": "Venus & the Flytraps",
-          "url": "https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Scaredy Pants",
-      "url": "https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Over The Threshold",
-        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
-      },
-      "artists": [
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Over The Threshold",
-      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx"
       },
@@ -947,18 +931,34 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+        "name": "Over The Threshold",
+        "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
         }
       ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 249600,
+      "name": "Over The Threshold",
+      "url": "https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Always Get This Way",
+        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 174258,
+      "name": "Always Get This Way",
+      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Always Get This Way",
-        "url": "https://open.spotify.com/album/48liucxcaJK4rfLASDRuC0"
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
       "artists": [
         {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 174258,
-      "name": "Always Get This Way",
-      "url": "https://open.spotify.com/track/1RKP6D6QvUStrPP5TvPnXA"
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "SILYMI",
-        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
-      },
-      "artists": [
-        {
-          "name": "TeZATalks",
-          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
-        }
-      ],
-      "duration_ms": 149388,
-      "name": "SILYMI",
-      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "THE BLOB",
         "url": "https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 142467,
       "name": "THE BLOB",
       "url": "https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "SILYMI",
+        "url": "https://open.spotify.com/album/6e9e4kvwl1CY0HtQ92vGbg"
+      },
+      "artists": [
+        {
+          "name": "TeZATalks",
+          "url": "https://open.spotify.com/artist/6olAhxDEja5fYKEHF6tA2W"
+        }
+      ],
+      "duration_ms": 149388,
+      "name": "SILYMI",
+      "url": "https://open.spotify.com/track/2z1tHGVkMogil6jUCbZowQ"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 163785,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Lose You",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 175386,
       "name": "Lose You",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0Yv8BeGMwLuJ4OGMFmnSjW"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 163785,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk"
-      },
-      "artists": [
-        {
-          "name": "Jenna Doe",
-          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
-        }
-      ],
-      "duration_ms": 151240,
-      "name": "Shock Value",
-      "url": "https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Kills Me To Be Kind",
         "url": "https://open.spotify.com/album/3czh2aXLBfbPOXpEgB9gJg"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 280982,
       "name": "Kills Me To Be Kind",
       "url": "https://open.spotify.com/track/1wgfWQz5Fh3R6P6xPIAVuY"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/5cVacBIUo7WFhmYgDcdIBk"
+      },
+      "artists": [
+        {
+          "name": "Jenna Doe",
+          "url": "https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT"
+        }
+      ],
+      "duration_ms": 151240,
+      "name": "Shock Value",
+      "url": "https://open.spotify.com/track/1qbTtRXFyAxljtCdY5lfZW"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "dizzy spells",
-        "url": "https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV"
-      },
-      "artists": [
-        {
-          "name": "SIIICKBRAIN",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "headspace",
-      "url": "https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "you don't like me like that",
         "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 155706,
       "name": "you don't like me like that",
       "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "dizzy spells",
+        "url": "https://open.spotify.com/album/2ZdFXmyVHTbVDKnlh3FGpV"
+      },
+      "artists": [
+        {
+          "name": "SIIICKBRAIN",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "headspace",
+      "url": "https://open.spotify.com/track/54thSyOHsTvRy8UYoEct7Y"
     },
     {
       "added_at": "2024-07-05 22:18:14",

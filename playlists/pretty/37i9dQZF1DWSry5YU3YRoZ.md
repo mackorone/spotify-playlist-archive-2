@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,556 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,554 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [허밍](https://open.spotify.com/track/00Vb6M1L9WRIdh5dd6YfzU) | [Saevie](https://open.spotify.com/artist/6VkF74y0Xi38WJyePVqwCV) | [movie luv](https://open.spotify.com/album/4mmvmbNoEA1Qdr1ZRx21Sv) | 3:02 |
-| 2 | [Microhabitat \(feat\. Kim gyeol\)](https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Microhabitat](https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY) | 2:47 |
-| 3 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
-| 4 | [waves of breath](https://open.spotify.com/track/5ajLX6U5w0toYHOuHLbYcw) | [nardis](https://open.spotify.com/artist/2zijxd48081ELuuNZ6L9I8) | [circle](https://open.spotify.com/album/4BbksAHBI4aDCyWRgnyPan) | 3:34 |
-| 5 | [Half Awake](https://open.spotify.com/track/17ggyD7GkCsCmHfrcXn1Hq) | [Kimeeum](https://open.spotify.com/artist/00wCPSTKdwVpRMESYGWtHg) | [The Day After Today](https://open.spotify.com/album/5vtDArVgAKBBBzTYD4qR5C) | 3:47 |
-| 6 | [Heart, Night](https://open.spotify.com/track/7xjG4pljWEUqSzpy9p1gcj) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [From a Stained Heart](https://open.spotify.com/album/5IMQAkahsdXqNqvSkjZGK1) | 3:25 |
+| 1 | [love song](https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [love song](https://open.spotify.com/album/5MbXbQBOrTmBlCNSIKqjEl) | 3:23 |
+| 2 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 |
+| 3 | [Diary](https://open.spotify.com/track/0vhWlFD7OuYack7ubf4srG) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Diary](https://open.spotify.com/album/75dsAreQtSJNsp2HPw2ViK) | 3:33 |
+| 4 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
+| 5 | [Microhabitat \(feat\. Kim gyeol\)](https://open.spotify.com/track/5LiVDw69xDemUK2MytNo3r) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Microhabitat](https://open.spotify.com/album/2HTa1kFoNdhjJIm6iS4oaY) | 2:47 |
+| 6 | [허밍](https://open.spotify.com/track/00Vb6M1L9WRIdh5dd6YfzU) | [Saevie](https://open.spotify.com/artist/6VkF74y0Xi38WJyePVqwCV) | [movie luv](https://open.spotify.com/album/4mmvmbNoEA1Qdr1ZRx21Sv) | 3:02 |
 | 7 | [Sweetbitter](https://open.spotify.com/track/11NREXvElBBK1AinDmyyAC) | [RIO](https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g) | [The Young Lover](https://open.spotify.com/album/7t6I8wuSmjZvCUkE8feG8Q) | 2:54 |
 | 8 | [Letter](https://open.spotify.com/track/6Z6IBsPsIF9nHEUNVHRtQF) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [Letter](https://open.spotify.com/album/6U4o7ATJnV0qbF0a9eSQaD) | 2:57 |
 | 9 | [Nothing but Morning](https://open.spotify.com/track/1orzWbS2okDKB1vWEBP7KL) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [My Blue has always been Shattered by the Night](https://open.spotify.com/album/2N2teRvKYYxgY0vh5c4aef) | 4:17 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 40 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
 | 41 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
 | 42 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
-| 43 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 |
+| 43 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
 | 44 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
-| 45 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
-| 46 | [꿈\(Dream\)](https://open.spotify.com/track/6ymeSINIohMTFXuKm9fWEL) | [naso\(나소\)](https://open.spotify.com/artist/0itd1HH3C6EgLLjhIkkYBj) | [Dream\(꿈\)](https://open.spotify.com/album/6XgPs1WzuRhSyuRbpK22ZF) | 2:33 |
-| 47 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
-| 48 | [unveil](https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [unveil](https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly) | 3:54 |
-| 49 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |
-| 50 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
+| 45 | [꿈\(Dream\)](https://open.spotify.com/track/6ymeSINIohMTFXuKm9fWEL) | [naso\(나소\)](https://open.spotify.com/artist/0itd1HH3C6EgLLjhIkkYBj) | [Dream\(꿈\)](https://open.spotify.com/album/6XgPs1WzuRhSyuRbpK22ZF) | 2:33 |
+| 46 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
+| 47 | [waves of breath](https://open.spotify.com/track/5ajLX6U5w0toYHOuHLbYcw) | [nardis](https://open.spotify.com/artist/2zijxd48081ELuuNZ6L9I8) | [circle](https://open.spotify.com/album/4BbksAHBI4aDCyWRgnyPan) | 3:34 |
+| 48 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 |
+| 49 | [In Other Words](https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 2:35 |
+| 50 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |
 
-Snapshot ID: `AAAAAE7VGpxn3MqviFV2Xl4jBCzRs6e7`
+Snapshot ID: `AAAAAPCdNecxAgSr54SQK/i+UqNAev6N`

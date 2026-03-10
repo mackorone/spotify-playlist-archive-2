@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Harry Styles, Shakira & Beéle, Ty Dolla $ign, Denzel Curry, Yebba, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,526,803 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,526,424 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-999 songs - 2 day 2 hr 29 min
+1,001 songs - 2 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/track/3cqQbJbm9KnTWixphVZJ2u) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Leah Guest](https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe) | [Hurricane \(feat\. Leah Guest\)](https://open.spotify.com/album/0AykD0vZXh4qotarIZaein) | 2:33 | 2024-07-12 | 2024-07-27 |
 | [Hurt Me Now](https://open.spotify.com/track/5VcerLp7EuVSEG092Xc5Qf) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Hurt Me Now](https://open.spotify.com/album/2Q1Zc46l5pDtHWZhbPJHTY) | 2:29 | 2024-07-15 | 2024-07-19 |
 | [Hypnotic](https://open.spotify.com/track/649ZGPOQ7cJfFpXrUavJis) | [Antoine Delvig](https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl), [LUISDEMARK](https://open.spotify.com/artist/6V8FJ4jrLkendobaeT99an) | [Hypnotic](https://open.spotify.com/album/4pwoQ3CAH2k3I3sU5fv3sO) | 2:40 | 2025-06-05 | 2025-06-13 |
+| [Hypnotise](https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Enveak](https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS), [SURAYA](https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Hypnotise](https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ) | 2:53 | 2026-03-09 |  |
 | [Hypnotised](https://open.spotify.com/track/3MBTTZdEDxkxhlZ6sRPGtA) | [Jessi Selm](https://open.spotify.com/artist/1WLMT9B3XcmOH7WxEOi4pq) | [Hypnotised](https://open.spotify.com/album/0Hal36AbLV32WQOVks52Ot) | 3:01 | 2025-10-31 | 2026-02-07 |
 | [Hypnotize](https://open.spotify.com/track/2wpKrUpntAe6ZVnBw4OeYZ) | [Corti Organ](https://open.spotify.com/artist/0v0dCyLQpm5BcEL90AcnBK) | [Hypnotize](https://open.spotify.com/album/5iex6vbWhV7bEJmNu5t1XP) | 2:31 | 2025-10-31 | 2026-02-07 |
 | [Hypnotized](https://open.spotify.com/track/5hDt0PaWpcCwgRtxW31I6e) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR) | [Hypnotized](https://open.spotify.com/album/0SWT2Yp1noly9h12a3rq1h) | 2:33 | 2024-07-19 | 2024-07-27 |
@@ -635,6 +636,7 @@
 | [No Broke Boys \- Speed Garage](https://open.spotify.com/track/2M00epEjwMJYXSlLIxS09H) | [Blura](https://open.spotify.com/artist/6ooDhfVbWKuHNGt9lj3dws) | [No Broke Boys \(Speed Garage\)](https://open.spotify.com/album/0UFSA9gzgg83Bf2RutVazT) | 2:11 | 2025-11-21 | 2026-02-07 |
 | [No Ecstasy Love](https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [No Ecstasy Love](https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e) | 3:25 | 2025-01-30 | 2025-05-31 |
 | [No Guest List \(JADED Remix\)](https://open.spotify.com/track/3Xfm77Umzbn9ZsKgJS77Ri) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [No Guest List \(Deluxe\)](https://open.spotify.com/album/4jqN516qvONpfooV7unWcQ) | 3:48 | 2024-08-05 | 2024-08-09 |
+| [No Lames](https://open.spotify.com/track/1SbDWaKSqQz3RjjINLUgI0) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo), [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [No Lames](https://open.spotify.com/album/3ElEMTFQpVwIpYuSDtTt1U) | 3:05 | 2026-03-09 |  |
 | [No More](https://open.spotify.com/track/5ha6s3u7nPC6sYnSUg8UZX) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [No More](https://open.spotify.com/album/7JE13rKgfNcIeUwRMBEM8Y) | 3:43 | 2024-08-23 | 2024-08-31 |
 | [No More](https://open.spotify.com/track/6LV6eEwUv4Ol0mAt32babe) | [ELSAN](https://open.spotify.com/artist/34RMiyDVpfbchygnvmJjs7) | [No More](https://open.spotify.com/album/5Nr2gRgXQBC0KDorT4s7In) | 3:34 | 2025-10-17 | 2026-02-14 |
 | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/track/6EH33BG9UhIYrezYC7v2Mx) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [No Regrets \(feat\. Krewella\) \[YUSSI Remix\]](https://open.spotify.com/album/3dpwY24QK5adMTsTs6mmOI) | 3:57 | 2025-06-13 | 2025-06-28 |

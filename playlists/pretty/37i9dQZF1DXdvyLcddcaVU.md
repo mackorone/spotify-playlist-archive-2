@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,228 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,269 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [B.M.S \(by my side\)](https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [B.M.S \(by my side\)](https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3) | 2:05 |
-| 2 | [J'tavais dis](https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [J'tavais dis](https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y) | 1:52 |
+| 2 | [J'tavais dit](https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [J'tavais dit](https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y) | 1:52 |
 | 3 | [OG](https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [OG](https://open.spotify.com/album/4859Y9IWnv38DK6CwWITtb) | 2:44 |
 | 4 | [FOCUS](https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0) | [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [FOCUS](https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z) | 2:18 |
 | 5 | [Na Za Désolé](https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU) | [Na Za Désolé](https://open.spotify.com/album/1rLDCAOf1YrN1viEJTelte) | 3:27 |

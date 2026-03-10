@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,032 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,033 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 37 | [Midnight Cruising](https://open.spotify.com/track/0xa4flflOYX1HAQIHhEjbe) | [Bdeey](https://open.spotify.com/artist/1pacZxvVuPGfVPYDHuoZ7i) | [Midnight Cruising](https://open.spotify.com/album/3XcNPRMIAvKsZsOT7XkUo5) | 3:00 |
 | 38 | [Lwad Wadi](https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE) | [JAMRAH جَمْرَهْ](https://open.spotify.com/artist/0xyOmQLLbfLXZ47KdwjDa4) | [Lwad Wadi](https://open.spotify.com/album/42sHriXfgIFyyUXiDaynqT) | 3:42 |
 | 39 | [مالي وإن أغمضت عيني \- Mali](https://open.spotify.com/track/19Gu2pNDq4D6C18AEwUWTP) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [مالي وإن أغمضت عيني \- Mali](https://open.spotify.com/album/3VrcJI3i6uGeDkfHLrHIwa) | 3:02 |
-| 40 | [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA](https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 |
+| 40 | [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA NADIN](https://open.spotify.com/artist/3MavIKLm4WaqPiHyNRouxK) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 |
 | 41 | [Hayni Hoon](https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Hayni Hoon](https://open.spotify.com/album/2WrZYy9wUqMi9bQ3nN2pDr) | 3:07 |
 | 42 | [SOLARR](https://open.spotify.com/track/23mWBNJHv0B4UF5CsYTujh) | [Mao](https://open.spotify.com/artist/4cb8yNt7de02GQkL9ibmaV) | [SOLARR ECLIPSE](https://open.spotify.com/album/0lFizxfo164ay2N9rTPO4V) | 3:28 |
 | 43 | [Wein Hal Ghaybe](https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5) | [Talia Lahoud](https://open.spotify.com/artist/2GZKdLlhqyduNJvT1CcaGD) | [Wein Hal Ghaybe](https://open.spotify.com/album/6tQQ242xkPSa0VI4gdbxhh) | 3:11 |

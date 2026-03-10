@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,075 likes - 166 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,073 likes - 166 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 74 | [Sex Lies \(feat\. Lil Baby\)](https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Queen of Da Souf \(Extended Version\) \[Deluxe Version\]](https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv) | 2:41 |
 | 75 | [LIGHT AGAIN!](https://open.spotify.com/track/3dIuilnw3QX0KkQNpERaDD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Days Before Dreamboy](https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R) | 2:57 |
 | 76 | [Ride For You \(feat\. Kehlani\)](https://open.spotify.com/track/4YFPUYwA9Jmk9xQYCbz3zb) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expensive Pain](https://open.spotify.com/album/3cLQ49Ll3nGRkw3HSSk92K) | 3:02 |
-| 77 | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD) | 3:13 |
-| 78 | [Robbed You \(with Mariah the Scientist\)](https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:18 |
+| 77 | [Robbed You \(with Mariah the Scientist\)](https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:18 |
+| 78 | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/track/26Lm1VpF6behZ8q6DKjI5z) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Baby It’s Both \(Tick\-Tack English Ver.\) \(Feat\. Ava Max\)](https://open.spotify.com/album/5dbwsmGyS60oSMkh2CwzoD) | 3:13 |
 | 79 | [Cana \(feat\. 24hrs\)](https://open.spotify.com/track/3gVIlKXz1sgc0phx1QypkB) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Cana \(feat\. 24hrs\)](https://open.spotify.com/album/1A0fPJwHRTA1ONRXdt718E) | 4:05 |
 | 80 | [Deeper](https://open.spotify.com/track/58z9odzkFuph91CkBcmOzY) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:34 |
 | 81 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 165 | [Wild Wild](https://open.spotify.com/track/4amxzY7kxQga4kZadCSWLY) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 3:02 |
 | 166 | [Can't Be Friends](https://open.spotify.com/track/6TwTDw7wzxk4PJeKd4pYOR) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [What I Didn't Say](https://open.spotify.com/album/75oavvMyg8JKCFGIzKOTpk) | 2:30 |
 
-Snapshot ID: `AcLnQAAAAADmXFRPavG8RmncHXEk8Qtj`
+Snapshot ID: `AcLs4AAAAAAtB8b5CQ0ySHWtXaTsfF7L`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,071 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,080 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 59 | [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 |
 | 60 | [Flammer og Bensin](https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Flammer og Bensin](https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK) | 3:32 |
 | 61 | [Dama Di](https://open.spotify.com/track/2LiM9cz809PkmUp5j97Vfa) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Dama Di](https://open.spotify.com/album/4HvHh0nUSfRVqY3TPj6xKS) | 2:51 |
-| 62 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 |
+| 62 | [Heimbrygga øl](https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Heimbrygga øl](https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5) | 3:09 |
 | 63 | [Håper du er lykkelig nå](https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5), [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Håper du er lykkelig nå](https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7) | 2:59 |
-| 64 | [Heimbrygga øl](https://open.spotify.com/track/1g7YeX4Zx5PGcTUC0CIO3u) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Heimbrygga øl](https://open.spotify.com/album/7FoLzUcq3bbFqyLGmSszY5) | 3:09 |
+| 64 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 |
 | 65 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
-| 66 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
-| 67 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
+| 66 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
+| 67 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
 | 68 | [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 |
 | 69 | [Stjælt frå ei countrylåt](https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Stjælt frå ei countrylåt](https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG) | 3:08 |
 | 70 | [HJEM](https://open.spotify.com/track/04iXrACbPfc111pClbzXRk) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw) | [HJEM](https://open.spotify.com/album/3GWLj6KdiZx1qDb1d2fqBM) | 2:31 |

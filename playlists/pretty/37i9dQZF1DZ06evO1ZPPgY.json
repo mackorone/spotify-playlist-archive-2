@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 233467,
+  "num_followers": 233479,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAQwMGlYvZmIcLtduOg3GWS",
+  "snapshot_id": "aay8AAAAAADmv8qpLBJGnV6KUqHb6ECf",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "I'll Do For You Anything You Want Me To",
-      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wildest Dreams (Expanded Version)",
         "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 228573,
       "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
       "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "I'll Do For You Anything You Want Me To",
+      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Don't Make Me Wait Too Long",
-      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 184466,
       "name": "More Than Anything, You're My Everything",
       "url": "https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beware!",
-        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "I Won't Settle For Less Than The Best (For You Baby)",
-      "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete 20th Century Records Singles (1973-1979)",
         "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 261733,
       "name": "Just Not Enough",
       "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beware!",
+        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 261133,
+      "name": "I Won't Settle For Less Than The Best (For You Baby)",
+      "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man",
-        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 452306,
-      "name": "Sha La La Means I Love You",
-      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Staying Power",
         "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 370266,
       "name": "Staying Power",
       "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 452306,
+      "name": "Sha La La Means I Love You",
+      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
     },
     {
       "added_at": null,

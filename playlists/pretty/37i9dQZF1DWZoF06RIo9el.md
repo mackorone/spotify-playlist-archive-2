@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de marzo 2026\. Cover: Omar Courtz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,597 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,558 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 25 | [\(favorito\)](https://open.spotify.com/track/3pNklcVilHHuVKtkDbzaTq) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(favorito\)](https://open.spotify.com/album/63REyK0hkC2rCtgYGIqKNh) | 2:37 |
 | 26 | [11:11pm](https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [11:11pm](https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp) | 3:15 |
 | 27 | [TODO PENDEJO](https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [TODO PENDEJO](https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK) | 3:10 |
-| 28 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
-| 29 | [barquito \- bonus track](https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ) | 3:24 |
-| 30 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
-| 31 | [¿te ACUERDAS de mi?](https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN) | [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [¿te ACUERDAS de mi?](https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP) | 2:53 |
+| 28 | [barquito \- bonus track](https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ) | 3:24 |
+| 29 | [Los Paracaídas](https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Los Paracaídas](https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF) | 3:09 |
+| 30 | [¿te ACUERDAS de mi?](https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN) | [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [¿te ACUERDAS de mi?](https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP) | 2:53 |
+| 31 | [Star](https://open.spotify.com/track/6ZzycZmHaFzfbIBl24BV3N) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [El Niño Bola](https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv) | 3:31 |
 | 32 | [París \(Junto a Ti\)](https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [París \(Junto a Ti\)](https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3) | 2:36 |
 | 33 | [oda](https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Oda](https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T) | 3:44 |
 | 34 | [miau](https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [miau](https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts) | 3:26 |
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 37 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
 | 38 | [BES4ME](https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [BES4ME](https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay) | 2:33 |
 | 39 | [N U E V A S A M I G A S](https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [N U E V A S A M I G A S](https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH) | 3:15 |
-| 40 | [otro día más](https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [otro día más](https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ) | 2:31 |
+| 40 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
 | 41 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
-| 42 | [La Máquina](https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Máquina](https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa) | 2:34 |
+| 42 | [otro día más](https://open.spotify.com/track/0MZNQzcqeGylshOBZxoKie) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [otro día más](https://open.spotify.com/album/471YuJRVMB6FkBZSQXlTeJ) | 2:31 |
 | 43 | [Luna de Miel](https://open.spotify.com/track/5axajboxCw101fMlC7U8Lp) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Luna de Miel](https://open.spotify.com/album/6AYXDaMyg9gsrWByz7Vtu6) | 3:32 |
-| 44 | [Hay algo que te quiero decir](https://open.spotify.com/track/0hTkMqX524QLtetsbdj7co) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Hay algo que te quiero decir](https://open.spotify.com/album/62M1UTDi3MRtR5dQM2XteT) | 3:38 |
-| 45 | [BRRREAK!](https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [BRRREAK!](https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9) | 2:47 |
-| 46 | [Menina](https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Menina](https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO) | 3:02 |
-| 47 | [UN PIKETON](https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [le f\*llen al miedo](https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi) | 2:27 |
-| 48 | [Suiza](https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Suiza](https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA) | 2:20 |
+| 44 | [BRRREAK!](https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [BRRREAK!](https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9) | 2:47 |
+| 45 | [UN PIKETON](https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [le f\*llen al miedo](https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi) | 2:27 |
+| 46 | [Hay algo que te quiero decir](https://open.spotify.com/track/0hTkMqX524QLtetsbdj7co) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [Hay algo que te quiero decir](https://open.spotify.com/album/62M1UTDi3MRtR5dQM2XteT) | 3:38 |
+| 47 | [Suiza](https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Suiza](https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA) | 2:20 |
+| 48 | [Menina](https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Menina](https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO) | 3:02 |
 | 49 | [Noches por madrid <3](https://open.spotify.com/track/3u8yzpUXRzMWGV0LOcdXVV) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Noches por madrid <3](https://open.spotify.com/album/6KeFfHT2jTaavYAaVYutpt) | 2:22 |
 | 50 | [LO TENGO TODO](https://open.spotify.com/track/0VZIXTkvmU56oPJ3KcFLft) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [SILENCIO HABLA](https://open.spotify.com/album/0RwAGxwkMubOZcfmvUMFoS) | 2:17 |
 

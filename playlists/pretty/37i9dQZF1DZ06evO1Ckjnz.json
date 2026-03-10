@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20076,
+  "num_followers": 20075,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABpSV2zCkNJg0zP6ckxIxFr",
+  "snapshot_id": "aay8AAAAAACxFtuPK91YmXX6eQvlXY1p",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 141954,
-      "name": "\u00a1aqu\u00ed yo mando!",
-      "url": "https://open.spotify.com/track/05ufCucv6Z1oLMWeS8XapR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Ruinas",
         "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 213133,
       "name": "Jungle - Rico Nasty Remix",
       "url": "https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 141954,
+      "name": "\u00a1aqu\u00ed yo mando!",
+      "url": "https://open.spotify.com/track/05ufCucv6Z1oLMWeS8XapR"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        }
-      ],
-      "duration_ms": 109788,
-      "name": "Vaderz (feat. Bktherula)",
-      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jealous (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 199680,
       "name": "Jealous (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        }
+      ],
+      "duration_ms": 109788,
+      "name": "Vaderz (feat. Bktherula)",
+      "url": "https://open.spotify.com/track/4weoQ8CuXh0X9xvFfWsT6X"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Ruinas",
-        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Blow Me",
-      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nightmare Vacation",
         "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 136829,
       "name": "STFU",
       "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Ruinas",
+        "url": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 201061,
+      "name": "Blow Me",
+      "url": "https://open.spotify.com/track/0nFR1Wu0GKCVpBdQG4RMwm"
     },
     {
       "added_at": null,

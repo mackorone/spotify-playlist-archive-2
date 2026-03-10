@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93810,
+  "num_followers": 93811,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "M\u00e4nniskobarn",
-        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 200183,
-      "name": "D\u00e4r huden \u00e4r tunnast",
-      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 181440,
       "name": "Glasshouse",
       "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 200183,
+      "name": "D\u00e4r huden \u00e4r tunnast",
+      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -419,22 +419,18 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Can't Frame the Moonlight",
-        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
       "artists": [
         {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
         }
       ],
-      "duration_ms": 205896,
-      "name": "Can't Frame the Moonlight",
-      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+      "duration_ms": 166451,
+      "name": "All The Things That I Am",
+      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -455,18 +451,22 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Greczula",
-        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
+        "name": "Can't Frame the Moonlight",
+        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
       "artists": [
         {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
         }
       ],
-      "duration_ms": 166451,
-      "name": "All The Things That I Am",
-      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
+      "duration_ms": 205896,
+      "name": "Can't Frame the Moonlight",
+      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 269520,
-      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
-      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
         "name": "Tracks II: The Lost Albums",
         "url": "https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 200833,
       "name": "When Lights Go Down",
       "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+        "url": "https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0"
+      },
+      "artists": [
+        {
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
+        }
+      ],
+      "duration_ms": 269520,
+      "name": "R\u00f6da tr\u00e5dens slut (akustisk version)",
+      "url": "https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
         "name": "Bara vi andas",
         "url": "https://open.spotify.com/album/70IDdegrPyqI2bWYFW5GmL"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 167266,
       "name": "Bara vi andas",
       "url": "https://open.spotify.com/track/1WbUSbSwnQ6YbvWiqjoe6L"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
+        "name": "Mjuk extas",
+        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 271875,
+      "name": "L\u00e4gg den h\u00e4r, bredvid min",
+      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
         "name": "The Per Gessle Archives - The Pop-Up Dynamo! Demos",
         "url": "https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 220664,
       "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
       "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
-        "name": "Mjuk extas",
-        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 271875,
-      "name": "L\u00e4gg den h\u00e4r, bredvid min",
-      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1279,6 +1279,22 @@
       "duration_ms": 258146,
       "name": "The Whole Woman",
       "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "Face The Unknown",
+        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 210416,
+      "name": "Face The Unknown",
+      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Face The Unknown",
-        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
+        "name": "Happier Now",
+        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Erik Segerstedt",
+          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
         }
       ],
-      "duration_ms": 210416,
-      "name": "Face The Unknown",
-      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
+      "duration_ms": 157500,
+      "name": "Happier Now",
+      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1391,22 +1407,6 @@
       "duration_ms": 159329,
       "name": "M\u00e5nen",
       "url": "https://open.spotify.com/track/0K983v0A3vx4mtWv2TxjXQ"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
-        "name": "Happier Now",
-        "url": "https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr"
-      },
-      "artists": [
-        {
-          "name": "Erik Segerstedt",
-          "url": "https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Happier Now",
-      "url": "https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Ex Voto / The Silent Love",
-        "url": "https://open.spotify.com/album/2SwdpGKxoZwq1Wh5xGr3NG"
+        "name": "N\u00e5got ska d\u00f6 (del 1)",
+        "url": "https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0"
       },
       "artists": [
         {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+          "name": "Andreas Weise",
+          "url": "https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB"
         }
       ],
-      "duration_ms": 318253,
-      "name": "It Can Heal You If You Let It",
-      "url": "https://open.spotify.com/track/7zaQo0gJLEdSsczzzxR2xV"
+      "duration_ms": 208159,
+      "name": "N\u00e5got ska d\u00f6",
+      "url": "https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0"
     }
   ],
   "unique_name": "Aktuellt",

@@ -1,6 +1,6 @@
 {
   "description": "Techno is a state of mind. Cover: Lilly Palmer",
-  "num_followers": 145491,
+  "num_followers": 145504,
   "original_name": "Techno State",
   "owner": {
     "name": "Spotify",
@@ -456,12 +456,12 @@
       },
       "artists": [
         {
-          "name": "Moreira",
-          "url": "https://open.spotify.com/artist/2ACuN3n5T0R3T4jnD7opl6"
-        },
-        {
           "name": "Victor Ruiz",
           "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Moreira",
+          "url": "https://open.spotify.com/artist/2ACuN3n5T0R3T4jnD7opl6"
         }
       ],
       "duration_ms": 194090,

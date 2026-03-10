@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: NDX A.K.A.",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Esa Risty",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -3358,6 +3358,32 @@
       "duration_ms": 199800,
       "name": "Kangen Bali Ndeso",
       "url": "https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt"
+    },
+    {
+      "album": {
+        "name": "Kanggo Kowe",
+        "url": "https://open.spotify.com/album/2ajHMLw4TUMKlDKFGZTiKA"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        },
+        {
+          "name": "Mabes Balker",
+          "url": "https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280615,
+      "name": "Kanggo Kowe",
+      "url": "https://open.spotify.com/track/4yGCc3TSHQIkvQetlFTpmy"
     },
     {
       "album": {
@@ -7747,6 +7773,28 @@
     },
     {
       "album": {
+        "name": "Puspita Nala",
+        "url": "https://open.spotify.com/album/4oU1zaXsqnu05L7TjPQWQ9"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        },
+        {
+          "name": "Mabes Balker",
+          "url": "https://open.spotify.com/artist/4VzBcz3WQjrqzXnb6OIPiI"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Puspita Nala",
+      "url": "https://open.spotify.com/track/79XJjDgGqrUBBx2ziwcTeY"
+    },
+    {
+      "album": {
         "name": "Putri Shanghai",
         "url": "https://open.spotify.com/album/1XEzXnnc6uPNV3a7OkXzX5"
       },
@@ -11151,6 +11199,24 @@
     },
     {
       "album": {
+        "name": "WONG SEPELE (Special Live Session)",
+        "url": "https://open.spotify.com/album/2Zyj5698d6tRkZWm54Mucx"
+      },
+      "artists": [
+        {
+          "name": "Losskita",
+          "url": "https://open.spotify.com/artist/6gFk218PI8SlzkhDHR0LfL"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "WONG SEPELE - Special Live Session",
+      "url": "https://open.spotify.com/track/1ZW8jjnvrcuD2THJ71Ihdd"
+    },
+    {
+      "album": {
         "name": "Wongliyo Ngerti Opo",
         "url": "https://open.spotify.com/album/5KyUH0zimFbYkYOlzYzLKa"
       },
@@ -11166,6 +11232,28 @@
       "duration_ms": 236102,
       "name": "Wongliyo Ngerti Opo",
       "url": "https://open.spotify.com/track/6gHdhWdC2cdv6O4bMFXe2f"
+    },
+    {
+      "album": {
+        "name": "Wulan Suci",
+        "url": "https://open.spotify.com/album/2Cz6LGDvOQlJrr1enK3ok3"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        },
+        {
+          "name": "Diva Hani",
+          "url": "https://open.spotify.com/artist/0rY381w1KbZR9IUPhp2ppK"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Wulan Suci",
+      "url": "https://open.spotify.com/track/1UaG1Vewr1NWstMecYrSfZ"
     },
     {
       "album": {

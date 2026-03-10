@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-344 songs - 16 hr 21 min
+345 songs - 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Forever Still](https://open.spotify.com/track/1uUMHYJpNiev5x1vZPdXsc) | [Zen Om](https://open.spotify.com/artist/1rM7kgU05ig5vYpYTpSPZs), [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu) | [Forever Still](https://open.spotify.com/album/3M7iDJTVb6CDB0c65rzVzD) | 1:42 | 2023-05-05 | 2023-07-29 |
 | [Fortune Teller](https://open.spotify.com/track/2jf6qaFGfXR2avaQ2QkmEf) | [Garden of Lotus](https://open.spotify.com/artist/7I1z8LXW0jX3fyWx7h0PRs) | [The whim of fate](https://open.spotify.com/album/7kQKxaXSaBjKr2lBFgJrru) | 3:11 | 2023-04-28 | 2024-11-04 |
 | [Found the Moon](https://open.spotify.com/track/5WM0O39UIuTPYaGsGN77Tt) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Found the Moon](https://open.spotify.com/album/2jEcuWPdfuxdg71KTw0DbA) | 3:02 | 2025-05-21 | 2026-02-24 |
-| [Foundations](https://open.spotify.com/track/6o03zXm9s8B33VjZAS6C6U) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Foundations](https://open.spotify.com/album/2LVmqp2bxTJsCWQs2pELTC) | 2:58 | 2025-09-10 |  |
+| [Foundations](https://open.spotify.com/track/6o03zXm9s8B33VjZAS6C6U) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Foundations](https://open.spotify.com/album/2LVmqp2bxTJsCWQs2pELTC) | 2:58 | 2025-09-10 | 2026-03-10 |
 | [Fresco](https://open.spotify.com/track/0uVIvH7SSS85MKai9W4wEA) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Fresco](https://open.spotify.com/album/03zoFQS69y1JshsZyFRkvD) | 2:26 | 2024-04-01 | 2026-01-26 |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2023-04-28 | 2025-05-22 |
 | [Garden of Calm](https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Garden of Calm](https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq) | 2:58 | 2025-03-19 |  |
@@ -150,6 +150,7 @@
 | [Healing gaze](https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [Healing gaze](https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h) | 2:40 | 2025-10-15 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-04-28 | 2025-05-22 |
 | [Hidden Stream](https://open.spotify.com/track/48fwIMWuDupqBDonvDiQRZ) | [Emerald Haze](https://open.spotify.com/artist/1ZAxYNJ7InAWRbooQVWtoD) | [Hidden Stream](https://open.spotify.com/album/0Gsbxch2HWzWjuOqZ5Luuf) | 2:03 | 2026-01-28 |  |
+| [Hidden Tone](https://open.spotify.com/track/5QNvUW2rGKW9o8n1xyMfz0) | [NOMA](https://open.spotify.com/artist/4cDZ9jfgpEZtLQkw0ITsMo) | [Hidden Tone](https://open.spotify.com/album/5omZ2NuoyaYvJtLSRiRSce) | 2:45 | 2026-02-23 |  |
 | [Hidden Trees](https://open.spotify.com/track/2GLVEiLymzuOsa1aNrR3bk) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Hidden Trees](https://open.spotify.com/album/6QIi1rJNZqhG58JorCQNZG) | 2:56 | 2026-01-28 | 2026-02-18 |
 | [Horizon](https://open.spotify.com/track/3ifemXqhR8ap2nIVvoeYyV) | [Cosmo Strings](https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc) | [Horizon](https://open.spotify.com/album/3x2d2u4oJ8Ip0Ucq7oZdlp) | 3:17 | 2023-04-28 | 2025-05-22 |
 | [Humidity](https://open.spotify.com/track/0gUbV5WnXb30Uul9WjKkbo) | [Constant Future](https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA) | [Humidity](https://open.spotify.com/album/2eFMxe5w2MRBOvsonQLK7g) | 2:42 | 2025-01-08 |  |

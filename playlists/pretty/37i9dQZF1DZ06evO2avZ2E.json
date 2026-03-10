@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3276,
+  "num_followers": 3278,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABERO4biY+go1myp1VeVvCG",
+  "snapshot_id": "aay8AAAAAADZVk+hlZkwUq1ATdgJEnOo",
   "tracks": [
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminando en Fuego",
-        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 269601,
-      "name": "Fluir",
-      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Fantas\u00eda",
         "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
       },
@@ -755,38 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
+        "name": "Caminando en Fuego",
+        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
       },
       "artists": [
         {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
         },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 130021,
-      "name": "Te Choca Te Checa",
-      "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo Puede Esperar",
-        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "El Mundo Puede Esperar",
-      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+      "duration_ms": 269601,
+      "name": "Fluir",
+      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
     },
     {
       "added_at": null,
@@ -811,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mundo Puede Esperar",
+        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "El Mundo Puede Esperar",
+      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta la Fantas\u00eda",
         "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 188687,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Te Choca Te Checa",
+      "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
       "duration_ms": 229000,
       "name": "Fue Solo un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Hasta la Fantas\u00eda",
-      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
     },
     {
       "added_at": null,

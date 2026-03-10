@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 460,
+  "num_followers": 461,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABa69w3iA//IWlfIMU9aSRg",
+  "snapshot_id": "aay8AAAAAACvEotY4R3bTN1lAZE8XsIr",
   "tracks": [
     {
       "added_at": null,
@@ -192,58 +192,6 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unseen Worlds",
-        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Three Sonic Spaces I",
-      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Expanding Universe",
-        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Appalachian Grove III",
-      "url": "https://open.spotify.com/track/79qnW6PocozamltQqh8In9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
-      },
-      "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
       "duration_ms": 158500,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
@@ -260,9 +208,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 291693,
-      "name": "The Hollows",
-      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
+      "duration_ms": 96000,
+      "name": "Three Sonic Spaces I",
+      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
     },
     {
       "added_at": null,
@@ -296,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 171874,
-      "name": "Taking It Further",
-      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
+      "duration_ms": 218160,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
     },
     {
       "added_at": null,
@@ -315,6 +263,58 @@
       "duration_ms": 215040,
       "name": "Two Archetypes: Hurricane's Eye \u2013 II",
       "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Appalachian Grove III",
+      "url": "https://open.spotify.com/track/79qnW6PocozamltQqh8In9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+      },
+      "artists": [
+        {
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
+        },
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 171874,
+      "name": "Taking It Further",
+      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unseen Worlds",
+        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "The Hollows",
+      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
     },
     {
       "added_at": null,

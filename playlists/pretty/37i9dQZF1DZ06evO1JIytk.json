@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16574,
+  "num_followers": 16575,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABEAUf3jLa2EdYeAr07/k6i",
+  "snapshot_id": "aay8AAAAAABNahiauMkb8pBzUSCpBS0D",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
+      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Sodom, Gomorrah, Washington D.C. (Sheep in Shepherds Clothing)",
-      "url": "https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "You Make Me Sick",
-      "url": "https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underground Network",
         "url": "https://open.spotify.com/album/5NUqfqkQzEuc4IjDTy8l5S"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 98120,
       "name": "This Machine Kills Fascists",
       "url": "https://open.spotify.com/track/0QROJn3UK5EoA7BzvDTRGq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "You Make Me Sick",
+      "url": "https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "It Went Off Like A Bomb",
-      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die for the Government",
         "url": "https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 111640,
       "name": "Red, White & Brainwashed",
       "url": "https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "It Went Off Like A Bomb",
+      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hooligans United a Tribute to Rancid",
         "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 77992,
       "name": "Maxwell Murder",
       "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN"
     },
     {
       "added_at": null,

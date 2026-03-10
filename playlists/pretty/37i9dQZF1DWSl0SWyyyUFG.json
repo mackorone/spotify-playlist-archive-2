@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 415543,
+  "num_followers": 415764,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "De Parranda Con La Banda",
-        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Que Solo Estoy Sin Ti",
-      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 178293,
       "name": "Si Tu Boquita Fuera",
       "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "De Parranda Con La Banda",
+        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Que Solo Estoy Sin Ti",
+      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 143146,
-      "name": "Te Vas Amor",
-      "url": "https://open.spotify.com/track/7fcVZh28nkdUNWbFLroxWK"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Antonio Aguilar Con Tambora",
         "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 184466,
       "name": "Mi Ranchito",
       "url": "https://open.spotify.com/track/6R5oDL4do0PYVP3Pn4fAvy"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 143146,
+      "name": "Te Vas Amor",
+      "url": "https://open.spotify.com/track/7fcVZh28nkdUNWbFLroxWK"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 185469,
-      "name": "Al Mismo Nivel",
-      "url": "https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Antonio Aguilar Con Tambora",
         "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 215512,
       "name": "Cuatro Milpas",
       "url": "https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 185469,
+      "name": "Al Mismo Nivel",
+      "url": "https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 169958,
-      "name": "Ni El Dinero Ni Nada",
-      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Canciones Tristes Canciones",
         "url": "https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 181498,
       "name": "El Diablo En Una Botella",
       "url": "https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 169958,
+      "name": "Ni El Dinero Ni Nada",
+      "url": "https://open.spotify.com/track/6uUKXjEQzx1YNuDSm38tzY"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Pepe Aguilar con Tambora",
-        "url": "https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Esta Tristeza M\u00eda",
-      "url": "https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 212857,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Pepe Aguilar con Tambora",
+        "url": "https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Esta Tristeza M\u00eda",
+      "url": "https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Juro Por Dios",
-      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 196429,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Cosas De La Vida",
+        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Juro Por Dios",
+      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
     },
     {
       "added_at": "2026-02-09 16:44:15",

@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 224374,
       "name": "Al Final del D\u00eda",
       "url": "https://open.spotify.com/track/5fnuvDHHkPdcnCbi675PSF"
@@ -6858,6 +6858,24 @@
       "duration_ms": 129552,
       "name": "Baby Tu Me Encantas - Spanish Version",
       "url": "https://open.spotify.com/track/79f59WX858txqdTECC9czE"
+    },
+    {
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
       "album": {
@@ -23670,10 +23688,28 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 209959,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8"
+    },
+    {
+      "album": {
+        "name": "Entre t\u00fa y yo",
+        "url": "https://open.spotify.com/album/0PLwDyWkRzkL00AGBkVjXc"
+      },
+      "artists": [
+        {
+          "name": "Tu Corrido Mx",
+          "url": "https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209964,
+      "name": "Entre t\u00fa y yo",
+      "url": "https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A"
     },
     {
       "album": {
@@ -43404,7 +43440,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 230723,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/5r9xrWqBtkiSFeEBk4VibB"
@@ -63812,7 +63848,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -66946,6 +66982,24 @@
       "duration_ms": 298293,
       "name": "Sue\u00f1os Perdidos - Remix",
       "url": "https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK"
+    },
+    {
+      "album": {
+        "name": "suficiente.",
+        "url": "https://open.spotify.com/album/5NCZdkFU2e0KwTVaqyXhdK"
+      },
+      "artists": [
+        {
+          "name": "JOAKO",
+          "url": "https://open.spotify.com/artist/5kErqJMmN35SkXsrmLyPdc"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177336,
+      "name": "suficiente.",
+      "url": "https://open.spotify.com/track/0jJwHCq4QHtZX20OvkYBSq"
     },
     {
       "album": {
@@ -74084,7 +74138,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"

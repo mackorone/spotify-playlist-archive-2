@@ -3215,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "Pretty Baby (Live From Toronto)",
+        "url": "https://open.spotify.com/album/2TS9UWfP5J1uosgTvyX391"
+      },
+      "artists": [
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204543,
+      "name": "Pretty Baby - Live From Toronto",
+      "url": "https://open.spotify.com/track/5MpvJTvJHP4EFiBbvTSN1T"
+    },
+    {
+      "album": {
         "name": "The 25th Anniversary of Christina Aguilera | Spotify Anniversaries LIVE",
         "url": "https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo"
       },

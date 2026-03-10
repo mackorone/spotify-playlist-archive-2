@@ -2,7 +2,7 @@
 
 ### [Louvor & Adoração](https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel)
 
-> A música certa para o seu momento de adoração\. Foto: Marco Telles, Coletivo Candiero, Filipe da Guia, Ana Heloysa
+> A música certa para o seu momento de adoração\. Foto: Isaias Saad, Julliany Souza, Léo Brandão
 
 380 songs - 1 day 13 hr 49 min
 

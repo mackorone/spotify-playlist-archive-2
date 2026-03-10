@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,642 likes - 115 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,702 likes - 115 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 22 | [Save Room](https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 3:55 |
 | 23 | [How Deep Is Your Love \(feat\. Yebba\) \- Live](https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 3:30 |
 | 24 | [Golden Cage](https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Dreams](https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf) | 4:02 |
-| 25 | [Lou's Tune](https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Lou's Tune](https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A) | 1:42 |
-| 26 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 |
+| 25 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 |
+| 26 | [Lou's Tune](https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Lou's Tune](https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A) | 1:42 |
 | 27 | [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 |
 | 28 | [Around The Sun](https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Low Season](https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe) | 3:54 |
 | 29 | [Dontcha](https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Feel Good](https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D) | 3:21 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 59 | [Tenha Fé, Pois Amanhã um Lindo Dia Vai Nascer](https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t) | [Salinas](https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk) | [Wanted Bossa Nova: From Diggers to Music Lovers](https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs) | 2:36 |
 | 60 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 |
 | 61 | [Water Your Garden](https://open.spotify.com/track/0CVaDx0YP1nMwZd1eg88cX) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 2:49 |
-| 62 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 |
-| 63 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
-| 64 | [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 |
+| 62 | [Nantucket Island](https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB) | [Willie Wright](https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx) | [Telling The Truth](https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w) | 3:42 |
+| 63 | [The Sun](https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv) | [Kowloon](https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE) | [The Sun](https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ) | 4:08 |
+| 64 | [Great Big Bundle Of Love](https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [Brenton Wood's 18 Best](https://open.spotify.com/album/7vCgqJfW4lFgMUFBPPcefa) | 2:18 |
 | 65 | [Permis b bébé](https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:09 |
 | 66 | [The End of a Gun](https://open.spotify.com/track/6LXQQXcSOcQ7ohdfR2tqC5) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Anne, If](https://open.spotify.com/album/1yfivCG34it3wTbqsbNlBX) | 3:11 |
 | 67 | [Pressure](https://open.spotify.com/track/15hp88Fwgqi3HgY2hq6cyi) | [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Lo Artiz](https://open.spotify.com/artist/471krICBnmucQIpNOf7az7), [Julia Zivic](https://open.spotify.com/artist/14ICub3ucTYRmPTfvyCsh6) | [Homegrown](https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l) | 1:44 |

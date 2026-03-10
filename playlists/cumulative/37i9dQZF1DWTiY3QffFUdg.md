@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-325 songs - 16 hr 49 min
+326 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-07 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
 | [Beethoven's Aria Für Elise](https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Beethoven's Aria Für Elise](https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ) | 2:29 | 2025-04-25 |  |
+| [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 | 2026-03-09 |  |
 | [Black Betty](https://open.spotify.com/track/3dXLhWGgGEigv2J5BANl0A) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [Black Betty](https://open.spotify.com/album/2efZWJtkWNhx224KzTTAaq) | 2:19 | 2025-01-31 |  |
 | [BLACK WIDOW](https://open.spotify.com/track/6c7BB9OiD0Wu596pW4L1f7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [BLACK WIDOW](https://open.spotify.com/album/0ddT2dGSomsrtalEHqI9MK) | 2:09 | 2024-03-15 | 2026-02-14 |
 | [Body](https://open.spotify.com/track/0QNzoNLS7s579XX3foNwKi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Body](https://open.spotify.com/album/69b1aa87cmfovEf5iSspgc) | 2:05 | 2024-08-16 | 2024-09-23 |
@@ -228,7 +229,7 @@
 | [Perfect \(Exceeder\)](https://open.spotify.com/track/441rdYPewU5Ky9FsMJkZQH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Perfect \(Exceeder\)](https://open.spotify.com/album/7jptXhYjOAixCHxhXUiLgU) | 2:24 | 2024-03-08 | 2024-03-30 |
 | [Pjanoo](https://open.spotify.com/track/4dql0qXHrM3CSpUaaabudR) | [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Payback](https://open.spotify.com/artist/7tEit6KIclO1fyvmvdYDzE) | [Pjanoo](https://open.spotify.com/album/5nEUqBceCXlkmbFYD75APW) | 2:44 | 2023-12-15 | 2024-07-02 |
 | [Play It Loud](https://open.spotify.com/track/2OzIpR52uwLnHJgjbeMIsT) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Play It Loud](https://open.spotify.com/album/6pcUFkYv5xtyV6t3APaXHX) | 2:51 | 2025-03-14 | 2025-06-07 |
-| [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
+| [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 | 2026-03-10 |
 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 | 2023-12-15 |  |
 | [Pretty Friends](https://open.spotify.com/track/6jRn6lpHAioyD8PY4NKNQE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Pretty Friends](https://open.spotify.com/album/42brGrydPMIqlWl2hVHsPp) | 1:59 | 2025-10-10 | 2026-02-14 |
 | [Promise](https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [Promise](https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e) | 4:04 | 2025-11-28 |  |

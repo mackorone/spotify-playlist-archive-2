@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 21817,
+  "num_followers": 21839,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Meet Me Around Midnight",
-        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "One for My Baby",
-      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Essential Standards",
         "url": "https://open.spotify.com/album/0AvwcTbn5qkcniAQtQnkR7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 224226,
       "name": "Look For The Silver Lining",
       "url": "https://open.spotify.com/track/5UMb3v7N65qkSNZVxtIaAI"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Meet Me Around Midnight",
+        "url": "https://open.spotify.com/album/62haqQCNJuhlujx5lqsYaO"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "One for My Baby",
+      "url": "https://open.spotify.com/track/7K0B3d8hgj9cAhku48eGwN"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -911,6 +911,34 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Some Other Time",
+        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "duration_ms": 207895,
+      "name": "Some Other Time",
+      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Travelin'",
         "url": "https://open.spotify.com/album/6pOPaRqCpE0X8aJN1lvXD5"
       },
@@ -939,34 +967,6 @@
       "duration_ms": 228403,
       "name": "On a Turquoise Cloud",
       "url": "https://open.spotify.com/track/1XrEY8nz2P4L9rVoq9MdXs"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Some Other Time",
-        "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
-      },
-      "artists": [
-        {
-          "name": "Connie Lansberg",
-          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
-        },
-        {
-          "name": "Mark Fitzgibbon",
-          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
-        },
-        {
-          "name": "Ben Hanlon",
-          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
-        },
-        {
-          "name": "Peter Hodges",
-          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
-        }
-      ],
-      "duration_ms": 207895,
-      "name": "Some Other Time",
-      "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Sound the Rhythm",
-        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
-      },
-      "artists": [
-        {
-          "name": "Jan Harbeck Quartet",
-          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
-        }
-      ],
-      "duration_ms": 444573,
-      "name": "Tangorrus Field",
-      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Caity Gyorgy Quartet",
         "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 347088,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Sound the Rhythm",
+        "url": "https://open.spotify.com/album/1vyIqrS1y7Cv0tIJcIPBMC"
+      },
+      "artists": [
+        {
+          "name": "Jan Harbeck Quartet",
+          "url": "https://open.spotify.com/artist/7JGHjWlWkG5A8cB7HzQL0x"
+        }
+      ],
+      "duration_ms": 444573,
+      "name": "Tangorrus Field",
+      "url": "https://open.spotify.com/track/0tJ5RazKORwxkHbJRDQ8nj"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "My Shining Hour",
-      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 192726,
       "name": "Keep It in Your Dreams",
       "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2Xe4xUaQClQbY5KN9OBaZM"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "My Shining Hour",
+      "url": "https://open.spotify.com/track/2f3JyFkXqpwFB9sDjwJzZN"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "I Can't Be Bothered Now",
-      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "It Happens Like That",
         "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 466973,
       "name": "Shallow Waters",
       "url": "https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "I Can't Be Bothered Now",
+      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2026-02-17 14:09:55",

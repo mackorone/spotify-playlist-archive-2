@@ -4,7 +4,7 @@
 
 > new the army, the navy 🏹
 
-738 songs - 1 day 20 hr 34 min
+739 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Haunt Me](https://open.spotify.com/track/5zmLRdgheUjzeeL6697YK1) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Haunt Me](https://open.spotify.com/album/4iVeKQ7C5DHranMwzbvCix) | 3:15 | 2024-10-18 | 2025-07-12 |
 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 | 2023-11-27 | 2024-03-09 |
 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 | 2024-09-13 | 2025-05-10 |
+| [Heads or Tails](https://open.spotify.com/track/2rDDUExNfV2NddrtJCPdBb) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 4:33 | 2026-03-09 |  |
 | [Heartbreak Rodeo](https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Heartbreak Rodeo](https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe) | 3:07 | 2024-08-23 | 2025-04-05 |
 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 | 2023-10-06 | 2024-04-06 |
 | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/album/4oz5gWyUsn17qOnNH39PEY) | 3:11 | 2025-01-31 | 2025-05-31 |

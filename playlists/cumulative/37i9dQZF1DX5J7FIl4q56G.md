@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: alt.
 
-11,125 songs - 30 day 18 hr 40 min
+11,126 songs - 30 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7992,6 +7992,7 @@
 | [Say This Sober](https://open.spotify.com/track/1gKACgRLqhVkExbgqsCboC) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire), [Nerv](https://open.spotify.com/artist/1SPkKp6zKlXjB6oiWZI04b) | [Say This Sober](https://open.spotify.com/album/06P8Bq8El6dzy4v7bctuER) | 3:22 | 2024-02-02 | 2024-02-10 |
 | [Say What You Wanna Say](https://open.spotify.com/track/2oZWSNCXqutIte5ufeX4wT) | [Inglorious](https://open.spotify.com/artist/5BxR80mpdn8MmHgzKVtiP7) | [V](https://open.spotify.com/album/2NgjWTv3zrIMiOV3Lwikui) | 3:25 | 2025-06-06 | 2025-06-14 |
 | [Say What You Will](https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [Say What You Will](https://open.spotify.com/album/7gSyu9jMUqHOFYXeKtOSfB) | 3:33 | 2024-06-14 | 2024-06-22 |
+| [Say When](https://open.spotify.com/track/449VbLIfrGbdvfznyFndxj) | [The Tony Danza Tapdance Extravaganza](https://open.spotify.com/artist/5DUbYWy2wL1vifFB8hyO74) | [Say When](https://open.spotify.com/album/218JHtpZ6JkFFc695CfMbv) | 4:10 | 2026-03-09 |  |
 | [Say Your Lies](https://open.spotify.com/track/0DeTY0CCiXinaMZEWyyr1Y) | [Deaf Rat](https://open.spotify.com/artist/7p1KKyEJ3F0eavGA6SMrn7) | [Say Your Lies](https://open.spotify.com/album/7MraOPYA6dtm20qk7cFG7Z) | 4:23 | 2023-11-24 | 2023-12-02 |
 | [Sayonara](https://open.spotify.com/track/4b7XlNxARNw1DB8qmkCdLk) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Sayonara](https://open.spotify.com/album/0M6v6jigZvNlLEEiqFxQpA) | 2:44 | 2024-08-23 | 2024-08-31 |
 | [Scaffolding](https://open.spotify.com/track/1oU6QKPJguF2Y4GRwmaGIS) | [Frail Body](https://open.spotify.com/artist/087dxTWzkw5RjrjOiJCfBH) | [Artificial Bouquet](https://open.spotify.com/album/2xxdvegQmg1cOVGPolCUus) | 3:30 | 2024-03-29 | 2024-04-06 |

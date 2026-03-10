@@ -1,12 +1,12 @@
 {
   "description": "This is Shane & Shane. The essential tracks, all in one playlist.",
-  "num_followers": 38369,
+  "num_followers": 38378,
   "original_name": "This Is Shane & Shane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADBmw9KQB2sqvcv5T4uTsMP",
+  "snapshot_id": "aay8AAAAAADh79AXjLm9+LOSgRmBAPnZ",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 22",
-        "url": "https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp"
+        "name": "The Worship Initiative, Vol. 20",
+        "url": "https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p"
       },
       "artists": [
         {
@@ -462,19 +462,11 @@
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Trenton Bell",
-          "url": "https://open.spotify.com/artist/5erQxNPoPplRxZ7eS4c37M"
-        },
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
         }
       ],
-      "duration_ms": 301743,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu"
+      "duration_ms": 271267,
+      "name": "Christ Our Hope In Life And Death",
+      "url": "https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf"
     },
     {
       "added_at": null,
@@ -511,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Worship Initiative, Vol. 20",
-        "url": "https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p"
+        "name": "The Worship Initiative, Vol. 22",
+        "url": "https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp"
       },
       "artists": [
         {
@@ -522,11 +514,19 @@
         {
           "name": "Shane & Shane",
           "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Trenton Bell",
+          "url": "https://open.spotify.com/artist/5erQxNPoPplRxZ7eS4c37M"
+        },
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
         }
       ],
-      "duration_ms": 271267,
-      "name": "Christ Our Hope In Life And Death",
-      "url": "https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf"
+      "duration_ms": 301743,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu"
     },
     {
       "added_at": null,

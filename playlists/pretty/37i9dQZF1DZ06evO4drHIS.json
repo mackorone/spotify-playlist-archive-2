@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19231,
+  "num_followers": 19236,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAD5CJ6uZWgi3tUMgsO8hzjb",
+  "snapshot_id": "aay8AAAAAADpE8u2af4hIQrgKtcp2/SY",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Sonido De Tu Voz",
         "url": "https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 170800,
       "name": "El Sonido De Tu Voz",
       "url": "https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cielo Rojo",
-        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 258048,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 150384,
-      "name": "Mala Mala",
-      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enamorada",
         "url": "https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 150384,
+      "name": "Mala Mala",
+      "url": "https://open.spotify.com/track/4R8O3wXfUpiWOTglaSLyDk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Que Regreses",
         "url": "https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw"
       },
@@ -803,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi M\u00edo",
-        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
+        "name": "D\u00e9jame Vivir",
+        "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
       },
       "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
+      "duration_ms": 209440,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g"
     },
     {
       "added_at": null,
@@ -835,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jame Vivir",
-        "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
+        "name": "Mariachi M\u00edo",
+        "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
       },
       "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 209440,
-      "name": "D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g"
+      "duration_ms": 170000,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
     },
     {
       "added_at": null,

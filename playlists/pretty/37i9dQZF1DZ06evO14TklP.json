@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 18826,
+  "num_followers": 18844,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAB+/vm+Fzaw+6EgYVe4XqX5",
+  "snapshot_id": "aay8AAAAAAAhCZUdY5csW9rMDOIKjFHr",
   "tracks": [
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+        }
+      ],
+      "duration_ms": 181052,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reuni\u00e3o Dos Cria",
         "url": "https://open.spotify.com/album/2oqaYk1IfIY8HwOinCT2Pq"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 228283,
       "name": "Reuni\u00e3o Dos Cria",
       "url": "https://open.spotify.com/track/08rJlLJtCWCENyxjkPM3Ns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/5sYQPKa0a6cIVUjcksLmto"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca$h Ca$h",
-        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
-      },
-      "artists": [
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 184519,
-      "name": "Ca$h Ca$h",
-      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -891,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ca$h Ca$h",
+        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
+      },
+      "artists": [
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 184519,
+      "name": "Ca$h Ca$h",
+      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Facetime",
         "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
       },
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 147119,
+      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
+      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Xoxo",
         "url": "https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv"
       },
@@ -943,6 +963,30 @@
       "duration_ms": 130307,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Condessa",
+        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 115999,
+      "name": "Bugatti",
+      "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
     },
     {
       "added_at": null,
@@ -983,50 +1027,6 @@
       "duration_ms": 280000,
       "name": "Fresh Stars 2020 Pnpl",
       "url": "https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-        "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
-      },
-      "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 147119,
-      "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
-      "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Condessa",
-        "url": "https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 115999,
-      "name": "Bugatti",
-      "url": "https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs"
     },
     {
       "added_at": null,

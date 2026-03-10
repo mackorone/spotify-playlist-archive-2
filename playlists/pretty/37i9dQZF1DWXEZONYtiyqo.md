@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Alina Eremia, Andrei Banuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,359 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,371 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 13 | [Mintea Mea](https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mintea Mea](https://open.spotify.com/album/7t2Yr9iJCea9Qo7PW8z1On) | 2:45 |
 | 14 | [Anii În Care Nu Dormim](https://open.spotify.com/track/7KabacMSDqjfZWiFtM4IhM) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Anii În Care Nu Dormim](https://open.spotify.com/album/42G7m3RHPBDDLGuDIkM7jh) | 3:27 |
 | 15 | [Tu Stii](https://open.spotify.com/track/1orCK0XoIBpqlpBVVFO3HV) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Tu Stii](https://open.spotify.com/album/3RCEENMBzCbpb3wuUZs6cH) | 2:50 |
-| 16 | [Amprente](https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Amprente](https://open.spotify.com/album/5DlUqFAvJ34SfKhGEQIusv) | 3:03 |
+| 16 | [Amprente \- Extended version](https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Amprente \(Extended version\)](https://open.spotify.com/album/5DlUqFAvJ34SfKhGEQIusv) | 3:03 |
 | 17 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
 | 18 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
 | 19 | [Nu te mai sun](https://open.spotify.com/track/7KNzlejrzayOsTzGuSy8l0) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF), [ADI Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Nu te mai sun](https://open.spotify.com/album/0HRx3orLtS2xWxGIRp1oB6) | 2:28 |

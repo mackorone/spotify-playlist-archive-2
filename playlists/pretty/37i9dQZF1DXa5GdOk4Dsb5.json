@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella. Jessi Uribe en portada.",
-  "num_followers": 164530,
+  "num_followers": 164577,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 157193,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 239310,
       "name": "Dame un Beso y Dime Adios - En Vivo",
       "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/6Kq8jaRneZMqYi3YkMvKqb"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 157193,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/5G4ZDg8qtObwMXt0F8Sw4A"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Maldita Traicion",
-        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 246131,
       "name": "Tu - Live",
       "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Maldita Traicion",
+        "url": "https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 175456,
-      "name": "Dulce Pecado",
-      "url": "https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm"
+      "duration_ms": 141336,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-12-05 04:59:34",
       "album": {
-        "name": "Mis Borracheras",
-        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
-      },
-      "artists": [
-        {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        }
-      ],
-      "duration_ms": 167895,
-      "name": "Mis Borracheras",
-      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
-    },
-    {
-      "added_at": "2025-12-05 04:59:34",
-      "album": {
         "name": "No Es Por Ac\u00e1",
         "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+    },
+    {
+      "added_at": "2025-12-05 04:59:34",
+      "album": {
+        "name": "Mis Borracheras",
+        "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
+      },
+      "artists": [
+        {
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        }
+      ],
+      "duration_ms": 167895,
+      "name": "Mis Borracheras",
+      "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
     },
     {
       "added_at": "2025-12-05 04:59:34",
@@ -1700,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 141336,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv"
+      "duration_ms": 175456,
+      "name": "Dulce Pecado",
+      "url": "https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm"
     },
     {
       "added_at": "2025-12-05 04:59:34",

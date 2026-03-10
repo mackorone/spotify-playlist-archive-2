@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 6 hr 16 min
+125 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2024-01-04 | 2024-06-03 |
 | [che t'o dico a fa'](https://open.spotify.com/track/29BLybpYHhOcDGWfkvKNTu) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 3:07 | 2024-06-02 |  |
 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 | 2023-12-13 | 2024-01-05 |
+| [Chiedere aiuto](https://open.spotify.com/track/2O0bztgttWP5etXYEJB98A) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Chiedere aiuto](https://open.spotify.com/album/0qfb5ZB9yzHoS6koD5lw2N) | 2:33 | 2026-03-09 |  |
 | [Ci pensiamo domani](https://open.spotify.com/track/3xee23Fj4m6DVu9UrWX5Up) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf) | 3:00 | 2023-06-14 | 2023-12-14 |
 | [Ci pensiamo domani](https://open.spotify.com/track/5qR8me97mDHqvggt1G2eFn) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Ci pensiamo domani](https://open.spotify.com/album/0nrHKiZuYxFzgW4rUdTLbP) | 3:00 | 2023-12-13 |  |
 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 | 2022-09-16 |  |
@@ -111,6 +112,7 @@
 | [SEXY SHOP](https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [SEXY SHOP](https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y) | 3:08 | 2024-09-20 |  |
 | [SOLDI, AMORE](https://open.spotify.com/track/4zf47ed37Kac7bsZKcgUpa) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 2:57 | 2024-08-21 | 2025-01-06 |
 | [SOLDI, AMORE](https://open.spotify.com/track/6J2IPT5QmI6hcjf6zf7iMI) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:57 | 2025-01-05 |  |
+| [Standard](https://open.spotify.com/track/3y34Oj2rgQ2wrXsWpIFJH8) | [Vybes](https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE) | [Standard](https://open.spotify.com/album/16hacsVcvQ2w9oQK5lRw0p) | 3:05 | 2026-03-09 |  |
 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/3gqln1UCgcXnjG5lGQmCU1) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:03 | 2025-01-05 |  |
 | [STORIE DI ROSE APPASSITE](https://open.spotify.com/track/44JN8Oz9MEKrXmCaxgfQiH) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7EV8pGuFCChzOPmcopNQ4t) | 3:03 | 2024-06-11 | 2025-01-06 |
 | [Stupidi lovers](https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Leggera](https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70) | 3:24 | 2022-09-16 |  |

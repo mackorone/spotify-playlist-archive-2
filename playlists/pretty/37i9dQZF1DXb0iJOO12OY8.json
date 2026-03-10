@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd1d",
-  "num_followers": 211235,
+  "num_followers": 211229,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -399,8 +399,8 @@
     {
       "added_at": "2026-02-26 23:00:41",
       "album": {
-        "name": "Heartless",
-        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
+        "name": "La meg leve",
+        "url": "https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
+      "duration_ms": 125091,
+      "name": "La meg leve",
+      "url": "https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO"
     },
     {
       "added_at": "2026-02-26 23:00:41",
@@ -479,8 +479,8 @@
     {
       "added_at": "2026-02-26 23:00:41",
       "album": {
-        "name": "La meg leve",
-        "url": "https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj"
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/2WXVkG3pCRkjcAYJfcKk1m"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
         }
       ],
-      "duration_ms": 125091,
-      "name": "La meg leve",
-      "url": "https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO"
+      "duration_ms": 156800,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
     },
     {
       "added_at": "2026-02-26 23:00:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-26 23:00:41",
       "album": {
-        "name": "Kaster Penger",
-        "url": "https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN"
-      },
-      "artists": [
-        {
-          "name": "Fjellrev",
-          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
-        }
-      ],
-      "duration_ms": 114387,
-      "name": "Kaster Penger",
-      "url": "https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64"
-    },
-    {
-      "added_at": "2026-02-26 23:00:41",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 204942,
       "name": "TV",
       "url": "https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:41",
+      "album": {
+        "name": "Kaster Penger",
+        "url": "https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN"
+      },
+      "artists": [
+        {
+          "name": "Fjellrev",
+          "url": "https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8"
+        }
+      ],
+      "duration_ms": 114387,
+      "name": "Kaster Penger",
+      "url": "https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64"
     },
     {
       "added_at": "2026-02-26 23:00:41",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-26 23:00:41",
       "album": {
-        "name": "Cut the shit",
-        "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
-      },
-      "artists": [
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 153161,
-      "name": "Cut the shit",
-      "url": "https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn"
-    },
-    {
-      "added_at": "2026-02-26 23:00:41",
-      "album": {
         "name": "Fredagsbarn",
         "url": "https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 190946,
       "name": "Fredagsbarn",
       "url": "https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn"
+    },
+    {
+      "added_at": "2026-02-26 23:00:41",
+      "album": {
+        "name": "Cut the shit",
+        "url": "https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC"
+      },
+      "artists": [
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "duration_ms": 153161,
+      "name": "Cut the shit",
+      "url": "https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn"
     },
     {
       "added_at": "2026-02-26 23:00:41",

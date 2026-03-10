@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1901,
+  "num_followers": 1902,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADMkc1QBlehddBvBNQ8Dsnp",
+  "snapshot_id": "aay8AAAAAABtyfT3VWfEusBPUvFMZx/D",
   "tracks": [
     {
       "added_at": null,
@@ -71,30 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/3nY93SfZCct3t9lfXYrYtt"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Einaudi: Una mattina",
-      "url": "https://open.spotify.com/track/0rFdP3ZfwsUajBLUuex0Kb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elgar: Cello Concerto in E Minor, Op. 85: III. Adagio",
         "url": "https://open.spotify.com/album/5GRQgouohxuDxhd6ujam3d"
       },
@@ -123,6 +99,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/3nY93SfZCct3t9lfXYrYtt"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Einaudi: Una mattina",
+      "url": "https://open.spotify.com/track/0rFdP3ZfwsUajBLUuex0Kb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhapsody. Cello Sonatas by Rachmaninov & Prokofiev",
         "url": "https://open.spotify.com/album/1xpzhtpjPvLWdLme7BpttC"
       },
@@ -143,6 +143,26 @@
       "duration_ms": 219093,
       "name": "Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII. Andante cantabile",
       "url": "https://open.spotify.com/track/1faDVN6hdbj0rQXOP5Cflf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Franck & Chopin: Cello Sonatas",
+        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
     },
     {
       "added_at": null,
@@ -171,26 +191,6 @@
       "duration_ms": 161080,
       "name": "Hurwitz / Arr. Bouchard: La la land: Mia and Sebastian's Theme",
       "url": "https://open.spotify.com/track/5qY0DKB7qYMHAw5qSFAUs9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Franck & Chopin: Cello Sonatas",
-        "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 217173,
-      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
-      "url": "https://open.spotify.com/track/07G1fEN9kYXOb4D5iKdKf3"
     },
     {
       "added_at": null,
@@ -247,34 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schumann: Cello Concerto & Chamber Works (Live)",
-        "url": "https://open.spotify.com/album/7o54pvt3DHOw6CUgXbMznF"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Bernard Haitink",
-          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
-        },
-        {
-          "name": "Chamber Orchestra of Europe",
-          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "Schumann: Cello Concerto in A Minor, Op. 129: II. Langsam (Live)",
-      "url": "https://open.spotify.com/track/1KpJAkx3pSMTJNSmwRIbdp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -303,6 +275,34 @@
       "duration_ms": 219746,
       "name": "Nyman: The Heart Asks Pleasure First",
       "url": "https://open.spotify.com/track/6rnITCCZSmQaeFTvjYb0C3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Schumann: Cello Concerto & Chamber Works (Live)",
+        "url": "https://open.spotify.com/album/7o54pvt3DHOw6CUgXbMznF"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Bernard Haitink",
+          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "Schumann: Cello Concerto in A Minor, Op. 129: II. Langsam (Live)",
+      "url": "https://open.spotify.com/track/1KpJAkx3pSMTJNSmwRIbdp"
     },
     {
       "added_at": null,
@@ -355,38 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris - Un homme et une femme",
-        "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Un homme et une femme",
-      "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX"
       },
@@ -415,6 +383,38 @@
       "duration_ms": 221626,
       "name": "Monnot / Orch. Ducros: Hymne \u00e0 l'amour",
       "url": "https://open.spotify.com/track/1WKImzCKO0BKKxEFNzEzND"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris - Un homme et une femme",
+        "url": "https://open.spotify.com/album/6a2KMUwOkWgVPFJDcmgHve"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Un homme et une femme",
+      "url": "https://open.spotify.com/track/1fNawoarma7dusg6ch2wlV"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Einaudi: Air",
-        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
-      },
-      "artists": [
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 249346,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brahms: Clarinet Trio in A Minor, Op. 114: I. Allegro",
         "url": "https://open.spotify.com/album/67VKbmP2eGc7npbd3F2e5j"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 459213,
       "name": "Clarinet Trio in A Minor, Op. 114: I. Allegro",
       "url": "https://open.spotify.com/track/3XscpxBMDGN1Jhm9ZL3Wsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Einaudi: Air",
+        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
+      },
+      "artists": [
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 249346,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
     },
     {
       "added_at": null,
@@ -727,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Max Richter",
-          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 275933,
-      "name": "Sequence for Ga\u00efa",
-      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tchaikovsky: Souvenir de Florence, Op. 70, TH 118 (Live from Verbier Festival / 2013)",
         "url": "https://open.spotify.com/album/2L8EKujXjg3Ed9SX9IKvSl"
       },
@@ -787,6 +763,30 @@
       "duration_ms": 370013,
       "name": "Souvenir de Florence, Op. 70, TH 118: III. Allegro moderato - Live from Verbier Festival / 2013",
       "url": "https://open.spotify.com/track/6flZV70cwZLQE1XsPBz1NF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 275933,
+      "name": "Sequence for Ga\u00efa",
+      "url": "https://open.spotify.com/track/19vKyZ0AdFPdNQuHZhGmoE"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Jerome Ducros",
+          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Towards the Light",
+      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shostakovich: Cello Concertos Nos. 1 & 2",
         "url": "https://open.spotify.com/album/1Jv7SlayRJhHSO8IYDDh5D"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 387440,
       "name": "Shostakovich: Cello Concerto No. 1 in E-Flat Major, Op. 107: I. Allegretto",
       "url": "https://open.spotify.com/track/0EFVPhrcAJxu4r65BjkveH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Jerome Ducros",
-          "url": "https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Towards the Light",
-      "url": "https://open.spotify.com/track/4SG9kgdc4zEjSl0qMcobUb"
     },
     {
       "added_at": null,
@@ -1115,34 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winter Adagios",
-        "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
-      },
-      "artists": [
-        {
-          "name": "Anton Arensky",
-          "url": "https://open.spotify.com/artist/2DLKrW0pn180nOIjUWlTjm"
-        },
-        {
-          "name": "Polina Leschenko",
-          "url": "https://open.spotify.com/artist/3J5YYW5Vaewcf0finw5Q0p"
-        },
-        {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 358466,
-      "name": "Arensky: Piano Trio No. 1 in D Minor, Op. 32: III. Elegia. Adagio",
-      "url": "https://open.spotify.com/track/68C1CY56K7WDzEcs1YGxsF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ga\u00efa",
         "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
       },
@@ -1199,6 +1171,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Winter Adagios",
+        "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
+      },
+      "artists": [
+        {
+          "name": "Anton Arensky",
+          "url": "https://open.spotify.com/artist/2DLKrW0pn180nOIjUWlTjm"
+        },
+        {
+          "name": "Polina Leschenko",
+          "url": "https://open.spotify.com/artist/3J5YYW5Vaewcf0finw5Q0p"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 358466,
+      "name": "Arensky: Piano Trio No. 1 in D Minor, Op. 32: III. Elegia. Adagio",
+      "url": "https://open.spotify.com/track/68C1CY56K7WDzEcs1YGxsF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Capucelli",
         "url": "https://open.spotify.com/album/5mrGfxM48UCqKrOqG4Rmqm"
       },
@@ -1239,6 +1239,30 @@
       "duration_ms": 162600,
       "name": "La chanson d\u2019H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
+        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 385493,
+      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
+      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
     },
     {
       "added_at": null,
@@ -1295,50 +1319,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninoff: Cello Sonata in G Minor, Op. 19",
-        "url": "https://open.spotify.com/album/6hYcC80EgYG89s5F1IHfRe"
+        "name": "Classical Music Relax",
+        "url": "https://open.spotify.com/album/4OcH6ycgBYzR6R9KMODEwa"
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         },
         {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 385493,
-      "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
-      "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Studying with Relaxing Classical Music",
-        "url": "https://open.spotify.com/album/6wOT3uLx11ITi5lsdICEWk"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Frankfurt Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
         },
         {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
         },
         {
-          "name": "Renaud Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+          "name": "Hr-sinfonieorchester",
+          "url": "https://open.spotify.com/artist/1WCZd871qmyx7pxia4sVR3"
         }
       ],
-      "duration_ms": 82306,
-      "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
-      "url": "https://open.spotify.com/track/0KpCsWZBwGh3f4zTUjqTF3"
+      "duration_ms": 765626,
+      "name": "Cello Concerto in B Minor, B. 191: II. Adagio ma non troppo",
+      "url": "https://open.spotify.com/track/4l5orm4REgJVtx96aWlltp"
     }
   ],
   "unique_name": "This Is Gautier Capu\u00e7on",

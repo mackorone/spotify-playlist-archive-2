@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Tigers Jaw",
-  "num_followers": 443704,
+  "num_followers": 443674,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "SIDEQUEST",
-        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
-      },
-      "artists": [
-        {
-          "name": "Michael Clifford",
-          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "enough",
-      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "MOTH KIDS",
         "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "SIDEQUEST",
+        "url": "https://open.spotify.com/album/1IEj1Bvyvn7fIdDLJZNmfD"
+      },
+      "artists": [
+        {
+          "name": "Michael Clifford",
+          "url": "https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "enough",
+      "url": "https://open.spotify.com/track/2TtRe0m0PhThwIhxNDQfbP"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1387,30 +1387,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Forgive (feat. Joe Taylor)",
-        "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
-      },
-      "artists": [
-        {
-          "name": "Shoreline",
-          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
-        },
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        },
-        {
-          "name": "Joe Taylor",
-          "url": "https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN"
-        }
-      ],
-      "duration_ms": 193912,
-      "name": "Forgive (feat. Joe Taylor)",
-      "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -1439,6 +1415,30 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Forgive (feat. Joe Taylor)",
+        "url": "https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        },
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        },
+        {
+          "name": "Joe Taylor",
+          "url": "https://open.spotify.com/artist/4387HtOiXHEbS4Q5Pik4JN"
+        }
+      ],
+      "duration_ms": 193912,
+      "name": "Forgive (feat. Joe Taylor)",
+      "url": "https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG"
     },
     {
       "added_at": "2026-01-09 05:00:25",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-01-09 05:00:25",
       "album": {
-        "name": "Big Al Dente",
-        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
-      },
-      "artists": [
-        {
-          "name": "Action/Adventure",
-          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
-        }
-      ],
-      "duration_ms": 170970,
-      "name": "Big Al Dente",
-      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
-    },
-    {
-      "added_at": "2026-01-09 05:00:25",
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 260885,
       "name": "Goodbye For Now (feat. Julien Baker)",
       "url": "https://open.spotify.com/track/0lPwT1JHuNFeXtIV6i6Eg2"
+    },
+    {
+      "added_at": "2026-01-09 05:00:25",
+      "album": {
+        "name": "Big Al Dente",
+        "url": "https://open.spotify.com/album/58CxKelWY2FGZQbMTvB54K"
+      },
+      "artists": [
+        {
+          "name": "Action/Adventure",
+          "url": "https://open.spotify.com/artist/7uBCPmZFHJzrQDlxHNsFwF"
+        }
+      ],
+      "duration_ms": 170970,
+      "name": "Big Al Dente",
+      "url": "https://open.spotify.com/track/09fJxz3rLdV0eWQTRHXzdY"
     },
     {
       "added_at": "2026-01-09 05:00:25",

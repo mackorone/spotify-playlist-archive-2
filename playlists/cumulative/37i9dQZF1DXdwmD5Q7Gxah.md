@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack 🫧  </a>   Cover: waterbaby
 
-3,718 songs - 8 day 11 hr 32 min
+3,720 songs - 8 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2937,6 +2937,7 @@
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-07 | 2022-05-07 |
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-16 | 2025-08-16 |
 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 | 2022-06-03 | 2022-06-16 |
+| [Sometimes I believe in God \(Sometimes I believe in Me\)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [?](https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H) | 3:40 | 2026-03-09 |  |
 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 | 2020-07-31 | 2020-08-21 |
 | [Somewhere in Between](https://open.spotify.com/track/2eZqr5eoqJjV3RtQhzMEmz) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Somewhere in Between](https://open.spotify.com/album/40qgvmv0umdBKkDBMdhlb2) | 3:23 | 2025-07-22 | 2026-02-07 |
 | [Somewhere in the Universe](https://open.spotify.com/track/2sLAKUdiwa7Ik8XY2ow3DE) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I'm Sorry I'm Like This](https://open.spotify.com/album/1nOZaGSuVtIR43XewW6nEU) | 1:40 | 2022-12-22 | 2023-02-16 |
@@ -3649,6 +3650,7 @@
 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 | 2022-07-29 | 2022-09-03 |
 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 | 2025-03-12 | 2025-12-20 |
 | [YEAH RIGHT](https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:54 | 2019-07-30\* | 2020-01-17 |
+| [Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Year of the Dragon](https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3) | 3:29 | 2026-03-09 |  |
 | [Yellow](https://open.spotify.com/track/6LCMIrcOxFKMAmccaK7biI) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Yellow](https://open.spotify.com/album/1BrAurLoXx2P0DFrdU3N2J) | 4:27 | 2025-09-10 |  |
 | [Yellow Hearts](https://open.spotify.com/track/20JtELGPfOAMq7FpUt8eSM) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Yellow Hearts](https://open.spotify.com/album/0ahjnylJzSIfobrUbMZnmL) | 3:43 | 2019-11-02 | 2020-01-28 |
 | [Yellow Hearts \(feat\. Audrey Mika\)](https://open.spotify.com/track/3oVGjguICRU4UVS1ZPwH2D) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Yellow Hearts \(feat\. Audrey Mika\)](https://open.spotify.com/album/2xLH4V0PyKfETrIpkDsI2m) | 3:00 | 2020-02-15 | 2020-03-13 |

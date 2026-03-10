@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 1,979 songs - 4 day 22 hr 31 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 1,980 songs - 4 day 22 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1987,5 +1987,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1977 | [Peaceful Meadow](https://open.spotify.com/track/410Q9n3o9N3La6nEQceEBf) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 2:11 |
 | 1978 | [Catch A Wave](https://open.spotify.com/track/71NOaWAnbzTlUjmXT718MP) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:58 |
 | 1979 | [Drifting Away](https://open.spotify.com/track/5XyDKHvBLPUQjmev14xOVg) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3) | [Drifting Away](https://open.spotify.com/album/1oN3fHZvxNl4hZXD9pZ3D8) | 3:26 |
+| 1980 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
 
-Snapshot ID: `AAAIQ6JrO4TQKn49EBWhAdEDfuwM5knI`
+Snapshot ID: `AAAIRDGgDHLPLJGA/Q5kyOugUS5qs+qW`

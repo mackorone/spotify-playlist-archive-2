@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Mary Droppinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,678 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,707 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 69 | [Runaway](https://open.spotify.com/track/6cl01mVeSioV2jTHRcGe0l) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Runaway](https://open.spotify.com/album/2614C9Zlno0BXCSO0KokfL) | 3:05 |
 | 70 | [Blood On My Hands](https://open.spotify.com/track/6kMqtoG4GUMjCSorLD6Max) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Blood On My Hands](https://open.spotify.com/album/555QuQvzYTgaJzcGPlpTzc) | 3:11 |
 | 71 | [Bass Go Silly](https://open.spotify.com/track/275UK4dZzVVgwWMzjRKw2i) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI) | [Dream Machine](https://open.spotify.com/album/0021xj4uajtMYc2w7AyJRq) | 3:13 |
-| 72 | [BOMB](https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Vaultage 004](https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L) | 1:06 |
+| 72 | [BOMB \(MIX CUT\)](https://open.spotify.com/track/3juNrwySoU5LwadXk8BI2i) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Vaultage 004](https://open.spotify.com/album/7xg7LDo45QwoaoazXhUn5L) | 1:06 |
 | 73 | [Dominator](https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Dominator](https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT) | 2:53 |
 | 74 | [Borehole](https://open.spotify.com/track/2B4OQq13pgIqrud53V7NvZ) | [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Borehole](https://open.spotify.com/album/4vukaa71YhJMu00m4Oy8hV) | 2:44 |
 | 75 | [SPIRAL](https://open.spotify.com/track/4vtkYOgMCIG3pVLdLGjWEV) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [SPIRAL](https://open.spotify.com/album/2pWYRq9Vmismh1jqX8EE17) | 2:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois dernier sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,576 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,556 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 10 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 11 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
 | 12 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 13 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
-| 14 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
-| 15 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
+| 13 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
+| 14 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
+| 15 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
 | 16 | [Ride](https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ride](https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3) | 4:39 |
 | 17 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
 | 18 | [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 |
 | 19 | [Ordinary Feelings](https://open.spotify.com/track/5cZ7ZEmioyfaB5PcpZ6dba) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Ordinary Feelings](https://open.spotify.com/album/19KnKBS2L6tdrzpQB4z5Gb) | 3:54 |
-| 20 | [Illegal + Four Tet](https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Illegal + Four Tet](https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS) | 5:36 |
-| 21 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
+| 20 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
+| 21 | [Illegal + Four Tet](https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Illegal + Four Tet](https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS) | 5:36 |
 | 22 | [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 |
 | 23 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 | 24 | [La bête](https://open.spotify.com/track/1lV9VhiDMc6fDNhz5npGYQ) | [Asinine](https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C) | [Doom](https://open.spotify.com/album/4aJxye23XBkIPfXwBYx1n6) | 2:42 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 26 | [Silverlake Baby](https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Would You Go Down On A Girl? \(Deluxe\)](https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus) | 3:41 |
 | 27 | [JBL](https://open.spotify.com/track/2IQRGtv0VD59aDGppsvrjJ) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8) | [JBL](https://open.spotify.com/album/7xe17TX8MAfxRHGhGJPUKc) | 3:11 |
 | 28 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
-| 29 | [Ongles cassés](https://open.spotify.com/track/4FLNvVjwgpNiuiHOaKaPE3) | [Cielbleu](https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc) | [Ongles cassés](https://open.spotify.com/album/1tSyawRXmLPVwx0XvA3tT3) | 3:29 |
-| 30 | [SOLEIL](https://open.spotify.com/track/3CxvntrbbfuP7ni9xfVpJL) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/48HmiG504mBM1GbpMx2fMU) | 3:24 |
+| 29 | [SOLEIL](https://open.spotify.com/track/3CxvntrbbfuP7ni9xfVpJL) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/48HmiG504mBM1GbpMx2fMU) | 3:24 |
+| 30 | [Ongles cassés](https://open.spotify.com/track/4FLNvVjwgpNiuiHOaKaPE3) | [Cielbleu](https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc) | [Ongles cassés](https://open.spotify.com/album/1tSyawRXmLPVwx0XvA3tT3) | 3:29 |
 | 31 | [Tourisme](https://open.spotify.com/track/4wVZ0CDlKtSt05ztiOqplg) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Tourisme](https://open.spotify.com/album/50dLClesSVQO0ni2RIStOp) | 3:31 |
 | 32 | [Winter Days 冬の日々\(feat\. Salasa\)](https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Winter Days 冬の日々 \(feat\. Salasa\)](https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA) | 3:42 |
 | 33 | [rayito de luz](https://open.spotify.com/track/6NN2qLaBD73xIzbuI8LZEK) | [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [el santo que del cielo quiere bajar](https://open.spotify.com/album/4ugDegU1o8gFp3rwITBU5H) | 2:14 |

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Ariel Imani 💚
 
-2,799 songs - 6 day 11 hr 10 min
+2,800 songs - 6 day 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-10-04 | 2022-11-03 |
 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 | 2026-02-05 |  |
 | [DEJA VU](https://open.spotify.com/track/7v7nrrYMIdugbGRAseawG9) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [DEJA VU](https://open.spotify.com/album/6RyQ5WoUUyokV0X5hboeAY) | 3:09 | 2023-09-06 | 2023-11-09 |
+| [deja vu](https://open.spotify.com/track/5PlFjZHDhcyjUUZRQCO9uh) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [deja vu](https://open.spotify.com/album/3iRypzqqCo3N96LlXuyvdy) | 3:08 | 2026-02-18 |  |
 | [Deja Vu \- Facem Cum Vrei Tu](https://open.spotify.com/track/3jM74umuS30nF49vLRxiMV) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Deja Vu \(Facem Cum Vrei Tu\)](https://open.spotify.com/album/1ZFkRzfhA9ORsQAl60CVDB) | 2:47 | 2025-08-06 | 2025-11-06 |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-05-04 | 2022-06-01 |
 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 | 2023-09-06 | 2023-10-27 |
@@ -579,7 +580,7 @@
 | [Demons](https://open.spotify.com/track/7w0GhApB7RA7DrJACVwvaN) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Demons](https://open.spotify.com/album/6s9DNbcTdOHtTpGKnlbr5b) | 2:58 | 2022-09-07 | 2022-10-05 |
 | [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2025-01-08 | 2025-07-03 |
 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 | 2025-12-03 | 2026-02-06 |
-| [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 | 2025-07-02 |  |
+| [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 | 2025-07-02 | 2026-03-10 |
 | [Dernière danse](https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 3:33 | 2024-06-05 | 2024-06-20 |
 | [Dernière fois](https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Dernière fois](https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv) | 3:18 | 2023-07-05 | 2023-08-03 |
 | [Derre](https://open.spotify.com/track/02mGPF4589DiiSdoH0pu1d) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Derre](https://open.spotify.com/album/7dSovHX9P2wh3p8quX7EhL) | 2:36 | 2025-06-04 | 2025-07-03 |

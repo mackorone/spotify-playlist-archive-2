@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 325740,
+  "num_followers": 325745,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACY6B5Vv273NqBOsaXZNafK",
+  "snapshot_id": "aay8AAAAAACSqMeC+QFfXX3KQOq0SV1r",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
+        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        },
+        {
+          "name": "Don Covay",
+          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
+        }
+      ],
+      "duration_ms": 145146,
+      "name": "Mercy, Mercy - Single/LP Version",
+      "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cry of Love",
         "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
@@ -599,22 +619,6 @@
       "duration_ms": 229120,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/4xmlBI4xprNK78GSoTtkxp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At Monterey",
-        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 426613,
-      "name": "Like A Rolling Stone - Live At Monterey",
-      "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
     },
     {
       "added_at": null,
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
-        "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
       "artists": [
         {
           "name": "Jimi Hendrix",
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        },
-        {
-          "name": "Don Covay",
-          "url": "https://open.spotify.com/artist/3SC1GczHVpsiorx1KFaa4S"
         }
       ],
-      "duration_ms": 145146,
-      "name": "Mercy, Mercy - Single/LP Version",
-      "url": "https://open.spotify.com/track/0R8ftvBCBw2d9DylZKFJ1P"
+      "duration_ms": 426613,
+      "name": "Like A Rolling Stone - Live At Monterey",
+      "url": "https://open.spotify.com/track/2y84zRlD8OD6wYpxUylgTV"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Monterey",
-        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Killing Floor - Live At Monterey",
-      "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Band Of Gypsys (50th Anniversary / Live)",
         "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 576360,
       "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
       "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Killing Floor - Live At Monterey",
+      "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
     },
     {
       "added_at": null,

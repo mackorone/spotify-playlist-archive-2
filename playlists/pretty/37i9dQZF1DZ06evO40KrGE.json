@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37804,
+  "num_followers": 37810,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACAqrKdBHMe3FcWPnqoG7H8",
+  "snapshot_id": "aay8AAAAAADmnR/lC+Yi1AaA8HiL6Hdw",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recompensa",
-        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 305992,
-      "name": "Muita Un\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 446937,
       "name": "O Abra\u00e7o do Noivo",
       "url": "https://open.spotify.com/track/5y9uzQPYBVicXcQaWY6L9q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recompensa",
+        "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 305992,
+      "name": "Muita Un\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6ugWrHr1hONNz5NAahRjxk"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 289552,
       "name": "Esconderijo do Alt\u00edssimo",
       "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 248314,
-      "name": "Deus Tem Poder",
-      "url": "https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 364692,
       "name": "Sementes da F\u00e9",
       "url": "https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 248314,
+      "name": "Deus Tem Poder",
+      "url": "https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 345698,
-      "name": "Alvo Mais que a Neve",
-      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O Segredo (Ao Vivo)",
         "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 306694,
       "name": "O Segredo (Ao Vivo)",
       "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 345698,
+      "name": "Alvo Mais que a Neve",
+      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare Agora",
-        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 269775,
-      "name": "N\u00e3o Pare Agora",
-      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fa\u00e7a Diferen\u00e7a",
         "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 237586,
       "name": "Ele Tem Poder",
       "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare Agora",
+        "url": "https://open.spotify.com/album/1WBfGQh2mLCNJuoHU6ZJKp"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 269775,
+      "name": "N\u00e3o Pare Agora",
+      "url": "https://open.spotify.com/track/0P73ytAPCC75fK8uXryskh"
     },
     {
       "added_at": null,

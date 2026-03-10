@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29811,
+  "num_followers": 29813,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Kizunguzungu",
         "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Lena 20 \u00e5r",
-        "url": "https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo"
-      },
-      "artists": [
-        {
-          "name": "Lena Philipsson",
-          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Det g\u00f6r ont",
-      "url": "https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Amazing",
         "url": "https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
+        "name": "Lena 20 \u00e5r",
+        "url": "https://open.spotify.com/album/1T8NH2yMjPBlUDwim5Vtdo"
+      },
+      "artists": [
+        {
+          "name": "Lena Philipsson",
+          "url": "https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Det g\u00f6r ont",
+      "url": "https://open.spotify.com/track/2aeVGqdsF7WbKZkwhcCeqm"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
         "name": "Disco Defenders",
         "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
       },
@@ -567,6 +567,38 @@
       "duration_ms": 181680,
       "name": "Blame It On The Disco",
       "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Det blir vad du g\u00f6r det till",
+        "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
+      },
+      "artists": [
+        {
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Efter solsken",
+      "url": "https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -595,38 +627,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Fr\u00e4mling 25 \u00e5r",
-        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Fr\u00e4mling",
-      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Det blir vad du g\u00f6r det till",
-        "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
-      },
-      "artists": [
-        {
-          "name": "Panetoz",
-          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Efter solsken",
-      "url": "https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -639,22 +639,6 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -675,6 +659,22 @@
       "duration_ms": 188560,
       "name": "Underbart",
       "url": "https://open.spotify.com/track/5Tbc2O2q1NCux8F0lYiEo0"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
-      },
-      "artists": [
-        {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
-        }
-      ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "A State Of Mind",
         "url": "https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 174986,
       "name": "Baby Goodbye",
       "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Ashes To Ashes",
+        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
+      },
+      "artists": [
+        {
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
+        }
+      ],
+      "duration_ms": 180883,
+      "name": "Ashes To Ashes",
+      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Den l\u00e5ngsamma blomman",
-        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Min k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "I Won't Shake (La La Gunilla)",
         "url": "https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Heroes - Spotify Singles",
-        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+        "name": "Den l\u00e5ngsamma blomman",
+        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
       },
       "artists": [
         {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
         }
       ],
-      "duration_ms": 180217,
-      "name": "Heroes - Spotify Singles",
-      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
+      "duration_ms": 181586,
+      "name": "Min k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -819,6 +803,22 @@
       "duration_ms": 166346,
       "name": "In The Club",
       "url": "https://open.spotify.com/track/3GbgOBpbw71zpy7lCnU6N6"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Heroes - Spotify Singles",
+        "url": "https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 180217,
+      "name": "Heroes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS"
     },
     {
       "added_at": "2026-02-19 13:19:00",

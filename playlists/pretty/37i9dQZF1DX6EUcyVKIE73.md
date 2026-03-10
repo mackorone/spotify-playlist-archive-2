@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,733 likes - 50 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,739 likes - 50 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 14 | [Dhun \(Dadra And Fast Teental\) \- Live](https://open.spotify.com/track/68H7Gfjexf4wuGswkcwfdU) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 19:41 |
 | 15 | [Hamri Atariya](https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc) | [Rita Dev](https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E) | [Hamri Atariya](https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg) | 10:36 |
 | 16 | [Raga Kirwani \- Alap Gat \- Teental](https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj) | [Iqubal Huein](https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA), [Brij Narayan](https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs) | [Brij Narayan](https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw) | 10:13 |
-| 17 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
-| 18 | [Jadoo Bharey Torey Nain](https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo) | [Lakshmi Shankar, Aneesh Pradhan](https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I) | [Shringar: The Many Moods of Love \- Volume 3](https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr) | 12:44 |
+| 17 | [Jadoo Bharey Torey Nain](https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo) | [Lakshmi Shankar, Aneesh Pradhan](https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I) | [Shringar: The Many Moods of Love \- Volume 3](https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr) | 12:44 |
+| 18 | [Komal Rishabh Asavari \- Jhaptaal](https://open.spotify.com/track/3j01dFrZ4yHMlwBwXDbc7d) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 13:55 |
 | 19 | [Tabla Solo In Ektal \- Live](https://open.spotify.com/track/4FsUTO3VyjORPxOtcuuDRQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 6:19 |
 | 20 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |
 | 21 | [Jaagun Main Saari Raina / Maru Bihaag \- Live](https://open.spotify.com/track/4vzYYv84aa1NWM8tqGOzey) | [Prabha Atre](https://open.spotify.com/artist/4ijLHam3SGHSpOWtyUEwCg), [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Abhinay Ravande](https://open.spotify.com/artist/2ozeNR3NziMtnuokdpAByx), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Jaagun Main Saari Raina / Maru Bihaag \(Live\)](https://open.spotify.com/album/6bnTpxj48Ml7fzBo9EwRb8) | 10:02 |

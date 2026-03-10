@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Upchuck
 
-626 songs - 1 day 7 hr 19 min
+627 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@
 | [The Outlaw Star](https://open.spotify.com/track/56xmpRMOJ2x2QgOE5tGo6u) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [The Outlaw Star](https://open.spotify.com/album/2ypUjJxlG4VJfNpI482ne8) | 2:35 | 2026-02-27 |  |
 | [The Recipe](https://open.spotify.com/track/3NASP9IkcrulrSZl8otyFd) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [The Recipe](https://open.spotify.com/album/1CbdsILSyFJWcCBGFKlcM7) | 2:44 | 2025-02-07 | 2025-02-14 |
 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 | 2024-10-10 | 2025-02-08 |
-| [The Weapon Pt\. II](https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81) | [Mizery](https://open.spotify.com/artist/1jtr0Jugsg69AGlDW4cqsX) | [The Weapon Pt\. II](https://open.spotify.com/album/77O2A0v7aanzerQ0fsyrbQ) | 3:17 | 2026-02-06 |  |
+| [The Weapon Pt\. II](https://open.spotify.com/track/2nUWdoAXkRdZj4ssbrbK81) | [Mizery](https://open.spotify.com/artist/1jtr0Jugsg69AGlDW4cqsX) | [The Weapon Pt\. II](https://open.spotify.com/album/77O2A0v7aanzerQ0fsyrbQ) | 3:17 | 2026-02-06 | 2026-03-10 |
 | [Theme New Bond Junior](https://open.spotify.com/track/3QSLPOHU1HivuqFIdgMrCT) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [Theme New Bond Junior](https://open.spotify.com/album/2umO2RvsX15NOzjeBluuEx) | 3:16 | 2023-01-18 | 2023-02-10 |
 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/2mLtSf43onReDRzOPM0yKd) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/0aHgUd54LqdSOfXuGG7y3Q) | 3:21 | 2024-03-15 | 2024-06-01 |
 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/6iyiGeP7bvSgh5igMviO0M) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/5nCmN8BOElYhnxQomcnqVY) | 3:21 | 2023-06-20 | 2023-09-22 |
@@ -598,6 +598,7 @@
 | [Up and Comer](https://open.spotify.com/track/2yiJ9gzRISi4P04GRBDtos) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 3:46 | 2023-11-13 | 2024-01-09 |
 | [Up and Comer](https://open.spotify.com/track/469d5BNae99knRggeaqA0n) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:46 | 2023-11-13 | 2024-04-19 |
 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 | 2023-09-22 | 2024-06-01 |
+| [Volvo \(On The Road\)](https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:25 | 2026-03-10 |  |
 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 | 2024-06-27 | 2026-02-10 |
 | [Wake Me Up \(When This Nightmare’s Over\)](https://open.spotify.com/track/74WMwDiFR0lcwwrgaadL2C) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:36 | 2022-12-02 | 2023-11-18 |
 | [Walk Alone](https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp), [Matty Mullins](https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot) | [Walk Alone](https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg) | 3:15 | 2024-06-27 | 2024-11-08 |

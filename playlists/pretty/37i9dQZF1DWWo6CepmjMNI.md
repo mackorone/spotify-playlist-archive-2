@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: Cheyada
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: YODSARUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,771 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,773 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY) | 3:38 |
-| 2 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
-| 3 | [ห้วงภวังค์](https://open.spotify.com/track/6ei80TQCW8G1WzzyRgtEnr) | [Cheyada](https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G) | [ห้วงภวังค์](https://open.spotify.com/album/2gP5WAWP1LhcfTmhDbM9Uj) | 3:13 |
-| 4 | [Room 4 2](https://open.spotify.com/track/54rcc6zAgoOKqcyNSMV48l) | [Jurassic.Pew](https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q) | [Room 4 2](https://open.spotify.com/album/5QNw2uWZxBzXvLlxtTTecY) | 4:14 |
-| 5 | [เมื่อต้องรอ \(waiting eyes\)](https://open.spotify.com/track/4PZy9QErKbZ4AIa69A0vEJ) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [เมื่อต้องรอ \(waiting eyes\)](https://open.spotify.com/album/5ijHu5exfMHpotzb7jYiYc) | 5:29 |
-| 6 | [ฉันไปก่อนนะ](https://open.spotify.com/track/58JgBWjZ7LWInfdMyLXBFt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [ฉันไปก่อนนะ](https://open.spotify.com/album/2L8KYM4xhSaty6c0Vdzumk) | 3:57 |
-| 7 | [Luckyman](https://open.spotify.com/track/06gScNq7M3mjk0Le6kaBJ8) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [Luckyman](https://open.spotify.com/album/6oqDwqdxR1t2Z7t3dCeFmD) | 4:01 |
-| 8 | [หน้าต่าง \(Drops\)](https://open.spotify.com/track/5vselVLB2BT7UJsk43fmy0) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [หน้าต่าง \(Drops\)](https://open.spotify.com/album/5agwHF2dLrBDW5XvPWnhqM) | 3:52 |
-| 9 | [ฉันคงเกลียดดาวที่เอาเธอไป](https://open.spotify.com/track/1VFEytfGYF19H6On6WIPew) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ฉันคงเกลียดดาวที่เอาเธอไป](https://open.spotify.com/album/3zoG07vJeEHMowMwUiK6eZ) | 4:45 |
-| 10 | [ต่างยอมรับ \(Silent Pact\)](https://open.spotify.com/track/7G3SOkMDRIYn1hXi1qqm1d) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [ต่างยอมรับ \(Silent Pact\)](https://open.spotify.com/album/6m0uEmAH9DJf0EBnAdAX66) | 6:36 |
-| 11 | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/track/2UV6ljthOVt0vwTUO6HiwG) | [on/no](https://open.spotify.com/artist/76w5A8cWkupod7k32aUSEa) | [อยากบอกครั้งสุดท้าย \(One Last Goodbye\)](https://open.spotify.com/album/1QyUtGkK9u8GClUFv54mXG) | 3:16 |
-| 12 | [Greed](https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Greed](https://open.spotify.com/album/5XIuWSPPwwTs33MAAEqIUc) | 4:42 |
-| 13 | [URGIRL](https://open.spotify.com/track/2MnWbwCesAl8FQibKPl4gA) | [Daisy](https://open.spotify.com/artist/0EubXtpso45245tzrMHtKZ) | [URGIRL](https://open.spotify.com/album/0yhQPMLDP1pvmBizqN3vSO) | 3:57 |
-| 14 | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/track/1iZ6ojuQxgHgFX3KCKXV58) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [พูดเลยว่ารัก \(YOUR FUTURE IS CALLING\)](https://open.spotify.com/album/3qOGG6ysERzEpXFtMAkE4s) | 3:59 |
-| 15 | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/track/1xGURnhUkIJHaY4G2CScwG) | [underclover](https://open.spotify.com/artist/3Dfp9lzmRW72AZYzj5TNWi) | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/album/0Ngt6F1MfLL2KPO0DcZIiS) | 3:48 |
-| 16 | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0) | [SWANOVFIELD](https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc) | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb) | 3:56 |
-| 17 | [ก่อนไป \( goodbye \)](https://open.spotify.com/track/1fMawjrHKGZlBthb5xXsic) | [WINTER BEANS](https://open.spotify.com/artist/65qif8jW8ekky9vdKb3fh3) | [ก่อนไป \( goodbye \)](https://open.spotify.com/album/2KHZmIcp4p8NIilewDhLpj) | 6:45 |
-| 18 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
-| 19 | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/track/18GaK3YkcibAY6cHPJQNKF) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/album/62a3Nlpi50Ri3ZqN3nOiOt) | 3:55 |
-| 20 | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/track/4mc4kWVaNuvTKhlfddw8vg) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R), [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/album/68KPLlgh8Pj0MGrIVkG5O5) | 4:02 |
-| 21 | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 |
+| 1 | [Luckyman](https://open.spotify.com/track/06gScNq7M3mjk0Le6kaBJ8) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [Luckyman](https://open.spotify.com/album/6oqDwqdxR1t2Z7t3dCeFmD) | 4:01 |
+| 2 | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0) | [SWANOVFIELD](https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc) | [จากกันไม่เสียใจ \(Anhedonia\)](https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb) | 3:56 |
+| 3 | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/track/2iSIPjNJqQHbPBqVU9seP9) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [คนเห็นแก่ตัว \(DOPE\)](https://open.spotify.com/album/01Cg3LZd30LVxmkxGZWPLw) | 3:39 |
+| 4 | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [จะไม่คิดถึงเธอใช่ไหม \(Childish\)](https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY) | 3:38 |
+| 5 | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/track/1WX6tFWTzaiZFeh4E59FRJ) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ต้องจากกันแล้วใช่ไหม](https://open.spotify.com/album/1yqjeOdBa2GoZL5qyBLLET) | 4:07 |
+| 6 | [She's \(เธอคือ\)](https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy) | [Wednesday Calling](https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy) | [She's \(เธอคือ\)](https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI) | 4:29 |
+| 7 | [โดพามีน \(Dopamine\)](https://open.spotify.com/track/0jfldE751eWtWo2K1VXjHT) | [ANYSIDE](https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0) | [โดพามีน \(Dopamine\)](https://open.spotify.com/album/0rDyYO85nyHQ9k3lUzofeR) | 4:15 |
+| 8 | [เมื่อต้องรอ \(waiting eyes\)](https://open.spotify.com/track/4PZy9QErKbZ4AIa69A0vEJ) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [เมื่อต้องรอ \(waiting eyes\)](https://open.spotify.com/album/5ijHu5exfMHpotzb7jYiYc) | 5:29 |
+| 9 | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe) | 3:48 |
+| 10 | [Greed](https://open.spotify.com/track/5kD32fiZ5b6HiQOQDkM9wf) | [Flowers Pillar](https://open.spotify.com/artist/6wlHidGxh3Dx0lRtu7vHtM) | [Greed](https://open.spotify.com/album/5XIuWSPPwwTs33MAAEqIUc) | 4:42 |
+| 11 | [คงไว้ \(with u\)](https://open.spotify.com/track/1XtuUyDmBFUnaaYewT9UFH) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [คงไว้ \(with u\)](https://open.spotify.com/album/5EwgUiIFNZPKXciJ3o6eZW) | 4:37 |
+| 12 | [Room 4 2](https://open.spotify.com/track/54rcc6zAgoOKqcyNSMV48l) | [Jurassic.Pew](https://open.spotify.com/artist/0CXegTSxxcMLVXHjtnxC1Q) | [Room 4 2](https://open.spotify.com/album/5QNw2uWZxBzXvLlxtTTecY) | 4:14 |
+| 13 | [ถ้าท้องฟ้าไม่มีดาว](https://open.spotify.com/track/0gDXBawEqSb54wVmXXdV2S) | [Ball Pharanwat](https://open.spotify.com/artist/4Yx9Q2qWC6p3ULryGrKN5p) | [ถ้าท้องฟ้าไม่มีดาว](https://open.spotify.com/album/0XUg9FMNvWdhSx3hErxwQQ) | 2:39 |
+| 14 | [ฉันไปก่อนนะ](https://open.spotify.com/track/58JgBWjZ7LWInfdMyLXBFt) | [YEP MAY YEP](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [ฉันไปก่อนนะ](https://open.spotify.com/album/2L8KYM4xhSaty6c0Vdzumk) | 3:57 |
+| 15 | [กลับมาหา](https://open.spotify.com/track/4xKCJX8eyf4JkA2iZPQxrK) | [Techin](https://open.spotify.com/artist/5LYbiQQoxNyhxHh2RdHOKU) | [กลับมาหา](https://open.spotify.com/album/66WMUpuVrulqFihO7Cxpy2) | 4:03 |
+| 16 | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/track/18GaK3YkcibAY6cHPJQNKF) | [whimp](https://open.spotify.com/artist/6dt1IwUXvGH1NvA7C1K8cG) | [เพียงอีกวัน \(Breath\)](https://open.spotify.com/album/62a3Nlpi50Ri3ZqN3nOiOt) | 3:55 |
+| 17 | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/track/3MDBApR4v7NT9EbbY7UY7R) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [แพ้เสียงในหัว \(Hello There\)](https://open.spotify.com/album/2DaeSbOfpJzSQseoQnDTjt) | 3:30 |
+| 18 | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/track/4mc4kWVaNuvTKhlfddw8vg) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R), [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [ผ่านไปอีกปี \(Countdown\)](https://open.spotify.com/album/68KPLlgh8Pj0MGrIVkG5O5) | 4:02 |
+| 19 | [ต่างยอมรับ \(Silent Pact\)](https://open.spotify.com/track/7G3SOkMDRIYn1hXi1qqm1d) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ) | [ต่างยอมรับ \(Silent Pact\)](https://open.spotify.com/album/6m0uEmAH9DJf0EBnAdAX66) | 6:36 |
+| 20 | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/track/1xGURnhUkIJHaY4G2CScwG) | [underclover](https://open.spotify.com/artist/3Dfp9lzmRW72AZYzj5TNWi) | [สุดท้ายคนที่เสียใจจะกลายเป็น...](https://open.spotify.com/album/0Ngt6F1MfLL2KPO0DcZIiS) | 3:48 |
+| 21 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 | 22 | [ภาพยนตร์ของฉัน 1 \(onyoureyes\)](https://open.spotify.com/track/6szc9pWGzfI6kZMFn2dYmc) | [Bellythebear](https://open.spotify.com/artist/2B3Hs8KIU4FqMYrHOWL7wh) | [ภาพยนตร์ของฉัน 1 \(onyoureyes\)](https://open.spotify.com/album/5R9cL3XjwYoac6BWlq7Oew) | 4:52 |
 | 23 | [กลิ่นของดอกไม้](https://open.spotify.com/track/5cjpq08etyoQqnuYpv6U20) | [Chili sauce with mackerel](https://open.spotify.com/artist/4HYi53mjmSBq5dUk3hdFCh) | [กลิ่นของดอกไม้](https://open.spotify.com/album/65H7YVJiXtvSIAu6mhEZGs) | 3:55 |
 | 24 | [boohoo \(จำไว้เลย\)](https://open.spotify.com/track/2iVVlPFUbce9jO8vk2E9m0) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [boohoo \(จำไว้เลย\)](https://open.spotify.com/album/18jiO1Q8waxP9sSoDqSGAB) | 4:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/track/1LJiWvhU9PikSG5vUo5Vow) | [WWJ](https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H) | [ที่แล้วมาไม่เป็นไร](https://open.spotify.com/album/3yBXxrmy6lqK9IuBpIYoGg) | 4:14 |
 | 50 | [เพียงรู้สึก](https://open.spotify.com/track/4Je6mCTC25kHFAGDRIasSX) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [เพียงรู้สึก](https://open.spotify.com/album/1UTNXUb4lh0piWGAwp19ok) | 4:01 |
 
-Snapshot ID: `AAAAAM97CtITA0KFOo8cCVmTaEPfWFFO`
+Snapshot ID: `AAAAAND8r2IjtoptfhyWyBgTbDQgg/+n`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,873 songs - 10 day 22 hr 38 min
+4,875 songs - 10 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1268,6 +1268,7 @@
 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 | 2023-01-17 | 2023-01-19 |
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-02-25 | 2025-03-19 |
 | [En To Lao](https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [En To Lao](https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl) | 3:15 | 2023-07-04 | 2023-07-06 |
+| [Enchanted](https://open.spotify.com/track/4wvEacvHvKyEuqNUfPnJrj) | [Joseph William Morgan](https://open.spotify.com/artist/3iZ86mYR1dGoTWIHFMoT03) | [Enchanted](https://open.spotify.com/album/4tN7he6zP5ft8yv57lKptc) | 3:55 | 2026-03-09 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2022-10-12 | 2026-02-06 |
 | [End of Beginning](https://open.spotify.com/track/6ZWIIawlXC4O3z9yEuJvDo) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 2:39 | 2022-10-11 | 2022-10-13 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-08-12 | 2025-08-16 |
@@ -1279,7 +1280,8 @@
 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-30 | 2022-10-14 |
 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 | 2024-04-02 | 2024-04-06 |
 | [Ensalada \(feat\. Anderson .Paak\)](https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:46 | 2025-08-12 | 2025-08-22 |
-| [Entre tú y yo](https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/2W5yGu6abXNhtny9ersYok) | 3:29 | 2026-02-05 |  |
+| [Entre tú y yo](https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/2W5yGu6abXNhtny9ersYok) | 3:29 | 2026-02-05 | 2026-03-10 |
+| [Entre tú y yo](https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A) | [Tu Corrido Mx](https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv) | [Entre tú y yo](https://open.spotify.com/album/0PLwDyWkRzkL00AGBkVjXc) | 3:29 | 2026-03-09 |  |
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-04-14 | 2022-04-20 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-03-20 | 2022-04-15 |
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-21 | 2026-02-23 |
@@ -1952,7 +1954,7 @@
 | [I Hope You're Happy](https://open.spotify.com/track/0R8clsMFyCYRN7iYRKTiuE) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/0GrNWYEjMvterOotBAbkNa) | 2:59 | 2022-01-26 | 2022-02-23 |
 | [I Hope You're Happy](https://open.spotify.com/track/3hVsjwJWXLZDVi3SaOD7rU) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [I Hope You're Happy](https://open.spotify.com/album/3l2IrLIJKskE3AHZL1mMCU) | 2:59 | 2022-01-22 | 2022-01-27 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-27 | 2026-02-12 |
-| [I Just Might](https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:32 | 2026-03-02 |  |
+| [I Just Might](https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:32 | 2026-03-02 | 2026-03-10 |
 | [I Just Need \(with Lyrah\)](https://open.spotify.com/track/3cXX26hB3R4lHbZC2LFBao) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Duality](https://open.spotify.com/album/4qQVdqYI0FMB8A9UoXSorx) | 2:26 | 2024-02-22 | 2024-03-04 |
 | [I Just Wasn't Made For These Times](https://open.spotify.com/track/7Jljbi0t6TIusvUm3HnCAb) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 3:21 | 2025-06-16 | 2025-06-20 |
 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 | 2023-04-04 | 2023-04-26 |

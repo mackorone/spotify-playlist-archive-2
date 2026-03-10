@@ -4,7 +4,7 @@
 
 > PH vibin' cover: Waiian, Bad Indie Eye
 
-475 songs - 1 day 1 hr 56 min
+477 songs - 1 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Binibini](https://open.spotify.com/track/0xUHaDYsQZIViFAftCcqZP) | [Ryu.](https://open.spotify.com/artist/1K7VBEW8M30kPkUhBTl2Du) | [Binibini](https://open.spotify.com/album/1TTyWGUTIvx6HuvWIJ579O) | 3:22 | 2026-02-16 |  |
 | [Bitter](https://open.spotify.com/track/0ZzK5ezcQCY5QYCa7zC7sR) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj) | [Bitter](https://open.spotify.com/album/2TmYMVMKx4Ddkeqa7SahW8) | 2:26 | 2024-06-03 | 2024-08-17 |
 | [Bittersweet](https://open.spotify.com/track/50ExJUNgfTOmpgl1PwSm0N) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Bittersweet](https://open.spotify.com/album/6AUSTrQAtjAsI0zGqBEzGd) | 2:54 | 2025-08-08 | 2025-12-04 |
+| [Blackout](https://open.spotify.com/track/670D5GXUpwrTugYxiBpomp) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH) | [Mixed Signals](https://open.spotify.com/album/1Tnc1piIaq0raoIc613uyW) | 2:12 | 2026-03-09 |  |
 | [Bodies](https://open.spotify.com/track/0sqBr3CLU0kcWiWbOHN6RB) | [Jetter](https://open.spotify.com/artist/3kOqsP3hDCWTCqhRw5MI0M) | [Bodies](https://open.spotify.com/album/0XssBa1R2KbGPfddGC5jpt) | 3:17 | 2023-08-16 | 2024-01-16 |
 | [Bounce that](https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O) | [Billy Crawford](https://open.spotify.com/artist/43CiK1548VVp2DT95joswS) | [Bounce that](https://open.spotify.com/album/7flE1Q207y0if6jMh1foXX) | 2:50 | 2026-02-02 |  |
 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 | 2024-08-07 |  |
@@ -463,6 +464,7 @@
 | [Wala Ng Dahilan](https://open.spotify.com/track/77yAlOniNHAitiEsmfiFrF) | [Saintvvi](https://open.spotify.com/artist/0apBeGgTlunmoj2y846P22), [Cozyivy](https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS) | [Wala Ng Dahilan](https://open.spotify.com/album/4HgpvBok0OHcqtT4pGX1Wx) | 2:58 | 2025-10-24 | 2025-12-04 |
 | [WALANG HIYA](https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [MADUMING TIMOG](https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj) | 3:24 | 2026-02-13 |  |
 | [Walang Iba](https://open.spotify.com/track/5h3vsRx6ipMLg7ijWECx06) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Walang Iba](https://open.spotify.com/album/5d1NY84EQaXOnrUEnz4z7V) | 3:20 | 2025-10-13 | 2025-12-04 |
+| [Walang Sala](https://open.spotify.com/track/12dVvamWnsPN50ZSaIqBZB) | [K.O.N](https://open.spotify.com/artist/3GetIhCdRbofYJT7EFoEv9) | [Walang Sala](https://open.spotify.com/album/3JJ5hUOZsHOsclCNAGASis) | 2:51 | 2026-03-09 |  |
 | [Walkie Talkie](https://open.spotify.com/track/5NLNNJ8aAT4mCRUg2uZuOU) | [Ziv](https://open.spotify.com/artist/4Wz4nR941NXG2gzv06H62t), [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Walkie Talkie](https://open.spotify.com/album/1on3i1luNH3Eq7wOOXtYVZ) | 2:59 | 2025-06-06 | 2025-12-04 |
 | [Wants](https://open.spotify.com/track/1me0Y1D0PJEJbyYMMI1Sbv) | [Psvlm](https://open.spotify.com/artist/5hAPoOZdijqwQwd8BD6OYn) | [Wants](https://open.spotify.com/album/4r6YgoipYcMSayKHP7DcsA) | 2:58 | 2022-10-12 | 2023-07-29 |
 | [WASTE MY TIME](https://open.spotify.com/track/2JPP3bJ6ERn0VIEqvIuOdY) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [WASTE MY TIME](https://open.spotify.com/album/4cQINuLI5XfdLn1IyiiEw8) | 3:08 | 2025-09-12 | 2025-12-04 |

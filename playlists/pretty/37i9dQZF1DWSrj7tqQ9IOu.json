@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois dernier s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402576,
+  "num_followers": 402556,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : F\u00e9vrier 2026",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-03-01 23:00:03",
+      "album": {
         "name": "THEY LOVE ME",
         "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 183692,
       "name": "hopeless romantic",
       "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
-    },
-    {
-      "added_at": "2026-03-01 23:00:03",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-03-01 23:00:03",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
+    },
+    {
+      "added_at": "2026-03-01 23:00:03",
+      "album": {
         "name": "Illegal + Four Tet",
         "url": "https://open.spotify.com/album/3MZZ31nzSpnUqFXffSI8mS"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 336000,
       "name": "Illegal + Four Tet",
       "url": "https://open.spotify.com/track/0hx680ZzQUWHqIbbj21XQj"
-    },
-    {
-      "added_at": "2026-03-01 23:00:03",
-      "album": {
-        "name": "I Did You Wrong",
-        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "I Did You Wrong",
-      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
     },
     {
       "added_at": "2026-03-01 23:00:03",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
-        "name": "Ongles cass\u00e9s",
-        "url": "https://open.spotify.com/album/1tSyawRXmLPVwx0XvA3tT3"
-      },
-      "artists": [
-        {
-          "name": "Cielbleu",
-          "url": "https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc"
-        }
-      ],
-      "duration_ms": 209002,
-      "name": "Ongles cass\u00e9s",
-      "url": "https://open.spotify.com/track/4FLNvVjwgpNiuiHOaKaPE3"
-    },
-    {
-      "added_at": "2026-03-01 23:00:03",
-      "album": {
         "name": "ECLESIA",
         "url": "https://open.spotify.com/album/48HmiG504mBM1GbpMx2fMU"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 204226,
       "name": "SOLEIL",
       "url": "https://open.spotify.com/track/3CxvntrbbfuP7ni9xfVpJL"
+    },
+    {
+      "added_at": "2026-03-01 23:00:03",
+      "album": {
+        "name": "Ongles cass\u00e9s",
+        "url": "https://open.spotify.com/album/1tSyawRXmLPVwx0XvA3tT3"
+      },
+      "artists": [
+        {
+          "name": "Cielbleu",
+          "url": "https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc"
+        }
+      ],
+      "duration_ms": 209002,
+      "name": "Ongles cass\u00e9s",
+      "url": "https://open.spotify.com/track/4FLNvVjwgpNiuiHOaKaPE3"
     },
     {
       "added_at": "2026-03-01 23:00:03",

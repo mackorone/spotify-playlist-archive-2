@@ -54667,6 +54667,24 @@
     },
     {
       "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Sometimes I believe in God (Sometimes I believe in Me)",
+      "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
+    },
+    {
+      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -67912,6 +67930,28 @@
       "duration_ms": 174357,
       "name": "YEAH RIGHT",
       "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
+    },
+    {
+      "album": {
+        "name": "Year of the Dragon",
+        "url": "https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        },
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Year of the Dragon",
+      "url": "https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N"
     },
     {
       "album": {

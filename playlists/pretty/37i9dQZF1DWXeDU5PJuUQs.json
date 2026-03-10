@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 259503,
+  "num_followers": 259586,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 71981,
+      "name": "Persiana Americana - En Vivo",
+      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
         "name": "Esto Es Roze! - Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7COPLNQOq9WfJwD7866tg4"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 102417,
       "name": "Turreo Sessions #22 (En Vivo)",
       "url": "https://open.spotify.com/track/5Sn6SEfGDWIcGbwHPock2D"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "En Teatro del Huerto",
-        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 260755,
-      "name": "Entre el Cielo Vos y Yo - En Vivo",
-      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
         "name": "En Vivo 2019",
         "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 147113,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "En Teatro del Huerto",
+        "url": "https://open.spotify.com/album/6lbMkAdjDpQL7Sx5oRAyrL"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 260755,
+      "name": "Entre el Cielo Vos y Yo - En Vivo",
+      "url": "https://open.spotify.com/track/5yruvWJs3mL00w4slpCVzN"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "En Vivo en Metropolis",
-        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
-      },
-      "artists": [
-        {
-          "name": "Siete Lunas",
-          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
-        }
-      ],
-      "duration_ms": 239307,
-      "name": "Mujer C\u00f3smica - En Vivo",
-      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 64017,
       "name": "Jurabas Tu - En Vivo",
       "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "En Vivo en Metropolis",
+        "url": "https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO"
+      },
+      "artists": [
+        {
+          "name": "Siete Lunas",
+          "url": "https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ"
+        }
+      ],
+      "duration_ms": 239307,
+      "name": "Mujer C\u00f3smica - En Vivo",
+      "url": "https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
-      },
-      "artists": [
-        {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
-        }
-      ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
         "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 79516,
       "name": "Sobreviviendo (En Vivo)[Remasterizado 2021]",
       "url": "https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
-      },
-      "artists": [
-        {
-          "name": "Carlos Montalvo",
-          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Sin ti no se vivir",
-      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
         "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
-        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
       },
       "artists": [
         {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
         }
       ],
-      "duration_ms": 210744,
-      "name": "Mi Gran Maestro - Montevideo Music Sessions",
-      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
+      "duration_ms": 148906,
+      "name": "Sin ti no se vivir",
+      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -999,6 +983,22 @@
       "duration_ms": 177739,
       "name": "No Llores - En Vivo",
       "url": "https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Mi Gran Maestro (Montevideo Music Sessions)",
+        "url": "https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 210744,
+      "name": "Mi Gran Maestro - Montevideo Music Sessions",
+      "url": "https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Nunca M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 184618,
-      "name": "Nunca M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
         "name": "Un Millon de Rosas / Me Enamore de una Bandida / El Camison (En Vivo)",
         "url": "https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 429920,
       "name": "Un Millon de Rosas / Me Enamore / El Camison (En Vivo)",
       "url": "https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
+        "name": "Nunca M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 184618,
+      "name": "Nunca M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
+        "name": "Flor del Ba\u00f1ado (En Vivo)",
+        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 221376,
+      "name": "Flor del Ba\u00f1ado (En Vivo)",
+      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
+    },
+    {
+      "added_at": "2026-02-06 03:00:02",
+      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2026-02-06 03:00:02",
       "album": {
-        "name": "Flor del Ba\u00f1ado (En Vivo)",
-        "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
+        "name": "\u00c9xitos, 30 a\u00f1os (En Vivo Movistar Arena, Sesi\u00f3n 9)",
+        "url": "https://open.spotify.com/album/1UabnzyGKPDi3mgyiYIvH2"
       },
       "artists": [
         {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 221376,
-      "name": "Flor del Ba\u00f1ado (En Vivo)",
-      "url": "https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K"
+      "duration_ms": 409151,
+      "name": "\u00c9xitos, 30 a\u00f1os - En Vivo Movistar Arena, Sesi\u00f3n 9",
+      "url": "https://open.spotify.com/track/6t6sItvYfL3eeRsRveCefc"
     },
     {
       "added_at": "2026-02-06 03:00:02",
@@ -1287,22 +1303,6 @@
       "duration_ms": 208613,
       "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
       "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
-    },
-    {
-      "added_at": "2026-02-06 03:00:02",
-      "album": {
-        "name": "\u00c9xitos, 30 a\u00f1os (En Vivo Movistar Arena, Sesi\u00f3n 9)",
-        "url": "https://open.spotify.com/album/1UabnzyGKPDi3mgyiYIvH2"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 409151,
-      "name": "\u00c9xitos, 30 a\u00f1os - En Vivo Movistar Arena, Sesi\u00f3n 9",
-      "url": "https://open.spotify.com/track/6t6sItvYfL3eeRsRveCefc"
     },
     {
       "added_at": "2026-02-06 03:00:02",

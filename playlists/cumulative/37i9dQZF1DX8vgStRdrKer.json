@@ -8351,6 +8351,24 @@
     },
     {
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248054,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
+    },
+    {
+      "album": {
         "name": "M'manja Mwanu",
         "url": "https://open.spotify.com/album/2djFFunGWCcsrMthfOOUP9"
       },
@@ -14514,7 +14532,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 405070,
       "name": "Worship Medley 16",
       "url": "https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr"

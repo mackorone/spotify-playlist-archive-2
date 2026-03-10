@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 85 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
 | 86 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcLnIgAAAACnBTA53wcUtPxErZygQWfg`
+Snapshot ID: `AcLswgAAAADwWgLycixdsF8KgOmysfWn`

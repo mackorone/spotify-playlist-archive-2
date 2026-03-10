@@ -1,6 +1,6 @@
 {
   "description": "Listen the 00's best collection of K-Pop dance. (Cover: 2NE1) (2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \ucf00\uc774\ud31d \ub304\uc2a4\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 343837,
+  "num_followers": 343899,
   "original_name": "Millennium K-Pop",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 236817,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "\uaf43\ubcf4\ub2e4 \ub0a8\uc790 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 263040,
       "name": "\ub0b4 \uba38\ub9ac\uac00 \ub098\ube60\uc11c",
       "url": "https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 236817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Genie - The Second Mini Album",
-        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Genie",
-      "url": "https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "The 3rd Album Part.1",
         "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 212976,
       "name": "Please don\u2019t\u2026",
       "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Genie - The Second Mini Album",
+        "url": "https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 230546,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Hoot - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Hoot",
-      "url": "https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Pink Tape - The 2nd Album",
         "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 197672,
       "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
       "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Hoot - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Hoot",
+      "url": "https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl"
-      },
-      "artists": [
-        {
-          "name": "Trouble Maker",
-          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
-        }
-      ],
-      "duration_ms": 218697,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/6S5QQ4byCmcm7OcgG3vsyZ"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "Hot Summer - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "\uae30\ub300",
-        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6pS98dlal9tYQYw5udDskl"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "Trouble Maker",
+          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
         }
       ],
-      "duration_ms": 196826,
-      "name": "\uae30\ub300\ud574",
-      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+      "duration_ms": 218697,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/6S5QQ4byCmcm7OcgG3vsyZ"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "\uae30\ub300",
+        "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "\uae30\ub300\ud574",
+      "url": "https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "Bubble Pop!",
         "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 212244,
       "name": "Bubble Pop!",
       "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "INSANE LOVE",
-        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
       },
       "artists": [
         {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 221371,
-      "name": "I Like That",
-      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -931,6 +915,22 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
+        "name": "INSANE LOVE",
+        "url": "https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 221371,
+      "name": "I Like That",
+      "url": "https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
         "name": "Fiction And Fact",
         "url": "https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Mr.",
-      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "NU'EST The First Album \"Re:BIRTH\"",
         "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 220134,
       "name": "FACE",
       "url": "https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 193613,
+      "name": "Mr.",
+      "url": "https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Shock Of The New Era",
-        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 225594,
-      "name": "Shock",
-      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
+      "duration_ms": 218566,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1123,8 +1123,8 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu"
+        "name": "Shock Of The New Era",
+        "url": "https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC"
         }
       ],
-      "duration_ms": 218566,
-      "name": "Beautiful Night",
-      "url": "https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG"
+      "duration_ms": 225594,
+      "name": "Shock",
+      "url": "https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY"
     },
     {
       "added_at": "2024-03-27 14:24:46",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-03-27 14:24:46",
       "album": {
-        "name": "No.1",
-        "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
-      },
-      "artists": [
-        {
-          "name": "TEEN TOP",
-          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
-        }
-      ],
-      "duration_ms": 197825,
-      "name": "Miss Right",
-      "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
-    },
-    {
-      "added_at": "2024-03-27 14:24:46",
-      "album": {
         "name": "\uae30\ub300",
         "url": "https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 186493,
       "name": "\ubc18\uc9dd\ubc18\uc9dd",
       "url": "https://open.spotify.com/track/3GYjMYmmvBIk0xwbQhAnQ8"
+    },
+    {
+      "added_at": "2024-03-27 14:24:46",
+      "album": {
+        "name": "No.1",
+        "url": "https://open.spotify.com/album/7ocKLfx1QN0EBj93uzLzOb"
+      },
+      "artists": [
+        {
+          "name": "TEEN TOP",
+          "url": "https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc"
+        }
+      ],
+      "duration_ms": 197825,
+      "name": "Miss Right",
+      "url": "https://open.spotify.com/track/5hwwVIhxzHvEdQOIvmrmau"
     },
     {
       "added_at": "2024-03-27 14:24:46",

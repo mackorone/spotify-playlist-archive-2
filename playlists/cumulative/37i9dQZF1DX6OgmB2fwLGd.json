@@ -6080,7 +6080,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 121357,
       "name": "Double Whammy (ss3bby yaridubz)",
       "url": "https://open.spotify.com/track/6EKOiA6sd9pmRdSmVhijwJ"
@@ -8618,7 +8618,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 143376,
       "name": "Give It Up (feat. OsamaSon)",
       "url": "https://open.spotify.com/track/2cBVS8uAoFOysL46QRaYZw"
@@ -20007,6 +20007,24 @@
     },
     {
       "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Sometimes I believe in God (Sometimes I believe in Me)",
+      "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
+    },
+    {
+      "album": {
         "name": "song for when the bar closes",
         "url": "https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ"
       },
@@ -24106,6 +24124,28 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"
+    },
+    {
+      "album": {
+        "name": "Year of the Dragon",
+        "url": "https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        },
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Year of the Dragon",
+      "url": "https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N"
     },
     {
       "album": {

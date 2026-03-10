@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 226888,
+  "num_followers": 226957,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Luna",
-          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
-        }
-      ],
-      "duration_ms": 214838,
-      "name": "Dembow - Acoustic Version",
-      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Covers, Vol. 2",
         "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 149292,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Luna",
+          "url": "https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi"
+        }
+      ],
+      "duration_ms": 214838,
+      "name": "Dembow - Acoustic Version",
+      "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Un a\u00f1o",
-        "url": "https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 149958,
-      "name": "Un a\u00f1o",
-      "url": "https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "A Dios Le Pido",
         "url": "https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
+        "name": "Un a\u00f1o",
+        "url": "https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe"
       },
       "artists": [
         {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
+      "duration_ms": 149958,
+      "name": "Un a\u00f1o",
+      "url": "https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 187655,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
+      },
+      "artists": [
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "A Donde Vamos A Parar",
+        "url": "https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "A Donde Vamos A Parar",
+      "url": "https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Otro trago",
         "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 167710,
       "name": "Otro trago",
       "url": "https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "A Donde Vamos A Parar",
-        "url": "https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL"
-      },
-      "artists": [
-        {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
-        }
-      ],
-      "duration_ms": 263750,
-      "name": "A Donde Vamos A Parar",
-      "url": "https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0"
     },
     {
       "added_at": "2022-02-18 06:00:00",

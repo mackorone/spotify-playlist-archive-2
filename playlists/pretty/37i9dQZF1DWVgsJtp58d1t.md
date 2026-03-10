@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:4Gso3d4CscCijv0lmajZWs">Don Toliver</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,185 likes - 116 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,214 likes - 116 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

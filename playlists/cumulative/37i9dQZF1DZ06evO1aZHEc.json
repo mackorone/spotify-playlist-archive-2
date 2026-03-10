@@ -339,6 +339,32 @@
     },
     {
       "album": {
+        "name": "a crying poem",
+        "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "Bloodz Boi",
+          "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142262,
+      "name": "Frozen Torches",
+      "url": "https://open.spotify.com/track/3tKJHTmNOupeV9bLy7Rngj"
+    },
+    {
+      "album": {
         "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
         "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
       },
@@ -526,7 +552,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 56000,
       "name": "i",
       "url": "https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1"
@@ -584,6 +610,24 @@
       "duration_ms": 54000,
       "name": "iv",
       "url": "https://open.spotify.com/track/6QPvrBOSfoKtPV9q2tNsbu"
+    },
+    {
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "ix",
+      "url": "https://open.spotify.com/track/0YBPjEDmouQZsaYeVsborr"
     },
     {
       "album": {

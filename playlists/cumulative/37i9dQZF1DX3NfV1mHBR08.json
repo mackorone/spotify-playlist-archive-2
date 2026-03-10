@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 179000,
       "name": "MAZE",
       "url": "https://open.spotify.com/track/63Ql1n8s6z9lVrYoNpqua3"
@@ -2086,10 +2086,28 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 220506,
       "name": "Rest",
       "url": "https://open.spotify.com/track/5dJ4XoRa9FzSHWUzCpnk2W"
+    },
+    {
+      "album": {
+        "name": "Right Answer",
+        "url": "https://open.spotify.com/album/0BKmsTdWJKEZvHUJz9wThh"
+      },
+      "artists": [
+        {
+          "name": "1%",
+          "url": "https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212792,
+      "name": "Right Answer",
+      "url": "https://open.spotify.com/track/3xo5dvPkQLbofa59woCQMH"
     },
     {
       "album": {
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 249013,
       "name": "The season of our beginning",
       "url": "https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF"
@@ -2877,6 +2895,24 @@
     },
     {
       "album": {
+        "name": "CONNECTION",
+        "url": "https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU"
+    },
+    {
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax"
       },
@@ -2968,6 +3004,24 @@
       "duration_ms": 174506,
       "name": "You Wanna Cry",
       "url": "https://open.spotify.com/track/4RcSeV4CLmk6j0kMR0QuL4"
+    },
+    {
+      "album": {
+        "name": "First Step",
+        "url": "https://open.spotify.com/album/5ND74f5VAbmxPycC1xqgvu"
+      },
+      "artists": [
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181744,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/42h4baafOeqm4YDla5o1aB"
     },
     {
       "album": {

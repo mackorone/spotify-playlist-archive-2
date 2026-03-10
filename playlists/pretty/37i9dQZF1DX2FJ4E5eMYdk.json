@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 193809,
+  "num_followers": 193835,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Private Tales",
-        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Sun",
-          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Seaquest",
-      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 229840,
       "name": "Baby Bluebird",
       "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Private Tales",
+        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sun",
+          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Seaquest",
+      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -767,6 +767,38 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/4JgEQ2lgKAZievIQsRh7lI"
+      },
+      "artists": [
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/5HiIz6ICFx1VgoxjxX4ywc"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Brain Cycles",
+        "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
+      },
+      "artists": [
+        {
+          "name": "Radio Moscow",
+          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "250 Miles",
+      "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Phase Zero",
         "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
       },
@@ -815,22 +847,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/4JgEQ2lgKAZievIQsRh7lI"
-      },
-      "artists": [
-        {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/5HiIz6ICFx1VgoxjxX4ywc"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "The Atlantic Ocean",
         "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 245880,
       "name": "Glass Jar",
       "url": "https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
-      },
-      "artists": [
-        {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "It Came to Me",
-        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 261986,
-      "name": "It Came to Me",
-      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Rock Bottom",
         "url": "https://open.spotify.com/album/5TheealFtp3ScdyJws3wvD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/4Y0OMpK5cINmtwNm5TRhRx"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "It Came to Me",
+        "url": "https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 261986,
+      "name": "It Came to Me",
+      "url": "https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m"
     },
     {
       "added_at": "2024-07-05 19:49:15",

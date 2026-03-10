@@ -4,7 +4,7 @@
 
 > 
 
-751 songs - 1 day 23 hr 7 min
+755 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2023-11-12 | 2025-05-20 |
 | [I Started Something I Couldn't Finish \- 2011 Remaster](https://open.spotify.com/track/3PVVqlxFpXmU46iqAVG4Jg) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 3:47 | 2025-12-15 |  |
 | [I Still Remember](https://open.spotify.com/track/4pN5iBtBAjDzxtXum40oNj) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:21 | 2025-02-17 |  |
+| [I Wanna Go Home](https://open.spotify.com/track/432pxOWhtTH7cifGokcHyq) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:29 | 2026-03-09 |  |
 | [I Want the One I Can't Have \- 2011 Remaster](https://open.spotify.com/track/4Bs7pbzxezGyNQO6DjqmC8) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Meat Is Murder](https://open.spotify.com/album/5DM1qCdgGt2zbknnsVn1Ca) | 3:13 | 2024-04-09 |  |
 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 | 2023-11-12 | 2026-01-21 |
 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 | 2024-04-22 |  |
@@ -286,6 +287,7 @@
 | [I'm Sorry I Hit You with My Flip Flop](https://open.spotify.com/track/39TQNdNwF1jBR7SDMQ5SLu) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Zest Pop](https://open.spotify.com/album/4CvR0TtxnofCq74AiND8kp) | 2:14 | 2024-12-28 | 2026-02-28 |
 | [I've Had It Up To Here](https://open.spotify.com/track/6ZykKZTLXuruJTgyDLFCN2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Everything Will Be Alright In The End](https://open.spotify.com/album/4A7hGVYUwbgXaEPuVkRSGJ) | 2:49 | 2024-05-19 | 2024-06-04 |
 | [Idioteque](https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 5:09 | 2026-03-08 |  |
+| [if you want me to i'll stay](https://open.spotify.com/track/6mTrZfsl3NUK3de1zgfz9M) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [if you want me to i'll stay](https://open.spotify.com/album/68wr5O3IVgwRvKjbo1I5eV) | 4:11 | 2026-03-09 |  |
 | [In Limbo](https://open.spotify.com/track/0xivCtzVVrdeq32s8EnOO6) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7) | 3:31 | 2026-03-08 |  |
 | [In the Aeroplane Over the Sea](https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [In the Aeroplane Over the Sea](https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob) | 3:22 | 2024-04-20 |  |
 | [In The Garage](https://open.spotify.com/track/7zWuStPwDJfx2C8NHL6NtO) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2) | 3:55 | 2024-04-04 |  |
@@ -538,6 +540,7 @@
 | [So Here We Are](https://open.spotify.com/track/7dwCUb3OXadzAMWj5tzqyP) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:52 | 2024-12-29 |  |
 | [Soma](https://open.spotify.com/track/6gU7ohksNd6LsEJMWfDRhp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 2:33 | 2024-05-29 |  |
 | [Some Girls Are Bigger Than Others \- 2011 Remaster](https://open.spotify.com/track/3znapZvsInnCVsDERDUaM5) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 3:17 | 2025-12-14 |  |
+| [Some Things Are Never Gonna Change](https://open.spotify.com/track/0fmelRPNuTV1eq12ZqSNm7) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Some Things Are Never Gonna Change](https://open.spotify.com/album/6FKnrHUYRu7os6t2aTf1jH) | 4:19 | 2026-03-09 |  |
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2023-11-12 | 2024-06-21 |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2024-05-29 |  |
 | [Someone Is Waiting](https://open.spotify.com/track/7kwOZJMxsQcBpC4j3kp24d) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:31 | 2024-04-19 |  |
@@ -733,6 +736,7 @@
 | [Where You'll Find Me Now](https://open.spotify.com/track/1c7ZaXMJKgOFXet5W59B8s) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 4:04 | 2024-04-19 |  |
 | [Who You Are](https://open.spotify.com/track/2ZY06XwcEDibe5PSXZxyfY) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Good & Evil](https://open.spotify.com/album/2Vq0Y8wgiZRYtZ1mQ7zOMG) | 3:40 | 2024-05-24 |  |
 | [Why Are Sundays So Depressing](https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:35 | 2024-07-03 |  |
+| [Why Don't You Adore Me?](https://open.spotify.com/track/3DNId7JC9CTVFe8vLeFPxd) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:34 | 2026-03-09 |  |
 | [Why Won't You Make Up Your Mind?](https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:19 | 2024-04-07 |  |
 | [William, It Was Really Nothing \- 2011 Remaster](https://open.spotify.com/track/6SwqPZs0XuSnyqkbnkkAjQ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 2:11 | 2025-12-14 |  |
 | [Wind in Our Sail](https://open.spotify.com/track/4LAbkI0MNJnyhDcwA5gtsP) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\) \[Deluxe Edition\]](https://open.spotify.com/album/3hFAWabvvMdNE2h8Dmvgpr) | 2:53 | 2024-06-06 | 2025-07-24 |

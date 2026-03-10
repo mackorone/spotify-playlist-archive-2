@@ -8359,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
+    },
+    {
+      "album": {
         "name": "Goodnight Summerland",
         "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
       },
@@ -10506,7 +10524,7 @@
       ],
       "date_added": "2021-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 152893,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"

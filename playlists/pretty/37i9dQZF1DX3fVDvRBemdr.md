@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: John West & Lange Frans
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,242 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,276 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 |
-| 2 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
-| 3 | [More Amor Por Favor](https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [More Amor Por Favor](https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM) | 2:36 |
-| 4 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
-| 5 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
-| 6 | [Blijf Nog Even](https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Blijf Nog Even](https://open.spotify.com/album/0pP7q6M8fMompvyFIV5PSE) | 2:59 |
-| 7 | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/track/3pg9B5UsUEtQTNUcKbX52N) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/album/3UeDyDiuoL8GFHtTWqwMBo) | 2:34 |
+| 2 | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/track/3pg9B5UsUEtQTNUcKbX52N) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/album/3UeDyDiuoL8GFHtTWqwMBo) | 2:34 |
+| 3 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
+| 4 | [More Amor Por Favor](https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [More Amor Por Favor](https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM) | 2:36 |
+| 5 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
+| 6 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
+| 7 | [Blijf Nog Even](https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Blijf Nog Even](https://open.spotify.com/album/0pP7q6M8fMompvyFIV5PSE) | 2:59 |
 | 8 | [Vuur & Vlam](https://open.spotify.com/track/3lHXU7bR9lkZ8OB8cOcAne) | [Menno Aben](https://open.spotify.com/artist/2Jc9IdaUSgqGtF202EB1zL) | [Vuur & Vlam](https://open.spotify.com/album/4vggm5E3OQmGaz23jpdJl5) | 2:51 |
 | 9 | [Het Perfecte Plaatje](https://open.spotify.com/track/4VODocbKKvbazeJuly00YE) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Het Perfecte Plaatje](https://open.spotify.com/album/0tuFFT8nIFdRXHF9Ad9JQS) | 2:09 |
 | 10 | [Madame Bonjour](https://open.spotify.com/track/3E4oeP8w7Of0qTeylPePDl) | [Mike Oskam](https://open.spotify.com/artist/4h0EhiZy6kumY4jKmqWjBc) | [Madame Bonjour](https://open.spotify.com/album/2PBCPb445B8WTB4VBZXIdF) | 2:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 89 | [Laat Mij Maar Alleen](https://open.spotify.com/track/1d2IjBwB3urTKuPp4vNmnC) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Laat Mij Maar Alleen](https://open.spotify.com/album/6VXounYiBoSoqfnCEeGoog) | 2:49 |
 | 90 | [Kom Terug Bij Mij](https://open.spotify.com/track/3Uy37WwVdix4fdmJSpvVTU) | [Wesley Boes](https://open.spotify.com/artist/4PfOrm0osG8Wy6jDCM9jMe) | [Kom Terug Bij Mij](https://open.spotify.com/album/2vZsIcPjW87vMW7kWxdRUQ) | 3:30 |
 
-Snapshot ID: `AAAAAEshLXV2xLILViSlBLOlyt1JkR07`
+Snapshot ID: `AAAAAEMkyDAHjVK853l8B6Z3BbhZ7/ix`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: B.I) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: KickFlip(\ud0a5\ud50c\ub9bd)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -13416,7 +13416,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 215000,
       "name": "Always",
       "url": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8"
@@ -27981,6 +27981,24 @@
     },
     {
       "album": {
+        "name": "My Little New Diary, Pt. 3",
+        "url": "https://open.spotify.com/album/0K4fHnIGTTDp1MYkxjGSKM"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223489,
+      "name": "BISANGJOONBI",
+      "url": "https://open.spotify.com/track/21ZTTF6DLnYmufflH2zIyL"
+    },
+    {
+      "album": {
         "name": "Biscuit",
         "url": "https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg"
       },
@@ -29396,7 +29414,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 180000,
       "name": "Bloom hour",
       "url": "https://open.spotify.com/track/0sTy2p3PUkU55Hda1rAiFq"
@@ -107035,6 +107053,24 @@
     },
     {
       "album": {
+        "name": "I DON'T BARGAIN",
+        "url": "https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170149,
+      "name": "I DON'T BARGAIN",
+      "url": "https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y"
+    },
+    {
+      "album": {
         "name": "I don't care",
         "url": "https://open.spotify.com/album/0zkUyjhvxye0UwuNaFm9Xd"
       },
@@ -111486,7 +111522,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 179625,
       "name": "I Stay",
       "url": "https://open.spotify.com/track/0HPovXCKnZceJv9cdpG8JJ"
@@ -113318,7 +113354,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 225659,
       "name": "I'd Also Love to See You Dying (Feat. Lee Seohyun)",
       "url": "https://open.spotify.com/track/7GZ3lZiEOwpvIueAV7qGwV"
@@ -127829,6 +127865,24 @@
     },
     {
       "album": {
+        "name": "YOUNHA 1st REMAKE ALBUM 'SUB CHARACTER'",
+        "url": "https://open.spotify.com/album/5pAjx0GbUpBy3yKXfHzY1P"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267618,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3HQ8YFDPf8H8hy6j762naI"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/21roL9Zk29chd89R6G70lL"
       },
@@ -132346,7 +132400,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 113546,
       "name": "Laughter Hole",
       "url": "https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9"
@@ -185986,7 +186040,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 186000,
       "name": "PLAYER (feat. Crush)",
       "url": "https://open.spotify.com/track/0aKxRmN8Dv6KAWuYwLbKim"
@@ -187492,6 +187546,24 @@
       "duration_ms": 148849,
       "name": "POP IT LIKE",
       "url": "https://open.spotify.com/track/0rrCEmesBYZ1E9zMGy9LAg"
+    },
+    {
+      "album": {
+        "name": "POP IT LIKE",
+        "url": "https://open.spotify.com/album/2kYqSRsYnz72I69rWVylNe"
+      },
+      "artists": [
+        {
+          "name": "NouerA",
+          "url": "https://open.spotify.com/artist/4YsiijJHnCAjqS9cIXNoTI"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "POP IT LIKE",
+      "url": "https://open.spotify.com/track/0gvr5CBsUgd1PlYsHmvJ3V"
     },
     {
       "album": {
@@ -202148,7 +202220,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 138000,
       "name": "SANE",
       "url": "https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s"
@@ -205685,6 +205757,24 @@
     },
     {
       "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
+    },
+    {
+      "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/2TEh8j3t1SIKENpjp2PGsx"
       },
@@ -205938,6 +206028,24 @@
       "duration_ms": 131711,
       "name": "Seoul To Osaka (feat. Tray B, GOATKEKE)",
       "url": "https://open.spotify.com/track/1mcSVJX3f5nkwGyNfInPCD"
+    },
+    {
+      "album": {
+        "name": "Separation is distant",
+        "url": "https://open.spotify.com/album/5kAjAjFGG2giDnjRHDDF27"
+      },
+      "artists": [
+        {
+          "name": "\uae30\ud0dc",
+          "url": "https://open.spotify.com/artist/7AQ2PocMnNWx7lwz4E1or6"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240827,
+      "name": "Separation is distant",
+      "url": "https://open.spotify.com/track/1fuHva1G9YqV4vOrVcBXnM"
     },
     {
       "album": {
@@ -223370,7 +223478,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 178000,
       "name": "Still Rose",
       "url": "https://open.spotify.com/track/6MgrdZL7zA381FLAQiaITj"
@@ -247767,6 +247875,24 @@
     },
     {
       "album": {
+        "name": "TOUGH LOVE",
+        "url": "https://open.spotify.com/album/5eyN4dfPRJEAVU7paiAYsA"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "TOUGH LOVE",
+      "url": "https://open.spotify.com/track/0JWu3QkeitDCsiSTohLcc0"
+    },
+    {
+      "album": {
         "name": "Tourist",
         "url": "https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR"
       },
@@ -250352,6 +250478,24 @@
       "duration_ms": 171529,
       "name": "Twenties",
       "url": "https://open.spotify.com/track/7GUlTiAxRgxqYGTpkelDvQ"
+    },
+    {
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Twenty",
+      "url": "https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd"
     },
     {
       "album": {
@@ -261229,6 +261373,24 @@
     },
     {
       "album": {
+        "name": "1\ub4f1\ub4e4 Audition end war Episode 4",
+        "url": "https://open.spotify.com/album/7ijqWlM4ll7ZBts80w0dGY"
+      },
+      "artists": [
+        {
+          "name": "Lee Yejoon",
+          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249769,
+      "name": "Welcome to the Show",
+      "url": "https://open.spotify.com/track/25MOQ0A1xHDVxgR5cEOQrC"
+    },
+    {
+      "album": {
         "name": "Well",
         "url": "https://open.spotify.com/album/0uF9Np6Y64YosuJ6Q8iqyM"
       },
@@ -266646,7 +266808,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 236964,
       "name": "Who I've Become",
       "url": "https://open.spotify.com/track/3buxRmvpflSFLLhkXeVcwv"
@@ -277513,6 +277675,24 @@
     },
     {
       "album": {
+        "name": "Curtain Up, Class, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0FrES663wkOIWcoZHrD6E3"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Young & Naive",
+      "url": "https://open.spotify.com/track/6FY6JISyIYFJ8JkN0hIgYP"
+    },
+    {
+      "album": {
         "name": "Young (Feat. Shoi, puffitboi)",
         "url": "https://open.spotify.com/album/3nFDP9dAIXgh8uKFqTiLsS"
       },
@@ -286874,7 +287054,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 252000,
       "name": "\uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\uace0 \uc0ac\ub791\ud588\ub2e4",
       "url": "https://open.spotify.com/track/3fIjMrLEe4R0CeOGj1BNqJ"

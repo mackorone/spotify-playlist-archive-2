@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 774307,
+  "num_followers": 774502,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAkAvKF1C15WalUsqEPvnOe",
+  "snapshot_id": "aay8AAAAAABitY3c8ETXn/gnjcrEGKFR",
   "tracks": [
     {
       "added_at": null,
@@ -843,18 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+        "name": "Canci\u00f3n Sin Miedo",
+        "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
       "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        },
         {
           "name": "Mon Laferte",
           "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 184146,
-      "name": "No Te Me Quites De Ac\u00e1",
-      "url": "https://open.spotify.com/track/0kMMVzmtMFoP2us11Em5Tv"
+      "duration_ms": 213013,
+      "name": "Canci\u00f3n Sin Miedo",
+      "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
     }
   ],
   "unique_name": "This Is Mon Laferte",

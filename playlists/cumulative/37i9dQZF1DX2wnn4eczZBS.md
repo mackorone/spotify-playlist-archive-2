@@ -4,7 +4,7 @@
 
 > Indiepop in het Nederlands\. Cover: MEROL
 
-303 songs - 15 hr 46 min
+304 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 | 2025-06-02 |  |
 | [alle buren moeten dood](https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [platland](https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A) | 3:10 | 2024-10-22 | 2025-05-27 |
 | [Alleen](https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Spijbelaar](https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ) | 3:36 | 2025-01-23 | 2025-06-06 |
+| [Alleen in de Avond](https://open.spotify.com/track/022et9Vl1YHqnrvVZM8Ohg) | [STROOMSTOOT](https://open.spotify.com/artist/10UDvTwIuvIIZmDbyGxOCi), [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Alleen in de Avond](https://open.spotify.com/album/35xZF7AbXbloGWHwJjWEW2) | 2:51 | 2026-03-09 |  |
 | [Allermooiste Pijn](https://open.spotify.com/track/1UsdHth1uy9sAbZiJLzFt7) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Hopeloze Romanticus](https://open.spotify.com/album/3HYbI8aprHEvAyAXq1gZo8) | 3:14 | 2025-02-13 | 2025-04-01 |
 | [Alles Begint Bij Vandaag](https://open.spotify.com/track/1KE9JCyD0KNMpLT60MLUyN) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Begint Bij Vandaag](https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1) | 3:09 | 2024-06-26 | 2024-11-08 |
 | [Alles goed?](https://open.spotify.com/track/4ipYkev86TwpdpLNxFzcOG) | [Nelcon](https://open.spotify.com/artist/61xqUrJF99VPEWL442d7R9) | [Context](https://open.spotify.com/album/0dKVmAfWPz7JOoxuTXv83O) | 2:22 | 2025-03-13 | 2025-04-01 |
@@ -82,7 +83,7 @@
 | [Gebroken Spiegel](https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM), [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Gebroken Spiegel](https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2) | 3:29 | 2025-01-16 | 2025-03-08 |
 | [Geef me een Teken](https://open.spotify.com/track/1sMC7VDr7zRbNvYVTdLyGA) | [Lucas de Gier](https://open.spotify.com/artist/0IEv7VW29Y0gKhh3gmELOt) | [lucas](https://open.spotify.com/album/7FsUGGBTX3ODgZhNgZnUqj) | 3:56 | 2024-11-07 | 2025-01-11 |
 | [Geef Mij Nog Deze Nacht](https://open.spotify.com/track/5yVGyRGN344cTDdOg1ayJ7) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Geef Mij Nog Deze Nacht](https://open.spotify.com/album/2I0w8eTaxMcNj9xlLNpp16) | 3:12 | 2025-06-02 | 2025-07-22 |
-| [Geen Ego](https://open.spotify.com/track/1CwTDPhXGfgHZX6MFmDaLi) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Hardt](https://open.spotify.com/album/7vDfXzVI6iBTtK7p2gSH7i) | 3:05 | 2026-02-12 |  |
+| [Geen Ego](https://open.spotify.com/track/1CwTDPhXGfgHZX6MFmDaLi) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Hardt](https://open.spotify.com/album/7vDfXzVI6iBTtK7p2gSH7i) | 3:05 | 2026-02-12 | 2026-03-10 |
 | [Geen Steek Veranderd](https://open.spotify.com/track/0Z7UuliJxlUTtPuA7HqrdU) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [puntpuntpunt](https://open.spotify.com/album/3m9qDzog8BUub1BLDqs9xM) | 3:25 | 2024-06-26 | 2024-08-02 |
 | [Geest Van Het Zuiden](https://open.spotify.com/track/3aY93NRQyDNARcblm0javK) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Of Het Terugkomt](https://open.spotify.com/album/1YRPxfopR6ICS1ZUIDAmSV) | 3:13 | 2024-06-26 | 2024-09-13 |
 | [Geluk Ontelbaar](https://open.spotify.com/track/1pO0uHgZRf8UXuxVeEGmkb) | [Bud Kolk](https://open.spotify.com/artist/1euiaKy1PkptZMZzs8BF9j) | [Geluk Ontelbaar](https://open.spotify.com/album/3G44X64cFD4jhmClRRt9fH) | 2:48 | 2024-07-05 | 2025-01-11 |

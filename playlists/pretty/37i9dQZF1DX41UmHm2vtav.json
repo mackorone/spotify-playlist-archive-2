@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 504065,
+  "num_followers": 504078,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -479,30 +479,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "In The End (Remix)",
-        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
-      },
-      "artists": [
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        },
-        {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "Bill Sandre",
-          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
-        }
-      ],
-      "duration_ms": 164879,
-      "name": "In The End - Remix",
-      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
         "url": "https://open.spotify.com/album/1KMNZU2XgBIFejM1j0DHwR"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 158769,
       "name": "Sem Ch\u00e3o (Malemol\u00eancia)",
       "url": "https://open.spotify.com/track/4DEU9APTmDLxnOsZnxhxI2"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "In The End (Remix)",
+        "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
+      },
+      "artists": [
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "Bill Sandre",
+          "url": "https://open.spotify.com/artist/5vg347odfyQfzgjctiztlC"
+        }
+      ],
+      "duration_ms": 164879,
+      "name": "In The End - Remix",
+      "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -635,6 +635,34 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
+        "name": "Baiana (With L-Gante)",
+        "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        },
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Baiana - With L-Gante",
+      "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
         "name": "Infinito Particular (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
       },
@@ -675,34 +703,6 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
-        "name": "Baiana (With L-Gante)",
-        "url": "https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Baiana - With L-Gante",
-      "url": "https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Please Don't Go (Bruno Martini Remix)",
-        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
-      },
-      "artists": [
-        {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Please Don't Go - Bruno Martini Remix",
-      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -1047,22 +1027,22 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
         },
         {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         }
       ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1083,6 +1063,26 @@
       "duration_ms": 208615,
       "name": "Blitz (Voc\u00ea N\u00e3o Soube Me Amar)",
       "url": "https://open.spotify.com/track/3dTQZCZ6ymToMbSqaIljDB"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
+        }
+      ],
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1151,30 +1151,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "SHOUT",
-        "url": "https://open.spotify.com/album/4TMNunyC0pAOVTDd3YyY3t"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Molk",
-          "url": "https://open.spotify.com/artist/6U58xKDckIjvutio9rirLx"
-        },
-        {
-          "name": "Di Fabianno",
-          "url": "https://open.spotify.com/artist/66rGokWlYlVXbG1mTkYpO1"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "SHOUT",
-      "url": "https://open.spotify.com/track/574zMI4Ve1OvuKyap7casF"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
         "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 158824,
       "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
       "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "SHOUT",
+        "url": "https://open.spotify.com/album/4TMNunyC0pAOVTDd3YyY3t"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Molk",
+          "url": "https://open.spotify.com/artist/6U58xKDckIjvutio9rirLx"
+        },
+        {
+          "name": "Di Fabianno",
+          "url": "https://open.spotify.com/artist/66rGokWlYlVXbG1mTkYpO1"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "SHOUT",
+      "url": "https://open.spotify.com/track/574zMI4Ve1OvuKyap7casF"
     },
     {
       "added_at": "2026-02-13 15:25:57",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-02-13 15:25:57",
       "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
-    },
-    {
-      "added_at": "2026-02-13 15:25:57",
-      "album": {
         "name": "Deixe Me Ir",
         "url": "https://open.spotify.com/album/4cUP4A6DlXz2LOADhjsr9Q"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 214634,
       "name": "Deixe Me Ir",
       "url": "https://open.spotify.com/track/5iG6XGRTfFjL2iky4d8Q5L"
+    },
+    {
+      "added_at": "2026-02-13 15:25:57",
+      "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-02-13 15:25:57",

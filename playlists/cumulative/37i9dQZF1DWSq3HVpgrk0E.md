@@ -4,7 +4,7 @@
 
 > The whole truth\. Cover: Yeat, EsDeeKid
 
-68 songs - 3 hr 21 min
+69 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Teenage Famous](https://open.spotify.com/track/4t8n6V5Lfl5ETENNmjqi9e) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz) | 2:09 | 2026-02-13 | 2026-02-28 |
 | [They Want To Be You \(feat\. Future\)](https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:47 | 2025-10-17 |  |
 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 | 2025-10-17 |  |
-| [TOURMALINE](https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:53 | 2025-10-17 |  |
+| [TOURMALINE](https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:53 | 2025-10-17 | 2026-03-10 |
 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 | 2025-10-17 |  |
 | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Trunks \(From "Highest 2 Lowest"\)](https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B) | 3:43 | 2025-10-17 |  |
 | [Victory Lap Five](https://open.spotify.com/track/7vV6MiU4BHLuNyu4P87z9k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [USB](https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB) | 5:44 | 2025-10-17 | 2025-11-22 |
@@ -76,5 +76,6 @@
 | [WHATCHU KNO ABOUT ME \(feat\. Sexyy Red\)](https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:29 | 2025-10-17 |  |
 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 | 2025-10-17 |  |
 | [WTHELLY](https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [WTHELLY](https://open.spotify.com/album/44r6QyfbQubhNAIW18wfKg) | 2:17 | 2025-10-17 | 2026-02-20 |
+| [You've Changed](https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [You've Changed](https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr) | 3:15 | 2026-03-06 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

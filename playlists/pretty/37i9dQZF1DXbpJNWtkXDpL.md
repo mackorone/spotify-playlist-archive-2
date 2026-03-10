@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,181 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,177 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 25 | [FLOR marchita](https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku) | [Mérida](https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj) | [FLOR marchita](https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh) | 3:29 |
 | 26 | [Fallé](https://open.spotify.com/track/68ldiwb2lQUH1ky1PBVW7s) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Fallé](https://open.spotify.com/album/4FdQTvmVrkknQbLePxpZHc) | 2:15 |
 | 27 | [Griselda](https://open.spotify.com/track/7eJyuk6HFHRmbPm6uymimu) | [Vic Gunn](https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [Griselda](https://open.spotify.com/album/4TzdW4hZcL7rgKgiTYkxLO) | 3:21 |
-| 28 | [arrancame los labios](https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [MAYDAY](https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1) | 1:53 |
-| 29 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
+| 28 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
+| 29 | [arrancame los labios](https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [MAYDAY](https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1) | 1:53 |
 | 30 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
 | 31 | [No Me Quiero Morir](https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [No Me Quiero Morir](https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX) | 2:15 |
 | 32 | [PUÑOS PULSERAS Y PALETAS](https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ) | [Kevis & Maykyy](https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH), [Chans](https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG), [Fntwxy](https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH) | [PUÑOS PULSERAS Y PALETAS](https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58) | 2:23 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 46 | [Verano Cruel](https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Verano Cruel](https://open.spotify.com/album/3IrYOrtOpokQ3q3xSg37WW) | 2:51 |
 | 47 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
 | 48 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 |
-| 49 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
-| 50 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
+| 49 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
+| 50 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
 | 51 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
 | 52 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
 | 53 | [Cabello Rojo](https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks) | [Nova Club](https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA) | [Cabello Rojo](https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38) | 3:14 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 71 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ) | [El Danny Padilla](https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg) | [Exitos Ajenos, Vol\. 1](https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw) | 3:26 |
 | 72 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
 | 73 | [UN DÍA INOLVIDABLE](https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [UN DÍA INOLVIDABLE](https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK) | 3:11 |
-| 74 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
-| 75 | [MI D](https://open.spotify.com/track/78UCRREwnCspGmSX6njy35) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [REGGAETON CUTE \(VOL\. 2\)](https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7) | 2:38 |
+| 74 | [MI D](https://open.spotify.com/track/78UCRREwnCspGmSX6njy35) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [REGGAETON CUTE \(VOL\. 2\)](https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7) | 2:38 |
+| 75 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
 
 Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

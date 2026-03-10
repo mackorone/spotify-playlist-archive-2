@@ -4,7 +4,7 @@
 
 > The best in house music
 
-773 songs - 2 day 1 hr 57 min
+774 songs - 2 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Believe](https://open.spotify.com/track/6xuC5KFnyKtJ4Ct3tTJa4Q) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Believe](https://open.spotify.com/album/3v4FlkCeWsvkRf3LvY8cut) | 3:17 | 2024-12-03 | 2026-01-15 |
 | [Benin](https://open.spotify.com/track/3lnPWI5DH48A0Fg06uxuAS) | [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [Benin](https://open.spotify.com/album/2PdS8G60pkQEaAwr7LeAbK) | 2:58 | 2022-11-10 | 2024-06-14 |
 | [Better \(feat\. Jena\)](https://open.spotify.com/track/1lvgae0nTxj1ZPl4VfO9gv) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Better \(feat\. Jena\)](https://open.spotify.com/album/2qVbAXSd8LPX9MU1nsVC4i) | 2:52 | 2023-06-08 | 2024-09-13 |
-| [Better Days](https://open.spotify.com/track/462XncSZQqphAVXMwDY3Yp) | [Jimi Polo](https://open.spotify.com/artist/2LF3qYISOPgRfBywG1lWw9), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Better Days](https://open.spotify.com/album/7JQkC9K96HeCQuBfReRgHD) | 3:05 | 2026-02-07 |  |
+| [Better Days](https://open.spotify.com/track/462XncSZQqphAVXMwDY3Yp) | [Jimi Polo](https://open.spotify.com/artist/2LF3qYISOPgRfBywG1lWw9), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Better Days](https://open.spotify.com/album/7JQkC9K96HeCQuBfReRgHD) | 3:05 | 2026-02-07 | 2026-03-10 |
 | [Better Take That](https://open.spotify.com/track/6x4lOp1oRmtfFgQIIw2ipY) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Sean Finn](https://open.spotify.com/artist/5xUacP1mVGfiY7Zr9RskmS) | [Better Take That](https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba) | 2:55 | 2023-09-21 | 2024-04-27 |
 | [Better World](https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Chris Moody](https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui) | [Better World](https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh) | 3:06 | 2024-02-29 | 2025-01-31 |
 | [Blend \- Groove Assassin Remix](https://open.spotify.com/track/14ItjRZycNqFfuiFsZaUiW) | [Masterbuilders](https://open.spotify.com/artist/65L2B9MOzg2xfeHEM4U7oC), [Groove Assassin](https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG) | [Blend \(Groove Assassin Remix\)](https://open.spotify.com/album/4zF1j83zlFVTpqDhHJIh0c) | 3:36 | 2025-03-20 | 2025-03-23 |
@@ -166,6 +166,7 @@
 | [Deep End \- Extended Mix](https://open.spotify.com/track/0W9Z8mKU3kSZAaojz5rqwO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Deep End](https://open.spotify.com/album/18WO0cnGjnQiBehYVtF33g) | 6:22 | 2022-04-20 | 2022-06-12 |
 | [Deep Inside](https://open.spotify.com/track/7mrauQo5bJ8hPPqJ0HfDyZ) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Deep Inside](https://open.spotify.com/album/1RCUm0QaiUMJxkdFLawDU0) | 2:49 | 2025-08-25 |  |
 | [Deep Inside \- CASSIMM Remix](https://open.spotify.com/track/26xyL8HgzrQfiY0n8x01Z8) | [Hardsoul](https://open.spotify.com/artist/1pOxKVLc0EXgcOSqyWOlKi), [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [Deep Inside \(CASSIMM Remix\)](https://open.spotify.com/album/7Asey26DCncU51AaKxSQ5f) | 3:14 | 2024-11-22 | 2026-01-24 |
+| [Delusions](https://open.spotify.com/track/3I7n9Ukpl6bYYOQZrUxg5u) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Delusions](https://open.spotify.com/album/2SQEsVwbWEimXojcYsezYy) | 2:17 | 2026-03-05 |  |
 | [Desire \- Radio Edit](https://open.spotify.com/track/631bx8hIT8bVS2vfUzn5GN) | [Roog](https://open.spotify.com/artist/1sGNgv5X8Br7YVlzVllFHh) | [Desire](https://open.spotify.com/album/7FwQ2Z46rlZmfvvDEZrk5b) | 4:24 | 2022-04-20 | 2022-07-27 |
 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 | 2022-05-31 | 2024-08-31 |
 | [Do It Like Oh](https://open.spotify.com/track/61050LBESCpYUtKKnzDqYg) | [Leon Benesty](https://open.spotify.com/artist/6Z6GWcZniHVuVjmCq3kIh1) | [Do It Like Oh](https://open.spotify.com/album/3GfDmkWr42bw6drXLH5TsR) | 5:02 | 2022-12-22 | 2024-05-21 |

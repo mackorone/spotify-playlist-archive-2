@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319406,
+  "num_followers": 319419,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -599,34 +599,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 193697,
-      "name": "S\u00f3 me ligar",
-      "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "100 por Hora",
         "url": "https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA"
       },
@@ -651,26 +623,30 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         },
         {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
         }
       ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
+      "duration_ms": 193697,
+      "name": "S\u00f3 me ligar",
+      "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -707,6 +683,46 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
       },
@@ -731,18 +747,18 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+        "name": "Poema Sujo",
+        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
       },
       "artists": [
         {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
         }
       ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+      "duration_ms": 182000,
+      "name": "Poema Sujo",
+      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -759,22 +775,6 @@
       "duration_ms": 193600,
       "name": "20 Liga\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/6MvaRZ6JZgJuXz9b1CMB1y"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Poema Sujo",
-        "url": "https://open.spotify.com/album/0YMVamkJjw75KFVgqJVYUy"
-      },
-      "artists": [
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Poema Sujo",
-      "url": "https://open.spotify.com/track/6O3MrX78qrxznXjufyjHct"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -807,6 +807,26 @@
       "duration_ms": 157241,
       "name": "DISK",
       "url": "https://open.spotify.com/track/33IqDnVi4c8OkqlXM1iOkP"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -855,26 +875,6 @@
       "duration_ms": 237898,
       "name": "Flamingos",
       "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Afrodite",
-        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 201264,
-      "name": "Afrodite",
-      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "Beija-Fruta (O Sexo)",
         "url": "https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih"
       },
@@ -1143,6 +1119,30 @@
       "duration_ms": 216299,
       "name": "temporal",
       "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Afrodite",
+        "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 201264,
+      "name": "Afrodite",
+      "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
     },
     {
       "added_at": "2025-10-31 16:26:13",

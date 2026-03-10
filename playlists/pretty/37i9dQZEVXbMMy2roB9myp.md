@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMMy2roB9myp.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,702 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,705,833 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMMy2roB9myp.md) - [plain]
 | 49 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/7rfYGYxsZzQAhlJy5B0IcW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 3:00 |
 | 50 | [Loco Enamorado I Varieté \#4](https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF) | [Tincho Di Salvo & Javi Zurro](https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Loco Enamorado I Varieté \#4](https://open.spotify.com/album/06ENwZMENzIYycxXAfAKYY) | 2:33 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

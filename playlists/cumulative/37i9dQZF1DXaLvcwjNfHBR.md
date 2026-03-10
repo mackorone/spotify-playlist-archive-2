@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: COTERIE
+> Your new favourite songs! Cover: Charlie xcx
 
 1,043 songs - 2 day 7 hr 36 min
 

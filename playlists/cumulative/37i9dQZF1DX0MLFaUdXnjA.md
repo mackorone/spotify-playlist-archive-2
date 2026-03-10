@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Solya
 
-2,566 songs - 5 day 18 hr 15 min
+2,567 songs - 5 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Baby Teeth](https://open.spotify.com/track/4t4JakZ0A3nlOlFi6Z4LYm) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Baby Teeth](https://open.spotify.com/album/5dnePhTkDdoowk0jpLBMzJ) | 2:29 | 2025-08-08 | 2025-09-28 |
 | [Baby Why](https://open.spotify.com/track/7qLUUHpvOezSnNERh4IRPx) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Baby Why](https://open.spotify.com/album/0zOk2HI3PFMENdCrYXc3gu) | 2:44 | 2022-07-29 | 2023-07-29 |
 | [Baby, Baby](https://open.spotify.com/track/4UGiaW74iNHBqtkkefW5Ee) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Baby, Baby](https://open.spotify.com/album/6m6eOZ7x2otoKK3DaYEzea) | 3:01 | 2024-07-10 | 2024-08-24 |
+| [Back Again](https://open.spotify.com/track/45LINu0RLccmLrkAMGqg9S) | [Gui Aly](https://open.spotify.com/artist/6AZ6ilT4AYnj4bXMUhkbJa) | [Back Again](https://open.spotify.com/album/0Vak52W6lRXl88fMUML7wa) | 3:04 | 2026-03-09 |  |
 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 | 2024-05-17 | 2024-08-03 |
 | [Back Pocket](https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Thrill of the Arts](https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7) | 3:01 | 2021-05-22 | 2021-06-05 |
 | [BACK TO BLONDE](https://open.spotify.com/track/2tKqI6dJIxUlFyVUwrSR08) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BACK TO BLONDE](https://open.spotify.com/album/059SwPQ4t5vYxB4hOq4mLl) | 2:44 | 2024-11-15 | 2025-02-15 |
@@ -2224,7 +2225,7 @@
 | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/track/4rEAtHXza0kdANkTLUwXM1) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [the movies \(feat\. Charli Adams\)](https://open.spotify.com/album/7zmo9jWL7G4xj6oSLXRq0v) | 2:58 | 2020-07-18 | 2020-09-04 |
 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 | 2021-11-06 | 2022-01-29 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-07-29 | 2023-12-09 |
-| [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 | 2025-10-24 |  |
+| [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 | 2025-10-24 | 2026-03-10 |
 | [The Plan](https://open.spotify.com/track/24TBDnrH9ampHrkCGNmHJg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [12 Notes \(Deluxe\) \[16 Notes\]](https://open.spotify.com/album/6ul4W8XzkvOeS1YgPfY3TF) | 2:49 | 2024-09-20 | 2024-11-09 |
 | [The Price](https://open.spotify.com/track/62EGmGmjAzX23NzkpIn00c) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Price](https://open.spotify.com/album/2OJcl3GrTfXg8hOXs99YJP) | 3:09 | 2025-12-12 | 2026-02-21 |
 | [The Problem](https://open.spotify.com/track/1Fi7uWkIRqqhQDYhikP4lk) | [Adam Turley](https://open.spotify.com/artist/0clfID6QXqVAUhgm7QHpwF), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [The Problem](https://open.spotify.com/album/3YbdZfUltFTmiUBFzKvP0m) | 3:23 | 2020-04-26\* | 2020-09-11 |

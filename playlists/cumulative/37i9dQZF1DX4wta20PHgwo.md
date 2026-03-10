@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-562 songs - 2 day 2 hr 1 min
+563 songs - 2 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,7 +448,7 @@
 | [Stardust](https://open.spotify.com/track/26pIDw68F6bO8Qk0IHtXE7) | [JD Allen](https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM) | [Love Letters \(The Ballad Sessions\)](https://open.spotify.com/album/1S9fKb1LsKDJge0X5KvsaO) | 5:10 | 2025-09-26 |  |
 | [Starlight](https://open.spotify.com/track/4iwNcUIjJQGJSKH2qoez4o) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Starlight](https://open.spotify.com/album/5s5JmTs3Cxg8OkhLxALM0k) | 6:42 | 2022-02-17 | 2023-10-18 |
 | [Still Life](https://open.spotify.com/track/0ZDYNvHcrjfbN6CbErhqna) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/1BHLjtsqNrZg2YbkSEPcaA) | 4:47 | 2024-01-03 | 2024-04-19 |
-| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-02-28 |  |
+| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-02-28 | 2026-03-10 |
 | [Still Waters](https://open.spotify.com/track/4F5JGx0pSUIOWjQBZFxpcm) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/779CtOedaPfyu3SOhtvEEU) | 6:07 | 2024-05-31 | 2024-06-15 |
 | [Stockholm Sweetnin'](https://open.spotify.com/track/73fjTjTG8KSLQ04t5fARWm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 7:55 | 2020-10-27 | 2023-05-24 |
 | [Stormy Weather](https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Western Music Box](https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1) | 6:31 | 2023-08-15 |  |
@@ -551,6 +551,7 @@
 | [Where or When](https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard time volume 3: The revolution of romance](https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0) | 2:48 | 2020-06-12 |  |
 | [WHITE CRAYON](https://open.spotify.com/track/2XXfb3FToGrAOZKGJ1Nwhj) | [Athletic Progression](https://open.spotify.com/artist/2BBIIe7eBYThLcIrZGZb3I) | [Athletic Progression](https://open.spotify.com/album/0k2rdl136XYJRZA6nPbuw6) | 4:31 | 2020-05-08 | 2021-09-01 |
 | [Why Don't You Do Right?](https://open.spotify.com/track/7GwGAzzPjj2adFxY2XcDgN) | [Casey Abrams](https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG) | [Jazz](https://open.spotify.com/album/10JKXy3nWZnyAS3L2zc3jU) | 3:00 | 2020-05-02\* | 2021-08-20 |
+| [Why I Owe You](https://open.spotify.com/track/0nzYRCGPEJ0Hu0wFPH11Lj) | [Nathanial Young](https://open.spotify.com/artist/60v3K7UhzLbEnVws8zWNBm) | [Why I Owe You](https://open.spotify.com/album/5LTdI7TVZ2OpNR7hBzIKfx) | 3:41 | 2026-03-09 |  |
 | [Wild Flower](https://open.spotify.com/track/1iaKMD29IA03guhDzt1DiH) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Wild Flower](https://open.spotify.com/album/6Xlz3DM2L2HfChpNfJ1To1) | 7:08 | 2022-05-12 | 2025-10-04 |
 | [Willow Weep for Me](https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn) | [Houston Person](https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr) | [I'm Just a Lucky So and So](https://open.spotify.com/album/5LRk8BHsoLV8d93r7Dd8Ch) | 8:08 | 2020-05-02\* |  |
 | [Willow Weep for Me](https://open.spotify.com/track/1qZ0gHUkbxhNrPN8t1a0TR) | [Sam Levine](https://open.spotify.com/artist/1CmCeIsw4tTFiufFAJx04M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [Willow Weep for Me](https://open.spotify.com/album/65LGhKIjbhZMawufHw7zxU) | 4:41 | 2023-03-28 | 2026-02-14 |

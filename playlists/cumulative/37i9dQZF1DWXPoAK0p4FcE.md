@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: SHERRY
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Television off
 
-160 songs - 11 hr 7 min
+162 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/track/6uYSkSc8dQInSNCLTZibeC) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/album/1ggZWaDDCyOt3pkPJ9vhUY) | 5:09 | 2025-03-21 | 2025-05-02 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 | 2025-02-01 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 | 2025-03-22 |
-| [ขอบคุณ \(Analog\)](https://open.spotify.com/track/6rkUJtKAIsZsxEaUHZiTYY) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ขอบคุณ \(Analog\)](https://open.spotify.com/album/34AZJVTpAAmWJlg0NkhFQw) | 3:30 | 2026-02-02 |  |
+| [ขอบคุณ \(Analog\)](https://open.spotify.com/track/6rkUJtKAIsZsxEaUHZiTYY) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ขอบคุณ \(Analog\)](https://open.spotify.com/album/34AZJVTpAAmWJlg0NkhFQw) | 3:30 | 2026-02-02 | 2026-03-10 |
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 | 2024-11-23 |
 | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/track/5cRnsaIIJzFVj882jAFN1S) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/album/4PJVgb3BYqTTsB5Jl5OsXM) | 4:04 | 2025-12-26 |  |
 | [ขอโทษที่](https://open.spotify.com/track/2QYSZIbv7zNnqoJtP4maig) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ขอโทษที่](https://open.spotify.com/album/0txy8irs9JN1y1UcQNnC1w) | 4:12 | 2025-05-01 |  |
@@ -85,7 +85,7 @@
 | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/track/7FuNF6TO7xdrKdDSePTw0x) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/album/6alNIfAj10XFQskbGE8KgP) | 4:48 | 2024-06-27 | 2025-03-22 |
 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 | 2024-09-20 |  |
 | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/track/3l8N4HXUN9O0s6hLWYTrRm) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/album/4RYKPODUPCpvBFFnbIhCD6) | 3:37 | 2025-07-25 |  |
-| [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 | 2024-10-11 |  |
+| [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 | 2024-10-11 | 2026-03-10 |
 | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/track/1WIZ3l4fZemVHoL8LjaAXS) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/album/1fW1hBs7G8B5VmsvmoGdus) | 2:57 | 2025-11-07 | 2026-02-14 |
 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 | 2024-12-21 |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-27 | 2025-05-02 |
@@ -117,6 +117,7 @@
 | [สายรุ้งหลังฝนโปรย](https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 5:00 | 2024-06-27 | 2025-05-02 |
 | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy) | 3:59 | 2025-10-24 |  |
 | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/track/0CC1S9A2e9v8ZSUFkWSZkN) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/album/1rukZSSmILafBs5Yt9FxXu) | 4:41 | 2024-11-22 | 2025-02-01 |
+| [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/track/5GwXBrY91rDCB18cwpjsBz) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [หนึ่งคนตรงนี้ \(I'm here\)](https://open.spotify.com/album/2S1NnWORdoVfgwFFHK2xww) | 3:56 | 2026-03-09 |  |
 | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/track/1E7wgi9Ni4WhS6ZpqZpRqQ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [หยุดก่อน! \(Puzzle\)](https://open.spotify.com/album/5yORwvTp3m9IWnLib8cdhf) | 3:16 | 2025-08-08 |  |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-27 | 2025-04-12 |
 | [หวังว่าเราจะไม่พบกันอีก \(Hello, Goodbye!\)](https://open.spotify.com/track/2nDfwvNrFTZzMZoiyYIUjL) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [Human Certificate](https://open.spotify.com/album/5GUEyeFL6NXFMc0N1zbFbn) | 4:01 | 2026-02-20 |  |
@@ -138,6 +139,7 @@
 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 | 2024-06-27 | 2024-07-06 |
 | [เพียงแค่ถามเธอดู \(Can I ask\)](https://open.spotify.com/track/7qSVwjc5M7zZwBUshWTS1z) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:14 | 2024-06-27 |  |
 | [เรื่องสั้น 132 คำ](https://open.spotify.com/track/5OrTG5EgXSpLU4BszezWWA) | [Greasy Cafe'](https://open.spotify.com/artist/5VR2NQf3Y8Hmh8iHS6bXYx) | [เรื่องสั้น 132 คำ](https://open.spotify.com/album/2uKrgqQ4eL86ZaACEutyyu) | 3:58 | 2025-07-04 | 2025-10-04 |
+| [เลิกบ้า \(Ngo\)](https://open.spotify.com/track/3vo75ar48ecPN9UAgyuJhT) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เลิกบ้า \(Ngo\)](https://open.spotify.com/album/0eQoQ7BWudNKsdWObMTPU0) | 3:55 | 2026-03-09 |  |
 | [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/track/1LQ1mZIeVfIED2q2KgXd2H) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of), [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [เวลากะเลยทุย \(otwwwww\) \(feat\. Pearprapa\)](https://open.spotify.com/album/1GKeEQ1JOV89q69IAMmR5X) | 3:10 | 2024-10-04 | 2024-10-19 |
 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 | 2025-12-07 |  |
 | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/track/6nGCZQxuPyeLLMZLt9oIr0) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เหมือนโลกจะพัง \(Just Realized\)](https://open.spotify.com/album/4WuZYQx6xvRxwvhlNqroZl) | 4:03 | 2025-07-18 |  |

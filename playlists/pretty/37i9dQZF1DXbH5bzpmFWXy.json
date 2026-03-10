@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dan Sanchez y Kidd Keo en portada.",
-  "num_followers": 307931,
+  "num_followers": 307920,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
-        "name": "Bootlegs And B-Sides",
-        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Check Yo Self - Remix",
-      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
+        "name": "Bootlegs And B-Sides",
+        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Check Yo Self - Remix",
+      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
     },
     {
       "added_at": "2026-03-06 06:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
         "name": "Mexican Invasion",
         "url": "https://open.spotify.com/album/5ksj97hVu25U5lHRov3kkX"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 288156,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4LLHvfvE21JQFD9ZKVCbd0"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2026-03-06 06:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 310720,
-      "name": "Bitch, Don\u2019t Kill My Vibe",
-      "url": "https://open.spotify.com/track/5h5tBFnbcVioFXiOixTn6E"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 114125,
       "name": "R\u00e1pido Soy",
       "url": "https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/5h5tBFnbcVioFXiOixTn6E"
     },
     {
       "added_at": "2026-03-06 06:00:00",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Mr. Biggs",
+          "url": "https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Better Dayz",
+      "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
         "name": "ALV (Remix)",
         "url": "https://open.spotify.com/album/16mbgRUuIpG1DdvfziJX0x"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 177000,
       "name": "ALV - Remix",
       "url": "https://open.spotify.com/track/48gNck6UTLw6JYsjBiKBiz"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Mr. Biggs",
-          "url": "https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "Better Dayz",
-      "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
     },
     {
       "added_at": "2026-03-06 06:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "Abayarde",
-      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 283373,
       "name": "Heartz Of Men",
       "url": "https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "Abayarde",
+      "url": "https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV"
     },
     {
       "added_at": "2026-03-06 06:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
+        "name": "El Jefe Lexus (Grupo Rangers)",
+        "url": "https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 150489,
+      "name": "El Jefe Lexus (Grupo Rangers)",
+      "url": "https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 158784,
       "name": "Lujo y Detalle",
       "url": "https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
-        "name": "El Jefe Lexus (Grupo Rangers)",
-        "url": "https://open.spotify.com/album/6lCqZM55HhMTL7HHnDl3iO"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 150489,
-      "name": "El Jefe Lexus (Grupo Rangers)",
-      "url": "https://open.spotify.com/track/6BxPeqwW77mELe0lxb9QGG"
     },
     {
       "added_at": "2026-03-06 06:00:00",

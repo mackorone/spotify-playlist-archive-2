@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,045 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,044 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 92 | [Never Wanted To Be That Girl \- Acoustic Version](https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl \(Acoustic Version\)](https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC) | 3:31 |
 | 93 | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/track/6bEnpoQyw1REmp42Ql8iXr) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Can't Have Mine \(Find You A Girl\) \[Acoustic\]](https://open.spotify.com/album/6Z5hiPEf5U9Z3Q9t2atIPn) | 3:04 |
 | 94 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
-| 95 | [Love The Lonely Out Of You \- Live Pinebox Version](https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Love The Lonely Out Of You \(Live Pinebox Version\)](https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp) | 5:29 |
-| 96 | [My Left Hand \(Wedding Version\)](https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand \(Wedding Version\)](https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z) | 3:06 |
-| 97 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
+| 95 | [My Left Hand \(Wedding Version\)](https://open.spotify.com/track/2S7fxN0RqZwAqXuXkVi9Ij) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [My Left Hand \(Wedding Version\)](https://open.spotify.com/album/59WB1DENlJgW6tC9mElV7Z) | 3:06 |
+| 96 | [You Didn’t \- Acoustic](https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Acoustic These Days](https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0) | 4:14 |
+| 97 | [Love The Lonely Out Of You \- Live Pinebox Version](https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Love The Lonely Out Of You \(Live Pinebox Version\)](https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp) | 5:29 |
 | 98 | [Heartbreaker \- Piano Version](https://open.spotify.com/track/5w1q62Vqr4kLCEaHV9HrXS) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker \(Piano Version\)](https://open.spotify.com/album/6SPhlQgLyYrpVhZ8AvcylB) | 3:42 |
 | 99 | [Waiting For You \- Acoustic](https://open.spotify.com/track/6tcxucpT43gb76cCXtGzo9) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Studio 900 Sessions](https://open.spotify.com/album/3ooKzgaNauxvrQeIl5DTZK) | 3:05 |
 | 100 | [I Wanna Remember \(feat\. Carrie Underwood\) \- Acoustic](https://open.spotify.com/track/34eeqKzBs5jWOPRoLaagrz) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [I Wanna Remember \(feat\. Carrie Underwood\) \[Acoustic\]](https://open.spotify.com/album/11r0mt27sHJJi8RVhH4Urn) | 3:26 |

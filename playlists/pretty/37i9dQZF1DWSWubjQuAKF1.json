@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Leon Krze\u015bniak",
-  "num_followers": 25252,
+  "num_followers": 25251,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "soft prn",
-        "url": "https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
       },
       "artists": [
         {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+          "name": "Alicja",
+          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
         }
       ],
-      "duration_ms": 145678,
-      "name": "soft prn",
-      "url": "https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH"
+      "duration_ms": 180480,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
+        "name": "soft prn",
+        "url": "https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 145678,
+      "name": "soft prn",
+      "url": "https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
         "name": "WHY WHY WHY",
         "url": "https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 163359,
       "name": "WHY WHY WHY",
       "url": "https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
-      },
-      "artists": [
-        {
-          "name": "Alicja",
-          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
-      },
-      "artists": [
-        {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "Cztery pory roku",
         "url": "https://open.spotify.com/album/6Bc7mrgqOHPkiELJbPZt0x"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 172852,
       "name": "Cztery pory roku",
       "url": "https://open.spotify.com/track/64WQcLBIXbjsAA6bh7uHmH"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+      },
+      "artists": [
+        {
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "Beznami\u0119tnie",
-        "url": "https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l"
-      },
-      "artists": [
-        {
-          "name": "Natalia Muianga",
-          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
-        }
-      ],
-      "duration_ms": 164122,
-      "name": "Beznami\u0119tnie",
-      "url": "https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "Zakr\u0119ty",
         "url": "https://open.spotify.com/album/483zNSprSHlPgrz7PNsxD9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 160866,
       "name": "Zimna woda",
       "url": "https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "Beznami\u0119tnie",
+        "url": "https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l"
+      },
+      "artists": [
+        {
+          "name": "Natalia Muianga",
+          "url": "https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4"
+        }
+      ],
+      "duration_ms": 164122,
+      "name": "Beznami\u0119tnie",
+      "url": "https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
+        "name": "Gdzie ten m\u0105\u017c?",
+        "url": "https://open.spotify.com/album/70oAPbmDRlDpTkD8pcaEVC"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Gdzie ten m\u0105\u017c?",
+      "url": "https://open.spotify.com/track/395u35244oqIxioRGgBFiQ"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
         "name": "serce",
         "url": "https://open.spotify.com/album/4GXYgfjr6cfP2Z4a1hCP5r"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 184733,
       "name": "serce",
       "url": "https://open.spotify.com/track/1C1z1YoannKXDFP2qZN9Aw"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
-        "name": "Gdzie ten m\u0105\u017c?",
-        "url": "https://open.spotify.com/album/70oAPbmDRlDpTkD8pcaEVC"
-      },
-      "artists": [
-        {
-          "name": "Diiya",
-          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Gdzie ten m\u0105\u017c?",
-      "url": "https://open.spotify.com/track/395u35244oqIxioRGgBFiQ"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "HALO?",
-        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
-      },
-      "artists": [
-        {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
-        }
-      ],
-      "duration_ms": 128321,
-      "name": "HALO?",
-      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "Dotknij",
         "url": "https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 154736,
       "name": "Dotknij",
       "url": "https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "HALO?",
+        "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 128321,
+      "name": "HALO?",
+      "url": "https://open.spotify.com/track/7jOOHCWvNYb2oDJ4F2CVry"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "grudzie\u0144",
-        "url": "https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 142479,
-      "name": "grudzie\u0144",
-      "url": "https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "Sztorm",
         "url": "https://open.spotify.com/album/5skJjjAuikeP6B7iowZvai"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 206843,
       "name": "Sztorm",
       "url": "https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "grudzie\u0144",
+        "url": "https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 142479,
+      "name": "grudzie\u0144",
+      "url": "https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
+        "name": "16m2",
+        "url": "https://open.spotify.com/album/3nPcKLFpyqh1y8sssJUJlz"
+      },
+      "artists": [
+        {
+          "name": "Renata \u015alesicka",
+          "url": "https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae"
+        }
+      ],
+      "duration_ms": 205388,
+      "name": "Co by by\u0142o gdyby",
+      "url": "https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
         "name": "Za t\u0119 mi\u0142o\u015b\u0107",
         "url": "https://open.spotify.com/album/2fI6XtGIkEy0AAqZJwev7o"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "16m2",
-        "url": "https://open.spotify.com/album/3nPcKLFpyqh1y8sssJUJlz"
+        "name": "This too shall pass",
+        "url": "https://open.spotify.com/album/1FZRasPpIPxiqPPXJFz01k"
       },
       "artists": [
         {
-          "name": "Renata \u015alesicka",
-          "url": "https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae"
+          "name": "Stasiek Kukulski",
+          "url": "https://open.spotify.com/artist/2D5HDdUAa64V8lwQFlTOVh"
         }
       ],
-      "duration_ms": 205388,
-      "name": "Co by by\u0142o gdyby",
-      "url": "https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ"
+      "duration_ms": 159323,
+      "name": "This too shall pass",
+      "url": "https://open.spotify.com/track/521BQfcSZETxe1GV9TAbsP"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -1039,42 +1055,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "This too shall pass",
-        "url": "https://open.spotify.com/album/1FZRasPpIPxiqPPXJFz01k"
-      },
-      "artists": [
-        {
-          "name": "Stasiek Kukulski",
-          "url": "https://open.spotify.com/artist/2D5HDdUAa64V8lwQFlTOVh"
-        }
-      ],
-      "duration_ms": 159323,
-      "name": "This too shall pass",
-      "url": "https://open.spotify.com/track/521BQfcSZETxe1GV9TAbsP"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
-        "name": "Dotyk",
-        "url": "https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua"
-      },
-      "artists": [
-        {
-          "name": "NEL",
-          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
-        },
-        {
-          "name": "Hania",
-          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
-        }
-      ],
-      "duration_ms": 135428,
-      "name": "Dotyk",
-      "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 176000,
       "name": "bez zmian",
       "url": "https://open.spotify.com/track/0VPho47aCdrkXNydaikOiR"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "Dotyk",
+        "url": "https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF"
+        },
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        }
+      ],
+      "duration_ms": 135428,
+      "name": "Dotyk",
+      "url": "https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88"
     }
   ],
   "unique_name": "up next",

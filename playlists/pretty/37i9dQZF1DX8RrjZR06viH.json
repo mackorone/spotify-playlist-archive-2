@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159580,
+  "num_followers": 159577,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
+        "name": "Sterkere enn du vet",
+        "url": "https://open.spotify.com/album/1gTASC1XJ4eZEEJoXZAAjn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bredesen Holm",
+          "url": "https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt"
+        }
+      ],
+      "duration_ms": 213124,
+      "name": "Sterkere enn du vet",
+      "url": "https://open.spotify.com/track/0uHY2b4VEAXOxjrz2NwAED"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
         "name": "Can't Let Him Win",
         "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "Sterkere enn du vet",
-        "url": "https://open.spotify.com/album/1gTASC1XJ4eZEEJoXZAAjn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bredesen Holm",
-          "url": "https://open.spotify.com/artist/01yb19FhQ8C9zgSOusKSrt"
-        }
-      ],
-      "duration_ms": 213124,
-      "name": "Sterkere enn du vet",
-      "url": "https://open.spotify.com/track/0uHY2b4VEAXOxjrz2NwAED"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
         "name": "Kanskje det g\u00e5r te helvete",
         "url": "https://open.spotify.com/album/0PEq6f5FdryrgjnQaZxJt8"
       },
@@ -947,6 +947,22 @@
       "duration_ms": 146813,
       "name": "Gjesten p\u00e5 festen",
       "url": "https://open.spotify.com/track/4SzHLgDM3mRV8WAuZXbBRs"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "G\u00e5 bli lykkelig, du",
+        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 187281,
+      "name": "G\u00e5 bli lykkelig, du",
+      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -979,22 +995,6 @@
       "duration_ms": 158511,
       "name": "Volare",
       "url": "https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
-        "name": "G\u00e5 bli lykkelig, du",
-        "url": "https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 187281,
-      "name": "G\u00e5 bli lykkelig, du",
-      "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "What Happened To The Heart? (Deluxe)",
-        "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Hearts Intuition",
-      "url": "https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
         "name": "Ta med deg d\u00f8ra",
         "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 211810,
       "name": "Ta med deg d\u00f8ra",
       "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "What Happened To The Heart? (Deluxe)",
+        "url": "https://open.spotify.com/album/7GnH4NzxlsMd5EijCfUAkM"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Hearts Intuition",
+      "url": "https://open.spotify.com/track/1envNC0ZHjXxqNUaMNSwsH"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
         }
       ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
       "artists": [
         {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
         }
       ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "ETTERGL\u00d8D",
-        "url": "https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3"
-      },
-      "artists": [
-        {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "For alltid",
-      "url": "https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 190405,
       "name": "Finaste s\u00e5 finns",
       "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "ETTERGL\u00d8D",
+        "url": "https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "duration_ms": 241500,
+      "name": "For alltid",
+      "url": "https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
-      },
-      "artists": [
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 187869,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
         "name": "Half Decade Addiction",
         "url": "https://open.spotify.com/album/1FXRSeOagN6b4lsOdvH1ZP"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 273760,
       "name": "Stuck in November",
       "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 187869,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
     },
     {
       "added_at": "2026-03-06 07:45:58",

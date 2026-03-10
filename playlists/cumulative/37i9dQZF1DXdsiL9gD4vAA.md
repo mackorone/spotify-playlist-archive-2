@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-223 songs - 19 hr 53 min
+224 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,11 +86,12 @@
 | [Gum si meri Parchhayi](https://open.spotify.com/track/2onUkx3QJFXINeiBSGSGQR) | [Srinath Nair](https://open.spotify.com/artist/3vkDnAk0pP3gPUuHTpIqBy) | [Gum Si Meri Parchhayi](https://open.spotify.com/album/2AeIh4w4O0pUMy7ksBjzUR) | 4:58 | 2023-09-15 | 2024-03-06 |
 | [Gumshuda](https://open.spotify.com/track/29Av2mRoqWqApghX2BmhdA) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/4lEWszwJldkVUZigfwccng) | 3:48 | 2023-07-19 | 2025-01-01 |
 | [Gumshuda](https://open.spotify.com/track/43sashI4VkUAwNRNxY7r4Y) | [Anindito Paul](https://open.spotify.com/artist/33FFIrervCs60BQjSO8lT6) | [Gumshuda](https://open.spotify.com/album/0WZW8fuex9rJLsHILJVii7) | 3:48 | 2024-02-15 | 2024-04-19 |
-| [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 |  |
+| [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 | 2025-02-11 | 2026-03-10 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 | 2025-01-01 |
 | [Haathon Ki Lakeeron](https://open.spotify.com/track/0n9MV72hcWle7aWcNBZhDA) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/6rXD5EMeUVlTAFviAa6GOy) | 7:24 | 2024-02-15 | 2024-04-19 |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/50BxNNhj65O32shF7cpKEn) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Hai Isi Mein Pyar Ki Aabru \- Arpita Chakraborty](https://open.spotify.com/album/0HPrmIfIqqYpz3sumFDtGW) | 3:43 | 2024-04-18 |  |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/2UaGnopu3HmCVlJ0lHfQHE) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk), [Pushkar Jog](https://open.spotify.com/artist/2tKnS5nS5NOk2VIMTN7OjA) | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/album/56hiuxLFq78Jj10Ts0iNEg) | 3:43 | 2023-03-02 | 2024-04-19 |
+| [Hamara Dil](https://open.spotify.com/track/4MYjT0f53X3XW3Qcwj2085) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Hamara Dil](https://open.spotify.com/album/7lDXRXTGVhKXHbQUmPsx6q) | 5:15 | 2026-03-09 |  |
 | [Hangama Hai Kiu Barbad](https://open.spotify.com/track/5BLW13IDABVJN5J0dS7AjG) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 8:29 | 2021-12-01 | 2022-07-29 |
 | [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/1M3NqMGpz82MZymh0bJSIx) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 8:36 | 2022-07-26 | 2023-09-16 |
 | [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/33SsZaZgRY8vUI3suEPkEg) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 8:36 | 2022-11-09 | 2022-11-13 |

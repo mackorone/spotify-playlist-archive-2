@@ -6,412 +6,8 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANjIpslR+5OXDzZkkXQyc331TleHy2",
+  "snapshot_id": "AAANqi+U9eKiy6fDVLv3zx8apttRZEYL",
   "tracks": [
-    {
-      "added_at": "2026-02-07 16:20:06",
-      "album": {
-        "name": "Don\u2019t Say No to Hitler",
-        "url": "https://open.spotify.com/album/5tevGfFQVKch83TcdIHbBf"
-      },
-      "artists": [
-        {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
-        }
-      ],
-      "duration_ms": 161374,
-      "name": "Don\u2019t Say No to Hitler",
-      "url": "https://open.spotify.com/track/5pfAfzVMrjNvGP4pa4UIeJ"
-    },
-    {
-      "added_at": "2026-02-06 22:27:10",
-      "album": {
-        "name": "Murder Parade",
-        "url": "https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw"
-      },
-      "artists": [
-        {
-          "name": "FYNN",
-          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
-        }
-      ],
-      "duration_ms": 139493,
-      "name": "Murder Parade",
-      "url": "https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0"
-    },
-    {
-      "added_at": "2026-02-01 22:26:08",
-      "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI"
-      },
-      "artists": [
-        {
-          "name": "Michael Barrow & the Tourists",
-          "url": "https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Over It",
-      "url": "https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5"
-    },
-    {
-      "added_at": "2026-01-20 20:53:01",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/0YGva80Km2kPxFko2KglWD"
-      },
-      "artists": [
-        {
-          "name": "Talking Horses",
-          "url": "https://open.spotify.com/artist/1IY7UHFAiPbjwHxM2lzB06"
-        }
-      ],
-      "duration_ms": 265890,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2px3o5x9yKjcOH0jggvuTh"
-    },
-    {
-      "added_at": "2026-01-20 20:53:09",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/2wkD37IBLLNRoCPfXEMY53"
-      },
-      "artists": [
-        {
-          "name": "Western Jaguar",
-          "url": "https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3"
-        }
-      ],
-      "duration_ms": 180387,
-      "name": "Little Self-Indulgent",
-      "url": "https://open.spotify.com/track/6MIEwxpFDX4AeOhYJejFPv"
-    },
-    {
-      "added_at": "2026-01-20 20:53:41",
-      "album": {
-        "name": "Give In",
-        "url": "https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bawden",
-          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
-        }
-      ],
-      "duration_ms": 212857,
-      "name": "Give In",
-      "url": "https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9"
-    },
-    {
-      "added_at": "2026-01-20 20:54:10",
-      "album": {
-        "name": "Mr. Collision / Awhile Longer",
-        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
-      },
-      "artists": [
-        {
-          "name": "Starikova",
-          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
-        }
-      ],
-      "duration_ms": 301333,
-      "name": "Mr. Collision",
-      "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
-    },
-    {
-      "added_at": "2026-01-22 09:17:18",
-      "album": {
-        "name": "Wishing Me Dead",
-        "url": "https://open.spotify.com/album/6CihvrHXu9YoY9XH9z1o53"
-      },
-      "artists": [
-        {
-          "name": "otobahn",
-          "url": "https://open.spotify.com/artist/3uIcjCMqPqYfn2ColxJhpb"
-        }
-      ],
-      "duration_ms": 306382,
-      "name": "Wishing Me Dead",
-      "url": "https://open.spotify.com/track/68cOf9WYuULrqncSwLynKv"
-    },
-    {
-      "added_at": "2026-01-22 16:52:43",
-      "album": {
-        "name": "Stuck 4 Ever",
-        "url": "https://open.spotify.com/album/0Ab4SlL146rVeC0Dn0QGbl"
-      },
-      "artists": [
-        {
-          "name": "Sophie Valerie",
-          "url": "https://open.spotify.com/artist/7APioRa2ZqrBCG0O9Z6N8b"
-        }
-      ],
-      "duration_ms": 139089,
-      "name": "Stuck 4 Ever",
-      "url": "https://open.spotify.com/track/6IbUHoJ5Kxp86xWB6yuIjx"
-    },
-    {
-      "added_at": "2026-01-22 16:52:56",
-      "album": {
-        "name": "Juvenile",
-        "url": "https://open.spotify.com/album/6mjFTZyrqWIhnRoDsTSbgj"
-      },
-      "artists": [
-        {
-          "name": "Elandra",
-          "url": "https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK"
-        }
-      ],
-      "duration_ms": 178386,
-      "name": "Juvenile",
-      "url": "https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC"
-    },
-    {
-      "added_at": "2026-01-23 10:46:19",
-      "album": {
-        "name": "Archive",
-        "url": "https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH"
-      },
-      "artists": [
-        {
-          "name": "Vann's Nebula",
-          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
-        }
-      ],
-      "duration_ms": 282575,
-      "name": "The Battlefield",
-      "url": "https://open.spotify.com/track/6ZsI0iTfApqX1fFczChBrk"
-    },
-    {
-      "added_at": "2026-01-23 10:46:34",
-      "album": {
-        "name": "Lot 6",
-        "url": "https://open.spotify.com/album/2xlOHmTUeDsLd1p6oED4jO"
-      },
-      "artists": [
-        {
-          "name": "Mavis",
-          "url": "https://open.spotify.com/artist/2qpx3DGtYPLO2upKev1nxG"
-        }
-      ],
-      "duration_ms": 400464,
-      "name": "Lot 6",
-      "url": "https://open.spotify.com/track/1nFBLa9z3aNQReOtonsTFY"
-    },
-    {
-      "added_at": "2026-01-23 10:50:23",
-      "album": {
-        "name": "Hardly Know Her",
-        "url": "https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE"
-      },
-      "artists": [
-        {
-          "name": "Lipstick",
-          "url": "https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv"
-        }
-      ],
-      "duration_ms": 189239,
-      "name": "Hardly Know Her",
-      "url": "https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf"
-    },
-    {
-      "added_at": "2026-02-06 22:27:13",
-      "album": {
-        "name": "Icarus Waltz",
-        "url": "https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4"
-      },
-      "artists": [
-        {
-          "name": "FYNN",
-          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
-        }
-      ],
-      "duration_ms": 168473,
-      "name": "Icarus Waltz",
-      "url": "https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H"
-    },
-    {
-      "added_at": "2026-01-25 11:20:42",
-      "album": {
-        "name": "Can You Hear It? (The Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6P1L2PKg7pE5GJa5Yy1x89"
-      },
-      "artists": [
-        {
-          "name": "The American Hotel System",
-          "url": "https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ"
-        }
-      ],
-      "duration_ms": 266635,
-      "name": "Tripping",
-      "url": "https://open.spotify.com/track/7dX84JjRtlN2M7dVWHFlei"
-    },
-    {
-      "added_at": "2026-01-26 07:54:16",
-      "album": {
-        "name": "lost my love",
-        "url": "https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa!",
-          "url": "https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4"
-        }
-      ],
-      "duration_ms": 201578,
-      "name": "lost my love",
-      "url": "https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E"
-    },
-    {
-      "added_at": "2026-01-28 10:33:51",
-      "album": {
-        "name": "Comisery",
-        "url": "https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC"
-      },
-      "artists": [
-        {
-          "name": "Scott Middlin",
-          "url": "https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "Comisery",
-      "url": "https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it"
-    },
-    {
-      "added_at": "2026-02-07 16:10:01",
-      "album": {
-        "name": "Why Not Try? (Chill)",
-        "url": "https://open.spotify.com/album/4pqYVl020D5Q97Z23o0qUs"
-      },
-      "artists": [
-        {
-          "name": "Patch Habits",
-          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
-        }
-      ],
-      "duration_ms": 156609,
-      "name": "Why Not Try? (Chill)",
-      "url": "https://open.spotify.com/track/6me7V9snB9ymKIcxCthMSt"
-    },
-    {
-      "added_at": "2026-01-28 10:34:50",
-      "album": {
-        "name": "Rooted on the Road",
-        "url": "https://open.spotify.com/album/1S1DoC1rXsONURycia5on5"
-      },
-      "artists": [
-        {
-          "name": "CLANDESTINA",
-          "url": "https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX"
-        }
-      ],
-      "duration_ms": 176923,
-      "name": "Rooted on the Road",
-      "url": "https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip"
-    },
-    {
-      "added_at": "2026-01-28 17:33:46",
-      "album": {
-        "name": "La Ciudad de las Estrellas",
-        "url": "https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE"
-      },
-      "artists": [
-        {
-          "name": "Pablopatodo",
-          "url": "https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA"
-        }
-      ],
-      "duration_ms": 228178,
-      "name": "La Ciudad de las Estrellas",
-      "url": "https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4"
-    },
-    {
-      "added_at": "2026-01-28 17:34:33",
-      "album": {
-        "name": "Beautiful Fear",
-        "url": "https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD"
-      },
-      "artists": [
-        {
-          "name": "Lillibet",
-          "url": "https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe"
-        }
-      ],
-      "duration_ms": 232656,
-      "name": "Beautiful Fear",
-      "url": "https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0"
-    },
-    {
-      "added_at": "2026-02-01 15:31:03",
-      "album": {
-        "name": "The Way It Makes Me Feel",
-        "url": "https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ"
-      },
-      "artists": [
-        {
-          "name": "Penelope",
-          "url": "https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN"
-        }
-      ],
-      "duration_ms": 213438,
-      "name": "The Way It Makes Me Feel",
-      "url": "https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk"
-    },
-    {
-      "added_at": "2026-02-02 15:45:39",
-      "album": {
-        "name": "superficial bliss",
-        "url": "https://open.spotify.com/album/0L2BOFYomdaG0xhNoaoQJ4"
-      },
-      "artists": [
-        {
-          "name": "purr grief",
-          "url": "https://open.spotify.com/artist/23WsCrFd5z85zpuxX6SCQI"
-        }
-      ],
-      "duration_ms": 289955,
-      "name": "in my bones",
-      "url": "https://open.spotify.com/track/6vSNVLse9DXY8U2GUP0UgB"
-    },
-    {
-      "added_at": "2026-02-02 15:45:46",
-      "album": {
-        "name": "Toujours Avec Toi",
-        "url": "https://open.spotify.com/album/4CfUDeION0lbXMiIIWjopW"
-      },
-      "artists": [
-        {
-          "name": "MOON EATER",
-          "url": "https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB"
-        }
-      ],
-      "duration_ms": 101714,
-      "name": "Toujours Avec Toi",
-      "url": "https://open.spotify.com/track/6KCbj9D831CMCWVXSA0I5O"
-    },
-    {
-      "added_at": "2026-02-02 15:46:10",
-      "album": {
-        "name": "Pullin' Teeth (feat. Kevin Rheault)",
-        "url": "https://open.spotify.com/album/5Dv94BiysbvmdCu646Yt6r"
-      },
-      "artists": [
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        },
-        {
-          "name": "Kevin Rheault",
-          "url": "https://open.spotify.com/artist/3zNIChbsnQkpCqnPZfwkUy"
-        }
-      ],
-      "duration_ms": 254446,
-      "name": "Pullin' Teeth (feat. Kevin Rheault)",
-      "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"
-    },
     {
       "added_at": "2026-02-03 00:19:49",
       "album": {
@@ -1751,6 +1347,86 @@
       "duration_ms": 415758,
       "name": "Genie",
       "url": "https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m"
+    },
+    {
+      "added_at": "2026-03-09 16:38:23",
+      "album": {
+        "name": "Unmovable Fires",
+        "url": "https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "duration_ms": 257321,
+      "name": "Unmovable Fires",
+      "url": "https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt"
+    },
+    {
+      "added_at": "2026-03-09 16:38:30",
+      "album": {
+        "name": "Balance Beam",
+        "url": "https://open.spotify.com/album/0sZdU9ijHsmLCCAvruEESL"
+      },
+      "artists": [
+        {
+          "name": "Western Jaguar",
+          "url": "https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Balance Beam",
+      "url": "https://open.spotify.com/track/2is6Cz1SwoK5fGHUWhP8w3"
+    },
+    {
+      "added_at": "2026-03-09 16:38:36",
+      "album": {
+        "name": "Over My Head",
+        "url": "https://open.spotify.com/album/1V8aRGKGIbyTJ17ylo1fzT"
+      },
+      "artists": [
+        {
+          "name": "Aura Davis",
+          "url": "https://open.spotify.com/artist/7phDlcL0THknSVzXipd3Vf"
+        }
+      ],
+      "duration_ms": 159882,
+      "name": "Over My Head",
+      "url": "https://open.spotify.com/track/4clPHM4vzSpKU7nwqgz0LC"
+    },
+    {
+      "added_at": "2026-03-09 16:38:46",
+      "album": {
+        "name": "Atychiphobia",
+        "url": "https://open.spotify.com/album/4sWV1ookrG5cyfB1x0Kozc"
+      },
+      "artists": [
+        {
+          "name": "Patch Habits",
+          "url": "https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ"
+        }
+      ],
+      "duration_ms": 224415,
+      "name": "Atychiphobia",
+      "url": "https://open.spotify.com/track/6tBFBC5Etcyk65r39tFTAj"
+    },
+    {
+      "added_at": "2026-03-09 16:40:17",
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/72boVn8Nvk0ZwxiGwRIHYB"
+      },
+      "artists": [
+        {
+          "name": "FYNN",
+          "url": "https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Comatose",
+      "url": "https://open.spotify.com/track/4IxGpophDYgt0dj6nv4UfF"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

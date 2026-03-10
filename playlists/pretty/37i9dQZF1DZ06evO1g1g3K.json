@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 6816,
+  "num_followers": 6818,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABxfXMG7XjJsPzOseI48yi+",
+  "snapshot_id": "aay8AAAAAABmiQLMYNz7dTRzA9q0X2ca",
   "tracks": [
     {
       "added_at": null,
@@ -783,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "speedrun",
-        "url": "https://open.spotify.com/album/29ZCjRcwhInToOIopeI2Bk"
+        "name": "Raw In Amsterdam (Live)",
+        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
       },
       "artists": [
         {
-          "name": "Solomon Fox",
-          "url": "https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj"
+          "name": "Philip Lassiter",
+          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
         },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 78778,
-      "name": "on the way",
-      "url": "https://open.spotify.com/track/3JDNeF55NncbrcyUpD1VNk"
+      "duration_ms": 291053,
+      "name": "Bump The Man - Live",
+      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raw In Amsterdam (Live)",
-        "url": "https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd"
+        "name": "speedrun",
+        "url": "https://open.spotify.com/album/29ZCjRcwhInToOIopeI2Bk"
       },
       "artists": [
         {
-          "name": "Philip Lassiter",
-          "url": "https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L"
+          "name": "Solomon Fox",
+          "url": "https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj"
         },
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         }
       ],
-      "duration_ms": 291053,
-      "name": "Bump The Man - Live",
-      "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
+      "duration_ms": 78778,
+      "name": "on the way",
+      "url": "https://open.spotify.com/track/3JDNeF55NncbrcyUpD1VNk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,277 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,340 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Break Free](https://open.spotify.com/track/3rWbIR3rJIT0Rpu3iR9ZXg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6dYDqMHA4COCFC0TfCiUCj) | 3:34 |
 | 50 | [Feel Free](https://open.spotify.com/track/13sT3wY8JzF0R3Kc3lUp5l) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [Feel Free](https://open.spotify.com/album/4H9preSHuvOhNVFsKbENPP) | 2:19 |
 
-Snapshot ID: `AAAAAISRfndlyvdudUfKH1LaIWtIM1oI`
+Snapshot ID: `AAAAAAUX+gC6Jb3RBXI+D2dDLmZkimDO`

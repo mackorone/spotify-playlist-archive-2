@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,340 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,355 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 9 | [Hay Poder](https://open.spotify.com/track/3BYSqC25f995dg4Uqwzi9s) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 7:04 |
 | 10 | [Gratitud \- En Vivo](https://open.spotify.com/track/6DSyIGReyQ9M2W6LD6x8FF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 8:24 |
 | 11 | [Blanco y Negro](https://open.spotify.com/track/2m1nDW5217YpVmoTgbuB4H) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
-| 12 | [Obra de Tu Amor \(Alfarero\) \[En Vivo\]](https://open.spotify.com/track/2c6GI6IJj4y8of8a6HeKiE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 10:05 |
-| 13 | [Dios Conmigo Estás](https://open.spotify.com/track/03RTnmDblfMVZReedzgVXZ) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 5:45 |
+| 12 | [Dios Conmigo Estás](https://open.spotify.com/track/03RTnmDblfMVZReedzgVXZ) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 5:45 |
+| 13 | [Obra de Tu Amor \(Alfarero\) \[En Vivo\]](https://open.spotify.com/track/2c6GI6IJj4y8of8a6HeKiE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/6XYbEcqn7QcbLlJbfwdbS2) | 10:05 |
 | 14 | [Tu Reino Está Aquí \- En Vivo](https://open.spotify.com/track/4McmkkXIfdyHY6awDlbRM8) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 5:33 |
 | 15 | [Como En El Cielo](https://open.spotify.com/track/64kR3pwhqotPAFIP1IVMFz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I) | [Como En El Cielo](https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL) | 7:19 |
 | 16 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 10:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 49 | [Una Nueva Historia \- En Vivo](https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás \(En Vivo\)](https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN) | 6:03 |
 | 50 | [Hacedor De Milagros](https://open.spotify.com/track/3cITpsmVQMnBq0RX6EXfEW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 5:42 |
 
-Snapshot ID: `aatqgAAAAABQTS6RFlvQb6Vmg69n1xeZ`
+Snapshot ID: `aay8AAAAAADKcXBG6Fs50O2LCfGWUhRc`

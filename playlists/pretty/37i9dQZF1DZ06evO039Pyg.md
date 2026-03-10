@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 
 > This is Kehlani\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,215 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,235 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO039Pyg.md) - [plain]
 | 44 | [Nunya \(feat\. Dom Kennedy\)](https://open.spotify.com/track/0tkmYNfaEaH9HpR59ApRtE) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 4:04 |
 | 45 | [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 |
 | 46 | [wish i never](https://open.spotify.com/track/5v8oHydXFHM1je05EFyIdw) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:03 |
-| 47 | [Heebiejeebies \- Bonus](https://open.spotify.com/track/32xx0fAv3CIeGmNaWTHvEF) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:40 |
-| 48 | [Playinwitme \(feat\. Kehlani\)](https://open.spotify.com/track/4F1yvJfQ7gJkrcgFJQDjOr) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Light of Mine](https://open.spotify.com/album/2c1ipXPsfn6ylm6PrQNuDU) | 3:11 |
+| 47 | [Playinwitme \(feat\. Kehlani\)](https://open.spotify.com/track/4F1yvJfQ7gJkrcgFJQDjOr) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Light of Mine](https://open.spotify.com/album/2c1ipXPsfn6ylm6PrQNuDU) | 3:11 |
+| 48 | [Heebiejeebies \- Bonus](https://open.spotify.com/track/32xx0fAv3CIeGmNaWTHvEF) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:40 |
 | 49 | [The Way \(feat\. Chance the Rapper\)](https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 4:22 |
 | 50 | [any given sunday \(feat\. blxst\)](https://open.spotify.com/track/4gnrIW6VqlCxVbOSVE50zi) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [blue water road](https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j) | 2:45 |
 
-Snapshot ID: `aatqgAAAAAC1Xb+bDXFS8cv0mGUNLCo9`
+Snapshot ID: `aay8AAAAAADsirIj/rhzBC0eTWo30AQU`

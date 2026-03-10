@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-568 songs - 1 day 9 hr 54 min
+569 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Sans Toi](https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers](https://open.spotify.com/album/02CKprFQaI3f0SCjxNU4Vh) | 3:15 | 2022-07-08 | 2024-04-19 |
 | [Sans toi](https://open.spotify.com/track/2TT8MHvlDdF8iIv59EkApc) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [No Water, No Flowers : Part One \- EP](https://open.spotify.com/album/6tMGm4n8cfIBK0dQw6tM1C) | 3:17 | 2021-01-15 | 2022-07-25 |
 | [Sauver les meubles](https://open.spotify.com/track/2T4JNScUoYDhRSDe1auC5L) | [Catherine Dagenais](https://open.spotify.com/artist/5Jp5qU8P2cPohe5qVShPaq) | [Sauver les meubles](https://open.spotify.com/album/0TJFSzQc9qquAM11aPfbbT) | 4:39 | 2025-10-24 | 2026-01-01 |
+| [Saving Face](https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN) | [Olivia Khoury](https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe) | [Saving Face](https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM) | 4:01 | 2026-03-06 |  |
 | [Saying Something](https://open.spotify.com/track/2lnDQ3UhWyiW74IW8IPB4Q) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 4:16 | 2024-03-08 | 2025-02-15 |
 | [SHouLd I sMiLe?](https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz) | [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [sMiLes](https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ) | 2:54 | 2025-11-14 |  |
 | [Si jamais](https://open.spotify.com/track/6NxtWlb6CoJIJfdfz8VesK) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG) | [Si jamais](https://open.spotify.com/album/3QCebuc5TzgSQTkwXRCCvk) | 3:13 | 2021-01-03\* | 2021-09-26 |
@@ -571,7 +572,7 @@
 | [À travers mes yeux](https://open.spotify.com/track/6IaStSELLqTeLEdl7RPqQZ) | [Geneviève et Alain](https://open.spotify.com/artist/6coTzew0su1zZilZlwA7vX) | [À travers mes yeux](https://open.spotify.com/album/1qx0TPUcHXP5da8FQK5OFh) | 3:24 | 2021-05-04 | 2022-07-29 |
 | [Âme de la rive](https://open.spotify.com/track/0f9QxSOCd537v0z4rFyHr8) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Âme de la rive](https://open.spotify.com/album/0mt9m7lsDx6M6LQEHub1Ud) | 3:27 | 2022-03-25 | 2022-07-29 |
 | [Éclatant](https://open.spotify.com/track/6NbzU506ERsESkya4sLEsf) | [Valérie de l'Est](https://open.spotify.com/artist/7szs7nSft7NHNUN1HmDxiz) | [Éclatant](https://open.spotify.com/album/620muQH916ETrKhCBdOUSP) | 3:05 | 2021-01-03\* | 2021-01-15 |
-| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 |  |
+| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 | 2026-03-10 |
 | [Écoute ma belle](https://open.spotify.com/track/4LTKSuFur0BIYhKRKUf5Eu) | [BronKo](https://open.spotify.com/artist/2JTDfR1rOVr8DO2EEO0SRs) | [Accroche\-toi](https://open.spotify.com/album/0xfoWauBjCYxWkaK8bIhk0) | 4:00 | 2021-01-15 | 2021-10-03 |
 | [Élégie](https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 3:18 | 2023-10-20 | 2023-11-11 |
 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 | 2025-11-14 |  |

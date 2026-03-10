@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mary Middlefield",
-  "num_followers": 46276,
+  "num_followers": 46313,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "Room Service",
-        "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "What\u2019s a Girl Gotta Do?",
-      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "Jeanie",
         "url": "https://open.spotify.com/album/2fnpxMGo4OWwe09ytEYLHi"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 146933,
       "name": "Jeanie",
       "url": "https://open.spotify.com/track/0lAttiAqdooXZsWXdqoYQX"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "Room Service",
+        "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "What\u2019s a Girl Gotta Do?",
+      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "Fotzen an die Macht",
-        "url": "https://open.spotify.com/album/37BxJppK4gPPYJjLNyhX6m"
-      },
-      "artists": [
-        {
-          "name": "6euroneunzig",
-          "url": "https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A"
-        }
-      ],
-      "duration_ms": 128123,
-      "name": "Fotzen an die Macht",
-      "url": "https://open.spotify.com/track/0OAuErdEzls6lPoA6x7sJz"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 181714,
       "name": "Problema",
       "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "Fotzen an die Macht",
+        "url": "https://open.spotify.com/album/37BxJppK4gPPYJjLNyhX6m"
+      },
+      "artists": [
+        {
+          "name": "6euroneunzig",
+          "url": "https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A"
+        }
+      ],
+      "duration_ms": 128123,
+      "name": "Fotzen an die Macht",
+      "url": "https://open.spotify.com/track/0OAuErdEzls6lPoA6x7sJz"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "FU In My Head (Dirty Version)",
-        "url": "https://open.spotify.com/album/2amIiVugmAdVVSv7NxgIXe"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 196415,
-      "name": "FU In My Head - Dirty Version",
-      "url": "https://open.spotify.com/track/5Ps4Inshd22nlX3wbBsYiN"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "ALPHA FEMINIST",
         "url": "https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 154082,
       "name": "ALPHA FEMINIST",
       "url": "https://open.spotify.com/track/3v652Tj4Adys47C76CVON2"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "FU In My Head (Dirty Version)",
+        "url": "https://open.spotify.com/album/2amIiVugmAdVVSv7NxgIXe"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 196415,
+      "name": "FU In My Head - Dirty Version",
+      "url": "https://open.spotify.com/track/5Ps4Inshd22nlX3wbBsYiN"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "sad baddie anthem EP",
-        "url": "https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 137436,
-      "name": "sad baddie anthem",
-      "url": "https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "St\u00fcck f\u00fcr St\u00fcck / Grau",
         "url": "https://open.spotify.com/album/1K34SZ3lGBwifnsQcdcrFx"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 152100,
       "name": "Grau",
       "url": "https://open.spotify.com/track/54uul8HLG0lp8sgOOuFW45"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "sad baddie anthem EP",
+        "url": "https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 137436,
+      "name": "sad baddie anthem",
+      "url": "https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "ZICKZACK",
-        "url": "https://open.spotify.com/album/46vocArEiFAjtgffnrUp73"
-      },
-      "artists": [
-        {
-          "name": "COSIE",
-          "url": "https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF"
-        }
-      ],
-      "duration_ms": 141461,
-      "name": "ZICKZACK",
-      "url": "https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "Nein sagen",
         "url": "https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 144545,
       "name": "Nein sagen",
       "url": "https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "ZICKZACK",
+        "url": "https://open.spotify.com/album/46vocArEiFAjtgffnrUp73"
+      },
+      "artists": [
+        {
+          "name": "COSIE",
+          "url": "https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF"
+        }
+      ],
+      "duration_ms": 141461,
+      "name": "ZICKZACK",
+      "url": "https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/0ndWCyFJSDayhJpTuD0WcU"
-      },
-      "artists": [
-        {
-          "name": "FLOSS",
-          "url": "https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ"
-        }
-      ],
-      "duration_ms": 160963,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/0TtvBY2n755oxFqTGToXCd"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "sonnenmond",
         "url": "https://open.spotify.com/album/50YpoQu7b1nw0GEzdZ1sgN"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 160773,
       "name": "sonnenmond",
       "url": "https://open.spotify.com/track/1eGgZDFHdG7wSpOSiCsBC8"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/0ndWCyFJSDayhJpTuD0WcU"
+      },
+      "artists": [
+        {
+          "name": "FLOSS",
+          "url": "https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ"
+        }
+      ],
+      "duration_ms": 160963,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/0TtvBY2n755oxFqTGToXCd"
     },
     {
       "added_at": "2026-03-06 09:09:52",

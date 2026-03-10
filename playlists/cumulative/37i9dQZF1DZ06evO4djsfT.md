@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 23 min
+96 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Familia](https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Familia](https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa) | 2:50 | 2025-09-01 |  |
 | [Free KayMuni](https://open.spotify.com/track/72ndmYCKcUm9jpqDXCyHmC) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z), [KayMuni](https://open.spotify.com/artist/1OdRfN5lRo8QcMTpFTCtp5), [KB](https://open.spotify.com/artist/6jpQmGxDnk55k0i61iKN3a) | [Thanks For Hating](https://open.spotify.com/album/5s9JCGTwH7cWs8Kt1tANZ7) | 2:56 | 2024-02-25 | 2024-02-29 |
 | [Friends](https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:30 | 2024-02-18 | 2024-08-03 |
+| [Glorious Day](https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 3:19 | 2026-03-10 |  |
 | [Glory 2 Glory](https://open.spotify.com/track/079HT1NAksJHqWfGyonYnl) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory 2 Glory](https://open.spotify.com/album/75lMrbXcpyzH4V1G8uBThP) | 3:07 | 2023-07-08 | 2024-01-21 |
 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 | 2024-01-20 |  |
 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 | 2024-07-29 |  |
@@ -95,7 +96,7 @@
 | [Too God](https://open.spotify.com/track/69M2s5Rm5aLPcCbznvrZnT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:47 | 2023-08-19 | 2024-02-06 |
 | [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 | 2023-03-17 | 2026-02-11 |
 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 | 2023-03-17 |  |
-| [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 | 2023-03-17 |  |
+| [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 | 2023-03-17 | 2026-03-10 |
 | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [One Church Music](https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa) | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp) | 2:51 | 2025-02-09 |  |
 | [Who the Son Sets Free](https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:50 | 2023-08-19 |  |
 | [Wholehearted](https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Wholehearted](https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P) | 3:02 | 2023-03-26 |  |

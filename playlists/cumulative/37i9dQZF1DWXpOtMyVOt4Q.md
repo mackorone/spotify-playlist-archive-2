@@ -4,7 +4,7 @@
 
 > Relaxed beats to game, vibe and stay unbothered
 
-370 songs - 19 hr 19 min
+371 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Atlas](https://open.spotify.com/track/5l3ydjkyj3Q6QmRftWvxDU) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Atlas](https://open.spotify.com/album/6qoLOPbl1OAkFvNT4fmpZM) | 3:05 | 2026-01-27 |  |
 | [Atmosphere](https://open.spotify.com/track/10EPY9wlmI7LLRi3lTsEgk) | [papi.](https://open.spotify.com/artist/0zTABUBaGxFgQDVA8wPkqh) | [Atmosphere](https://open.spotify.com/album/0cNwBKREOg2PtYb5rwMVwa) | 2:49 | 2026-01-29 |  |
 | [Aurality](https://open.spotify.com/track/2iqp6CP9WEVCuTp9a2sJlj) | [Poreniacs](https://open.spotify.com/artist/3UWaMtK5W6hxqll176xaTv) | [Aurality](https://open.spotify.com/album/4JXdHdxxp9HYhFHNXdWntY) | 4:31 | 2026-01-29 |  |
-| [Avocado Toast](https://open.spotify.com/track/2plFlYCQyRuzKbkoH5kTIf) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Avocado Toast](https://open.spotify.com/album/0iHjx8UAoq81Mn95RKOCOq) | 2:26 | 2026-01-29 |  |
+| [Avocado Toast](https://open.spotify.com/track/2plFlYCQyRuzKbkoH5kTIf) | [Metra kit](https://open.spotify.com/artist/7BMNFJ0uJRv7N2n9ONyld3) | [Avocado Toast](https://open.spotify.com/album/0iHjx8UAoq81Mn95RKOCOq) | 2:26 | 2026-01-29 | 2026-03-10 |
 | [Awake](https://open.spotify.com/track/2qC1sUo8xxRRqYsaYEdDuZ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:43 | 2019-12-16 | 2022-07-29 |
 | [Awake](https://open.spotify.com/track/5MhMXTuVODDF234VDvSxQx) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:43 | 2019-12-16 | 2022-09-01 |
 | [Back South](https://open.spotify.com/track/62OIO8DSeWPaxRAXGb4VD6) | [Didi Henric](https://open.spotify.com/artist/6lV1RWdJ0XSM4OxR8QbYyk) | [Back South](https://open.spotify.com/album/1JOUblUjhKl8EmwS0LHsVS) | 2:32 | 2026-01-29 |  |
@@ -267,6 +267,7 @@
 | [Rain](https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP), [Dagamon](https://open.spotify.com/artist/4ogcQDCfs7LYekrb22jhZf) | [Rain](https://open.spotify.com/album/7rjqHXy8vjqXkVp6LOMrXu) | 2:37 | 2023-11-29 | 2025-03-18 |
 | [rainy season](https://open.spotify.com/track/59LPj6cPU3jod22Ai3YFoG) | [Xori](https://open.spotify.com/artist/5e4BMUzdxvt2bedcoBKrjv) | [Slumber Tape](https://open.spotify.com/album/4TtWrCfrifMbXjUeP8vuPo) | 0:52 | 2022-09-29 | 2023-09-09 |
 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 | 2019-12-16 | 2022-09-01 |
+| [Red Signal in the Valley](https://open.spotify.com/track/0KmCLoaHssfEKr19DeomJW) | [Azure Rooms](https://open.spotify.com/artist/6wOyatkq0K10g7yVdniobk) | [Red Signal in the Valley](https://open.spotify.com/album/315BLcM5BZO0F729xhfV27) | 2:10 | 2026-03-09 |  |
 | [Redwood Colonnade](https://open.spotify.com/track/05vvHWyv10tbLT7IPOxBEC) | [Lifeformed](https://open.spotify.com/artist/1fHiTME799pW2QlBG6yNjV) | [Redwood Colonnade](https://open.spotify.com/album/4Lbcu9kjXEMs3jPpovk9mL) | 5:57 | 2022-08-31 | 2023-09-09 |
 | [Reflections](https://open.spotify.com/track/49gFdRRGI5UMHb8j3VnD9x) | [Borrtex](https://open.spotify.com/artist/6FU6gwUc2OBtUA6TVQLo6C) | [Reflections](https://open.spotify.com/album/37rlD3dQQh7guaw5HQrjn1) | 2:17 | 2023-09-08 | 2025-03-18 |
 | [Remember Me As A Time Of Day](https://open.spotify.com/track/3o6RpCtAPejVvTckcd5JVt) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [How Strange, Innocence](https://open.spotify.com/album/2SAI7bmJDf4ExmzaAgXctd) | 5:18 | 2019-12-16 | 2022-07-28 |

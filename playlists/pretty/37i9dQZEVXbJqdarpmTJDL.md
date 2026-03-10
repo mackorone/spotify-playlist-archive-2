@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Greece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,718 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,736 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 | 49 | [Kontra](https://open.spotify.com/track/0dMasOoYB6bpcu35QpScjc) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Apagorevmeno](https://open.spotify.com/album/23T6QbCsClxJ7imMKAKp0G) | 3:52 |
 | 50 | [KATHE MERA](https://open.spotify.com/track/3KotwW6ZXd9CeWc7rS2rWa) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Dani Gambino](https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4), [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy) | [THE DEAL](https://open.spotify.com/album/6MrQVsxWATii7CjY9MDs7n) | 3:42 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

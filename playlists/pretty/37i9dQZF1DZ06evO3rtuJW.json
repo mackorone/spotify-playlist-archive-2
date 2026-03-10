@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35693,
+  "num_followers": 35697,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABNSBCMM7KVU47psEEVwrS0",
+  "snapshot_id": "aay8AAAAAABZynOB5v+sIVMKvUmFS8qQ",
   "tracks": [
     {
       "added_at": null,
@@ -731,30 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
-      },
-      "artists": [
-        {
-          "name": "MudBaby Ru",
-          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
-        },
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 229035,
-      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
-      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sneaky Link Chicago",
         "url": "https://open.spotify.com/album/2lSKyvTSRoWix2gGoqz8Wk"
       },
@@ -775,6 +751,30 @@
       "duration_ms": 120852,
       "name": "Sneaky Link Chicago",
       "url": "https://open.spotify.com/track/1eoBWsU36esCVnmX947nBX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+        "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
+      },
+      "artists": [
+        {
+          "name": "MudBaby Ru",
+          "url": "https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 229035,
+      "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
+      "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whatever U Want",
-        "url": "https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 149578,
-      "name": "Whatever U Want (feat. Jeremih)",
-      "url": "https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 246022,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/0icI5GfDfSYel9RQAnIykR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whatever U Want",
+        "url": "https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 149578,
+      "name": "Whatever U Want (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K"
     }
   ],
   "unique_name": "This Is G Herbo",

@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Alex Sampson",
-  "num_followers": 434134,
+  "num_followers": 434254,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxIr29M4gFVb/c4EQrMFUheHvf7",
+  "snapshot_id": "AAAAAALsySSKWuNC4otCUipPfgqGhirP",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
     },
     {
+      "added_at": "2026-03-09 17:32:23",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "duration_ms": 193236,
+      "name": "I'll come back to you",
+      "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
+    },
+    {
       "added_at": "2026-02-27 05:00:42",
       "album": {
         "name": "Leaving Me Lonely",
@@ -103,6 +119,22 @@
       "duration_ms": 174676,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+    },
+    {
+      "added_at": "2026-03-09 17:32:23",
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/32t0ImhVhPJY8BQf3GpJUR"
+      },
+      "artists": [
+        {
+          "name": "Hutch",
+          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
     },
     {
       "added_at": "2026-02-06 05:50:36",
@@ -1665,26 +1697,6 @@
       "url": "https://open.spotify.com/track/76PSAnoPnMEzF4xmflptce"
     },
     {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Mr Right (with Meghan Trainor)",
-        "url": "https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH"
-      },
-      "artists": [
-        {
-          "name": "Mae Stephens",
-          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 167035,
-      "name": "Mr Right (with Meghan Trainor)",
-      "url": "https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp"
-    },
-    {
       "added_at": "2023-11-10 05:01:00",
       "album": {
         "name": "Big Dumb Heart",
@@ -1699,22 +1711,6 @@
       "duration_ms": 216314,
       "name": "Big Dumb Heart",
       "url": "https://open.spotify.com/track/3T9wo7kdEAOy1h5h7kh5dw"
-    },
-    {
-      "added_at": "2024-02-16 05:01:00",
-      "album": {
-        "name": "SELF/LESS",
-        "url": "https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Creti",
-          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5"
     }
   ],
   "unique_name": "Retro Pop",

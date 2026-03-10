@@ -20469,6 +20469,40 @@
     },
     {
       "album": {
+        "name": "Dichavate",
+        "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246428,
+      "name": "Dichavate",
+      "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -24606,7 +24640,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 229960,
       "name": "Eligete",
       "url": "https://open.spotify.com/track/2R32mSucWolCTZpK59BU6p"
@@ -25768,10 +25802,28 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 209959,
       "name": "Entre t\u00fa y yo",
       "url": "https://open.spotify.com/track/27TI1v4dyYlf4oJPhvZ6N8"
+    },
+    {
+      "album": {
+        "name": "Entre t\u00fa y yo",
+        "url": "https://open.spotify.com/album/0PLwDyWkRzkL00AGBkVjXc"
+      },
+      "artists": [
+        {
+          "name": "Tu Corrido Mx",
+          "url": "https://open.spotify.com/artist/5CUxd4pbcrPzIAplGgp8Lv"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209964,
+      "name": "Entre t\u00fa y yo",
+      "url": "https://open.spotify.com/track/2wmpmKPuCDEtETqn1i6t2A"
     },
     {
       "album": {
@@ -46624,7 +46676,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 172323,
       "name": "Me and my",
       "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
@@ -53164,7 +53216,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 146302,
       "name": "No Es Mi Culpa (Remix)",
       "url": "https://open.spotify.com/track/60iSYaCH7YByeOonVbu77s"
@@ -64662,7 +64714,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 316800,
       "name": "Rich Badness 2.0",
       "url": "https://open.spotify.com/track/0PPhf8ZHy3KWBW5FCiwIrx"
@@ -70552,7 +70604,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 155831,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/3j3V8NhH7pqAgKKGdAWr7e"

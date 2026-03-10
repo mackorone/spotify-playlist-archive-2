@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Shakira & Beéle, Manuel Turizo & Maluma, Juanes, Bad Gyal & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,232 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,287 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [Sad Valentine](https://open.spotify.com/track/7hGOwCENx4DspZO86iFGFC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Sad Valentine](https://open.spotify.com/album/66Vk1sxmGdhGNYTnnJD6k6) | 3:36 |
 | 22 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
 | 23 | [Choque](https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Choque](https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2) | 4:03 |
-| 24 | [UN PIKETON](https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [le f\*llen al miedo](https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi) | 2:27 |
+| 24 | [UN PIKETON](https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [le f\*llen al miedo](https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi) | 2:27 |
 | 25 | [GATA SENSUAL](https://open.spotify.com/track/5NjTcWpLUloHUiXUn64E0v) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [JEREMIAS](https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0) | 2:39 |
 | 26 | [Viral](https://open.spotify.com/track/7d7Y6KWUdpXUyY0o7d2oG2) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [Viral](https://open.spotify.com/album/1eneMpKMy7vEmKaqkusKIL) | 3:17 |
 | 27 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |

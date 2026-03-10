@@ -2,7 +2,7 @@
 
 ### [Indie XL](https://open.spotify.com/playlist/37i9dQZF1DX6MUrG3NBYtM)
 
-> Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock 🔥🤟🏻
+> De beste Indie releases\. Cover: Hiqpy
 
 281 songs - 17 hr 6 min
 
@@ -33,7 +33,7 @@
 | [Bonfire](https://open.spotify.com/track/3lpGGybjyTqkQYKjqpSmlh) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Bonfire](https://open.spotify.com/album/7pjAWJqyjObF9AGVWFRHi3) | 3:49 | 2024-12-19 | 2025-04-26 |
 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 | 2025-09-02 | 2026-02-21 |
 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 | 2025-01-13 | 2025-02-28 |
-| [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 | 2025-10-21 |  |
+| [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 | 2025-10-21 | 2026-03-10 |
 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 | 2026-01-13 |  |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-10-03 | 2025-05-13 |
 | [Canvas Horizon](https://open.spotify.com/track/6HEjAgnF6pPCFFkKpvpIi7) | [JB Meijers](https://open.spotify.com/artist/1uKhiQS1fHFh3VUBR5cm75) | [Canvas Horizon](https://open.spotify.com/album/0YsPsRSo7VaG4EbF0N8XaC) | 3:09 | 2025-07-04 | 2025-08-30 |
@@ -49,7 +49,7 @@
 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2025-01-16 | 2025-08-09 |
 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 | 2024-06-26 | 2024-11-07 |
 | [Dead On The Money](https://open.spotify.com/track/2wQHKNtbt27tIawFXnpsAF) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Dead On The Money](https://open.spotify.com/album/43EzvE87hJGfpZiYcD1HSU) | 2:42 | 2024-06-26 | 2024-10-04 |
-| [Departure](https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:19 | 2025-12-04 | 2026-03-07 |
+| [Departure](https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:19 | 2025-12-04 |  |
 | [Did I Say Too Much](https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Did I Say Too Much](https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn) | 3:08 | 2025-08-29 |  |
 | [Digitaline](https://open.spotify.com/track/6Hmp32UZ6zhekOdlH2qFA9) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Digitaline](https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN) | 4:32 | 2024-10-03 | 2025-03-07 |
 | [Dizzy](https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Dizzy](https://open.spotify.com/album/17gxG3lYgvANFNR8FI7Frp) | 3:53 | 2026-01-30 | 2026-02-21 |

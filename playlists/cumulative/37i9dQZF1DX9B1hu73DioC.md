@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-1,005 songs - 2 day 11 hr 41 min
+1,006 songs - 2 day 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [GARDEN 2 \- Spencer\. Remix](https://open.spotify.com/track/4PTVeseRKeHsJyw3VuOKGS) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3), [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [SLEEP CYCLE Remixes](https://open.spotify.com/album/4WGEDA8ooTjCiOHgWz6sjT) | 1:29 | 2021-06-04 | 2022-06-03 |
 | [Gemini](https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Gemini](https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT) | 4:31 | 2024-11-15 | 2024-12-16 |
 | [Gemini and Leo \- Edit](https://open.spotify.com/track/00aTAUXcHPWUDxupOKMauy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Gemini and Leo](https://open.spotify.com/album/2GWtyxZd4E4kPM98yglBVY) | 3:42 | 2021-06-25 | 2022-07-21 |
+| [Gemini Eyes](https://open.spotify.com/track/6BXUGrMChRpa4jXpUJWseE) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 4:59 | 2026-03-09 |  |
 | [Get Closer](https://open.spotify.com/track/4roBcHq6JZq6FBfbf0k6uF) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Get Closer](https://open.spotify.com/album/1SKAfddsLQC9iKrYq1dAOm) | 3:21 | 2021-06-04 | 2022-07-28 |
 | [Get High](https://open.spotify.com/track/1lfKSD8h3GeCx1VGJ2IyZM) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/0y9F8lNPOSq9tN8lhPwl1I) | 3:42 | 2021-06-04 | 2022-06-15 |
 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 | 2021-05-04 | 2021-06-09 |
@@ -826,7 +827,7 @@
 | [Soul Brother](https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Soul Brother](https://open.spotify.com/album/40n7vb1dukXUKv6uKGLNsv) | 3:49 | 2022-06-28 | 2022-10-15 |
 | [Speaking Sonar](https://open.spotify.com/track/3jNzWIb2btZiF8QxLhUCOL) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Happy Camper](https://open.spotify.com/album/5Aj6dbpCHryCIB9n2pqmwG) | 3:40 | 2022-11-10 | 2022-11-13 |
 | [Speaking Sonar](https://open.spotify.com/track/391urs5Mo2SLm5Cge12K5x) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Speaking Sonar](https://open.spotify.com/album/7Ilx2OLWq4xrqRKRQ0rEm5) | 3:40 | 2020-10-05\* | 2022-04-18 |
-| [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-08-29 |  |
+| [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-08-29 | 2026-03-10 |
 | [spinning](https://open.spotify.com/track/6ZffiEv3Y2eFHktlBBzyyY) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [spinning](https://open.spotify.com/album/3YwzAmxWhq1ojlXPLxqEMN) | 2:27 | 2022-06-01 | 2022-07-29 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-30 | 2023-09-16 |
 | [Stay](https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Stay](https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX) | 4:09 | 2025-08-15 | 2025-11-15 |

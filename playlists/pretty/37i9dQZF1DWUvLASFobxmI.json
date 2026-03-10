@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Varones de Culiac\u00e1n en portada.",
-  "num_followers": 527903,
+  "num_followers": 527962,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "El Ejemplar",
-        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Afectado",
-      "url": "https://open.spotify.com/track/6Yn0bQfVdMLln9vYB31zKc"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "No Soy Vegano",
         "url": "https://open.spotify.com/album/3wplxYtQdvMhXtdvk9mLrv"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 188657,
       "name": "No Soy Vegano",
       "url": "https://open.spotify.com/track/2IHje5bOH9voDLJvwDBK34"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "El Ejemplar",
+        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 141500,
+      "name": "Afectado",
+      "url": "https://open.spotify.com/track/6Yn0bQfVdMLln9vYB31zKc"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Confidencial",
-        "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 175162,
-      "name": "Confidencial",
-      "url": "https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "Toca Disfrutar",
         "url": "https://open.spotify.com/album/6gYmnDCUV6WIB3JoLTxFoZ"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 193220,
       "name": "Toca Disfrutar",
       "url": "https://open.spotify.com/track/7HGqMeJcReCpKZlVMwqIST"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Confidencial",
+        "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 175162,
+      "name": "Confidencial",
+      "url": "https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "El Gran Elemento",
-        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "El Gran Elemento",
-      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "Borrachera Fito Shyruka (En Vivo)",
         "url": "https://open.spotify.com/album/6K8PyaJ2AqlWJ01NNhCyft"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 186133,
       "name": "Las Calles Enlodadas (En Vivo)",
       "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "El Gran Elemento",
+        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "El Gran Elemento",
+      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Que Viva El Amor",
-        "url": "https://open.spotify.com/album/6G0mgUaqGHcBzAoZZVj6r8"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 147022,
-      "name": "Que Viva El Amor",
-      "url": "https://open.spotify.com/track/4qEefGyrhP8ZAcotTWQfYs"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "Las Que M\u00e1s Nos Gustan",
         "url": "https://open.spotify.com/album/2FQeIReMdopM98YBPPyPO7"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 190384,
       "name": "Culpa M\u00eda",
       "url": "https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Que Viva El Amor",
+        "url": "https://open.spotify.com/album/6G0mgUaqGHcBzAoZZVj6r8"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 147022,
+      "name": "Que Viva El Amor",
+      "url": "https://open.spotify.com/track/4qEefGyrhP8ZAcotTWQfYs"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Ecos De Amor",
-        "url": "https://open.spotify.com/album/0vxZoq1wybx9ovrjj0gr4v"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 147750,
-      "name": "Justo En El Cora",
-      "url": "https://open.spotify.com/track/0bkxr2YDc09a2ghJbD2UTe"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "El Corrido De Lamberto",
         "url": "https://open.spotify.com/album/19Eo4ECWtEZRRfODtSPcHp"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 149750,
       "name": "El Corrido De Lamberto",
       "url": "https://open.spotify.com/track/0k6VZw4MiQYGfkoNSZlAqW"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Ecos De Amor",
+        "url": "https://open.spotify.com/album/0vxZoq1wybx9ovrjj0gr4v"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 147750,
+      "name": "Justo En El Cora",
+      "url": "https://open.spotify.com/track/0bkxr2YDc09a2ghJbD2UTe"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Cumbias Pa\u00b4bailar Vol. 2",
-        "url": "https://open.spotify.com/album/4k4oPQQtCT2FvkkcZqAUsm"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 139950,
-      "name": "Hanky Panky",
-      "url": "https://open.spotify.com/track/6au2dwJBy7nsSPZ1VfiZRs"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "Cuando Dijiste Adi\u00f3s",
         "url": "https://open.spotify.com/album/2WKQUyedp7b3torl0iE2o0"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 167000,
       "name": "Cuando Dijiste Adi\u00f3s",
       "url": "https://open.spotify.com/track/65nsPnxHZpJahXy4QfJla2"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Cumbias Pa\u00b4bailar Vol. 2",
+        "url": "https://open.spotify.com/album/4k4oPQQtCT2FvkkcZqAUsm"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 139950,
+      "name": "Hanky Panky",
+      "url": "https://open.spotify.com/track/6au2dwJBy7nsSPZ1VfiZRs"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
         "name": "Tu Carita",
         "url": "https://open.spotify.com/album/0CiF0wSA867u1Tm8a13tJS"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 219130,
       "name": "Tu Carita",
       "url": "https://open.spotify.com/track/0WVjbZKrJvX1pszaQ3Y0pT"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
-        "name": "Loco",
-        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
-      },
-      "artists": [
-        {
-          "name": "Car\u00e1cter Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Selectiva",
-        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/4GOzN7DvclTUBjhD8ACSVe"
       },
       "artists": [
         {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+          "name": "Car\u00e1cter Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/4DftqNbdYhOvaoPN71LPVw"
         }
       ],
-      "duration_ms": 141101,
-      "name": "Selectiva",
-      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
+      "duration_ms": 167303,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4wAJWswAl32MqJ8eQNQUDx"
     },
     {
       "added_at": "2026-03-06 06:00:09",

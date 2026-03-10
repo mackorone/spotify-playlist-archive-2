@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Diary",
+        "url": "https://open.spotify.com/album/75dsAreQtSJNsp2HPw2ViK"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213847,
+      "name": "Diary",
+      "url": "https://open.spotify.com/track/0vhWlFD7OuYack7ubf4srG"
+    },
+    {
+      "album": {
         "name": "Do You Know My Heart",
         "url": "https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 227936,
       "name": "Half Awake",
       "url": "https://open.spotify.com/track/17ggyD7GkCsCmHfrcXn1Hq"
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 205205,
       "name": "Heart, Night",
       "url": "https://open.spotify.com/track/7xjG4pljWEUqSzpy9p1gcj"
@@ -1058,6 +1076,28 @@
       "duration_ms": 228834,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z"
+    },
+    {
+      "album": {
+        "name": "Hide and Seek (feat. kimminseong)",
+        "url": "https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyo Rin",
+          "url": "https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp"
+        },
+        {
+          "name": "kimminseong",
+          "url": "https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224267,
+      "name": "Hide and Seek (feat. kimminseong)",
+      "url": "https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP"
     },
     {
       "album": {
@@ -1180,7 +1220,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "In Other Words",
       "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
@@ -1574,6 +1614,24 @@
       "duration_ms": 200757,
       "name": "love letter",
       "url": "https://open.spotify.com/track/7nFwG3kbSSSYgJtMMNObuQ"
+    },
+    {
+      "album": {
+        "name": "love song",
+        "url": "https://open.spotify.com/album/5MbXbQBOrTmBlCNSIKqjEl"
+      },
+      "artists": [
+        {
+          "name": "Lee Yerin",
+          "url": "https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203658,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz"
     },
     {
       "album": {
@@ -2500,7 +2558,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 224066,
       "name": "They say, that is the love",
       "url": "https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN"
@@ -2572,7 +2630,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 234634,
       "name": "unveil",
       "url": "https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT"

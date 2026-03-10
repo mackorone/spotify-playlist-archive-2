@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-152 songs - 7 hr 21 min
+153 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-14 |  |
 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 | 2025-07-14 | 2025-10-17 |
 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 | 2025-09-20 |  |
+| [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 | 2026-03-09 |  |
 | [Als Ik 't Anders Zou Doen](https://open.spotify.com/track/6a8x5NbgOoAaMDXOojWcwG) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Als Ik 't Anders Zou Doen](https://open.spotify.com/album/42JFmXsiFtbsfZGGh5wjRh) | 2:46 | 2025-07-14 |  |
 | [Als Ik Aan De Laatste Zit](https://open.spotify.com/track/6K18CnzVJB2GImrUaYhFhp) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Als Ik Aan De Laatste Zit](https://open.spotify.com/album/3oKjGiy4uBk4NGraTDv24P) | 2:41 | 2025-11-13 |  |
 | [Altijd Vrijgezel](https://open.spotify.com/track/3AbyKaiTknW5Db0wpens5Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Altijd Vrijgezel](https://open.spotify.com/album/4OgdH30iQ4Bh2mBNNgiyFM) | 3:14 | 2025-07-14 |  |
@@ -113,7 +114,7 @@
 | [Nobody Else \- 2.0](https://open.spotify.com/track/0wT75Em0j2PkWp7Ii6yIew) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Nobody Else \(2.0\)](https://open.spotify.com/album/0St10cKnpnzWxutKJ5FQTW) | 2:51 | 2025-11-06 |  |
 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 | 2025-07-14 |  |
 | [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 | 2025-07-14 | 2026-02-27 |
-| [Ome Jan](https://open.spotify.com/track/4r17Au3EwdeqGWI4XUz2xh) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Ome Jan](https://open.spotify.com/album/2EXV1dnIJEXTJxKdbzt2PX) | 2:34 | 2025-07-14 |  |
+| [Ome Jan](https://open.spotify.com/track/4r17Au3EwdeqGWI4XUz2xh) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Ome Jan](https://open.spotify.com/album/2EXV1dnIJEXTJxKdbzt2PX) | 2:34 | 2025-07-14 | 2026-03-10 |
 | [Pretty Belinda](https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA) | [Lawineboys](https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4), [Rocky Vosse](https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ) | [Pretty Belinda](https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm) | 2:54 | 2025-07-14 |  |
 | [Pure Verleiding](https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Lekker Lekker](https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1) | 3:23 | 2025-07-14 | 2025-08-28 |
 | [Ruud & Mieke](https://open.spotify.com/track/0oen0qWr9cBEbkytniF5gF) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Ruud & Mieke](https://open.spotify.com/album/5ACmcbFkvQUNmthG07qRBw) | 2:45 | 2025-07-14 | 2025-11-14 |

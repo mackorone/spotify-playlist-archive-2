@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61786,
+  "num_followers": 61783,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "A Hundred Dreams from Now",
-        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "A Hundred Dreams from Now",
+        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
       },
       "artists": [
         {
-          "name": "Goblin Quartet",
-          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
         }
       ],
-      "duration_ms": 189500,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
+      "duration_ms": 190200,
+      "name": "Self-Portrait in Three Colors",
+      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/78ccjUQoTpPQNrcF8dSnQQ"
       },
       "artists": [
         {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+          "name": "Goblin Quartet",
+          "url": "https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Self-Portrait in Three Colors",
-      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
+      "duration_ms": 189500,
+      "name": "No Regrets",
+      "url": "https://open.spotify.com/track/7HiCCrUE1ywpWs0wM4TpiP"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -995,6 +995,22 @@
       "duration_ms": 303160,
       "name": "Tranquillity - Remastered 1994",
       "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1031,38 +1047,6 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Trio 99-00",
-        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Trio",
-          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
-        }
-      ],
-      "duration_ms": 343640,
-      "name": "Travels",
-      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 256706,
       "name": "Ernie's Tune",
       "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
+        "name": "Trio 99-00",
+        "url": "https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Trio",
+          "url": "https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv"
+        }
+      ],
+      "duration_ms": 343640,
+      "name": "Travels",
+      "url": "https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+      },
+      "artists": [
+        {
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Good Morning.Goodbye",
+      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
+        "name": "Plays Ballads",
+        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
       },
       "artists": [
         {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
         }
       ],
-      "duration_ms": 336373,
-      "name": "Good Morning.Goodbye",
-      "url": "https://open.spotify.com/track/1PMlAs24OBYlwXF7OeiVYg"
+      "duration_ms": 385219,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Plays Ballads",
-        "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
+        "name": "Out Here",
+        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
       "artists": [
         {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
         }
       ],
-      "duration_ms": 385219,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
+      "duration_ms": 507534,
+      "name": "I Have Dreamed",
+      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1219,22 +1235,6 @@
       "duration_ms": 451155,
       "name": "Does The Sun Really Shine On The Moon",
       "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Out Here",
-        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
-        }
-      ],
-      "duration_ms": 507534,
-      "name": "I Have Dreamed",
-      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
     },
     {
       "added_at": "2026-02-09 02:43:04",

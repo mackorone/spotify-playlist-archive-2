@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Jaxk
 
-288 songs - 15 hr 25 min
+289 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Sikko Mode](https://open.spotify.com/track/3ku0mjWH9dTwAye983lMEQ) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [Silvan](https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw) | [Sikko Mode](https://open.spotify.com/album/6iWNhfwx401EJwuiH7zlr9) | 2:39 | 2025-02-17 |  |
 | [Siruvani Siruvan](https://open.spotify.com/track/4ccdyHi5wvlMlRK1gOcprH) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:31 | 2025-01-06 | 2025-08-13 |
 | [Society Dis](https://open.spotify.com/track/60cNjVatNUaDe3UStNkQxp) | [Umar khan](https://open.spotify.com/artist/6xjg3QO9Mz9c91gdmh6OxF), [Kavipaadum Karigaalan](https://open.spotify.com/artist/74LfH0KRpbWyrktrGHqDxN) | [Society Dis](https://open.spotify.com/album/051MZUI5je4L6dscQpcBvX) | 2:04 | 2026-02-23 |  |
+| [Society Dis](https://open.spotify.com/track/3Mdt4KZV8Vd0Yan8eMZfel) | [Umarkhan](https://open.spotify.com/artist/3okJiew3lsAkRBovskCmUG), [Kavipaadum Karigaalan](https://open.spotify.com/artist/74LfH0KRpbWyrktrGHqDxN) | [Society Dis](https://open.spotify.com/album/254OrQq6pDo9jmFAuzcYny) | 2:04 | 2026-03-09 |  |
 | [Solli Vei](https://open.spotify.com/track/0a3kxt3ENfxvhNRC9MVLCY) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Solli Vei](https://open.spotify.com/album/75674aUkYs4u2joPaL94YK) | 1:53 | 2025-01-27 | 2025-06-07 |
 | [Sollisai Haters](https://open.spotify.com/track/1mh0E5vVsDwSEkeziK7Z3H) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [Sollisai Haters](https://open.spotify.com/album/5fpeLYig2Dlh3DorpVXkfn) | 3:07 | 2025-02-03 | 2026-01-28 |
 | [Sollisai Kaalam](https://open.spotify.com/track/41KyWqoRsspaiFPbSy8ZnC) | [Iraivan](https://open.spotify.com/artist/6N9ejYnP3zgDFAf6TLuNzV) | [Sollisai Kaalam](https://open.spotify.com/album/7u2W7Q1XxLXkKk0ixQ6ia9) | 2:14 | 2025-03-07 | 2025-05-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Gabss
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,483 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,346 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 9 | [Shut It Down](https://open.spotify.com/track/05TXeKZzynUYm5fSlEAo3F) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Shut It Down](https://open.spotify.com/album/3K7bUlbOGrHEaCnHBnAyLh) | 3:06 |
 | 10 | [The Future](https://open.spotify.com/track/3yxh22Dz6EjWgbNzuZ3BXR) | [Dansyn](https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [The Future](https://open.spotify.com/album/40ukBRFRyvM2QpWaDogOGx) | 3:07 |
 | 11 | [Malabaris](https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Mila Journée](https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB) | [Malabaris](https://open.spotify.com/album/6W2NbGfbvj5YlYqhaUWvAc) | 3:06 |
-| 12 | [Every Day](https://open.spotify.com/track/7KUzIkpm84LJaRA8idFPPK) | [Moreira](https://open.spotify.com/artist/2ACuN3n5T0R3T4jnD7opl6), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Every Day](https://open.spotify.com/album/1lZH8ac3SkxVkiKKtDqTB9) | 3:14 |
+| 12 | [Every Day](https://open.spotify.com/track/7KUzIkpm84LJaRA8idFPPK) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [Moreira](https://open.spotify.com/artist/2ACuN3n5T0R3T4jnD7opl6) | [Every Day](https://open.spotify.com/album/1lZH8ac3SkxVkiKKtDqTB9) | 3:14 |
 | 13 | [From Home](https://open.spotify.com/track/4vOIzp5aM7DnxKYuf9wnkn) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [From Home](https://open.spotify.com/album/7kODUfNMQbdbUusMpSSnNh) | 2:54 |
 | 14 | [Acid Britney](https://open.spotify.com/track/0BrT12hdMJx2ypBjEAnCEo) | [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5) | [Acid Britney](https://open.spotify.com/album/6DG3I41RW6nabMl3TWiCcn) | 3:45 |
 | 15 | [Gaita Killa](https://open.spotify.com/track/2fCBVU0AAba9GgJ2PhkneC) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L) | [Gaita Killa](https://open.spotify.com/album/4eBo5OqTKL2Zlc0qZsBFpI) | 2:00 |

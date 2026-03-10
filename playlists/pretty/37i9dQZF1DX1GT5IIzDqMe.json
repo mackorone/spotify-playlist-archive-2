@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 102698,
+  "num_followers": 102710,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Clocks / Low Life / Go",
-        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 334959,
-      "name": "Low Life",
-      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Heavenly Revisited Album",
         "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Clocks / Low Life / Go",
+        "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 334959,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
-      },
-      "artists": [
-        {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
-        }
-      ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Oombah (Kevin Saunderson & Justin Cholewski Remix)",
         "url": "https://open.spotify.com/album/0CgtT4baVe2QEDKOA853DD"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 190947,
       "name": "Oombah - Kevin Saunderson & Justin Cholewski Remix",
       "url": "https://open.spotify.com/track/1KPHiod0TyJGPCAARAKfuS"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+      },
+      "artists": [
+        {
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+        }
+      ],
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53"
       },
@@ -791,22 +811,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "The Album Formerly Known As ...",
-        "url": "https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr"
-      },
-      "artists": [
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
-        }
-      ],
-      "duration_ms": 415759,
-      "name": "A Wonderful Life - Version",
-      "url": "https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Innovator",
         "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
       },
@@ -819,6 +823,22 @@
       "duration_ms": 432586,
       "name": "The Dance",
       "url": "https://open.spotify.com/track/1RxgS5N5HzgFh5YU1SqTYX"
+    },
+    {
+      "added_at": "2025-08-29 04:00:36",
+      "album": {
+        "name": "The Album Formerly Known As ...",
+        "url": "https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 415759,
+      "name": "A Wonderful Life - Version",
+      "url": "https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV"
     },
     {
       "added_at": "2025-08-29 04:00:36",
@@ -871,26 +891,6 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/2qL2XDMFnnmoUWrwUuIEHp"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/6v4tA05iYtUZ7N7l2Nd6HD"
-    },
-    {
-      "added_at": "2025-08-29 04:00:36",
-      "album": {
         "name": "Legendary Adventures Of A Filter King",
         "url": "https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6"
       },
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-08-29 04:00:36",
       "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+        "name": "Neptunes Lair",
+        "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
         }
       ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP"
     }
   ],
   "unique_name": "Detroit Techno",

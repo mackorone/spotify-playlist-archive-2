@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: IVE) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
+  "description": "Let's party & clubbing with your favorite K-pop dance hits! (Cover: ALLDAY PROJECT) \uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
   "name": "K-Pop Dance Party",
   "tracks": [
     {
@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 167652,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa"
@@ -6043,6 +6043,24 @@
     },
     {
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI"
+    },
+    {
+      "album": {
         "name": "Go or Stop?",
         "url": "https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA"
       },
@@ -6464,7 +6482,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 199000,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/69erutIC5E9VFHtDKerTkd"
@@ -7442,6 +7460,24 @@
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
+    },
+    {
+      "album": {
+        "name": "I DON'T BARGAIN",
+        "url": "https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170149,
+      "name": "I DON'T BARGAIN",
+      "url": "https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y"
     },
     {
       "album": {
@@ -12026,7 +12062,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 154000,
       "name": "ROCK THE NATION",
       "url": "https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC"
@@ -14908,6 +14944,24 @@
       "duration_ms": 218680,
       "name": "Turn Back Time - Korean Version",
       "url": "https://open.spotify.com/track/5hXSKNjdAoqKZKOQ95bHYm"
+    },
+    {
+      "album": {
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/3IaJ0e95KRpCWrSNFsnIk7"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Twenty",
+      "url": "https://open.spotify.com/track/5iu6gTajYJEGzF6maepqZd"
     },
     {
       "album": {

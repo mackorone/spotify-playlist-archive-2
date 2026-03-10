@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Israel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,326 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,340 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJ6IpvItkve3.md) - [plain]
 | 49 | [הסוף הזה](https://open.spotify.com/track/3kHrgBnkJFir6PqpmMbzdE) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חלק מהנצח](https://open.spotify.com/album/0jcuylGpmKfQxQFirBkN6F) | 2:56 |
 | 50 | [היא לא יודעת למה](https://open.spotify.com/track/6Ma5wr8hndGkkjsk9rgVKS) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 3](https://open.spotify.com/album/16r1AhCbAHBrumtC2LOKW2) | 3:57 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

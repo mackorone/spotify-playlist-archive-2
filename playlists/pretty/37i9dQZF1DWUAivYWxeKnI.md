@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 
 > Check out the first lineup for Hiphopplaya Festival 2026\. \(힙합플레야 2026의 첫번째 라인업을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,789 likes - 33 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,810 likes - 33 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAivYWxeKnI.md) - [plain]
 | 32 | [Next 2 U](https://open.spotify.com/track/6Qq5N2ZFOSxink8xHHLGbZ) | [OHYUL of LNGSHOT](https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8), [LOUIS of LNGSHOT](https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT) | [4SHOBOIZ MIXTAPE](https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O) | 2:10 |
 | 33 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 
-Snapshot ID: `AAAAACKDL/CxoW24rZRZKAVCC4Ux56sb`
+Snapshot ID: `AAAAANjHvFwlhPlVMR14sWiT2xgUz5H+`

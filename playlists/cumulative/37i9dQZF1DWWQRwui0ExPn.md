@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,708 songs - 12 day 3 hr 39 min
+7,710 songs - 12 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1231,7 +1231,7 @@
 | [Circles](https://open.spotify.com/track/1UmaKp0op9x7VsP4yIe5Ur) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Circles](https://open.spotify.com/album/5BsLieguZSHhwbb20fynci) | 2:00 | 2023-02-07 | 2023-04-13 |
 | [Circles & Triangles](https://open.spotify.com/track/0j8RMp0qccFVYsLMMHa9QZ) | [Fin](https://open.spotify.com/artist/4Gq7sxr6YaGKb4frx5GvCS) | [Summer's Passing](https://open.spotify.com/album/3atNREOeHVEnPNaxnt9Nkf) | 5:26 | 2021-12-17 | 2022-07-01 |
 | [Cirrus](https://open.spotify.com/track/7JkuqDn92pa9SESut3s1iJ) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Cirrus](https://open.spotify.com/album/5YxuepPKvjGJKDREYTdUH4) | 1:48 | 2022-11-11 | 2023-02-14 |
-| [Cirrus](https://open.spotify.com/track/33XnIykJtLAKjfsjmeUsh0) | [Jackcem](https://open.spotify.com/artist/175eRj1lYZUTPJe7Fnvsc8), [Sundaze](https://open.spotify.com/artist/2YxIkLC16Y21afaSqjP9b0) | [Cirrus](https://open.spotify.com/album/7kYQO5Wcl9WJkZJh48l6fQ) | 2:21 | 2025-11-14 |  |
+| [Cirrus](https://open.spotify.com/track/33XnIykJtLAKjfsjmeUsh0) | [Jackcem](https://open.spotify.com/artist/175eRj1lYZUTPJe7Fnvsc8), [Sundaze](https://open.spotify.com/artist/2YxIkLC16Y21afaSqjP9b0) | [Cirrus](https://open.spotify.com/album/7kYQO5Wcl9WJkZJh48l6fQ) | 2:21 | 2025-11-14 | 2026-03-10 |
 | [Ciruela](https://open.spotify.com/track/5IgVgcvWjHoHVRpbLFHKM6) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Veggie / Ciruela](https://open.spotify.com/album/293dAHGV6NhVkaSVkBKq9a) | 1:48 | 2019-06-25 | 2020-02-24 |
 | [City](https://open.spotify.com/track/0C5XacP9YqV9jcINk0Acan) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [City](https://open.spotify.com/album/1SPaiQQtYS04ViMtJKOjze) | 2:05 | 2023-06-20 | 2023-10-06 |
 | [city & river](https://open.spotify.com/track/6gDsiaEOqQwrSEylMP1TGh) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [city & river](https://open.spotify.com/album/6TlnOJLl8TjizlinVJ2AcC) | 2:59 | 2022-02-25 | 2022-07-29 |
@@ -4176,6 +4176,7 @@
 | [Mid Fall](https://open.spotify.com/track/4xTcIDj79egx7K5cfZU8IU) | [Venkman](https://open.spotify.com/artist/6fOoEqg9dvDnE18gnbHqTk), [Low Cap Records](https://open.spotify.com/artist/2JE8UJ1kM38Jut3VGRhyEw) | [Mid Fall](https://open.spotify.com/album/7kgUH9TKxTNNUgMUz7vOW5) | 2:21 | 2023-01-06 | 2023-09-19 |
 | [Mid Stream](https://open.spotify.com/track/5kkIUQ7J3soIcJLjy51mTK) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Mid Stream](https://open.spotify.com/album/6MUillmrBAHtPNSp47TVzE) | 1:28 | 2019-11-22 | 2021-01-21 |
 | [Midas Touch](https://open.spotify.com/track/6azRLNgQGPWCCOkxjaAvxK) | [Peace Attack](https://open.spotify.com/artist/7HE5Ri9gkbRRQtRpmySeB5) | [Midas Touch](https://open.spotify.com/album/33RTfiU7uANAowi1ArstKl) | 2:01 | 2025-01-24 | 2025-02-18 |
+| [Middle](https://open.spotify.com/track/0kDEj1AaXOECRQB78pBEte) | [mellowkey](https://open.spotify.com/artist/09Z4l3yOknUu4wpf2D8CRt) | [Middle](https://open.spotify.com/album/76HR1NxYfV9l4PFNyNUIVV) | 2:00 | 2026-03-09 |  |
 | [middlefine](https://open.spotify.com/track/34hZETf64dYnsWSV39zo69) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [middlefine](https://open.spotify.com/album/3vi2jDYJAqH2lJFye8oLsK) | 2:08 | 2023-12-08 | 2024-01-26 |
 | [Midnight](https://open.spotify.com/track/2wHblxjaEJXc59Uqa6QDpJ) | [Bhxa](https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4) | [Midnight](https://open.spotify.com/album/52XzW3mUnXhUgJjy3u4tm4) | 1:39 | 2020-08-30 | 2021-10-02 |
 | [Midnight](https://open.spotify.com/track/5GbTwVVmFQKawH8S52XYXx) | [m.sorlii](https://open.spotify.com/artist/5yZq1pWTwP9YNCbuCBfROH) | [Midnight](https://open.spotify.com/album/4MnYZwTa0HWZm5yyIxfCOI) | 2:10 | 2022-12-16 | 2023-09-19 |
@@ -4823,7 +4824,7 @@
 | [Old Shoe Dreams](https://open.spotify.com/track/0NO9VHwfvXUQDgvh9aRacG) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Old Shoe Dreams](https://open.spotify.com/album/0qqDozkEvIXaytPt0uClE9) | 1:55 | 2024-01-26 | 2024-11-09 |
 | [Old Times Sake](https://open.spotify.com/track/1XxcQruZis1cpBl7gHMuKb) | [Mila Coolness](https://open.spotify.com/artist/3gdyXwWMfOPBIZrIDMg40u) | [Old Times Sake](https://open.spotify.com/album/60EFaaa4c9vHEnyf9k1wRu) | 2:01 | 2020-06-17 | 2020-06-18 |
 | [old town](https://open.spotify.com/track/4U8M7EqFBzWJhMAt0WNNpW) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [old town](https://open.spotify.com/album/5XqHvFz1Ad002NjTCCeZIe) | 2:57 | 2023-01-20 | 2024-03-22 |
-| [old town](https://open.spotify.com/track/0BqvAQ50n7lOKvUyGUzORU) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Dryden](https://open.spotify.com/artist/49THH4OZsjvk5CNT714qwq) | [old town](https://open.spotify.com/album/17HCOPaufj8ewuOF5bUOy7) | 1:58 | 2026-02-20 |  |
+| [old town](https://open.spotify.com/track/0BqvAQ50n7lOKvUyGUzORU) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Dryden](https://open.spotify.com/artist/49THH4OZsjvk5CNT714qwq) | [old town](https://open.spotify.com/album/17HCOPaufj8ewuOF5bUOy7) | 1:58 | 2026-02-20 | 2026-03-10 |
 | [old warmth](https://open.spotify.com/track/0xmIjK3LzR6yKyDgf7Fix2) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [old warmth](https://open.spotify.com/album/5cVZ02ARoQRezmhJ5cHCMY) | 2:16 | 2026-02-20 |  |
 | [oldkeys](https://open.spotify.com/track/6Dle7iZGTOyVzbxpvsKTi1) | [Analogue Alf](https://open.spotify.com/artist/4FVJdMWSQhn3zO1NKxMHAi) | [oldkeys](https://open.spotify.com/album/2OcgzCWKFUbQ1jnY8Rlaw0) | 2:05 | 2025-08-22 |  |
 | [Oldskool Issues](https://open.spotify.com/track/4RhQHgFjRNWuXppg40atRp) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Oldskool Issues](https://open.spotify.com/album/2LlZvNwkPyYFLOIgwxz2Uf) | 2:13 | 2022-06-24 | 2022-10-14 |
@@ -6528,6 +6529,7 @@
 | [Surfers](https://open.spotify.com/track/6pd7isen3laRosGGruyrEC) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Surfers](https://open.spotify.com/album/3woH9R5I6JV5X1Dk0trrLk) | 2:13 | 2024-11-29 | 2025-01-11 |
 | [Surfin](https://open.spotify.com/track/2PbLCY7k7q1P9rbqqtc5fL) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Surfin](https://open.spotify.com/album/1zu0i6FjpoBr9D73h3fAUt) | 1:52 | 2025-06-06 | 2025-06-20 |
 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 | 2023-11-10 | 2025-04-19 |
+| [surprises](https://open.spotify.com/track/3nB9iaahACvJnJbwS1kKpC) | [marigold](https://open.spotify.com/artist/4UPrESsUKf7K2iGxO1mSwc) | [surprises](https://open.spotify.com/album/6SKotDJ1g42rOZcrvQSpby) | 2:17 | 2026-03-09 |  |
 | [Surreal](https://open.spotify.com/track/0s3WYGajXAcIufs12otFiC) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Surreal](https://open.spotify.com/album/4fv2vJWa2WHVXuvPu0ASjf) | 2:02 | 2025-12-05 | 2026-02-28 |
 | [Survival](https://open.spotify.com/track/0f9hjKIkQqW6IVrX3CMuof) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Survival](https://open.spotify.com/album/6gbpld3gTD8mNXRfSvMLoC) | 2:32 | 2023-11-10 | 2025-04-19 |
 | [Survivors](https://open.spotify.com/track/1CNLGKbPPRdmGOgEuCioOR) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 1:17 | 2021-05-20 | 2022-03-12 |

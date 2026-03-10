@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 71669,
+  "num_followers": 71680,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Fiquei assim",
-        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 218662,
-      "name": "Fiquei assim",
-      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
-    },
-    {
-      "added_at": "2026-03-06 13:13:22",
-      "album": {
         "name": "Slap Sessions: Melly (Ao Vivo)",
         "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 166800,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
+    },
+    {
+      "added_at": "2026-03-06 13:13:22",
+      "album": {
+        "name": "Fiquei assim",
+        "url": "https://open.spotify.com/album/6lwP5k0KjFzM2Rk1sIdCfN"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 218662,
+      "name": "Fiquei assim",
+      "url": "https://open.spotify.com/track/4F9xeQ3OJF2DOtdZdcCxnz"
     },
     {
       "added_at": "2026-03-06 13:13:22",

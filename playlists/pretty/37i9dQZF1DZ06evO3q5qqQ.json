@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117500,
+  "num_followers": 117505,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABqbM0KomKBgqCGUL14QSl2",
+  "snapshot_id": "aay8AAAAAACjHJOvbVCRHPVlVBS3Zxnz",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/1X3ShJg4dohHyfZtpbCjER"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/7K0BuHzeAcAVRXqpTKdmWu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CUANDO NADIE LA VE",
         "url": "https://open.spotify.com/album/3eocAlRtj5bR8ogB2TaSsQ"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 146417,
       "name": "CUANDO NADIE LA VE",
       "url": "https://open.spotify.com/track/2UWESgzYXfiraEusfJbFem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/1X3ShJg4dohHyfZtpbCjER"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/7K0BuHzeAcAVRXqpTKdmWu"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "El Yuko (En vivo)",
-      "url": "https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nunca Me Quisiste",
         "url": "https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 152789,
       "name": "Nunca Me Quisiste",
       "url": "https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "El Yuko (En vivo)",
+      "url": "https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 164257,
-      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
-      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 209157,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 164257,
+      "name": "La Muchacha Del Salado \"La Nicholette\" (En vivo)",
+      "url": "https://open.spotify.com/track/5dgSrp2BNzQXzYblHtzAao"
     },
     {
       "added_at": null,

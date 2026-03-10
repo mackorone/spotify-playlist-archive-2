@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,918 likes - 223 songs - 9 hr 34 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 103,944 likes - 224 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,5 +231,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 221 | [Still Beats For You](https://open.spotify.com/track/76YRDMjSMpiQMOlYzUuoqW) | [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk), [Lind](https://open.spotify.com/artist/2z3Fqz0szSOJdwwIJyOEvf), [Sindri Björnsson](https://open.spotify.com/artist/018VfISw3LqdJuGUluNF70) | [Still Beats For You](https://open.spotify.com/album/6EMLuQB02TXrgL3Vc6ueOb) | 2:03 |
 | 222 | [Following The Sun](https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following The Sun](https://open.spotify.com/album/2ZcEETOWlcn0tLqHpnDTXZ) | 3:26 |
 | 223 | [Clouds](https://open.spotify.com/track/31Y2fjAZ3yPV6gzUpKHyWZ) | [LMNY](https://open.spotify.com/artist/5tF2G0g0z4jVZGVpmR9m3S), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Clouds](https://open.spotify.com/album/5viICibskFftesQNvvyIOh) | 2:16 |
+| 224 | [Hold Me Close](https://open.spotify.com/track/0IwKgvLvEpZWLvuHKTyuzH) | [Nofsky](https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC) | [Hold Me Close](https://open.spotify.com/album/0L1HeQ5H5ut6lfOGt8PUVo) | 2:30 |
 
-Snapshot ID: `AABQeUjVc9tTVs9likAOZcYEtNl6hWP3`
+Snapshot ID: `AABQejg5re4mM+6vVqXK78TWmEwid+eQ`

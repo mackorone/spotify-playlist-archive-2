@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "LOCO",
+        "url": "https://open.spotify.com/album/1wt9sV0augL6XW41Eh5ZPd"
+      },
+      "artists": [
+        {
+          "name": "ZIG LA RIME",
+          "url": "https://open.spotify.com/artist/0jqHuiUL9J8FciJNFH2O2N"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/6AtGE0lRtZXQcr7tmKf33n"
+    },
+    {
+      "album": {
         "name": "Lose Your Head",
         "url": "https://open.spotify.com/album/5qBuJBtBBRRwclTgE2x0Q3"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 35851,
+  "num_followers": 35853,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACIsanLD2DgLamBNOqnB1bO",
+  "snapshot_id": "aay8AAAAAADuIhDVCvEPXQh1SDr/li4a",
   "tracks": [
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Django: Radio Recordings 1947",
-        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
+        "name": "Djangologie Vol.2 / 1936 - 1937",
+        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
       },
       "artists": [
         {
@@ -848,29 +848,13 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Eug\u00e8ne V\u00e9es",
-          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
-        },
-        {
-          "name": "Emmanuel Soudieux",
-          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
-        },
-        {
-          "name": "Andr\u00e9 Jourdan",
-          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
-        },
-        {
-          "name": "G\u00e9rard L\u00e9v\u00e9que",
-          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
-        },
-        {
-          "name": "Fred Ermelin",
-          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
         }
       ],
-      "duration_ms": 172993,
-      "name": "I Can't Give You Anything but Love",
-      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
+      "duration_ms": 187133,
+      "name": "After You're Gone",
+      "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
     },
     {
       "added_at": null,
@@ -895,26 +879,6 @@
       "duration_ms": 157840,
       "name": "Ol' Man River",
       "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol.2 / 1936 - 1937",
-        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "After You're Gone",
-      "url": "https://open.spotify.com/track/0gGBsUh6KzomYrr4oQGlHC"
     },
     {
       "added_at": null,
@@ -956,14 +920,6 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Maurice Meunier",
-          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
-        },
-        {
-          "name": "Eddie Bernard",
-          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
-        },
-        {
           "name": "Eug\u00e8ne V\u00e9es",
           "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
         },
@@ -972,29 +928,21 @@
           "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
         },
         {
-          "name": "Jacques Martinon",
-          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
-        }
-      ],
-      "duration_ms": 181009,
-      "name": "Viper's Dream",
-      "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
+          "name": "Andr\u00e9 Jourdan",
+          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
+        },
         {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+          "name": "G\u00e9rard L\u00e9v\u00e9que",
+          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
+        },
+        {
+          "name": "Fred Ermelin",
+          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
         }
       ],
-      "duration_ms": 182866,
-      "name": "My Serenade",
-      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
+      "duration_ms": 172993,
+      "name": "I Can't Give You Anything but Love",
+      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
     },
     {
       "added_at": null,
@@ -1023,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "My Serenade",
+      "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Limitless Jazz, Vol. 32",
         "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
       },
@@ -1039,6 +1003,42 @@
       "duration_ms": 153693,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Django: Radio Recordings 1947",
+        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Maurice Meunier",
+          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
+        },
+        {
+          "name": "Eddie Bernard",
+          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
+        },
+        {
+          "name": "Eug\u00e8ne V\u00e9es",
+          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
+        },
+        {
+          "name": "Emmanuel Soudieux",
+          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
+        },
+        {
+          "name": "Jacques Martinon",
+          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
+        }
+      ],
+      "duration_ms": 181009,
+      "name": "Viper's Dream",
+      "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
     },
     {
       "added_at": null,

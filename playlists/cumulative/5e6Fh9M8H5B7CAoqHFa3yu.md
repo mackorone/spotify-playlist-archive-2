@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,911 songs - 4 day 18 hr 22 min
+1,912 songs - 4 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1768,6 +1768,7 @@
 | [Variaciones Sobre El Ana Becoaj](https://open.spotify.com/track/7345YRwYg0D0hA8hohOIKD) | [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música incidental para teatro](https://open.spotify.com/album/28CBQ2x1QyFzGixal6eWXo) | 4:20 | 2026-01-22 |  |
 | [Vast Sky](https://open.spotify.com/track/5XTzok2PcafTdnG1aJfqch) | [Helen Keeling\-Marston](https://open.spotify.com/artist/54Nc4fNhCbrKoouLdouBNP) | [Vast Sky](https://open.spotify.com/album/3RZsnlh0hOIrzBYzz8f3aF) | 2:45 | 2026-02-06 |  |
 | [Veil of Conformity](https://open.spotify.com/track/4CwF9VIJAKUwa5wOXbzgp3) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 4:45 | 2024-09-25 |  |
+| [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-03-09 |  |
 | [Velvet Coastline](https://open.spotify.com/track/4NqqrbgNXDsevemzHnpiM9) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Velvet Coastline](https://open.spotify.com/album/2lzSDfCayOvMXinKZHEUe5) | 3:09 | 2025-08-08 |  |
 | [VENEZUELA QUERIDA](https://open.spotify.com/track/0TFh5PqPUfRIfL6nKeHoCI) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [VENEZUELA QUERIDA](https://open.spotify.com/album/4oEzaEQtaLnY7FcXUyxpWD) | 4:22 | 2025-07-08 |  |
 | [Vershon](https://open.spotify.com/track/7bMIhgZ8h24RoRISroiyAj) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn), [Sammy Gold](https://open.spotify.com/artist/7iLvlwOs7UWVWw1VNoFa7l) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 3:40 | 2024-05-01 |  |

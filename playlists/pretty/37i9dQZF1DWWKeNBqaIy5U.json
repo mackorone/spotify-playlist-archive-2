@@ -1,6 +1,6 @@
 {
   "description": "The gentle sound of some of the greatest voices and instrumentalists in Jazz. Your Jazz dinner soundtrack. ",
-  "num_followers": 85327,
+  "num_followers": 85342,
   "original_name": "Dinner Jazz",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "A Jazz Portrait Of Frank Sinatra",
         "url": "https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 202133,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4ojZuJ575GlwN2weuWDr8z"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Nice Try",
-        "url": "https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Nice Try",
-      "url": "https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Baby Breeze (Expanded Edition)",
         "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 162733,
       "name": "The Touch Of Your Lips",
       "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Nice Try",
+        "url": "https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Nice Try",
+      "url": "https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Beautiful Sunrise",
-        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
-      },
-      "artists": [
-        {
-          "name": "Arta Porting",
-          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
-        }
-      ],
-      "duration_ms": 291319,
-      "name": "Beautiful Sunrise",
-      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "At Least I Know",
         "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 368388,
       "name": "Lonely Streets",
       "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Beautiful Sunrise",
+        "url": "https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "duration_ms": 291319,
+      "name": "Beautiful Sunrise",
+      "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Leapin' And Lopin'",
-        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 402799,
-      "name": "Deep In A Dream",
-      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Holding Onto Dawn",
         "url": "https://open.spotify.com/album/0JNJYL6httnFWoLYXh6JAE"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS"
+        "name": "Leapin' And Lopin'",
+        "url": "https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm"
       },
       "artists": [
         {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 188546,
-      "name": "The Golden Hour",
-      "url": "https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm"
+      "duration_ms": 402799,
+      "name": "Deep In A Dream",
+      "url": "https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -559,6 +543,22 @@
       "duration_ms": 179161,
       "name": "Love Is Here To Stay",
       "url": "https://open.spotify.com/track/1AGglZcECKcyPu6pJWeez0"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/0EjdDvcwBTbnzU84bUdfSS"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 188546,
+      "name": "The Golden Hour",
+      "url": "https://open.spotify.com/track/3Oix5aCSmnkLIVZVB63tzm"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "You Were Waiting for Me",
-        "url": "https://open.spotify.com/album/2QrbclS2xGo3WDryR5ZD7t"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
       },
       "artists": [
         {
-          "name": "Eight Bar Band",
-          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 248213,
-      "name": "You Were Waiting for Me",
-      "url": "https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza"
+      "duration_ms": 310973,
+      "name": "Where Are You - Remastered",
+      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+        "name": "You Were Waiting for Me",
+        "url": "https://open.spotify.com/album/2QrbclS2xGo3WDryR5ZD7t"
       },
       "artists": [
         {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
         }
       ],
-      "duration_ms": 310973,
-      "name": "Where Are You - Remastered",
-      "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
+      "duration_ms": 248213,
+      "name": "You Were Waiting for Me",
+      "url": "https://open.spotify.com/track/0l368MH8QIJDEHAAqgtxza"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Blue Notes in the Afternoon",
-        "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
-      },
-      "artists": [
-        {
-          "name": "Red Brick Lane",
-          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
-        }
-      ],
-      "duration_ms": 185287,
-      "name": "Blue Notes in the Afternoon",
-      "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 179546,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Blue Notes in the Afternoon",
+        "url": "https://open.spotify.com/album/6EmURthZGIJ8AGIpQSPkof"
+      },
+      "artists": [
+        {
+          "name": "Red Brick Lane",
+          "url": "https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ"
+        }
+      ],
+      "duration_ms": 185287,
+      "name": "Blue Notes in the Afternoon",
+      "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Silky Smooth",
-        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
-      },
-      "artists": [
-        {
-          "name": "Eira Eld",
-          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Silky Smooth",
-      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 193760,
       "name": "Honeysuckle Rose",
       "url": "https://open.spotify.com/track/41Wj6aJKyggH33OYBo3ezY"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Silky Smooth",
+        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
+      },
+      "artists": [
+        {
+          "name": "Eira Eld",
+          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Silky Smooth",
+      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Gerry Mulligan Meets Johnny Hodges",
-        "url": "https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 222360,
-      "name": "What's The Rush",
-      "url": "https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "For Those In Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 271893,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Gerry Mulligan Meets Johnny Hodges",
+        "url": "https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 222360,
+      "name": "What's The Rush",
+      "url": "https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "I gotta run",
-        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
-      },
-      "artists": [
-        {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
-        }
-      ],
-      "duration_ms": 188730,
-      "name": "I gotta run",
-      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Alexandria The Great",
-        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+        "name": "I gotta run",
+        "url": "https://open.spotify.com/album/3X1FnR1QZ0SZ3QkvtXnalG"
       },
       "artists": [
         {
-          "name": "Lorez Alexandria",
-          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
         }
       ],
-      "duration_ms": 325493,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
+      "duration_ms": 188730,
+      "name": "I gotta run",
+      "url": "https://open.spotify.com/track/7BB0KhE9SURfW1v8M826qo"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1395,6 +1379,22 @@
       "duration_ms": 217085,
       "name": "Count Me In",
       "url": "https://open.spotify.com/track/76rD8liEuU0louCpIXDSKv"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "Alexandria The Great",
+        "url": "https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9"
+      },
+      "artists": [
+        {
+          "name": "Lorez Alexandria",
+          "url": "https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
+        "name": "Reimagine",
+        "url": "https://open.spotify.com/album/3jBOhHMWIVsCGsexc7JgGy"
+      },
+      "artists": [
+        {
+          "name": "Megan Wofford",
+          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Nevermore",
+      "url": "https://open.spotify.com/track/4nrB8V4gpLyHcQNDUsMWDJ"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
         "name": "Hello, Young Lovers",
         "url": "https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 238970,
       "name": "Forever and Always",
       "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
-        "name": "Reimagine",
-        "url": "https://open.spotify.com/album/3jBOhHMWIVsCGsexc7JgGy"
-      },
-      "artists": [
-        {
-          "name": "Megan Wofford",
-          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Nevermore",
-      "url": "https://open.spotify.com/track/4nrB8V4gpLyHcQNDUsMWDJ"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg"
+        "name": "Brass/Trio",
+        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
       },
       "artists": [
         {
-          "name": "Arthur Taylor Trio",
-          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
         }
       ],
-      "duration_ms": 205750,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
+      "duration_ms": 270200,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "Brass/Trio",
-        "url": "https://open.spotify.com/album/51xQakHIfX5FVfXTLRcUon"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Manhattan",
-      "url": "https://open.spotify.com/track/6BmigYi3LRJ77xibqSX6OV"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Swingin' Easy",
         "url": "https://open.spotify.com/album/3uja6kKhz0bUcAZ7lTHvju"
       },
@@ -1847,18 +1831,18 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Arthur Taylor Trio",
+          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
         }
       ],
-      "duration_ms": 256386,
-      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
-      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
+      "duration_ms": 205750,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1875,6 +1859,22 @@
       "duration_ms": 278666,
       "name": "I Sing This Song for You",
       "url": "https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
+      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
     },
     {
       "added_at": "2025-02-04 08:46:28",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2025-02-04 08:46:28",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 303240,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/2huX3nzw7aXCaaXiO9kbmu"
-    },
-    {
-      "added_at": "2025-02-04 08:46:28",
-      "album": {
         "name": "Wichita Lineman",
         "url": "https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 307264,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf"
+    },
+    {
+      "added_at": "2025-02-04 08:46:28",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 303240,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/2huX3nzw7aXCaaXiO9kbmu"
     },
     {
       "added_at": "2025-02-04 08:46:28",

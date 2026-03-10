@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50232,
+  "num_followers": 50242,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACgV+n9bF+4V9mh+i+4y2Bh",
+  "snapshot_id": "aay8AAAAAAD6ZgoAdHLBQ61xw6PT1Lyy",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Scream",
+        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 278853,
+      "name": "Jigsaw Feeling",
+      "url": "https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 154066,
+      "name": "Love In A Void",
+      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -596,25 +628,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 278853,
-      "name": "Jigsaw Feeling",
-      "url": "https://open.spotify.com/track/6Mg9BV9tuZyBwKzxx2rHVS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Join Hands",
-        "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 154066,
-      "name": "Love In A Void",
-      "url": "https://open.spotify.com/track/3iDWWZIkshPqItx3wBCiFf"
+      "duration_ms": 170973,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Scream",
-        "url": "https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/48dL6SIUIqTS4XIUYIQBSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kiss In The Dreamhouse",
         "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Swimming Horses",
-      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190253,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Swimming Horses",
+      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
     },
     {
       "added_at": null,

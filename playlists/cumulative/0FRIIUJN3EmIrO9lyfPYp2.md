@@ -4,7 +4,7 @@
 
 > updated with new <a href="https://youtube.com/c/dreamscapeyt">youtube uploads</a>...
 
-806 songs - 1 day 4 hr 4 min
+807 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [don't let it go](https://open.spotify.com/track/4xsPLzqdMp7KBNQKwq1lsf) | [oversly](https://open.spotify.com/artist/0yW83Q0140sPnXTdk9gcyK) | [don't let it go](https://open.spotify.com/album/4dNfStWifetJTMCIspzmqG) | 2:00 | 2026-01-31 |  |
 | [don’t miss the past](https://open.spotify.com/track/3Q9x07VJ0YdCbp6FB2RW5i) | [forworn](https://open.spotify.com/artist/7JfmD7ppQAdkpWbqbGunko), [les](https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi) | [don’t miss the past](https://open.spotify.com/album/0vu7hFBCcNL6c1igwyphNI) | 1:16 | 2025-08-15 |  |
 | [dread](https://open.spotify.com/track/4ZFHuWkeUUPckeer8cPznE) | [hiræth](https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf) | [dread](https://open.spotify.com/album/4h1MstXkjoA8yZLcz2xJuV) | 2:52 | 2025-10-10 |  |
+| [Dream \(Short Version\)](https://open.spotify.com/track/0VsFrYFSfQQKGnGO3A6pgJ) | [Cholosus](https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv) | [Dream](https://open.spotify.com/album/5Z1kpyPx0btNe8O3jZZl1b) | 3:08 | 2026-03-09 |  |
 | [dream dealer](https://open.spotify.com/track/14jHbx8QjBgqjcn2B9TN7X) | [Sorry for the Delay](https://open.spotify.com/artist/0D2lWsYQ8aCg0zAPGydfBl) | [dream dealer](https://open.spotify.com/album/6Y2rMS8ptdZa7dAAEtjQDP) | 2:15 | 2025-07-04 |  |
 | [dream depot](https://open.spotify.com/track/7rmz73HqFI14dI51vzRlqC) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk) | [dream depot](https://open.spotify.com/album/2MUflTgy5RG2lvK18P4x5f) | 1:55 | 2025-01-24 |  |
 | [Dream network](https://open.spotify.com/track/0UbvNAtWgHHS8ClsUXsHAd) | [SÆTA](https://open.spotify.com/artist/2YGX24ACQ6l88HmiuTG39p) | [Dream network](https://open.spotify.com/album/290YufmKus4U4klMMT3z6G) | 2:31 | 2025-10-17 | 2026-01-03 |

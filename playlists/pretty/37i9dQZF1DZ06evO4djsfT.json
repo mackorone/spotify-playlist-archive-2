@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 28375,
+  "num_followers": 28380,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAan3DMFmAE3hKT4hIi2kfY",
+  "snapshot_id": "aay8AAAAAACOJ1ECaAbemVt0uZ9VkIic",
   "tracks": [
     {
       "added_at": null,
@@ -843,6 +843,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just That Good",
+        "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 199065,
+      "name": "Glorious Day",
+      "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santo (HLY FOREVER)",
         "url": "https://open.spotify.com/album/0CxDtqsBJbpiofMCp6MWtf"
       },
@@ -867,26 +911,6 @@
       "duration_ms": 166803,
       "name": "Santo (HLY FOREVER)",
       "url": "https://open.spotify.com/track/6XBH2c7HSzkWGgr5OkziXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
     },
     {
       "added_at": null,
@@ -987,26 +1011,6 @@
       "duration_ms": 228705,
       "name": "God Be The Glory (Remix)",
       "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The End.",
-        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO"
     }
   ],
   "unique_name": "This Is KB",

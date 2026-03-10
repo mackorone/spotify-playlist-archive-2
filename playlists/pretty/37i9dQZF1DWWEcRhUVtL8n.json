@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Carol Ades",
-  "num_followers": 1673437,
+  "num_followers": 1673405,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lady Lady",
-      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lady Lady",
+      "url": "https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -487,18 +487,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Dancer",
-        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 180117,
-      "name": "Dancer",
-      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "L.U.C.K.Y",
         "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 138706,
       "name": "L.U.C.K.Y",
       "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+        "name": "Equus Caballus",
+        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
+      "duration_ms": 207500,
+      "name": "Carried Away",
+      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Equus Caballus",
-        "url": "https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3"
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
       },
       "artists": [
         {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Carried Away",
-      "url": "https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD"
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "terrible4u",
-        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
-      },
-      "artists": [
-        {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
-        }
-      ],
-      "duration_ms": 198092,
-      "name": "terrible4u",
-      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "This Is The World (I Made It For You) / Nice Day",
         "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 281786,
       "name": "This Is The World (I Made It For You)",
       "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "Ants In My Room",
         "url": "https://open.spotify.com/album/6I5iKc3l7io2v55H7Ho0NZ"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 139363,
       "name": "Roamer",
       "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Would You Go Down On A Girl? (Deluxe)",
-        "url": "https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
-        }
-      ],
-      "duration_ms": 221152,
-      "name": "Silverlake Baby",
-      "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/3LPzHubHMTywYtKhF1beHW"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 189107,
       "name": "the punisher",
       "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Would You Go Down On A Girl? (Deluxe)",
+        "url": "https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 221152,
+      "name": "Silverlake Baby",
+      "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "I Hope You Don't Remember Me",
-        "url": "https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "I Hope You Don't Remember Me",
-      "url": "https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Hi My Love",
         "url": "https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Cool",
-        "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
+        "name": "I Hope You Don't Remember Me",
+        "url": "https://open.spotify.com/album/4iwwNDtoPunaFnao5lXJAH"
       },
       "artists": [
         {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
         }
       ],
-      "duration_ms": 158688,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d"
+      "duration_ms": 205500,
+      "name": "I Hope You Don't Remember Me",
+      "url": "https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1595,6 +1579,22 @@
       "duration_ms": 147106,
       "name": "Texas Baby",
       "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Cool",
+        "url": "https://open.spotify.com/album/1XzMeqhaGgkMHlKsKUQo8y"
+      },
+      "artists": [
+        {
+          "name": "Nxdia",
+          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
+        }
+      ],
+      "duration_ms": 158688,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/6vCi3BwPeOqfwUHP6krV5d"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1635,38 +1635,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "the apple tree under the sea",
-        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 333956,
-      "name": "be the girl!",
-      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "Blame it on You",
-        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
-      },
-      "artists": [
-        {
-          "name": "Ally Evenson",
-          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
-        }
-      ],
-      "duration_ms": 185318,
-      "name": "Blame it on You",
-      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Maybe I'm the Reason / Be Cool",
         "url": "https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd"
       },
@@ -1683,6 +1651,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "the apple tree under the sea",
+        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 333956,
+      "name": "be the girl!",
+      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "Little House",
         "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 246696,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Blame it on You",
+        "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
+      },
+      "artists": [
+        {
+          "name": "Ally Evenson",
+          "url": "https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y"
+        }
+      ],
+      "duration_ms": 185318,
+      "name": "Blame it on You",
+      "url": "https://open.spotify.com/track/3pbMaEhDQyiOR9y3i0vibJ"
     }
   ],
   "unique_name": "Indie Pop",

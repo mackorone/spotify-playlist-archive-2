@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 320148,
+  "num_followers": 320241,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACMnAtoxO9IsQV/Z2Rps7T5",
+  "snapshot_id": "aay8AAAAAAD+xjoENhAiRtUVc8e4QaLw",
   "tracks": [
     {
       "added_at": null,
@@ -174,15 +174,11 @@
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 130969,
-      "name": "Priti",
-      "url": "https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1"
+      "duration_ms": 197276,
+      "name": "Crayola",
+      "url": "https://open.spotify.com/track/6cWhEExHUKZR3boz4yC2Mf"
     },
     {
       "added_at": null,
@@ -250,11 +246,15 @@
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 197276,
-      "name": "Crayola",
-      "url": "https://open.spotify.com/track/6cWhEExHUKZR3boz4yC2Mf"
+      "duration_ms": 130969,
+      "name": "Priti",
+      "url": "https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ESA NOCHE TERMIN\u00d3 DE D\u00cdA",
-        "url": "https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "3AM - TE 100PRE",
-      "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ESA NOCHE TERMIN\u00d3 DE D\u00cdA",
+        "url": "https://open.spotify.com/album/685PBfRH0QRFMf7ieMAOYv"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "3AM - TE 100PRE",
+      "url": "https://open.spotify.com/track/36VDFqRKppSVbrCo23SC6p"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Epa Wei",
+        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 208253,
+      "name": "Epa Wei",
+      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -611,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epa Wei",
-        "url": "https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x"
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
       "artists": [
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 208253,
-      "name": "Epa Wei",
-      "url": "https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn"
+      "duration_ms": 309615,
+      "name": "Las estrellas / Si tu me love me",
+      "url": "https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8"
     },
     {
       "added_at": null,
@@ -663,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 309615,
-      "name": "Las estrellas / Si tu me love me",
-      "url": "https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emeyc\u00e9",
         "url": "https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal"
       },
@@ -699,6 +699,26 @@
       "duration_ms": 176222,
       "name": "Emeyc\u00e9",
       "url": "https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 149787,
+      "name": "T\u00fa no me conoces",
+      "url": "https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3"
     },
     {
       "added_at": null,
@@ -739,62 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 149787,
-      "name": "T\u00fa no me conoces",
-      "url": "https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 200278,
-      "name": "EIVISSA",
-      "url": "https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 197366,
-      "name": "No te enamores de \u00e9l",
-      "url": "https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "venequia.",
         "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
       },
@@ -823,6 +787,42 @@
       "duration_ms": 148791,
       "name": "Istanbul",
       "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 197366,
+      "name": "No te enamores de \u00e9l",
+      "url": "https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 200278,
+      "name": "EIVISSA",
+      "url": "https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2"
     },
     {
       "added_at": null,

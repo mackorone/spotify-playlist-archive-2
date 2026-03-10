@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 186420,
+  "num_followers": 186468,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADG7VMfVBQk5TkR7M3I+3H5",
+  "snapshot_id": "aay8AAAAAADqpPT9rcEZnITYf7P322M9",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Ti Depende (Remastered 2024)",
+        "url": "https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 405063,
+      "name": "Peri\u00f3dico de Ayer - Remastered 2024",
+      "url": "https://open.spotify.com/track/2w780pCHPCVOVo32GxSeXp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -143,26 +159,6 @@
       "duration_ms": 306640,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Ah-Ah / O-No",
-      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
       "added_at": null,
@@ -187,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
       "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 411653,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0qoQy26r8DWxTH5XWAmnc8"
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
       "added_at": null,
@@ -215,26 +215,6 @@
       "duration_ms": 392653,
       "name": "Escarcha",
       "url": "https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": null,
@@ -303,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 286000,
       "name": "Ella Minti\u00f3",
       "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 321480,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
       "duration_ms": 345600,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 321480,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/7DKDyvd7sV0hN9KrLWRag4"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+        "name": "La Voz (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 260053,
-      "name": "El Todopoderoso",
-      "url": "https://open.spotify.com/track/0fgfI2A3U4rz9cEaWKVskV"
+      "duration_ms": 263202,
+      "name": "El Todopoderoso - Remastered 2023",
+      "url": "https://open.spotify.com/track/7vNpiUDccd3Cxz3R4bJRcc"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
       "duration_ms": 295480,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "So\u00f1ando Despierto",
-      "url": "https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 338013,
       "name": "Juana Pe\u00f1a",
       "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "So\u00f1ando Despierto",
+      "url": "https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 275480,
-      "name": "De Ti Depende",
-      "url": "https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Comedia",
         "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 470280,
       "name": "Songoro Cosongo",
       "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 275480,
+      "name": "De Ti Depende",
+      "url": "https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -871,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Que Sentimiento!",
-        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
       },
       "artists": [
         {
@@ -880,9 +864,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 366586,
-      "name": "\u00c9l Son",
-      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
+      "duration_ms": 215466,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc"
     },
     {
       "added_at": null,
@@ -903,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+        "name": "\u00a1Que Sentimiento!",
+        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
       },
       "artists": [
         {
@@ -912,9 +896,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 165253,
-      "name": "Consejo De Oro",
-      "url": "https://open.spotify.com/track/7DlwfBB4NQDQEn88FefveR"
+      "duration_ms": 366586,
+      "name": "\u00c9l Son",
+      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
     },
     {
       "added_at": null,
@@ -935,6 +919,22 @@
       "duration_ms": 431857,
       "name": "No Me Den Candela - Remastered 2025",
       "url": "https://open.spotify.com/track/2B69mVmaUZqzL3XrklfgKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "Consejo De Oro",
+      "url": "https://open.spotify.com/track/7DlwfBB4NQDQEn88FefveR"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

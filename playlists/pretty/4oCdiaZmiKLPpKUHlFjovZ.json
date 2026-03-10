@@ -1,13 +1,33 @@
 {
   "description": "Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.",
-  "num_followers": 34000,
+  "num_followers": 33994,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAcE1+YLcUfp5+LkNPviVftGTj9/xcX",
+  "snapshot_id": "AAAcFcAQhM37IJGvlNBxwYtFlX8gzQC8",
   "tracks": [
+    {
+      "added_at": "2026-03-09 21:01:01",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
+    },
     {
       "added_at": "2026-01-12 18:13:08",
       "album": {

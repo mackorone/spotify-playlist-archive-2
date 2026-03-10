@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 63217,
+  "num_followers": 63256,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADWhukNFkSw8LWkisowNYli",
+  "snapshot_id": "aay8AAAAAAB81KNBQ0g+w6yta2syN+Q9",
   "tracks": [
     {
       "added_at": null,
@@ -64,21 +64,17 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 201463,
-      "name": "Last Of My Kind (feat. Paul Cauthen)",
-      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
+      "duration_ms": 224264,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
     },
     {
       "added_at": null,
@@ -144,17 +140,21 @@
       "added_at": null,
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 224264,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA"
+      "duration_ms": 201463,
+      "name": "Last Of My Kind (feat. Paul Cauthen)",
+      "url": "https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX"
     },
     {
       "added_at": null,

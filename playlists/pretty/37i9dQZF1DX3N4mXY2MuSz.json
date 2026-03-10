@@ -1,6 +1,6 @@
 {
   "description": "Holiday classics from your favourite punks. ",
-  "num_followers": 91348,
+  "num_followers": 91335,
   "original_name": "Punk Christmas",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Merry MeX-mas",
-        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
-      },
-      "artists": [
-        {
-          "name": "El Vez",
-          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Christmas With Weezer",
         "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 92706,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Merry MeX-mas",
+        "url": "https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4"
+      },
+      "artists": [
+        {
+          "name": "El Vez",
+          "url": "https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "A More Angry Than Naughty Kamakazi Christmas",
-        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
+        "name": "Under the Mistletoe",
+        "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
       "artists": [
         {
-          "name": "A Kamakazi Christmas",
-          "url": "https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR"
+          "name": "Masked Intruder",
+          "url": "https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc"
         }
       ],
-      "duration_ms": 52250,
-      "name": "It's Beginning to Look a Lot Like Shitmas",
-      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
+      "duration_ms": 178228,
+      "name": "Under the Mistletoe",
+      "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Under the Mistletoe",
-        "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
+        "name": "A More Angry Than Naughty Kamakazi Christmas",
+        "url": "https://open.spotify.com/album/7DePbGU4XWeHyq2UDG03Hk"
       },
       "artists": [
         {
-          "name": "Masked Intruder",
-          "url": "https://open.spotify.com/artist/4qUFkkArfii3qNG8TnbPfc"
+          "name": "A Kamakazi Christmas",
+          "url": "https://open.spotify.com/artist/3o8sKHj7c3YQdv4fP3ydNR"
         }
       ],
-      "duration_ms": 178228,
-      "name": "Under the Mistletoe",
-      "url": "https://open.spotify.com/track/6gFVxwYlHoyb92OrMnNmcR"
+      "duration_ms": 52250,
+      "name": "It's Beginning to Look a Lot Like Shitmas",
+      "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas is Canceled",
-        "url": "https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM"
-      },
-      "artists": [
-        {
-          "name": "Bankrupt",
-          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "Christmas is Canceled",
-      "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Under the Mistletoe",
         "url": "https://open.spotify.com/album/5N5QnwWp79kzpJopeezGjG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 153836,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/6gnNYcp6JfcOmX7itB8Mqy"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas is Canceled",
+        "url": "https://open.spotify.com/album/0W3Rce2VKK8iCR3J8miSMM"
+      },
+      "artists": [
+        {
+          "name": "Bankrupt",
+          "url": "https://open.spotify.com/artist/2bIRzxO8MZcdBb3jiVFL3g"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "Christmas is Canceled",
+      "url": "https://open.spotify.com/track/5HitvKDNwqa9yuUfB3qTca"
     },
     {
       "added_at": "2023-11-18 13:41:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-18 13:41:26",
       "album": {
-        "name": "Christmas Cards",
-        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
-      },
-      "artists": [
-        {
-          "name": "Spoke Too Soon",
-          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
-        }
-      ],
-      "duration_ms": 246074,
-      "name": "Christmas Cards",
-      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
-    },
-    {
-      "added_at": "2023-11-18 13:41:26",
-      "album": {
         "name": "Single All the Way",
         "url": "https://open.spotify.com/album/2ELrF257DBvEtUnYqPqRVa"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 195131,
       "name": "Single All the Way",
       "url": "https://open.spotify.com/track/2xt5i2X4YhPqTb5sQc9heQ"
+    },
+    {
+      "added_at": "2023-11-18 13:41:26",
+      "album": {
+        "name": "Christmas Cards",
+        "url": "https://open.spotify.com/album/2E7KrXv1U2crrcsAy4zb2R"
+      },
+      "artists": [
+        {
+          "name": "Spoke Too Soon",
+          "url": "https://open.spotify.com/artist/3oARFNb8lJnqLCubtq2yMx"
+        }
+      ],
+      "duration_ms": 246074,
+      "name": "Christmas Cards",
+      "url": "https://open.spotify.com/track/57G4NV9ikiRyr78EanfSNv"
     },
     {
       "added_at": "2023-11-18 13:41:26",

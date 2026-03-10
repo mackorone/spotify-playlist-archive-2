@@ -4,7 +4,7 @@
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Скажи щось погане
 
-596 songs - 1 day 7 hr 17 min
+597 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [А якщо чесно](https://open.spotify.com/track/5MbTzZQ6X9fFXYwYSpwRQl) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [А якщо чесно](https://open.spotify.com/album/6C2eblKLTDVdytchtS2Alh) | 3:51 | 2024-11-07 | 2025-02-13 |
 | [Автомагістралі](https://open.spotify.com/track/1TyGIDpK57pPdg6u9Zlg5j) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Автомагістралі](https://open.spotify.com/album/4Z38v7Ak824Riy62zQm1EQ) | 3:21 | 2024-06-27 | 2025-03-18 |
 | [Айстри](https://open.spotify.com/track/1NiB0lmZ7KUnDspnZjYr5H) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [La Dame Blanche](https://open.spotify.com/album/5RGMLdor9nnZCQVRk11vZb) | 2:48 | 2024-06-27 | 2024-10-05 |
-| [Акула](https://open.spotify.com/track/3vt6lhcsk3Cnobd0YmZM8h) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Акула](https://open.spotify.com/album/1lpSIisfy6b1BpnruBZEjH) | 4:26 | 2025-12-09 |  |
+| [Акула](https://open.spotify.com/track/3vt6lhcsk3Cnobd0YmZM8h) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Акула](https://open.spotify.com/album/1lpSIisfy6b1BpnruBZEjH) | 4:26 | 2025-12-09 | 2026-03-10 |
 | [Амбівалентний](https://open.spotify.com/track/1lfupPeDhugwiT00Citb0q) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [Що спільного між вороном і кроликом?](https://open.spotify.com/album/3zSZmZsFb91EjRb6BicuFq) | 2:19 | 2024-11-07 | 2025-04-24 |
 | [антиутопія](https://open.spotify.com/track/30LTUnfJ8GsMkmufwSlZQy) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [антиутопія](https://open.spotify.com/album/4ofEbzZHdlvdSAA0YUseds) | 4:05 | 2024-07-12 | 2024-07-27 |
 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 | 2025-01-24 | 2025-06-07 |
@@ -209,6 +209,7 @@
 | [За обрієм](https://open.spotify.com/track/0TVpNIIySpZnqJOaBXkCEy) | [Матвій М.](https://open.spotify.com/artist/4G8yADwEn9zG3K5JO97dav), [41th](https://open.spotify.com/artist/2lNTvLVCl3G5tjwF1JCIk0) | [За обрієм](https://open.spotify.com/album/1jOrkPNpVKffBioboYAf5x) | 2:33 | 2026-01-16 | 2026-03-04 |
 | [За який тебе ловити хвіст?](https://open.spotify.com/track/2MY21UDHK72kQUnkCmiZFk) | [Lipatova](https://open.spotify.com/artist/39to4XWrZqgxJSP3ScNXdW) | [За який тебе ловити хвіст?](https://open.spotify.com/album/6uA1H22YlwANNzVSCH3nqp) | 3:55 | 2026-02-27 |  |
 | [забався](https://open.spotify.com/track/6VNyKMoDGkM1GFOAMb1izH) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [IHRYK](https://open.spotify.com/artist/3N9LWzMGgRlUR9ehu0Qmzv) | [забався](https://open.spotify.com/album/6ImDPICHH57HSqpJrVKHKV) | 2:00 | 2025-09-16 | 2025-12-27 |
+| [завтра](https://open.spotify.com/track/2i8fYjcn73492QH8i8opCp) | [labuba](https://open.spotify.com/artist/4D1PgHYseVNCQlW3z5l27s) | [завтра](https://open.spotify.com/album/4CCEyiakDpopkLnU4s7iQ3) | 1:18 | 2026-02-27 |  |
 | [Завтра](https://open.spotify.com/track/3ewQvXUYzZ817ROJaVI2va) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Ти лиш людина](https://open.spotify.com/album/0rcz0rPQfLZSv8ww4Jbcql) | 2:42 | 2024-06-27 | 2025-03-04 |
 | [Зай...](https://open.spotify.com/track/7zRSCyQN13brYUYBXyoKSE) | [Melancholydi](https://open.spotify.com/artist/01gFGpB3Lew9liOqNthKBe) | [Зай...](https://open.spotify.com/album/2jWgAVwX8RlGGOkq1TTDQg) | 2:26 | 2025-06-19 | 2025-08-09 |
 | [закрив пздк](https://open.spotify.com/track/1SwxmEimHWORsN2Xm2ee3f) | [Гурт Дно](https://open.spotify.com/artist/4t9utcHzJznAOIInsK0SQg), [renie cares](https://open.spotify.com/artist/3NriITovw5vUZcywhWZ2FB), [caronlil](https://open.spotify.com/artist/2lCYskIoL0qnhlDLvKQOkU), [Yevhenii Dubovyk](https://open.spotify.com/artist/3OfJlVTGldxJXYiZaL5Kdn) | [закрив пздк](https://open.spotify.com/album/60yTc5nh7JnmUGNLgzBLKr) | 3:49 | 2025-12-09 |  |

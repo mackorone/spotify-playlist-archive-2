@@ -4,7 +4,7 @@
 
 > 
 
-2,392 songs - 5 day 8 hr 38 min
+2,394 songs - 5 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1157,6 +1157,7 @@
 | [Kill the Chord](https://open.spotify.com/track/1Kc3CxhNiZdgHQV4udkLgY) | [Gaffa Tape Sandy](https://open.spotify.com/artist/00P2dAOymeYKFx4OSaVgw1) | [Family Mammal](https://open.spotify.com/album/1BO7FtrmddhXgemo7FDukl) | 3:25 | 2021-08-05 |  |
 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 | 2022-08-29 |  |
 | [Kill Yourself \(Part III\)](https://open.spotify.com/track/0kEZlJh4mK1QRfb3CT5LPk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [My Liver Will Handle What My Heart Can't](https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme) | 2:25 | 2021-08-05 |  |
+| [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 | 2026-03-09 |  |
 | [Killer Queen \- Remastered 2011](https://open.spotify.com/track/7GqWnsKhMtEW0nzki5o0d8) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Sheer Heart Attack \(Deluxe Remastered Version\)](https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj) | 2:59 | 2021-08-05 |  |
 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 | 2021-08-05 |  |
 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 | 2021-08-05 |  |
@@ -2384,6 +2385,7 @@
 | [Your favorite sidekick](https://open.spotify.com/track/0VNjaRcmIowjLbPtYDhLuh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:30 | 2021-11-14 |  |
 | [Your Need \(не должен\) \- Deep Mix](https://open.spotify.com/track/0JDRpa08T4GhnDhE9O68bE) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/2c6FcKInAkAqZI0yNQXa9C) | 3:36 | 2026-02-09 |  |
 | [Your New Boyfriend](https://open.spotify.com/track/4vLBnQtece15fFhqWxZvJP) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Your New Boyfriend](https://open.spotify.com/album/7krAqKWEJpVnJfH4eOqA6F) | 3:59 | 2021-08-05 |  |
+| [Yugoslavskiy Groove](https://open.spotify.com/track/0CRZ3cFFZEUglP5RlU2f9o) | [Soft Blade](https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG) | [Softic](https://open.spotify.com/album/5hQpBkgc7bPYpay3Sbz843) | 4:04 | 2026-03-09 |  |
 | [Yung and Writhing](https://open.spotify.com/track/2uNGH4c3KdOZARA4giRX4a) | [Rew](https://open.spotify.com/artist/0pKGL4bTFl7l7fac3x7PoT) | [Rew](https://open.spotify.com/album/3lktooIhlunBExr1a6PHlc) | 3:12 | 2022-07-10 |  |
 | [Zapata Se Queda \(with Celso Piña & Totó la Momposina\)](https://open.spotify.com/track/2bact5EVRC6Pjz6Fzu7BSe) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:24 | 2021-08-05 |  |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2021-08-05 |  |

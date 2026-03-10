@@ -4,7 +4,7 @@
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-61 songs - 6 hr 58 min
+62 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [How Long Has This Been Going On?](https://open.spotify.com/track/6UGFfLeNHnSDv6yQsMW2fg) | [Idrees Sulieman](https://open.spotify.com/artist/273EXbTI4AKNTHjpdLOhRQ), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [The Cats](https://open.spotify.com/album/07rqlPalWaAvW5NEhtgVVE) | 5:57 | 2025-07-26 | 2025-10-06 |
 | [I See Your Face Before Me \- RVG Remaster](https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Settin' The Pace \[RVG Edition\]](https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ) | 9:56 | 2025-07-20 |  |
 | [I'll Wait and Pray](https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Jazz](https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX) | 3:26 | 2025-07-20 |  |
-| [I'm Old Fashioned \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:57 | 2025-07-20 |  |
+| [I'm Old Fashioned](https://open.spotify.com/track/0sMR4StyIAXLE0WrfaZIDu) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 7:59 | 2026-03-10 |  |
+| [I'm Old Fashioned \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/5p95DUZplmVxY0XCQ3hxUV) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train \(Expanded Edition\)](https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG) | 7:57 | 2025-07-20 | 2026-03-10 |
 | [In A Sentimental Mood](https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:15 | 2025-07-20 |  |
 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 | 2025-07-20 |  |
 | [Lush Life](https://open.spotify.com/track/0Srs2sPdZTfFvvfLP4DGa0) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:29 | 2025-07-20 |  |

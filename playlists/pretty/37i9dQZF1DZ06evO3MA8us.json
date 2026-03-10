@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35406,
+  "num_followers": 35410,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACfd9YCpu2zQDXstodI5bDL",
+  "snapshot_id": "aay8AAAAAAAGWwykvTlbkMBHb5l2j4dM",
   "tracks": [
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Even So Come (Radio Version/Live)",
-        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
+        "name": "I've Witnessed It",
+        "url": "https://open.spotify.com/album/7uVGz2MwAs5yqo8GKphpxC"
       },
       "artists": [
         {
@@ -268,13 +268,17 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 254373,
-      "name": "Even So Come - Radio Version/Live",
-      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
+      "duration_ms": 301639,
+      "name": "I've Witnessed It",
+      "url": "https://open.spotify.com/track/1ifHULdO8CKHtMr1CkCcIh"
     },
     {
       "added_at": null,
@@ -299,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Witnessed It",
-        "url": "https://open.spotify.com/album/7uVGz2MwAs5yqo8GKphpxC"
+        "name": "Even So Come (Radio Version/Live)",
+        "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
       },
       "artists": [
         {
@@ -308,17 +312,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 301639,
-      "name": "I've Witnessed It",
-      "url": "https://open.spotify.com/track/1ifHULdO8CKHtMr1CkCcIh"
+      "duration_ms": 254373,
+      "name": "Even So Come - Radio Version/Live",
+      "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garment Of Praise",
-        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 299489,
-      "name": "Garment Of Praise",
-      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call On Heaven (Come, Lord Jesus) - Live",
         "url": "https://open.spotify.com/album/4tgH3HIbpzXKMjDIadVHIY"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 362680,
       "name": "The Lamb's Book of Life - Live From Passion 2025",
       "url": "https://open.spotify.com/track/0wfutOGnaGste3UPCEFHEV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Garment Of Praise",
+        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "duration_ms": 299489,
+      "name": "Garment Of Praise",
+      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From LIFT: Creative Conference",
-        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Jourdan Johnson",
-          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
-        }
-      ],
-      "duration_ms": 221477,
-      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
-      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: A Generation United For His Renown",
         "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 291626,
       "name": "Here I Am To Worship - Live",
       "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From LIFT: Creative Conference",
+        "url": "https://open.spotify.com/album/1es3MMzzi1DrLJ4PmWdYk3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Jourdan Johnson",
+          "url": "https://open.spotify.com/artist/4txdUXlNO7VGMJf6wVzt2X"
+        }
+      ],
+      "duration_ms": 221477,
+      "name": "Shout To The Lord - Live From LIFT: Creative Conference",
+      "url": "https://open.spotify.com/track/3TgQ3xHqSB4vAJ9WfcrtLL"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: The Essential Collection (Live)",
-        "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 291600,
-      "name": "How Great Is Our God - Live",
-      "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Passion: Our Love Is Loud (Live)",
         "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 278440,
       "name": "God Of Wonders - Live",
       "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: The Essential Collection (Live)",
+        "url": "https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "How Great Is Our God - Live",
+      "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
     },
     {
       "added_at": null,

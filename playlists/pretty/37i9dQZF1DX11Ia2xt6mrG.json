@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Joaquin Coronel y Marcos Villalobos en portada.",
-  "num_followers": 70747,
+  "num_followers": 70767,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "Cantus",
-        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 184051,
-      "name": "Cantus",
-      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 188706,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "Cantus",
+        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 184051,
+      "name": "Cantus",
+      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
+        "name": "Lunita (J.Pool Remix)",
+        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
+      },
+      "artists": [
+        {
+          "name": "J.Pool",
+          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
+        },
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        }
+      ],
+      "duration_ms": 380878,
+      "name": "Lunita - J.Pool Remix",
+      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
-        "name": "Lunita (J.Pool Remix)",
-        "url": "https://open.spotify.com/album/1DCdPcM35yP2fUTbl3MtdL"
-      },
-      "artists": [
-        {
-          "name": "J.Pool",
-          "url": "https://open.spotify.com/artist/7iSrZnlJ40zaqjWSIgWdvV"
-        },
-        {
-          "name": "Danit",
-          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
-        }
-      ],
-      "duration_ms": 380878,
-      "name": "Lunita - J.Pool Remix",
-      "url": "https://open.spotify.com/track/4jeBHPvew0cmOwkBplcZcH"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Nina Vlu",
-          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
-        }
-      ],
-      "duration_ms": 149877,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 256000,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Nina Vlu",
+          "url": "https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt"
+        }
+      ],
+      "duration_ms": 149877,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 185600,
       "name": "2 Da Floor",
       "url": "https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1691,6 +1691,26 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
+        "name": "Cartagena (Sylvan Esso Edit)",
+        "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 207637,
+      "name": "Cartagena - Sylvan Esso Edit",
+      "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
+    },
+    {
+      "added_at": "2026-02-27 06:00:27",
+      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 180545,
       "name": "Media Noche",
       "url": "https://open.spotify.com/track/0CIh0LjgagV5JCAQSM1tT3"
-    },
-    {
-      "added_at": "2026-02-27 06:00:27",
-      "album": {
-        "name": "Cartagena (Sylvan Esso Edit)",
-        "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 207637,
-      "name": "Cartagena - Sylvan Esso Edit",
-      "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
     },
     {
       "added_at": "2026-02-27 06:00:27",
@@ -1795,22 +1795,26 @@
     {
       "added_at": "2026-02-27 06:00:27",
       "album": {
-        "name": "DIOSA </3",
-        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
+        "name": "Pachuco",
+        "url": "https://open.spotify.com/album/7gnCSYZGh8zZOzy5qCINDh"
       },
       "artists": [
         {
-          "name": "Nuvia",
-          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
+          "name": "Broz",
+          "url": "https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln"
         },
         {
-          "name": "Rodezel",
-          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Erick T",
+          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
         }
       ],
-      "duration_ms": 164129,
-      "name": "DIOSA </3",
-      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
+      "duration_ms": 123692,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/7AOTRIjLg70ALz46yeWk2h"
     },
     {
       "added_at": "2026-02-27 06:00:27",

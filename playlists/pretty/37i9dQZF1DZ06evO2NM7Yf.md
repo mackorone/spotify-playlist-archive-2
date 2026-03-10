@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 27 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 456 likes - 27 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 5 | [Emotional Punching Bag](https://open.spotify.com/track/7yPgfPvs6aZ5EJ1ofwfpwL) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/3znO7FnJGFImn1qGLpgOse) | 2:56 |
 | 6 | [Dive Bar Opera](https://open.spotify.com/track/63jnwFJTt2iHKu5ibHNsrb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:26 |
 | 7 | [blasphemy!](https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:58 |
-| 8 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
-| 9 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13) | 2:33 |
+| 8 | [You Make Bad Things Not Suck <3](https://open.spotify.com/track/3EIMsnF6kf3qW8llk5fWtO) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [You Make Bad Things Not Suck <3](https://open.spotify.com/album/4wJEo03dFezG2dEkwDKB13) | 2:33 |
+| 9 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
 | 10 | [Disco Dystopia](https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:16 |
 | 11 | [emotional affair](https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:01 |
 | 12 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 26 | [Because of Me](https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 3:02 |
 | 27 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
 
-Snapshot ID: `aatqgAAAAABKcoTrsTfq+8Gq0nk8+tEn`
+Snapshot ID: `aay8AAAAAADLI8a/u65o3fCVAH37Eaty`

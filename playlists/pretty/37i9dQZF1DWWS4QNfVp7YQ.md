@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,550 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,578 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 30 | [Alócate](https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR) | [Kanimals](https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp) | [Alócate](https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk) | 3:21 |
 | 31 | [Costars](https://open.spotify.com/track/5UYVlRMSVmel4NohDcLK0o) | [DJ TETRIS](https://open.spotify.com/artist/6LgjuGF7FuYQ0Ycx9a4oqA) | [Que Suene Mexico, Vol\. 3](https://open.spotify.com/album/1fL1fq4l7HoOBgnsTGxxz3) | 3:15 |
 | 32 | [Brindemos Por Ellas](https://open.spotify.com/track/1MdQvMEpQ6xqsNW7HVH5v2) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [Baby Joss](https://open.spotify.com/artist/2zv53qyEf6YlpmOvRHbRUn) | [Brindemos Por Ellas](https://open.spotify.com/album/5MqF13YB9GTHdMIkTerpEs) | 3:28 |
-| 33 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
-| 34 | [África](https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [África](https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq) | 3:11 |
+| 33 | [África](https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [África](https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq) | 3:11 |
+| 34 | [Afroguaracha](https://open.spotify.com/track/1PHiNCctsPo5yvKRCTbKDn) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Afroguaracha](https://open.spotify.com/album/1OMT3htpBd2nNCHufrTLCi) | 3:09 |
 | 35 | [Dale Candela Dale Sabor](https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO) | [Alan Mendoza DJ](https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa) | [Dale Candela Dale Sabor](https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG) | 2:35 |
 | 36 | [Menea la Cadera](https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q) | [Cumbia Latin Band](https://open.spotify.com/artist/3cP35T1YmIDyrwfHrIVbeh) | [Cumbia Tribal](https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK) | 2:43 |
 | 37 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |

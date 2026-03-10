@@ -149,6 +149,32 @@
     },
     {
       "album": {
+        "name": "Allez Allez",
+        "url": "https://open.spotify.com/album/3Eii8QpEInZeVPTRtVVM6m"
+      },
+      "artists": [
+        {
+          "name": "Enzo Siffredi",
+          "url": "https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ"
+        },
+        {
+          "name": "Malek Mhedhbi",
+          "url": "https://open.spotify.com/artist/7l97w9SeBmMZRlYKHf8GJb"
+        },
+        {
+          "name": "Chook TN",
+          "url": "https://open.spotify.com/artist/6rPmXEdOfOmsVKWGMBWob8"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341000,
+      "name": "Allez Allez",
+      "url": "https://open.spotify.com/track/66XTHBZEYAiJGLh9gwVaBu"
+    },
+    {
+      "album": {
         "name": "Amana",
         "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
       },
@@ -624,7 +650,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 381639,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
@@ -1865,6 +1891,32 @@
     },
     {
       "album": {
+        "name": "Noba Yintoni",
+        "url": "https://open.spotify.com/album/6ORZ0mQT9z8mXYenOSCqbe"
+      },
+      "artists": [
+        {
+          "name": "NAAK",
+          "url": "https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC"
+        },
+        {
+          "name": "Bun Xapa",
+          "url": "https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ"
+        },
+        {
+          "name": "Bongi Mvuyana",
+          "url": "https://open.spotify.com/artist/69F8DlgzaT8p6t2XkNLW4g"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386369,
+      "name": "Noba Yintoni",
+      "url": "https://open.spotify.com/track/6f1ME9xr9Ukg4Rf4U2W78x"
+    },
+    {
+      "album": {
         "name": "Nobody Like You",
         "url": "https://open.spotify.com/album/4vOmPK3WJS2G5uK8h6kKDi"
       },
@@ -2796,7 +2848,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 141754,
       "name": "Watra",
       "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"

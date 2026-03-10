@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Yandel y LATIN MAFIA en portada.",
-  "num_followers": 40078,
+  "num_followers": 40083,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
+        "name": "In Common",
+        "url": "https://open.spotify.com/album/7A1pucMFyYaR1jaDjE6fYp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 209050,
+      "name": "In Common",
+      "url": "https://open.spotify.com/track/0rcDFdi19NtKf9NbHxr0k9"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
         "name": "Heartquake",
         "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "In Common",
-        "url": "https://open.spotify.com/album/7A1pucMFyYaR1jaDjE6fYp"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 209050,
-      "name": "In Common",
-      "url": "https://open.spotify.com/track/0rcDFdi19NtKf9NbHxr0k9"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "La Bilirrubina",
-        "url": "https://open.spotify.com/album/50QwSF854hDzcfkQTemgXU"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/1uq6EiEVRX39ZnfIaD8E6g"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 168755,
       "name": "Ta Que Tiembla",
       "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/50QwSF854hDzcfkQTemgXU"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/1uq6EiEVRX39ZnfIaD8E6g"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -559,26 +559,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Gar\u00faa (Sabor a Querer)",
-        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
-      },
-      "artists": [
-        {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
-        },
-        {
-          "name": "Migliz",
-          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gar\u00faa (Sabor a Querer)",
-      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "So\u00f1ando",
         "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
       },
@@ -611,18 +591,22 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Como Fuego",
-        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
+        "name": "Gar\u00faa (Sabor a Querer)",
+        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Migliz",
+          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
         }
       ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
+      "duration_ms": 222000,
+      "name": "Gar\u00faa (Sabor a Querer)",
+      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -639,6 +623,22 @@
       "duration_ms": 251039,
       "name": "Te Quiero Con Bugal\u00fa",
       "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Como Fuego",
+        "url": "https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
         "name": "Who's there / Vida",
         "url": "https://open.spotify.com/album/2xsYK6gmc0Zirq75RI4tDm"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 209761,
       "name": "Who's there",
       "url": "https://open.spotify.com/track/0zLgFtLgOHrR1wN1hDfdFK"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
     },
     {
       "added_at": "2026-01-16 06:00:20",

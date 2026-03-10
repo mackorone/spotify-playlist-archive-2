@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8111,
+  "num_followers": 8112,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAALJO1FNnJlFJoMd87c6Lww",
+  "snapshot_id": "aay8AAAAAABoJczYS+re00yduGBkw6Xc",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos de los Relampagos del Norte",
-        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Relampagos Del Norte En Vivo (Live)",
         "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 210200,
       "name": "Aunque Tengas Otros Amores - Live",
       "url": "https://open.spotify.com/track/0KEsDqkKqV2Ix7rHNmyhtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+      "duration_ms": 158666,
+      "name": "Prieta Mojina - Live",
+      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos Del Norte En Vivo (Live)",
-        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Prieta Mojina - Live",
-      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras Cantineras, Vol. 1",
         "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 167146,
       "name": "Ay Chatita",
       "url": "https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: ARIA VEGA & Ryan Castro",
-  "num_followers": 142849,
+  "num_followers": 142858,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Me Pasa (Piscis)",
         "url": "https://open.spotify.com/album/1Y1QRdYUrRzLcC8ZqmlkHs"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 201529,
       "name": "Me Pasa (Piscis)",
       "url": "https://open.spotify.com/track/4xNlMIBSdUd4py9z0ia2Wi"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 153707,
-      "name": "En Tu Marea",
-      "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 153707,
+      "name": "En Tu Marea",
+      "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
     },
     {
       "added_at": "2026-03-06 05:00:17",

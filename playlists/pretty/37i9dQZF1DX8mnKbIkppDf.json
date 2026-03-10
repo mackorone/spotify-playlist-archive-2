@@ -1,15 +1,15 @@
 {
-  "description": "De genomineerden: Song, Album,  Nieuwkomer, Pop, Hiphop, Hollands, Nederlandstalig, Alternative, Soul/R&B/Funk, Dance & Rock.",
-  "num_followers": 5790,
+  "description": "De winnaars: Song (Frenna), Album (Sef),  Nieuwkomer (Samuel Welten), Pop (Roxy Dekker), Oeuvreprijs (DI-RECT), Hiphop (CHO), Hollands (Samuel Welten), Nederlandstalig (Bente), Alternative (Froukje & S10), Soul/R&B/Funk (Jonna Fraser), Dance (AFROJACK) & Rock (Kensington).",
+  "num_followers": 5794,
   "original_name": "Edisons Pop 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrkCxN2cWo7QNAqvWrtnFH9Oz7Y",
+  "snapshot_id": "AAAAAB5UXjSMkRASunYGku+NSID+TM9O",
   "tracks": [
     {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "ZAAZAA",
         "url": "https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB"
@@ -29,79 +29,7 @@
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Jex",
-          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-        }
-      ],
-      "duration_ms": 187031,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Ik Zing (feat. Snelle)",
-        "url": "https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        },
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 174288,
-      "name": "Ik Zing (feat. Snelle)",
-      "url": "https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "A Moment",
-        "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 203545,
-      "name": "A Moment",
-      "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Mama I Made It",
-        "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 137999,
-      "name": "Ga Dan!",
-      "url": "https://open.spotify.com/track/62iG1lk8qtd26ldgzCdRh5"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "lieve monsters",
         "url": "https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM"
@@ -121,43 +49,7 @@
       "url": "https://open.spotify.com/track/6ZNf63s84LCpLmURqkIaNO"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Girl In Red",
-        "url": "https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR"
-      },
-      "artists": [
-        {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
-        }
-      ],
-      "duration_ms": 213312,
-      "name": "Girl In Red",
-      "url": "https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "OMG YES",
-        "url": "https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc"
-      },
-      "artists": [
-        {
-          "name": "Milolaathetlukken",
-          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "HDP",
-      "url": "https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "Echte Liefde Is Te Koop",
         "url": "https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR"
@@ -173,63 +65,39 @@
       "url": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
-        "name": "Hoe Het Is",
-        "url": "https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC"
+        "name": "Mama I Made It",
+        "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
       },
       "artists": [
         {
           "name": "Roxy Dekker",
           "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Hoe Het Is",
-      "url": "https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242"
+      "duration_ms": 137999,
+      "name": "Ga Dan!",
+      "url": "https://open.spotify.com/track/62iG1lk8qtd26ldgzCdRh5"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF"
+        "name": "Wild Hearts",
+        "url": "https://open.spotify.com/album/5g12wichbwhv9bja8wfMfv"
       },
       "artists": [
         {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
         }
       ],
-      "duration_ms": 178779,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti"
+      "duration_ms": 207853,
+      "name": "Soldier On",
+      "url": "https://open.spotify.com/track/4E2mMzGLRPfbMfzJY3hLPk"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Ken Je Dat Gevoel",
-        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Ken Je Dat Gevoel",
-      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "GIOVANNI I",
         "url": "https://open.spotify.com/album/0g71fSW5nHFxPwHuKpcKbv"
@@ -245,83 +113,7 @@
       "url": "https://open.spotify.com/track/4evJIYYUEkRkh2KpJJTqyo"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Go Shawty",
-        "url": "https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        },
-        {
-          "name": "GP UIT G",
-          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
-        },
-        {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 204168,
-      "name": "Go Shawty",
-      "url": "https://open.spotify.com/track/4ENcpdZsvh5BNzI5slh50x"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Mssyeh",
-        "url": "https://open.spotify.com/album/5lvqyQEyiR3F8JRQ6qSJcJ"
-      },
-      "artists": [
-        {
-          "name": "Winne",
-          "url": "https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9"
-        }
-      ],
-      "duration_ms": 243037,
-      "name": "Droomde ff",
-      "url": "https://open.spotify.com/track/236FUENwGzAwQcnOO85dTq"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "IK",
-        "url": "https://open.spotify.com/album/7Mb79TcTVswCowAorjNWZu"
-      },
-      "artists": [
-        {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 211739,
-      "name": "Kleine Meid",
-      "url": "https://open.spotify.com/track/16RUFjPjbU0CASNftek6gn"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Voor Altijd",
-        "url": "https://open.spotify.com/album/17FIFTOPJCHfAQjSasRhEd"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Vandaag Ben Ik Van Jou",
-      "url": "https://open.spotify.com/track/3WGti5Bh7AuaH7yMuu7lu1"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "Alles Kan Kapot",
         "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
@@ -337,43 +129,7 @@
       "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Wacht Op Mij",
-        "url": "https://open.spotify.com/album/36ZxTr0PuSwbTckbdSqkVV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        }
-      ],
-      "duration_ms": 186676,
-      "name": "Wacht Op Mij",
-      "url": "https://open.spotify.com/track/0P6nJmFxmZ6StMiAveIabG"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Herman van Veen Plus",
-        "url": "https://open.spotify.com/album/1wqI5QPzyIUJkE9Yzmi9Fs"
-      },
-      "artists": [
-        {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 178952,
-      "name": "Toveren",
-      "url": "https://open.spotify.com/track/6kLTxndvesAkmOhEEoK5xk"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "Beste Zangers 2025 (Bente)",
         "url": "https://open.spotify.com/album/06W0Q97gtNf9h0vk08LVip"
@@ -393,7 +149,7 @@
       "url": "https://open.spotify.com/track/6LwI2waV0trbWC4mznugRi"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "Hart In Brand",
         "url": "https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V"
@@ -413,39 +169,7 @@
       "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "I think we should just move in together",
-        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
-      },
-      "artists": [
-        {
-          "name": "Min Taka",
-          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
-        }
-      ],
-      "duration_ms": 245836,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "lieve monsters",
-        "url": "https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM"
-      },
-      "artists": [
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
-        }
-      ],
-      "duration_ms": 188641,
-      "name": "h-e-l-p",
-      "url": "https://open.spotify.com/track/2ZfszGlrEatWzHrUVgj65h"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "Don Julio Daddy",
         "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
@@ -461,39 +185,7 @@
       "url": "https://open.spotify.com/track/2xNox7wZHwGd6RBz23t1rF"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Pay Day",
-        "url": "https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 205301,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "Never Forget You",
         "url": "https://open.spotify.com/album/5zddDIeVxzTsFyHXaRFwvL"
@@ -509,59 +201,7 @@
       "url": "https://open.spotify.com/track/5j68TaDRcPBdh27OjKr4l6"
     },
     {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Losing Control",
-        "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 170270,
-      "name": "Losing Control",
-      "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "CHOROPHOBIA",
-        "url": "https://open.spotify.com/album/3Hqy5F2Bny4NmVvc40XN69"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 169721,
-      "name": "DOPAMINE",
-      "url": "https://open.spotify.com/track/4Z733kiVJo5a7wG82vFC2Z"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7LiLmYbPYkFyyaHnDLlE4P"
-      },
-      "artists": [
-        {
-          "name": "Hiqpy",
-          "url": "https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq"
-        }
-      ],
-      "duration_ms": 260504,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/1qWkZqddBfB2gT9timbnN4"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
+      "added_at": "2026-03-09 22:00:05",
       "album": {
         "name": "First Rodeo",
         "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
@@ -575,22 +215,6 @@
       "duration_ms": 225179,
       "name": "Stay",
       "url": "https://open.spotify.com/track/7xJWA1o9J0ndaJ2gFsWLvJ"
-    },
-    {
-      "added_at": "2026-01-27 09:00:34",
-      "album": {
-        "name": "Before It Might Be Gone",
-        "url": "https://open.spotify.com/album/7MyRjFcmJCIQsLBQvmgz7q"
-      },
-      "artists": [
-        {
-          "name": "The Vices",
-          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
-        }
-      ],
-      "duration_ms": 174869,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/12flRH7IPXT0fAfwq8kPBx"
     }
   ],
   "unique_name": "Edisons Pop 2026",

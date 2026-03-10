@@ -1,6 +1,6 @@
 {
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: GUrbane",
-  "num_followers": 3186,
+  "num_followers": 3187,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,26 @@
       "duration_ms": 227198,
       "name": "ain\u2019t fit",
       "url": "https://open.spotify.com/track/7E9lsvLE80mutKRyztR1ie"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Sau C\u01a1n M\u01b0a",
+        "url": "https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2"
+      },
+      "artists": [
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 154756,
+      "name": "Sau C\u01a1n M\u01b0a",
+      "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -67,26 +87,6 @@
       "duration_ms": 237931,
       "name": "t\u00e2m tr\u00ed lang thang",
       "url": "https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "Sau C\u01a1n M\u01b0a",
-        "url": "https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2"
-      },
-      "artists": [
-        {
-          "name": "CoolKid",
-          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
-        },
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 154756,
-      "name": "Sau C\u01a1n M\u01b0a",
-      "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "AZA",
-        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
-      },
-      "artists": [
-        {
-          "name": "\u00c1nh S\u00e1ng AZA",
-          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "USO",
-      "url": "https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
         "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 218507,
       "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
       "url": "https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "AZA",
+        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
+      },
+      "artists": [
+        {
+          "name": "\u00c1nh S\u00e1ng AZA",
+          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "USO",
+      "url": "https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "duration_ms": 259202,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
         "name": "U Can Call Me (feat. TINLE)",
         "url": "https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 210731,
       "name": "U Can Call Me (feat. TINLE)",
       "url": "https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
-      },
-      "artists": [
-        {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
-        }
-      ],
-      "duration_ms": 259202,
-      "name": "City",
-      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
     },
     {
       "added_at": "2025-10-09 12:00:33",

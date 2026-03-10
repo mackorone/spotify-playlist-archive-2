@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 218052,
       "name": "Act A Fool",
       "url": "https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj"
@@ -7320,6 +7320,32 @@
       "duration_ms": 236000,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/7nRtzh3zntkWqfnsgcONoV"
+    },
+    {
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193425,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw"
     },
     {
       "album": {

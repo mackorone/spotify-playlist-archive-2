@@ -1,6 +1,6 @@
 {
   "description": "J-Rock acts who have broken the border and are making global impact.   Cover: I Don't Like Mondays.",
-  "num_followers": 302867,
+  "num_followers": 302870,
   "original_name": "Rock Strike Japan",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-03 16:38:49",
       "album": {
-        "name": "HUGs",
-        "url": "https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv"
-      },
-      "artists": [
-        {
-          "name": "Paledusk",
-          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
-        }
-      ],
-      "duration_ms": 333283,
-      "name": "HUGs",
-      "url": "https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk"
-    },
-    {
-      "added_at": "2026-03-03 16:38:49",
-      "album": {
         "name": "KUCHUBURANKO",
         "url": "https://open.spotify.com/album/2fy2QRd4TmqZyM1cYSVRTN"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 324000,
       "name": "KUCHUBURANKO",
       "url": "https://open.spotify.com/track/1c2CyIh5XLIxbJv0s3z8MI"
+    },
+    {
+      "added_at": "2026-03-03 16:38:49",
+      "album": {
+        "name": "HUGs",
+        "url": "https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "duration_ms": 333283,
+      "name": "HUGs",
+      "url": "https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk"
     },
     {
       "added_at": "2026-03-03 16:38:49",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-03-03 16:38:49",
       "album": {
-        "name": "\u7f8e\u3057\u3044\u9c2d",
-        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
-      },
-      "artists": [
-        {
-          "name": "SPITZ",
-          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
-        }
-      ],
-      "duration_ms": 209777,
-      "name": "\u7f8e\u3057\u3044\u9c2d",
-      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
-    },
-    {
-      "added_at": "2026-03-03 16:38:49",
-      "album": {
         "name": "MESSAGE",
         "url": "https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 195600,
       "name": "\u3042\u306a\u305f\u306b",
       "url": "https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja"
+    },
+    {
+      "added_at": "2026-03-03 16:38:49",
+      "album": {
+        "name": "\u7f8e\u3057\u3044\u9c2d",
+        "url": "https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9"
+      },
+      "artists": [
+        {
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "duration_ms": 209777,
+      "name": "\u7f8e\u3057\u3044\u9c2d",
+      "url": "https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP"
     },
     {
       "added_at": "2026-03-03 16:38:49",

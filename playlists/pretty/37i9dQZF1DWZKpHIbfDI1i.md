@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Calle 24 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,412 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,467 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 43 | [UN LEÑO](https://open.spotify.com/track/6ozLcS63i78I9cjnTpvwPI) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [UN LEÑO](https://open.spotify.com/album/3Ah6062p6SYwBjjXnFtQcF) | 3:00 |
 | 44 | [OTRO DESMADRE](https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg) | [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [OTRO DESMADRE](https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO) | 3:02 |
 | 45 | [Si Tú Me Vieras](https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 3:09 |
-| 46 | [Love To Be Loved](https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Love To Be Loved](https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN) | 2:50 |
-| 47 | [Ctrl + Z \(En Vivo\)](https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ctrl + Z \(En Vivo\)](https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF) | 2:41 |
-| 48 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 |
+| 46 | [Ctrl + Z \(En Vivo\)](https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ctrl + Z \(En Vivo\)](https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF) | 2:41 |
+| 47 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 |
+| 48 | [Love To Be Loved](https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Love To Be Loved](https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN) | 2:50 |
 | 49 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
 | 50 | [Si Te Quedas \(feat\. Pablo Alborán\)](https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si Te Quedas \(feat\. Pablo Alborán\)](https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105) | 2:55 |
 | 51 | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ) | [SANTOS BRAVOS](https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [KAWASAKI \(&TEAM Remix\)](https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8) | 2:41 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 73 | [Mi 14](https://open.spotify.com/track/41Nrs8jqoZFgQ1n1b2OhDt) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Mi 14](https://open.spotify.com/album/7BnTzxx9IT8EWFWpQBaH9f) | 2:55 |
 | 74 | [Cada Día Más](https://open.spotify.com/track/3nS0cXZqC3xWHD53gLOLD0) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Nos Tiren Hate](https://open.spotify.com/album/4a5bVlsPb2f3AO3PqjT3eN) | 3:06 |
 
-Snapshot ID: `AAAAAM50ugaey8hGLxooPNQrNBaBsv58`
+Snapshot ID: `AAAAALt6jeztlVI+c+I+33XUnZtlBivx`

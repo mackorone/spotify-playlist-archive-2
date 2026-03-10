@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: The Scythe
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,327 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,362 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31687,
+  "num_followers": 31682,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAvWhShiY354xxEmMr52kOo9SoOmVjW",
+  "snapshot_id": "AAAvXDxrYJySz6XtPUaFjFrnQANbOian",
   "tracks": [
     {
       "added_at": "2026-03-06 09:54:26",
@@ -1033,6 +1033,26 @@
       "url": "https://open.spotify.com/track/7G0zQR2frfTYi5LPmuz7B1"
     },
     {
+      "added_at": "2026-03-09 11:27:29",
+      "album": {
+        "name": "No Lames",
+        "url": "https://open.spotify.com/album/3ElEMTFQpVwIpYuSDtTt1U"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "duration_ms": 185347,
+      "name": "No Lames",
+      "url": "https://open.spotify.com/track/1SbDWaKSqQz3RjjINLUgI0"
+    },
+    {
       "added_at": "2026-03-06 09:54:26",
       "album": {
         "name": "Yo Sano",
@@ -1255,6 +1275,34 @@
       "duration_ms": 103448,
       "name": "La Carogna",
       "url": "https://open.spotify.com/track/0yVLRPuNHmQ0FveLkbVlXZ"
+    },
+    {
+      "added_at": "2026-03-09 11:18:14",
+      "album": {
+        "name": "Hypnotise",
+        "url": "https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Enveak",
+          "url": "https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS"
+        },
+        {
+          "name": "SURAYA",
+          "url": "https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3"
+        },
+        {
+          "name": "SHOWTEKNO",
+          "url": "https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "Hypnotise",
+      "url": "https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to"
     },
     {
       "added_at": "2026-03-06 09:54:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,890 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,911 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 | 49 | [Phesheya](https://open.spotify.com/track/47wmNGuyHyGo8Qefh4aTKS) | [JayJayy](https://open.spotify.com/artist/0Tp9c5DcGoHSU4V8bt4Q1U), [Mordecai](https://open.spotify.com/artist/15Nx2Vsu6WjYBUPcBptftM) | [Detour](https://open.spotify.com/album/0PdDJXOjA8IhzVJYoHTNdU) | 5:50 |
 | 50 | [Amalanga](https://open.spotify.com/track/1HrNfmHud8ymX3iDl92WN4) | [Piano City](https://open.spotify.com/artist/2i8xdaZHfJpzLWJB0f7g28), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tracy](https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP) | [Amalanga](https://open.spotify.com/album/68i7f9nXniENX9Svk5bxZb) | 5:08 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

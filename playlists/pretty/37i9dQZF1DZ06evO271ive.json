@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 29568,
+  "num_followers": 29580,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAQn6Z+Mv0udszU6+vzVrP5",
+  "snapshot_id": "aay8AAAAAADeiIsdz57GbWsoyw9n6FQO",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MMM HMM (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158137,
+      "name": "MMM HMM (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 174967,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MMM HMM (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158137,
-      "name": "MMM HMM (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "304",
-        "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
-      },
-      "artists": [
-        {
-          "name": "E.K.E.",
-          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "304",
-      "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daddy (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 193041,
       "name": "Daddy (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/7oYjWdHi4gwPxOkRVWfSUc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "304",
+        "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
+      },
+      "artists": [
+        {
+          "name": "E.K.E.",
+          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "304",
+      "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
     },
     {
       "added_at": null,

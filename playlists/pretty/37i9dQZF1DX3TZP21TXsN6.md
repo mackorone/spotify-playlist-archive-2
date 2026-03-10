@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Maycash, Brasco & Webb, KNALLER en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,257 likes - 78 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,248 likes - 78 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alo](https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Alo](https://open.spotify.com/album/7gvJTfD0bqq6h9ziaze3tO) | 2:34 |
-| 2 | [Niet Regular](https://open.spotify.com/track/5WboEjeHdnQWs8BM4VctWg) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Webb](https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD) | [Niet Regular](https://open.spotify.com/album/2eJYGKqVoEAEQDDsFUTxP6) | 2:58 |
-| 3 | [Geen Rust](https://open.spotify.com/track/2xvKJR2RafSNa6JCmBFDWn) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Geen Rust](https://open.spotify.com/album/3ZlT0H5wGzGYJ1kquz36Gn) | 2:54 |
-| 4 | [Life Goes On](https://open.spotify.com/track/7mJu2Nob5wi4hPXrPuCpCT) | [Qucee](https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur) | [Life Goes On](https://open.spotify.com/album/0YEuekNPEKwO3CUcv997Xw) | 2:39 |
-| 5 | [Aventador](https://open.spotify.com/track/1q3TMJUpWHLOx15fIArZfv) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Aventador](https://open.spotify.com/album/3OGAYjnJmDBvrvnHtQpFb2) | 2:00 |
-| 6 | [Wat Als Het Lukt](https://open.spotify.com/track/1D1j3tHQuWvw2gEEBrqR7Y) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Wat Als Het Lukt](https://open.spotify.com/album/6O8XZvKMUgcbBLyQN3WUvY) | 2:24 |
-| 7 | [Eindstand Weer Alleen](https://open.spotify.com/track/0Aow4DMgRbT6FG1uvFTgCa) | [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [Eindstand Weer Alleen](https://open.spotify.com/album/3fnl72mvMGX9hWevPAbskh) | 2:32 |
-| 8 | [Vragen](https://open.spotify.com/track/0uHMLIU3z39Ux4WpJ3dmnt) | [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q) | [Vragen](https://open.spotify.com/album/20fH2cRdR3h5x5erbi9oCO) | 2:37 |
-| 9 | [Donkere Dagen](https://open.spotify.com/track/0Anna6q2zioO7iJOYZnygY) | [Simbaworldtime](https://open.spotify.com/artist/4pfWnN8CUXgPKxJpZZOeFY), [Kaascouse](https://open.spotify.com/artist/2lHCUCmz4hcAnc9mQBYa6Z) | [Donkere Dagen](https://open.spotify.com/album/1ZBwU73Y20CW0NJvWClCD9) | 2:52 |
-| 10 | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/track/5tuNTGCLsYQp0z663yPaeQ) | [DSAAF](https://open.spotify.com/artist/79Wzu3NpW82H9rHbw4Gvlf), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/album/5zFJS7OeaLfsw8Vrj08gkH) | 2:22 |
+| 2 | [Eindstand Weer Alleen](https://open.spotify.com/track/0Aow4DMgRbT6FG1uvFTgCa) | [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [Eindstand Weer Alleen](https://open.spotify.com/album/3fnl72mvMGX9hWevPAbskh) | 2:32 |
+| 3 | [Niet Regular](https://open.spotify.com/track/5WboEjeHdnQWs8BM4VctWg) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Webb](https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD) | [Niet Regular](https://open.spotify.com/album/2eJYGKqVoEAEQDDsFUTxP6) | 2:58 |
+| 4 | [Geen Rust](https://open.spotify.com/track/2xvKJR2RafSNa6JCmBFDWn) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Geen Rust](https://open.spotify.com/album/3ZlT0H5wGzGYJ1kquz36Gn) | 2:54 |
+| 5 | [Life Goes On](https://open.spotify.com/track/7mJu2Nob5wi4hPXrPuCpCT) | [Qucee](https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur) | [Life Goes On](https://open.spotify.com/album/0YEuekNPEKwO3CUcv997Xw) | 2:39 |
+| 6 | [Aventador](https://open.spotify.com/track/1q3TMJUpWHLOx15fIArZfv) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Aventador](https://open.spotify.com/album/3OGAYjnJmDBvrvnHtQpFb2) | 2:00 |
+| 7 | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/track/5tuNTGCLsYQp0z663yPaeQ) | [DSAAF](https://open.spotify.com/artist/79Wzu3NpW82H9rHbw4Gvlf), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/album/5zFJS7OeaLfsw8Vrj08gkH) | 2:22 |
+| 8 | [Wat Als Het Lukt](https://open.spotify.com/track/1D1j3tHQuWvw2gEEBrqR7Y) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Wat Als Het Lukt](https://open.spotify.com/album/6O8XZvKMUgcbBLyQN3WUvY) | 2:24 |
+| 9 | [Vragen](https://open.spotify.com/track/0uHMLIU3z39Ux4WpJ3dmnt) | [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q) | [Vragen](https://open.spotify.com/album/20fH2cRdR3h5x5erbi9oCO) | 2:37 |
+| 10 | [Donkere Dagen](https://open.spotify.com/track/0Anna6q2zioO7iJOYZnygY) | [Simbaworldtime](https://open.spotify.com/artist/4pfWnN8CUXgPKxJpZZOeFY), [Kaascouse](https://open.spotify.com/artist/2lHCUCmz4hcAnc9mQBYa6Z) | [Donkere Dagen](https://open.spotify.com/album/1ZBwU73Y20CW0NJvWClCD9) | 2:52 |
 | 11 | [Hoofd Omhoog](https://open.spotify.com/track/7IocSrGRqlavONYjBLpywM) | [Venti](https://open.spotify.com/artist/6SgOMDXLQKIiN15OrjOvGQ), [Joella T](https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW), [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA) | [Hoofd Omhoog](https://open.spotify.com/album/5eiQ9gaCjv0KLUeLMBqW7K) | 2:25 |
 | 12 | [In2deep](https://open.spotify.com/track/2Pk3QmyRaJfebLRhMFAFku) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [PLUGOXHUSH](https://open.spotify.com/artist/1NVqy2JmTHXzS0deflJpS2), [Andrélon](https://open.spotify.com/artist/0kpB9a2lLgoxgoQh7KL0p2) | [In2deep](https://open.spotify.com/album/1LsPXwEZqQmioQjEas4Xq3) | 2:32 |
 | 13 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 77 | [No Drama](https://open.spotify.com/track/2OartbMVAoWsDqKJRqkCPb) | [16'dls](https://open.spotify.com/artist/6b1BvwljfJStnCGcSw4QBa), [Vier1](https://open.spotify.com/artist/66zBfJKGOsjwbPfq9KE1F7), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [No Drama](https://open.spotify.com/album/0jViD3bl5AgiUrWfFkIKCt) | 2:28 |
 | 78 | [SOPROPO](https://open.spotify.com/track/7gjFe8bUlh2mkQRzw360xU) | [Presto](https://open.spotify.com/artist/6ZDpcHcivlBAUO2UqGHSM3), [RAFTING GOODS](https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl), [Duvel](https://open.spotify.com/artist/3XTRFcIvjX1GwAvQ3EvzLL), [Nosa](https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5) | [MAMA'S BOY](https://open.spotify.com/album/28Q6bPFOeHfsLBUTv3530a) | 2:28 |
 
-Snapshot ID: `AAAAALlI72uqwCyLzkuK6vc6iV2hwFdt`
+Snapshot ID: `AAAAAEsxDeKYNcblZbFazCKyEw56yx2J`

@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Alex Sampson
 
-507 songs - 1 day 4 hr 52 min
+509 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Circles](https://open.spotify.com/track/2wThXy2VoKMjKK8GeV4XHe) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Circles](https://open.spotify.com/album/0sFP5ZqmdCGwNUstW9oGIR) | 3:14 | 2023-02-10 | 2025-08-16 |
 | [Close to Love](https://open.spotify.com/track/4IV0Yf16Oh4l5eRPX4Vq31) | [Sadie Rose Van](https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns) | [Close to Love](https://open.spotify.com/album/1XVyMSuOxPS8WncgHa4ZVN) | 2:56 | 2025-09-05 |  |
 | [CLOSER](https://open.spotify.com/track/70SphmUAaMjESCWLOc9eGX) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [CLOSER](https://open.spotify.com/album/79RidR74CEG7BPWt7MrFfG) | 3:02 | 2026-02-27 |  |
+| [Coasting](https://open.spotify.com/track/1ztynIETfhukvEjGei77ve) | [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Coasting](https://open.spotify.com/album/32t0ImhVhPJY8BQf3GpJUR) | 3:42 | 2026-03-09 |  |
 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 | 2021-12-03 | 2023-01-28 |
 | [Colors](https://open.spotify.com/track/6vaSStNN5NX4nJ4QbRY3S0) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW) | 4:06 | 2021-12-03 | 2022-07-29 |
 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 | 2021-12-03 | 2023-01-28 |
@@ -166,7 +167,7 @@
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 | 2025-09-20 |
 | [God Save the Dream](https://open.spotify.com/track/13mm25FYuZw1ih9cvFhXvH) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama](https://open.spotify.com/album/2c1QPvyMmQADYp9qB5Aslv) | 3:16 | 2024-10-04 |  |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 |  |
-| [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [SELF/LESS](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 | 2024-02-16 |  |
+| [Going Down](https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [SELF/LESS](https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP) | 3:11 | 2024-02-16 | 2026-03-10 |
 | [Golden](https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Golden](https://open.spotify.com/album/15y5YIZTkfg6tgoVCwPEoa) | 3:21 | 2021-12-03 | 2023-01-28 |
 | [Gone](https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [Gone](https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM) | 3:02 | 2026-02-20 |  |
 | [Good Lady](https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H) | 4:25 | 2022-04-22 | 2023-04-01 |
@@ -229,6 +230,7 @@
 | [I NEED YOU](https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [I NEED YOU](https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T) | 2:37 | 2021-12-03 | 2022-07-29 |
 | [I Stay I Leave I Love I Lose](https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:57 | 2025-11-14 |  |
 | [I Stood My Ground](https://open.spotify.com/track/4JRuQ22xck5DCfkQXRPnF6) | [Chloe Stroll](https://open.spotify.com/artist/31J0TFdcefgKGeFBKXRH8z) | [I Stood My Ground](https://open.spotify.com/album/3zuXv136QTdzBlGmTtN7ci) | 4:03 | 2025-08-01 |  |
+| [I'll come back to you](https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [Lady Love](https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx) | 3:13 | 2026-03-09 |  |
 | [I'll Get Along](https://open.spotify.com/track/7cId5hbuOHH7uAbpe4pIEl) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:28 | 2021-12-03 | 2022-04-21 |
 | [i'm confident that i'm insecure](https://open.spotify.com/track/2vcJAWazBGDeUIbzdU0zV8) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [i'm confident that i'm insecure](https://open.spotify.com/album/3BOQyggLEixg4CLYgheD3X) | 2:41 | 2023-08-11 | 2024-04-05 |
 | [i'm lost for words](https://open.spotify.com/track/3jagpMptawgmmhAYZJ1bQR) | [Gabriel](https://open.spotify.com/artist/7yj3gkMvAWutROuLsTmLtC) | [i'm lost for words](https://open.spotify.com/album/5jR3X2FNyHgYW0EuIBkYwH) | 2:17 | 2022-09-02 | 2025-10-11 |
@@ -310,7 +312,7 @@
 | [Moonshine](https://open.spotify.com/track/6fnVXJMz2ahAVFxc9fwczD) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Moonshine](https://open.spotify.com/album/5yWslb5Coa1ZMCN43gRIjV) | 1:59 | 2025-09-12 |  |
 | [Morning Coffee](https://open.spotify.com/track/4g32SGaFLUyj0TgwoIt1OX) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa), [connor](https://open.spotify.com/artist/7DdiQ4GtU0voZdZKPzFKFl), [Johnny Cattini](https://open.spotify.com/artist/1NTNDi3hpUfwBPz3taaaCv) | [Morning Coffee](https://open.spotify.com/album/63xB8Wz2IS1gO76vh74yDq) | 4:34 | 2021-12-03 | 2022-07-29 |
 | [Motorbike](https://open.spotify.com/track/6UcSMNUhDsCo7LJ86eOj5P) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 3:08 | 2021-12-03 | 2022-07-29 |
-| [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-04 |  |
+| [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/track/0nNARbTLwzLGz51aUEZPnp) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Mr Right \(with Meghan Trainor\)](https://open.spotify.com/album/1AkVEhlI2czYOj5h0f2xDH) | 2:47 | 2023-08-04 | 2026-03-10 |
 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 | 2025-11-21 |  |
 | [My Game](https://open.spotify.com/track/7yAXpAYFiPqKzyi86xXbLQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [My Game](https://open.spotify.com/album/6GLUWw271MCvjhDcp7sd31) | 3:30 | 2021-12-03 | 2022-04-18 |
 | [New](https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 2:56 | 2023-04-28 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,299 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,350 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [Zero Cares](https://open.spotify.com/track/57XP21lBcIam7LS72yDFFe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Zero Cares](https://open.spotify.com/album/2IFRgC80176V6oTn1nna5B) | 2:29 |
 | 50 | [Asla](https://open.spotify.com/track/65mPn0Lc8D6jE67S7raTiV) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Asla](https://open.spotify.com/album/6xshFUAjYBeEJMy6JU2jEe) | 2:24 |
 
-Snapshot ID: `AAAAAMlCKgOCzUNPTpzRe6iF2vYPdgbv`
+Snapshot ID: `AAAAALzzJvo7OgolVjRCmv+a3OTC0eGT`

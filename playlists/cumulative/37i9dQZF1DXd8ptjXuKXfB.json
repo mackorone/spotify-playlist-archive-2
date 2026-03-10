@@ -576,7 +576,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 211670,
       "name": "ANGYALOK",
       "url": "https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw"
@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "BETON.HOF1",
+      "url": "https://open.spotify.com/track/4eBj6JtbOR8kQ3Lcx2YKxO"
+    },
+    {
+      "album": {
         "name": "BEVAGYALLVA",
         "url": "https://open.spotify.com/album/3xujk17R5v6w20eOKZZFJv"
       },
@@ -1780,6 +1798,24 @@
       "duration_ms": 207162,
       "name": "cipoe",
       "url": "https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc"
+    },
+    {
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132812,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
     },
     {
       "album": {
@@ -2474,7 +2510,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -7278,7 +7314,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 167244,
       "name": "ponyvareg\u00e9ny",
       "url": "https://open.spotify.com/track/6DrfQHh6q7ugiGeE6DSN5E"
@@ -9166,6 +9202,24 @@
       "duration_ms": 144277,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/0KN7gjHni6JHOn97t9O1F1"
+    },
+    {
+      "album": {
+        "name": "TAKE YOUR TIME",
+        "url": "https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141789,
+      "name": "TAKE YOUR TIME",
+      "url": "https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU"
     },
     {
       "album": {

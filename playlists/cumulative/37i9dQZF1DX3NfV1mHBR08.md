@@ -4,7 +4,7 @@
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-169 songs - 10 hr 13 min
+172 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Love poem](https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:18 | 2023-11-03 |  |
 | [Lullaby](https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Love poem](https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH) | 4:21 | 2025-05-12 |  |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-12 |  |
-| [MAZE](https://open.spotify.com/track/63Ql1n8s6z9lVrYoNpqua3) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAZE](https://open.spotify.com/album/019FSyx4qK3Fx3rRUnrmEf) | 2:59 | 2026-02-23 |  |
+| [MAZE](https://open.spotify.com/track/63Ql1n8s6z9lVrYoNpqua3) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAZE](https://open.spotify.com/album/019FSyx4qK3Fx3rRUnrmEf) | 2:59 | 2026-02-23 | 2026-03-10 |
 | [milk tea](https://open.spotify.com/track/0An2Mm4cBGaRpXN47ozwBZ) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [Shin Ji Hoon 2nd Album 'Peace'](https://open.spotify.com/album/0IoObZDsYIy1aOvB2skygp) | 2:25 | 2025-09-03 | 2025-10-01 |
 | [MIRROR](https://open.spotify.com/track/50yugvQfKMyDyL2hEOxf9G) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [MIRROR](https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9) | 4:42 | 2026-02-23 |  |
 | [My Day \(Acoustic Ver.\)](https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ) | 4:12 | 2024-03-08 | 2025-04-06 |
@@ -119,7 +119,8 @@
 | [Pre\-exam](https://open.spotify.com/track/3J431TbgjcTXsz1Vbb5c25) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7) | [Exam](https://open.spotify.com/album/2MnggDmOrospTK71sumq9L) | 3:31 | 2024-10-23 | 2025-03-27 |
 | [Promise](https://open.spotify.com/track/2Fql94zGWvYo7ihqIOpje0) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/6TA0VcPiUH1a3tPRp3SjbC) | 3:44 | 2025-06-16 | 2025-07-01 |
 | [Rebloom](https://open.spotify.com/track/5GbwES8DxcSHpRzVs9vuBQ) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Rebloom \(Oh My Ghost Clients Original Soundtrack Part.3\)](https://open.spotify.com/album/6C6yRunT7sMu9RhL8rvRq1) | 2:48 | 2025-06-16 | 2025-07-22 |
-| [Rest](https://open.spotify.com/track/5dJ4XoRa9FzSHWUzCpnk2W) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:40 | 2025-09-30 |  |
+| [Rest](https://open.spotify.com/track/5dJ4XoRa9FzSHWUzCpnk2W) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:40 | 2025-09-30 | 2026-03-10 |
+| [Right Answer](https://open.spotify.com/track/3xo5dvPkQLbofa59woCQMH) | [1%](https://open.spotify.com/artist/4Eyqj9gm4OX7A6IltsD5W7) | [Right Answer](https://open.spotify.com/album/0BKmsTdWJKEZvHUJz9wThh) | 3:32 | 2026-03-09 |  |
 | [Running to Future](https://open.spotify.com/track/6tn8DOizEPVGwqgqdXsYYN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Running to Future](https://open.spotify.com/album/26SNqrN1ngsW5AaLpcgkEa) | 3:19 | 2026-01-12 |  |
 | [See the Light](https://open.spotify.com/track/0MwjlsVm79p4Ze5wt4SMn2) | [BELLE](https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U) | [My Sweet Mobster \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/4DRGWV1gMpWL0Z1GyaskNz) | 3:54 | 2025-06-02 | 2025-06-09 |
 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 | 2023-11-03 |  |
@@ -137,7 +138,7 @@
 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 | 2023-11-03 |  |
 | [The Compass](https://open.spotify.com/track/3GNKwOjDJlqgAA85lgYTCC) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [The Compass](https://open.spotify.com/album/4UdFLMCOkjD1sv9zUIiFoW) | 2:47 | 2025-07-28 |  |
 | [The Moments](https://open.spotify.com/track/464diat2OMMnSutMSOuQXU) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Typhoon Family, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg) | 3:13 | 2026-01-12 | 2026-03-06 |
-| [The season of our beginning](https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Youth \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6V8zQCogf0Nxlwm9CakIJu) | 4:09 | 2026-02-23 |  |
+| [The season of our beginning](https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Youth \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6V8zQCogf0Nxlwm9CakIJu) | 4:09 | 2026-02-23 | 2026-03-10 |
 | [There is no answer \(with Lee Aram\)](https://open.spotify.com/track/00qOtgUwdu3p9bfpoTYrzS) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [There is no answer \(with Lee Aram\)](https://open.spotify.com/album/3MlsUewdI6GKHzpnqitWv9) | 3:07 | 2025-10-13 | 2026-01-15 |
 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 | 2023-11-03 |  |
 | [TIME CAPSULE](https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [TIME CAPSULE](https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2) | 4:12 | 2026-01-12 |  |
@@ -162,11 +163,13 @@
 | [When Tomorrow Comes](https://open.spotify.com/track/63TNk68P5HkI3FXxLIslFn) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [When Tomorrow Comes](https://open.spotify.com/album/5zFUzmI8BdYddBk3ezErXb) | 4:04 | 2025-07-21 | 2025-08-19 |
 | [When you feel alone](https://open.spotify.com/track/2zHvYZexY8WQR5isjrRZhv) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [When you feel alone](https://open.spotify.com/album/2b60YEWrMUPq01mTPTFpX9) | 3:05 | 2025-06-16 | 2025-08-22 |
 | [Wings](https://open.spotify.com/track/7pADYTP4U0LAMRbWigXGXn) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [AFTEREFFECT](https://open.spotify.com/album/4jogTxUefvshTl4NuNyxjN) | 3:42 | 2025-09-16 | 2026-01-27 |
+| [Winner](https://open.spotify.com/track/0XrldzaasptUorNkvoOQWU) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [CONNECTION](https://open.spotify.com/album/4JcUtBRZFtwYbhr2CZChcH) | 3:03 | 2026-03-09 |  |
 | [Wish](https://open.spotify.com/track/6H9l0RfXdUh5yCmVS0DKp9) | [KYSB](https://open.spotify.com/artist/55LpuSDAoOdp4kESDapt3i) | [Wish](https://open.spotify.com/album/7dusuXy4RDf3KLm0M43Tax) | 3:57 | 2025-04-28 | 2025-05-27 |
 | [wish you all to be happy](https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [wish you all to be happy](https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm) | 3:52 | 2024-03-08 | 2025-04-29 |
 | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/track/3jYSRhZxA4NnOxqwaC5HP9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [With me \(Electrifying Confession X LUCY\)](https://open.spotify.com/album/4jb6RsjGnqX6rm8ii8v6mi) | 3:54 | 2025-06-16 | 2025-08-08 |
 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-04-22 | 2025-06-03 |
 | [You Wanna Cry](https://open.spotify.com/track/4RcSeV4CLmk6j0kMR0QuL4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE EMPATHY](https://open.spotify.com/album/0YaLbDxHTeZLT3CpDunKuT) | 2:54 | 2025-03-26 | 2025-04-15 |
+| [Youth](https://open.spotify.com/track/42h4baafOeqm4YDla5o1aB) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [First Step](https://open.spotify.com/album/5ND74f5VAbmxPycC1xqgvu) | 3:01 | 2026-03-09 |  |
 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 | 2024-08-10 | 2024-09-14 |
 | [괜찮아, 청춘](https://open.spotify.com/track/1gFmuw6p4udOcvo8JdAMxX) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Merry Summer](https://open.spotify.com/album/5KgEgjxSu2knfGZBj4XQgN) | 2:52 | 2026-01-26 | 2026-02-24 |
 | [그렇더라고요](https://open.spotify.com/track/419Oc8GGyLPEpR6UNWgdqO) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/1zqzCp8Fa4R4IpYKN4wIkV) | 3:46 | 2025-03-26 | 2025-09-18 |

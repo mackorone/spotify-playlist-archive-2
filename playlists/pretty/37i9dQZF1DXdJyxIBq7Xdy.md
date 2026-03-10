@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,634 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,700 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJyxIBq7Xdy.md) - [plain]
 | 24 | [Rough Diamond](https://open.spotify.com/track/0xeHrqvJVonxLfhhklFSsp) | [Madleen Kane](https://open.spotify.com/artist/2nCH7NlCpkfhzJMS4opstC) | [Rough Diamond](https://open.spotify.com/album/5ENQf6cVALR7MGWP50D7xY) | 6:20 |
 | 25 | [Can't Take My Eyes Off of You \- Black Box Mix](https://open.spotify.com/track/1ip1ULxxvAzaqH3VqKObdu) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Gloria Gaynor '90 \(All New Versions\)](https://open.spotify.com/album/3mn5uMVqqN1WPA2Jwd8lfk) | 5:16 |
 | 26 | [Boogie Oogie Oogie \- Single Version / Remastered 2002](https://open.spotify.com/track/0wXMWFDlekl3mfAJGcixlq) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [Classic Masters \(Remastered 2002\)](https://open.spotify.com/album/3vS1iaaaiF31hK4vNIc6iM) | 3:43 |
-| 27 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 |
+| 27 | [Lady Marmalade](https://open.spotify.com/track/3GGcwG519BTMdvMeFy7meT) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 3:55 |
 | 28 | [Jump \(For My Love\)](https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out](https://open.spotify.com/album/0Kmw2yUjTfdaN1son7GTp5) | 4:27 |
 | 29 | [Automatic](https://open.spotify.com/track/38TuEl4QqLM1VtJ5LK6FK0) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 4:47 |
 | 30 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |

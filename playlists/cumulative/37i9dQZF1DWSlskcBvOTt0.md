@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,075 songs - 3 day 16 hr 54 min
+1,076 songs - 3 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Abandoned](https://open.spotify.com/track/1zu20hgpOSlwlIKNorz6M5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [A.M.R \(DE\)](https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD) | [Abandoned](https://open.spotify.com/album/4uRtT3rPcGU7qwovvVSXwo) | 3:58 | 2025-03-28 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-07-01 | 2022-12-17 |
 | [Abracadabra](https://open.spotify.com/track/38iiZkYYXMHRPwUruuYD0X) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Abracadabra](https://open.spotify.com/album/06aF9kSXXoUiuN7nSX4u8o) | 3:21 | 2024-05-24 | 2024-07-06 |
-| [Act A Fool](https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Act A Fool](https://open.spotify.com/album/3QSHm2WmJOo183q1MHOtnm) | 3:38 | 2025-09-19 |  |
+| [Act A Fool](https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Act A Fool](https://open.spotify.com/album/3QSHm2WmJOo183q1MHOtnm) | 3:38 | 2025-09-19 | 2026-03-10 |
 | [Afrika My Afrika](https://open.spotify.com/track/63siScIvu0PyOOqSHPzcud) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Afrika My Afrika](https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o) | 6:32 | 2025-03-14 | 2025-08-02 |
 | [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 | 2023-04-21 | 2023-05-03 |
 | [After All](https://open.spotify.com/track/6mQKtXxkbTVamgyRayRQLL) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [After All / Hidden Place](https://open.spotify.com/album/3SIJcmFrw2GfqlTsdl3joD) | 5:20 | 2024-11-08 | 2024-11-14 |
@@ -343,6 +343,7 @@
 | [Free Bird](https://open.spotify.com/track/3OsAfJ303euvdK0k5wL4Ob) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Free Bird](https://open.spotify.com/album/7fBE58VXQrLulpE5rOdmfJ) | 3:43 | 2023-03-31 | 2023-05-02 |
 | [FreedHome](https://open.spotify.com/track/0eV4BpgwGCcU8DmlxdJry9) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [FreedHome](https://open.spotify.com/album/24YDwbvmkuNqFPPdnuw1fB) | 5:30 | 2022-07-01 | 2022-08-17 |
 | [Fuego](https://open.spotify.com/track/7nRtzh3zntkWqfnsgcONoV) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Innarius](https://open.spotify.com/artist/3ByAHu681RFcsV7iaHsdZ9) | [Fuego](https://open.spotify.com/album/1q3ddFO62hYzHex1Y5o5Tc) | 3:56 | 2024-11-22 | 2025-05-31 |
+| [Gaia](https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Gaia](https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC) | 3:13 | 2026-03-06 |  |
 | [Gaia \- Radio Edit](https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Gaia](https://open.spotify.com/album/5JRX3f42FwJdGRawM04Vsp) | 4:05 | 2021-04-21 | 2022-07-29 |
 | [Gaida](https://open.spotify.com/track/4yUnIfJyactd9T615iFFjQ) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [C'mon](https://open.spotify.com/artist/6x4QkA6MiOZx0uWMOa8394), [Otistic](https://open.spotify.com/artist/6i6sCJwxvOeJWWivhbaRUd) | [Gaida](https://open.spotify.com/album/3YXUofA9XSgNaMwW0hTG1B) | 6:13 | 2023-01-27 | 2023-03-26 |
 | [Galata](https://open.spotify.com/track/4X1dCRlx1f2VQvzHAhA6jn) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau) | [Galata](https://open.spotify.com/album/21TBQY99v6kfUoAQ7WZIqk) | 3:00 | 2025-01-04 | 2025-02-15 |

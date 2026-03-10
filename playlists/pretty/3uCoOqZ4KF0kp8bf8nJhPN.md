@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 263 songs - 10 hr 27 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 264 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -271,5 +271,6 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 261 | [Рано](https://open.spotify.com/track/1QrlgLlaQV1Z3YJowIPkdv) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:12 |
 | 262 | [Два пива](https://open.spotify.com/track/2ra5h8PS1nH3Bq4FFZ4yuu) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ), [молодой калуга](https://open.spotify.com/artist/0Tqo0PZewBqEA7VKODeWTF) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:57 |
 | 263 | [Дубчик](https://open.spotify.com/track/1uWUG6pioVivZHFDvgR90S) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:03 |
+| 264 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
 
-Snapshot ID: `AAAGcR8BCrcL6FKCnlANr96w/MyPdgbd`
+Snapshot ID: `AAAGchviv6MLfIA28rI3SOlFTATJeG/2`

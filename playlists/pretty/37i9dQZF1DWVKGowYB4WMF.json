@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 95947,
+  "num_followers": 95967,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 212893,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "More Hits By The Supremes",
-        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Stop! In The Name Of Love",
-      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Young Americans (2016 Remaster)",
         "url": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 313706,
       "name": "Young Americans - 2016 Remaster",
       "url": "https://open.spotify.com/track/7uPmQttafLiJyju14JREY4"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "More Hits By The Supremes",
+        "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Stop! In The Name Of Love",
+      "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Altogether",
-        "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
-      },
-      "artists": [
-        {
-          "name": "The Nolans",
-          "url": "https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "I'm in the Mood for Dancing",
-      "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 220226,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Altogether",
+        "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
+      },
+      "artists": [
+        {
+          "name": "The Nolans",
+          "url": "https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "I'm in the Mood for Dancing",
+      "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
     },
     {
       "added_at": "2024-03-26 13:49:34",

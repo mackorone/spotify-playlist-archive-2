@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 178008,
+  "num_followers": 178002,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACY0iHDRbZhX7/G+r43INX8",
+  "snapshot_id": "aay8AAAAAADZ3uCY0mbyMKdgqP9SM7kS",
   "tracks": [
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/7GZKme55JpmLq3alBDQm11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 223994,
       "name": "Some Kind of Disaster",
       "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/7GZKme55JpmLq3alBDQm11"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 193948,
       "name": "Favorite Place (feat. The Band CAMINO)",
       "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Drugs & Candy",
-      "url": "https://open.spotify.com/track/1isQMKYmpvJ4tOP8R2qkWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 214093,
-      "name": "Last Young Renegade",
-      "url": "https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD"
+      "duration_ms": 217680,
+      "name": "Drugs & Candy",
+      "url": "https://open.spotify.com/track/1isQMKYmpvJ4tOP8R2qkWr"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 167041,
       "name": "Getaway Green",
       "url": "https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Last Young Renegade",
+      "url": "https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD"
     }
   ],
   "unique_name": "This Is All Time Low",

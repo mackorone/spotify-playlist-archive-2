@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-455 songs - 1 day 3 hr 36 min
+457 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [a bad dream from an old life](https://open.spotify.com/track/1XgTha61JE1qk9J2wmsoNm) | [Driftwood Choir](https://open.spotify.com/artist/7igkSEzzo4gyA5Bsah0ZdF), [Ed Prosek](https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW), [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [a bad dream from an old life](https://open.spotify.com/album/1b9QIgbrTT1QzVfURsTkwZ) | 3:28 | 2024-03-14 | 2024-07-02 |
 | [A Complicated Truth](https://open.spotify.com/track/3geEHzsLiZmZov9CrCNaC9) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [A Complicated Truth](https://open.spotify.com/album/6gyGYKNbwVvvQR8catUo07) | 5:05 | 2024-07-21 | 2024-11-05 |
 | [A Dangerous Thing](https://open.spotify.com/track/7xDDRoOWJ5sOsp2SDXdTrE) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [A Dangerous Thing](https://open.spotify.com/album/1L1XG9oKtjHkCB2LY6e1xX) | 3:03 | 2023-06-08 | 2024-06-19 |
+| [A Perfect Storm](https://open.spotify.com/track/2VooUVWfcwhJA780U5yNa2) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [A Perfect Storm](https://open.spotify.com/album/2zcG8CLrB1510937KfbsVK) | 3:04 | 2026-03-09 |  |
 | [A Precious Thing](https://open.spotify.com/track/0hsKYfiYOyb0kOMh67SZ3W) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [A Precious Thing](https://open.spotify.com/album/0att3h3a9gsUKbcwEjyZdB) | 4:18 | 2024-04-04 | 2024-04-08 |
 | [A Precious Thing](https://open.spotify.com/track/3No4zg6Qm632PLxLqPCFel) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [Ramona](https://open.spotify.com/album/6mVqIVJe5FOyVA6oriGwuw) | 4:18 | 2024-04-04 | 2024-04-19 |
 | [A Precious Thing](https://open.spotify.com/track/4UhydvQTUdQfCGs4kaEPCf) | [Grace Cummings](https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a) | [A Precious Thing](https://open.spotify.com/album/6xjaG7MclDw9KFyyCIFfip) | 4:18 | 2024-04-04 | 2024-09-23 |
@@ -43,7 +44,7 @@
 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 | 2024-02-16 | 2024-06-05 |
 | [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 | 2026-01-12 |  |
 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 | 2025-02-03 | 2026-02-10 |
-| [Blue Dreams](https://open.spotify.com/track/6fGbtfReK8VgAsXrrUHJxg) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [Blue Dreams](https://open.spotify.com/album/5lz235rEOhBXtnAlzu9HnV) | 4:28 | 2024-06-26 |  |
+| [Blue Dreams](https://open.spotify.com/track/6fGbtfReK8VgAsXrrUHJxg) | [Holly Arrowsmith](https://open.spotify.com/artist/3vMKpgD6qgvEqjd7hW3r2X) | [Blue Dreams](https://open.spotify.com/album/5lz235rEOhBXtnAlzu9HnV) | 4:28 | 2024-06-26 | 2026-03-10 |
 | [Blue Lake](https://open.spotify.com/track/7CvKEtfHFgxKxzsfHpxsZc) | [Rod Coote](https://open.spotify.com/artist/5xifoiBHJPatPhtG96G1ck) | [Blue Lake](https://open.spotify.com/album/1lIuk3A9M7YmA8RVNhdXkO) | 2:57 | 2024-02-22 | 2024-12-25 |
 | [Blush](https://open.spotify.com/track/6PXXyLYTDjKeTu5iWI2GA5) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [Blush](https://open.spotify.com/album/5V8mpH3KV9P7O85KPPTycA) | 3:50 | 2025-03-24 |  |
 | [Bones Shake](https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Bones Shake](https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk) | 3:46 | 2024-04-18 | 2024-06-19 |
@@ -214,7 +215,7 @@
 | [Indefinitely](https://open.spotify.com/track/60qDNmGSb59JgfRKrDZmSg) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg), [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Indefinitely](https://open.spotify.com/album/48EF4G8KMMc2Ed23LgjahS) | 3:38 | 2024-02-22 | 2024-04-19 |
 | [Indifferent](https://open.spotify.com/track/25y9YmRS4s6nrreQMCDjuP) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC) | [Senseless Acts of Beauty](https://open.spotify.com/album/22yoZvRNLkA6JeonK3v4Ro) | 3:53 | 2024-05-24 | 2024-10-07 |
 | [Insect Bite](https://open.spotify.com/track/7IuZzy0YM0Y1G1PH2OlslB) | [Husky Gawenda](https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W), [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Insect Bite](https://open.spotify.com/album/74MVxgqg2d4XyAelJTCuTU) | 3:51 | 2025-06-30 | 2025-09-09 |
-| [Into The Sea](https://open.spotify.com/track/36r6ZFk91Xr3lWwVpWOqg3) | [Southey](https://open.spotify.com/artist/6Lgj14UUAFQTnRFATVYS91) | [Into The Sea](https://open.spotify.com/album/72ak14O7dP4u4ThRNHrFHU) | 4:10 | 2024-06-26 |  |
+| [Into The Sea](https://open.spotify.com/track/36r6ZFk91Xr3lWwVpWOqg3) | [Southey](https://open.spotify.com/artist/6Lgj14UUAFQTnRFATVYS91) | [Into The Sea](https://open.spotify.com/album/72ak14O7dP4u4ThRNHrFHU) | 4:10 | 2024-06-26 | 2026-03-10 |
 | [Is There Something?](https://open.spotify.com/track/3LVn9obQnzaKKuNawhJ2zC) | [Fiona Harte](https://open.spotify.com/artist/5MhqWAoMsPoYzCaFEf6mYs), [Dillan Witherow](https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl) | [Is There Something?](https://open.spotify.com/album/6KCT3K1MYF42KH0TRtn5Oq) | 2:44 | 2022-03-25 | 2024-04-03 |
 | [It Gets Better](https://open.spotify.com/track/2aGLHwTtiiz3NgT3XDxesS) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [It Gets Better](https://open.spotify.com/album/7xOC0nrdv8HwIWSCs6MpfS) | 3:13 | 2024-05-24 | 2025-06-17 |
 | [It Wasn't Enough](https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP) | [It Wasn't Enough](https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv) | 4:25 | 2023-05-09 | 2024-02-17 |
@@ -423,6 +424,7 @@
 | [Vienna](https://open.spotify.com/track/0mGIL8cwDCf712oaI1Nosb) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/10t8s95xXT88VShcKfPDZ2) | 2:43 | 2022-06-17 | 2022-10-15 |
 | [Vienna](https://open.spotify.com/track/6wgut7kOpJaVp3ge69Noou) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/6jNeC1ZND8Cd5GzetoprLH) | 2:43 | 2022-05-07 | 2024-12-25 |
 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 | 2022-03-25 | 2024-02-17 |
+| [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 | 2026-03-09 |  |
 | [Walk Above the City](https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:00 | 2022-06-17 | 2023-05-10 |
 | [Walk Above the City \(feat\. Maro\)](https://open.spotify.com/track/3GbfeAIMz63lXalcGO4FFi) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Walk Above the City \(feat\. Maro\)](https://open.spotify.com/album/28ktV64rSS53iVeOamQEIb) | 4:00 | 2022-03-25 | 2022-07-29 |
 | [wasting your love](https://open.spotify.com/track/2NRx2hmaTxu3e3WbZsaw4G) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [wasting your love](https://open.spotify.com/album/3dp1gYVZHZLhLIY8ixDFnF) | 2:43 | 2024-06-18 | 2025-12-16 |

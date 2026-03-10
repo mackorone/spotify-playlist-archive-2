@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 12959,
+  "num_followers": 12968,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Kumi Lach",
-        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
-      },
-      "artists": [
-        {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kumi Lach",
-      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },
@@ -247,18 +231,18 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Ndilapha",
-        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
+        "name": "Kumi Lach",
+        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
       },
       "artists": [
         {
-          "name": "Nomfundo Xaluva",
-          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
+          "name": "Yosef Gutman",
+          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
         }
       ],
-      "duration_ms": 398530,
-      "name": "Wendile",
-      "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
+      "duration_ms": 244426,
+      "name": "Kumi Lach",
+      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -275,6 +259,22 @@
       "duration_ms": 237516,
       "name": "Baby Ngimanzi Wuthando",
       "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "Ndilapha",
+        "url": "https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Xaluva",
+          "url": "https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE"
+        }
+      ],
+      "duration_ms": 398530,
+      "name": "Wendile",
+      "url": "https://open.spotify.com/track/72eOisbgNdPmSKNMrokUIQ"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
-      },
-      "artists": [
-        {
-          "name": "Asher Gamedze",
-          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
-        }
-      ],
-      "duration_ms": 311750,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 258920,
       "name": "Elusive Freedom",
       "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH"
+      },
+      "artists": [
+        {
+          "name": "Asher Gamedze",
+          "url": "https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ"
+        }
+      ],
+      "duration_ms": 311750,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -587,26 +587,22 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Water from an Ancient Well",
-        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
+        "name": "kulungile",
+        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
       },
       "artists": [
         {
-          "name": "Abdullah Ibrahim",
-          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
         },
         {
-          "name": "Noah Jackson",
-          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
-        },
-        {
-          "name": "Cleave Guyton Jr.",
-          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
         }
       ],
-      "duration_ms": 244278,
-      "name": "Water from an Ancient Well - Single Edit",
-      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
+      "duration_ms": 346924,
+      "name": "kulungile",
+      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -627,22 +623,26 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "kulungile",
-        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
+        "name": "Water from an Ancient Well",
+        "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+          "name": "Abdullah Ibrahim",
+          "url": "https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ"
         },
         {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+          "name": "Noah Jackson",
+          "url": "https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe"
+        },
+        {
+          "name": "Cleave Guyton Jr.",
+          "url": "https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC"
         }
       ],
-      "duration_ms": 346924,
-      "name": "kulungile",
-      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
+      "duration_ms": 244278,
+      "name": "Water from an Ancient Well - Single Edit",
+      "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "Bawo Ndi Xolele (Hymn)",
-      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "Tones of Epiphany",
         "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
       },
@@ -723,26 +707,18 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "People of the South",
-        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
       "artists": [
         {
-          "name": "Viwe Mkizwana Ensemble",
-          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
-        },
-        {
-          "name": "Bokani Dyer",
-          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
-        },
-        {
-          "name": "Marcus Wyatt",
-          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
         }
       ],
-      "duration_ms": 345520,
-      "name": "People of the South",
-      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
+      "duration_ms": 210666,
+      "name": "Bawo Ndi Xolele (Hymn)",
+      "url": "https://open.spotify.com/track/5oDMLrjVqFN3ALJmsBAjtq"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -771,6 +747,30 @@
       "duration_ms": 371396,
       "name": "Homecoming (Part 1) - Revisited",
       "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "People of the South",
+        "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
+      },
+      "artists": [
+        {
+          "name": "Viwe Mkizwana Ensemble",
+          "url": "https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg"
+        },
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        },
+        {
+          "name": "Marcus Wyatt",
+          "url": "https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4"
+        }
+      ],
+      "duration_ms": 345520,
+      "name": "People of the South",
+      "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
-      },
-      "artists": [
-        {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
-        }
-      ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "Born Coloured, not Born-Free",
         "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 334300,
       "name": "Gadija (Pt. 1)",
       "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
+      },
+      "artists": [
+        {
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
+        }
+      ],
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+        "name": "IZIBONGO",
+        "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
       },
       "artists": [
         {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+          "name": "Sibusiso Mash Mashiloane",
+          "url": "https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI"
         }
       ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
+      "duration_ms": 412966,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
     }
   ],
   "unique_name": "Jazz NXT",

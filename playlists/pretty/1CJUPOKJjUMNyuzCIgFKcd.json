@@ -1,13 +1,61 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22206,
+  "num_followers": 22202,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAndYnL8wAumsSzolQHorOykVu0uJEj",
+  "snapshot_id": "AAAne0zJwFTYVN05vzA2KBvnJYoQUFWA",
   "tracks": [
+    {
+      "added_at": "2026-03-09 21:03:07",
+      "album": {
+        "name": "Most Hated 2",
+        "url": "https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "duration_ms": 138571,
+      "name": "Jumpin' Out a Window",
+      "url": "https://open.spotify.com/track/5s5yhDeZvpdhEbK5E6xmbh"
+    },
+    {
+      "added_at": "2026-03-09 21:03:26",
+      "album": {
+        "name": "FIJI",
+        "url": "https://open.spotify.com/album/2SknDGjIYMDmm3imTXp8RD"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "FIJI",
+      "url": "https://open.spotify.com/track/3o3oF6mXg9Ko21ylS5DBzB"
+    },
+    {
+      "added_at": "2026-03-09 21:03:44",
+      "album": {
+        "name": "S/O Alysa Liu",
+        "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 137019,
+      "name": "S/O Alysa Liu",
+      "url": "https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw"
+    },
     {
       "added_at": "2026-03-02 19:24:18",
       "album": {

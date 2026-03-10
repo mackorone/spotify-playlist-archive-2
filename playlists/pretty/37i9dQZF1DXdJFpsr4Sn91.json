@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60300,
+  "num_followers": 60296,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
         "name": "Paradise (with Bipolar Sunshine)",
         "url": "https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 200000,
       "name": "Paradise (with Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 182055,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "Ai Ett\u00e4",
-        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Ai Ett\u00e4",
-      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
         "name": "Rakkaudenkipee",
         "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 174044,
       "name": "Rakkaudenkipee",
       "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
+        "name": "Ai Ett\u00e4",
+        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Ai Ett\u00e4",
+      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
         "name": "PETSHOP",
         "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
       },
@@ -1079,34 +1095,18 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
       },
       "artists": [
         {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "Tytt\u00f6yst\u00e4v\u00e4",
-        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 177132,
-      "name": "Tytt\u00f6yst\u00e4v\u00e4",
-      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "Me, Myself and The Night",
-        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
+        "name": "Tytt\u00f6yst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 251748,
-      "name": "Me, Myself and The Night",
-      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
+      "duration_ms": 177132,
+      "name": "Tytt\u00f6yst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
+        "name": "Latu on auki",
+        "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
+      },
+      "artists": [
+        {
+          "name": "Kaija Koo",
+          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Latu on auki",
+      "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
       },
@@ -1171,22 +1191,6 @@
       "duration_ms": 233666,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "Don't Click Play",
-        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 148932,
-      "name": "Don\u2019t Click Play",
-      "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1223,6 +1227,22 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
+        "name": "Don't Click Play",
+        "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 148932,
+      "name": "Don\u2019t Click Play",
+      "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
         "name": "Totuus sattuu",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "Latu on auki",
-        "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
-      },
-      "artists": [
-        {
-          "name": "Kaija Koo",
-          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
-        },
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Latu on auki",
-      "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
     },
     {
       "added_at": "2026-03-05 22:00:13",

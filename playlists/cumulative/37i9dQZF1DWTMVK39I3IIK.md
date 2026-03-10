@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Yör
 
-400 songs - 20 hr 26 min
+401 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-09-05 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-18 | 2025-10-10 |
 | [moving in](https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [moving in](https://open.spotify.com/album/1E6E9b6Do9vazfKNHzJnpk) | 4:05 | 2026-01-22 | 2026-02-27 |
-| [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 | 2025-09-11 |  |
+| [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 | 2025-09-11 | 2026-03-10 |
 | [Nak Og Æd](https://open.spotify.com/track/0niH1XyGXvtIxa77UvHO53) | [Godt Gået Frej](https://open.spotify.com/artist/2nPa8GSEhLI81oFZA06k7H) | [Nak Og Æd](https://open.spotify.com/album/5CKWRghpo2RXMJegmbvQ7L) | 3:06 | 2025-06-12 | 2025-06-20 |
 | [Ned Fra Månen](https://open.spotify.com/track/0JprUaYDxtSqBqzrG0L0jG) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Ned Fra Månen](https://open.spotify.com/album/17QzIJjOJFtzwAZG6jvdUl) | 2:38 | 2025-02-06 | 2025-02-24 |
 | [Neon Glow](https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Neon Glow](https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4) | 3:00 | 2024-10-03 | 2024-10-11 |
@@ -374,6 +374,7 @@
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2025-01-24 |
 | [ung og elske](https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy) | [KARLA](https://open.spotify.com/artist/1CEg4ddOkDrZnyNlIdhjNC) | [ung og elske](https://open.spotify.com/album/0fAuHlYjFcvs2Yd52DlnDH) | 2:32 | 2026-03-05 |  |
 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-09-11 | 2025-09-13 |
+| [Upgrade](https://open.spotify.com/track/3ogJQFKXZconuA2XeTYo90) | [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ) | [Upgrade](https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy) | 2:18 | 2026-03-05 |  |
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 |  |
 | [USKARPT](https://open.spotify.com/track/4VyU3KBCCJUjGCqCdzTHeb) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4), [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [USKARPT](https://open.spotify.com/album/49TmWBCTdfEHCohhKdqFNy) | 2:53 | 2025-11-06 | 2025-12-01 |
 | [Valmue](https://open.spotify.com/track/1YXNeYRjvVt1mqAA9jH2SR) | [Hvor Er Skygge](https://open.spotify.com/artist/3vQPGdAOoWtCySAOJThDKx) | [Valmue](https://open.spotify.com/album/09jgvziuGfcArOJ8cTbUCH) | 4:21 | 2025-11-06 | 2025-11-14 |

@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-823 songs - 1 day 20 hr 24 min
+824 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2022-04-14 | 2023-07-01 |
 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 | 2022-07-08 | 2022-10-29 |
 | [Love Will Find Me](https://open.spotify.com/track/2z9FTmH4pP06PeQFGNRAI1) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist \(Gold Edition\)](https://open.spotify.com/album/2hPaUJ88PvHKtaz8HtaLKu) | 3:50 | 2025-03-21 | 2025-05-17 |
+| [Love You Right](https://open.spotify.com/track/4fJ7ABPWNkI2sz3IDyN9sH) | [Tanner Grigoli](https://open.spotify.com/artist/1kq96hgs2sFG1Pp7595rPd) | [Love You Right](https://open.spotify.com/album/61DyH5F355xLPkClgNpy5U) | 2:37 | 2026-03-09 |  |
 | [Loved You Once](https://open.spotify.com/track/3LbwR2WcofkDBp4LSgGJh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Loved You Once](https://open.spotify.com/album/01iLv3vWw6HJNlpkpazU8G) | 2:28 | 2022-04-14 | 2022-07-29 |
 | [lovely \(with Khalid\)](https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [lovely \(with Khalid\)](https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK) | 3:20 | 2022-04-14 | 2024-03-30 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2022-04-14 | 2023-07-01 |

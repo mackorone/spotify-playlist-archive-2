@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
 517 songs - 1 day 9 hr 29 min
 
@@ -169,7 +169,7 @@
 | [Hallelujah, Christ Is Born](https://open.spotify.com/track/5E7epWuX7iVC2kNfo1NMWc) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [Hallelujah, Christ Is Born](https://open.spotify.com/album/2AOCGDHqtGYNUbg7y12ZI6) | 4:28 | 2021-12-11 | 2025-11-09 |
 | [Hallelujah, Jesus Christ Was Born](https://open.spotify.com/track/4MMnoxIZB5CgStUUWfErvt) | [Mat and Savanna Shaw](https://open.spotify.com/artist/4F8dV25EPLvvKVABCaSr8b) | [A Christmas We'll Remember](https://open.spotify.com/album/31aFyRNbhfzszhXSVBcd45) | 3:22 | 2023-11-27 | 2023-12-03 |
 | [Hark](https://open.spotify.com/track/6YWZdcOutcQrabeabnGUVe) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72), [Corbin Phillips](https://open.spotify.com/artist/6EPSg1gsct5FInjukNWFUS) | [Christmas, Vol\. 2](https://open.spotify.com/album/0mG4i5huZcB7j08LlfxY5D) | 3:09 | 2024-12-13 | 2025-03-10 |
-| [Hark The Herald](https://open.spotify.com/track/0YzRVtVxGDCFAyQTQIMAlu) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Leonard Ray Jarman](https://open.spotify.com/artist/6o1flHceho6J3t1Nhhn7Tt) | [Hark The Herald](https://open.spotify.com/album/1FNolT8ang3OSp618FeTHK) | 3:58 | 2025-11-22 | 2025-12-09 |
+| [Hark The Herald](https://open.spotify.com/track/0YzRVtVxGDCFAyQTQIMAlu) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Leonard Ray Jarman](https://open.spotify.com/artist/6o1flHceho6J3t1Nhhn7Tt) | [Hark The Herald](https://open.spotify.com/album/1FNolT8ang3OSp618FeTHK) | 3:58 | 2025-11-22 |  |
 | [Hark the Herald Angels Sing](https://open.spotify.com/track/1DyiP138RrqFs6wXdCgO4H) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Hark the Herald Angels Sing](https://open.spotify.com/album/0OZ14HzN2hDsCcUnRMiym6) | 4:07 | 2021-12-24 | 2022-07-24 |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/7ry33QJNnX9YJFEo51yUQK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Echo The Angels](https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb) | 4:04 | 2023-11-03 | 2024-08-01 |
 | [Hark the Herald Angels Sing](https://open.spotify.com/track/1nu2k5FWIcPtcS2tiE6pED) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 3:48 | 2021-12-24 | 2022-07-26 |
@@ -475,7 +475,7 @@
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/3EEWajIld20vCAPfRkXh1S) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 | 2026-03-03 |
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2022-07-29 |
-| [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
+| [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 | 2026-03-10 |
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 | 2024-04-02 |
 | [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 | 2022-12-22 |
 | [This is Emmanuel](https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [This is Emmanuel](https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA) | 3:55 | 2022-12-11 | 2024-08-01 |

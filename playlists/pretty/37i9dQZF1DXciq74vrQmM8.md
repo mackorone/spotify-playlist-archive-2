@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. ivri
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,080 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,003 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

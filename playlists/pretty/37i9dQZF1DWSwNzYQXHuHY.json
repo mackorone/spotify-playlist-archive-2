@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12193,
+  "num_followers": 12194,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-03-03 04:39:53",
       "album": {
-        "name": "Good Person (2022)",
-        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
-      },
-      "artists": [
-        {
-          "name": "HAECHAN",
-          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Good Person (2022)",
-      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
-    },
-    {
-      "added_at": "2026-03-03 04:39:53",
-      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI"
+    },
+    {
+      "added_at": "2026-03-03 04:39:53",
+      "album": {
+        "name": "Good Person (2022)",
+        "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
+      },
+      "artists": [
+        {
+          "name": "HAECHAN",
+          "url": "https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Good Person (2022)",
+      "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
       "added_at": "2026-03-03 04:39:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-03-03 04:39:53",
       "album": {
-        "name": "XO, My Cyberlove",
-        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
-    },
-    {
-      "added_at": "2026-03-03 04:39:53",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2026-03-03 04:39:53",
+      "album": {
+        "name": "XO, My Cyberlove",
+        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
     },
     {
       "added_at": "2026-03-03 04:39:53",

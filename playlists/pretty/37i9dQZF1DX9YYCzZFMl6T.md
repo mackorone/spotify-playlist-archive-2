@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,808 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,810 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 23 | [Christmas Eve](https://open.spotify.com/track/2V3w0JAQYU39IgTlHGMAXZ) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [A Dotted Line](https://open.spotify.com/album/3ujidZyCiCruwocS0bDmt2) | 4:22 |
 | 24 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
 | 25 | [Merry Christmas Mary Jane](https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Merry Christmas Mary Jane](https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j) | 4:12 |
-| 26 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
-| 27 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 |
+| 26 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 |
+| 27 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
 | 28 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
 | 29 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |
 | 30 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 39 | [Auld Lang Syne](https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Auld Lang Syne](https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y) | 4:22 |
 | 40 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 |
 | 41 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |
-| 42 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
-| 43 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
+| 42 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
+| 43 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
 | 44 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 |
 | 45 | [Christmas Is All Around](https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [we did a Christmas thing](https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K) | 2:39 |
 | 46 | [The Christmas Song](https://open.spotify.com/track/2Ce03QU0b8QO5tQ71Tx61R) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Happier New Year / The Christmas Song](https://open.spotify.com/album/67xMVShPvIgH18AdCP6OCx) | 3:09 |

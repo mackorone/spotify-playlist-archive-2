@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 147018,
+  "num_followers": 147056,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
+      },
+      "artists": [
+        {
+          "name": "Elevation Church Kids",
+          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "For Your Glory",
+      "url": "https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
         "name": "Philippians 4:13",
         "url": "https://open.spotify.com/album/5RP748yMgX2tbUD7FWuIIW"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 228484,
       "name": "I'm So Blessed (Kids Version)",
       "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/3RFbBkA8LcMv0ROS56SL1I"
-      },
-      "artists": [
-        {
-          "name": "Elevation Church Kids",
-          "url": "https://open.spotify.com/artist/0ZGQ1XnxB8h4eiAjtIhNx5"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "For Your Glory",
-      "url": "https://open.spotify.com/track/4gOCIPrqrz8MtSoWIAodOK"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Worship For Your Family (Yellow)",
-        "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
-      },
-      "artists": [
-        {
-          "name": "Here I Am To Worship For Kids Performers",
-          "url": "https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ"
-    },
-    {
-      "added_at": "2025-12-14 00:08:40",
-      "album": {
         "name": "Romans 3:23-24 (English Standard Version)",
         "url": "https://open.spotify.com/album/5WmZ4VmjzvGzWNIEfvDM5F"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 160618,
       "name": "Romans 3:23-24 (English Standard Version)",
       "url": "https://open.spotify.com/track/2ICElIE0vfuMxLMNFUuFUS"
+    },
+    {
+      "added_at": "2025-12-14 00:08:40",
+      "album": {
+        "name": "Worship For Your Family (Yellow)",
+        "url": "https://open.spotify.com/album/7FVmb7lT2S4FIT30LkAorA"
+      },
+      "artists": [
+        {
+          "name": "Here I Am To Worship For Kids Performers",
+          "url": "https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4k8xg3hXmatho793UA1DBQ"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -847,18 +847,22 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Give Me Oil In My Lamp",
-        "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw"
       },
       "artists": [
         {
-          "name": "3 Little Words",
-          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+          "name": "Juana",
+          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
+        },
+        {
+          "name": "Canticuentos",
+          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
         }
       ],
-      "duration_ms": 168140,
-      "name": "Give Me Oil In My Lamp",
-      "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
+      "duration_ms": 219403,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt"
     },
     {
       "added_at": "2025-12-14 00:08:40",
@@ -879,22 +883,18 @@
     {
       "added_at": "2025-12-14 00:08:40",
       "album": {
-        "name": "Amazing Grace",
-        "url": "https://open.spotify.com/album/77kMAZ0oUkx5dqNkoLaEcw"
+        "name": "Give Me Oil In My Lamp",
+        "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
       },
       "artists": [
         {
-          "name": "Juana",
-          "url": "https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek"
-        },
-        {
-          "name": "Canticuentos",
-          "url": "https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j"
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
         }
       ],
-      "duration_ms": 219403,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/2a2p5OmUg1cf9qH2ruF9qt"
+      "duration_ms": 168140,
+      "name": "Give Me Oil In My Lamp",
+      "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
     },
     {
       "added_at": "2025-12-14 00:08:40",

@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P. Kee",
-  "num_followers": 49361,
+  "num_followers": 49468,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Whatcha Lookin' 4",
-        "url": "https://open.spotify.com/album/0Ire0yqH9G0mycLF1jrXxD"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
-        }
-      ],
-      "duration_ms": 274306,
-      "name": "Melodies From Heaven",
-      "url": "https://open.spotify.com/track/2KxluFxumfo23bZqZzGToW"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Whatcha Lookin' 4",
+        "url": "https://open.spotify.com/album/0Ire0yqH9G0mycLF1jrXxD"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "duration_ms": 274306,
+      "name": "Melodies From Heaven",
+      "url": "https://open.spotify.com/track/2KxluFxumfo23bZqZzGToW"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Nothing But The Hits: Fred Hammond",
-        "url": "https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 342466,
-      "name": "We're Blessed",
-      "url": "https://open.spotify.com/track/0ZD5LFsk2PMHicGH8MWRN8"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Here I Am",
         "url": "https://open.spotify.com/album/2IIxW2mUKDpa3X6YC0NPlf"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 514306,
       "name": "The Best In Me",
       "url": "https://open.spotify.com/track/1B5NWdLAt8GC4WKTPUCrLM"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Nothing But The Hits: Fred Hammond",
+        "url": "https://open.spotify.com/album/0BrE1eS3LplGo2OnLPa2j4"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 342466,
+      "name": "We're Blessed",
+      "url": "https://open.spotify.com/track/0ZD5LFsk2PMHicGH8MWRN8"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 384466,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/6q5ikyHI40C7Pf7mbSP6Wi"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 304693,
       "name": "Praise Is What I Do - Live",
       "url": "https://open.spotify.com/track/2a8ymUDscRaVAVSMSY2URd"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 384466,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "It Remains To Be Seen",
-        "url": "https://open.spotify.com/album/2DPLUc63MOb9Ij4PIltlWM"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Your Grace And Mercy",
-      "url": "https://open.spotify.com/track/2h4UqKYYFqSYMVoOX5wgy6"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers",
         "url": "https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 451080,
       "name": "I Need You To Survive",
       "url": "https://open.spotify.com/track/1S3YUQ2QayTWO78iY3farE"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "It Remains To Be Seen",
+        "url": "https://open.spotify.com/album/2DPLUc63MOb9Ij4PIltlWM"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Your Grace And Mercy",
+      "url": "https://open.spotify.com/track/2h4UqKYYFqSYMVoOX5wgy6"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "I'll See You In The Rapture",
-        "url": "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 406160,
-      "name": "When I Rose This Morning",
-      "url": "https://open.spotify.com/track/11dkIaVR8Mx27Polm9U8wE"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Let The Church Say Amen (Radio Edit)",
         "url": "https://open.spotify.com/album/7in33XBpTwwyVMMHGJKZT3"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 294813,
       "name": "Let The Church Say Amen - Radio Edit",
       "url": "https://open.spotify.com/track/66mi3OKkrYHZkV9T62Ytyy"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "I'll See You In The Rapture",
+        "url": "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 406160,
+      "name": "When I Rose This Morning",
+      "url": "https://open.spotify.com/track/11dkIaVR8Mx27Polm9U8wE"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Stand",
-      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Welcome To The City",
         "url": "https://open.spotify.com/album/6rg15XPgPhunxqpsUxmbfM"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 302000,
       "name": "Sinner's Prayer",
       "url": "https://open.spotify.com/track/1I3v23MpvlCQQ7ugP7jkQ0"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Playlist: The Very Best Of Kurt Carr",
         "url": "https://open.spotify.com/album/6fFB0IdnQZEuSeKjgSMMJF"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 445346,
       "name": "For Every Mountain - Live",
       "url": "https://open.spotify.com/track/0pbg96qmU9zxBEqrQCLAoz"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 322973,
-      "name": "Speak to My Heart",
-      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Place Called Victory - EP",
         "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 322973,
+      "name": "Speak to My Heart",
+      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2215,22 +2215,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Shout It Loud",
-        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 370704,
-      "name": "I Know Who I Am",
-      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "As We Worship Live",
         "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 221733,
       "name": "Here I Am To Worship",
       "url": "https://open.spotify.com/track/7BZ17guc4xS23ZVJ1s89Kj"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Shout It Loud",
+        "url": "https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 370704,
+      "name": "I Know Who I Am",
+      "url": "https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG"
     },
     {
       "added_at": "2026-02-13 12:47:48",

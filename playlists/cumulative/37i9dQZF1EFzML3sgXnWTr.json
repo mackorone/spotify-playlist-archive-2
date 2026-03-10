@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Chiedere aiuto",
+        "url": "https://open.spotify.com/album/0qfb5ZB9yzHoS6koD5lw2N"
+      },
+      "artists": [
+        {
+          "name": "Vybes",
+          "url": "https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153351,
+      "name": "Chiedere aiuto",
+      "url": "https://open.spotify.com/track/2O0bztgttWP5etXYEJB98A"
+    },
+    {
+      "album": {
         "name": "Ci pensiamo domani",
         "url": "https://open.spotify.com/album/4mDNlXka14q7OXt8nwzylf"
       },
@@ -1944,6 +1962,24 @@
       "duration_ms": 177500,
       "name": "SOLDI, AMORE",
       "url": "https://open.spotify.com/track/6J2IPT5QmI6hcjf6zf7iMI"
+    },
+    {
+      "album": {
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/16hacsVcvQ2w9oQK5lRw0p"
+      },
+      "artists": [
+        {
+          "name": "Vybes",
+          "url": "https://open.spotify.com/artist/1CCl7am3EnML5UThCzoVJE"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185192,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/3y34Oj2rgQ2wrXsWpIFJH8"
     },
     {
       "album": {

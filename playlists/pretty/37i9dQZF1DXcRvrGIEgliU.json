@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 14805,
+  "num_followers": 14845,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "deep in it",
-        "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        },
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 154862,
-      "name": "deep in it",
-      "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "B.O.T.A. (Baddest Of Them All)",
         "url": "https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 226626,
       "name": "B.O.T.A. (Baddest Of Them All) - Edit",
       "url": "https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "deep in it",
+        "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        },
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 154862,
+      "name": "deep in it",
+      "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Groundhog Day",
-        "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 173619,
-      "name": "Groundhog Day",
-      "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/1g9Kxqn7NNZyHB2dGtlbmR"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 177176,
       "name": "Late to the Party",
       "url": "https://open.spotify.com/track/7hdMPlOGOngKH3mj4pVLcG"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Groundhog Day",
+        "url": "https://open.spotify.com/album/0Nv9MBWrH1OmMohTasPc4O"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 173619,
+      "name": "Groundhog Day",
+      "url": "https://open.spotify.com/track/0QLb1y64s617SAnnDoUZLN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "U\u00e7urum",
-        "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
-      },
-      "artists": [
-        {
-          "name": "M Lisa",
-          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "U\u00e7urum",
-      "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "U\u00e7urum",
+        "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "U\u00e7urum",
+      "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tuning In",
         "url": "https://open.spotify.com/album/7G9fuOeoMTrIc5H0SSAV4y"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 252226,
       "name": "Koszulka",
       "url": "https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP"
+      },
+      "artists": [
+        {
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+        }
+      ],
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2335,22 +2335,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "eyes don\u2019t lie",
         "url": "https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y"
       },
@@ -2383,6 +2367,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -2395,6 +2395,22 @@
       "duration_ms": 147920,
       "name": "Lotto",
       "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Essentials",
+        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
+      },
+      "artists": [
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2415,22 +2431,6 @@
       "duration_ms": 162206,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Essentials",
-        "url": "https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ"
     },
     {
       "added_at": "2025-05-19 03:00:14",

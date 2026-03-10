@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 479285,
+  "num_followers": 479929,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Prismatic: Pack One",
         "url": "https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 198750,
       "name": "I Follow Rivers",
       "url": "https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 231365,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 231365,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 227735,
       "name": "\u2060\u2060Butterflies",
       "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -2083,8 +2083,8 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Euphoria (with Alok)",
-        "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW"
       },
       "artists": [
         {
@@ -2092,21 +2092,17 @@
           "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        },
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
         }
       ],
-      "duration_ms": 151818,
-      "name": "Euphoria (with Alok)",
-      "url": "https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc"
+      "duration_ms": 180422,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -2159,26 +2155,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "I Remember (John Summit Remix)",
-        "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
+        "name": "undux",
+        "url": "https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9"
       },
       "artists": [
         {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        },
-        {
           "name": "Kaskade",
           "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 240000,
-      "name": "I Remember - John Summit Remix",
-      "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
+      "duration_ms": 212000,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1"
     }
   ],
   "unique_name": "EDM 2026",

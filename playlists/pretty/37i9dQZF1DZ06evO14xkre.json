@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 301519,
+  "num_followers": 301583,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADS0rRe9rOFEQC2ix5GJ4uX",
+  "snapshot_id": "aay8AAAAAAAmb3eZHZkCM7AwxSjxkdRH",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y si peleamos",
+        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Y si peleamos",
+      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 230895,
       "name": "Damn Right (feat. Childish Gambino & Kali Uchis)",
       "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y si peleamos",
-        "url": "https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Y si peleamos",
-      "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "moonlight (kali uchis) [sped up version]",
-        "url": "https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1"
-      },
-      "artists": [
-        {
-          "name": "sped up viral",
-          "url": "https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 156436,
-      "name": "moonlight (kali uchis) - sped up version",
-      "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 180000,
       "name": "la luz(F\u00edn)",
       "url": "https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "moonlight (kali uchis) [sped up version]",
+        "url": "https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1"
+      },
+      "artists": [
+        {
+          "name": "sped up viral",
+          "url": "https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 156436,
+      "name": "moonlight (kali uchis) - sped up version",
+      "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
     },
     {
       "added_at": null,

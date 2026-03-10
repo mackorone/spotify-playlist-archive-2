@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,181 songs - 2 day 16 hr 11 min
+1,182 songs - 2 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-05-14 |  |
 | [BOUJEE](https://open.spotify.com/track/4JUfa1Xcbl7mWXGX7bRQLv) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [BOUJEE](https://open.spotify.com/album/2L7qCezYYgtsQA1ymR2g31) | 2:13 | 2023-06-30 | 2023-07-08 |
 | [boys are stupid](https://open.spotify.com/track/6Fogz5InCLq1bpEJzXF9Rj) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Missing You](https://open.spotify.com/album/3WucswXfEFjPIkARcOorSi) | 2:19 | 2024-10-25 | 2025-01-18 |
-| [BRB](https://open.spotify.com/track/1E1P4FFDWZQarIllFj7pCf) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [BRB](https://open.spotify.com/album/59gHk4tDlPnS9PUxdxYQ99) | 3:32 | 2023-10-13 |  |
+| [BRB](https://open.spotify.com/track/1E1P4FFDWZQarIllFj7pCf) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [BRB](https://open.spotify.com/album/59gHk4tDlPnS9PUxdxYQ99) | 3:32 | 2023-10-13 | 2026-03-10 |
 | [Breadcrumbs](https://open.spotify.com/track/5uZmsnmHHR1UXqTw8a2urG) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [Breadcrumbs](https://open.spotify.com/album/7MBhogvbQ50jmLjSFmuMW2) | 3:25 | 2022-04-24 | 2022-05-10 |
 | [Break From The Party](https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [GLOOMY BOOGIE Vol\. 1](https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5) | 2:19 | 2023-08-25 | 2023-09-02 |
 | [Break Your Heart](https://open.spotify.com/track/6CLXGbY0r73pCownwMrVsc) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [Break Your Heart](https://open.spotify.com/album/5GhoqZXqKqX4ggC4I9zzPf) | 3:33 | 2026-01-20 | 2026-02-07 |
@@ -155,7 +155,7 @@
 | [But does my love make you feel?](https://open.spotify.com/track/3jqIugXgGe4CgGu3S77ASY) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [But does my love make you feel?](https://open.spotify.com/album/4vyUUI6cAAkoYH1mmZh3lX) | 4:56 | 2024-08-30 | 2024-10-05 |
 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 | 2024-12-13 |  |
 | [Butterflies](https://open.spotify.com/track/4QGTnh9AxekobAMvaHfNAo) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Butterflies](https://open.spotify.com/album/5fpkYJHEUM5DMGyxK1oeVF) | 2:28 | 2025-10-02 | 2025-11-08 |
-| [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-01-06 |  |
+| [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 | 2023-01-06 | 2026-03-10 |
 | [buttons](https://open.spotify.com/track/6ejid3XQunJpAaZCFS9rDa) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [buttons](https://open.spotify.com/album/60cW2bcyQVKvbCh0QmXyAK) | 2:07 | 2024-10-25 | 2025-10-03 |
 | [BUTTONS](https://open.spotify.com/track/63KqHfBRWTWo7PkQj5t947) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD), [Kidmeddling](https://open.spotify.com/artist/1Wtp5gxsbuzXJnFOgd3uXZ) | [chapter one](https://open.spotify.com/album/5Pu5aw5SnOz3NljFQowoob) | 2:47 | 2023-07-28 | 2023-08-12 |
 | [By My Side](https://open.spotify.com/track/4AmoMRrcDyu4NbDLmHwyAs) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [By My Side](https://open.spotify.com/album/1oBFj4yyV0em7AxcB0uRfg) | 3:01 | 2025-02-14 | 2025-03-12 |
@@ -557,6 +557,7 @@
 | [kodak](https://open.spotify.com/track/4DCa5XDAMffNCB3SN79YhB) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [kodak](https://open.spotify.com/album/3IKAESdzFil1Ka7GNQdbTJ) | 3:41 | 2022-01-28 | 2022-07-13 |
 | [l.s.d](https://open.spotify.com/track/54I88UKXZfKxNGsHeDoJR9) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [l.s.d](https://open.spotify.com/album/1auwbTPYA5QsgzemGEDUx8) | 2:00 | 2024-10-04 | 2024-10-19 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-23 | 2026-01-28 |
+| [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 | 2026-02-27 |  |
 | [Lasagna](https://open.spotify.com/track/4nvp790ASXZKB2g8mNLiza) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Lasagna](https://open.spotify.com/album/6yVljc0D012bFU5rYyG7ou) | 3:21 | 2024-08-30 | 2024-10-05 |
 | [Last Bite](https://open.spotify.com/track/0b6OaKlmNGqPH1LElAFOAx) | [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [Sleepless Mentality](https://open.spotify.com/album/4QuBFVJDDVkYweqV4SIUue) | 2:48 | 2023-08-11 | 2023-08-26 |
 | [Last Letter](https://open.spotify.com/track/3o7eTQeMe2uRkXWFLKH8rC) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Last Letter](https://open.spotify.com/album/4wpU0j3dLbpPVzM4ymTtmr) | 3:17 | 2023-07-07 | 2023-07-19 |
@@ -1069,7 +1070,7 @@
 | [Try](https://open.spotify.com/track/01nkbGifRqRnRN7p8I8w4u) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T) | [Try](https://open.spotify.com/album/6kc1YOjfDWiF3o6N5qUyvB) | 3:47 | 2024-01-12 | 2024-02-03 |
 | [Turn Back Time](https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Turn Back Time](https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI) | 3:40 | 2023-10-13 | 2024-03-21 |
 | [twentysixteen](https://open.spotify.com/track/5GJUSu9bxSzYBSZmHwPJNT) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [twentysixteen](https://open.spotify.com/album/65GS48Ev0uQk6QNmCE5sbG) | 3:19 | 2022-01-28 | 2022-07-27 |
-| [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-26 | 2026-01-25 |
+| [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-26 |  |
 | [Two Bottles of Wine](https://open.spotify.com/track/3cqTlp6msJpd6iaGrp3UTs) | [Dead Bachelors](https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Two Bottles of Wine](https://open.spotify.com/album/4JlWr9FBZx00tINFKzxixh) | 3:26 | 2022-01-28 | 2023-02-18 |
 | [two of us](https://open.spotify.com/track/7K6IzZIlJjYxhg1cnHDDky) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei), [kinu](https://open.spotify.com/artist/2P04gMM2tzgMQFKL3e4UTm), [wilngu](https://open.spotify.com/artist/4muZGX6UWq6CDpUj7pMnpS) | [two of us](https://open.spotify.com/album/13lo5WcLT0obJjReDhyfkv) | 3:38 | 2023-06-08 | 2023-07-08 |
 | [TY \(for ruining my life\)](https://open.spotify.com/track/7ry0hUCtzs54MaGmYo1kON) | [Adib Sin](https://open.spotify.com/artist/1jabdDuJsaLfTleriyIZ1i), [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [TY \(for ruining my life\)](https://open.spotify.com/album/3nP9a6GXTFbE9I9f3XEOqQ) | 2:10 | 2023-01-26 | 2023-02-03 |

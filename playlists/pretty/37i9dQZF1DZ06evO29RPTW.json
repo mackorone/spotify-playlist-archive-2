@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 135202,
+  "num_followers": 135207,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACIKj3cuCA+qmpgOaa/w+ly",
+  "snapshot_id": "aay8AAAAAADQPuj6PX5u278GpWlm9PUW",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "(I'm a) Rock \"N\" Roller",
-        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 212720,
-      "name": "(I'm a) Rock \"N\" Roller",
-      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
+      "duration_ms": 286773,
+      "name": "Pussy Liquor",
+      "url": "https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc"
     },
     {
       "added_at": null,
@@ -178,11 +178,15 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 189133,
-      "name": "Never Gonna Stop (The Red, Red Kroovy)",
-      "url": "https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY"
+      "duration_ms": 251200,
+      "name": "Iron Head",
+      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
     },
     {
       "added_at": null,
@@ -203,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "(I'm a) Rock \"N\" Roller",
+        "url": "https://open.spotify.com/album/3kNZlzBdkvkscSUmz7Mg9p"
       },
       "artists": [
         {
@@ -212,9 +216,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 286773,
-      "name": "Pussy Liquor",
-      "url": "https://open.spotify.com/track/03VzAAMs5PrLM42XR7ijuc"
+      "duration_ms": 212720,
+      "name": "(I'm a) Rock \"N\" Roller",
+      "url": "https://open.spotify.com/track/1GxE8KmP1PRhLsh0ttixvf"
     },
     {
       "added_at": null,
@@ -242,15 +246,11 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 251200,
-      "name": "Iron Head",
-      "url": "https://open.spotify.com/track/1BTpL8k7DytUPa2sNYs53P"
+      "duration_ms": 189133,
+      "name": "Never Gonna Stop (The Red, Red Kroovy)",
+      "url": "https://open.spotify.com/track/4P4V9JQhiQEP9hr4U33lEY"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat. Rob Zombie)",
       "url": "https://open.spotify.com/track/1rH3m5jxL3TkznX0owKS39"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
     },
     {
       "added_at": null,

@@ -283,6 +283,50 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232424,
+      "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+      "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
+    },
+    {
+      "album": {
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160966,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/0uSwIF5VDu0GBRTf7JYbzd"
       },
@@ -298,6 +342,24 @@
       "duration_ms": 161045,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5La5RH6MdDgT6fkBdb0RD4"
+    },
+    {
+      "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
     },
     {
       "album": {
@@ -378,6 +440,28 @@
       "duration_ms": 311091,
       "name": "luther",
       "url": "https://open.spotify.com/track/4WCLVsNdUhoq5Ue66YXTHb"
+    },
+    {
+      "album": {
+        "name": "Made It On Our Own",
+        "url": "https://open.spotify.com/album/4k0TPXr0TpuE3ZFUAoNyRK"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176601,
+      "name": "Made It On Our Own",
+      "url": "https://open.spotify.com/track/1sbKhxoxB3FtrMZiSmI8Rx"
     },
     {
       "album": {
@@ -757,6 +841,24 @@
     },
     {
       "album": {
+        "name": "Two Six",
+        "url": "https://open.spotify.com/album/0ANv7vrZk5KxQChBKFObow"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254966,
+      "name": "Two Six",
+      "url": "https://open.spotify.com/track/0fmkZqKsK7RwxjJOPEx7i4"
+    },
+    {
+      "album": {
         "name": "Type Shit",
         "url": "https://open.spotify.com/album/0NMIfCHCYNn0McVG8xTnDr"
       },
@@ -890,6 +992,28 @@
       "duration_ms": 194303,
       "name": "What Happened To Virgil",
       "url": "https://open.spotify.com/track/4EWDBFywMfRBuEbfZY9Mz1"
+    },
+    {
+      "album": {
+        "name": "What You Is",
+        "url": "https://open.spotify.com/album/1Hl1vvKhpzFjIvjVk2rT5d"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Mellow Rackz",
+          "url": "https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234386,
+      "name": "What You Is",
+      "url": "https://open.spotify.com/track/5IW2nN84u3SIrnSvnVRobf"
     },
     {
       "album": {

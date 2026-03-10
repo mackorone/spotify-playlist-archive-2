@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Ayra Starr",
-  "num_followers": 28574,
+  "num_followers": 28646,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
+        "name": "Laho II",
+        "url": "https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159335,
+      "name": "Laho II",
+      "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
+    },
+    {
+      "added_at": "2026-03-06 00:01:09",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 155753,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
-    },
-    {
-      "added_at": "2026-03-06 00:01:09",
-      "album": {
-        "name": "Laho II",
-        "url": "https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159335,
-      "name": "Laho II",
-      "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
-    },
-    {
-      "added_at": "2026-03-06 00:01:09",
-      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
+    },
+    {
+      "added_at": "2026-03-06 00:01:09",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "COMMAS",
-        "url": "https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 172053,
-      "name": "COMMAS",
-      "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
-    },
-    {
-      "added_at": "2026-03-06 00:01:09",
-      "album": {
         "name": "Il s'appelait Tayc",
         "url": "https://open.spotify.com/album/5J0faaooCsZuiFkF7s18we"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 220490,
       "name": "Il s'appelait Tayc",
       "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
+    },
+    {
+      "added_at": "2026-03-06 00:01:09",
+      "album": {
+        "name": "COMMAS",
+        "url": "https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 172053,
+      "name": "COMMAS",
+      "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Look To You (feat. Llona)",
-      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
-    },
-    {
-      "added_at": "2026-03-06 00:01:09",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
+    },
+    {
+      "added_at": "2026-03-06 00:01:09",
+      "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Look To You (feat. Llona)",
+      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "Aiwo (Remix)",
-        "url": "https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ"
-      },
-      "artists": [
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 175135,
-      "name": "Aiwo - Remix",
-      "url": "https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh"
-    },
-    {
-      "added_at": "2026-03-06 00:01:09",
-      "album": {
         "name": "NWANGOLO",
         "url": "https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9"
       },
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+        "name": "Aiwo (Remix)",
+        "url": "https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 176668,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
+      "duration_ms": 175135,
+      "name": "Aiwo - Remix",
+      "url": "https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -1311,6 +1295,22 @@
       "duration_ms": 243744,
       "name": "NUMBER ONE (feat. Minz)",
       "url": "https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb"
+    },
+    {
+      "added_at": "2026-03-06 00:01:09",
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 176668,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g"
     },
     {
       "added_at": "2026-03-06 00:01:09",

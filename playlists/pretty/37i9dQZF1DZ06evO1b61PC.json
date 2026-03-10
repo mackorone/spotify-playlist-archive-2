@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAA6KXVSoAnydK9dUyMcW2+S",
+  "snapshot_id": "aay8AAAAAAB8maihe4jCSILT5oEioadi",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 258545,
+      "name": "Lose My Mind (feat. Mr Gabriel)",
+      "url": "https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 155200,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 258545,
-      "name": "Lose My Mind (feat. Mr Gabriel)",
-      "url": "https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3"
     },
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Down (feat. BANKS)",
-        "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Don't Look Down (feat. BANKS)",
-      "url": "https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 234986,
       "name": "Better Apart (feat. Dresage)",
       "url": "https://open.spotify.com/track/1i9IdiNIgtlBvh9BUGm7Ta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "trilogy remixes",
         "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 202666,
       "name": "blue - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 286013,
+      "name": "Still Sleeping",
+      "url": "https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Will Meet Again",
         "url": "https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 201199,
       "name": "We Will Meet Again",
       "url": "https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 286013,
-      "name": "Still Sleeping",
-      "url": "https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "It All Started With A Feeling",
+      "url": "https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When I Fall Asleep (with Jai Wolf)",
         "url": "https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 193984,
       "name": "When I Fall Asleep (with Jai Wolf)",
       "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "It All Started With A Feeling",
-      "url": "https://open.spotify.com/track/01LPPn0zlhtWefUkXK6e58"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
         "url": "https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
       "url": "https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
     },
     {
       "added_at": null,

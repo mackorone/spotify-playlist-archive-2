@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Ariel Imani 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,514 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,389 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 34 | [ELA ELA](https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:56 |
 | 35 | [Backie](https://open.spotify.com/track/033iFTZGmWiVU9hUGBUvO3) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Backie](https://open.spotify.com/album/7y2B2JsFSFKicQzrXz4Msz) | 2:08 |
 | 36 | [Snooze](https://open.spotify.com/track/6C5WwJEDLnOYSWFU8AGfEk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [GLOW](https://open.spotify.com/album/5bN1rEaxjAkoIRRVk6R2iz) | 2:59 |
-| 37 | [Asteromata](https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:55 |
-| 38 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
+| 37 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
+| 38 | [Asteromata](https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y) | 2:55 |
 | 39 | [一早知道的情歌](https://open.spotify.com/track/4K4snJBIU7lLZIPXnL14Xx) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [一早知道的情歌](https://open.spotify.com/album/60FZ46pW3mW02hVtQ2Zs2l) | 3:40 |
 | 40 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
 | 41 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 |
 | 42 | [Hurts](https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Hurts](https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7) | 2:42 |
 | 43 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
 | 44 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 |
-| 45 | [Broken?](https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Broken?](https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG) | 4:03 |
-| 46 | [Temberang](https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Temberang](https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf) | 2:07 |
+| 45 | [Temberang](https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Temberang](https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf) | 2:07 |
+| 46 | [Broken?](https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Broken?](https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG) | 4:03 |
 | 47 | [In Love](https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [In Love](https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73) | 2:48 |
 | 48 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 |
 | 49 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:26 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 63 | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/track/0Sy0QRE8xBKn8GCfzjwFWZ) | [paiiinntt](https://open.spotify.com/artist/5szfzkgDhJrqaW6Y0TDA8E) | [กลายเป็นเพลงรัก \(love song\)](https://open.spotify.com/album/4tYnacV4JWR9hFTDibUExp) | 4:54 |
 | 64 | [Blue](https://open.spotify.com/track/1uvdsygNOfhOdKBehMl1f2) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Blue](https://open.spotify.com/album/3SL7IUdrQ23Xc0MqyGlGfj) | 3:39 |
 | 65 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
-| 66 | [got.to.believe](https://open.spotify.com/track/5zvE5C2JislfFqefghan0H) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [soul.food 靈食](https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz) | 3:36 |
-| 67 | [saudades tuas.](https://open.spotify.com/track/1GWFezYgzmBkPnKjxeIFJw) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [8/80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:10 |
-| 68 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
+| 66 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
+| 67 | [got.to.believe](https://open.spotify.com/track/5zvE5C2JislfFqefghan0H) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [soul.food 靈食](https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz) | 3:36 |
+| 68 | [saudades tuas.](https://open.spotify.com/track/1GWFezYgzmBkPnKjxeIFJw) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy) | [8/80](https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn) | 3:10 |
 | 69 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
 | 70 | [Tento Na Língua](https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Tento Na Língua](https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx) | 3:15 |
-| 71 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
-| 72 | [The Silence & The Storm](https://open.spotify.com/track/18wYstWXgbzlxjguSj1LSR) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [The Silence & The Storm](https://open.spotify.com/album/1m4no0XlyEjaWa0pW4bkiA) | 3:10 |
-| 73 | [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 |
-| 74 | [Mirza](https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Mirza](https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD) | 3:02 |
-| 75 | [Depois Do Pecado](https://open.spotify.com/track/7q496SXAP672Gd4hoI3Cxo) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Depois Do Pecado](https://open.spotify.com/album/6GBiSKf8HkSMue0h3OO7Fj) | 2:27 |
+| 71 | [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 |
+| 72 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
+| 73 | [The Silence & The Storm](https://open.spotify.com/track/18wYstWXgbzlxjguSj1LSR) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [The Silence & The Storm](https://open.spotify.com/album/1m4no0XlyEjaWa0pW4bkiA) | 3:10 |
+| 74 | [deja vu](https://open.spotify.com/track/5PlFjZHDhcyjUUZRQCO9uh) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [deja vu](https://open.spotify.com/album/3iRypzqqCo3N96LlXuyvdy) | 3:08 |
+| 75 | [Mirza](https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Mirza](https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD) | 3:02 |
 
 Snapshot ID: `AAAAAKe4fbPatVFFJMQKe6FqKXlBpWle`

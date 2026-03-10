@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,040 likes - 311 songs - 18 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,041 likes - 311 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,8 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 223 | [Save Me Now](https://open.spotify.com/track/7mWO4OfLGrElqWC4e0Ym5G) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [SAY](https://open.spotify.com/album/59VTzGT8wFh1DAThgrIGS9) | 2:40 |
 | 224 | [My Reality](https://open.spotify.com/track/0Q9HulJie8Hxe2mx1q4nCy) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:09 |
 | 225 | [Lil Nigga Snupe](https://open.spotify.com/track/6sozeIaS4AlmDGhAjnZAib) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreamchasers 3](https://open.spotify.com/album/5k21b6J72f19J3NmPXgPUu) | 3:27 |
-| 226 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
-| 227 | [Autumn Drive](https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:08 |
+| 226 | [Autumn Drive](https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:08 |
+| 227 | [One Time](https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38) | [MK xyz](https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0) | [Sweet Spot](https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY) | 2:36 |
 | 228 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
 | 229 | [Literally](https://open.spotify.com/track/7sNL6nRdkkLT7tyzRcgExG) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 5:34 |
 | 230 | [Space Rabbit](https://open.spotify.com/track/3Jez7g0MbMXh8jhkxW1uSo) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:58 |
@@ -243,8 +243,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 233 | [Bish Bounce](https://open.spotify.com/track/20HlDD6s3Twz0cslCXUxZJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:59 |
 | 234 | [HIGHROLLER \(feat\. A$AP Ferg & Kelz2busy\)](https://open.spotify.com/track/2xXFdcdHLudyShQhoTwBai) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Lonely At The Top](https://open.spotify.com/album/5iFqSKGaLAcDXtgfhLu26i) | 3:27 |
 | 235 | [Differently](https://open.spotify.com/track/0jQBEvhlnHrzPpLVX0NKIh) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [Unusual](https://open.spotify.com/album/5vSGotQ12AmYKTy44dykZ0) | 3:40 |
-| 236 | [Lost My Way](https://open.spotify.com/track/5bppG2LuWktrnBBvXIJdw3) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Daniel Day](https://open.spotify.com/artist/7AgUzrbqewIufYXx34fTvH) | [Church Clothes 2](https://open.spotify.com/album/2BAl6epLsZnFhbC4eWTx6A) | 3:22 |
-| 237 | [He Love the Streets](https://open.spotify.com/track/2e0HyOjm3Bze3Ri0tz3Uag) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:31 |
+| 236 | [He Love the Streets](https://open.spotify.com/track/2e0HyOjm3Bze3Ri0tz3Uag) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:31 |
+| 237 | [Lost My Way](https://open.spotify.com/track/5bppG2LuWktrnBBvXIJdw3) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Mez](https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6), [Daniel Day](https://open.spotify.com/artist/7AgUzrbqewIufYXx34fTvH) | [Church Clothes 2](https://open.spotify.com/album/2BAl6epLsZnFhbC4eWTx6A) | 3:22 |
 | 238 | [Lie To Me](https://open.spotify.com/track/3vThkPv25GkMKMSnnxm3ev) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 2:31 |
 | 239 | [All Good](https://open.spotify.com/track/1hcBfjO5gRHQiFPiOJ4kst) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:45 |
 | 240 | [Lullaby](https://open.spotify.com/track/2PMYUf7pLMU4OOnzp4xJ84) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:14 |
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 310 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 311 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcLnQAAAAABvpm4R5qLBPJBn9455s65f`
+Snapshot ID: `AcLs4AAAAAAqct7KoRMJKBbli/s2P4Qx`

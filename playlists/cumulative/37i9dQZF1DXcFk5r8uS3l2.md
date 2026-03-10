@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-473 songs - 1 day 5 hr 43 min
+474 songs - 1 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [99 Ways](https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc) | [Andy Fairweather Low](https://open.spotify.com/artist/0lZmP91eT6v4c9N9eoMmJD) | [Flang Dang](https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36) | 3:38 | 2023-04-07 |  |
 | [A Thousand Heartaches](https://open.spotify.com/track/2GXG2FPTU6zMsr8qaL52HU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/2YDalbMwI6cOhTzTCUwvCc) | 5:00 | 2023-03-10 | 2023-03-20 |
 | [A Thousand Heartaches](https://open.spotify.com/track/3M4wqYQdjjQMEtEVprBflj) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blood Brothers](https://open.spotify.com/album/5KE2nGwb7wlAw4DdwlMXV4) | 5:00 | 2023-03-10 | 2024-04-19 |
-| [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 | 2023-10-06 |  |
+| [A Thousand Heartaches](https://open.spotify.com/track/6lOBccfSzr20xcr5L7Y8AS) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [A Thousand Heartaches](https://open.spotify.com/album/7IybesqhT7t0B0njDaTdAj) | 5:00 | 2023-10-06 | 2026-03-10 |
 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 | 2021-12-17 | 2024-06-29 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/112GY487AYZ0Q0zB9KYv3x) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Ain't Gotta Worry Child](https://open.spotify.com/album/5z25YPZkf3WB9Eh94EEwFw) | 3:05 | 2021-12-17 | 2022-07-27 |
 | [Ain't Gotta Worry Child](https://open.spotify.com/track/5Oqrsrt3oEWvDibRQLbyYD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome as a Shadow](https://open.spotify.com/album/308oGhQCGxttKUQkkkrHiE) | 3:05 | 2022-05-27 | 2023-02-25 |
@@ -91,6 +91,7 @@
 | [Cool Whip](https://open.spotify.com/track/5sj0p138vmExupLI9pOTI7) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Cool Whip](https://open.spotify.com/album/2NyghAoOQRqYCUdHgMNTrl) | 3:42 | 2022-08-19 | 2023-03-02 |
 | [Cover Me](https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Ugly](https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3) | 5:35 | 2024-08-23 |  |
 | [Crossroads](https://open.spotify.com/track/0kE9yST43pFGqnpvkjxiZq) | [The Imaginaries](https://open.spotify.com/artist/2ND76XrIKlvo3w0cHsy66L), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crossroads](https://open.spotify.com/album/4Ll4o9sr0YtDyYzJYq4VpN) | 3:47 | 2024-10-04 |  |
+| [Cruisin'](https://open.spotify.com/track/7CntU6rozZ57F9sB3ZDtad) | [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Cruisin'](https://open.spotify.com/album/0ZWTCT3qfUN7yxcHsilRAD) | 3:40 | 2026-03-06 |  |
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-01-28 | 2023-03-11 |
 | [Dance Monkey](https://open.spotify.com/track/4W3UeFjutmOG80XCTgioWT) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Dance Monkey](https://open.spotify.com/album/1uUxV8oH2qs8wRApyp62Rn) | 3:33 | 2021-12-17 | 2024-10-05 |

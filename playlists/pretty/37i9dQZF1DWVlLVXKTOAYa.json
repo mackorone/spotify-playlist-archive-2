@@ -1,6 +1,6 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 1055640,
+  "num_followers": 1055600,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 158696,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
         "name": "Wrong Places",
         "url": "https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 177600,
       "name": "Wrong Places",
       "url": "https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 158696,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "More to Lose",
-        "url": "https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 275780,
-      "name": "More to Lose",
-      "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
-    },
-    {
-      "added_at": "2026-02-12 23:00:22",
-      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 165276,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
+    },
+    {
+      "added_at": "2026-02-12 23:00:22",
+      "album": {
+        "name": "More to Lose",
+        "url": "https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 275780,
+      "name": "More to Lose",
+      "url": "https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         }
       ],
-      "duration_ms": 176427,
-      "name": "Saddle Again",
-      "url": "https://open.spotify.com/track/0lD78Oo18JztVRHK8GyFXR"
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
     },
     {
       "added_at": "2026-02-12 23:00:22",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2026-02-12 23:00:22",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 177118,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
+      "duration_ms": 176427,
+      "name": "Saddle Again",
+      "url": "https://open.spotify.com/track/0lD78Oo18JztVRHK8GyFXR"
     },
     {
       "added_at": "2026-02-12 23:00:22",

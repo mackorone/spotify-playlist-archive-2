@@ -4,7 +4,7 @@
 
 > This is Carl Carlton\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 48 min
+45 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Malaga Airport \- Night Beats Mix](https://open.spotify.com/track/3Rp5DybTxMSr6seDyuNQjo) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [House Dj Set, Vol\. 3](https://open.spotify.com/album/0J1UklpBuJzV8Aj1cJHVKP) | 3:21 | 2025-12-18 |  |
 | [Mama's Boy](https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:10 | 2025-12-18 |  |
 | [Milkcow's Calf Blues](https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P), [Mauro Spina](https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx) | [Hellhound On My Trail: Songs Of Robert Johnson](https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex) | 2:24 | 2025-12-18 |  |
+| [Morning Noon And Nightime](https://open.spotify.com/track/3TSokwmbHnVbiYQ0XApkb3) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 3:40 | 2026-03-10 |  |
 | [Never Got Over You](https://open.spotify.com/track/2ALzgSYKqqfNFG83nTqIge) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:05 | 2025-12-18 |  |
 | [One More Minute](https://open.spotify.com/track/6INAA0Qx3PKl0Y74Vrv5qH) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [One More Minute](https://open.spotify.com/album/3jndkU4mOLfouW54RprLar) | 4:41 | 2025-12-18 |  |
 | [Private Property](https://open.spotify.com/track/252rZJtsWXtCrRpCtYCHwx) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 4:28 | 2025-12-18 |  |
@@ -39,7 +40,7 @@
 | [Saturday](https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Saturday](https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U) | 4:40 | 2025-12-18 |  |
 | [Sexy Lady](https://open.spotify.com/track/1Q6m9ybTeZRgMnkhPZuNJs) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 5:24 | 2025-12-18 |  |
 | [She's A Bad Mama Jama \(She's Built, She's Stacked\) \- Single Version](https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:55 | 2025-12-18 |  |
-| [Smokin' Room](https://open.spotify.com/track/1Hmm0C4IccbRODCp5vUGBU) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 3:33 | 2025-12-18 |  |
+| [Smokin' Room](https://open.spotify.com/track/1Hmm0C4IccbRODCp5vUGBU) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 3:33 | 2025-12-18 | 2026-03-10 |
 | [Spend the Night](https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [I Wanna Be With You](https://open.spotify.com/album/1ylIK4HqN5u8zMDz3fNQBJ) | 6:18 | 2025-12-18 |  |
 | [Stand By Me](https://open.spotify.com/track/2VsBpRY1animyX0KmVVG1Q) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:39 | 2025-12-18 |  |
 | [Thank You for Sticking Around](https://open.spotify.com/track/4XA7G7vlHRnMK6eEQYJDLs) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:52 | 2025-12-18 |  |

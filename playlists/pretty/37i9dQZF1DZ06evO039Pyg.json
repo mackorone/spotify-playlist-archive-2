@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 332215,
+  "num_followers": 332235,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAC1Xb+bDXFS8cv0mGUNLCo9",
+  "snapshot_id": "aay8AAAAAADsirIj/rhzBC0eTWo30AQU",
   "tracks": [
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Heebiejeebies - Bonus",
-      "url": "https://open.spotify.com/track/32xx0fAv3CIeGmNaWTHvEF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light of Mine",
         "url": "https://open.spotify.com/album/2c1ipXPsfn6ylm6PrQNuDU"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 191680,
       "name": "Playinwitme (feat. Kehlani)",
       "url": "https://open.spotify.com/track/4F1yvJfQ7gJkrcgFJQDjOr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Heebiejeebies - Bonus",
+      "url": "https://open.spotify.com/track/32xx0fAv3CIeGmNaWTHvEF"
     },
     {
       "added_at": null,

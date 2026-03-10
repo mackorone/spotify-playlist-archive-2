@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Alles Wat Ik Zoek",
+        "url": "https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187420,
+      "name": "Alles Wat Ik Zoek",
+      "url": "https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb"
+    },
+    {
+      "album": {
         "name": "Als Ik 't Anders Zou Doen",
         "url": "https://open.spotify.com/album/42JFmXsiFtbsfZGGh5wjRh"
       },
@@ -2086,7 +2108,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 154787,
       "name": "Ome Jan",
       "url": "https://open.spotify.com/track/4r17Au3EwdeqGWI4XUz2xh"

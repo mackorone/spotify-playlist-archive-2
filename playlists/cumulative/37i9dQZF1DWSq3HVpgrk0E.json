@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 173999,
       "name": "TOURMALINE",
       "url": "https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x"
@@ -1414,6 +1414,24 @@
       "duration_ms": 137666,
       "name": "WTHELLY",
       "url": "https://open.spotify.com/track/03gyVoP8A8A3mdcGMxcHqD"
+    },
+    {
+      "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195762,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSq3HVpgrk0E"

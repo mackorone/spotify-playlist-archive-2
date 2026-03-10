@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,091 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,094 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 49 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 50 | [Habeby Baeny Lak Damaa](https://open.spotify.com/track/42HETXMG4PwLo5oa3hoYhi) | [Qasim Alsultan](https://open.spotify.com/artist/0nzvKMw8qlFzWIUq7aNhPL) | [Habeby Baeny Lak Damaa](https://open.spotify.com/album/0wnxOHhvqVHxF2xsvmAXqx) | 4:18 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

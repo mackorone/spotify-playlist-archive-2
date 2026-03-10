@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Ov6kqbKq0PpmyWwMRgrcT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339053,
+      "name": "Rein Me In",
+      "url": "https://open.spotify.com/track/6SSqDbvaAFQdxzOMC7g3JV"
+    },
+    {
+      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
       },

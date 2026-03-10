@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 626 songs - 1 day 15 hr 34 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 630 songs - 1 day 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -634,5 +634,9 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 624 | [running out of time](https://open.spotify.com/track/3WuqTh3f4fv9fS6BysVpl2) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [running out of time](https://open.spotify.com/album/5ESM1Yadnjr4sDOjpo7Ol4) | 3:58 |
 | 625 | [That's What I Get](https://open.spotify.com/track/1Rt6dYh5NzxaMOTaP2VU6O) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:58 |
 | 626 | [Gimme My Money](https://open.spotify.com/track/5HJMApQBAW2GxGfFmEUUbD) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Gimme My Money](https://open.spotify.com/album/4csBWvSmvRW7ZHy897I2mY) | 3:55 |
+| 627 | [if you want me to i'll stay](https://open.spotify.com/track/6mTrZfsl3NUK3de1zgfz9M) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [if you want me to i'll stay](https://open.spotify.com/album/68wr5O3IVgwRvKjbo1I5eV) | 4:11 |
+| 628 | [Why Don't You Adore Me?](https://open.spotify.com/track/3DNId7JC9CTVFe8vLeFPxd) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:34 |
+| 629 | [Some Things Are Never Gonna Change](https://open.spotify.com/track/0fmelRPNuTV1eq12ZqSNm7) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Some Things Are Never Gonna Change](https://open.spotify.com/album/6FKnrHUYRu7os6t2aTf1jH) | 4:19 |
+| 630 | [I Wanna Go Home](https://open.spotify.com/track/432pxOWhtTH7cifGokcHyq) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:29 |
 
-Snapshot ID: `AAAhvOXYM+wmqZp16nLseh32RtKgbzID`
+Snapshot ID: `AAAhwD4OP/YuTbToNEArUFfhxZbds9j1`

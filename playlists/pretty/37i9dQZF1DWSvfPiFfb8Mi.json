@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 698613,
+  "num_followers": 698693,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
       },
@@ -1003,22 +1023,46 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
       },
       "artists": [
         {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
         },
         {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Suni MF",
+          "url": "https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
         }
       ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
+      "duration_ms": 215458,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
+        "name": "Alsace",
+        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 117454,
+      "name": "Alsace",
+      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1043,22 +1087,6 @@
       "duration_ms": 190012,
       "name": "Flawless",
       "url": "https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
-        "name": "Alsace",
-        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 117454,
-      "name": "Alsace",
-      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1115,34 +1143,6 @@
       "duration_ms": 238316,
       "name": "To Survive",
       "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
-      },
-      "artists": [
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        },
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Suni MF",
-          "url": "https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE"
-        },
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 215458,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        },
-        {
-          "name": "Sacha Vee",
-          "url": "https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8"
-        }
-      ],
-      "duration_ms": 227899,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
         "name": "I Miss Having Someone To Talk To",
         "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 223742,
       "name": "I Miss Having Someone To Talk To",
       "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "Sacha Vee",
+          "url": "https://open.spotify.com/artist/0T39WRpIykwV2LJhmO6mj8"
+        }
+      ],
+      "duration_ms": 227899,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
         "name": "The Bay (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
       },
@@ -1447,18 +1463,22 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+        "name": "Disco Nap",
+        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
       },
       "artists": [
         {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+      "duration_ms": 193226,
+      "name": "Disco Nap",
+      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1479,26 +1499,6 @@
       "duration_ms": 218000,
       "name": "Confetti - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/7hlj2sZHWObIaLIEiMSd9Y"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
-        "name": "Disco Nap",
-        "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Disco Nap",
-      "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
-      },
-      "artists": [
-        {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
-        }
-      ],
-      "duration_ms": 240691,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
+        "name": "My All",
+        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+        }
+      ],
+      "duration_ms": 240691,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
         "name": "Papooz & Friends",
         "url": "https://open.spotify.com/album/2Kn8qlxUCCXr4nIbJiNUWd"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS"
       },
@@ -1839,22 +1839,6 @@
       "duration_ms": 167805,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
-        "name": "Simmer",
-        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -1899,6 +1883,22 @@
       "duration_ms": 139000,
       "name": "cabo player",
       "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
+        "name": "Simmer",
+        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
-        "name": "Silky, Buttery, Smooth",
-        "url": "https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 184801,
-      "name": "Silky, Buttery, Smooth",
-      "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 213733,
       "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
       "url": "https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
+        "name": "Silky, Buttery, Smooth",
+        "url": "https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 184801,
+      "name": "Silky, Buttery, Smooth",
+      "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
     },
     {
       "added_at": "2026-03-06 05:00:02",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2026-03-06 05:00:02",
       "album": {
-        "name": "Ol\u00e9 Maca",
-        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 279036,
-      "name": "Letras",
-      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
-    },
-    {
-      "added_at": "2026-03-06 05:00:02",
-      "album": {
         "name": "Somethin Bout You (feat. Betsy)",
         "url": "https://open.spotify.com/album/7AAKUuEwPmgUqTi8Lp9Aoy"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 215686,
       "name": "Somethin Bout You (feat. Betsy)",
       "url": "https://open.spotify.com/track/5hDtgTpEmgkRFdiOREk98b"
+    },
+    {
+      "added_at": "2026-03-06 05:00:02",
+      "album": {
+        "name": "Ol\u00e9 Maca",
+        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 279036,
+      "name": "Letras",
+      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
     },
     {
       "added_at": "2026-03-06 05:00:02",

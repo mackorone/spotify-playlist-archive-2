@@ -2,16 +2,16 @@
 
 ### [Studenten Hits 2026](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
 
-> Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer\. HDP 🔥🎉
+> Heerlie de peerlie\. Cover: Miloolaathetlukken 🔥
 
-151 songs - 6 hr 37 min
+152 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0612345678](https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [0612345678](https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g) | 2:23 | 2025-09-25 | 2025-11-25 |
 | [3D](https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [3D](https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT) | 2:43 | 2025-09-25 | 2026-02-10 |
 | [Aan](https://open.spotify.com/track/4nFslMaQEbvAKAuJ0UryJB) | [Ritse](https://open.spotify.com/artist/7CKb0N4FZ4f1MG1vViQB1d) | [Aan](https://open.spotify.com/album/4GU1OnO8qLvOy5IOWZfb50) | 2:11 | 2026-02-26 |  |
-| [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/track/4iMT7wRGEJdLvknC3JFjwS) | [Sjorleone](https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/album/0TqtTiVPUo1CjarIxlL2DH) | 1:51 | 2025-07-17 |  |
+| [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/track/4iMT7wRGEJdLvknC3JFjwS) | [Sjorleone](https://open.spotify.com/artist/6MrSjWpFS9A84jo0yR2nM4), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Achteruit \(feat\. Bizzey & Trobi\)](https://open.spotify.com/album/0TqtTiVPUo1CjarIxlL2DH) | 1:51 | 2025-07-17 | 2026-03-10 |
 | [ADHD](https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [ADHD](https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ) | 2:54 | 2025-08-28 |  |
 | [Afterparty](https://open.spotify.com/track/0nvPj2VhAABt6Ac467PEL3) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Afterparty](https://open.spotify.com/album/4X6bUbNF7ZM1hNNzPSWhw6) | 2:22 | 2025-07-17 | 2025-12-12 |
 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-13 |  |
@@ -132,6 +132,7 @@
 | [Studie Uit](https://open.spotify.com/track/5sHjRyfeGNwu5f2GV0960x) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Studie Uit](https://open.spotify.com/album/4SwDKB3YuJ1qJyqYLsYiBe) | 2:41 | 2025-07-17 | 2025-12-12 |
 | [Sukkel](https://open.spotify.com/track/7zYGIaIvLBtrrEfJxTuAUS) | [Bix](https://open.spotify.com/artist/7KbMCOvCe7lYFcRzdd9BJn), [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Sukkel](https://open.spotify.com/album/1Fq0937kbvelxVOvwebiXA) | 2:35 | 2025-07-17 | 2025-08-05 |
 | [Take Me Up \(Gotta Get Up\) \- Lego Edit](https://open.spotify.com/track/1ovbcaNgLbOp71RbF4pvng) | [Ralphi Rosario](https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh), [Donna Blakely](https://open.spotify.com/artist/5l4zJlT301p3IPrAx94iqw), [lego](https://open.spotify.com/artist/3fyCFDyqAPJOuOMlLA4liJ) | [Take Me Up \(Gotta Get Up\)](https://open.spotify.com/album/45kSt9lcncbWs2HVUnG0qo) | 3:22 | 2026-01-27 |  |
+| [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-09 |  |
 | [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-07-17 | 2025-09-26 |
 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-07-17 | 2026-01-15 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2025-07-17 | 2026-01-16 |

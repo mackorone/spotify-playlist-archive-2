@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19304,
+  "num_followers": 19300,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Kercelak",
-      "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
         "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 321506,
       "name": "Ch\u0142opcy",
       "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Kercelak",
+      "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "WAWA",
-        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
-      },
-      "artists": [
-        {
-          "name": "Brodka",
-          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
-        }
-      ],
-      "duration_ms": 196145,
-      "name": "Sierpie\u0144",
-      "url": "https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "30 lat Agnieszki Chyli\u0144skiej - Kiedy\u015b do Ciebie wr\u00f3c\u0119",
         "url": "https://open.spotify.com/album/3rRPuSwqV70j9SeR3rsuky"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 310653,
       "name": "Kr\u00f3lowa \u0142ez",
       "url": "https://open.spotify.com/track/2G5CtSf8XZNk4tLfDBPwl9"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "WAWA",
+        "url": "https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV"
+      },
+      "artists": [
+        {
+          "name": "Brodka",
+          "url": "https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY"
+        }
+      ],
+      "duration_ms": 196145,
+      "name": "Sierpie\u0144",
+      "url": "https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Vanishing",
-        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
-      },
-      "artists": [
-        {
-          "name": "Blindead 23",
-          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
-        }
-      ],
-      "duration_ms": 510066,
-      "name": "Haunting",
-      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Nie Ma Ziemi Nad Kujawy",
         "url": "https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 107826,
       "name": "Oberek Kujawski Ze Szwankowa",
       "url": "https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
+      },
+      "artists": [
+        {
+          "name": "Blindead 23",
+          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
+        }
+      ],
+      "duration_ms": 510066,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1247,6 +1247,34 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Tradycyja",
+        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wyrostek",
+          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
+        },
+        {
+          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
+          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
+        },
+        {
+          "name": "Urszula Dudziak",
+          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
+        },
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 278672,
+      "name": "G\u00f3rniczy stan",
+      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Rugs / Carpets",
         "url": "https://open.spotify.com/album/2lAkcayHkpOwdDzyVHrKxk"
       },
@@ -1287,34 +1315,6 @@
       "duration_ms": 443446,
       "name": "Tatras",
       "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Tradycyja",
-        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wyrostek",
-          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
-        },
-        {
-          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
-          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
-        },
-        {
-          "name": "Urszula Dudziak",
-          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
-        },
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 278672,
-      "name": "G\u00f3rniczy stan",
-      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
     },
     {
       "added_at": "2025-04-06 08:27:45",

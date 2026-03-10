@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Emily A. Sprague",
-  "num_followers": 136585,
+  "num_followers": 136634,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
+        "name": "Garden Studies",
+        "url": "https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId"
+      },
+      "artists": [
+        {
+          "name": "Ami Kusakari",
+          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Under the soil",
+      "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
+    },
+    {
+      "added_at": "2026-03-06 04:00:29",
+      "album": {
         "name": "Late June Night (Edit)",
         "url": "https://open.spotify.com/album/4Tw1LHTBavh1oBgxQqZdQm"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 276000,
       "name": "Huginn and Muninn",
       "url": "https://open.spotify.com/track/4cfZm3AuwJjZWJ1ZzigeA5"
-    },
-    {
-      "added_at": "2026-03-06 04:00:29",
-      "album": {
-        "name": "Garden Studies",
-        "url": "https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId"
-      },
-      "artists": [
-        {
-          "name": "Ami Kusakari",
-          "url": "https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Under the soil",
-      "url": "https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "Spicy City",
-        "url": "https://open.spotify.com/album/3eOFBNasqzBE3cnfojMHIg"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Spicy City",
-      "url": "https://open.spotify.com/track/1kdWlLSL8gxAA1hVsfvgma"
-    },
-    {
-      "added_at": "2026-03-06 04:00:29",
-      "album": {
         "name": "When We Are Free",
         "url": "https://open.spotify.com/album/1nHvY2jpgYdtaaWs47ADcO"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+        "name": "Spicy City",
+        "url": "https://open.spotify.com/album/3eOFBNasqzBE3cnfojMHIg"
       },
       "artists": [
         {
-          "name": "Jun Futamata",
-          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 287913,
-      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
-      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
+      "duration_ms": 190000,
+      "name": "Spicy City",
+      "url": "https://open.spotify.com/track/1kdWlLSL8gxAA1hVsfvgma"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -839,6 +823,22 @@
       "duration_ms": 342000,
       "name": "a path between the clouds",
       "url": "https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE"
+    },
+    {
+      "added_at": "2026-03-06 04:00:29",
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "Echo in the Field",
-        "url": "https://open.spotify.com/album/0fZJEmTD8gv10S1gx4Q52c"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 278028,
-      "name": "Echo in the Field",
-      "url": "https://open.spotify.com/track/0zIbm5njltu0NefdY5G3zp"
-    },
-    {
-      "added_at": "2026-03-06 04:00:29",
-      "album": {
         "name": "NONAGE",
         "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 300747,
       "name": "Morning Spring",
       "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
+    },
+    {
+      "added_at": "2026-03-06 04:00:29",
+      "album": {
+        "name": "Echo in the Field",
+        "url": "https://open.spotify.com/album/0fZJEmTD8gv10S1gx4Q52c"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "duration_ms": 278028,
+      "name": "Echo in the Field",
+      "url": "https://open.spotify.com/track/0zIbm5njltu0NefdY5G3zp"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
       },
       "artists": [
         {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
         }
       ],
-      "duration_ms": 226613,
-      "name": "Amare",
-      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/3oxivy9SmR7lht1flomM6f"
       },
       "artists": [
         {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
         }
       ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+      "duration_ms": 226613,
+      "name": "Amare",
+      "url": "https://open.spotify.com/track/2gb81DReTCiQpzl7L6wMph"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
-    },
-    {
-      "added_at": "2026-03-06 04:00:29",
-      "album": {
         "name": "Fables",
         "url": "https://open.spotify.com/album/1X47wQ6PgqatyalxJa7KhQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 205386,
       "name": "Fables",
       "url": "https://open.spotify.com/track/0KV7GkEepHM3kVaZCVVMsF"
+    },
+    {
+      "added_at": "2026-03-06 04:00:29",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2026-03-06 04:00:29",
-      "album": {
         "name": "Memories of Log",
         "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 400248,
       "name": "Falling Water Lullaby",
       "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
+    },
+    {
+      "added_at": "2026-03-06 04:00:29",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2026-03-06 04:00:29",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2026-03-06 04:00:29",
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Suosan",
-      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
-    },
-    {
-      "added_at": "2026-03-06 04:00:29",
-      "album": {
         "name": "Esperance",
         "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 215746,
       "name": "Esperance",
       "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
+    },
+    {
+      "added_at": "2026-03-06 04:00:29",
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Suosan",
+      "url": "https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR"
     },
     {
       "added_at": "2026-03-06 04:00:29",

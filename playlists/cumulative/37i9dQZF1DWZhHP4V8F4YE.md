@@ -4,13 +4,14 @@
 
 > All the vibes, enjoyment and future hits right here
 
-863 songs - 2 day 5 hr 58 min
+865 songs - 2 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#23](https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl) | [Lisie Basson](https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR) | [\#23](https://open.spotify.com/album/0rKmgLBSXpXfVQ83vIrjR2) | 2:42 | 2023-05-15 | 2023-05-30 |
 | [\#skeptacore pt.3](https://open.spotify.com/track/1HAW56e0zz05phUnzuHF9E) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [\#skeptacore pt.3](https://open.spotify.com/album/603607Iup3eeTPgUM9Qoof) | 2:39 | 2023-12-04 | 2023-12-12 |
 | [1 AM](https://open.spotify.com/track/6rL8u0RmBmL1Mp5rK33tQA) | [Civ](https://open.spotify.com/artist/7qXQhtVwPF2ze2dLKpb5LT) | [1 AM](https://open.spotify.com/album/6EEuOu9JTZxw9UbTghE7UR) | 2:13 | 2025-04-07 | 2025-05-13 |
+| [10 MINUTES](https://open.spotify.com/track/3aQgH5q3nN7b2AXhaAoAL6) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [10 MINUTES](https://open.spotify.com/album/3WPXFHULLXBBbVBsgiIpOT) | 2:35 | 2026-03-09 |  |
 | [1er Gaou](https://open.spotify.com/track/5ohqZJp2b7HRQ6SWmxnXzU) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F) | [1er Gaou](https://open.spotify.com/album/6AfIwxROlQG3iv2yVDdKUp) | 4:55 | 2025-08-18 | 2025-11-04 |
 | [2 days into college](https://open.spotify.com/track/1v4m9GLt7lpFM5iOvwQZrU) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [2 days into college](https://open.spotify.com/album/1RzErf193ngBH4DRAFZvz3) | 2:48 | 2024-02-13 | 2024-02-20 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-12-12 | 2023-01-17 |
@@ -502,6 +503,7 @@
 | [Money & Love](https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Money & Love](https://open.spotify.com/album/1a936IexPb6wtpMlymctZz) | 3:11 | 2022-11-29 | 2022-12-13 |
 | [MONEY CONSTANT](https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve) | [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [SOUTH GIDI](https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ) | 6:15 | 2025-11-03 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-27 | 2023-04-12 |
+| [Mopepe](https://open.spotify.com/track/41JAaLs2uJB2JZoabE5jnO) | [Bukzin Keyz](https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mopepe](https://open.spotify.com/album/1n4lYZEGlftSGg9pXpbHjQ) | 4:32 | 2026-03-09 |  |
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-03-07 | 2023-03-21 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-03-07 | 2023-04-04 |
 | [MPISHI](https://open.spotify.com/track/45Ly8ztGdYY438piRvlLu9) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [MPISHI](https://open.spotify.com/album/2g384lke3YzRi4wVo4hv51) | 3:19 | 2025-04-15 | 2025-04-23 |
@@ -575,7 +577,7 @@
 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 | 2023-06-12 | 2024-10-15 |
 | [Okalumu Mma](https://open.spotify.com/track/1rCSBpEN9CiO6UnZMalBTt) | [2weird](https://open.spotify.com/artist/1bLMyEwun62Eqb2JSaKP6G) | [Letter to Small Sleeky in Heaven](https://open.spotify.com/album/3W85zvHd964X82cFju6F2z) | 3:12 | 2023-01-23 | 2023-02-15 |
 | [Okalumu Mma](https://open.spotify.com/track/7GLRqZ6OsEYqSNzTm8EmjE) | [2weird](https://open.spotify.com/artist/1bLMyEwun62Eqb2JSaKP6G) | [Letter To Small Sleeky In Heaven](https://open.spotify.com/album/52qOc5I4l86zPk3xjWvoZB) | 3:12 | 2023-02-14 | 2023-03-01 |
-| [Ola Sbali](https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Bayede](https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif) | 3:08 | 2026-01-26 |  |
+| [Ola Sbali](https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Bayede](https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif) | 3:08 | 2026-01-26 | 2026-03-10 |
 | [Old](https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN) | [Sam Opoku](https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv) | [Old](https://open.spotify.com/album/7m8teznwhjVGEHlHQPhBGW) | 4:11 | 2023-09-04 | 2023-10-10 |
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-08-23 | 2025-08-26 |
 | [Olodumare](https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Olodumare](https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb) | 3:06 | 2024-12-09 | 2025-01-21 |

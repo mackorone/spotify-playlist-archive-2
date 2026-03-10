@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 41349,
+  "num_followers": 41357,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -111,8 +111,8 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: The Barber of Seville",
-        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
       },
       "artists": [
         {
@@ -120,29 +120,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
         },
         {
-          "name": "Beverly Sills",
-          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
-        },
-        {
-          "name": "Nicolai Gedda",
-          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
-        },
-        {
-          "name": "Sherrill Milnes",
-          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
         }
       ],
-      "duration_ms": 141933,
-      "name": "Rossini: Il barbiere di Siviglia, Act 1: Canzone. \"Se il mio nome saper voi bramate\" (Conte, Rosina, Figaro)",
-      "url": "https://open.spotify.com/track/7F9mkgZ8QsJkzzBwfjLApg"
+      "duration_ms": 419000,
+      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
+      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -383,30 +371,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
-      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -431,6 +395,30 @@
       "duration_ms": 366226,
       "name": "Il barbiere di Siviglia, Act I: No. 8, Aria. A un dottor della mia sorte",
       "url": "https://open.spotify.com/track/6EUtAuCpqmZvnjNczByRBy"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
+      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -495,6 +483,46 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: Stabat Mater & Petite messe solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Agnes Baltsa",
+          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
+        },
+        {
+          "name": "Catherine Malfitano",
+          "url": "https://open.spotify.com/artist/0jBk0BKRlgf7PB8zE78Q5C"
+        },
+        {
+          "name": "Gwynne Howell",
+          "url": "https://open.spotify.com/artist/7BS4d9amKBMOvlonNGx14U"
+        },
+        {
+          "name": "Robert Gambill",
+          "url": "https://open.spotify.com/artist/6NWJUGACMyrBEDOFGEUk9F"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 467600,
+      "name": "Rossini: Stabat Mater: VI. Sancta Mater, istud agas",
+      "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Il barbiere di Siviglia; La Cenerentola; L'Italiana in Algeri; Il viaggio a Reims",
         "url": "https://open.spotify.com/album/7u9uW03SaWgRSaDEQyWmN8"
       },
@@ -539,8 +567,8 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: Stabat Mater & Petite messe solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
+        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
       },
       "artists": [
         {
@@ -548,33 +576,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
         },
         {
-          "name": "Agnes Baltsa",
-          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
-        },
-        {
-          "name": "Catherine Malfitano",
-          "url": "https://open.spotify.com/artist/0jBk0BKRlgf7PB8zE78Q5C"
-        },
-        {
-          "name": "Gwynne Howell",
-          "url": "https://open.spotify.com/artist/7BS4d9amKBMOvlonNGx14U"
-        },
-        {
-          "name": "Robert Gambill",
-          "url": "https://open.spotify.com/artist/6NWJUGACMyrBEDOFGEUk9F"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
         }
       ],
-      "duration_ms": 467600,
-      "name": "Rossini: Stabat Mater: VI. Sancta Mater, istud agas",
-      "url": "https://open.spotify.com/track/1pc8xQObemmXWPGMwUCwyR"
+      "duration_ms": 363666,
+      "name": "La Boutique Fantasque: Cancan",
+      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -603,30 +615,6 @@
       "duration_ms": 308200,
       "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
       "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
-        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
-        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        },
-        {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
-        }
-      ],
-      "duration_ms": 363666,
-      "name": "La Boutique Fantasque: Cancan",
-      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
     },
     {
       "added_at": "2025-12-15 11:47:15",
@@ -1135,6 +1123,38 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Fernanda Costa",
+          "url": "https://open.spotify.com/artist/711LuGEf0SlBPHH2DSzymC"
+        },
+        {
+          "name": "Gloria Banditelli",
+          "url": "https://open.spotify.com/artist/6I2wNCFS6kRIteg0mZvj28"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 98906,
+      "name": "La Cenerentola / Act 1: \"No, no, no non v'\u00e8\"",
+      "url": "https://open.spotify.com/track/3tyVaUyQJeukAdBgHs9dXB"
+    },
+    {
+      "added_at": "2025-12-15 11:47:15",
+      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -1191,38 +1211,6 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: La Cenerentola",
-        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Fernanda Costa",
-          "url": "https://open.spotify.com/artist/711LuGEf0SlBPHH2DSzymC"
-        },
-        {
-          "name": "Gloria Banditelli",
-          "url": "https://open.spotify.com/artist/6I2wNCFS6kRIteg0mZvj28"
-        },
-        {
-          "name": "Orchestra del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 98906,
-      "name": "La Cenerentola / Act 1: \"No, no, no non v'\u00e8\"",
-      "url": "https://open.spotify.com/track/3tyVaUyQJeukAdBgHs9dXB"
-    },
-    {
-      "added_at": "2025-12-15 11:47:15",
-      "album": {
         "name": "The Spectacular Voice of Marilyn Horne",
         "url": "https://open.spotify.com/album/44vDKyQpP96DJw1cWVzaS1"
       },
@@ -1251,8 +1239,8 @@
     {
       "added_at": "2025-12-15 11:47:15",
       "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
+        "name": "Rossini: The Barber of Seville",
+        "url": "https://open.spotify.com/album/5IEivK4DgkNygCv7LnwCVa"
       },
       "artists": [
         {
@@ -1260,17 +1248,29 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
         },
         {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+          "name": "Beverly Sills",
+          "url": "https://open.spotify.com/artist/5Vdfj3R5juqDpqeTYfVveV"
+        },
+        {
+          "name": "Nicolai Gedda",
+          "url": "https://open.spotify.com/artist/1CjvOazvrDCipu1gbgyjIh"
+        },
+        {
+          "name": "Sherrill Milnes",
+          "url": "https://open.spotify.com/artist/4zTQCQMH3wRdBorYb0xGCa"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
         }
       ],
-      "duration_ms": 419000,
-      "name": "Il barbiere di Siviglia: Overture (Sinfonia)",
-      "url": "https://open.spotify.com/track/18l95nUQWWV6RU2gLCbrjN"
+      "duration_ms": 141933,
+      "name": "Rossini: Il barbiere di Siviglia, Act 1: Canzone. \"Se il mio nome saper voi bramate\" (Conte, Rosina, Figaro)",
+      "url": "https://open.spotify.com/track/7F9mkgZ8QsJkzzBwfjLApg"
     },
     {
       "added_at": "2025-12-15 11:47:15",

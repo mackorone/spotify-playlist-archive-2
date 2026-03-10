@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 93392,
+  "num_followers": 93455,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
+    },
+    {
+      "added_at": "2026-03-06 14:54:04",
+      "album": {
         "name": "FA TI CO",
         "url": "https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 109714,
       "name": "FA TI CO",
       "url": "https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP"
-    },
-    {
-      "added_at": "2026-03-06 14:54:04",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -507,22 +507,18 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
-        "name": "Trip to Old England",
-        "url": "https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD"
+        "name": "Round My Mind",
+        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
       },
       "artists": [
         {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Captain Core",
-          "url": "https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu"
+          "name": "Revealer",
+          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
         }
       ],
-      "duration_ms": 231600,
-      "name": "Trip to Old England",
-      "url": "https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf"
+      "duration_ms": 216000,
+      "name": "Round My Mind",
+      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -551,18 +547,22 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
-        "name": "Round My Mind",
-        "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
+        "name": "Trip to Old England",
+        "url": "https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD"
       },
       "artists": [
         {
-          "name": "Revealer",
-          "url": "https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN"
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Captain Core",
+          "url": "https://open.spotify.com/artist/7BlgmR2Ef5tBh0or5QUwyu"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Round My Mind",
-      "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
+      "duration_ms": 231600,
+      "name": "Trip to Old England",
+      "url": "https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
+        "name": "Major Bounce",
+        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
+      },
+      "artists": [
+        {
+          "name": "Major Conspiracy",
+          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
+        }
+      ],
+      "duration_ms": 155024,
+      "name": "Major Bounce",
+      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
+    },
+    {
+      "added_at": "2026-03-06 14:54:04",
+      "album": {
         "name": "Kick Train",
         "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 178666,
       "name": "Kick Train",
       "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
-    },
-    {
-      "added_at": "2026-03-06 14:54:04",
-      "album": {
-        "name": "Major Bounce",
-        "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
-      },
-      "artists": [
-        {
-          "name": "Major Conspiracy",
-          "url": "https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc"
-        }
-      ],
-      "duration_ms": 155024,
-      "name": "Major Bounce",
-      "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
-        "name": "Hate Destroyer",
-        "url": "https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Hate Destroyer",
-      "url": "https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0"
-    },
-    {
-      "added_at": "2026-03-06 14:54:04",
-      "album": {
         "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
         "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 273333,
       "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
       "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
+    },
+    {
+      "added_at": "2026-03-06 14:54:04",
+      "album": {
+        "name": "Hate Destroyer",
+        "url": "https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Hate Destroyer",
+      "url": "https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
+        "name": "The Nightmare Man",
+        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "The Nightmare Man",
+      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
+    },
+    {
+      "added_at": "2026-03-06 14:54:04",
+      "album": {
         "name": "WE DONT PLAY",
         "url": "https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 141346,
       "name": "WE DONT PLAY",
       "url": "https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm"
-    },
-    {
-      "added_at": "2026-03-06 14:54:04",
-      "album": {
-        "name": "The Nightmare Man",
-        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "The Nightmare Man",
-      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -935,6 +935,26 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
+        "name": "WaKe uP",
+        "url": "https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ"
+      },
+      "artists": [
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
+        }
+      ],
+      "duration_ms": 145903,
+      "name": "WaKe uP",
+      "url": "https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK"
+    },
+    {
+      "added_at": "2026-03-06 14:54:04",
+      "album": {
         "name": "Jackpot Killah",
         "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
       },
@@ -951,22 +971,6 @@
       "duration_ms": 156000,
       "name": "Jackpot Killah",
       "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
-    },
-    {
-      "added_at": "2026-03-06 14:54:04",
-      "album": {
-        "name": "Voice Of The Underground",
-        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Voice Of The Underground",
-      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
-        "name": "WaKe uP",
-        "url": "https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ"
+        "name": "Voice Of The Underground",
+        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
       },
       "artists": [
         {
-          "name": "Adjuzt",
-          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
-        },
-        {
-          "name": "Akimbo",
-          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
         }
       ],
-      "duration_ms": 145903,
-      "name": "WaKe uP",
-      "url": "https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK"
+      "duration_ms": 175113,
+      "name": "Voice Of The Underground",
+      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Rakhooo",
-  "num_followers": 80603,
+  "num_followers": 80610,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJ6838sSCEi+Q196O7kD2Td28iX",
+  "snapshot_id": "AAAAAGM3y21oiZJ/NUDXsrYcph8/oLGV",
   "tracks": [
     {
       "added_at": "2025-10-15 10:53:16",
@@ -203,6 +203,22 @@
       "duration_ms": 102361,
       "name": "Kai Neraya Kannadi",
       "url": "https://open.spotify.com/track/38K1u2uBrzKxe7cxg6Zif2"
+    },
+    {
+      "added_at": "2026-03-09 12:14:26",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4IWP5BL6hTCix8D4fjeOt0"
+      },
+      "artists": [
+        {
+          "name": "Miraya Varma",
+          "url": "https://open.spotify.com/artist/4FhmGc9lD5PO3ZrPPDGiRV"
+        }
+      ],
+      "duration_ms": 263032,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5suFzUzKhXdo8EojBdAynt"
     },
     {
       "added_at": "2025-12-08 05:55:32",
@@ -701,26 +717,6 @@
       "url": "https://open.spotify.com/track/7v2jjJhncs2Yhm9ucBuYy5"
     },
     {
-      "added_at": "2026-01-16 05:37:21",
-      "album": {
-        "name": "Heartla Feeling",
-        "url": "https://open.spotify.com/album/28zk4wYXaQHsJ05jHo9rye"
-      },
-      "artists": [
-        {
-          "name": "Vanakkam Tamizha Sadiq",
-          "url": "https://open.spotify.com/artist/5hPV3fSymXydxN9lv6Ha8a"
-        },
-        {
-          "name": "Dhilip Varman",
-          "url": "https://open.spotify.com/artist/4mnyuJe27mz21c8w4wo3z2"
-        }
-      ],
-      "duration_ms": 269995,
-      "name": "Heartla Feeling",
-      "url": "https://open.spotify.com/track/3iFzbqjFKZLrPjvUohxP97"
-    },
-    {
       "added_at": "2025-08-11 09:26:50",
       "album": {
         "name": "Edhirpaarthen",
@@ -775,22 +771,6 @@
       "duration_ms": 216180,
       "name": "Uyire",
       "url": "https://open.spotify.com/track/2yWq3CNcgsh9RQCZTqsO7L"
-    },
-    {
-      "added_at": "2025-11-06 04:52:48",
-      "album": {
-        "name": "I Love You Sollada (Tamil)",
-        "url": "https://open.spotify.com/album/3XZnxLd37YpPzvOKYZPX87"
-      },
-      "artists": [
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 259171,
-      "name": "I Love You Sollada (Tamil)",
-      "url": "https://open.spotify.com/track/78CxWBjBiSDMyx1HksE4kH"
     },
     {
       "added_at": "2026-01-16 05:37:21",
@@ -921,30 +901,6 @@
       "url": "https://open.spotify.com/track/6Ucqq4GbNq7AOaPryxwRo1"
     },
     {
-      "added_at": "2025-09-04 15:01:29",
-      "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/0UalSOICU8bebaZeAGaJYT"
-      },
-      "artists": [
-        {
-          "name": "Pranaay",
-          "url": "https://open.spotify.com/artist/58L9DePlTLE2D1I9Ohvs63"
-        },
-        {
-          "name": "Madhan Karky",
-          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        }
-      ],
-      "duration_ms": 190520,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/6ySwcE3IqA3ZYIOGOmTgdv"
-    },
-    {
       "added_at": "2025-10-03 05:43:38",
       "album": {
         "name": "Kadhalikkiren (From \"Think Indie\")",
@@ -1047,22 +1003,6 @@
       "duration_ms": 176470,
       "name": "Na Marende",
       "url": "https://open.spotify.com/track/1vMSv6VXFJ654jz5KeZY6i"
-    },
-    {
-      "added_at": "2025-09-12 06:21:27",
-      "album": {
-        "name": "Uyirkodiye",
-        "url": "https://open.spotify.com/album/1mAdffiYbBrduNY8dZtfrX"
-      },
-      "artists": [
-        {
-          "name": "Sanathan Shree Krishnan",
-          "url": "https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko"
-        }
-      ],
-      "duration_ms": 183204,
-      "name": "Uyirkodiye",
-      "url": "https://open.spotify.com/track/4a9lbEHyrHQMTIuVzEZtJc"
     },
     {
       "added_at": "2025-05-23 05:09:12",

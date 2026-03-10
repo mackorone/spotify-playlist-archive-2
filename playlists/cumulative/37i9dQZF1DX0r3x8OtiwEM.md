@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-771 songs - 3 day 0 hr 15 min
+772 songs - 3 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Arena](https://open.spotify.com/track/76CKJfYgZ17WZn6HQHszxT) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO) | [Polytone](https://open.spotify.com/album/0LSCZqG1dAwWKeBqDvmiTh) | 6:15 | 2020-02-29 | 2021-10-14 |
 | [Articulation](https://open.spotify.com/track/1yVxLul2a4s6icKnMJsb93) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/5gI4vXb0TDc2vW0VVZIELj) | 6:30 | 2020-06-12 | 2021-05-28 |
 | [As We Roll](https://open.spotify.com/track/0wtVKPi0ctiZTlntlHjxLM) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [As We Roll](https://open.spotify.com/album/4L6AsmCj0aKipkcfA4Ug1d) | 6:52 | 2021-12-17 | 2022-07-28 |
-| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 |  |
+| [Ascension](https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Ascension](https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS) | 4:04 | 2024-10-25 | 2026-03-10 |
 | [Ashes in Paradise](https://open.spotify.com/track/2aa3mL5s2oZ5Z8irf9lDoI) | [Lauren Mia](https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq) | [Ashes in Paradise](https://open.spotify.com/album/0GTW43ocEzYd18jSbdNU8z) | 6:30 | 2023-11-27 | 2024-06-22 |
 | [Asiri](https://open.spotify.com/track/4bdbWkbYxmGDOA7jLq5DdA) | [Joep Mencke](https://open.spotify.com/artist/0GapyFJVUjxdA2a4NlnhRm) | [Asiri](https://open.spotify.com/album/77PSTw3UsjsWTcxfgnDw72) | 9:38 | 2019-08-06\* | 2019-12-07 |
 | [Assaya \- Original Mix](https://open.spotify.com/track/13mciLwmOHd3gPWoHxwwuS) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Assaya](https://open.spotify.com/album/54FKQZNSDsGKTBG5X6MfI4) | 6:32 | 2019-08-06\* | 2019-08-15 |
@@ -208,6 +208,7 @@
 | [Elevation](https://open.spotify.com/track/118BQT160hFuM2JsBsa92g) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Elevation](https://open.spotify.com/album/5DHK349qDEGtNXfpmQ32hN) | 6:41 | 2023-11-27 | 2024-12-07 |
 | [Emerge As New](https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4) | [Monvol](https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl) | [Emerge As New](https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM) | 5:10 | 2022-02-25 | 2022-07-19 |
 | [Empty Skies](https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Empty Skies](https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs) | 3:34 | 2026-01-16 |  |
+| [Engine](https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Engine](https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx) | 8:00 | 2026-03-09 |  |
 | [Equilibrium \- Boris Brejcha Remix](https://open.spotify.com/track/3ojT1sBQzT0nQhaVvj8vTW) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Equilibrium Remixes](https://open.spotify.com/album/4aI6KGvJ7S3ztEAzQIPNfA) | 8:44 | 2020-12-05 | 2021-01-15 |
 | [Equinox](https://open.spotify.com/track/1ChrKo4kd2LjRjANKZmzVQ) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Equinox](https://open.spotify.com/album/4bxnrXXhn0fIZF27fTGgs7) | 6:21 | 2020-09-19 | 2020-11-28 |
 | [Escape](https://open.spotify.com/track/6WQcjT6uoPf1zUQRYNo3fZ) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Escape](https://open.spotify.com/album/3K0oeE9JISZIsZRclm2RCy) | 7:17 | 2022-11-26 | 2022-12-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,385 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,408 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 | 49 | [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7) | 3:33 |
 | 50 | [Dom Nad Wodą](https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Auer](https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N) | [Muzyka Komercyjna \(Deluxe\)](https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo) | 3:15 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

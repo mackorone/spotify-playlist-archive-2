@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: 우주소녀 \(WJSN\)\)
 
-1,606 songs - 3 day 14 hr 11 min
+1,608 songs - 3 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [I can't make you love me](https://open.spotify.com/track/1QcQ79sEzmEbUG1oR8iNM6) | [KINDA BLUE](https://open.spotify.com/artist/264XvBSD6pFn1eDvWSWMI8), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I can't make you love me](https://open.spotify.com/album/5IXPrB8V5bV6tl9Eh09jxa) | 2:38 | 2021-08-11 | 2021-10-13 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2020-10-26 | 2021-03-25 |
 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 | 2025-03-03 | 2025-06-24 |
+| [I DON'T BARGAIN](https://open.spotify.com/track/2aTs07BHIgEoelYtdYONw7) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/62Jpd59HqdZiKEu0aewPtY) | 2:50 | 2026-03-09 |  |
 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-03-29 | 2024-05-24 |
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-10-16 | 2022-01-05 |
 | [I Don't Love You \(Feat\. Coogie\)](https://open.spotify.com/track/3U7bYD9n4QP0P3LITLgLkc) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [I Don't Love You](https://open.spotify.com/album/1WHtJ18aMLsWdxak99t7Bh) | 3:17 | 2021-08-14 | 2021-10-13 |
@@ -1434,6 +1435,7 @@
 | [TTYL](https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [TTYL](https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg) | 3:03 | 2024-09-05 | 2025-03-28 |
 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 | 2026-01-04 |
 | [Turtle \(Feat\. CHUNG HA\)](https://open.spotify.com/track/4EDyTgFsthqY9Kgqkwm2LQ) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:23 | 2024-05-23 | 2024-07-06 |
+| [Twenty](https://open.spotify.com/track/167erVDWj4mi8sbfVWoc06) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Twenty](https://open.spotify.com/album/0lG4UF1YrhCjmc08Ysl6Wg) | 3:10 | 2026-03-09 |  |
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-03-12 | 2025-04-12 |
 | [TWILIGHT](https://open.spotify.com/track/7ruu3WCZipZT9ST11iI7WV) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : First Sight](https://open.spotify.com/album/4vVljcTg81LAhaD7vQAoFu) | 3:20 | 2020-11-05 | 2021-03-01 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-07-21 | 2023-08-26 |

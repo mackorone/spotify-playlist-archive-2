@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAAIutWEnu78f9Gi4LihFox",
+  "snapshot_id": "aay8AAAAAACzf5/dFjlOOEppVmMSB9Ub",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flor de la Ausencia",
-        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
+        "name": "La Calentura",
+        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Flor De La Ausencia",
-      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
+      "duration_ms": 184693,
+      "name": "La Calentura",
+      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Calentura",
-        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
+        "name": "Flor de la Ausencia",
+        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 184693,
-      "name": "La Calentura",
-      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
+      "duration_ms": 186973,
+      "name": "Flor De La Ausencia",
+      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baladas de Banda",
-        "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Arrepentida",
-      "url": "https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
         "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 168746,
       "name": "El se\u00f1or de las canas",
       "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baladas de Banda",
+        "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Arrepentida",
+      "url": "https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Tropical, Vol. 8",
-        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
+        "name": "100% Tropical, Vol. 6",
+        "url": "https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Cumbiando Con Zeta",
-      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
+      "duration_ms": 199160,
+      "name": "Con la Manito Arriba",
+      "url": "https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Manicomio",
-        "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 191574,
-      "name": "Amor De Manicomio",
-      "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tropicalandia",
         "url": "https://open.spotify.com/album/2nUuPgFwSsktVjUJf06Cqe"
       },
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Tropical, Vol. 6",
-        "url": "https://open.spotify.com/album/4ifve9dN8r3IjOq5WjwLK6"
+        "name": "100% Tropical, Vol. 8",
+        "url": "https://open.spotify.com/album/4fUo5HuqR1xV11sSGaAF49"
       },
       "artists": [
         {
@@ -736,9 +720,25 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Con la Manito Arriba",
-      "url": "https://open.spotify.com/track/7cuH3sbvoIXG9O4oz4Xeml"
+      "duration_ms": 177600,
+      "name": "Cumbiando Con Zeta",
+      "url": "https://open.spotify.com/track/7qCGUZmFIlvPp8oupXpSBS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Manicomio",
+        "url": "https://open.spotify.com/album/2yU8o8qKqKD7NRlZu7NNt1"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 191574,
+      "name": "Amor De Manicomio",
+      "url": "https://open.spotify.com/track/2sSFUftb0VboazUCZJ6TKD"
     },
     {
       "added_at": null,

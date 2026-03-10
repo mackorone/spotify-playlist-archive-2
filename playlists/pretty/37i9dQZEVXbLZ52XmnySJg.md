@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLZ52XmnySJg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,177 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,245 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLZ52XmnySJg.md) - [plain]
 | 49 | [Aakh Ye Taalibaani](https://open.spotify.com/track/5yS0pxhp7gRtTke8YSg8q1) | [Manish Sonipat Aala](https://open.spotify.com/artist/5qOMhLYGpLWkX4yvBDfAxw), [Bali Sharma](https://open.spotify.com/artist/3lNCYjWO527Kii9tkqg7Wc), [Vampire](https://open.spotify.com/artist/12QL6cy6qvkF2olxJ6GcL2) | [Aakh Ye Taalibaani](https://open.spotify.com/album/43hLoE8lHZXafTwgbq38gQ) | 2:52 |
 | 50 | [Oorum Blood](https://open.spotify.com/track/4pCXTYAPgdzMTCsDdDwjy3) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Dude \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL) | 4:00 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

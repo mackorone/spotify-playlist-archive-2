@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 95188,
+  "num_followers": 95200,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-01-06 02:11:23",
       "album": {
-        "name": "Love You Again",
-        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 173636,
-      "name": "Love You Again",
-      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
-    },
-    {
-      "added_at": "2026-01-06 02:11:23",
-      "album": {
         "name": "Kill The Lights (Deluxe)",
         "url": "https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2026-01-06 02:11:23",
       "album": {
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 186549,
+      "name": "Mr. Saturday Night",
+      "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
+    },
+    {
+      "added_at": "2026-01-06 02:11:23",
+      "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
       },
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-01-06 02:11:23",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9"
+        "name": "Love You Again",
+        "url": "https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
         }
       ],
-      "duration_ms": 186549,
-      "name": "Mr. Saturday Night",
-      "url": "https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH"
+      "duration_ms": 173636,
+      "name": "Love You Again",
+      "url": "https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy"
     },
     {
       "added_at": "2026-01-06 02:11:23",

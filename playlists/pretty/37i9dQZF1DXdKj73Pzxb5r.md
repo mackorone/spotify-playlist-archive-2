@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Orkes Bada Isya
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,442 likes - 94 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,447 likes - 94 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

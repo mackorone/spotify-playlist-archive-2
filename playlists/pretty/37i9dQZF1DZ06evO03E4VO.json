@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAB5HuF3hoeWzSvbf9kFPY7C",
+  "snapshot_id": "aay8AAAAAAAWIhiK9cc3ex0+CjhNFwnq",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "used to",
-        "url": "https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "used to",
-      "url": "https://open.spotify.com/track/3efgVA2yxnPiMqfT3y04Rd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no vuelvas a mirar atr\u00e1s",
         "url": "https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 245945,
       "name": "no vuelvas a mirar atr\u00e1s",
       "url": "https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "used to",
+        "url": "https://open.spotify.com/album/0BA0bcHBG0vW0KxunR9Wv8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "used to",
+      "url": "https://open.spotify.com/track/3efgVA2yxnPiMqfT3y04Rd"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "antisocial butterfly",
-        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183587,
-      "name": "mentiras",
-      "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "one & only",
         "url": "https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 213115,
       "name": "one & only",
       "url": "https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "antisocial butterfly",
+        "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 183587,
+      "name": "mentiras",
+      "url": "https://open.spotify.com/track/4rEf2r4gEZBFpQuOE9TMev"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "tell the one u love",
+      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "antisocial butterfly",
         "url": "https://open.spotify.com/album/3VjohCH9QginYIiEP4E5Mg"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 87579,
       "name": "back to you",
       "url": "https://open.spotify.com/track/2Ir0OrTswTZwU7BUMVV620"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "fantasies",
-      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
     },
     {
       "added_at": null,
@@ -635,6 +635,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "fantasies",
+        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "fantasies",
+      "url": "https://open.spotify.com/track/4IBBzp0rA5acqhx8oGbYQM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00e9xtasis",
+        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 185054,
+      "name": "\u00e9xtasis",
+      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "malos h\u00e1bitos",
+        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "me conquistaste",
+      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the voicenotes",
         "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
@@ -660,41 +708,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 197666,
-      "name": "tell the one u love",
-      "url": "https://open.spotify.com/track/5eDGzNXmLrtdKq2NsFLn5F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "malos h\u00e1bitos",
-        "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "me conquistaste",
-      "url": "https://open.spotify.com/track/74ne3xdycnUrWsDnAJXCX4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00e9xtasis",
-        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 185054,
-      "name": "\u00e9xtasis",
-      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
+      "duration_ms": 166920,
+      "name": "get better",
+      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 153189,
       "name": "\u00a1p\u00e1rate!",
       "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "fantasies",
-        "url": "https://open.spotify.com/album/1fXLA70J3p1vNZ03dmzZR3"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "get better",
-      "url": "https://open.spotify.com/track/5ZUYFEiOPNS94KssgFDdvB"
     },
     {
       "added_at": null,

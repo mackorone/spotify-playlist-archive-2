@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,356 likes - 95 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,425 likes - 95 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 5 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 6 | [HONKY TONK BADONKADONK](https://open.spotify.com/track/5uHA52m0cZ2l8JeUwVx8wI) | [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [HONKY TONK BADONKADONK](https://open.spotify.com/album/1OzaeXfWl2R0ncz727BPQs) | 1:54 |
 | 7 | [Austin \(Boots Stop Workin'\) \- Distant Matter Remix](https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I), [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn) | [Austin \(Boots Stop Workin'\) \[Distant Matter Remix\]](https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc) | 2:56 |
-| 8 | [I Need Tomorrow \(Feat\. Jake Banfield\)](https://open.spotify.com/track/1jt2EST9KcrhFcuWKvNp6L) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [I Need Tomorrow \(Feat\. Jake Banfield\)](https://open.spotify.com/album/11YGi8YHUXpgZPjeipgNmU) | 3:27 |
+| 8 | [I Need Tomorrow \(feat\. Jake Banfield\)](https://open.spotify.com/track/1jt2EST9KcrhFcuWKvNp6L) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [I Need Tomorrow \(feat\. Jake Banfield\)](https://open.spotify.com/album/11YGi8YHUXpgZPjeipgNmU) | 3:27 |
 | 9 | [Take Me Home, Country Roads](https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Take Me Home, Country Roads](https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW) | 2:57 |
 | 10 | [Hey Son](https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Hey Son](https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq) | 3:00 |
 | 11 | [Run With The Sun \(feat\. Bryce Vine\)](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |

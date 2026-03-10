@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 356 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 64 | [Fire](https://open.spotify.com/track/11fPH8NoSw15IG5hWk5zLL) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 4:22 |
 | 65 | [Rather Be Alone](https://open.spotify.com/track/3OtK6JOnTe7kGdlmUtSEYf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nick Martin](https://open.spotify.com/artist/7qVyaRDqZ0T20SW7l1VzMX), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [IIII](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c) | 2:51 |
 | 66 | [Weeks](https://open.spotify.com/track/3d9P90Wha2beUBCOb6boQy) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Weeks](https://open.spotify.com/album/4V9VaKYR118ULcpVZU7rpK) | 2:52 |
-| 67 | [Forget Forever](https://open.spotify.com/track/7D39d96OheT62fgxoGaElz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 4:11 |
-| 68 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
-| 69 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
+| 67 | [Hotel California](https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:08 |
+| 68 | [Forget Forever](https://open.spotify.com/track/7D39d96OheT62fgxoGaElz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 4:11 |
+| 69 | [Change Your Mind](https://open.spotify.com/track/74age2cUBw5mdUhGGbAtiM) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/6MUwfeWeo93ZO0WhDFmt6T) | 3:42 |
 | 70 | [Nothing Is Stopping You](https://open.spotify.com/track/2YhBJbeXBz2VsthtV5O4bY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:03 |
 | 71 | [No Help](https://open.spotify.com/track/3X4oYHoEhwoR8oCmQFMy1E) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [No Help](https://open.spotify.com/album/7KaecE3th2EoJMsrIJ6zVL) | 3:02 |
 | 72 | [I Fly \(feat\. Faouzia\) \- From 'SCOOB!' The Album](https://open.spotify.com/track/1uEYffw14ktvXSnlAyMtng) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [I Fly \(feat\. Faouzia\)](https://open.spotify.com/album/3JT6cqOX3SPdemZMq9T2JW) | 2:31 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 144 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 145 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcLnVAAAAABchMmc+W0ZRI7m1Kw2Gyxg`
+Snapshot ID: `AcLsuAAAAAACFEhCw8ijvNstkVFmSl1R`

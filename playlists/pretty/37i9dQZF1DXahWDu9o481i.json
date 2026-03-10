@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Baby Keem",
-  "num_followers": 74906,
+  "num_followers": 74976,
   "original_name": "Editors' Picks: Best Songs of February",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Legs In A Snare",
-        "url": "https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H"
-      },
-      "artists": [
-        {
-          "name": "Lip Critic",
-          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
-        }
-      ],
-      "duration_ms": 194538,
-      "name": "Legs In A Snare",
-      "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "New Age",
         "url": "https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 261931,
       "name": "ITS FINE",
       "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Legs In A Snare",
+        "url": "https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "duration_ms": 194538,
+      "name": "Legs In A Snare",
+      "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
     },
     {
       "added_at": "2026-03-02 12:43:35",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Round Me",
-        "url": "https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu"
-      },
-      "artists": [
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
-        }
-      ],
-      "duration_ms": 158797,
-      "name": "Round Me",
-      "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "Una Vez Y Ya",
         "url": "https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 154506,
       "name": "Una Vez Y Ya",
       "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Round Me",
+        "url": "https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu"
+      },
+      "artists": [
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        }
+      ],
+      "duration_ms": 158797,
+      "name": "Round Me",
+      "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
     },
     {
       "added_at": "2026-03-02 12:43:35",

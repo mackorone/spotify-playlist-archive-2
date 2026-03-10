@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 262360,
+  "num_followers": 262390,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "La Duda (Primera fila) - En Vivo",
+      "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Primera Fila",
         "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 237426,
       "name": "Deseos de Cosas Imposibles (with Abel Pintos) - Directo Primera Fila",
       "url": "https://open.spotify.com/track/42rtLutZjrQGmzxZhN5YFA"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "La Duda (Primera fila) - En Vivo",
-      "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
-      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 316080,
       "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
       "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
+      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
     },
     {
       "added_at": "2026-03-06 03:00:23",

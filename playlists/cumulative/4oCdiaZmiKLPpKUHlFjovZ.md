@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-219 songs - 9 hr 47 min
+220 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Money](https://open.spotify.com/track/44AJ0XazpwYbC3NsFmio43) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Money](https://open.spotify.com/album/3xhqZBrWW0aScPnvwEOLdq) | 2:11 | 2023-09-08 | 2025-02-01 |
 | [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-09-24 |  |
 | [Netflix & Chill](https://open.spotify.com/track/6XRgm5ugonEcPhwKqCTiQa) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Netflix & Chill](https://open.spotify.com/album/2RqOufNzPUbK79GrGdUrnm) | 3:46 | 2025-07-15 | 2025-08-19 |
+| [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 | 2026-03-09 |  |
 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 | 2023-08-28 | 2025-02-01 |
 | [Nobody But Us](https://open.spotify.com/track/0FHb0FsvH71rigM3vuaOLs) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Nobody But Us](https://open.spotify.com/album/0o9R9YUhYDJgnGOHaWfwO9) | 3:14 | 2025-09-15 |  |
 | [NOT THE SAME \- from the Short Film "Red Clay"](https://open.spotify.com/track/5YELnX75GMz61JEwW0uhTr) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [NOT THE SAME \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/0fhRq9JoZ8HCkQpgibTVio) | 4:31 | 2025-07-07 | 2025-07-31 |

@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 897944,
+  "num_followers": 897959,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 284492,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR"
-    },
-    {
-      "added_at": "2026-03-06 18:09:24",
-      "album": {
         "name": "BABIECA!",
         "url": "https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 166068,
       "name": "BABIECA!",
       "url": "https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e"
+    },
+    {
+      "added_at": "2026-03-06 18:09:24",
+      "album": {
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 284492,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR"
     },
     {
       "added_at": "2026-03-06 18:09:24",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
+    },
+    {
+      "added_at": "2026-03-06 18:09:24",
+      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 147400,
       "name": "MACARRONES CON QUESO",
       "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
-    },
-    {
-      "added_at": "2026-03-06 18:09:24",
-      "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
     },
     {
       "added_at": "2026-03-06 18:09:24",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
-        "name": "Fui Yo",
-        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
-      },
-      "artists": [
-        {
-          "name": "Donovan Morales",
-          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
-        }
-      ],
-      "duration_ms": 184827,
-      "name": "Fui Yo",
-      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
-    },
-    {
-      "added_at": "2026-03-06 18:09:24",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 275785,
       "name": "A\u00f1ejo",
       "url": "https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr"
+    },
+    {
+      "added_at": "2026-03-06 18:09:24",
+      "album": {
+        "name": "Fui Yo",
+        "url": "https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        }
+      ],
+      "duration_ms": 184827,
+      "name": "Fui Yo",
+      "url": "https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT"
     },
     {
       "added_at": "2026-03-06 18:09:24",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
+        "name": "aguasanta",
+        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
+      },
+      "artists": [
+        {
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+        }
+      ],
+      "duration_ms": 192525,
+      "name": "aguasanta",
+      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
+    },
+    {
+      "added_at": "2026-03-06 18:09:24",
+      "album": {
         "name": "un mensaje de voz (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 203481,
       "name": "un mensaje de voz (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv"
-    },
-    {
-      "added_at": "2026-03-06 18:09:24",
-      "album": {
-        "name": "aguasanta",
-        "url": "https://open.spotify.com/album/4ZQiFsFnhbAE4nZ71W1rgT"
-      },
-      "artists": [
-        {
-          "name": "juliocesar",
-          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
-        }
-      ],
-      "duration_ms": 192525,
-      "name": "aguasanta",
-      "url": "https://open.spotify.com/track/0rtq7E0ExwP4GqDg4Mwzyc"
     },
     {
       "added_at": "2026-03-06 18:09:24",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
+        "name": "Dos y Veintid\u00f3s",
+        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 237272,
+      "name": "Electricidad (2:21am)",
+      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
+    },
+    {
+      "added_at": "2026-03-06 18:09:24",
+      "album": {
         "name": "Quieres de mi",
         "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 192000,
       "name": "Quieres de mi",
       "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
-    },
-    {
-      "added_at": "2026-03-06 18:09:24",
-      "album": {
-        "name": "Dos y Veintid\u00f3s",
-        "url": "https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 237272,
-      "name": "Electricidad (2:21am)",
-      "url": "https://open.spotify.com/track/6d6VvHZIcw2o2iI3OIxxtr"
     },
     {
       "added_at": "2026-03-06 18:09:24",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
-        "name": "Pajaritos",
-        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
+        "name": "Pastelitos De Guayaba",
+        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
         }
       ],
-      "duration_ms": 144300,
-      "name": "Pajaritos",
-      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
+      "duration_ms": 191671,
+      "name": "Pastelitos De Guayaba",
+      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
     },
     {
       "added_at": "2026-03-06 18:09:24",
@@ -1107,18 +1107,34 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
-        "name": "Pastelitos De Guayaba",
-        "url": "https://open.spotify.com/album/2B473fEmZA1zsQhhrBe0bZ"
+        "name": "Pajaritos",
+        "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
       "artists": [
         {
-          "name": "Lilly Yan",
-          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         }
       ],
-      "duration_ms": 191671,
-      "name": "Pastelitos De Guayaba",
-      "url": "https://open.spotify.com/track/11gz6Jgn8aAOmAmBnnIqYF"
+      "duration_ms": 144300,
+      "name": "Pajaritos",
+      "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
+    },
+    {
+      "added_at": "2026-03-06 18:09:24",
+      "album": {
+        "name": "tu piel me ha besado",
+        "url": "https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx"
+      },
+      "artists": [
+        {
+          "name": "Cariatydes",
+          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
+        }
+      ],
+      "duration_ms": 222702,
+      "name": "tu piel me ha besado",
+      "url": "https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M"
     },
     {
       "added_at": "2026-03-06 18:09:24",
@@ -1159,38 +1175,6 @@
     {
       "added_at": "2026-03-06 18:09:24",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 165300,
-      "name": "Siempre Tendr\u00e9 Mi Voz",
-      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
-    },
-    {
-      "added_at": "2026-03-06 18:09:24",
-      "album": {
-        "name": "tu piel me ha besado",
-        "url": "https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx"
-      },
-      "artists": [
-        {
-          "name": "Cariatydes",
-          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
-        }
-      ],
-      "duration_ms": 222702,
-      "name": "tu piel me ha besado",
-      "url": "https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M"
-    },
-    {
-      "added_at": "2026-03-06 18:09:24",
-      "album": {
         "name": "dosextra\u00f1os",
         "url": "https://open.spotify.com/album/3y3tkiwHLAPPJHp3Bza72E"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 227244,
       "name": "dosextra\u00f1os",
       "url": "https://open.spotify.com/track/3Cxbn6kSKGPCj4FkWnCOyV"
+    },
+    {
+      "added_at": "2026-03-06 18:09:24",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 165300,
+      "name": "Siempre Tendr\u00e9 Mi Voz",
+      "url": "https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC"
     },
     {
       "added_at": "2026-03-06 18:09:24",

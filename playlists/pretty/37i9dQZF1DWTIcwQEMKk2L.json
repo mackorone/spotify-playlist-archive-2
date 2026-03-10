@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72534,
+  "num_followers": 72537,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "April In Paris",
-        "url": "https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR"
-      },
-      "artists": [
-        {
-          "name": "Anna Niva",
-          "url": "https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx"
-        }
-      ],
-      "duration_ms": 182677,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "April In Paris",
+        "url": "https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR"
+      },
+      "artists": [
+        {
+          "name": "Anna Niva",
+          "url": "https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx"
+        }
+      ],
+      "duration_ms": 182677,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
-      },
-      "artists": [
-        {
-          "name": "Brandon Mills",
-          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
-        }
-      ],
-      "duration_ms": 179810,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "You Are Peace",
         "url": "https://open.spotify.com/album/0sGPgMPvaNuC5SCIL4MFcT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 204911,
       "name": "You Are Peace",
       "url": "https://open.spotify.com/track/5i9EFDkipPL6BwtLJSEDp9"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
+      },
+      "artists": [
+        {
+          "name": "Brandon Mills",
+          "url": "https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z"
+        }
+      ],
+      "duration_ms": 179810,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "We've Never Been Here",
-        "url": "https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM"
-      },
-      "artists": [
-        {
-          "name": "Tyler Marshall",
-          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
-        }
-      ],
-      "duration_ms": 193866,
-      "name": "We've Never Been Here",
-      "url": "https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Sagittabondo",
         "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 157250,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "We've Never Been Here",
+        "url": "https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Marshall",
+          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
+        }
+      ],
+      "duration_ms": 193866,
+      "name": "We've Never Been Here",
+      "url": "https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "Head, Shoulders, Knees and Toes",
+        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
+      },
+      "artists": [
+        {
+          "name": "Martha Blackburn",
+          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
+        }
+      ],
+      "duration_ms": 77672,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "Schutter",
         "url": "https://open.spotify.com/album/5VedLR7fuvcGK0YambjMqW"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 132000,
       "name": "Dolce Far Niente",
       "url": "https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Head, Shoulders, Knees and Toes",
-        "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
-      },
-      "artists": [
-        {
-          "name": "Martha Blackburn",
-          "url": "https://open.spotify.com/artist/0YHFM04rfc7pNp63NLvswp"
-        }
-      ],
-      "duration_ms": 77672,
-      "name": "Hickory Dickory Dock",
-      "url": "https://open.spotify.com/track/2jDL6ctWUV1WoGC9I2MRNW"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Autumn Whispers",
-        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
-      },
-      "artists": [
-        {
-          "name": "Halgeir Nielsen",
-          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
-        }
-      ],
-      "duration_ms": 172510,
-      "name": "Autumn Whispers",
-      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "ballads by midnight",
         "url": "https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 314447,
       "name": "some other time",
       "url": "https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Autumn Whispers",
+        "url": "https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz"
+      },
+      "artists": [
+        {
+          "name": "Halgeir Nielsen",
+          "url": "https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh"
+        }
+      ],
+      "duration_ms": 172510,
+      "name": "Autumn Whispers",
+      "url": "https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
-      },
-      "artists": [
-        {
-          "name": "Mildred Wolf",
-          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
-        }
-      ],
-      "duration_ms": 121500,
-      "name": "A Place Like This",
-      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 286750,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
+      },
+      "artists": [
+        {
+          "name": "Mildred Wolf",
+          "url": "https://open.spotify.com/artist/3Pj0inogFqTDKgCC5OVTaz"
+        }
+      ],
+      "duration_ms": 121500,
+      "name": "A Place Like This",
+      "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Jeremy and Maureen",
-        "url": "https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 204283,
-      "name": "Jeremy and Maureen",
-      "url": "https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "My Foolishness",
         "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+        "name": "Jeremy and Maureen",
+        "url": "https://open.spotify.com/album/6ObwhBlnMPwTSXYgSGJZgf"
       },
       "artists": [
         {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
+      "duration_ms": 204283,
+      "name": "Jeremy and Maureen",
+      "url": "https://open.spotify.com/track/7ISwUxOAvFJhIM7Q9c1mcu"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1219,6 +1203,22 @@
       "duration_ms": 156746,
       "name": "Tender Nocturne",
       "url": "https://open.spotify.com/track/6Cx1VeqZG4vkZdC4ffsXAy"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Fall Pieces",
-        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
-      },
-      "artists": [
-        {
-          "name": "Sonya O'Malley",
-          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
-        }
-      ],
-      "duration_ms": 231148,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "There Is No Greater Love",
         "url": "https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+        "name": "Fall Pieces",
+        "url": "https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp"
       },
       "artists": [
         {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+          "name": "Sonya O'Malley",
+          "url": "https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE"
         }
       ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+      "duration_ms": 231148,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Lib\u00e9lula",
-        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
       },
       "artists": [
         {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Lib\u00e9lula",
-      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1483,6 +1467,22 @@
       "duration_ms": 160409,
       "name": "The Drive",
       "url": "https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Lib\u00e9lula",
+        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Lib\u00e9lula",
+      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Looking Forward, Looking Backward",
-        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
-      },
-      "artists": [
-        {
-          "name": "Robin Bennich",
-          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
-        }
-      ],
-      "duration_ms": 177875,
-      "name": "Looking Forward, Looking Backward",
-      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Looking Forward, Looking Backward",
+        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
+      },
+      "artists": [
+        {
+          "name": "Robin Bennich",
+          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
+        }
+      ],
+      "duration_ms": 177875,
+      "name": "Looking Forward, Looking Backward",
+      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
     },
     {
       "added_at": "2026-02-09 02:44:55",

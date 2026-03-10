@@ -6,8 +6,76 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARgLgwrtD5XH7gFyY9L4fiJQ6eXnY+",
+  "snapshot_id": "AAARg62Is9PvMduDFYsJvOVYd71rRt5U",
   "tracks": [
+    {
+      "added_at": "2026-03-09 15:26:07",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/5nCJWF3K5vX6hpJuk4JY2x"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 206577,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/09rAKOBzsaYz9NiSQUFMls"
+    },
+    {
+      "added_at": "2026-03-09 11:47:10",
+      "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/4jpvFlDVZZ0SQHjpkPlfmU"
+      },
+      "artists": [
+        {
+          "name": "S.A.V.E.",
+          "url": "https://open.spotify.com/artist/2Fs5f4jCkSuhE5T3li0qVl"
+        },
+        {
+          "name": "Cristian Ferretti",
+          "url": "https://open.spotify.com/artist/7C6HzjTp0dFsffscIKrPDO"
+        },
+        {
+          "name": "Sheyli Sax",
+          "url": "https://open.spotify.com/artist/4z1y9m6h9NFDTb8t5qIoix"
+        }
+      ],
+      "duration_ms": 238110,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/1fQnM5ay0Z3FZtD4f4hBTe"
+    },
+    {
+      "added_at": "2026-03-09 09:43:08",
+      "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/5XxYS6iisrIOi0rppgZoxF"
+      },
+      "artists": [
+        {
+          "name": "Jay Santos",
+          "url": "https://open.spotify.com/artist/4hRoKcngdOyw6Z7mR9DHJ1"
+        },
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Giorgio Dala",
+          "url": "https://open.spotify.com/artist/2fIdQyZQ2BzF90G4zjSqUD"
+        },
+        {
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/7iGHHZ6GxrKFcXqA6nnaVv"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/5dVyxDDY3gyZUYTvXBZgdd"
+    },
     {
       "added_at": "2026-03-08 14:55:55",
       "album": {

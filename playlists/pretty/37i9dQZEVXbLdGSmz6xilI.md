@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,927 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,006 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 49 | [Ngàn Năm Ánh Sáng](https://open.spotify.com/track/4nyoalDFgUaZOzIKqj3aS5) | [Đặng Vĩnh Thịnh](https://open.spotify.com/artist/5HoKHEC3OTaMgMDnCqc00B), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m), [Nguyễn Trung Đức](https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv) | [Ngàn Năm Ánh Sáng](https://open.spotify.com/album/2csmfc6jgCbjPuSzHmrOqP) | 3:34 |
 | 50 | [NGƯỜI NHƯ ANH XỨNG ĐÁNG CÔ ĐƠN \- KHÔNG ĐAU NỮA RỒI](https://open.spotify.com/track/6ag0c7tBr3PIqPb00C2rK4) | [VCT](https://open.spotify.com/artist/2FO4DJ1tBx3Y7sYJqOZMsw), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Jey B](https://open.spotify.com/artist/4nxHXVJhEDW8IBb2oUwWxA), [Ngô Kiến Huy](https://open.spotify.com/artist/7at0gkjCnhOBrxwQlJPJ4s) | [SÓNG 26 \- TƠ TƯỞNG VỚI THỜI GIAN](https://open.spotify.com/album/3zUg1e2rSSGVJRgQXd4hkv) | 5:54 |
 
-Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -4378,6 +4378,24 @@
       "duration_ms": 219075,
       "name": "Colette",
       "url": "https://open.spotify.com/track/1IRsOywO7Usgt8BfIx7VtX"
+    },
+    {
+      "album": {
+        "name": "Collector",
+        "url": "https://open.spotify.com/album/1n9BneFkXboaFSrfbhF7hN"
+      },
+      "artists": [
+        {
+          "name": "katanaban",
+          "url": "https://open.spotify.com/artist/7otI3KIEuomBDGDFf0y0N5"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120048,
+      "name": "Collector",
+      "url": "https://open.spotify.com/track/4ziuWzQf1TNmFOggO2xkBH"
     },
     {
       "album": {
@@ -7170,7 +7188,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 94084,
       "name": "ex-freundin",
       "url": "https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh"
@@ -17070,7 +17088,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 228346,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
@@ -17088,7 +17106,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -18642,7 +18660,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -22378,7 +22396,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 147043,
       "name": "Smells Like Refugee Spirit",
       "url": "https://open.spotify.com/track/2wZHRAtAdpljdgHhy4cDnb"
@@ -25072,7 +25090,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 106778,
       "name": "truth yandere^^ - super slowed",
       "url": "https://open.spotify.com/track/6YWn1w1lu72zgNg8TdIbGw"
@@ -29636,7 +29654,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 216647,
       "name": "\u0411\u043e\u043b\u044c\u0448\u0435, \u0447\u0435\u043c \u0431\u043b\u0438\u0436\u0435",
       "url": "https://open.spotify.com/track/5l69g0Zb6n7EKHMMjp0ebS"
@@ -35674,7 +35692,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "\u041c\u0430\u043c\u0430, \u044f \u043b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/26ndggQsCA87zuQwzpgyQE"
@@ -42162,7 +42180,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 284785,
       "name": "\u0421\u043a\u0430\u043d\u0434\u0430\u043b\u044b \u0438 \u0441\u043f\u043e\u0440\u044b",
       "url": "https://open.spotify.com/track/1Gytc7RliV7Hcbl9A68mrl"

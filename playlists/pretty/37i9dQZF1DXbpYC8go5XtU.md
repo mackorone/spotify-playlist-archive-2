@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,845 likes - 146 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,893 likes - 146 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

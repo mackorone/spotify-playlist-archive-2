@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,726 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,728 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 29 | [Ninguém Explica Deus \(Ao Vivo\)](https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 5:13 |
 | 30 | [Vasos Quebrados](https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:57 |
 | 31 | [Deus Indecifrável](https://open.spotify.com/track/37J3JpW1qWKkM77vjFVd51) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:16 |
-| 32 | [A Senha](https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Senha](https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC) | 4:23 |
-| 33 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 |
+| 32 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 |
+| 33 | [A Senha](https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [A Senha](https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC) | 4:23 |
 | 34 | [Muda o Meu Coração](https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda o Meu Coração](https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3) | 5:09 |
 | 35 | [Colhendo Frutos](https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:22 |
 | 36 | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC) | 4:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 |
 | 50 | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN) | 4:20 |
 
-Snapshot ID: `aatqgAAAAABfIJuvKnOYpUKKrOhmsLAe`
+Snapshot ID: `aay8AAAAAACw2W+9lFAGnx/MaZ5KfSLY`

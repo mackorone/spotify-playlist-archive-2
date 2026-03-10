@@ -4,7 +4,7 @@
 
 > 
 
-2,900 songs - 6 day 6 hr 4 min
+2,901 songs - 6 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Born To Rage](https://open.spotify.com/track/3Xe7uIChYGhwGGPvGqUe2q) | [INVADE](https://open.spotify.com/artist/4e8kbnPF9d7axpC8u8QJbX), [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Born To Rage](https://open.spotify.com/album/3EzSAZWu0pBBjaSgYU9oZM) | 3:02 | 2025-10-18 |  |
 | [Bounce](https://open.spotify.com/track/0ddhjbzBbRSl2m6sUH3Vpb) | [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [Bounce](https://open.spotify.com/album/28MjenuQy5gH206rkdK8Dq) | 3:44 | 2022-04-19 |  |
 | [Bounce Back](https://open.spotify.com/track/4ATFnTxz8I0j68JEin1Lwm) | [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Bounce Back](https://open.spotify.com/album/10YjQ3I1t6PjLzk69kDs5i) | 2:49 | 2023-04-21 |  |
+| [Bounce Back \- Sped Up](https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back \(Sped Up\)](https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet) | 2:15 | 2026-03-09 |  |
 | [Bounce For Your Brain](https://open.spotify.com/track/5TIfiZc4C8vRBvrEV3W33a) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [Bounce For Your Brain](https://open.spotify.com/album/4YsvG94dHiNkQBDW1mOs8J) | 2:50 | 2025-01-13 |  |
 | [Bounce It](https://open.spotify.com/track/5bVoAjpheAtpRypUL6f2by) | [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0) | [Bounce It](https://open.spotify.com/album/6MggkvxUbJCzl1ZnF8uTqR) | 6:30 | 2025-01-24 |  |
 | [Bounce My Mind](https://open.spotify.com/track/1o9sQOS8ZYZEM6SKT9k0QT) | [Guiberz](https://open.spotify.com/artist/5foXMuzBwyazFvEVJqUcq4) | [Bounce My Mind](https://open.spotify.com/album/4gKjpvPKdUKhcaild3FQwE) | 2:59 | 2024-05-16 |  |

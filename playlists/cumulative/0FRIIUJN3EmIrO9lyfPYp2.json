@@ -3621,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/5Z1kpyPx0btNe8O3jZZl1b"
+      },
+      "artists": [
+        {
+          "name": "Cholosus",
+          "url": "https://open.spotify.com/artist/2IxefYESLxSZta8oWQOSvv"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188379,
+      "name": "Dream (Short Version)",
+      "url": "https://open.spotify.com/track/0VsFrYFSfQQKGnGO3A6pgJ"
+    },
+    {
+      "album": {
         "name": "dream dealer",
         "url": "https://open.spotify.com/album/6Y2rMS8ptdZa7dAAEtjQDP"
       },

@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 836642,
+  "num_followers": 836702,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "The Best of George Benson",
+        "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Give Me the Night - Edit",
+      "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "Lou's Tune",
         "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 102634,
       "name": "Lou's Tune",
       "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "The Best of George Benson",
-        "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Give Me the Night - Edit",
-      "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "Telling The Truth",
+        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
+      },
+      "artists": [
+        {
+          "name": "Willie Wright",
+          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
+        }
+      ],
+      "duration_ms": 222213,
+      "name": "Nantucket Island",
+      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 138226,
       "name": "Great Big Bundle Of Love",
       "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "Telling The Truth",
-        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
-      },
-      "artists": [
-        {
-          "name": "Willie Wright",
-          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
-        }
-      ],
-      "duration_ms": 222213,
-      "name": "Nantucket Island",
-      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
     },
     {
       "added_at": "2026-01-28 21:43:36",

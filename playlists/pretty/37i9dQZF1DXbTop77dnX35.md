@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Skyla Tyla, Haeven, Njerae, Juno and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,628 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,667 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 30 | [Merlinpiano](https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB) | [Merlinpiano](https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8) | 2:28 |
 | 31 | [You Are Beautiful](https://open.spotify.com/track/5ptjvAo2ZLQ6IyVslUhC9P) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [You Are Beautiful](https://open.spotify.com/album/4w1grWioTQcmUahkUCHck6) | 2:56 |
 | 32 | [Sarafina](https://open.spotify.com/track/5bLPZWIkRQu0ZHa9WTHPgN) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Sarafina](https://open.spotify.com/album/413IuuPqSTVNy4wW7nlaEp) | 2:20 |
-| 33 | [P](https://open.spotify.com/track/0kBSRanBzcuF8s5bDSfUaM) | [Doonte](https://open.spotify.com/artist/0PT0HsHDs8O0FVrNmFzAOr), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [thePDSTRN](https://open.spotify.com/artist/6YG0HUP7MTeJgJXvA3Rk3d), [JustED](https://open.spotify.com/artist/68yTY1Kr3zuOwHqrilAGek) | [P](https://open.spotify.com/album/7pUDYqi4jTcpyp10OUvDgc) | 3:04 |
+| 33 | [P](https://open.spotify.com/track/0kBSRanBzcuF8s5bDSfUaM) | [Doonte](https://open.spotify.com/artist/0PT0HsHDs8O0FVrNmFzAOr), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [thePDSTRN](https://open.spotify.com/artist/6YG0HUP7MTeJgJXvA3Rk3d), [JustED](https://open.spotify.com/artist/68yTY1Kr3zuOwHqrilAGek) | [P](https://open.spotify.com/album/7pUDYqi4jTcpyp10OUvDgc) | 3:01 |
 | 34 | [Get Loose](https://open.spotify.com/track/33KLnHTYYcPJ54xod37sC6) | [Popito](https://open.spotify.com/artist/6zxcQR53LvClGvBDVIU6cZ), [King Page](https://open.spotify.com/artist/0g4Ti2u7BGKRJXMnLUrZJR), [Afro100](https://open.spotify.com/artist/5RTALJGqfXSR0WezqTwA4t), [Juzi Kora Empire](https://open.spotify.com/artist/3teLY15vpcEAexZscU4z8M) | [Get Loose](https://open.spotify.com/album/2Gyvv1niOY4l790VokVCjg) | 2:19 |
 | 35 | [BELIEVE](https://open.spotify.com/track/6nsEZ234q9BVD46xW3TCSC) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [FULL MOON](https://open.spotify.com/album/5wBJusQ5i2xHtEZnHg1KGU) | 3:05 |
 | 36 | [Second Thoughts](https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [Naya Akanji](https://open.spotify.com/artist/6m06UHY5Bn1VmA91oCukAm) | [Second Thoughts](https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw) | 2:17 |

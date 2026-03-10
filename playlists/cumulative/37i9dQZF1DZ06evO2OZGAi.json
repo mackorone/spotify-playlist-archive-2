@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Pagando el precio",
+        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215076,
+      "name": "Pagando el precio",
+      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+    },
+    {
+      "album": {
         "name": "AMEN",
         "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
       },

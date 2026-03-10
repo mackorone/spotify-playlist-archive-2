@@ -4,7 +4,7 @@
 
 > This is Amén\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 9 min
+103 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [No Me Estoy Quemando](https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 4:13 | 2023-08-25 |  |
 | [No Sé Por qué](https://open.spotify.com/track/0RHl6QdPxbUASBZmNl3I1z) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [No Sé Por qué](https://open.spotify.com/album/4LygStmlXDOzwD9M4lmYzY) | 2:16 | 2023-08-25 | 2025-11-22 |
 | [No Sé por Qué](https://open.spotify.com/track/0YvFPgjHcLj3s6vfxzti2l) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o) | 2:16 | 2025-11-22 |  |
+| [Pagando el precio](https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Pagando el precio](https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg) | 3:35 | 2026-03-10 |  |
 | [Pan con mantequilla](https://open.spotify.com/track/4E5rcyR6bgSWB866ra5f2y) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:42 | 2025-11-26 |  |
 | [Pan con mantequilla](https://open.spotify.com/track/4weOiHbItjLGTSB6ZHpXOA) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/5lI2aYjpKfats9NYrNBAbl) | 3:42 | 2023-08-25 | 2025-11-26 |
 | [Paz](https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [AMEN](https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr) | 3:41 | 2025-11-23 |  |

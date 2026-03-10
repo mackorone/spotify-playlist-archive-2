@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12269,
+  "num_followers": 12268,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADJCefx8/iZ/50rktqraegB",
+  "snapshot_id": "aay8AAAAAAAvZA2ihg8bENOH36Re0NMH",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INDUSTRY MACHINE",
-        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 197742,
-      "name": "DO YANGA (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5wM3JyZlz9elJhVO01umxf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God Over Everything",
         "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 224028,
       "name": "Money",
       "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INDUSTRY MACHINE",
+        "url": "https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 197742,
+      "name": "DO YANGA (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5wM3JyZlz9elJhVO01umxf"
     },
     {
       "added_at": null,
@@ -475,18 +475,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abobi",
-        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+        "name": "Prayer Request II",
+        "url": "https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ"
       },
       "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "jahmiel",
+          "url": "https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 201048,
-      "name": "Abobi",
-      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+      "duration_ms": 191400,
+      "name": "Prayer Request II",
+      "url": "https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt"
     },
     {
       "added_at": null,
@@ -511,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 186782,
       "name": "Pretty Girl",
       "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prayer Request II",
-        "url": "https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ"
-      },
-      "artists": [
-        {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
-        },
-        {
-          "name": "jahmiel",
-          "url": "https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "Prayer Request II",
-      "url": "https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt"
     },
     {
       "added_at": null,
@@ -607,30 +607,6 @@
       "duration_ms": 191945,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A.W.A.M.",
-        "url": "https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Mohamed Ramadan",
-          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Players",
-      "url": "https://open.spotify.com/track/50Hp4O0dgseNnTHSMDOVyK"
     },
     {
       "added_at": null,
@@ -695,6 +671,30 @@
       "duration_ms": 219820,
       "name": "Rudi (feat. Patoranking)",
       "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A.W.A.M.",
+        "url": "https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Mohamed Ramadan",
+          "url": "https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Players",
+      "url": "https://open.spotify.com/track/50Hp4O0dgseNnTHSMDOVyK"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "Yo Body",
-      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 260146,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heal D World",
+        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "Heal D World",
+      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "Hal\u00e9 Hal\u00e9",
+      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -1035,42 +1067,6 @@
       "duration_ms": 175316,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 153057,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heal D World",
-        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Heal D World",
-      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
     }
   ],
   "unique_name": "This Is Patoranking",

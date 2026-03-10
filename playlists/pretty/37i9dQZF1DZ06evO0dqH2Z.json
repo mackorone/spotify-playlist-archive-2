@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4570,
+  "num_followers": 4573,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABQRV19FQpzfWAxXnKxAo+S",
+  "snapshot_id": "aay8AAAAAACLt8h7adYyqHIOejn0D6ex",
   "tracks": [
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Death",
-        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 128520,
-      "name": "Fake Death",
-      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
+      "duration_ms": 169840,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+        "name": "Fake Death",
+        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Dent",
-      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
+      "duration_ms": 128520,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 150047,
-      "name": "Okay Paddy",
-      "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
+      "duration_ms": 180070,
+      "name": "Danielson",
+      "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 180070,
-      "name": "Danielson",
-      "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
+      "duration_ms": 150047,
+      "name": "Okay Paddy",
+      "url": "https://open.spotify.com/track/4wy6NAhezeoaHb5Uez0MK2"
     }
   ],
   "unique_name": "This Is Tigers Jaw",

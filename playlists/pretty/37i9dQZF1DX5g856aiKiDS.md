@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,999 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,011 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Smile](https://open.spotify.com/track/64QE1MhR7DrqdEZRXind6P) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Smile](https://open.spotify.com/album/3xeCW0P2FiFwo5uAcQGtAA) | 2:21 |
-| 2 | [Beautiful Days](https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Beautiful Days \(Positively Yours X soye\) \[Original Soundtrack\]](https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl) | 2:40 |
-| 3 | [Too Good To Be True](https://open.spotify.com/track/4EGyXfoOUSwA6rDVvbCuTI) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi), [sam ock](https://open.spotify.com/artist/5961esVPvWEME09TR0ZWVK) | [Too Good To Be True](https://open.spotify.com/album/5nAmjUUat7XTxYBhYJYMON) | 3:25 |
-| 4 | [Late Night Talks](https://open.spotify.com/track/52QCOtIb0R1VNw4PF5NbOA) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Terror Man Ending \(Original Soundtrack\)](https://open.spotify.com/album/77MiF7mgIiToecrI9Gb4Pf) | 3:05 |
-| 5 | [Loving you came easy](https://open.spotify.com/track/1qVTJQBU7Kq5HjFH9pVcyl) | [9duck](https://open.spotify.com/artist/5qGrtWZ90pILRYjvawmTro) | [Loving you came easy](https://open.spotify.com/album/2Bsv2RBvYrUT4rKpfIqd3B) | 3:02 |
-| 6 | [Timing](https://open.spotify.com/track/52m9tk2lzYk7tSowBUsaQO) | [xeom boi](https://open.spotify.com/artist/5DEvwmOXx50p6LUUg32t8M) | [Day 5](https://open.spotify.com/album/1vI56rynJdQnHYiRMmatfP) | 3:36 |
+| 1 | [LuckyCharm](https://open.spotify.com/track/6q3U1b0KgkOlcYzq3oW6si) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [LuckyCharm](https://open.spotify.com/album/0u3xMBTkJIB8JaJqPLj21b) | 2:19 |
+| 2 | [In your circle \(Feat\. Bumkey, Janet Suhh\)](https://open.spotify.com/track/1LnNrcQmeIWJqFAloK3NpB) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Press Winter](https://open.spotify.com/album/7jRBFt5rCSjXK7GswcLnAN) | 3:32 |
+| 3 | [Rest](https://open.spotify.com/track/1cayXr914ctuYeJkv3CPUR) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 3:28 |
+| 4 | [Smile](https://open.spotify.com/track/64QE1MhR7DrqdEZRXind6P) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [Smile](https://open.spotify.com/album/3xeCW0P2FiFwo5uAcQGtAA) | 2:21 |
+| 5 | [Beautiful Days](https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Beautiful Days \(Positively Yours X soye\) \[Original Soundtrack\]](https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl) | 2:40 |
+| 6 | [Too Good To Be True](https://open.spotify.com/track/4EGyXfoOUSwA6rDVvbCuTI) | [Kayla](https://open.spotify.com/artist/27t2qopeNua4hsIj3mYtoi), [sam ock](https://open.spotify.com/artist/5961esVPvWEME09TR0ZWVK) | [Too Good To Be True](https://open.spotify.com/album/5nAmjUUat7XTxYBhYJYMON) | 3:25 |
 | 7 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
 | 8 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 9 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [lost in you](https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G) | [oftn](https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf) | [lost in you](https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I) | 3:20 |
 | 50 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
 
-Snapshot ID: `AAAAANpevUjJ1Wxisjdf/m9Kt28YE1Mg`
+Snapshot ID: `AAAAAPvDLCCMVgiT3zx4dU2fuuQuerhb`

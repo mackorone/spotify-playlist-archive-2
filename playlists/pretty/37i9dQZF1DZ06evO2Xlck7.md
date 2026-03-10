@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 22 | [Revelation Song](https://open.spotify.com/track/7E5QeI7XaPzFY2bZyEaXbq) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:22 |
 | 23 | [Inferium](https://open.spotify.com/track/3VEfpFBPKMnsbhrgHXw1Bl) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 5:28 |
 
-Snapshot ID: `aatqgAAAAAA11uY+GFgyHbvWtE7sboYL`
+Snapshot ID: `aay8AAAAAAAcyCYfqbZiMixEYMJiQ9id`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5F7sTjF41gT.md) - [plain]
 
 > Your time is now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,050 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,072 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5F7sTjF41gT.md) - [plain]
 | 71 | [Chimes](https://open.spotify.com/track/2x1Y1lWgQgTkLFEmcAyu2R) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Chimes](https://open.spotify.com/album/150JEfGSOGv1Wfk94JcVAn) | 3:31 |
 | 72 | [Welcome to the Party \(with French Montana & Lil Pump, feat\. Zhavia Ward\) \- from Deadpool 2](https://open.spotify.com/track/5mqzhMuUpvnMfwNz6iepmO) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Welcome to the Party \(with French Montana & Lil Pump, feat\. Zhavia Ward\) \[from Deadpool 2\]](https://open.spotify.com/album/2onFbSBzB3f31hfCsAmw2g) | 3:01 |
 | 73 | [The Fire](https://open.spotify.com/track/1iP5UMdOsGz6EdltGbbcb7) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [How I Got Over](https://open.spotify.com/album/25sYZjutddzUpXNbeQ7bEC) | 3:41 |
-| 74 | [Victory \(feat\. The Notorious B.I.G\. & Busta Rhymes\)](https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t) | [Puff Daddy](https://open.spotify.com/artist/18WzSVxhKR3EcfIAB3Vp7c), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 4:56 |
+| 74 | [Victory \(feat\. The Notorious B.I.G\. & Busta Rhymes\)](https://open.spotify.com/track/2B9aYvlGefTIgKLhM6ia8t) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 4:56 |
 | 75 | [Black Skinhead](https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:08 |
 | 76 | [No Easy Way Out \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV) | [Robert Tepper](https://open.spotify.com/artist/5T1bhiyED6hokaKTechcKI) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:22 |
 | 77 | [Gonna Fly Now \- Theme From "Rocky"](https://open.spotify.com/track/7iXYRR70wewzVYzWScm99j) | [Bill Conti](https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2) | [Rocky \(Original Motion Picture Score\)](https://open.spotify.com/album/6GfrOuXqJrJjcldIstEz6A) | 2:47 |

@@ -1533,6 +1533,28 @@
     },
     {
       "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268480,
+      "name": "Beez In The Trap",
+      "url": "https://open.spotify.com/track/0x335qdLBS6o30hYdc8h2I"
+    },
+    {
+      "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF"
       },
@@ -1606,6 +1628,24 @@
       "duration_ms": 240400,
       "name": "Big Dick - Spuit Me Vol Edit",
       "url": "https://open.spotify.com/track/4FZUYO18aLOQzMx9UoIHRv"
+    },
+    {
+      "album": {
+        "name": "Big Guy (from \"The SpongeBob Movie: Search for SquarePants\u201d)",
+        "url": "https://open.spotify.com/album/7aQIxnvryoIKLMZ8wsydpz"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
+      "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
     },
     {
       "album": {
@@ -6966,6 +7006,32 @@
       "duration_ms": 267906,
       "name": "If You\u2019re Gonna Break My Heart",
       "url": "https://open.spotify.com/track/2UdLLIJygjz2yiOa3GVMV0"
+    },
+    {
+      "album": {
+        "name": "Ik Ken Die Girls",
+        "url": "https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Bartofso",
+          "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136129,
+      "name": "Ik Ken Die Girls",
+      "url": "https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G"
     },
     {
       "album": {
@@ -13364,7 +13430,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 188987,
       "name": "Should I Stay or Should I Go - Remastered",
       "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"

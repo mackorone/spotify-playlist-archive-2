@@ -1,29 +1,13 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 125395,
+  "num_followers": 125409,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAGrnWiDElOHI4A98siZ0my",
+  "snapshot_id": "aay8AAAAAAAA9536KwFnWHgFTJS3WHxF",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "L-O-V-E",
-        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 155306,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 191973,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 155306,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 218066,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
+      "duration_ms": 164800,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 252000,
       "name": "Blame It On My Youth - Remastered 1999",
       "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just One Of Those Things",
-        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "The Party's Over",
-      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
       "duration_ms": 174773,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramblin Rose",
+        "url": "https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Ramblin' Rose",
+      "url": "https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy"
     },
     {
       "added_at": null,
@@ -503,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramblin Rose",
-        "url": "https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Ramblin' Rose",
-      "url": "https://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You, Pretty Baby",
-        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
-      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Thought Of You (Expanded Edition)",
         "url": "https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 205786,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You, Pretty Baby",
+        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
+      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 150040,
-      "name": "I Could Have Danced All Night",
-      "url": "https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 139226,
       "name": "How I'd Love To Love You",
       "url": "https://open.spotify.com/track/2thCpvqBi9k1drA2oEZ2Co"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 150040,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/20mEmrHhY9yN6IvYncoL96"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+        "name": "L-O-V-E",
+        "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
       "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        },
         {
           "name": "Nat King Cole",
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 154026,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/4sfHDOLuNHbSo8EpEa5oIg"
+      "duration_ms": 136093,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/6J1oewqsGoNwIyTUv88E7O"
     }
   ],
   "unique_name": "This Is Nat King Cole",

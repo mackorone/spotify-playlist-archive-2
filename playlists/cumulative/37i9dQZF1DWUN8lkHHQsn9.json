@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:0b2xjUWoDTDaDbr4fNqGtc\">susk</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:0e06gUDSCntc3X6v8mL6kk\">Kamil Kowalski</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -1070,6 +1070,32 @@
       "duration_ms": 261923,
       "name": "Czerwone ledy",
       "url": "https://open.spotify.com/track/6aKBfZoYih0qCrcU7xEJ57"
+    },
+    {
+      "album": {
+        "name": "Czer\u0144",
+        "url": "https://open.spotify.com/album/09c4Tv3ZmwsUZqPSG2sOFG"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        },
+        {
+          "name": "Mikaela Sandell",
+          "url": "https://open.spotify.com/artist/6i5ROojnKVF1TYprq27TgU"
+        },
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156443,
+      "name": "Czer\u0144",
+      "url": "https://open.spotify.com/track/7vTpsYSIVBm4jZfQ1zUylm"
     },
     {
       "album": {
@@ -2318,7 +2344,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 307213,
       "name": "Harvest",
       "url": "https://open.spotify.com/track/3HQeUn8KcfKgPOl2NSrdf7"
@@ -2762,7 +2788,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 217021,
       "name": "Jaskrawe historie",
       "url": "https://open.spotify.com/track/7nvyxWLQStZp4rGVV9duGD"
@@ -3036,7 +3062,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 221820,
       "name": "Kot Schr\u00f6dingera",
       "url": "https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S"
@@ -3925,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "Na stacji paliw",
+        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183260,
+      "name": "Na stacji paliw",
+      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
+    },
+    {
+      "album": {
         "name": "ATAK",
         "url": "https://open.spotify.com/album/09ILsQK7aaCtCGciftyi0z"
       },
@@ -3940,6 +3984,24 @@
       "duration_ms": 274959,
       "name": "NAJGORSZE RZECZY",
       "url": "https://open.spotify.com/track/14IblGaBsxqjyflCxvZkls"
+    },
+    {
+      "album": {
+        "name": "Narcyz",
+        "url": "https://open.spotify.com/album/0rDTN305LHlrwHqFNIXLUr"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kamik",
+          "url": "https://open.spotify.com/artist/4D2PCg640w5R8SGfAlO2ZR"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131039,
+      "name": "Narcyz",
+      "url": "https://open.spotify.com/track/3bRSd0E1zs5aeZBrQb5eCl"
     },
     {
       "album": {
@@ -4302,6 +4364,32 @@
       "duration_ms": 154698,
       "name": "NIE ZNASZ JEJ",
       "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
+    },
+    {
+      "album": {
+        "name": "nocami, do \u015bwitu",
+        "url": "https://open.spotify.com/album/1xdIsORRS3nfikdVFb42i8"
+      },
+      "artists": [
+        {
+          "name": "villaz",
+          "url": "https://open.spotify.com/artist/7Dgc5VSOtvobxlOOmNsvJp"
+        },
+        {
+          "name": "stas kropka",
+          "url": "https://open.spotify.com/artist/7mwWs7UzQdHaTvI66p99x1"
+        },
+        {
+          "name": "connorr",
+          "url": "https://open.spotify.com/artist/09kC6DXxyZ9TMr2THWZLyI"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185025,
+      "name": "nie zrozumiesz!",
+      "url": "https://open.spotify.com/track/62w0zy7AVdRHvgOZJM0C1K"
     },
     {
       "album": {
@@ -4800,10 +4888,28 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 224000,
       "name": "Pani Baudelaire - Maryolkah Remix",
       "url": "https://open.spotify.com/track/7bc3WVMcv3C5yz1uTYfOd4"
+    },
+    {
+      "album": {
+        "name": "Panienka",
+        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169063,
+      "name": "Panienka",
+      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
     },
     {
       "album": {
@@ -5032,6 +5138,24 @@
       "duration_ms": 226893,
       "name": "po m\u0119sku",
       "url": "https://open.spotify.com/track/5cJCH8nwrVdbQeOzW9y6XT"
+    },
+    {
+      "album": {
+        "name": "Po por\u0119czy",
+        "url": "https://open.spotify.com/album/6Rkb9BJhGcE3zptWifiHdh"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Po por\u0119czy",
+      "url": "https://open.spotify.com/track/2CQA17w6FLYWYnubcTQgov"
     },
     {
       "album": {
@@ -6300,7 +6424,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 205502,
       "name": "Stukamy si\u0119 browarami",
       "url": "https://open.spotify.com/track/4BxOstnrSY1OmAguUtpljj"
@@ -7772,7 +7896,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 159137,
       "name": "zosta\u0107 czy odej\u015b\u0107",
       "url": "https://open.spotify.com/track/2F5ZDCSwEBx7CnV2njYOgz"

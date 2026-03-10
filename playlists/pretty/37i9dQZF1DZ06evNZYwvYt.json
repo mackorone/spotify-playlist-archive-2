@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19847,
+  "num_followers": 19851,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAB/NuRaf4mvkaARUo4zGpIE",
+  "snapshot_id": "aay8AAAAAADGMA8pLMcXMQfeYMUoKeLD",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Domest\u00edcame",
-      "url": "https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD"
+      "duration_ms": 281142,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/76jFWuJwsDbSl7t85KZyIe"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sonido del Misterio",
-        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 281142,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/76jFWuJwsDbSl7t85KZyIe"
+      "duration_ms": 249000,
+      "name": "Domest\u00edcame",
+      "url": "https://open.spotify.com/track/5HRmvSYMTo30HM9LJb8sTD"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 184571,
-      "name": "Cuando la vida se vuelve real",
-      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
+      "duration_ms": 287714,
+      "name": "Piedras de fuego",
+      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 287714,
-      "name": "Piedras de fuego",
-      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
+      "duration_ms": 184571,
+      "name": "Cuando la vida se vuelve real",
+      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Sufriendo de m\u00e1s",
-      "url": "https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t"
+      "duration_ms": 191428,
+      "name": "Las gemas",
+      "url": "https://open.spotify.com/track/0QySeIANpgUoPcBwVqVS1x"
     },
     {
       "added_at": null,

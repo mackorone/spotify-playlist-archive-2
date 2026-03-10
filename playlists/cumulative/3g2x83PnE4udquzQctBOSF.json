@@ -1575,6 +1575,36 @@
     },
     {
       "album": {
+        "name": "Caliente",
+        "url": "https://open.spotify.com/album/5XxYS6iisrIOi0rppgZoxF"
+      },
+      "artists": [
+        {
+          "name": "Jay Santos",
+          "url": "https://open.spotify.com/artist/4hRoKcngdOyw6Z7mR9DHJ1"
+        },
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Giorgio Dala",
+          "url": "https://open.spotify.com/artist/2fIdQyZQ2BzF90G4zjSqUD"
+        },
+        {
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/7iGHHZ6GxrKFcXqA6nnaVv"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/5dVyxDDY3gyZUYTvXBZgdd"
+    },
+    {
+      "album": {
         "name": "UNSPOKEN DESIRES EP",
         "url": "https://open.spotify.com/album/6AC9s4oFLhVC7M3PCmdzjD"
       },
@@ -5639,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/5nCJWF3K5vX6hpJuk4JY2x"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206577,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/09rAKOBzsaYz9NiSQUFMls"
+    },
+    {
+      "album": {
         "name": "London Bridge",
         "url": "https://open.spotify.com/album/3GjwA8C4Pe0WSCxfRjF8Fr"
       },
@@ -7830,6 +7878,32 @@
       "duration_ms": 241860,
       "name": "Shut Up!",
       "url": "https://open.spotify.com/track/7xPoyl21zfzMCL3AF79WiI"
+    },
+    {
+      "album": {
+        "name": "Siento",
+        "url": "https://open.spotify.com/album/4jpvFlDVZZ0SQHjpkPlfmU"
+      },
+      "artists": [
+        {
+          "name": "S.A.V.E.",
+          "url": "https://open.spotify.com/artist/2Fs5f4jCkSuhE5T3li0qVl"
+        },
+        {
+          "name": "Cristian Ferretti",
+          "url": "https://open.spotify.com/artist/7C6HzjTp0dFsffscIKrPDO"
+        },
+        {
+          "name": "Sheyli Sax",
+          "url": "https://open.spotify.com/artist/4z1y9m6h9NFDTb8t5qIoix"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238110,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/1fQnM5ay0Z3FZtD4f4hBTe"
     },
     {
       "album": {

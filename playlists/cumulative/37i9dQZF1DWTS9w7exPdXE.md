@@ -2,7 +2,7 @@
 
 ### [Hollandse Meezingers](https://open.spotify.com/playlist/37i9dQZF1DWTS9w7exPdXE)
 
-> Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands 🔥
+> Samuel Welten \(<a href="spotify:artist:37i9dQZF1DXaxwXKCsImRe">RADAR BNLX</a>\-artiest\) wint twee Edisons: Nieuwkomer en Hollands
 
 120 songs - 6 hr 18 min
 

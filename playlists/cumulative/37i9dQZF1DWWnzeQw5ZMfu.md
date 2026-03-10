@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-260 songs - 19 hr 51 min
+261 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Physical \- Live](https://open.spotify.com/track/26Rb7QyeoJWEMVAaW9mWWO) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 4:43 | 2023-08-18 | 2024-04-19 |
 | [Pompeii \- MTV Unplugged / Edit](https://open.spotify.com/track/2Pzo3PpYPcqpebYgXWUoWl) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Pompeii / Come As You Are \(MTV Unplugged\)](https://open.spotify.com/album/5o8QbgQysnN2Ox4ZLWnp5K) | 4:28 | 2023-04-14 | 2025-01-18 |
 | [Praying For Time \- Live](https://open.spotify.com/track/2wxmcT7qPxEvmfgEXNzkbw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:58 | 2022-04-14 | 2023-08-19 |
+| [Pretty Baby \- Live From Toronto](https://open.spotify.com/track/5MpvJTvJHP4EFiBbvTSN1T) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby \(Live From Toronto\)](https://open.spotify.com/album/2TS9UWfP5J1uosgTvyX391) | 3:24 | 2026-03-09 |  |
 | [Reflection \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/5xhjz2n0e7KYAb9sVdl9Pz) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 2:39 | 2024-10-04 | 2025-01-18 |
 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 | 2022-04-14 | 2025-01-18 |
 | [Roman Holiday \- Live From Webster Hall](https://open.spotify.com/track/0r0yp1OGfO4VOgUY6u3eV0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Live From Webster Hall\)](https://open.spotify.com/album/1ysohK5wUmM4hDTvGUzR0Z) | 3:17 | 2022-04-29 | 2025-01-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104094,
+  "num_followers": 104093,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADMUNTZqObcZEEtPeM9ahmw",
+  "snapshot_id": "aay8AAAAAADZt/Dv3ENQMS5dLTKZLxAZ",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abracadabra (feat. Craig David)",
         "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
       },
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Ain't Giving Up",
-      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing Like This",
         "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 183645,
       "name": "Nothing Like This",
       "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
     },
     {
       "added_at": null,
@@ -679,42 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
-      },
-      "artists": [
-        {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 167796,
-      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
-      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "2 Steps Back",
-      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ishq Hai (This is Love) [From \"Mismatched, Season 3\"]",
         "url": "https://open.spotify.com/album/24zM8Ez9aPPiDScXVXSH5K"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 146001,
       "name": "Ishq Hai (This is Love) - From \"Mismatched, Season 3\"",
       "url": "https://open.spotify.com/track/53PHY7P6XrgX6YdPxJAhvO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "2 Steps Back",
+      "url": "https://open.spotify.com/track/4nvhutyXHvt96jqwHwIgR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+        "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 167796,
+      "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
+      "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
     },
     {
       "added_at": null,
@@ -911,8 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 178019,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
+      "duration_ms": 249280,
+      "name": "My Love Don't Stop",
+      "url": "https://open.spotify.com/track/5Ua103T55HLiVMsIO9eNB2"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 249280,
-      "name": "My Love Don't Stop",
-      "url": "https://open.spotify.com/track/5Ua103T55HLiVMsIO9eNB2"
+      "duration_ms": 178019,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
     }
   ],
   "unique_name": "This Is Craig David",

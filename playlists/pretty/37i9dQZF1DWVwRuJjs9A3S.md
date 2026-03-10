@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Hater
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,879 likes - 242 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,896 likes - 242 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

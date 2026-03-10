@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: mollywood",
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: KKevin",
   "name": "Hot Hits Magyarorsz\u00e1g",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 184193,
       "name": "Beef",
       "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
@@ -578,6 +578,24 @@
       "duration_ms": 207162,
       "name": "cipoe",
       "url": "https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc"
+    },
+    {
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132812,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
     },
     {
       "album": {
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 142856,
       "name": "Hol volt\u00e1l?",
       "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
@@ -2507,6 +2525,28 @@
     },
     {
       "album": {
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "PONT J\u00d3",
+      "url": "https://open.spotify.com/track/7K7nE6SeqGPcYpQ6Z1M6qx"
+    },
+    {
+      "album": {
         "name": "PRESSO",
         "url": "https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3"
       },
@@ -2584,7 +2624,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 131000,
       "name": "P\u00c1NCZ\u00c9L",
       "url": "https://open.spotify.com/track/6EeVhUxVV9eWB76HOBOQTt"
@@ -3342,6 +3382,24 @@
       "duration_ms": 144203,
       "name": "S\u00d6T\u00c9T",
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "album": {
+        "name": "TAKE YOUR TIME",
+        "url": "https://open.spotify.com/album/6o33CmUr6BfidP0VL59yot"
+      },
+      "artists": [
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141789,
+      "name": "TAKE YOUR TIME",
+      "url": "https://open.spotify.com/track/1CcSopy8wvVOyKexbS0gyU"
     },
     {
       "album": {

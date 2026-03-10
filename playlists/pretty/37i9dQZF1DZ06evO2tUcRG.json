@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABst0LhyrU+1gcAPbVRIgk4",
+  "snapshot_id": "aay8AAAAAAC/xmEg/8Aqpcv3YaRtndzm",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -147,38 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enche-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 450560,
       "name": "Enche-me - Ao Vivo",
       "url": "https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 384870,
-      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
-      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
+      "duration_ms": 222882,
+      "name": "Abra\u00e7a-me - Live 2020",
+      "url": "https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 222882,
-      "name": "Abra\u00e7a-me - Live 2020",
-      "url": "https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf"
+      "duration_ms": 384870,
+      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
+      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Igreja (Ao Vivo)",
+        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 286452,
+      "name": "Agnus Dei - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yahweh (Ao Vivo)",
         "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja (Ao Vivo)",
-        "url": "https://open.spotify.com/album/12QoaLjXRGCh7zqLKkF67P"
+        "name": "\u00c9s o Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
       },
       "artists": [
         {
@@ -796,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 286452,
-      "name": "Agnus Dei - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GUUcLp5OviLoV4Zpgf3Km"
+      "duration_ms": 403538,
+      "name": "\u00c9s o Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 326883,
       "name": "Hosana - Ao Vivo",
       "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9s o Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 403538,
-      "name": "\u00c9s o Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
-  "num_followers": 242466,
+  "num_followers": 242512,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        },
-        {
-          "name": "Noninho Navarro",
-          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Lobo da Labo",
         "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 204721,
       "name": "Companhia",
       "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Noninho Navarro",
+          "url": "https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Voc\u00ea Prometeu",
         "url": "https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "TU E A LUA",
-        "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
       },
       "artists": [
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
         }
       ],
-      "duration_ms": 168600,
-      "name": "TU E A LUA",
-      "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -603,6 +587,22 @@
       "duration_ms": 183396,
       "name": "Boss",
       "url": "https://open.spotify.com/track/7KvpAuRJ0Mk7V69FR5578v"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "TU E A LUA",
+        "url": "https://open.spotify.com/album/1RB4xQYnHkcZZjyu3vYxkS"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "TU E A LUA",
+      "url": "https://open.spotify.com/track/2i91LXIQTB9uRfkrVrcRKC"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "O Jeito Dela",
-        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
-      },
-      "artists": [
-        {
-          "name": "Gasso Franco",
-          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
-        }
-      ],
-      "duration_ms": 285116,
-      "name": "O Jeito Dela - Original Mix",
-      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Akanadja",
         "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 182023,
       "name": "Akanadja",
       "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "O Jeito Dela",
+        "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
+      },
+      "artists": [
+        {
+          "name": "Gasso Franco",
+          "url": "https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i"
+        }
+      ],
+      "duration_ms": 285116,
+      "name": "O Jeito Dela - Original Mix",
+      "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Bia",
-        "url": "https://open.spotify.com/album/0YorR7XzlIH3CftiINKp2A"
-      },
-      "artists": [
-        {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
-        }
-      ],
-      "duration_ms": 273925,
-      "name": "Bia",
-      "url": "https://open.spotify.com/track/5jYvNdB6bbptDAttYl7vtx"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Menina Mulher",
         "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 201253,
       "name": "Fa\u00e7o Como",
       "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Bia",
+        "url": "https://open.spotify.com/album/0YorR7XzlIH3CftiINKp2A"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 273925,
+      "name": "Bia",
+      "url": "https://open.spotify.com/track/5jYvNdB6bbptDAttYl7vtx"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        },
+        {
+          "name": "Twenty Fingers",
+          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        }
+      ],
+      "duration_ms": 227843,
+      "name": "S\u00f3 Sodadi",
+      "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
         "name": "Hey Odja",
         "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
       },
@@ -1271,30 +1295,6 @@
       "duration_ms": 218426,
       "name": "Simbiose",
       "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        },
-        {
-          "name": "Twenty Fingers",
-          "url": "https://open.spotify.com/artist/3hZ2JuVlcM4yFRDwPUSXvC"
-        },
-        {
-          "name": "Teo No Beat",
-          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
-        }
-      ],
-      "duration_ms": 227843,
-      "name": "S\u00f3 Sodadi",
-      "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
+        "name": "Jungle Fever",
+        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 195350,
+      "name": "Jungle Fever",
+      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
         "name": "AROMA INSANO",
         "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 219666,
       "name": "Planos",
       "url": "https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
-        "name": "Jungle Fever",
-        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 195350,
-      "name": "Jungle Fever",
-      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 164636,
       "name": "The Best",
       "url": "https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1855,22 +1855,22 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Fica L\u00e1",
-        "url": "https://open.spotify.com/album/7cMQBVEaBYGIKJjBCV7asB"
+        "name": "TROMPETE",
+        "url": "https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS"
       },
       "artists": [
         {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
         },
         {
-          "name": "Tony Z",
-          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
         }
       ],
-      "duration_ms": 231289,
-      "name": "Fica L\u00e1",
-      "url": "https://open.spotify.com/track/3TvcKZTFnoYuIVdbvk0zpP"
+      "duration_ms": 257137,
+      "name": "TROMPETE",
+      "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
     }
   ],
   "unique_name": "Dancing Kizomba",

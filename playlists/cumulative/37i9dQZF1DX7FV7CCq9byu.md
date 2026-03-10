@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,538 songs - 3 day 6 hr 37 min
+1,539 songs - 3 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1419,6 +1419,7 @@
 | [Underbart](https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Underbart](https://open.spotify.com/album/6WoazjKrlteUKghj03CYDl) | 2:34 | 2024-06-27 | 2024-07-05 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 | 2025-05-09 |
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-16 | 2025-06-13 |
+| [Ung \- Acoustic](https://open.spotify.com/track/2m0qtGSqkwTYg83mhxpuok) | [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [Ung Acoustic](https://open.spotify.com/album/1KcdpBGxvbV9Ke35jUvyIJ) | 2:17 | 2026-03-09 |  |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2024-08-16 |
 | [use me!!!!!!!](https://open.spotify.com/track/5Kq49f1Yae96EXQgWKUbMM) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/74mjAz7XKkyRB8CAdLQngJ) | 2:04 | 2025-09-08 | 2026-01-15 |
 | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/track/4bLVAX1N6G8e3Lpq7rwIFm) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Utan dina andetag \- Spotify Singles](https://open.spotify.com/album/3x3NE0VAzGPbsPuqqVQhmI) | 3:24 | 2024-06-27 | 2024-07-05 |

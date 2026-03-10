@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked releases from the new wave in soul. Cover: Yas Mayou",
-  "num_followers": 493505,
+  "num_followers": 493525,
   "original_name": "Soul Currents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANWknk5VjkOR2wr+XU8ghiljKSDg",
+  "snapshot_id": "AAAAAIvbEBmqlY86inQML7d69UlzNNeW",
   "tracks": [
     {
       "added_at": "2026-03-06 15:17:26",
@@ -47,6 +47,38 @@
     {
       "added_at": "2026-03-06 15:17:26",
       "album": {
+        "name": "Rain Down",
+        "url": "https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 278425,
+      "name": "Rain Down",
+      "url": "https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N"
+    },
+    {
+      "added_at": "2026-03-06 15:17:26",
+      "album": {
+        "name": "Who Have I Become?",
+        "url": "https://open.spotify.com/album/3VftFr2y5vitTyGorElKIA"
+      },
+      "artists": [
+        {
+          "name": "GeeJay",
+          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
+        }
+      ],
+      "duration_ms": 245080,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX"
+    },
+    {
+      "added_at": "2026-03-06 15:17:26",
+      "album": {
         "name": "NEVER BE THE SAME",
         "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
       },
@@ -63,22 +95,6 @@
       "duration_ms": 172376,
       "name": "NEVER BE THE SAME",
       "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
-    },
-    {
-      "added_at": "2026-03-06 15:17:26",
-      "album": {
-        "name": "Rain Down",
-        "url": "https://open.spotify.com/album/4he1mekN0K30tihK6xL0yL"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 278425,
-      "name": "Rain Down",
-      "url": "https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N"
     },
     {
       "added_at": "2026-03-06 15:17:26",
@@ -107,6 +123,22 @@
     {
       "added_at": "2026-03-06 15:17:26",
       "album": {
+        "name": "Feeling Blue",
+        "url": "https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH"
+      },
+      "artists": [
+        {
+          "name": "Kyra",
+          "url": "https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW"
+        }
+      ],
+      "duration_ms": 194452,
+      "name": "Feeling Blue",
+      "url": "https://open.spotify.com/track/58CHDPWwZOaHi6YqNxNvnu"
+    },
+    {
+      "added_at": "2026-03-06 15:17:26",
+      "album": {
         "name": "Random Acts Of Kindness",
         "url": "https://open.spotify.com/album/4VL9iWxf2Y5hF2kfW1vnn8"
       },
@@ -123,38 +155,6 @@
       "duration_ms": 280051,
       "name": "I Just Want You 2 Love Me Back",
       "url": "https://open.spotify.com/track/1s94TlzTbyg4H4Rs5yThha"
-    },
-    {
-      "added_at": "2026-03-06 15:17:26",
-      "album": {
-        "name": "Who Have I Become?",
-        "url": "https://open.spotify.com/album/3VftFr2y5vitTyGorElKIA"
-      },
-      "artists": [
-        {
-          "name": "GeeJay",
-          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX"
-    },
-    {
-      "added_at": "2026-03-06 15:17:26",
-      "album": {
-        "name": "Feeling Blue",
-        "url": "https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH"
-      },
-      "artists": [
-        {
-          "name": "Kyra",
-          "url": "https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW"
-        }
-      ],
-      "duration_ms": 194452,
-      "name": "Feeling Blue",
-      "url": "https://open.spotify.com/track/58CHDPWwZOaHi6YqNxNvnu"
     },
     {
       "added_at": "2026-03-06 15:17:26",

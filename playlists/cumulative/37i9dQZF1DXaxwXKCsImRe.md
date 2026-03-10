@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Spotify editors pick exciting artists for RADAR BNLX\. New: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
+> De toekomst van de Benelux volgens onze muziekredactie\. Nieuw: <a href="spotify:artist:2avtvk1ZeiEf3wZ8dE8JfE">Zoë Livay</a>
 
-235 songs - 12 hr 33 min
+238 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,10 +109,12 @@
 | [How Many Nights](https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [How Many Nights](https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9) | 3:20 | 2024-03-07 | 2024-04-07 |
 | [How Many Nights](https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:20 | 2024-04-06 | 2025-01-10 |
 | [Huisfeestje](https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Huisfeestje](https://open.spotify.com/album/7Ida3KTJ3zMQ9lchjH3BnF) | 2:29 | 2024-06-06 | 2024-09-20 |
+| [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 | 2026-03-09 |  |
 | [I Feel Like Shit And I Wanna Die](https://open.spotify.com/track/1aOq2CbGFsvoc2eTDBSwUc) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [I Feel Like Shit And I Wanna Die](https://open.spotify.com/album/4Dfn8X3Fw8Zisujyw0yYds) | 3:36 | 2022-10-05 | 2024-01-19 |
 | [I'm not Pretty](https://open.spotify.com/track/3promGTTwsn1N5D6RzaFMV) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [I'm not Pretty](https://open.spotify.com/album/7kpMsNJoM5X8kntRP4OzFg) | 1:58 | 2021-12-10 | 2022-04-29 |
 | [Iced Out](https://open.spotify.com/track/54Z4M6n677nH3rKWeV5IWJ) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Iced Out](https://open.spotify.com/album/5zFLy61k07leoBrxjNbjKE) | 3:01 | 2022-07-07 | 2022-08-26 |
 | [iClout \(feat\. EARTHGANG\)](https://open.spotify.com/track/61dvMPhVqB2iWGHQU6BjyK) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Digital Tears](https://open.spotify.com/album/6dEZTAWhslVOPZc3SU18oD) | 4:22 | 2021-12-10 | 2022-03-12 |
+| [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 | 2026-03-09 |  |
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2021-12-10 | 2022-08-26 |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2024-09-19 | 2025-01-10 |
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2022-02-03 | 2023-09-15 |
@@ -193,6 +195,7 @@
 | [Show Me](https://open.spotify.com/track/1Ey1TMpXKQY7rlJ0ZuNc50) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [So Much for Gardening](https://open.spotify.com/album/3YeM4v2nWzBdcCl9awURhv) | 5:50 | 2021-12-10 | 2022-03-12 |
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2022-08-25 | 2023-04-07 |
 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 | 2025-09-25 |  |
+| [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 | 2026-03-09 |  |
 | [Smile](https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Smile](https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS) | 3:04 | 2022-01-24 | 2022-06-17 |
 | [somebody's daughter](https://open.spotify.com/track/1uiQGvgzMLTWjI8SKcegLw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 2:54 | 2025-03-05 | 2025-03-28 |
 | [someone like u](https://open.spotify.com/track/6BeODAFUXgrscucnq8xDAs) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [someone like u](https://open.spotify.com/album/5Bv3bGkyEVmF3WJXLtrCkn) | 3:52 | 2022-02-03 | 2023-09-15 |

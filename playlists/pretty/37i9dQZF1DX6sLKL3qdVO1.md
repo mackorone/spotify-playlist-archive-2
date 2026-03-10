@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Jere Klein en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,820 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,803 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 11 | [Flow Diferente](https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Flow Diferente](https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n) | 2:18 |
 | 12 | [klk klwa](https://open.spotify.com/track/3VU5D7slCHrUqyvxsiEcNf) | [geomafia](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh), [The Ozakis](https://open.spotify.com/artist/1v8YIG0I9MqWw9pSNAiEuV) | [klk klwa](https://open.spotify.com/album/5s2eURHjxbxfQ5OQ9cNvFI) | 2:43 |
 | 13 | [RIDIN](https://open.spotify.com/track/4D8EhdAPBtxxXWTwajdblG) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [RIDIN](https://open.spotify.com/album/0a2y9dUPmPCtTurd4jfEJg) | 2:00 |
-| 14 | [TE PUSISTE RIKA](https://open.spotify.com/track/0ohbpEBIsL2e9qTGqCeIhF) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [TE PUSISTE RIKA](https://open.spotify.com/album/1Zoffenney6GiazwagbHEg) | 2:39 |
+| 14 | [TE PUSISTE RIKA](https://open.spotify.com/track/0ohbpEBIsL2e9qTGqCeIhF) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [TE PUSISTE RIKA](https://open.spotify.com/album/1Zoffenney6GiazwagbHEg) | 2:40 |
 | 15 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 16 | [TRAGO \#5 X AHI](https://open.spotify.com/track/4wiQfv0l3TKN0wTwjFjju0) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [TRAGO \#5 X AHI](https://open.spotify.com/album/49XxVv0picBKz0X5C1JP7N) | 2:59 |
 | 17 | [FOREVER TU GANTEL](https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:46 |

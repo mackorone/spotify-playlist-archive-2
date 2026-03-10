@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1400034,
+  "num_followers": 1400142,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        },
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 289173,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 289173,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn"
     },
     {
       "added_at": "2024-06-24 11:23:29",

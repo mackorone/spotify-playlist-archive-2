@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,044 likes - 119 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043 likes - 119 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 93 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 |
 | 94 | [Feel Me Cry](https://open.spotify.com/track/62TXU49KuTA9oGH5nRrUPd) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:29 |
 | 95 | [Be Yourself](https://open.spotify.com/track/60V16rkc0r73IjVIoyfqg6) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 2:48 |
-| 96 | [Me + You](https://open.spotify.com/track/1ZVHmwgdfGjFe01SaqXm3J) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Me + You](https://open.spotify.com/album/2vtMfH5f2TCeTvc7fi63ce) | 3:34 |
-| 97 | [Keep It Movin’](https://open.spotify.com/track/2IWvs7NUJ54EeZuosgnmM9) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Phylicia Pearl Mpasi](https://open.spotify.com/artist/4sgoLI8KFagQQt3wiIMcHC) | [The Color Purple \(Music From And Inspired By\)](https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5) | 3:52 |
+| 96 | [Keep It Movin’](https://open.spotify.com/track/2IWvs7NUJ54EeZuosgnmM9) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Phylicia Pearl Mpasi](https://open.spotify.com/artist/4sgoLI8KFagQQt3wiIMcHC) | [The Color Purple \(Music From And Inspired By\)](https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5) | 3:52 |
+| 97 | [Me + You](https://open.spotify.com/track/1ZVHmwgdfGjFe01SaqXm3J) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Me + You](https://open.spotify.com/album/2vtMfH5f2TCeTvc7fi63ce) | 3:34 |
 | 98 | [Boots On The Ground Remix](https://open.spotify.com/track/0TN29ikYiEcQrX2gtrRGnI) | [803Fresh](https://open.spotify.com/artist/32ftls4i17bxMoq6eEt6kp), [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Boots On The Ground Remix](https://open.spotify.com/album/2ElCL4nxiyPqqo4ODv1z1q) | 3:27 |
 | 99 | [Finally \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/3WZn98ifY0D3WmnZWlVZRw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Finally \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/3xQ8XKfiCYGewk8b3oBFNe) | 4:09 |
 | 100 | [Love Suicide](https://open.spotify.com/track/19FFLSUP97EtKlicaB0slt) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Love Suicide \- Single](https://open.spotify.com/album/3588siG1z4pQFxBDHz8DC5) | 3:27 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 118 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 | 119 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 
-Snapshot ID: `AcLnVAAAAACU3tgeCYUdeFagWwQU7W/F`
+Snapshot ID: `AcLsuAAAAACVY35zG8xgJywkbMr3A651`

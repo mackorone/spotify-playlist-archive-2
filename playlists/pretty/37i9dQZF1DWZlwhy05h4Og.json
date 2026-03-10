@@ -1,15 +1,15 @@
 {
   "description": "The sweetest bops. Cover: IVE",
-  "num_followers": 70626,
+  "num_followers": 70652,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlnnBOqjDQjUvsQnvT+kknjN6+j",
+  "snapshot_id": "AAAAALcQb+2D2s4OEXp65aF3Ix6k/3SV",
   "tracks": [
     {
-      "added_at": "2026-02-13 05:00:48",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7"
@@ -25,10 +25,46 @@
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
     },
     {
-      "added_at": "2025-11-14 05:00:25",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6"
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-03-09 16:38:36",
+      "album": {
+        "name": "Unang Kilig / Honey Honey",
+        "url": "https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 158214,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp"
+    },
+    {
+      "added_at": "2026-03-09 16:38:36",
+      "album": {
+        "name": "Tweak",
+        "url": "https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu"
       },
       "artists": [
         {
@@ -36,12 +72,12 @@
           "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
         }
       ],
-      "duration_ms": 143593,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
+      "duration_ms": 148704,
+      "name": "Tweak",
+      "url": "https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO"
     },
     {
-      "added_at": "2026-01-23 05:00:28",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "work",
         "url": "https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza"
@@ -57,7 +93,59 @@
       "url": "https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA"
     },
     {
-      "added_at": "2026-01-23 05:00:28",
+      "added_at": "2026-03-09 16:38:36",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 195402,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
+    },
+    {
+      "added_at": "2026-03-09 16:38:36",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/5ychqszZ89oPl6rBKSkGc6"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "duration_ms": 143593,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
+    },
+    {
+      "added_at": "2026-03-09 16:38:36",
+      "album": {
+        "name": "TIC TIC (feat. Pabllo Vittar)",
+        "url": "https://open.spotify.com/album/3UKx4WJH82TdgG9xevZGzO"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "TIC TIC (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/2ZBMbueQLQZAUHio2jplVK"
+    },
+    {
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "THE CORE - \u6838",
         "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
@@ -73,7 +161,7 @@
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
-      "added_at": "2026-02-06 04:59:14",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Girls Like Me",
         "url": "https://open.spotify.com/album/2EFtBwld7jEWsmROuWzYmi"
@@ -93,7 +181,7 @@
       "url": "https://open.spotify.com/track/7fjGhOyRcSNTYgJRMmpr1f"
     },
     {
-      "added_at": "2025-11-28 05:00:25",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
@@ -109,7 +197,23 @@
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
-      "added_at": "2025-11-14 05:00:25",
+      "added_at": "2026-03-09 16:38:36",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 169214,
+      "name": "House Tour",
+      "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
+    },
+    {
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "M.I.A (VALORANT Game Changers Version)",
         "url": "https://open.spotify.com/album/4w96kbeZiq2Q2n8dDAVi4K"
@@ -129,7 +233,7 @@
       "url": "https://open.spotify.com/track/0VodPyDs7Uw9UpeRp22vq6"
     },
     {
-      "added_at": "2026-02-06 04:59:14",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
@@ -145,7 +249,7 @@
       "url": "https://open.spotify.com/track/5AoVOt7QjIJIPIynAKqkRR"
     },
     {
-      "added_at": "2025-11-14 05:00:25",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
         "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
@@ -161,7 +265,7 @@
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
     },
     {
-      "added_at": "2026-01-16 05:00:32",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Jordi",
         "url": "https://open.spotify.com/album/0A3Wbzsq8IHa6K5BTfcoMr"
@@ -177,7 +281,7 @@
       "url": "https://open.spotify.com/track/5kWEk88wMR9mmTyspnBOp4"
     },
     {
-      "added_at": "2025-11-21 05:00:28",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "FLAMES",
         "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
@@ -193,7 +297,7 @@
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"
     },
     {
-      "added_at": "2025-10-24 04:00:06",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "FOCUS - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
@@ -209,7 +313,7 @@
       "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
-      "added_at": "2025-10-24 04:00:06",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -229,7 +333,7 @@
       "url": "https://open.spotify.com/track/6xndk83L8mJQ4sKdGfP4ie"
     },
     {
-      "added_at": "2025-11-14 05:00:25",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "CAPPUCCINO",
         "url": "https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr"
@@ -245,7 +349,7 @@
       "url": "https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk"
     },
     {
-      "added_at": "2025-11-07 05:00:31",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Too Much Part 1",
         "url": "https://open.spotify.com/album/0spXOvUlUo1EUDs13nlXki"
@@ -261,7 +365,7 @@
       "url": "https://open.spotify.com/track/5hy45ZHbIypFH2NsiEyc0Z"
     },
     {
-      "added_at": "2025-09-19 04:12:11",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "GALA",
         "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
@@ -277,7 +381,7 @@
       "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
     },
     {
-      "added_at": "2025-10-24 04:00:06",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "In Another World",
         "url": "https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3"
@@ -293,7 +397,7 @@
       "url": "https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv"
     },
     {
-      "added_at": "2025-10-10 23:53:10",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9"
@@ -309,7 +413,7 @@
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
     },
     {
-      "added_at": "2025-08-29 04:00:34",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Commas",
         "url": "https://open.spotify.com/album/42tnvJGEEhjtaHf4l387PK"
@@ -325,7 +429,7 @@
       "url": "https://open.spotify.com/track/0S7hKhEMgMKcA1O1ZKmwoE"
     },
     {
-      "added_at": "2025-08-01 04:00:25",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "superstars",
         "url": "https://open.spotify.com/album/6J8N4aJ1p1XwhGF2yk3HW0"
@@ -345,7 +449,7 @@
       "url": "https://open.spotify.com/track/4v0cxd2ieNh7iGkoN2RRGj"
     },
     {
-      "added_at": "2025-07-02 03:40:34",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H"
@@ -361,7 +465,7 @@
       "url": "https://open.spotify.com/track/4qtdab2DABnEokwupCl8lG"
     },
     {
-      "added_at": "2025-08-29 04:00:34",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "sad face :(",
         "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
@@ -381,7 +485,7 @@
       "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
     },
     {
-      "added_at": "2025-07-11 04:00:16",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "THIS IS FOR",
         "url": "https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ"
@@ -397,7 +501,7 @@
       "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
     },
     {
-      "added_at": "2025-08-01 04:00:25",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "ME ME ME",
         "url": "https://open.spotify.com/album/2XVaPap7EEUI6Oh51PfS4S"
@@ -413,7 +517,7 @@
       "url": "https://open.spotify.com/track/1Y1FyGpSV8yGXFsbPHUpXV"
     },
     {
-      "added_at": "2025-08-13 14:32:45",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Soft Error",
         "url": "https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98"
@@ -433,7 +537,7 @@
       "url": "https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a"
     },
     {
-      "added_at": "2025-06-20 04:00:52",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
@@ -449,7 +553,7 @@
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
-      "added_at": "2025-07-02 03:40:34",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -481,7 +585,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-13 14:32:45",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Topping",
         "url": "https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn"
@@ -497,7 +601,7 @@
       "url": "https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y"
     },
     {
-      "added_at": "2025-07-11 04:00:16",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
@@ -513,23 +617,7 @@
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
     },
     {
-      "added_at": "2025-07-11 04:00:16",
-      "album": {
-        "name": "New me (English Version)",
-        "url": "https://open.spotify.com/album/0j1tTvqx4RK3xwzRocBTJY"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 202324,
-      "name": "New me - English Version",
-      "url": "https://open.spotify.com/track/271zNzzoDjTFdoJBVIZ0JN"
-    },
-    {
-      "added_at": "2025-06-20 04:00:52",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "bomb",
         "url": "https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp"
@@ -545,7 +633,7 @@
       "url": "https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE"
     },
     {
-      "added_at": "2025-07-11 04:00:16",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/17dAMvsknRZag8Kz8jzY9L"
@@ -561,23 +649,7 @@
       "url": "https://open.spotify.com/track/2TudsWFxqQy4fJRkMO7TQF"
     },
     {
-      "added_at": "2025-06-13 23:00:21",
-      "album": {
-        "name": "DIFFERENT (English ver.)",
-        "url": "https://open.spotify.com/album/5p6KkE9SBq8MJPD0EFrNAF"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "DIFFERENT - English ver.",
-      "url": "https://open.spotify.com/track/0Slvwx0p3H5wyB4s8EB7Aj"
-    },
-    {
-      "added_at": "2025-05-02 04:00:32",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Day & Night",
         "url": "https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF"
@@ -593,7 +665,7 @@
       "url": "https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF"
     },
     {
-      "added_at": "2025-06-24 00:01:48",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "STYLE",
         "url": "https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB"
@@ -609,7 +681,7 @@
       "url": "https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ"
     },
     {
-      "added_at": "2025-05-02 04:00:32",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "POISON IVY",
         "url": "https://open.spotify.com/album/5fqoqqx5sBoPArdKZDYLjx"
@@ -625,7 +697,7 @@
       "url": "https://open.spotify.com/track/5TFfsW1UUFWJQKY5vORoW0"
     },
     {
-      "added_at": "2025-06-13 23:00:21",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Era with NAYEON (TWICE)",
         "url": "https://open.spotify.com/album/4oRP4R749QNBtxOob5lylI"
@@ -645,27 +717,7 @@
       "url": "https://open.spotify.com/track/0Nezjtp74RRI0p6C3gXN13"
     },
     {
-      "added_at": "2025-05-02 04:00:32",
-      "album": {
-        "name": "HOT (English ver.) (feat. JADE)",
-        "url": "https://open.spotify.com/album/0GjZcJIlYoNHn442Tf0hNT"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        },
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 143797,
-      "name": "HOT (English ver.) (feat. JADE)",
-      "url": "https://open.spotify.com/track/6MZ8oSuvqMjnvCvwniPNPc"
-    },
-    {
-      "added_at": "2025-03-28 04:34:57",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Fe3O4: FORWARD",
         "url": "https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha"
@@ -681,23 +733,7 @@
       "url": "https://open.spotify.com/track/5yfhzEct1ulyU6g5oVRraj"
     },
     {
-      "added_at": "2025-03-14 04:00:04",
-      "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 137178,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1"
-    },
-    {
-      "added_at": "2025-03-28 04:34:57",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "UNCUT GEM",
         "url": "https://open.spotify.com/album/08goLajOh9geJzsBalNa2n"
@@ -713,7 +749,7 @@
       "url": "https://open.spotify.com/track/0YJVQS3v3ocOMPzVy9yuXE"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -729,7 +765,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "CRAZY",
         "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
@@ -745,7 +781,7 @@
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
-      "added_at": "2025-02-11 04:20:59",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
@@ -769,7 +805,7 @@
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
     },
     {
-      "added_at": "2025-03-21 04:00:42",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "POP",
         "url": "https://open.spotify.com/album/3DeFHwLhCLfhhg6GwDhMjX"
@@ -785,23 +821,7 @@
       "url": "https://open.spotify.com/track/6NBbY5HUuowO9cS4lcFHNn"
     },
     {
-      "added_at": "2025-03-14 04:00:04",
-      "album": {
-        "name": "ReawakeR",
-        "url": "https://open.spotify.com/album/0WHGYYVZA7zg9fM3DJXpxI"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 177437,
-      "name": "RED ZONE",
-      "url": "https://open.spotify.com/track/35ZTL6aG24WiyQWgGcykaH"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-11-21 05:00:28",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "the one",
         "url": "https://open.spotify.com/album/2CcZcCkpboZmpITmwfSWfe"
@@ -837,7 +857,7 @@
       "url": "https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM"
     },
     {
-      "added_at": "2025-02-11 04:20:59",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "SUGAR",
         "url": "https://open.spotify.com/album/2Mt5nyYU4rYJSQkWXM7F0w"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/3g9pB5c01TzX76uVI4OffZ"
     },
     {
-      "added_at": "2025-03-14 04:00:04",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -873,23 +893,7 @@
       "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
     },
     {
-      "added_at": "2025-02-14 05:00:32",
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/3JhgbOO543sMPYpkuIr6Mx"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 153918,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/5nVby0RIRtqFSYN5TDDGeb"
-    },
-    {
-      "added_at": "2025-05-02 04:00:32",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "HANDS UP",
         "url": "https://open.spotify.com/album/2owkehm0t0op4QvgMouB9L"
@@ -905,23 +909,7 @@
       "url": "https://open.spotify.com/track/0wrppxeWurW1uRnxI6Ut9v"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Juno",
-      "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "I DO",
         "url": "https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O"
@@ -937,23 +925,7 @@
       "url": "https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
@@ -969,7 +941,7 @@
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2024-10-04 04:27:59",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
@@ -985,7 +957,7 @@
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "NewJeans 2nd EP 'Get Up'",
         "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
@@ -1001,7 +973,7 @@
       "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/5vIcrjrF1yaAJdKyopmh1H"
@@ -1017,7 +989,7 @@
       "url": "https://open.spotify.com/track/1jovTsvEEuyIndZVGFSuIB"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh"
@@ -1033,7 +1005,7 @@
       "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -1049,23 +1021,7 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "abouTZU",
-        "url": "https://open.spotify.com/album/13a0SjtqEvhGLv5J46vURm"
-      },
-      "artists": [
-        {
-          "name": "TZUYU",
-          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "BOYS",
         "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
@@ -1081,23 +1037,7 @@
       "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "I SWAY",
         "url": "https://open.spotify.com/album/5WzUVTkKAvOayPui3DnsDz"
@@ -1113,7 +1053,7 @@
       "url": "https://open.spotify.com/track/6VMWKUfMM8l0Toddh1Lqto"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -1129,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
@@ -1145,7 +1085,7 @@
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
@@ -1161,7 +1101,7 @@
       "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
@@ -1177,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "The Beginning: Cupid",
         "url": "https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR"
@@ -1193,7 +1133,7 @@
       "url": "https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
@@ -1209,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Get Weird (Expanded Edition)",
         "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
@@ -1225,23 +1165,7 @@
       "url": "https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "emails i can't send",
-        "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 163648,
-      "name": "Nonsense",
-      "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
@@ -1257,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2026-03-09 16:38:36",
       "album": {
         "name": "Glory Days (Expanded Edition)",
         "url": "https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m"

@@ -168,7 +168,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 82306,
       "name": "Bach, JS: French Suite No. 2 in C Minor, BWV 813: V. Menuet (Transcr. Neumann for Violin and Cello)",
       "url": "https://open.spotify.com/track/0KpCsWZBwGh3f4zTUjqTF3"
@@ -452,6 +452,40 @@
       "duration_ms": 1085706,
       "name": "Brahms: Double Concerto for Violin and Cello in A Minor, Op. 102: I. Allegro",
       "url": "https://open.spotify.com/track/7rgtw2xfq32vD35ZZ6r05U"
+    },
+    {
+      "album": {
+        "name": "Classical Music Relax",
+        "url": "https://open.spotify.com/album/4OcH6ycgBYzR6R9KMODEwa"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frankfurt Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        },
+        {
+          "name": "Hr-sinfonieorchester",
+          "url": "https://open.spotify.com/artist/1WCZd871qmyx7pxia4sVR3"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 765626,
+      "name": "Cello Concerto in B Minor, B. 191: II. Adagio ma non troppo",
+      "url": "https://open.spotify.com/track/4l5orm4REgJVtx96aWlltp"
     },
     {
       "album": {

@@ -8291,6 +8291,24 @@
     },
     {
       "album": {
+        "name": "Love You Right",
+        "url": "https://open.spotify.com/album/61DyH5F355xLPkClgNpy5U"
+      },
+      "artists": [
+        {
+          "name": "Tanner Grigoli",
+          "url": "https://open.spotify.com/artist/1kq96hgs2sFG1Pp7595rPd"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157685,
+      "name": "Love You Right",
+      "url": "https://open.spotify.com/track/4fJ7ABPWNkI2sz3IDyN9sH"
+    },
+    {
+      "album": {
         "name": "Loved You Once",
         "url": "https://open.spotify.com/album/01iLv3vWw6HJNlpkpazU8G"
       },

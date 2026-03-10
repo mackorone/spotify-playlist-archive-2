@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 363647,
+  "num_followers": 363620,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -715,26 +715,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
-      },
-      "artists": [
-        {
-          "name": "Lara Estelita",
-          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Calma, Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 139354,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
+      },
+      "artists": [
+        {
+          "name": "Lara Estelita",
+          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Calma, Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "Vim de Longe",
+        "url": "https://open.spotify.com/album/30Rtx6bJX8i9jPoYc48HJh"
+      },
+      "artists": [
+        {
+          "name": "SUPERALMA",
+          "url": "https://open.spotify.com/artist/7f8jwHZAtx26tKaOWYmn3a"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Vim de Longe",
+      "url": "https://open.spotify.com/track/7ycoelWSebToQHOQScwFdv"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "P\u00f4r Do Sol Avisa",
         "url": "https://open.spotify.com/album/5iA2tzeH3oY00TtCvPbNYS"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "Vim de Longe",
-        "url": "https://open.spotify.com/album/30Rtx6bJX8i9jPoYc48HJh"
-      },
-      "artists": [
-        {
-          "name": "SUPERALMA",
-          "url": "https://open.spotify.com/artist/7f8jwHZAtx26tKaOWYmn3a"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Vim de Longe",
-      "url": "https://open.spotify.com/track/7ycoelWSebToQHOQScwFdv"
     },
     {
       "added_at": "2026-02-27 03:00:06",

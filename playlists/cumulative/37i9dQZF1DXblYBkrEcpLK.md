@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-838 songs - 2 day 7 hr 14 min
+839 songs - 2 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,7 @@
 | [ひとりじゃないから](https://open.spotify.com/track/1gqPfUzCXKQ4SaMYcRPK8G) | [KEIKO](https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe) | [ひとりじゃないから](https://open.spotify.com/album/1Rf7oYP5gF5iXSTFk5WsaE) | 4:55 | 2022-07-07 | 2022-07-29 |
 | [ひとりじゃないよ](https://open.spotify.com/track/2P95rrQ5wUiU7uvv1vPZU6) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [ひとりじゃないよ](https://open.spotify.com/album/7hXNUkElCgqvqCaSayR459) | 4:10 | 2023-10-17 | 2023-11-18 |
 | [ひろがるスカイ!プリキュア \~Hero Girls\~](https://open.spotify.com/track/1ngUOF9wYAuGRA9oQyw9Rx) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [ひろがるスカイ!プリキュア 主題歌シングル【通常盤】](https://open.spotify.com/album/6zZczS4QOYcaxESpHfewWr) | 4:28 | 2023-05-14 | 2023-06-09 |
-| [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-30 |  |
+| [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-30 | 2026-03-10 |
 | [ほっぺちゃん音頭](https://open.spotify.com/track/2bY3x5lBt3cqxpJu6LWOPY) | [天童よしみ with ガーディアンズほっぺちゃん](https://open.spotify.com/artist/12uCuxw2uM3jXup3uwa7hs) | [ほっぺちゃん音頭](https://open.spotify.com/album/5MM7qYWMHF8sNPtkHLTj3c) | 2:27 | 2026-02-24 | 2026-03-04 |
 | [まひるいろシエスタ](https://open.spotify.com/track/0ljrJ1wIXoeV16yP98YI2t) | [Yui Sakakibara](https://open.spotify.com/artist/6T21A06nQ9nZ9TzfWhct9L) | [TVアニメ『アズールレーン びそくぜんしんっ!』主題歌シングル「Longing for! / まひるいろシエスタ」](https://open.spotify.com/album/7baklDpXCciw4nJcejsLhH) | 3:41 | 2022-06-09 | 2022-07-21 |
 | [まるで元気](https://open.spotify.com/track/20AGXdjLMIrN25CsuCdEww) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [MUSIC](https://open.spotify.com/album/7vTxY03vAbkmoQTFq9mOxC) | 4:04 | 2023-11-07 | 2023-11-18 |
@@ -782,6 +782,7 @@
 | [瞬間、シンフォニー。](https://open.spotify.com/track/1INp0oeWE7AtvQDOJsgtcr) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:20 | 2026-03-03 |  |
 | [知らなきゃ](https://open.spotify.com/track/0OKPegc5MwJHYhoMkjDxdS) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」オープニングテーマ「知らなきゃ」](https://open.spotify.com/album/2iiaezKudY12uKe5LT7Fmh) | 3:53 | 2022-06-09 | 2022-06-12 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2023-01-17 | 2024-02-14 |
+| [私は、わたしの事が好き。](https://open.spotify.com/track/2YGirLAYuoajAbTkuvsEvv) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:11 | 2026-03-03 |  |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2024-02-14 |
 | [秘密の言葉](https://open.spotify.com/track/7pCdOOMktjLv1TGhXyRvMu) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [秘密の言葉（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/7oZNdaH8kEt0lqvWKUhTH6) | 3:16 | 2024-09-12 | 2024-10-09 |
 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 | 2022-06-09 | 2022-07-29 |

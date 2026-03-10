@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 9543,
+  "num_followers": 9563,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAACUOIjSwfGMkpYyAQPiUz3a",
+  "snapshot_id": "aay8AAAAAADdHUZsDXBCvfkMN1oSFKHD",
   "tracks": [
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 160960,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
+      "duration_ms": 131364,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 131364,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
+      "duration_ms": 160960,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/7JC1JZk9yxIVb94r8aTddY"
     },
     {
       "added_at": null,
@@ -511,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Virtuoso",
-        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
       "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp"
+      "duration_ms": 161062,
+      "name": "Motivate",
+      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
     },
     {
       "added_at": null,
@@ -567,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+        "name": "Virtuoso",
+        "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
       },
       "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 161062,
-      "name": "Motivate",
-      "url": "https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM"
+      "duration_ms": 146400,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp"
     },
     {
       "added_at": null,

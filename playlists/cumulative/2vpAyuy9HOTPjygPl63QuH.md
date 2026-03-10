@@ -4,7 +4,7 @@
 
 > the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
 
-2,455 songs - 5 day 18 hr 2 min
+2,456 songs - 5 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Check Up](https://open.spotify.com/track/429aPZch6lsUR0Jk9beOZI) | [Harry Collett](https://open.spotify.com/artist/1AdfIfCkBs03nAj2Muz7sG) | [Check Up](https://open.spotify.com/album/7ADmZqbwZRkn14ns7Jjd6F) | 3:12 | 2026-02-14 |  |
 | [Chicago](https://open.spotify.com/track/2kcnQbLV9sCt4emvnEfZxQ) | [Stephan Pokorny](https://open.spotify.com/artist/7ABfIl9NpixwiXuYfcA8se), [Sinan Kaya](https://open.spotify.com/artist/79n93umtw9cH0Z119MM6ML) | [Chicago](https://open.spotify.com/album/2PrGQPVgbykZzpnw5E86mO) | 6:42 | 2022-09-02 | 2022-09-10 |
 | [Chieftain](https://open.spotify.com/track/0Y3E1mOVneLRMBlAFpdSwN) | [Tombo](https://open.spotify.com/artist/0SsH1YtxJq7HTAsI7DIoqE) | [Chieftain](https://open.spotify.com/album/3G3DRL99lVdHzLxssu0k9y) | 2:47 | 2023-10-06 | 2023-10-14 |
+| [Chills](https://open.spotify.com/track/0ZXkmxodsdobqLJXbD7Agr) | [Winter Games](https://open.spotify.com/artist/5u2M5ChnbQM5tLU09YaGj0) | [Chills](https://open.spotify.com/album/3xTXAByT6Y2D6FbRYjSxr4) | 3:43 | 2026-03-09 |  |
 | [Choke \- Radio Edit](https://open.spotify.com/track/5pVP2pLHz3y7AddGioxUtn) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Choke](https://open.spotify.com/album/0PpYqXR9E2qCx4FSeWq596) | 3:33 | 2022-05-29 | 2022-06-04 |
 | [Choose Violence](https://open.spotify.com/track/5l2IQU9OOv2ayWXc8Hf4Ix) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Choose Violence](https://open.spotify.com/album/368luZ7PPbXoBMuJmoKxrr) | 3:15 | 2025-02-21 | 2025-04-12 |
 | [Chromatic](https://open.spotify.com/track/3FcKnF4nEwGxlwdAmRIogh) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Chromatic](https://open.spotify.com/album/4i8IDahLQKUEmBMscCBlDA) | 3:22 | 2022-05-29 | 2022-06-04 |

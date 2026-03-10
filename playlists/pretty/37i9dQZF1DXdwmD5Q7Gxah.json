@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://loremandfriends.substack.com/p/everything-comes-back-around-and\">read our substack \ud83e\udee7  </a>   Cover: waterbaby",
-  "num_followers": 1186882,
+  "num_followers": 1186853,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+FP7psQZ7jRjRSqNyVQGgUBf7x",
+  "snapshot_id": "AAAAADeZTtD8TzBbS6bEVI0tx28bf1u1",
   "tracks": [
     {
       "added_at": "2026-03-06 05:00:24",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
     },
     {
+      "added_at": "2026-03-09 18:29:30",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/11H2P7CKIyHenh01nk0y3H"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Sometimes I believe in God (Sometimes I believe in Me)",
+      "url": "https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve"
+    },
+    {
       "added_at": "2026-02-20 05:00:52",
       "album": {
         "name": "Manmade Manmaid",
@@ -123,22 +139,6 @@
       "duration_ms": 160408,
       "name": "Manmade Manmaid",
       "url": "https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "Nothing's About to Happen to Me",
-        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "If I Leave",
-      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
     },
     {
       "added_at": "2026-02-20 05:00:52",
@@ -221,6 +221,22 @@
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
     },
     {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
+    },
+    {
       "added_at": "2026-02-10 16:15:51",
       "album": {
         "name": "My Heart Is A Room With No Cameras In It",
@@ -267,6 +283,26 @@
       "duration_ms": 245342,
       "name": "moving in",
       "url": "https://open.spotify.com/track/6V68DOoiw4Z8iPPDIxtgWY"
+    },
+    {
+      "added_at": "2026-03-09 18:29:30",
+      "album": {
+        "name": "Year of the Dragon",
+        "url": "https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        },
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "Year of the Dragon",
+      "url": "https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N"
     },
     {
       "added_at": "2026-02-23 16:32:13",

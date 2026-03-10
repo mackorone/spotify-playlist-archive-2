@@ -4,7 +4,7 @@
 
 > Bebe Rexha is having a main pop girl emergency!
 
-1,607 songs - 3 day 8 hr 31 min
+1,608 songs - 3 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 | 2022-02-15 | 2022-06-18 |
 | [How Will I Know](https://open.spotify.com/track/2vVeBAHVpohT92j4mfz9C9) | [ZEE MACHINE](https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg) | [How Will I Know](https://open.spotify.com/album/7zuQgnQnVGNyz5Lndojf8V) | 3:39 | 2023-06-02 | 2023-08-12 |
 | [Human Nature \- Howie Tee New Edit](https://open.spotify.com/track/1izJB7BcfE39WOP5MCAivd) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm), [Howie Tee](https://open.spotify.com/artist/6PFHvFVHLNmU45qbtJxLpi) | [Human Nature \(Howie Tee New Edit\)](https://open.spotify.com/album/7E5C3BfVLeCt67zNiLeOET) | 3:20 | 2025-11-21 |  |
+| [Humiliation Ritual](https://open.spotify.com/track/1FWWfdQgVeyHsPnScxtsRk) | [Kyra Machida](https://open.spotify.com/artist/4yedjyL6mOCHvzO8CbaMT6) | [Humiliation Ritual](https://open.spotify.com/album/7J5jQo3kiK4rKN2UXXTFuJ) | 2:22 | 2026-03-09 |  |
 | [Hunnybån](https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Hunnybån / Fine Curls](https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M) | 2:41 | 2026-03-06 |  |
 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 | 2024-12-13 | 2025-02-11 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-07 | 2025-01-25 |
@@ -913,7 +914,7 @@
 | [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 3:19 | 2024-05-10 | 2024-06-15 |
 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-13 |  |
 | [Lucky Girl](https://open.spotify.com/track/6A7A3isXbQ0oUsXJuDqCet) | [Magdalene](https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c) | [Lucky Girl](https://open.spotify.com/album/2WTwUzWveJoa9oYss4CnMj) | 3:36 | 2025-04-04 | 2025-08-05 |
-| [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 | 2025-11-14 |  |
+| [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 | 2025-11-14 | 2026-03-10 |
 | [Lucky You're A Star](https://open.spotify.com/track/5FZW41OweIMbQNMuYxyKAa) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Lucky You're A Star](https://open.spotify.com/album/68k75gFpf9NRtXcQ5AJYzH) | 3:32 | 2025-12-12 |  |
 | [Luminous](https://open.spotify.com/track/7bzgDWn2aXlaG73is3C77u) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Luminous / Trapped](https://open.spotify.com/album/59Sb9iMUVVKeH0o11j12xo) | 3:45 | 2025-10-03 | 2025-11-15 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2025-12-27 | 2026-02-28 |

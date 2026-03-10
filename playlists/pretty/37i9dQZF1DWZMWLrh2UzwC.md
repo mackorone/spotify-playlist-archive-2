@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Harry Styles, Ramlah Ram, Dayang Nurfaizah, Aisha Retno, Sarah Suhairi,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,257 likes - 118 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,260 likes - 118 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 9 | [Dendang Raya](https://open.spotify.com/track/5aHk4Cgvg5ATFFrWAwiUfW) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Dendang Raya](https://open.spotify.com/album/6eku0Vh0dzVbhthVkb2thO) | 2:32 |
 | 10 | [Cerita Raya](https://open.spotify.com/track/6ijRFCZJAr4iBRhg0CQoea) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Cerita Raya](https://open.spotify.com/album/7s8afTg3r5KoWyY8TB5kHC) | 2:58 |
 | 11 | [脫臼](https://open.spotify.com/track/71k1IujHr6qlDC4zvWb0i9) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [脫臼](https://open.spotify.com/album/0RQNWsIcqBrXaA6nUmjqN6) | 4:05 |
-| 12 | [Habibi ﷺ](https://open.spotify.com/track/4yuYK900ivfBnK4RwKk5Mo) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Habibi ﷺ](https://open.spotify.com/album/63wUDpqfW20ik1JUqMHAGq) | 4:05 |
+| 12 | [Habibi](https://open.spotify.com/track/4yuYK900ivfBnK4RwKk5Mo) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Habibi](https://open.spotify.com/album/63wUDpqfW20ik1JUqMHAGq) | 4:05 |
 | 13 | [Terpaling Raya](https://open.spotify.com/track/4E2U6FJglwdedtLLd0jY3k) | [Haqiem Rusli](https://open.spotify.com/artist/0J1gUosYaFbrSG6FkbE4c7) | [Terpaling Raya](https://open.spotify.com/album/4j2oq0JcXvuaP1rMfPkANV) | 3:10 |
 | 14 | [Bincang Raya](https://open.spotify.com/track/38QbpX9jAIO5ZsV0MpKJyT) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi), [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bincang Raya](https://open.spotify.com/album/7bwIAOy9SYQgybwdDQusQf) | 2:49 |
 | 15 | [Selamat Tahun Baru Raya!](https://open.spotify.com/track/52SdHTJ5WLTPEe8BYE5Zlz) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq), [Ammar Haikal](https://open.spotify.com/artist/6vBShxc5LR2M7DS6YYk9Yh), [Hadie El Fardie](https://open.spotify.com/artist/1P0u4uQmXY5SGNwtnU9zYL), [Eznny](https://open.spotify.com/artist/7c6zqHkXQG6cDKM9E6igxR) | [Selamat Tahun Baru Raya!](https://open.spotify.com/album/1G3RlrCEeYEUFZhIKnhJW0) | 2:24 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 43 | [Honey Honey](https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 2:38 |
 | 44 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 |
 | 45 | [Warning](https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:32 |
-| 46 | [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 |
+| 46 | [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 |
 | 47 | [Five](https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Five](https://open.spotify.com/album/2ZujTUIlfon5IhGbUfFaYO) | 4:27 |
 | 48 | [My Place](https://open.spotify.com/track/16jM50SQ1eIkjjERn6HHSj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [2026 World Baseball Classic](https://open.spotify.com/album/0eG0kZA7uZtCrNgXZPxqlB) | 2:57 |
 | 49 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |

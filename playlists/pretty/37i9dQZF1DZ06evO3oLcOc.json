@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 228791,
+  "num_followers": 228809,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAAAhIUkgZKFiEUv3X2nzS7jU",
+  "snapshot_id": "aay8AAAAAADrsv3kqPWsERgfP/U05czE",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Freaky Deaky",
+        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Freaky Deaky",
+      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 254694,
       "name": "Bitches N Marijuana (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freaky Deaky",
-        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Freaky Deaky",
-      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wait For A Minute",
-        "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Wait For A Minute",
-      "url": "https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "California (from Songland) (feat. Tyga)",
         "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 175179,
       "name": "California (from Songland) (feat. Tyga)",
       "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait For A Minute",
+        "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Wait For A Minute",
+      "url": "https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 153575,
+      "name": "Lightskin Lil Wayne",
+      "url": "https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel California (Deluxe)",
         "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 221493,
       "name": "Switch Lanes",
       "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 153575,
-      "name": "Lightskin Lil Wayne",
-      "url": "https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf"
     },
     {
       "added_at": null,

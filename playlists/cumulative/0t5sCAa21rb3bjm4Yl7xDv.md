@@ -4,7 +4,7 @@
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Preston Pablo
 
-631 songs - 1 day 9 hr 19 min
+632 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,7 +398,7 @@
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-03-22 | 2025-03-15 |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-22 | 2026-02-07 |
 | [Oceans \(with Kid Joi\)](https://open.spotify.com/track/79xrGzqhv4y92SwvnjHB0N) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kid Joi](https://open.spotify.com/artist/29smgejDUdhMHMFTiruhPG) | [Oceans \(with Kid Joi\)](https://open.spotify.com/album/78OE5zYcaVZBRY283ayFYj) | 3:20 | 2023-11-06 | 2023-11-25 |
-| [One Last Song](https://open.spotify.com/track/24NBREHOjfgmysUJ4SBJ2j) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [One Last Song](https://open.spotify.com/album/2Yk7ZhlAuz5q2JXcIwKjOp) | 2:31 | 2024-09-27 |  |
+| [One Last Song](https://open.spotify.com/track/24NBREHOjfgmysUJ4SBJ2j) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [One Last Song](https://open.spotify.com/album/2Yk7ZhlAuz5q2JXcIwKjOp) | 2:31 | 2024-09-27 | 2026-03-10 |
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-07 | 2025-05-15 |
 | [One Of The Girls \(with JENNIE, Lily Rose Depp\)](https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [The Idol Episode 4 \(Music from the HBO Original Series\)](https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU) | 4:04 | 2024-01-26 | 2025-05-06 |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-11-06 | 2023-11-25 |
@@ -449,6 +449,7 @@
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2024-07-26 | 2024-09-28 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-07-26 | 2024-09-28 |
 | [Refuge](https://open.spotify.com/track/0cVITrJKWy47OkoU1KGhDa) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Refuge](https://open.spotify.com/album/348jqSYlJIasrUNwQMtepZ) | 3:38 | 2026-02-21 |  |
+| [Rein Me In](https://open.spotify.com/track/7MywHtSabWIzoj30WhGdfk) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-03-09 |  |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2025-12-19 |  |
 | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere) | 2:02 | 2024-11-29 | 2025-02-01 |
 | [Revelation](https://open.spotify.com/track/7o29hf3iAHPK3Mi9FGjsWD) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/4qkHP13vvLt5vO48MpLjiY) | 4:13 | 2025-01-31 | 2025-11-08 |

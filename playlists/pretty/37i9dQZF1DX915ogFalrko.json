@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 186666,
+  "num_followers": 186661,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-03-06 15:23:07",
       "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
-    },
-    {
-      "added_at": "2026-03-06 15:23:07",
-      "album": {
         "name": "Slow Tonight",
         "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-03-06 15:23:07",
+      "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-03-06 15:23:07",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-03-06 15:23:07",
       "album": {
+        "name": "Wovoka",
+        "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 300666,
+      "name": "Come and Get Your Love",
+      "url": "https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9"
+    },
+    {
+      "added_at": "2026-03-06 15:23:07",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 217143,
       "name": "David's Brother",
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
-    },
-    {
-      "added_at": "2026-03-06 15:23:07",
-      "album": {
-        "name": "Wovoka",
-        "url": "https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 300666,
-      "name": "Come and Get Your Love",
-      "url": "https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9"
     },
     {
       "added_at": "2026-03-06 15:23:07",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-03-06 15:23:07",
       "album": {
-        "name": "Hits the Hits",
-        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
-      },
-      "artists": [
-        {
-          "name": "Shawn Lee's Ping Pong Orchestra",
-          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Let Me Blow Your Mind",
-      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
-    },
-    {
-      "added_at": "2026-03-06 15:23:07",
-      "album": {
         "name": "davina mccall",
         "url": "https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 227794,
       "name": "davina mccall",
       "url": "https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM"
+    },
+    {
+      "added_at": "2026-03-06 15:23:07",
+      "album": {
+        "name": "Hits the Hits",
+        "url": "https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo"
+      },
+      "artists": [
+        {
+          "name": "Shawn Lee's Ping Pong Orchestra",
+          "url": "https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Let Me Blow Your Mind",
+      "url": "https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H"
     },
     {
       "added_at": "2026-03-06 15:23:07",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-03-06 15:23:07",
       "album": {
-        "name": "No Dawn To Wake",
-        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
-      },
-      "artists": [
-        {
-          "name": "Wax Tailor",
-          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
-        }
-      ],
-      "duration_ms": 180011,
-      "name": "No Dawn To Wake",
-      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
-    },
-    {
-      "added_at": "2026-03-06 15:23:07",
-      "album": {
         "name": "Jupiter and Mars",
         "url": "https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 193604,
       "name": "Jupiter and Mars",
       "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
+    },
+    {
+      "added_at": "2026-03-06 15:23:07",
+      "album": {
+        "name": "No Dawn To Wake",
+        "url": "https://open.spotify.com/album/6gNjdy7G3XOqIKP2gbVLbR"
+      },
+      "artists": [
+        {
+          "name": "Wax Tailor",
+          "url": "https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG"
+        }
+      ],
+      "duration_ms": 180011,
+      "name": "No Dawn To Wake",
+      "url": "https://open.spotify.com/track/59Pw5qegy9AcuXeYmkDuJp"
     },
     {
       "added_at": "2026-03-06 15:23:07",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-03-06 15:23:07",
       "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2026-03-06 15:23:07",
+      "album": {
         "name": "Jardin d'hiver",
         "url": "https://open.spotify.com/album/0V0VGCfodx52b4QHtsA1GE"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
-      "added_at": "2026-03-06 15:23:07",
-      "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2026-03-06 15:23:07",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-03-06 15:23:07",
       "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
-    },
-    {
-      "added_at": "2026-03-06 15:23:07",
-      "album": {
         "name": "Edge of the Earth",
         "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 220348,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
+    },
+    {
+      "added_at": "2026-03-06 15:23:07",
+      "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2026-03-06 15:23:07",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2026-03-06 15:23:07",
       "album": {
-        "name": "California Calling",
-        "url": "https://open.spotify.com/album/663dH6X55PAbCCLWa7Dwfp"
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw"
       },
       "artists": [
         {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Ricky Ducati",
-          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 201973,
-      "name": "Don't Forget Yourself",
-      "url": "https://open.spotify.com/track/7deM9Z7kgdp1laZQYaDUnw"
+      "duration_ms": 249069,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g"
     }
   ],
   "unique_name": "D\u00eener entre amis",

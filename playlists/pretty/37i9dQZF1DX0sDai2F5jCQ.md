@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,039 likes - 65 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,016 likes - 65 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

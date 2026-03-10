@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 188449,
       "name": "Change",
       "url": "https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw"
@@ -6626,6 +6626,24 @@
       "duration_ms": 104027,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/0n2zCTohMb9QORwBk9DmfF"
+    },
+    {
+      "album": {
+        "name": "Irreparable Parables",
+        "url": "https://open.spotify.com/album/1TVxDSGkqJMhIk9TY5koto"
+      },
+      "artists": [
+        {
+          "name": "Andrew Wasylyk",
+          "url": "https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Irreparable Parables",
+      "url": "https://open.spotify.com/track/0rhhLnyaEM3xwTWX8gu2ef"
     },
     {
       "album": {

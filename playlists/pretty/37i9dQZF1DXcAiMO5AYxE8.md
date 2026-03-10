@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,842 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,865 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 39 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1SqON2D7N5VeiOdT5fZE4F) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [The Greatest Hits](https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz) | 5:34 |
 | 40 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 |
 | 41 | [Best Love](https://open.spotify.com/track/3MyRX9OXpnzqH2UYdA6KDg) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:46 |
-| 42 | [I Can't Stand the Rain](https://open.spotify.com/track/7n6c2YLAejUpmfuXAVWIQR) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 3:05 |
-| 43 | [Funkin' for Jamaica](https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [The Best Year Of My Life: 1981G010004775674D](https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ) | 3:53 |
+| 42 | [Funkin' for Jamaica](https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [The Best Year Of My Life: 1981G010004775674D](https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ) | 3:53 |
+| 43 | [I Can't Stand the Rain](https://open.spotify.com/track/7n6c2YLAejUpmfuXAVWIQR) | [Eruption](https://open.spotify.com/artist/3R6f1aBWwde7ZqGv7hf4dY) | [Disco Party](https://open.spotify.com/album/7Kneel529obA7Qd9glamb4) | 3:05 |
 | 44 | [Boogie Oogie Oogie](https://open.spotify.com/track/2Z477zQnVVTcZ9ZDzTpk8L) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [Masters Series \- 70's Disco Party](https://open.spotify.com/album/7DvNg8jcR8VCw9ZncT1ShF) | 4:13 |
 | 45 | [Holdin' Out for Love](https://open.spotify.com/track/5edCx91wk8zKkuF7o50uGp) | [Angela Bofill](https://open.spotify.com/artist/07CTbCcLVHYwZqp1YMdf4t) | [The Definitive Collection](https://open.spotify.com/album/6SF49J0lhxZYTBzl2VR7RB) | 3:24 |
 | 46 | [This Is It](https://open.spotify.com/track/4y9iH8fG2E3sdM4ccUEmHx) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:29 |

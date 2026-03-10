@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Baby Rexha
+> Your weekly dose of new dance\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,599 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,604 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [UGETME?](https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli) | [UGETME?](https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD) | 3:30 |
 | 100 | [For U](https://open.spotify.com/track/4wFYdkC7bttrmJNfiTeDjL) | [JUJO](https://open.spotify.com/artist/6lUuCxT476utVj3g9IUaFF), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Currents](https://open.spotify.com/album/116lb5yzfHAvJuRe0WuEKH) | 3:24 |
 
-Snapshot ID: `AAAAAJ13KH20iWo1O6dETAHX1TvF35kW`
+Snapshot ID: `AAAAAAzljdfyTCZwINxohp+HcjnkRyDI`

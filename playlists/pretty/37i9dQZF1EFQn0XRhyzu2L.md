@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,465 likes - 402 songs - 22 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,466 likes - 402 songs - 22 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,8 +270,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 260 | [Old Her](https://open.spotify.com/track/29SZ02R7DwLxLeusrbgpCl) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Old Her](https://open.spotify.com/album/65Uv70W3Ci8mU3obr002Jc) | 3:01 |
 | 261 | [Waste My Time](https://open.spotify.com/track/5P0E8KZB5Yo69j90RgEwo5) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:36 |
 | 262 | [Getting Warmer](https://open.spotify.com/track/0lvCgY0ZDo6krZgqIxYLHb) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:24 |
-| 263 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 |
-| 264 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
+| 263 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
+| 264 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 |
 | 265 | [Fight Sleep](https://open.spotify.com/track/163xyAjP4e0udurQr3Temc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:50 |
 | 266 | [Secret Santa](https://open.spotify.com/track/3BZ7yrvXIAEgSRAbtPIRwI) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe\)](https://open.spotify.com/album/78Yh1HvMa6BsVZdEtlPQO9) | 3:25 |
 | 267 | [Two Tears in a Bucket](https://open.spotify.com/track/10gyY1WZESnXfhMJmvC7YK) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:49 |
@@ -284,8 +284,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 274 | [Yamaguchi](https://open.spotify.com/track/39sqKM64INFaihswKF4qhy) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Unfortunately, Terror Jr](https://open.spotify.com/album/6b2KfLOzzs3nOKKaPbi47J) | 3:03 |
 | 275 | [Make You Memories](https://open.spotify.com/track/5LdinxHId6iNM13wSrgehQ) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Valley](https://open.spotify.com/album/73AQHzR5yXHtA71tfeX6H2) | 3:25 |
 | 276 | [Time](https://open.spotify.com/track/5Uq15K8NEFB6SDhnGvcxCj) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 3:13 |
-| 277 | [Free To Fly \(feat\. Warren G\)](https://open.spotify.com/track/2BWhFlHjyvUEry2DAv77vv) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [The Valley](https://open.spotify.com/album/73AQHzR5yXHtA71tfeX6H2) | 3:22 |
-| 278 | [Cool With That](https://open.spotify.com/track/4wxJZae52sNfAx6K5FTajL) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:55 |
+| 277 | [Cool With That](https://open.spotify.com/track/4wxJZae52sNfAx6K5FTajL) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 2:55 |
+| 278 | [Free To Fly \(feat\. Warren G\)](https://open.spotify.com/track/2BWhFlHjyvUEry2DAv77vv) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [The Valley](https://open.spotify.com/album/73AQHzR5yXHtA71tfeX6H2) | 3:22 |
 | 279 | [Picnic In Paris](https://open.spotify.com/track/4RF4dFRCAuWkLXIPYwRbr7) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:16 |
 | 280 | [Only Love](https://open.spotify.com/track/3s7uJNPy4CwM3van8iTQOf) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:21 |
 | 281 | [Drama](https://open.spotify.com/track/4Lq1kfx3ju1Dfxfpu3wIfx) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:18 |
@@ -336,8 +336,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 326 | [Fashion](https://open.spotify.com/track/5mLzwojsbbNFUMnF7HYgsY) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Black Mona Lisa](https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27) | 3:03 |
 | 327 | [Play The Woman](https://open.spotify.com/track/3nWM5n7AIUPZ5LyVmNOhtt) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:13 |
 | 328 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
-| 329 | [White Powder Perm](https://open.spotify.com/track/7ETTLvm8ozZp90uvH7S0Tm) | [Rich White Ladies](https://open.spotify.com/artist/0B2368o7srjJnRrzmpRWj7) | [Rich White Ladies](https://open.spotify.com/album/1NcEnLyvUB5InbFzscqJKX) | 3:00 |
-| 330 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 |
+| 329 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 |
+| 330 | [White Powder Perm](https://open.spotify.com/track/7ETTLvm8ozZp90uvH7S0Tm) | [Rich White Ladies](https://open.spotify.com/artist/0B2368o7srjJnRrzmpRWj7) | [Rich White Ladies](https://open.spotify.com/album/1NcEnLyvUB5InbFzscqJKX) | 3:00 |
 | 331 | [Magnetic Baby](https://open.spotify.com/track/0pPLR7tXZJGSfOZnBK7bk4) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [You Love You](https://open.spotify.com/album/6hwVVJuEBCHwAYnkMttS6S) | 2:44 |
 | 332 | [Bass Bumps](https://open.spotify.com/track/4l4jPVtaItPI4OkB0gwPnm) | [Jess Kent](https://open.spotify.com/artist/6UAI6cR7qAewlSTWkRc7wI) | [Bass Bumps](https://open.spotify.com/album/1lcaaSjyiCsPf0ZPzWXCY9) | 3:19 |
 | 333 | [In the Name of Love](https://open.spotify.com/track/7F1Ph1i1dLl7K8zt2piaxW) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:04 |
@@ -411,4 +411,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 401 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 402 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcLnLAAAAABXk35B2H0aIhf+RqDv2IDg`
+Snapshot ID: `AcLszAAAAABVGp+pshEAnc7PsNwrrNWm`

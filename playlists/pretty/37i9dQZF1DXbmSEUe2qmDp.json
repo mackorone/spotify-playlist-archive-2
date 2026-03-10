@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabi Suarez, Day & Lara",
-  "num_followers": 483513,
+  "num_followers": 483518,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,26 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
+        "name": "Pe\u00e3o Todo Tatuado",
+        "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
+      },
+      "artists": [
+        {
+          "name": "Jeninho",
+          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "duration_ms": 133563,
+      "name": "Pe\u00e3o Todo Tatuado",
+      "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
         "name": "Tomara Que Caia",
         "url": "https://open.spotify.com/album/2S46cBo0ffDBVK1WvJscGO"
       },
@@ -259,42 +279,6 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Pe\u00e3o Todo Tatuado",
-        "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
-      },
-      "artists": [
-        {
-          "name": "Jeninho",
-          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
-        },
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        }
-      ],
-      "duration_ms": 133563,
-      "name": "Pe\u00e3o Todo Tatuado",
-      "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
-        "name": "Suor de Ontem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
-      },
-      "artists": [
-        {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
-        }
-      ],
-      "duration_ms": 161747,
-      "name": "Suor de Ontem - Ao Vivo",
-      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
         "name": "Sinal De Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 132307,
       "name": "Sinal De Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
+        "name": "Suor de Ontem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/310o7DxIKuSS22McQLBRpK"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
+        }
+      ],
+      "duration_ms": 161747,
+      "name": "Suor de Ontem - Ao Vivo",
+      "url": "https://open.spotify.com/track/1d8JQJ2Rjd8faYHhzsECQh"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -435,6 +435,46 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
+        "name": "Ela Me Largou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6zpPc3DcMnC2SxXa6NOCuS"
+      },
+      "artists": [
+        {
+          "name": "Marcelinho De Lima",
+          "url": "https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        }
+      ],
+      "duration_ms": 176122,
+      "name": "Ela Me Largou - Ao Vivo",
+      "url": "https://open.spotify.com/track/4CGYMVrw95jgyYQllWlEyS"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
+        "name": "Conte\u00fado Abusivo (Live)",
+        "url": "https://open.spotify.com/album/2U3WV15ARM57gJBQCYL4oG"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "duration_ms": 165481,
+      "name": "Conte\u00fado Abusivo - Live",
+      "url": "https://open.spotify.com/track/64WaTsz7QqYEXPYv0uidA7"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
         "name": "Depois Nois Melhora",
         "url": "https://open.spotify.com/album/6tH25ZGHnI4GulRJ8cDy13"
       },
@@ -471,26 +511,6 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Conte\u00fado Abusivo (Live)",
-        "url": "https://open.spotify.com/album/2U3WV15ARM57gJBQCYL4oG"
-      },
-      "artists": [
-        {
-          "name": "EMY",
-          "url": "https://open.spotify.com/artist/13fMx723suUQcpO78PPD8W"
-        },
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        }
-      ],
-      "duration_ms": 165481,
-      "name": "Conte\u00fado Abusivo - Live",
-      "url": "https://open.spotify.com/track/64WaTsz7QqYEXPYv0uidA7"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
         "name": "Muvuca",
         "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 150051,
       "name": "Muvuca - Ao Vivo",
       "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
-        "name": "Ela Me Largou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6zpPc3DcMnC2SxXa6NOCuS"
-      },
-      "artists": [
-        {
-          "name": "Marcelinho De Lima",
-          "url": "https://open.spotify.com/artist/7DRrTGEGV943S1FXmGfMsT"
-        },
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        }
-      ],
-      "duration_ms": 176122,
-      "name": "Ela Me Largou - Ao Vivo",
-      "url": "https://open.spotify.com/track/4CGYMVrw95jgyYQllWlEyS"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
+        "name": "Eu Lembro",
+        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
+      },
+      "artists": [
+        {
+          "name": "Maur\u00edcio & Eduardo",
+          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
+        }
+      ],
+      "duration_ms": 152138,
+      "name": "Eu Lembro",
+      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
         "name": "Baila Que Baila (Ao Vivo)",
         "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Eu Lembro",
-        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
-      },
-      "artists": [
-        {
-          "name": "Maur\u00edcio & Eduardo",
-          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
-        }
-      ],
-      "duration_ms": 152138,
-      "name": "Eu Lembro",
-      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
         "name": "Voc\u00ea \u00e9 Voc\u00ea",
         "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
       },
@@ -599,6 +599,38 @@
       "duration_ms": 171834,
       "name": "Voc\u00ea \u00e9 Voc\u00ea",
       "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
+        "name": "Consequ\u00eancias",
+        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
+      },
+      "artists": [
+        {
+          "name": "Felipe Nogueira",
+          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
+        }
+      ],
+      "duration_ms": 183245,
+      "name": "Consequ\u00eancias",
+      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
+        "name": "Melhor Que Nada",
+        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
+      },
+      "artists": [
+        {
+          "name": "William Couto e Adriano",
+          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
+        }
+      ],
+      "duration_ms": 131277,
+      "name": "Melhor Que Nada",
+      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -659,6 +691,22 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
+        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
+      },
+      "artists": [
+        {
+          "name": "Nando Moreno",
+          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Tanto Faz - Ao Vivo",
+      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
         "name": "Vou Ou N\u00e3o Vou",
         "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
       },
@@ -679,22 +727,6 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
-      },
-      "artists": [
-        {
-          "name": "Renato & Giovanelli",
-          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
-        }
-      ],
-      "duration_ms": 193285,
-      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
         "name": "Da Boca Pra Fora",
         "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
       },
@@ -707,6 +739,22 @@
       "duration_ms": 201679,
       "name": "Da Boca Pra Fora",
       "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
+        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
+      },
+      "artists": [
+        {
+          "name": "Renato & Giovanelli",
+          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
+        }
+      ],
+      "duration_ms": 193285,
+      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -743,18 +791,26 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Nando Moreno na Cavalgada, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08fgG5VnLebtUQvFqb8pYQ"
+        "name": "Resenha dos Gordinhos, Ep. 3",
+        "url": "https://open.spotify.com/album/6K7hsNuNL6D9k3HCZZsuph"
       },
       "artists": [
         {
-          "name": "Nando Moreno",
-          "url": "https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t"
+          "name": "Talles & Rafael",
+          "url": "https://open.spotify.com/artist/5aT213yry8fh68Ir0lNX0t"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
         }
       ],
-      "duration_ms": 166500,
-      "name": "Tanto Faz - Ao Vivo",
-      "url": "https://open.spotify.com/track/4QZXIh65DLZLnaJ0D4uSOr"
+      "duration_ms": 174339,
+      "name": "Cumprindo Agenda",
+      "url": "https://open.spotify.com/track/7nyaCSoLzDz6VDr3nKjxc7"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -771,22 +827,6 @@
       "duration_ms": 163448,
       "name": "Primeira L\u00e1grima - Ao Vivo",
       "url": "https://open.spotify.com/track/0K6l2wZRSwHIIyiQF7Ttzn"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
-        "name": "Melhor Que Nada",
-        "url": "https://open.spotify.com/album/6bngCBIIs1owLd2AqaiEmx"
-      },
-      "artists": [
-        {
-          "name": "William Couto e Adriano",
-          "url": "https://open.spotify.com/artist/69s330fe8iNBuwivcPadWY"
-        }
-      ],
-      "duration_ms": 131277,
-      "name": "Melhor Que Nada",
-      "url": "https://open.spotify.com/track/3AO9yY4VXDs0lXkqjhUCVh"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -835,42 +875,18 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Consequ\u00eancias",
-        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
+        "name": "Foi Bom Enquanto Durou",
+        "url": "https://open.spotify.com/album/5RI01jpaxEc9gQQl0d29rH"
       },
       "artists": [
         {
-          "name": "Felipe Nogueira",
-          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
+          "name": "Jennifer Scheffer",
+          "url": "https://open.spotify.com/artist/5pUunA7YSNnIdMv8qN92yN"
         }
       ],
-      "duration_ms": 183245,
-      "name": "Consequ\u00eancias",
-      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
-        "name": "Resenha dos Gordinhos, Ep. 3",
-        "url": "https://open.spotify.com/album/6K7hsNuNL6D9k3HCZZsuph"
-      },
-      "artists": [
-        {
-          "name": "Talles & Rafael",
-          "url": "https://open.spotify.com/artist/5aT213yry8fh68Ir0lNX0t"
-        },
-        {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 174339,
-      "name": "Cumprindo Agenda",
-      "url": "https://open.spotify.com/track/7nyaCSoLzDz6VDr3nKjxc7"
+      "duration_ms": 157175,
+      "name": "Foi Bom Enquanto Durou",
+      "url": "https://open.spotify.com/track/3MdpSA1MiG3QvwqPW216OX"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -891,6 +907,22 @@
       "duration_ms": 124581,
       "name": "Show de Solteiro",
       "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
+    },
+    {
+      "added_at": "2026-03-06 03:03:16",
+      "album": {
+        "name": "Mais Neg\u00f3cio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3n2ph02C2oyghd230CICPw"
+      },
+      "artists": [
+        {
+          "name": "Ana Karla",
+          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+        }
+      ],
+      "duration_ms": 174294,
+      "name": "Mais Neg\u00f3cio - Ao Vivo",
+      "url": "https://open.spotify.com/track/1zDdpi8uhfXDEqs7T2RIwT"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -927,18 +959,22 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Foi Bom Enquanto Durou",
-        "url": "https://open.spotify.com/album/5RI01jpaxEc9gQQl0d29rH"
+        "name": "Deu Onda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/20BAKOs1xejAt281sLhF31"
       },
       "artists": [
         {
-          "name": "Jennifer Scheffer",
-          "url": "https://open.spotify.com/artist/5pUunA7YSNnIdMv8qN92yN"
+          "name": "Breno Ferreira",
+          "url": "https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk"
+        },
+        {
+          "name": "Guilherme e Benuto",
+          "url": "https://open.spotify.com/artist/1C5diZVLfNPgOH1AriMiga"
         }
       ],
-      "duration_ms": 157175,
-      "name": "Foi Bom Enquanto Durou",
-      "url": "https://open.spotify.com/track/3MdpSA1MiG3QvwqPW216OX"
+      "duration_ms": 128059,
+      "name": "Vestidinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -963,26 +999,6 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Deu Onda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/20BAKOs1xejAt281sLhF31"
-      },
-      "artists": [
-        {
-          "name": "Breno Ferreira",
-          "url": "https://open.spotify.com/artist/1ZPs71pxgkYzB0NHHdqaBk"
-        },
-        {
-          "name": "Guilherme e Benuto",
-          "url": "https://open.spotify.com/artist/1C5diZVLfNPgOH1AriMiga"
-        }
-      ],
-      "duration_ms": 128059,
-      "name": "Vestidinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5kODFBJhzygSg6dyhMW0NR"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
         "name": "Esquec\u00edvel (Ao Vivo)",
         "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
       },
@@ -1003,18 +1019,22 @@
     {
       "added_at": "2026-03-06 03:03:16",
       "album": {
-        "name": "Mais Neg\u00f3cio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3n2ph02C2oyghd230CICPw"
+        "name": "A\u00ed \u00c9 Loucura, Ep. 3",
+        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
       },
       "artists": [
         {
-          "name": "Ana Karla",
-          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+          "name": "Borges & Dedeu",
+          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
         }
       ],
-      "duration_ms": 174294,
-      "name": "Mais Neg\u00f3cio - Ao Vivo",
-      "url": "https://open.spotify.com/track/1zDdpi8uhfXDEqs7T2RIwT"
+      "duration_ms": 242316,
+      "name": "Seu Astral / Enquanto Houver Raz\u00f5es",
+      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
     },
     {
       "added_at": "2026-03-06 03:03:16",
@@ -1167,26 +1187,6 @@
       "duration_ms": 157284,
       "name": "Tequila, Lim\u00e3o e Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/0FmwbvoDjwQsGsujpyUVfw"
-    },
-    {
-      "added_at": "2026-03-06 03:03:16",
-      "album": {
-        "name": "A\u00ed \u00c9 Loucura, Ep. 3",
-        "url": "https://open.spotify.com/album/5NsyRGDgr4Qep8JEgc7YuM"
-      },
-      "artists": [
-        {
-          "name": "Borges & Dedeu",
-          "url": "https://open.spotify.com/artist/0OhKWG75cikvQc8iUNeo8D"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 242316,
-      "name": "Seu Astral / Enquanto Houver Raz\u00f5es",
-      "url": "https://open.spotify.com/track/5s5thQ6XDeYzFf2MGjQ4yx"
     },
     {
       "added_at": "2026-03-06 03:03:16",

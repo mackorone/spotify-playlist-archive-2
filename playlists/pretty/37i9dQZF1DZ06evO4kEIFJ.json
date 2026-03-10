@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 164751,
+  "num_followers": 164760,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAABF8AWTAQTI3u44cXZUvTjo",
+  "snapshot_id": "aay8AAAAAADgH4V3V2tlCCCayQurFVgG",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days Before Dreamboy",
-        "url": "https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "LEAN ON MY BODY",
-      "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
         "url": "https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 195470,
       "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
       "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days Before Dreamboy",
+        "url": "https://open.spotify.com/album/1oqxzh4V3jEnNedwoL408R"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "LEAN ON MY BODY",
+      "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > pov: ar tis ta / Foto: Bruno Mars
 
-561 songs - 1 day 5 hr 56 min
+562 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Bandido](https://open.spotify.com/track/5PZAbR6JHYYV9xp5gv0XES) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth) | [Bandido](https://open.spotify.com/album/05f4GTA4Okt2L7VEiLWns9) | 2:12 | 2022-07-22 | 2022-08-13 |
 | [Bateria Social](https://open.spotify.com/track/1sz0sqdm8bUMLXrTfR5gEE) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Bateria Social](https://open.spotify.com/album/698LkunOLkOj80zdayoiHa) | 2:59 | 2022-05-06 | 2022-05-28 |
 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 | 2024-02-22 | 2024-03-11 |
-| [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx) | 3:09 | 2026-01-26 |  |
+| [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Beast \(feat\. Waka Flocka\)](https://open.spotify.com/album/6xMVTI6XdHdvpVgEA20Nlx) | 3:09 | 2026-01-26 | 2026-03-10 |
 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 | 2026-01-23 |  |
 | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn) | 2:37 | 2025-07-25 | 2025-10-28 |
 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 | 2024-12-20 | 2025-02-04 |
@@ -189,6 +189,7 @@
 | [FREAKY \(feat\. LUDMILLA\)](https://open.spotify.com/track/6AScOrn9TiSuFanMrW9Xju) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 2:37 | 2025-07-18 | 2025-09-12 |
 | [Friends](https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia](https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau) | 3:50 | 2022-05-06 | 2022-12-09 |
 | [Friends](https://open.spotify.com/track/6pM7b05oOHv3WvhUaxhaB2) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Friends](https://open.spotify.com/album/5zR9DGAoBD4lQ6NPXFXvOn) | 2:59 | 2025-11-28 | 2026-02-07 |
+| [Frontin’ \- Spotify Singles](https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Frontin’ \- Spotify Singles](https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0) | 3:56 | 2026-03-09 |  |
 | [FUFN \(Fuck You For Now\)](https://open.spotify.com/track/7hWESP9salkKYucipe5W99) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [FUFN \(Fuck You For Now\)](https://open.spotify.com/album/2q2NWhj9rd5WnKokMmapIq) | 3:35 | 2025-03-14 | 2025-05-03 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-02-28 | 2025-04-05 |
 | [FYS](https://open.spotify.com/track/5IVhQWFgCahKesfuioh4OG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [FYS](https://open.spotify.com/album/7IKErQGBssaKQHzBxgBuzt) | 3:29 | 2024-03-01 | 2024-03-13 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, VICTORS, Laureline and more",
+  "description": "With Rhineland, Laureline, VICTORS and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 320493,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
@@ -11330,7 +11330,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 266202,
       "name": "I Want You Close",
       "url": "https://open.spotify.com/track/1u55xtADWRwoOLzMZx0vTx"
@@ -15240,7 +15240,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -16578,7 +16578,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 233538,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1pFPxzkV0VUWfbnb83NCou"
@@ -17292,7 +17292,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
@@ -18544,7 +18544,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "Put Your Money On Me",
       "url": "https://open.spotify.com/track/0m0WnrSwoiH9cJe0ZxnkfT"
@@ -21244,7 +21244,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -21662,7 +21662,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 280093,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/3GI0wyLTnmq8RgeosaG54Z"
@@ -24412,7 +24412,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 219457,
       "name": "Washed Wine",
       "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"

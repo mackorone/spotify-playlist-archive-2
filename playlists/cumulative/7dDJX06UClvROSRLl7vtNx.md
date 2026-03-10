@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,219 songs - 2 day 4 hr 40 min
+1,220 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Hold Me Close](https://open.spotify.com/track/09Sn4ujUQagRbM9LAMmcJE) | [JDM](https://open.spotify.com/artist/0ypVB4coLY48d4te3lUYoo), [Byrinic30](https://open.spotify.com/artist/7iR8YWVuxCSaka0U2iaa68) | [Hold Me Close](https://open.spotify.com/album/27P1sGNefBx0BKdsOMDICy) | 2:20 | 2024-11-24 | 2025-08-30 |
 | [Hold Me Close](https://open.spotify.com/track/4KN6yCPfmEqutksaM3Pg0p) | [M2chael](https://open.spotify.com/artist/2ciGImEu29l0qk6LCRjg5G), [FRIDA](https://open.spotify.com/artist/0Yl3oq30sTn7nopIGWW53p), [James Lacey](https://open.spotify.com/artist/1aT67zKHExe9eCqc0Ny0GG) | [Hold Me Close](https://open.spotify.com/album/00mtE4QrwiBj2GqTZWxsBp) | 2:26 | 2025-08-03 |  |
 | [Hold Me Close](https://open.spotify.com/track/50rOUQlJ4BdBFP8ZsxUP7g) | [miksklim](https://open.spotify.com/artist/1PQT3gGx4JUciQyvvJUeVz), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Hold Me Close](https://open.spotify.com/album/0sdw6rcJ1TKwCQuAko96en) | 2:20 | 2024-06-07 | 2025-12-02 |
+| [Hold Me Close](https://open.spotify.com/track/0IwKgvLvEpZWLvuHKTyuzH) | [Nofsky](https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC) | [Hold Me Close](https://open.spotify.com/album/0L1HeQ5H5ut6lfOGt8PUVo) | 2:30 | 2026-03-09 |  |
 | [Hold Me Close](https://open.spotify.com/track/7CcHekzCRzibYwCYn2WKgc) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Hold Me Close](https://open.spotify.com/album/1b1CiWm3Psfi4US4Ec5d4h) | 2:10 | 2023-12-30 | 2024-03-04 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2023-09-22 | 2024-06-01 |
 | [Hold Me Down](https://open.spotify.com/track/0hdRaXColEX1JGmEn9C4BD) | [B\-Rain](https://open.spotify.com/artist/3hWT3bsPOSKsJkR30Z9xQr), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Ema Feud](https://open.spotify.com/artist/2rPtbgOmhSJcV7GenHKwPd) | [Hold Me Down](https://open.spotify.com/album/7MenaK1jRxJWDC5aBTKvAh) | 2:28 | 2025-06-13 | 2025-09-22 |

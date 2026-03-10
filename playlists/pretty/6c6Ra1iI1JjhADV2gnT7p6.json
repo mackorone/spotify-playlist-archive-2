@@ -6,8 +6,56 @@
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAxsLg8Q9iNFJB+htYuI4xSrOaSO2PJ",
+  "snapshot_id": "AAAxvau7CrBRZ/qfV+SZ8XWEvH4SNRQL",
   "tracks": [
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "You Will Always Get Away With It",
+        "url": "https://open.spotify.com/album/7CQxSklIL7ZIrsiNLE2yAp"
+      },
+      "artists": [
+        {
+          "name": "Nixon Boyd",
+          "url": "https://open.spotify.com/artist/6uCdumKzVD3qp3gOH9QwSM"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "You Will Always Get Away With It",
+      "url": "https://open.spotify.com/track/4tv9WtSwlCvQJas2JV6fD2"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "I Wanna Feel Pretty",
+        "url": "https://open.spotify.com/album/0u6XQFs7LncOiZGbwLbb4w"
+      },
+      "artists": [
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        }
+      ],
+      "duration_ms": 123833,
+      "name": "I Wanna Feel Pretty",
+      "url": "https://open.spotify.com/track/1cgEbfMat1B3PjXuWg5XeS"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "And the Sky",
+        "url": "https://open.spotify.com/album/4EMXQtCmaabnrA2Rf4aPqD"
+      },
+      "artists": [
+        {
+          "name": "James Wyatt Crosby",
+          "url": "https://open.spotify.com/artist/08vqoIPzUKFbYWJLfwiz8a"
+        }
+      ],
+      "duration_ms": 222776,
+      "name": "And the Sky",
+      "url": "https://open.spotify.com/track/4FcVkeNm4VKlyoICp1BTrm"
+    },
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
@@ -39,22 +87,6 @@
       "duration_ms": 235168,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/30dsgMPuISE3Cb2hQkSm9k"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "You Will Always Get Away With It",
-        "url": "https://open.spotify.com/album/7CQxSklIL7ZIrsiNLE2yAp"
-      },
-      "artists": [
-        {
-          "name": "Nixon Boyd",
-          "url": "https://open.spotify.com/artist/6uCdumKzVD3qp3gOH9QwSM"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "You Will Always Get Away With It",
-      "url": "https://open.spotify.com/track/4tv9WtSwlCvQJas2JV6fD2"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -103,38 +135,6 @@
       "duration_ms": 196056,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/59PF3F5QTkRwsXcGjnfTNJ"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "I Wanna Feel Pretty",
-        "url": "https://open.spotify.com/album/0u6XQFs7LncOiZGbwLbb4w"
-      },
-      "artists": [
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        }
-      ],
-      "duration_ms": 123833,
-      "name": "I Wanna Feel Pretty",
-      "url": "https://open.spotify.com/track/1cgEbfMat1B3PjXuWg5XeS"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "And the Sky",
-        "url": "https://open.spotify.com/album/4EMXQtCmaabnrA2Rf4aPqD"
-      },
-      "artists": [
-        {
-          "name": "James Wyatt Crosby",
-          "url": "https://open.spotify.com/artist/08vqoIPzUKFbYWJLfwiz8a"
-        }
-      ],
-      "duration_ms": 222776,
-      "name": "And the Sky",
-      "url": "https://open.spotify.com/track/4FcVkeNm4VKlyoICp1BTrm"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/6M6TLIo70bKlAxlFXLtrq0"
-      },
-      "artists": [
-        {
-          "name": "Echobirds",
-          "url": "https://open.spotify.com/artist/1YWYoZQWlb6qWR5vWbEcto"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Let's talk without shouting",
-      "url": "https://open.spotify.com/track/2yne8AJHodI6K6JMPRFbq1"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
         "name": "Arrow Heart",
         "url": "https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 164500,
       "name": "100",
       "url": "https://open.spotify.com/track/3zDeYlVOdcd8hd0W8jqEMP"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6M6TLIo70bKlAxlFXLtrq0"
+      },
+      "artists": [
+        {
+          "name": "Echobirds",
+          "url": "https://open.spotify.com/artist/1YWYoZQWlb6qWR5vWbEcto"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Let's talk without shouting",
+      "url": "https://open.spotify.com/track/2yne8AJHodI6K6JMPRFbq1"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -2251,26 +2251,6 @@
       "duration_ms": 163528,
       "name": "The Scene",
       "url": "https://open.spotify.com/track/0wOk557GtfOVf4Sj0BS4LS"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "Honeycrash / I\u2019ll Be Gone (Director\u2019s Cut)",
-        "url": "https://open.spotify.com/album/25xR0D3KE0gDbDW0pRUxtQ"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        },
-        {
-          "name": "Patti Harrison",
-          "url": "https://open.spotify.com/artist/6AoF7zROHAJesXflkvTpKE"
-        }
-      ],
-      "duration_ms": 300978,
-      "name": "I\u2019ll Be Gone - Patti Harrison Remix Cut",
-      "url": "https://open.spotify.com/track/5jadpWWK54xtNo0WqOkMAW"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -3311,18 +3291,22 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
-        "name": "Stay Low For A Reason",
-        "url": "https://open.spotify.com/album/42oBhzLfZaDHQlogMVKZAT"
+        "name": "Honeycrash / I\u2019ll Be Gone (Director\u2019s Cut)",
+        "url": "https://open.spotify.com/album/25xR0D3KE0gDbDW0pRUxtQ"
       },
       "artists": [
         {
-          "name": "Lunar Lock",
-          "url": "https://open.spotify.com/artist/2G5vJNYkGfsZHqnzVbojMl"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        },
+        {
+          "name": "Patti Harrison",
+          "url": "https://open.spotify.com/artist/6AoF7zROHAJesXflkvTpKE"
         }
       ],
-      "duration_ms": 219816,
-      "name": "Blind At Heart",
-      "url": "https://open.spotify.com/track/6yAOz1klx1jvWyrA0Tnt2k"
+      "duration_ms": 300978,
+      "name": "I\u2019ll Be Gone - Patti Harrison Remix Cut",
+      "url": "https://open.spotify.com/track/5jadpWWK54xtNo0WqOkMAW"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -3407,6 +3391,22 @@
       "duration_ms": 247250,
       "name": "The Great Euphrates",
       "url": "https://open.spotify.com/track/0gbzrfI99WqPPMrSBQ7v6y"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "Stay Low For A Reason",
+        "url": "https://open.spotify.com/album/42oBhzLfZaDHQlogMVKZAT"
+      },
+      "artists": [
+        {
+          "name": "Lunar Lock",
+          "url": "https://open.spotify.com/artist/2G5vJNYkGfsZHqnzVbojMl"
+        }
+      ],
+      "duration_ms": 219816,
+      "name": "Blind At Heart",
+      "url": "https://open.spotify.com/track/6yAOz1klx1jvWyrA0Tnt2k"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -5463,6 +5463,42 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
+        "name": "Nobody's Bored Anymore",
+        "url": "https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H"
+      },
+      "artists": [
+        {
+          "name": "Peter The Human Boy",
+          "url": "https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw"
+        }
+      ],
+      "duration_ms": 234575,
+      "name": "Nobody's Bored Anymore",
+      "url": "https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "back seat",
+        "url": "https://open.spotify.com/album/41EwQPiOypUNncEyKGJeUQ"
+      },
+      "artists": [
+        {
+          "name": "rosetan",
+          "url": "https://open.spotify.com/artist/5ir75gY9dcvezxTb7vi2hC"
+        },
+        {
+          "name": "porch kiss",
+          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
+        }
+      ],
+      "duration_ms": 120906,
+      "name": "back seat",
+      "url": "https://open.spotify.com/track/0nXDJ9Oq1UX9WY8YO2TkxB"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/3uLrAv1yh1Vuu23sPKRsD3"
       },
@@ -5523,42 +5559,6 @@
       "duration_ms": 117347,
       "name": "Affectionately",
       "url": "https://open.spotify.com/track/7CHwOqXYxWn7HGQl2OZq6H"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "Nobody's Bored Anymore",
-        "url": "https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H"
-      },
-      "artists": [
-        {
-          "name": "Peter The Human Boy",
-          "url": "https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw"
-        }
-      ],
-      "duration_ms": 234575,
-      "name": "Nobody's Bored Anymore",
-      "url": "https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "back seat",
-        "url": "https://open.spotify.com/album/41EwQPiOypUNncEyKGJeUQ"
-      },
-      "artists": [
-        {
-          "name": "rosetan",
-          "url": "https://open.spotify.com/artist/5ir75gY9dcvezxTb7vi2hC"
-        },
-        {
-          "name": "porch kiss",
-          "url": "https://open.spotify.com/artist/0XGlOeVobIoWftyyayE5bT"
-        }
-      ],
-      "duration_ms": 120906,
-      "name": "back seat",
-      "url": "https://open.spotify.com/track/0nXDJ9Oq1UX9WY8YO2TkxB"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -8135,6 +8135,38 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc"
+      },
+      "artists": [
+        {
+          "name": "Emily Hines",
+          "url": "https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX"
+        }
+      ],
+      "duration_ms": 296200,
+      "name": "All Of Our Friends",
+      "url": "https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
+      },
+      "artists": [
+        {
+          "name": "Prewn",
+          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
+        }
+      ],
+      "duration_ms": 124640,
+      "name": "Commotion",
+      "url": "https://open.spotify.com/track/29MnyydjwSuj8ZodH7tK7r"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
         "name": "The Rat",
         "url": "https://open.spotify.com/album/0pbUkuVlHjquw9N0lcUYK4"
       },
@@ -8147,6 +8179,22 @@
       "duration_ms": 166611,
       "name": "The Rat",
       "url": "https://open.spotify.com/track/4Wa9VGzvPMDwKG5OT5bXmJ"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "Birthmarks",
+        "url": "https://open.spotify.com/album/4Cy5zbpEW1aTKHvGiRXY1S"
+      },
+      "artists": [
+        {
+          "name": "BAMBARA",
+          "url": "https://open.spotify.com/artist/0JHvODQe3KnriRMPuZPNL6"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "Letters From Sing Sing",
+      "url": "https://open.spotify.com/track/48mzQO6oFCw5YMbmNGrPHc"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -8199,54 +8247,6 @@
       "duration_ms": 203285,
       "name": "Telephoning from Safari",
       "url": "https://open.spotify.com/track/6bZkrUb3kNQG5XCCcWZOt5"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "Birthmarks",
-        "url": "https://open.spotify.com/album/4Cy5zbpEW1aTKHvGiRXY1S"
-      },
-      "artists": [
-        {
-          "name": "BAMBARA",
-          "url": "https://open.spotify.com/artist/0JHvODQe3KnriRMPuZPNL6"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "Letters From Sing Sing",
-      "url": "https://open.spotify.com/track/48mzQO6oFCw5YMbmNGrPHc"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "System",
-        "url": "https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru"
-      },
-      "artists": [
-        {
-          "name": "Prewn",
-          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
-        }
-      ],
-      "duration_ms": 124640,
-      "name": "Commotion",
-      "url": "https://open.spotify.com/track/29MnyydjwSuj8ZodH7tK7r"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc"
-      },
-      "artists": [
-        {
-          "name": "Emily Hines",
-          "url": "https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX"
-        }
-      ],
-      "duration_ms": 296200,
-      "name": "All Of Our Friends",
-      "url": "https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2"
     },
     {
       "added_at": "2026-03-07 02:57:31",

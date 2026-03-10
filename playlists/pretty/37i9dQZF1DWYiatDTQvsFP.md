@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > the golden era of r&b and hip\-hop with Usher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,233 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,370 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 43 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
 | 44 | [Smile](https://open.spotify.com/track/2hzKxuc2LwqMnkoVRMkV0B) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 3:38 |
 | 45 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 |
-| 46 | [Can't Nobody Hold Me Down \(feat\. Mase\)](https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l) | [Puff Daddy](https://open.spotify.com/artist/18WzSVxhKR3EcfIAB3Vp7c), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 3:51 |
+| 46 | [Can't Nobody Hold Me Down \(feat\. Mase\)](https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 3:51 |
 | 47 | [4 Ever](https://open.spotify.com/track/64IrqnZBUoCFmF8BXGOHnK) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Meet the Girl Next Door](https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv) | 3:42 |
 | 48 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 49 | [You Owe Me \(feat\. Ginuwine\)](https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Nastradamus](https://open.spotify.com/album/0yv3K62ndWgrZ0bbAEMzj5) | 4:47 |

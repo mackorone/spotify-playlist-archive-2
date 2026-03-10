@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 143028,
+  "num_followers": 143035,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Old Love",
-        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 205769,
-      "name": "Old Love",
-      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
-    },
-    {
-      "added_at": "2026-03-06 05:01:01",
-      "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 182626,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC"
+    },
+    {
+      "added_at": "2026-03-06 05:01:01",
+      "album": {
+        "name": "Old Love",
+        "url": "https://open.spotify.com/album/6mYFCScWWqFGpJAWc6FOxg"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 205769,
+      "name": "Old Love",
+      "url": "https://open.spotify.com/track/3NwrnNYWLgDzNqqPj3HdyH"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -543,18 +543,22 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "2 go\u00e9lands",
-        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
+        "name": "The Wandering",
+        "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
       },
       "artists": [
         {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 178306,
-      "name": "2 go\u00e9lands",
-      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
+      "duration_ms": 200466,
+      "name": "The Wandering",
+      "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -575,22 +579,18 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "The Wandering",
-        "url": "https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW"
+        "name": "2 go\u00e9lands",
+        "url": "https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf"
       },
       "artists": [
         {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 200466,
-      "name": "The Wandering",
-      "url": "https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1"
+      "duration_ms": 178306,
+      "name": "2 go\u00e9lands",
+      "url": "https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "La lumi\u00e8re",
-        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 240485,
-      "name": "La lumi\u00e8re",
-      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
-    },
-    {
-      "added_at": "2026-03-06 05:01:01",
-      "album": {
         "name": "Dans tes bras",
         "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
       },
@@ -675,18 +659,34 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Les oiseaux",
-        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
+        "name": "La lumi\u00e8re",
+        "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
       },
       "artists": [
         {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
         }
       ],
-      "duration_ms": 244083,
-      "name": "Les oiseaux",
-      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+      "duration_ms": 240485,
+      "name": "La lumi\u00e8re",
+      "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
+    },
+    {
+      "added_at": "2026-03-06 05:01:01",
+      "album": {
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
+      },
+      "artists": [
+        {
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
+        "name": "Les oiseaux",
+        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "duration_ms": 244083,
+      "name": "Les oiseaux",
+      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+    },
+    {
+      "added_at": "2026-03-06 05:01:01",
+      "album": {
         "name": "Tu reviendras",
         "url": "https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 134581,
       "name": "Tu reviendras",
       "url": "https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV"
-    },
-    {
-      "added_at": "2026-03-06 05:01:01",
-      "album": {
-        "name": "I took off my heels",
-        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
-      },
-      "artists": [
-        {
-          "name": "Avery Jane",
-          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
-        }
-      ],
-      "duration_ms": 226480,
-      "name": "I took off my heels",
-      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "\u00c0 toi",
-        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
+        "name": "Dog (everybody learns)",
+        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
         }
       ],
-      "duration_ms": 264580,
-      "name": "\u00c0 toi",
-      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+      "duration_ms": 193212,
+      "name": "Dog (everybody learns)",
+      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Habitat",
-        "url": "https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq"
+        "name": "\u00c0 toi",
+        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
       },
       "artists": [
         {
-          "name": "Frais Dispo",
-          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 288346,
-      "name": "Habitat",
-      "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
+      "duration_ms": 264580,
+      "name": "\u00c0 toi",
+      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Journal d'un Loup-Garou",
+        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        },
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 193733,
+      "name": "Ariane",
+      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1147,38 +1151,34 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Dog (everybody learns)",
-        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
       },
       "artists": [
         {
-          "name": "Avril Jensen",
-          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 193212,
-      "name": "Dog (everybody learns)",
-      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Journal d'un Loup-Garou",
-        "url": "https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM"
+        "name": "Habitat",
+        "url": "https://open.spotify.com/album/04Tv2pBqM5gHrJQXOyLJNq"
       },
       "artists": [
         {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        },
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+          "name": "Frais Dispo",
+          "url": "https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Ariane",
-      "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
+      "duration_ms": 288346,
+      "name": "Habitat",
+      "url": "https://open.spotify.com/track/0L9PnZbx3ySxrQZgfQPJVX"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "_dec carte de no\u00ebl",
-        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
       },
       "artists": [
         {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
         }
       ],
-      "duration_ms": 124960,
-      "name": "_dec carte de no\u00ebl",
-      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+        "name": "_dec carte de no\u00ebl",
+        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
       },
       "artists": [
         {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
         }
       ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+      "duration_ms": 124960,
+      "name": "_dec carte de no\u00ebl",
+      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Jacques",
-        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
-      },
-      "artists": [
-        {
-          "name": "Louis-Charles",
-          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
-        }
-      ],
-      "duration_ms": 207795,
-      "name": "Jacques",
-      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
-    },
-    {
-      "added_at": "2026-03-06 05:01:01",
-      "album": {
         "name": "Bras solaires",
         "url": "https://open.spotify.com/album/6YRzehbBP1Pv1DU2XpRz6o"
       },
@@ -1351,18 +1335,34 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
-        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
+        "name": "Jacques",
+        "url": "https://open.spotify.com/album/5b5RqSv24AjrlpuN2fank9"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "Louis-Charles",
+          "url": "https://open.spotify.com/artist/4xSFFtQxCSgv0POlI4WwVU"
         }
       ],
-      "duration_ms": 166266,
-      "name": "S'il te pla\u00eet, fais-moi danser",
-      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
+      "duration_ms": 207795,
+      "name": "Jacques",
+      "url": "https://open.spotify.com/track/2i5z6ihicdsAVVfa9ieGj8"
+    },
+    {
+      "added_at": "2026-03-06 05:01:01",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+        "name": "Treize chansons d\u00e9mod\u00e9es pour ceux qui ont le c\u0153ur ab\u00eem\u00e9",
+        "url": "https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx"
       },
       "artists": [
         {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+      "duration_ms": 166266,
+      "name": "S'il te pla\u00eet, fais-moi danser",
+      "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
+        "name": "Crooked Lines",
+        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
+      },
+      "artists": [
+        {
+          "name": "Gaspard Eden",
+          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "A Brand New Color",
+      "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
+    },
+    {
+      "added_at": "2026-03-06 05:01:01",
+      "album": {
         "name": "Vendredi",
         "url": "https://open.spotify.com/album/28WRvWVfbkIHcAfi1uIQEa"
       },
@@ -1471,38 +1487,6 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Crooked Lines",
-        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
-      },
-      "artists": [
-        {
-          "name": "Gaspard Eden",
-          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
-        }
-      ],
-      "duration_ms": 202823,
-      "name": "A Brand New Color",
-      "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
-    },
-    {
-      "added_at": "2026-03-06 05:01:01",
-      "album": {
-        "name": "Apr\u00e8s, on va o\u00f9?",
-        "url": "https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F"
-      },
-      "artists": [
-        {
-          "name": "Michel Rivard",
-          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
-        }
-      ],
-      "duration_ms": 193680,
-      "name": "\u00c0 l'ombre dans le d\u00e9sert",
-      "url": "https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY"
-    },
-    {
-      "added_at": "2026-03-06 05:01:01",
-      "album": {
         "name": "Du temps",
         "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "They will draw halos around our heads",
-        "url": "https://open.spotify.com/album/77O8QRrLM8nFLAMXpwDJST"
+        "name": "Apr\u00e8s, on va o\u00f9?",
+        "url": "https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F"
       },
       "artists": [
         {
-          "name": "Common Holly",
-          "url": "https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk"
+          "name": "Michel Rivard",
+          "url": "https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN"
         }
       ],
-      "duration_ms": 205156,
-      "name": "They will draw halos around our heads",
-      "url": "https://open.spotify.com/track/7F8SoTEmJwIo02xe6BCDfJ"
+      "duration_ms": 193680,
+      "name": "\u00c0 l'ombre dans le d\u00e9sert",
+      "url": "https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1567,18 +1551,34 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+        "name": "They will draw halos around our heads",
+        "url": "https://open.spotify.com/album/77O8QRrLM8nFLAMXpwDJST"
       },
       "artists": [
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "Common Holly",
+          "url": "https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk"
         }
       ],
-      "duration_ms": 221690,
-      "name": "Un chant d'amour",
-      "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
+      "duration_ms": 205156,
+      "name": "They will draw halos around our heads",
+      "url": "https://open.spotify.com/track/7F8SoTEmJwIo02xe6BCDfJ"
+    },
+    {
+      "added_at": "2026-03-06 05:01:01",
+      "album": {
+        "name": "Islands in the Stream",
+        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 194699,
+      "name": "Islands in the Stream",
+      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1599,18 +1599,34 @@
     {
       "added_at": "2026-03-06 05:01:01",
       "album": {
-        "name": "Islands in the Stream",
-        "url": "https://open.spotify.com/album/31VCgzXOzA4fxrr2HCw2l8"
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
         }
       ],
-      "duration_ms": 194699,
-      "name": "Islands in the Stream",
-      "url": "https://open.spotify.com/track/6bdpnSQXkd69cZk3A9Are3"
+      "duration_ms": 221690,
+      "name": "Un chant d'amour",
+      "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
+    },
+    {
+      "added_at": "2026-03-06 05:01:01",
+      "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
     },
     {
       "added_at": "2026-03-06 05:01:01",
@@ -1643,22 +1659,6 @@
       "duration_ms": 213107,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2026-03-06 05:01:01",
-      "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2026-03-06 05:01:01",

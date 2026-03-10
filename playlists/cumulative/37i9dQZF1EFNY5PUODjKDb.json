@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
       "url": "https://open.spotify.com/track/3XbuqATuVYo20LysQKShOW"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 189103,
       "name": "All I Ask of You (Instrumental)",
       "url": "https://open.spotify.com/track/2b56eI7rVOGYlxtom1kr9r"
@@ -9572,7 +9572,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
@@ -11814,10 +11814,32 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 182840,
       "name": "King Herod's Song - Remastered 2005",
       "url": "https://open.spotify.com/track/0GFoZDfOxuVHKPliTZlTPj"
+    },
+    {
+      "album": {
+        "name": "Jesus Christ Superstar (Remastered 2005)",
+        "url": "https://open.spotify.com/album/1qa7CDdBC9FSAfqK84jagt"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182840,
+      "name": "King Herod's Song - Remastered 2005",
+      "url": "https://open.spotify.com/track/2jq1c3N8EIF3KZhx6e4VQf"
     },
     {
       "album": {

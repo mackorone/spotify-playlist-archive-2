@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57434,
+  "num_followers": 57442,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aatqgAAAAADEAVXmrTkGuMGwhx7KFMt/",
+  "snapshot_id": "aay8AAAAAABlA1vtoAP9djJRhraogg4h",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Volver\u00e1s",
-        "url": "https://open.spotify.com/album/4YIYvNvaFSTT4XlxvEFGnQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Ya No Volver\u00e1s",
-      "url": "https://open.spotify.com/track/0ZS647xp15OrbHcM74HLEN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Ti Estoy Loco",
         "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 222843,
       "name": "Por Ti Estoy Loco",
       "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Volver\u00e1s",
+        "url": "https://open.spotify.com/album/4YIYvNvaFSTT4XlxvEFGnQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Ya No Volver\u00e1s",
+      "url": "https://open.spotify.com/track/0ZS647xp15OrbHcM74HLEN"
     },
     {
       "added_at": null,
@@ -1043,22 +1043,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caricatura",
-        "url": "https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb"
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
         },
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 201500,
-      "name": "Caricatura",
-      "url": "https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg"
+      "duration_ms": 232500,
+      "name": "Alguien Que Me Cure",
+      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
     },
     {
       "added_at": null,
@@ -1083,22 +1083,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/3axy5HCe5bZWbJ493RS5ED"
+        "name": "Caricatura",
+        "url": "https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb"
       },
       "artists": [
         {
-          "name": "SANTU",
-          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
-        },
-        {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         }
       ],
-      "duration_ms": 232500,
-      "name": "Alguien Que Me Cure",
-      "url": "https://open.spotify.com/track/7uq7pPp522U0jfAPN6HidR"
+      "duration_ms": 201500,
+      "name": "Caricatura",
+      "url": "https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg"
     },
     {
       "added_at": null,

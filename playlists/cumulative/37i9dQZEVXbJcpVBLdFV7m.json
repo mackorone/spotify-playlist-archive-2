@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Ai zapacit toata tara",
+        "url": "https://open.spotify.com/album/4IFeE3BAikte9URRjhW0oZ"
+      },
+      "artists": [
+        {
+          "name": "Rico Nadara",
+          "url": "https://open.spotify.com/artist/02pjMhKvYwnmeCIs8ri5Ho"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180565,
+      "name": "Ai zapacit toata tara",
+      "url": "https://open.spotify.com/track/3XO6XalbjZDQrcr8cWhTa5"
+    },
+    {
+      "album": {
         "name": "Don't Tread On Me",
         "url": "https://open.spotify.com/album/0BcmwUQT2qQrnG6kdFcFQK"
       },
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -2356,6 +2374,24 @@
       "duration_ms": 109081,
       "name": "Amo aller Amos",
       "url": "https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV"
+    },
+    {
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/2hmiXUccJdvAb5YWklu4yo"
+      },
+      "artists": [
+        {
+          "name": "LELEK",
+          "url": "https://open.spotify.com/artist/3XRa1ssBicMHAW76NxXDts"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo"
     },
     {
       "album": {
@@ -3708,7 +3744,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -3744,7 +3780,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -4008,7 +4044,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 189960,
       "name": "Beast",
       "url": "https://open.spotify.com/track/16FtzviEvQmtc7qYE1U6B0"
@@ -4030,7 +4066,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -5194,7 +5230,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 155753,
       "name": "Body",
       "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
@@ -7134,6 +7170,24 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
+    },
+    {
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178948,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
     },
     {
       "album": {
@@ -17710,7 +17764,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/3fYHsokGq9RpDHzKjFfB5D"
@@ -17754,7 +17808,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
@@ -18420,7 +18474,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 186986,
       "name": "Jane!",
       "url": "https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ"
@@ -19656,7 +19710,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-10",
       "duration_ms": 181500,
       "name": "Kraj mene",
       "url": "https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu"
@@ -20482,6 +20536,28 @@
       "duration_ms": 236446,
       "name": "Letter To Myself (feat. Frank Turner)",
       "url": "https://open.spotify.com/track/2lsaiqpiJY0hVX4PtcyvqT"
+    },
+    {
+      "album": {
+        "name": "Liekinheitin",
+        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
+      },
+      "artists": [
+        {
+          "name": "Linda Lampenius",
+          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
+        },
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180479,
+      "name": "Liekinheitin",
+      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
       "album": {
@@ -38296,6 +38372,28 @@
       "duration_ms": 342099,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/53qdXiuRiFr7ubXB4S7Ir1"
+    },
+    {
+      "album": {
+        "name": "Inkebrantable (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/61AAhksxYxU0hukOwmMNTR"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
+      "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
     },
     {
       "album": {
