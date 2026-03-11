@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: ivri",
-  "num_followers": 65032,
+  "num_followers": 65035,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "cul-de-sac",
-        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
-      },
-      "artists": [
-        {
-          "name": "Maya J'an",
-          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
-        }
-      ],
-      "duration_ms": 196700,
-      "name": "cul-de-sac",
-      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "Like Me Better",
         "url": "https://open.spotify.com/album/70PqdcEjKsEb4ARQzOXC1L"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 152597,
       "name": "Like Me Better",
       "url": "https://open.spotify.com/track/6GfNpMaBdEEDUoABk9Wusw"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "cul-de-sac",
+        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
+      },
+      "artists": [
+        {
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
+        }
+      ],
+      "duration_ms": 196700,
+      "name": "cul-de-sac",
+      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "Tell Me It's Over",
-        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
-      },
-      "artists": [
-        {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Tell Me It's Over",
-      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 175238,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "Tell Me It's Over",
+        "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Tell Me It's Over",
+      "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "Chronic",
-        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 156172,
-      "name": "Chronic",
-      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 192272,
       "name": "People Like Us",
       "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "Chronic",
+        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 156172,
+      "name": "Chronic",
+      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
+        "name": "Drunk Cigs",
+        "url": "https://open.spotify.com/album/1SBpNaoGLqkAPhN88qIXCP"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 221516,
+      "name": "Drunk Cigs",
+      "url": "https://open.spotify.com/track/6cwCpbUf4SNAl4GxnQnJfL"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
         "name": "Church Girl",
         "url": "https://open.spotify.com/album/0VmjCDUt4jvjulivLagXOf"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 266906,
       "name": "w-w-w-w-w",
       "url": "https://open.spotify.com/track/65ELRFojRCRWHEyYDA5AQd"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
-        "name": "Drunk Cigs",
-        "url": "https://open.spotify.com/album/1SBpNaoGLqkAPhN88qIXCP"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 221516,
-      "name": "Drunk Cigs",
-      "url": "https://open.spotify.com/track/6cwCpbUf4SNAl4GxnQnJfL"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "NOT TODAY",
-        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 215286,
-      "name": "NOT TODAY",
-      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "Growing Down",
         "url": "https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 197388,
       "name": "Growing Down",
       "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "NOT TODAY",
+        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 215286,
+      "name": "NOT TODAY",
+      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
+        "name": "Manicure",
+        "url": "https://open.spotify.com/album/0E09rOqWHosiaaK0hFNBoT"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 121429,
+      "name": "Manicure",
+      "url": "https://open.spotify.com/track/3mxV6itnOB6PSCLtIrYFY3"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
         "name": "Blame it on You",
         "url": "https://open.spotify.com/album/08hBBBR5U52B6IRW77uLnq"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "Manicure",
-        "url": "https://open.spotify.com/album/0E09rOqWHosiaaK0hFNBoT"
+        "name": "Ceremony",
+        "url": "https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp"
       },
       "artists": [
         {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+          "name": "Holy Wars",
+          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
         }
       ],
-      "duration_ms": 121429,
-      "name": "Manicure",
-      "url": "https://open.spotify.com/track/3mxV6itnOB6PSCLtIrYFY3"
+      "duration_ms": 199819,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -759,22 +775,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "I'm Crying, Are You?",
-        "url": "https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY"
-      },
-      "artists": [
-        {
-          "name": "August Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 180153,
-      "name": "I'm Crying, Are You?",
-      "url": "https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "miau",
         "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "Ceremony",
-        "url": "https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp"
+        "name": "I'm Crying, Are You?",
+        "url": "https://open.spotify.com/album/3lbMAsFE6E9q2apfBnNWjY"
       },
       "artists": [
         {
-          "name": "Holy Wars",
-          "url": "https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4"
+          "name": "August Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 199819,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG"
+      "duration_ms": 180153,
+      "name": "I'm Crying, Are You?",
+      "url": "https://open.spotify.com/track/5Gxcn52HxfnJ5PON6N5OeZ"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "two shots in and sobbing",
-        "url": "https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7"
-      },
-      "artists": [
-        {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "two shots in and sobbing",
-      "url": "https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh"
-    },
-    {
-      "added_at": "2026-03-09 16:28:35",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/4TrWXcgGPCnLlI0MlUharD"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 148769,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/3MJA1vEuDATierADDMEJep"
+    },
+    {
+      "added_at": "2026-03-09 16:28:35",
+      "album": {
+        "name": "two shots in and sobbing",
+        "url": "https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7"
+      },
+      "artists": [
+        {
+          "name": "Ayleen Valentine",
+          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "two shots in and sobbing",
+      "url": "https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh"
     },
     {
       "added_at": "2026-03-09 16:28:35",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-03-09 16:28:35",
       "album": {
-        "name": "pelinegra",
-        "url": "https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA"
+        "name": "I Get This Feeling",
+        "url": "https://open.spotify.com/album/4sMQUgbUNDf576Cu9FQKI5"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Slaycey",
+          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
         }
       ],
-      "duration_ms": 211084,
-      "name": "pelinegra",
-      "url": "https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x"
+      "duration_ms": 211019,
+      "name": "I Get This Feeling",
+      "url": "https://open.spotify.com/track/75sXo0wSGxpVC1kizgecZz"
     }
   ],
   "unique_name": "EQUAL US",

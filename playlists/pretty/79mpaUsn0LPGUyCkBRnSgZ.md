@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 687 songs - 1 day 20 hr 50 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 686 songs - 1 day 20 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -694,6 +694,5 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 684 | [Broken Bones](https://open.spotify.com/track/2kfzvmDwenaFoXCxRR3N4U) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Hex Key](https://open.spotify.com/album/71gvpd2oNaGwGmbqXOk8zk) | 2:30 |
 | 685 | [Traffic](https://open.spotify.com/track/5f3V3b4WCIegPW92FXNKa2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 5:17 |
 | 686 | [A Fake in a Faker’s World](https://open.spotify.com/track/1dJx3jat0jXUxBari5KSiw) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 8:18 |
-| 687 | [Want It So Bad](https://open.spotify.com/track/0Vx7I8I9FvQJUIRloIyT51) | [Georgia Turman](https://open.spotify.com/artist/608TxlqbZ7rnRPGm8V0v5o) | [Multiplication](https://open.spotify.com/album/7cQODIkDlwqAm0TJ0v9lRU) | 3:14 |
 
-Snapshot ID: `AAAItjJW94F1/930qKbEMZzjxMWeBRv4`
+Snapshot ID: `AAAIt4MHtRVD7WNjPwUsgMUxwQNc5o3m`

@@ -523,6 +523,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
+        "name": "Sings Simple Gifts",
+        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
+      },
+      "artists": [
+        {
+          "name": "Mountain Man",
+          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
+        }
+      ],
+      "duration_ms": 72000,
+      "name": "Simple Gifts",
+      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
         "name": "Holidays Rule",
         "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 133640,
       "name": "That Christmasy Feeling",
       "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Sings Simple Gifts",
-        "url": "https://open.spotify.com/album/6qJppr7oqTTuVM5EczORlg"
-      },
-      "artists": [
-        {
-          "name": "Mountain Man",
-          "url": "https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm"
-        }
-      ],
-      "duration_ms": 72000,
-      "name": "Simple Gifts",
-      "url": "https://open.spotify.com/track/3MxWNyKwx7NNFmYDfMZPg6"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Christmas In A Minor Key",
-        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 130586,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "The Devil You Know",
         "url": "https://open.spotify.com/album/4ftjmx3yacX5yEvFXlc8Pk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 232840,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/6xK0xnWFCZBXZ8ftz0CFqP"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Christmas In A Minor Key",
+        "url": "https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 130586,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/4w76VgK8polaFYWbdauE36"
     },
     {
       "added_at": "2025-12-12 05:00:29",

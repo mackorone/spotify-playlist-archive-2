@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Sayf in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,935 likes - 113 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,945 likes - 113 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

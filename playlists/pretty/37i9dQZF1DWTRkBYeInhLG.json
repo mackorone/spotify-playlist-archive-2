@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 500401,
+  "num_followers": 500417,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Bunga Abadi",
-        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
-      },
-      "artists": [
-        {
-          "name": "Rio Clappy",
-          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
-        }
-      ],
-      "duration_ms": 243038,
-      "name": "Bunga Abadi",
-      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Bunga Abadi",
+        "url": "https://open.spotify.com/album/4hbpDc3hQGQO0cIwB6ocfx"
+      },
+      "artists": [
+        {
+          "name": "Rio Clappy",
+          "url": "https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe"
+        }
+      ],
+      "duration_ms": 243038,
+      "name": "Bunga Abadi",
+      "url": "https://open.spotify.com/track/70Wtp9jCA3ZhGAxV0pnwS7"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "The Best Of Andre Hehanussa",
-        "url": "https://open.spotify.com/album/3Y2EhVB5y5EhZ8arApRoas"
-      },
-      "artists": [
-        {
-          "name": "Andre Hehanussa",
-          "url": "https://open.spotify.com/artist/76uP2Wqg5YSfW8JLOQk4Qb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "KKEB",
-      "url": "https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Forget Your Plan",
         "url": "https://open.spotify.com/album/2nftdSlqgiJ2lN8hu3dCEr"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 401520,
       "name": "Forget Jakarta",
       "url": "https://open.spotify.com/track/4UucLisbPzUcqYCE6cQX2z"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "The Best Of Andre Hehanussa",
+        "url": "https://open.spotify.com/album/3Y2EhVB5y5EhZ8arApRoas"
+      },
+      "artists": [
+        {
+          "name": "Andre Hehanussa",
+          "url": "https://open.spotify.com/artist/76uP2Wqg5YSfW8JLOQk4Qb"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "KKEB",
+      "url": "https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn"
     },
     {
       "added_at": "2026-02-27 14:15:43",

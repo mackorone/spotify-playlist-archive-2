@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 111514,
+  "num_followers": 111606,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -180,7 +180,7 @@
           "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
         },
         {
-          "name": "M\u00cbSTIZA",
+          "name": "MESTIZA",
           "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         },
         {
@@ -876,7 +876,7 @@
       },
       "artists": [
         {
-          "name": "M\u00cbSTIZA",
+          "name": "MESTIZA",
           "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         }
       ],
@@ -1208,7 +1208,7 @@
       },
       "artists": [
         {
-          "name": "M\u00cbSTIZA",
+          "name": "MESTIZA",
           "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         },
         {
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2026-03-06 05:00:10",
       "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 117667,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1812,7 +1812,7 @@
       },
       "artists": [
         {
-          "name": "M\u00cbSTIZA",
+          "name": "MESTIZA",
           "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         }
       ],
@@ -1887,26 +1887,6 @@
     {
       "added_at": "2026-03-06 05:00:10",
       "album": {
-        "name": "Cumbiambera",
-        "url": "https://open.spotify.com/album/15XBN6lvQ5oI6uYwOBxH26"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
-        },
-        {
-          "name": "Los Gaiteros de Ovejas",
-          "url": "https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "Cumbiambera",
-      "url": "https://open.spotify.com/track/5vRg7h3qUSt9H8ziOuXN10"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 162580,
       "name": "Piquete Cabron",
       "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "Cumbiambera",
+        "url": "https://open.spotify.com/album/15XBN6lvQ5oI6uYwOBxH26"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum"
+        },
+        {
+          "name": "Los Gaiteros de Ovejas",
+          "url": "https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Cumbiambera",
+      "url": "https://open.spotify.com/track/5vRg7h3qUSt9H8ziOuXN10"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2026-03-06 05:00:10",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
         "name": "Chimba",
         "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 207804,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     }
   ],
   "unique_name": "Latin House",

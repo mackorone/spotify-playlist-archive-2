@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 4 hr 51 min
+91 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [NO GOOD](https://open.spotify.com/track/5nyuvBnk8lPqewXhjtOydJ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:24 | 2026-02-07 |  |
 | [Nothing Like I Used To Be](https://open.spotify.com/track/3OWB60FMHQ7V1hPevITp4X) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [Nothing Like I Used To Be](https://open.spotify.com/album/0OEk2M4TSQFs9gWQqEWNyo) | 3:28 | 2025-11-07 |  |
 | [On My Mind](https://open.spotify.com/track/26jAZCayrtgXFq7UhpQgSO) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [On My Mind](https://open.spotify.com/album/6i83VVefVtRwlWnoUgEh0X) | 2:41 | 2025-11-07 | 2026-03-04 |
+| [On My Mind](https://open.spotify.com/track/2hm4rlbQtbPcSgbcHvD2EQ) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [On My Mind](https://open.spotify.com/album/0i8FpUqtvarBHDV8iJ52Sl) | 2:41 | 2026-03-10 |  |
 | [Past Life](https://open.spotify.com/track/6X5XfDaweonx5mIQHZiHNB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 2:29 | 2026-02-06 |  |
 | [Pay Attention](https://open.spotify.com/track/5qCCBPO81dyZEsavwxn8eC) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:29 | 2025-11-07 |  |
 | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/track/5hX77k1ZxCztVqL679pyfi) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk), [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/album/0WeDFtcUIBKYlih4rDFqQn) | 3:49 | 2025-11-07 |  |

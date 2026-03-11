@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Charlize
 
-3,305 songs - 6 day 10 hr 14 min
+3,306 songs - 6 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2716,6 +2716,7 @@
 | [Sunshine](https://open.spotify.com/track/4NzErsS5WlVRFxRORXKWch) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Sunshine](https://open.spotify.com/album/7flCp6O0wRPgmG14Ip6QT9) | 2:10 | 2023-06-29 | 2023-08-30 |
 | [Super Shiny Forehead Core](https://open.spotify.com/track/5R3Q0IgMgXhXShkolUGCj2) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Super Shiny Forehead Core](https://open.spotify.com/album/0klnD5YQrCqc5ADr41rPnV) | 2:11 | 2025-08-07 | 2025-09-19 |
 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 | 2024-03-07 | 2024-05-03 |
+| [Superhelden](https://open.spotify.com/track/2atD9qfo7yZKfT70Iv2Jxn) | [YBRE](https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs), [CAMO23](https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C) | [Superhelden](https://open.spotify.com/album/6pmcoFuGUefVjIKPSil3rg) | 1:33 | 2026-03-10 |  |
 | [Supernova](https://open.spotify.com/track/5TtRCj1G8Ux5lQkBgA3GiH) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Supernova](https://open.spotify.com/album/0kCYSSo46SLY0ZPwrettiy) | 3:26 | 2025-01-16 | 2025-02-28 |
 | [superstar](https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [superstar](https://open.spotify.com/album/2r7vK3RnYfofnAkMruYhSI) | 2:49 | 2025-10-02 | 2025-11-22 |
 | [Superstars](https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Superstars](https://open.spotify.com/album/1DxDAh1Qxro1JxWY3TS7PR) | 2:19 | 2023-08-07 | 2023-08-23 |

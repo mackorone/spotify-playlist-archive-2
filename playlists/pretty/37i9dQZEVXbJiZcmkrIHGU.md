@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Germany.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,042,995 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,042,940 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 | 49 | [Erlkönig](https://open.spotify.com/track/5YqhT9Jiw4wz1qliKQksoZ) | [Lūcadelic](https://open.spotify.com/artist/65WfmKecS1GdKkxURvvY1s) | [Erlkönig](https://open.spotify.com/album/0eYMNcQ8Ngg5Yc9v4k0Fdu) | 2:36 |
 | 50 | [Papaoutai \- Afro Soul](https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL) | 4:40 |
 
-Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`

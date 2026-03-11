@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,873 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,886 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLesry2Qw2xS.md) - [plain]
 | 49 | [TIKUPOISS](https://open.spotify.com/track/2GHaN7ypKaapDNlfdOSQHd) | [jooseppro](https://open.spotify.com/artist/7gOV81gizKQeukzb4ZOlaz), [Lennu](https://open.spotify.com/artist/76zdHqlv9pOHer64YL3Xxk) | [TIKUPOISS](https://open.spotify.com/album/2Nb0WCFqaFPMC14OmZrglt) | 2:11 |
 | 50 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
 
-Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`

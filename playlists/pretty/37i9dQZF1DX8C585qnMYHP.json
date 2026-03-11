@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 192436,
+  "num_followers": 192462,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -75,7 +75,7 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "\uff0d\uff0d \u00b7\u00b7\uff0d \u00b7\uff0d\u00b7\u00b7 \uff0d \u00b7\u00b7 \u00b7\uff0d\uff0d\u00b7 \u00b7\uff0d\u00b7\u00b7 \u00b7\uff0d \uff0d\u00b7\uff0d\uff0d",
+        "name": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
         "url": "https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3"
       },
       "artists": [
@@ -85,7 +85,7 @@
         }
       ],
       "duration_ms": 212535,
-      "name": "\uff0d\uff0d \u00b7\u00b7\uff0d \u00b7\uff0d\u00b7\u00b7 \uff0d \u00b7\u00b7 \u00b7\uff0d\uff0d\u00b7 \u00b7\uff0d\u00b7\u00b7 \u00b7\uff0d \uff0d\u00b7\uff0d\uff0d",
+      "name": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
       "url": "https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J"
     },
     {
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "From Tbilisi",
-        "url": "https://open.spotify.com/album/33Yjkz3VJGZTcRZkzQs4rj"
-      },
-      "artists": [
-        {
-          "name": "Passepartout Duo",
-          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
-        }
-      ],
-      "duration_ms": 231715,
-      "name": "From Tbilisi",
-      "url": "https://open.spotify.com/track/6AlRNw78ZzZqwQUYBk8cXY"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Systems",
         "url": "https://open.spotify.com/album/5YrZJApYpcjxM0JF42qjBb"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 214000,
       "name": "Liquid Society",
       "url": "https://open.spotify.com/track/04IuifjNEDlFZVOxsN9ByY"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "From Tbilisi",
+        "url": "https://open.spotify.com/album/33Yjkz3VJGZTcRZkzQs4rj"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        }
+      ],
+      "duration_ms": 231715,
+      "name": "From Tbilisi",
+      "url": "https://open.spotify.com/track/6AlRNw78ZzZqwQUYBk8cXY"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Remaining",
+        "url": "https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI"
+      },
+      "artists": [
+        {
+          "name": "Niels Orens",
+          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
+        }
+      ],
+      "duration_ms": 253443,
+      "name": "Remaining",
+      "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 342463,
       "name": "Everything Is Going To Make Sense In The End (Daniel Brandt Remix)",
       "url": "https://open.spotify.com/track/7BqXXObACQqxqSMKBTkLZ0"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Remaining",
-        "url": "https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI"
-      },
-      "artists": [
-        {
-          "name": "Niels Orens",
-          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
-        }
-      ],
-      "duration_ms": 253443,
-      "name": "Remaining",
-      "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
-      },
-      "artists": [
-        {
-          "name": "moreru",
-          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
-        }
-      ],
-      "duration_ms": 255154,
-      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 146000,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
+      },
+      "artists": [
+        {
+          "name": "moreru",
+          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+        }
+      ],
+      "duration_ms": 255154,
+      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
-      },
-      "artists": [
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 255996,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Corrosiv",
         "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 284000,
       "name": "Here Used To Be A Star",
       "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Blue Veil",
         "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 259402,
       "name": "Phase I",
       "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
-        "url": "https://open.spotify.com/album/2hgThzc4MM3pw3b0tWpG7q"
-      },
-      "artists": [
-        {
-          "name": "Hello Psychaleppo",
-          "url": "https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O"
-        }
-      ],
-      "duration_ms": 154025,
-      "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
-      "url": "https://open.spotify.com/track/0G2JzjUz1a3BXXcNZ5We8e"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 221960,
       "name": "Windows",
       "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
+        "url": "https://open.spotify.com/album/2hgThzc4MM3pw3b0tWpG7q"
+      },
+      "artists": [
+        {
+          "name": "Hello Psychaleppo",
+          "url": "https://open.spotify.com/artist/0yRYo9ej1JqOzFyVvLe00O"
+        }
+      ],
+      "duration_ms": 154025,
+      "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
+      "url": "https://open.spotify.com/track/0G2JzjUz1a3BXXcNZ5We8e"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1375,38 +1375,6 @@
       "duration_ms": 651303,
       "name": "In Space",
       "url": "https://open.spotify.com/track/159PzHyX3tZQ5p3GWcKnZJ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Zabrisky",
-        "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
-      },
-      "artists": [
-        {
-          "name": "Real Timpani",
-          "url": "https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Zabrisky",
-      "url": "https://open.spotify.com/track/6YGOza9ccQXGqq87VpqpVT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Zabrisky",
+        "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
+      },
+      "artists": [
+        {
+          "name": "Real Timpani",
+          "url": "https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Zabrisky",
+      "url": "https://open.spotify.com/track/6YGOza9ccQXGqq87VpqpVT"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Spaces In Between",
         "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Acrobata",
-        "url": "https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9"
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
       },
       "artists": [
         {
-          "name": "Bono / Burattini",
-          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+          "name": "Zutzut",
+          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
         }
       ],
-      "duration_ms": 296222,
-      "name": "Acrobata",
-      "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
+      "duration_ms": 216287,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1495,22 +1495,6 @@
       "duration_ms": 211933,
       "name": "Gosamour",
       "url": "https://open.spotify.com/track/7fpvQXLR1umwJVmPRcyFcs"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Sepia Rainbow",
-        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
-      },
-      "artists": [
-        {
-          "name": "Apu Nanu",
-          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Sepia Rainbow",
-      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1547,18 +1531,34 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
+        "name": "Acrobata",
+        "url": "https://open.spotify.com/album/5cz7ibNB9lPKO0oqHNxcz9"
       },
       "artists": [
         {
-          "name": "Zutzut",
-          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
         }
       ],
-      "duration_ms": 216287,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
+      "duration_ms": 296222,
+      "name": "Acrobata",
+      "url": "https://open.spotify.com/track/7B0NSAx83OyUxYAQGLC3zo"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Sepia Rainbow",
+        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
+      },
+      "artists": [
+        {
+          "name": "Apu Nanu",
+          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Sepia Rainbow",
+      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Dreamlike Places",
-        "url": "https://open.spotify.com/album/1fyk4sOhs0IaWQTBb4onha"
+        "name": "Neptune Anteater",
+        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
       },
       "artists": [
         {
-          "name": "Sacrobosco",
-          "url": "https://open.spotify.com/artist/49VdciQlH7g9UpuA3B4g1C"
+          "name": "The Dwarfs of East Agouza",
+          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
         }
       ],
-      "duration_ms": 289611,
-      "name": "Subway Surfer",
-      "url": "https://open.spotify.com/track/1oJyBtv3pSCDxrb3KgRjwV"
+      "duration_ms": 238948,
+      "name": "Neptune Anteater",
+      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

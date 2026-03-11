@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,977 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,980 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 | 49 | [DMG \(feat\. Ohan B\)](https://open.spotify.com/track/3U7STcrcDjPQGj4wqNJqSA) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI), [Ohan B](https://open.spotify.com/artist/7vnaEgAVNxhYeyN37SUIaA) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 3:01 |
 | 50 | [ONLY WAY OUT IS THROUGH THE SHITS 2](https://open.spotify.com/track/5tSBZk5XGiK9vMI4KeiQJh) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [KARAKORAM](https://open.spotify.com/album/165gdnouYKd779Par0BJE3) | 2:26 |
 
-Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`

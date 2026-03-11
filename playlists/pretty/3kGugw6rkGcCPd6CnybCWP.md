@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 87 songs - 5 hr 4 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,5 +95,16 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 85 | [Over My Head](https://open.spotify.com/track/4clPHM4vzSpKU7nwqgz0LC) | [Aura Davis](https://open.spotify.com/artist/7phDlcL0THknSVzXipd3Vf) | [Over My Head](https://open.spotify.com/album/1V8aRGKGIbyTJ17ylo1fzT) | 2:39 |
 | 86 | [Atychiphobia](https://open.spotify.com/track/6tBFBC5Etcyk65r39tFTAj) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Atychiphobia](https://open.spotify.com/album/4sWV1ookrG5cyfB1x0Kozc) | 3:44 |
 | 87 | [Comatose](https://open.spotify.com/track/4IxGpophDYgt0dj6nv4UfF) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Comatose](https://open.spotify.com/album/72boVn8Nvk0ZwxiGwRIHYB) | 3:37 |
+| 88 | [Carnival And Cotton Candy](https://open.spotify.com/track/49Ee6TwuEjIwYt4hjZapWX) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Seems Familiar But So Strange](https://open.spotify.com/album/7e5Tpz7tzdK53RMcorgoTS) | 3:16 |
+| 89 | [Too much to ask](https://open.spotify.com/track/1wqGxEXFzZxEckptMEzwfv) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [Too much to ask](https://open.spotify.com/album/6NG3y8XWY1jd2HxuOonYpY) | 4:43 |
+| 90 | [Little Red Corvette](https://open.spotify.com/track/45cnMC7EXUO4CEzKGyg527) | [This Side of Wednesday](https://open.spotify.com/artist/0ft5RSHIKkcsSexjHEIV6V) | [Breath](https://open.spotify.com/album/7brV5bURCt0XvWfjcT9H75) | 3:48 |
+| 91 | [I Gave It All For You](https://open.spotify.com/track/0I2olXnVSONShdDVSZmofa) | [Will Sims](https://open.spotify.com/artist/4VqIqqCAubwTlYYIQ2baD5) | [I Gave It All For You](https://open.spotify.com/album/5eiIXuyFyUmzcFQwbjhOFC) | 3:49 |
+| 92 | [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 |
+| 93 | [Dagger in the Sun](https://open.spotify.com/track/1x06lenWyhgvNWSgJjUpBM) | [CS Hellmann](https://open.spotify.com/artist/6S7H0M3iwMR6dURBdDYixG) | [Dagger in the Sun](https://open.spotify.com/album/4UmBBfS9kADgyiw97PqDys) | 3:54 |
+| 94 | [Le monde part en fusée](https://open.spotify.com/track/2I86BkId64ZJMxJ32H7FYG) | [Maël Jones](https://open.spotify.com/artist/7vG6jtcybDsUbuFm6iKxNC) | [Sous contrôle](https://open.spotify.com/album/4IGoZE6Rp1P0JQDDo7MJip) | 3:17 |
+| 95 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 |
+| 96 | [HE'S FOR THE STREETS](https://open.spotify.com/track/4p9kOPyXEoQLzXJXodHJz2) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [HE'S FOR THE STREETS](https://open.spotify.com/album/2oYCt2PA2D7BwzPxno1LzN) | 3:26 |
+| 97 | [Fake Happiness](https://open.spotify.com/track/6vAbICOt2jE3FsfRHmzWgD) | [Against the Voices](https://open.spotify.com/artist/1PbZi3MMzd2reijr7fnndu) | [Fake Happiness](https://open.spotify.com/album/5oN9wBUQom6yKPGqHtExqd) | 3:35 |
+| 98 | [Watch It Burn](https://open.spotify.com/track/4LAenkX9J3bQiVDyuRQdzp) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Watch It Burn](https://open.spotify.com/album/0Cq6PROpzgFHc5V9YpynL1) | 2:45 |
 
-Snapshot ID: `AAANqi+U9eKiy6fDVLv3zx8apttRZEYL`
+Snapshot ID: `AAANtX6TWby7/BdSJun++9mNYFR6Usjo`

@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2699,
+  "num_followers": 2702,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARg62Is9PvMduDFYsJvOVYd71rRt5U",
+  "snapshot_id": "AAARhMOq4bnZU2zh/9m2yPL9Yy5Nw230",
   "tracks": [
+    {
+      "added_at": "2026-03-10 16:55:26",
+      "album": {
+        "name": "El Baile de Carlito",
+        "url": "https://open.spotify.com/album/7qWXaz2mgOMsomrpwAzcgT"
+      },
+      "artists": [
+        {
+          "name": "Carlito",
+          "url": "https://open.spotify.com/artist/3nZReQzzyTIXP692DUqhxD"
+        }
+      ],
+      "duration_ms": 123977,
+      "name": "El Baile de Carlito",
+      "url": "https://open.spotify.com/track/6E8VN9DP3RzSv5R8m0K0UM"
+    },
     {
       "added_at": "2026-03-09 15:26:07",
       "album": {

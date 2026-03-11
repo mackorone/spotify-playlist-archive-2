@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1476522,
+  "num_followers": 1476488,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2026-03-09 01:53:54",
       "album": {
-        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
-        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
-        }
-      ],
-      "duration_ms": 181931,
-      "name": "Yosei",
-      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
-    },
-    {
-      "added_at": "2026-03-09 01:53:54",
-      "album": {
         "name": "Do the Right Thing",
         "url": "https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 121320,
       "name": "Do the Right Thing",
       "url": "https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw"
+    },
+    {
+      "added_at": "2026-03-09 01:53:54",
+      "album": {
+        "name": "\u5ca1\u6f54 (Oka Kiyoshi)",
+        "url": "https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 181931,
+      "name": "Yosei",
+      "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"
     },
     {
       "added_at": "2026-03-09 01:53:54",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-03-09 01:53:54",
       "album": {
-        "name": "Next to Nothing (Instrumental)",
-        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
-      },
-      "artists": [
-        {
-          "name": "SoulChef",
-          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
-        }
-      ],
-      "duration_ms": 110500,
-      "name": "Next to Nothing - Instrumental",
-      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
-    },
-    {
-      "added_at": "2026-03-09 01:53:54",
-      "album": {
         "name": "Scintillate",
         "url": "https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 173367,
       "name": "Scintillate",
       "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
+    },
+    {
+      "added_at": "2026-03-09 01:53:54",
+      "album": {
+        "name": "Next to Nothing (Instrumental)",
+        "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
+      },
+      "artists": [
+        {
+          "name": "SoulChef",
+          "url": "https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS"
+        }
+      ],
+      "duration_ms": 110500,
+      "name": "Next to Nothing - Instrumental",
+      "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
     },
     {
       "added_at": "2026-03-09 01:53:54",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-03-09 01:53:54",
       "album": {
+        "name": "DIAMONDS & FREAKS (Instrumentals)",
+        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 269474,
+      "name": "ADAM & EVE - Instrumental",
+      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+    },
+    {
+      "added_at": "2026-03-09 01:53:54",
+      "album": {
         "name": "Syn Fonia I",
         "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
@@ -931,22 +951,18 @@
     {
       "added_at": "2026-03-09 01:53:54",
       "album": {
-        "name": "DIAMONDS & FREAKS (Instrumentals)",
-        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
       },
       "artists": [
         {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
         }
       ],
-      "duration_ms": 269474,
-      "name": "ADAM & EVE - Instrumental",
-      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2026-03-09 01:53:54",
@@ -983,22 +999,6 @@
       "duration_ms": 144040,
       "name": "6F Encounters",
       "url": "https://open.spotify.com/track/0RgB0efZJi6NR17fAi0uNH"
-    },
-    {
-      "added_at": "2026-03-09 01:53:54",
-      "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2026-03-09 01:53:54",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2026-03-09 01:53:54",
       "album": {
-        "name": "Tarde Invernal",
-        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
-      },
-      "artists": [
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        },
-        {
-          "name": "Fourth Dogma",
-          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
-        }
-      ],
-      "duration_ms": 142004,
-      "name": "Tarde Invernal",
-      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
-    },
-    {
-      "added_at": "2026-03-09 01:53:54",
-      "album": {
         "name": "Hip Shop",
         "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 123008,
       "name": "Hip Shop",
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+    },
+    {
+      "added_at": "2026-03-09 01:53:54",
+      "album": {
+        "name": "Tarde Invernal",
+        "url": "https://open.spotify.com/album/6dA8kioLgf0NRxEnrSLhWb"
+      },
+      "artists": [
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        },
+        {
+          "name": "Fourth Dogma",
+          "url": "https://open.spotify.com/artist/7gkPPSM2bTubro2wyEM4Xi"
+        }
+      ],
+      "duration_ms": 142004,
+      "name": "Tarde Invernal",
+      "url": "https://open.spotify.com/track/4son9tHQEmD5NK9JNGdtlf"
     },
     {
       "added_at": "2026-03-09 01:53:54",
@@ -1475,18 +1475,26 @@
     {
       "added_at": "2026-03-09 01:53:54",
       "album": {
-        "name": "CELEBRATION OF JAY 3",
-        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+        "name": "reminisce",
+        "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
       },
       "artists": [
         {
           "name": "DJ Mitsu The Beats",
           "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        },
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kzyboost",
+          "url": "https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Rostrum",
-      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+      "duration_ms": 169074,
+      "name": "reminisce",
+      "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
     }
   ],
   "unique_name": "Mellow Beats",

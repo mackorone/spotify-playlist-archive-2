@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-395 songs - 1 day 1 hr 23 min
+396 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Eyes Awake](https://open.spotify.com/track/3kBrbSrj7r9HCoK9Oj8lXg) | [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Pedals EP](https://open.spotify.com/album/7IMIsDQTXTeDQPcnoCbtrm) | 3:17 | 2025-11-06 |  |
 | [Faber](https://open.spotify.com/track/4e2nmTfgZCxrtJM7TqVsxo) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 3:27 | 2024-10-04 | 2025-09-09 |
 | [Faber Sanctum](https://open.spotify.com/track/22zhB8qvcx0oU45xmiWCY9) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Faber / Faber Sanctum](https://open.spotify.com/album/6IoW1Q2cLI4iYlaKC2enrk) | 4:49 | 2024-10-04 | 2025-01-14 |
-| [Faber Sanctum](https://open.spotify.com/track/2y83ldCh9YYX51YZPoWkpq) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:49 | 2025-08-15 |  |
+| [Faber Sanctum](https://open.spotify.com/track/2y83ldCh9YYX51YZPoWkpq) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:49 | 2025-08-15 | 2026-03-11 |
 | [Faber Sanctum \- Hollie Kenniff Remix](https://open.spotify.com/track/1EGVMPMBKFXHuCGgYPu3fm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS) | [Joy Paradox \(The Remixes: Part 1\)](https://open.spotify.com/album/1nC3QvjO9DOUJHHwMl1vR2) | 3:54 | 2025-06-09 |  |
 | [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 | 2024-04-12 | 2025-01-15 |
 | [Fading Anxieties \- Live](https://open.spotify.com/track/1wi3a3iGp9MWMDbDYN3Wtx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox \(Live From The Old Church, London\)](https://open.spotify.com/album/0z2zcHxM919kVAgQKFrdqX) | 4:53 | 2025-02-14 | 2025-08-16 |
@@ -226,6 +226,7 @@
 | [Love Theme](https://open.spotify.com/track/1DMr37TKEP4rkcHB1SqiSf) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Love Theme](https://open.spotify.com/album/4I5taBmvjorPJIJKLj306W) | 4:03 | 2025-01-13 | 2026-03-04 |
 | [Loved](https://open.spotify.com/track/2rIDrqcliMqD8AydNA4Tmc) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 4:03 | 2025-01-13 | 2025-08-16 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-12 | 2024-05-04 |
+| [loving softly \- Electronic](https://open.spotify.com/track/6cwnFXGKaeHpSlPm5vrlH3) | [Emma Jackson](https://open.spotify.com/artist/2c8d4XeZ3rL9RTtzd6VXpW), [Alex Hoevelmann](https://open.spotify.com/artist/1kemW8RV4rWrwTSHLWXxuz) | [loving softly \(Electronic\)](https://open.spotify.com/album/6pJYsxVdITumJQH44YPqZk) | 4:20 | 2026-03-10 |  |
 | [lucid dreaming \- piano + strings version](https://open.spotify.com/track/4LU63Abn0WWtOyVQ99CcdF) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [earlyyears reimagined \(deluxe\)](https://open.spotify.com/album/0A9Yxob8MfFqhsUg6Ejk4a) | 5:35 | 2024-12-06 | 2025-02-22 |
 | [Lullaby](https://open.spotify.com/track/42JAAxcC3JsDy432WmE20Q) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 5:48 | 2025-07-18 |  |
 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 | 2023-12-08 | 2025-03-01 |

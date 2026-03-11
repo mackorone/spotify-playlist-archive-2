@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 153202,
+  "num_followers": 153208,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Seja Para Mim (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 181129,
-      "name": "Seja Para Mim - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 225600,
       "name": "True To Myself",
       "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
+        "name": "Seja Para Mim (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4py0EMy1CITQBCWso9zV0w"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 181129,
+      "name": "Seja Para Mim - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1GKEM5KnfB07YrtTE7l6ft"
     },
     {
       "added_at": "2025-09-26 03:01:17",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
+        "name": "Is This Love (Cover) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O"
+      },
+      "artists": [
+        {
+          "name": "Luana Camarah",
+          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
+        }
+      ],
+      "duration_ms": 232071,
+      "name": "Is This Love (Cover) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
         "name": "Mar\u00e9 Cheia",
         "url": "https://open.spotify.com/album/05CKBbHojCcLRBz4X96ik8"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 197121,
       "name": "Mar\u00e9 Cheia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3oByoGmRulhrK0h9Il19w0"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
-        "name": "Is This Love (Cover) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O"
-      },
-      "artists": [
-        {
-          "name": "Luana Camarah",
-          "url": "https://open.spotify.com/artist/6xm9J4N1mGbGydqfeRZH7G"
-        }
-      ],
-      "duration_ms": 232071,
-      "name": "Is This Love (Cover) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/18F79JBZvBDdI7FmRtFEEh"
     },
     {
       "added_at": "2025-09-26 03:01:17",

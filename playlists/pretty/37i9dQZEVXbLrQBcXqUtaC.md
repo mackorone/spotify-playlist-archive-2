@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,094 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,095 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 20 | [متى نقدر على فرقاكم \- MSH Remix](https://open.spotify.com/track/5ewAJC7GLvXNw1GUYhVRYu) | [AKSIYAT Studio](https://open.spotify.com/artist/2hPkJvmNUMxLH0lz3fJUbv), [MSH](https://open.spotify.com/artist/1bfmSj95h1xoy6QGe5A6YF) | [متى نقدر على فرقاكم \(MSH Remix\)](https://open.spotify.com/album/5OUrev7dYXNvqusA32dQKO) | 3:18 |
 | 21 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
 | 22 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
-| 23 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
+| 23 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 |
 | 24 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 25 | [Hbnah Antaha](https://open.spotify.com/track/1CduYZngHRf3rlSpn5sdB7) | [Mohamad Abdel Jabar](https://open.spotify.com/artist/1cWnsJEnx8LcSFJrsCqa0x), [Ali Bader](https://open.spotify.com/artist/74UVX9PGjQ3Hw5ZvDCKcM8) | [Hbnah Antaha](https://open.spotify.com/album/73B6jAxkcAopkWl3GSOXTc) | 6:40 |
 | 26 | [El Nawayia](https://open.spotify.com/track/4U1x7nzBsSLmvH3cTAYNg9) | [Said El Zkhozmany](https://open.spotify.com/artist/0CteiGcqwl063T8BeOW1Iv) | [El Nawayia](https://open.spotify.com/album/3UnPlv35vAUuQ3AhfGiZew) | 3:32 |
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 31 | [\(When You Gonna\) Give It Up to Me \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
 | 32 | [هذا دمعك](https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP) | [Tayseer Al Safeer](https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa) | [هذا دمعك](https://open.spotify.com/album/0l2Eu4K6rnobVzoRiXQZo9) | 4:51 |
 | 33 | [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
-| 34 | [Join Me In Death](https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance \(Deluxe Remastered Edition\)](https://open.spotify.com/album/7tRL0nif9woiO3r7iLl3iD) | 3:36 |
+| 34 | [Join Me \- Razorblade Mix](https://open.spotify.com/track/5ooqCHqs4axSJbWqIHfKfB) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance](https://open.spotify.com/album/4TGbiYOokXYDtgnw7yKC5N) | 3:36 |
 | 35 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 36 | [Habibi Howa](https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Habibi Howa](https://open.spotify.com/album/6CFZmeFJVAuc3Bc1rEVJb9) | 4:55 |
 | 37 | [Apocalypse](https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 4:50 |
 | 38 | [القدر جابك](https://open.spotify.com/track/600lrMpRgxotex7UnTYBpa) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [القدر جابك](https://open.spotify.com/album/5HUXikww10Pu3o6kPD09J2) | 3:42 |
 | 39 | [Jabaha Le Ahlo](https://open.spotify.com/track/5Wran1wG54f2w0tnV8BmBI) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Jabaha Le Ahlo](https://open.spotify.com/album/0sy0PPYClrTSRGz8CCFmTT) | 2:47 |
 | 40 | [NO BATIDÃO \- Slowed](https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:47 |
-| 41 | [Cry](https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/63yRRBtLX8eqbOLD6f0y9U) | 4:16 |
+| 41 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
 | 42 | [Meno Elertah](https://open.spotify.com/track/0mNSTCbtyrIZqohkfMd7Gq) | [Amar Ahmed](https://open.spotify.com/artist/2SrkwD9S6ULNoEguMJ5ToB) | [Meno Elertah](https://open.spotify.com/album/4kjxI81PqJuRk9c4tJY07z) | 4:55 |
 | 43 | [Hay El Zalayl](https://open.spotify.com/track/5gNAluu4a5nDClPI5pDAoV) | [Shela](https://open.spotify.com/artist/5XX0kc57VhO7VSWcWXAFM9) | [Hay El Zalayl](https://open.spotify.com/album/23LI78ZPOMCVobdxvbRF1H) | 3:21 |
 | 44 | [Ahki Ya Tareekh](https://open.spotify.com/track/2yjOEcmukC84C56uEoDn3k) | [Safaa Saad](https://open.spotify.com/artist/48i3mDZOjCQqUHRtVRRD0D) | [Ahki Ya Tareekh](https://open.spotify.com/album/54nwniswDwMHFi7HKn6Rb4) | 6:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLrQBcXqUtaC.md) - [plain]
 | 49 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 50 | [Habeby Baeny Lak Damaa](https://open.spotify.com/track/42HETXMG4PwLo5oa3hoYhi) | [Qasim Alsultan](https://open.spotify.com/artist/0nzvKMw8qlFzWIUq7aNhPL) | [Habeby Baeny Lak Damaa](https://open.spotify.com/album/0wnxOHhvqVHxF2xsvmAXqx) | 4:18 |
 
-Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`

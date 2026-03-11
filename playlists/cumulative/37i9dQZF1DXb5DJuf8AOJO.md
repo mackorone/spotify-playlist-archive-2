@@ -4,7 +4,7 @@
 
 > Lift our voices to Him.
 
-269 songs - 16 hr 28 min
+270 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Sa Dapit Hapon](https://open.spotify.com/track/57ie1v7vVgIf2T2JWfGTBP) | [Junjun Borres SJ](https://open.spotify.com/artist/1BnJunaw1qqocuvdCHQSRI), [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2) | [Purihi't Pasalamatan \(Mga Piling Awitin Ni Fr\. Honti Handog Ng Himig Heswita\)](https://open.spotify.com/album/6PEUoD8gghE0vi7qzGXKuJ) | 4:12 | 2025-04-12 | 2025-04-21 |
 | [Sa Hapag Ng Panginoon](https://open.spotify.com/track/5h3hHg9tDnnET1KjmTtSCE) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Tinapay Ng Buhay \(Mga Bagong Awiting Pangmisa\)](https://open.spotify.com/album/0hpX5mAcXTuHfZinhpsVAc) | 2:24 | 2023-05-27 | 2024-04-19 |
 | [Sa Hapag Ng Panginoon](https://open.spotify.com/track/5lvhBwTDQYR2GBe1vdBJ3f) | [Jesuit Music Ministry](https://open.spotify.com/artist/1uuFddQffRild1ln1W0u8v) | [Our Hope of Glory \(Songs for the Eucharist\)](https://open.spotify.com/album/4fppZuXqHNrNFF6siuGtnJ) | 2:26 | 2023-05-27 |  |
+| [Sa Likod Ng Lahat \(Kwento Ni Jose \- Genesis 50\)](https://open.spotify.com/track/4RIbPQ7VYzoK9CweByguLv) | [Kalayaan Worship](https://open.spotify.com/artist/3DdT82k1FWl1YbPTyu0D7h) | [Sa Likod Ng Lahat \(Kwento Ni Jose \- Genesis 50\)](https://open.spotify.com/album/2boIF58gYBNLc3s7vvAFEr) | 4:58 | 2026-03-10 |  |
 | [Sa Pasko Sasapit Din](https://open.spotify.com/track/5u40x4t7UUsUJ37sqAsXjL) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Sa Pasko Sasapit Din](https://open.spotify.com/album/5a39rVj8mAStHAcUhTxWfN) | 5:48 | 2024-11-25 | 2025-12-15 |
 | [Sa Templo ng Diyos](https://open.spotify.com/track/0O3NqAYsFvzrbdzCljjWSn) | [Pansol Choir](https://open.spotify.com/artist/5F5L19pYLUx3cjhT4baMEZ) | [Tubig at Liwanag \(Mga Awitin Para sa Pagdiriwang at Paggawad ng mga Sakramento\)](https://open.spotify.com/album/52hU76MBzQPTnKlnlxqzmP) | 3:45 | 2025-04-12 | 2025-04-21 |
 | [Sa'Yong Pangalan](https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up) | [Sa'Yong Pangalan](https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR) | 3:41 | 2023-05-27 |  |

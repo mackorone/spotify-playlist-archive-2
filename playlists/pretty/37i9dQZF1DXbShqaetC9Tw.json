@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147867,
+  "num_followers": 147854,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
+        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
+        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
+      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 227353,
       "name": "CALL ME BACK",
       "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
-        "name": "\ub85c\ub9e8\uc2a4\ub294 \ubcc4\ucc45\ubd80\ub85d OST Part.1",
-        "url": "https://open.spotify.com/album/5ouASCTRr1UL6S5g9k9C1R"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "\ub098\ub294 \ubcfc \uc218 \uc5c6\ub358 \uc774\uc57c\uae30",
-      "url": "https://open.spotify.com/track/4SPZfnF7tn4Sfcv3iTjKCu"
     },
     {
       "added_at": "2026-01-23 02:28:33",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-01-23 02:28:33",
       "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
+    },
+    {
+      "added_at": "2026-01-23 02:28:33",
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 212840,
       "name": "Poker (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
-    },
-    {
-      "added_at": "2026-01-23 02:28:33",
-      "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
     },
     {
       "added_at": "2026-01-23 02:28:33",

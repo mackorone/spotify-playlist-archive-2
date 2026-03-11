@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack 🫧  </a>   Cover: waterbaby
 
-3,720 songs - 8 day 11 hr 39 min
+3,721 songs - 8 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1212,6 +1212,7 @@
 | [G.I.R.L.](https://open.spotify.com/track/5vpC87nKOdqAXHEzM4X4BL) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [G.I.R.L.](https://open.spotify.com/album/6LHoSmYwvVq6hNHvKhy6Ck) | 2:42 | 2025-04-25 | 2025-09-24 |
 | [Gainsayer](https://open.spotify.com/track/4NjCWIufPR1ygVSNOpyBP4) | [Hollis Howard](https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq) | [Gainsayer](https://open.spotify.com/album/38ZUbp3MOVnqZeSCLgiT4L) | 2:30 | 2025-10-17 |  |
 | [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-13 | 2025-07-12 |
+| [Gemini Eyes](https://open.spotify.com/track/6BXUGrMChRpa4jXpUJWseE) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 4:59 | 2026-03-10 |  |
 | [Genesis](https://open.spotify.com/track/2whpmafYrsKIIeqwdSCjj1) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Genesis](https://open.spotify.com/album/2okSmN83SWjZXl1Fgqwt4S) | 4:29 | 2021-03-18 | 2021-07-23 |
 | [Gentleman](https://open.spotify.com/track/55FCJLORvnx3gbA5BLNHXk) | [Lonely Pirate Committee](https://open.spotify.com/artist/2vsjCgyBZaH29ekrJRrpf2) | [Gentleman](https://open.spotify.com/album/4C3xU3ky500oslwuJPv16X) | 2:42 | 2023-03-24 | 2023-04-09 |
 | [Georgia Peach \(Sketch\)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach \(Sketch\)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 | 2021-07-17 | 2021-11-13 |

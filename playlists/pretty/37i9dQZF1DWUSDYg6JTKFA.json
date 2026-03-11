@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 212111,
+  "num_followers": 212122,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Though I Walk",
+        "url": "https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy"
+      },
+      "artists": [
+        {
+          "name": "Tekoa",
+          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
+        }
+      ],
+      "duration_ms": 254445,
+      "name": "Though I Walk",
+      "url": "https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Something You Can Be Proud Of",
         "url": "https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 208172,
       "name": "Something You Can Be Proud Of",
       "url": "https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "Though I Walk",
-        "url": "https://open.spotify.com/album/43lH22LlJmyiY2c9WxCKgy"
-      },
-      "artists": [
-        {
-          "name": "Tekoa",
-          "url": "https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI"
-        }
-      ],
-      "duration_ms": 254445,
-      "name": "Though I Walk",
-      "url": "https://open.spotify.com/track/7GTawGOmJHsHz3cBhpma9W"
     },
     {
       "added_at": "2025-12-13 23:46:05",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2025-12-13 23:46:05",
       "album": {
+        "name": "Christmas: The Peace Project",
+        "url": "https://open.spotify.com/album/6f6C3n1O2O6z5wDvwVBG2o"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 274386,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/6dQAlNaiqvRFb3fCyn8Qf2"
+    },
+    {
+      "added_at": "2025-12-13 23:46:05",
+      "album": {
         "name": "Halfway Empty",
         "url": "https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw"
       },
@@ -1839,22 +1859,6 @@
       "duration_ms": 202960,
       "name": "It's Gonna Get Better",
       "url": "https://open.spotify.com/track/0Bp1lUqyvL2uGDS1GOJTm3"
-    },
-    {
-      "added_at": "2025-12-13 23:46:05",
-      "album": {
-        "name": "My Light",
-        "url": "https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 147390,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5"
     }
   ],
   "unique_name": "Hold Hope",

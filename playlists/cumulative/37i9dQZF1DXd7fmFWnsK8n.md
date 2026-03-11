@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-166 songs - 11 hr 42 min
+167 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [DESTINY](https://open.spotify.com/track/5uSgEKvV4swXwWG109kCMm) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:37 | 2022-06-09 | 2022-07-29 |
 | [DIAMOND FUSION](https://open.spotify.com/track/4Gjmzcq9XJReCWl4wiyULk) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Heavenly Visitor / DIAMOND FUSION](https://open.spotify.com/album/2zJdW8ocEayG7miC7CZaIL) | 3:57 | 2022-06-09 | 2026-03-06 |
 | [DIAMOND FUSION](https://open.spotify.com/track/3JqN8blZpThioKYqirQXX5) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 3:57 | 2023-03-07 | 2023-05-24 |
-| [Dis one.](https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:59 | 2022-06-09 |  |
+| [Dis one.](https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:59 | 2022-06-09 | 2026-03-11 |
 | [DiSCOVER THE FUTURE](https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 3:41 | 2022-06-09 | 2023-05-30 |
 | [Don't Analyze Me](https://open.spotify.com/track/0CmAuHBBggyxEhpy5KIxzG) | [Torao Mido \(CV: Takashi Kondo\)](https://open.spotify.com/artist/4ywzIhLH7AjkcGSusAEf3I), [Minami Natsume \(CV: Koutaro Nishiyama\)](https://open.spotify.com/artist/28IIr1lXeCP14LA8DGFjuu) | [Don't Analyze Me](https://open.spotify.com/album/178aKYr4lSpWQsBDFItDQJ) | 3:41 | 2024-04-01 | 2024-04-19 |
 | [Don't Analyze Me](https://open.spotify.com/track/3HQAz5xbHddYgKSyqVlyEe) | [御堂虎於 \(CV.近藤 隆\)](https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H), [棗 巳波 \(CV.西山宏太朗\)](https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj) | [Don't Analyze Me](https://open.spotify.com/album/6h7S3OGLFlGfebxIDahy8K) | 3:41 | 2024-04-16 |  |
@@ -84,6 +84,7 @@
 | [My Precious World](https://open.spotify.com/track/2BBSxqfQ0Tl24L9smDc7Yb) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [My Precious World](https://open.spotify.com/album/7Hl7VHWsWdBRFe7pS2OrXk) | 3:37 | 2022-06-09 | 2023-02-19 |
 | [NAGISA Night Temperature](https://open.spotify.com/track/1LhynTgZFTgmdCQbpETE0S) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [THE POLiCY](https://open.spotify.com/album/1ne9rypmcOkXuw251cVaAC) | 3:39 | 2022-06-09 | 2022-07-29 |
 | [NATSU☆しようぜ!](https://open.spotify.com/track/22r4nAGU4E9hZMDD0AfyWI) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SECRET NIGHT](https://open.spotify.com/album/4NNXje0vFMRdepgyK9sp7C) | 5:09 | 2022-06-09 | 2022-07-28 |
+| [NAVIGATOR:](https://open.spotify.com/track/70YXK5UcjBp74yOZKNwhRk) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NAVIGATOR:](https://open.spotify.com/album/3u1xs9zPQSgdCcf5JxUEUj) | 3:29 | 2026-03-10 |  |
 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/1LgBFKxJLtN9InWxHRCCth) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 | 2022-08-30 |  |
 | [NiGHTFALL](https://open.spotify.com/track/4Q4R3WUd3DntZTApoIbI4N) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 3:51 | 2023-05-24 | 2026-02-03 |
 | [NO DOUBT](https://open.spotify.com/track/3a1YngFQXMRL0qyYUKVdGt) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NO DOUBT](https://open.spotify.com/album/4rWk8ApWuufjAhA6KuXveM) | 4:51 | 2022-06-14 | 2022-11-12 |

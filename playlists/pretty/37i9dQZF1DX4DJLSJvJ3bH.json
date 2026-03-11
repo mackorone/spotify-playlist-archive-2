@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 143866,
+  "num_followers": 143853,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/7tgNFofwM5Vc81t3fF6m8r"
-      },
-      "artists": [
-        {
-          "name": "The 52nd Street Club",
-          "url": "https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU"
-        }
-      ],
-      "duration_ms": 154242,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/6Ii4dVFX3MyZiroqSHQjJf"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Candy Canes and Silver Lanes",
         "url": "https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 223151,
       "name": "Candy Canes and Silver Lanes",
       "url": "https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/7tgNFofwM5Vc81t3fF6m8r"
+      },
+      "artists": [
+        {
+          "name": "The 52nd Street Club",
+          "url": "https://open.spotify.com/artist/43g6zwUUuWLCPXDidr6rfU"
+        }
+      ],
+      "duration_ms": 154242,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/6Ii4dVFX3MyZiroqSHQjJf"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The Boar's Head Carol",
-        "url": "https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb"
-      },
-      "artists": [
-        {
-          "name": "Trio Serena",
-          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
-        }
-      ],
-      "duration_ms": 199315,
-      "name": "The Boar's Head Carol",
-      "url": "https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Tis the season",
         "url": "https://open.spotify.com/album/02lApfaX6ADtpenYYHS3nC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 214596,
       "name": "Tis the season",
       "url": "https://open.spotify.com/track/7lA5vslbewlQUi7gRiAbOJ"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "The Boar's Head Carol",
+        "url": "https://open.spotify.com/album/6KMnu9pR2hmYwBP3kDClYb"
+      },
+      "artists": [
+        {
+          "name": "Trio Serena",
+          "url": "https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z"
+        }
+      ],
+      "duration_ms": 199315,
+      "name": "The Boar's Head Carol",
+      "url": "https://open.spotify.com/track/76MGFBv1q0lxsEE6p1Is7t"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The Christmas Song",
-        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
-      },
-      "artists": [
-        {
-          "name": "Elysia Biro",
-          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
-        }
-      ],
-      "duration_ms": 167178,
-      "name": "The Christmas Song - Cheery & Bright",
-      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "The North Pole Express",
         "url": "https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 170000,
       "name": "The North Pole Express",
       "url": "https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "duration_ms": 167178,
+      "name": "The Christmas Song - Cheery & Bright",
+      "url": "https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
+      },
+      "artists": [
+        {
+          "name": "Reese Quartet",
+          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
+        }
+      ],
+      "duration_ms": 101102,
+      "name": "I Saw Mommy Kissing Santa Claus",
+      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "Jazz For Joy: A Verve Christmas Album",
         "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 280933,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/1DOc7OmsfnU8rGsy5peQK8"
-      },
-      "artists": [
-        {
-          "name": "Reese Quartet",
-          "url": "https://open.spotify.com/artist/715TpfLaAurJfQk8CjhKsm"
-        }
-      ],
-      "duration_ms": 101102,
-      "name": "I Saw Mommy Kissing Santa Claus",
-      "url": "https://open.spotify.com/track/3JRdORtD13sQanAdu9DlbB"
     },
     {
       "added_at": "2025-12-19 14:00:54",

@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20659,
+  "num_followers": 20663,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Beach Song (Demo)",
-        "url": "https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 195111,
-      "name": "Beach Song - Demo",
-      "url": "https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "overcast.",
         "url": "https://open.spotify.com/album/3tmyZ0mfZnt0PcppHQZtnN"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 208995,
       "name": "with u.",
       "url": "https://open.spotify.com/track/1Ny8RoE9nPqyM3xfMjwR81"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Beach Song (Demo)",
+        "url": "https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh"
+      },
+      "artists": [
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "duration_ms": 195111,
+      "name": "Beach Song - Demo",
+      "url": "https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 247098,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "COMING DOWN",
         "url": "https://open.spotify.com/album/4w2NbxPIchUvu7u7xMwx5Z"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 199453,
       "name": "COMING DOWN",
       "url": "https://open.spotify.com/track/09Z3vqWLXnpCytqf3vZfEy"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/06tCjWV7YTgQJsyyJPBqby"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 247098,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/67kM8ng5MbvmsilnkcjLGD"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -575,26 +575,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "SE17",
-        "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        },
-        {
-          "name": "Danny Chaska",
-          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "SE17",
-      "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "BAD TASTE",
         "url": "https://open.spotify.com/album/6LLp1IJkmp1LD8xyQ9FOLc"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 192026,
       "name": "Introverted Stoner",
       "url": "https://open.spotify.com/track/3HhZdVVUChJnjjn1P6j4nQ"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "SE17",
+        "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        },
+        {
+          "name": "Danny Chaska",
+          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "SE17",
+      "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "money",
-        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 178536,
-      "name": "money",
-      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Super Sad Generation",
         "url": "https://open.spotify.com/album/3rbmTsfJugRoFghKELgGUe"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 187626,
       "name": "I Like",
       "url": "https://open.spotify.com/track/5BgfodYBmppmlfR8kEuBFT"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "money",
+        "url": "https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "money",
+      "url": "https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Raining Colours",
+        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "Raining Colours",
+      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Life's a Bitch, I Just Need an Early Night",
         "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 232573,
       "name": "Ride With Me",
       "url": "https://open.spotify.com/track/2lwAsn4XY3SANeoL3U7F92"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Raining Colours",
-        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
-      },
-      "artists": [
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "Raining Colours",
-      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1019,6 +1019,58 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Trouble Sleeping",
+        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
+      },
+      "artists": [
+        {
+          "name": "Ross Carlo",
+          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Trouble Sleeping",
+      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk"
+      },
+      "artists": [
+        {
+          "name": "The Silhouettes Project",
+          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
+        },
+        {
+          "name": "Karl Benjamin",
+          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
+        },
+        {
+          "name": "Elisa Imperilee",
+          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
+        },
+        {
+          "name": "Purple Cloud",
+          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
+        },
+        {
+          "name": "Jordan Tait",
+          "url": "https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee"
+        },
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "duration_ms": 214939,
+      "name": "Shade",
+      "url": "https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Further Out Than The Edge",
         "url": "https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2"
       },
@@ -1071,58 +1123,6 @@
       "duration_ms": 207830,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk"
-      },
-      "artists": [
-        {
-          "name": "The Silhouettes Project",
-          "url": "https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw"
-        },
-        {
-          "name": "Karl Benjamin",
-          "url": "https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs"
-        },
-        {
-          "name": "Elisa Imperilee",
-          "url": "https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj"
-        },
-        {
-          "name": "Purple Cloud",
-          "url": "https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl"
-        },
-        {
-          "name": "Jordan Tait",
-          "url": "https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee"
-        },
-        {
-          "name": "Alabaster DePlume",
-          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
-        }
-      ],
-      "duration_ms": 214939,
-      "name": "Shade",
-      "url": "https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Trouble Sleeping",
-        "url": "https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7"
-      },
-      "artists": [
-        {
-          "name": "Ross Carlo",
-          "url": "https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Trouble Sleeping",
-      "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Summer 17",
-        "url": "https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4"
-      },
-      "artists": [
-        {
-          "name": "Elijah Waters",
-          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
-        },
-        {
-          "name": "Jeshi",
-          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
-        }
-      ],
-      "duration_ms": 181161,
-      "name": "Summer 17",
-      "url": "https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Lagoon",
         "url": "https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 288000,
       "name": "Lagoon",
       "url": "https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Summer 17",
+        "url": "https://open.spotify.com/album/5M75VygWOzLrY2MwK1sdl4"
+      },
+      "artists": [
+        {
+          "name": "Elijah Waters",
+          "url": "https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 181161,
+      "name": "Summer 17",
+      "url": "https://open.spotify.com/track/7t1Oz20dDYMjyvyrbIKqI5"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "give it to me",
-        "url": "https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt"
-      },
-      "artists": [
-        {
-          "name": "Akemi Fox",
-          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
-        }
-      ],
-      "duration_ms": 165148,
-      "name": "give it to me",
-      "url": "https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "26% MIXTAPE",
         "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "A Lot",
-        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
+        "name": "give it to me",
+        "url": "https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt"
       },
       "artists": [
         {
-          "name": "0RACL3",
-          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+          "name": "Akemi Fox",
+          "url": "https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f"
         }
       ],
-      "duration_ms": 167507,
-      "name": "A Lot",
-      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
+      "duration_ms": 165148,
+      "name": "give it to me",
+      "url": "https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1511,6 +1495,22 @@
       "duration_ms": 184658,
       "name": "Feeling Like",
       "url": "https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "A Lot",
+        "url": "https://open.spotify.com/album/4gqebsvvLe0YDGpgArclZ0"
+      },
+      "artists": [
+        {
+          "name": "0RACL3",
+          "url": "https://open.spotify.com/artist/5ngejTpnC2HYvbgLwXSmNc"
+        }
+      ],
+      "duration_ms": 167507,
+      "name": "A Lot",
+      "url": "https://open.spotify.com/track/1KKoEoTZOJT0M6urH5eNip"
     },
     {
       "added_at": "2025-08-07 15:52:15",

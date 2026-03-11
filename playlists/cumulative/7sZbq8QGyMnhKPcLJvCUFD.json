@@ -12277,6 +12277,28 @@
     },
     {
       "album": {
+        "name": "PRETEND",
+        "url": "https://open.spotify.com/album/3m8iVraaWeu5x0aVLHog9f"
+      },
+      "artists": [
+        {
+          "name": "RezaDead",
+          "url": "https://open.spotify.com/artist/0x9bzpifUdZFBQw7R1UWPT"
+        },
+        {
+          "name": "prodcrucial",
+          "url": "https://open.spotify.com/artist/0EDZR0iQpx69eoXs1ETZC0"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104727,
+      "name": "PRETEND",
+      "url": "https://open.spotify.com/track/2TCakdqhxjNeQ9zLskVGSd"
+    },
+    {
+      "album": {
         "name": "pretty afternoon",
         "url": "https://open.spotify.com/album/2zp91IQGRApR3FDJ6wsPC7"
       },

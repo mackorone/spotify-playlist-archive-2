@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mary Middlefield",
-  "num_followers": 46313,
+  "num_followers": 46300,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "3/10",
-        "url": "https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA"
-      },
-      "artists": [
-        {
-          "name": "Emma Rose",
-          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
-        }
-      ],
-      "duration_ms": 142101,
-      "name": "3/10",
-      "url": "https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "venedig",
         "url": "https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 205389,
       "name": "venedig",
       "url": "https://open.spotify.com/track/6wtaikaFM89NrXfXvKYTYv"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "3/10",
+        "url": "https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA"
+      },
+      "artists": [
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "duration_ms": 142101,
+      "name": "3/10",
+      "url": "https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl"
     },
     {
       "added_at": "2026-03-06 09:09:52",

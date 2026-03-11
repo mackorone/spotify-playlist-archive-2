@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-499 songs - 1 day 2 hr 22 min
+500 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Snow Angels](https://open.spotify.com/track/2gXMJFkJziWpOV5BVGNKfY) | [Blackmajic](https://open.spotify.com/artist/2E7JfpHr5S3CepjpL4Dt6C), [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [Snow Angels](https://open.spotify.com/album/2L1rT5fyQ1SUNZHPEei8gr) | 2:44 | 2024-05-28 | 2025-08-13 |
 | [Snow In Sweden](https://open.spotify.com/track/0drASf0itVnhlkcD0hHfsp) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Snow In Sweden](https://open.spotify.com/album/25N7jpmW7GFaB4H3yWRdxt) | 2:38 | 2023-06-14 | 2026-03-01 |
 | [Snow In Sweden \- Orchestral Cover](https://open.spotify.com/track/57ojBkTzWmDMDsqVJzYJKP) | [MetaArchion](https://open.spotify.com/artist/7CvkeLyEIzGdsUNPet1l2P) | [Schizophrenia](https://open.spotify.com/album/5umhDCK3Btxe4JDgN9YHX0) | 3:45 | 2024-07-14 |  |
+| [So Long](https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [So Long](https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz) | 4:15 | 2026-03-10 |  |
 | [So Right](https://open.spotify.com/track/1BJ4cnNwfJx1N9TQ1V7EcW) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See This Day Come](https://open.spotify.com/album/5IzQnzMlWwLsjYxdlKSw4y) | 2:56 | 2025-08-01 |  |
 | [SOLO SO LONG!](https://open.spotify.com/track/1Z8ZEL5VBsrv3isNOiGVXu) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [SOLO SO LONG!](https://open.spotify.com/album/53bry5BJ4ftArb1VROy0fu) | 2:23 | 2024-11-18 |  |
 | [SOLO SO LONG!](https://open.spotify.com/track/7v80olCrhPZNuaERNfhAQW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:23 | 2025-02-03 |  |

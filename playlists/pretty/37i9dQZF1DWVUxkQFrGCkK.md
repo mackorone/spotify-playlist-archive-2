@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,517 likes - 407 songs - 1 day 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,542 likes - 407 songs - 1 day 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 2 | [Soaring](https://open.spotify.com/track/113cu0K2xzpqcpBctJTibp) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Soaring](https://open.spotify.com/album/3zUu0Qc8wG9PUQUbxXppfh) | 7:06 |
 | 3 | [\*uck the system](https://open.spotify.com/track/7fxd0LokITEfc9Be7TOoLi) | [ELEVEN \(FR\)](https://open.spotify.com/artist/6OYDyeW538Vq7Bw4vaEq80) | [\*uck the system](https://open.spotify.com/album/69tPesrOynLvVxbVEW3qOV) | 6:01 |
 | 4 | [Blessings \(Joy\)](https://open.spotify.com/track/2pMHly34TFOMvHvg739V5p) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T) | [Blessings \(Joy\)](https://open.spotify.com/album/5GaAOlAQFv1kqDatrtxSV6) | 3:31 |
-| 5 | [Que Calor, Que Calor](https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Que Calor, Que Calor](https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU) | 3:19 |
+| 5 | [Que Calor, Que Calor](https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Que Calor, Que Calor](https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU) | 3:19 |
 | 6 | [THE FUTURE](https://open.spotify.com/track/0a6J8LAco1q92ts0VZtQz7) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [THE FUTURE](https://open.spotify.com/album/7q8nLE8CIcTYzgOqxsjwuw) | 2:27 |
 | 7 | [Who We Are](https://open.spotify.com/track/2mVdpISQZ6t68996oRYtJB) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Jonas Dufrasne](https://open.spotify.com/artist/3KXc7YmZlke23gpXtq9wlj) | [Who We Are](https://open.spotify.com/album/1oJhoDNS51S7HU2uBQXJtm) | 3:00 |
 | 8 | [On My Mind](https://open.spotify.com/track/4OqCbJgaxx0VuL8Q7leohP) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [On My Mind](https://open.spotify.com/album/1JsWPuCub4zigHwKxlGAxI) | 4:19 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 75 | [Waitin'](https://open.spotify.com/track/0bruK7CIEhyQO8tzeRTnjg) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Waitin'](https://open.spotify.com/album/06N9nd3RaU5EwoiO9PyMtN) | 3:44 |
 | 76 | [House Is Forever](https://open.spotify.com/track/0HnHjxOcIM6rdCnhTpvraQ) | [Nautik](https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [96 Vibe](https://open.spotify.com/artist/6Pp3ySHcICUvfC37zrhDwI) | [House Is Forever](https://open.spotify.com/album/5B2Dxv49QbZxtG3G1qzUWM) | 3:11 |
 | 77 | [Georgy Porgy](https://open.spotify.com/track/4qvIafWqMySjIcs4BXRxhh) | [Bensy](https://open.spotify.com/artist/5bL6DC0g37boJqvYx1Ofom), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Georgy Porgy](https://open.spotify.com/album/0YBBIur2BuquuDvAZNJksJ) | 2:56 |
-| 78 | [Campanera](https://open.spotify.com/track/48PDWlo207BD9XDRZzFhR7) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [Campanera](https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U) | 2:39 |
+| 78 | [Campanera](https://open.spotify.com/track/48PDWlo207BD9XDRZzFhR7) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [Campanera](https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U) | 2:39 |
 | 79 | [Too Young](https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Ewerseen](https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG) | [Too Young](https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4) | 2:55 |
 | 80 | [Forever](https://open.spotify.com/track/4DP4KfzglVNm2zDZOqzOcO) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Anthony P\. \(CH\)](https://open.spotify.com/artist/4Wt3mqf25oan0sL0CsC75B), [Lacey](https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz) | [Forever](https://open.spotify.com/album/5RaZxJ78jQVGz4F4YYWiNU) | 2:57 |
 | 81 | [Emizamo Yame \- Remix](https://open.spotify.com/track/7BPVKBNs6XHsMowcrA8RYd) | [Escape Deep](https://open.spotify.com/artist/1vL1PKPuiIig3FFUqHz7b1) | [I See The light](https://open.spotify.com/album/1x9LmVZYO7pM3Zi6R0eY6d) | 6:11 |

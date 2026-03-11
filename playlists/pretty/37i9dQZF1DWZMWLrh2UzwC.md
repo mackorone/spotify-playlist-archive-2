@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Harry Styles, Ramlah Ram, Dayang Nurfaizah, Aisha Retno, Sarah Suhairi,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,260 likes - 118 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,256 likes - 118 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 27 | [恆溫浪漫](https://open.spotify.com/track/1uRCQJC5wVl8JbfJ5jsK7n) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [恆溫浪漫](https://open.spotify.com/album/2MHcbeetdkzqQq1MPVb8vJ) | 2:53 |
 | 28 | [Nak Balik Raya](https://open.spotify.com/track/4mUUGyHkV5bXBweF3IOu0e) | [Achey](https://open.spotify.com/artist/2w3pEU3DbPptoLrT45usqN), [Anne](https://open.spotify.com/artist/3W3JovBaRZsYyIWY2FslWq), [Tiara](https://open.spotify.com/artist/1MAJ3MIIgxJNNRWlsnbCPo) | [Nak Balik Raya](https://open.spotify.com/album/0mjMmpYcUQvpuPQ6pZYX8W) | 4:01 |
 | 29 | [Si Dara Raya](https://open.spotify.com/track/3MKv4IyHAd1GSdWCbrhefa) | [Aufahanie](https://open.spotify.com/artist/1pAkkbRUYGfOyd1gwxnk7C) | [Si Dara Raya](https://open.spotify.com/album/6Di51Si0RTxuhP9jAnk5T2) | 2:46 |
-| 30 | [Raya Tak Nak Single](https://open.spotify.com/track/6TOSNdoGaI0GG8KJyNhrjy) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [Merrah](https://open.spotify.com/artist/3nJriKGQMihXPG3AJ1gnNL) | [Raya Tak Nak Single](https://open.spotify.com/album/4WzuBKkn5M01W9cCmjkWYa) | 2:59 |
+| 30 | [Raya Tak Nak Single](https://open.spotify.com/track/6TOSNdoGaI0GG8KJyNhrjy) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [Merrah](https://open.spotify.com/artist/3nJriKGQMihXPG3AJ1gnNL) | [Raya Tak Nak Single](https://open.spotify.com/album/4WzuBKkn5M01W9cCmjkWYa) | 2:54 |
 | 31 | [No One Can](https://open.spotify.com/track/5HEKj8vmOnF51YvQTYaqGP) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [No One Can](https://open.spotify.com/album/1JhZcvJzYtJvOsyaiOeS5w) | 2:36 |
 | 32 | [下一個你](https://open.spotify.com/track/5UJPhXmu7vQktcpuXJVmRX) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [下一個你](https://open.spotify.com/album/4Lc1Rq7CNluXxdivSPxyuQ) | 4:25 |
 | 33 | [I Always Knew](https://open.spotify.com/track/3795oPflx7wwOBKJC462ao) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I Always Knew](https://open.spotify.com/album/7zFrN4PbAIWP85Atr17wvi) | 3:42 |

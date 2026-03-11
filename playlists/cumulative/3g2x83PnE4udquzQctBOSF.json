@@ -2803,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "El Baile de Carlito",
+        "url": "https://open.spotify.com/album/7qWXaz2mgOMsomrpwAzcgT"
+      },
+      "artists": [
+        {
+          "name": "Carlito",
+          "url": "https://open.spotify.com/artist/3nZReQzzyTIXP692DUqhxD"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123977,
+      "name": "El Baile de Carlito",
+      "url": "https://open.spotify.com/track/6E8VN9DP3RzSv5R8m0K0UM"
+    },
+    {
+      "album": {
         "name": "El Mundo (The Cube Guys Mix)",
         "url": "https://open.spotify.com/album/211GpUDZSpVWGOd47XSaRY"
       },

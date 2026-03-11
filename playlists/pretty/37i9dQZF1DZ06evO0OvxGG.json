@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8944,
+  "num_followers": 8956,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aay8AAAAAAD+eobpY57BIx3B4Ay7VKf0",
+  "snapshot_id": "aa4NgAAAAADGKVf1P3UMP6XyP4LT1fEY",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face Card",
+        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
+      },
+      "artists": [
+        {
+          "name": "Mc Soffia",
+          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Face Card",
+      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doces ou Travessuras",
         "url": "https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 154630,
       "name": "Doces ou Travessuras",
       "url": "https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face Card",
-        "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
-      },
-      "artists": [
-        {
-          "name": "Mc Soffia",
-          "url": "https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Face Card",
-      "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosmo e Wanda",
         "url": "https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 132710,
       "name": "Cosmo e Wanda",
       "url": "https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
     },
     {
       "added_at": null,
@@ -999,6 +999,30 @@
       "duration_ms": 148000,
       "name": "A Jogada Que \u00c9 Foda",
       "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00d4NUS TRACK",
+        "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "b o u t",
+          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
+        },
+        {
+          "name": "Brasil Grime Show",
+          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "B\u00d4NUS TRACK",
+      "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
     },
     {
       "added_at": null,
@@ -1063,30 +1087,6 @@
       "duration_ms": 135521,
       "name": "O PAPO",
       "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B\u00d4NUS TRACK",
-        "url": "https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "b o u t",
-          "url": "https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41"
-        },
-        {
-          "name": "Brasil Grime Show",
-          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "B\u00d4NUS TRACK",
-      "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
     }
   ],
   "unique_name": "This Is Slipmami",

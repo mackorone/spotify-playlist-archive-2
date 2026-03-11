@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,505 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,535 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 7 | [Lift Your Face to the Sun](https://open.spotify.com/track/5uL82AKeh1A2E0Fec82bD3) | [Echo Juliet](https://open.spotify.com/artist/3wYwtyXxJ3MbTDNKl6IRif) | [Lift Your Face to the Sun](https://open.spotify.com/album/7ARsNEngy69Qabo58LIa3Q) | 3:38 |
 | 8 | [Becoming One](https://open.spotify.com/track/3s2YgR2wqln3Q69YubN3Nc) | [Decoder](https://open.spotify.com/artist/1IURUyIPZTz2yxRdFinPoD) | [Prakasa](https://open.spotify.com/album/7fvj5d1RIua3AN5tnJ8JHW) | 5:54 |
 | 9 | [daydream](https://open.spotify.com/track/7F8DbKBW1nZdhNU66jrsOK) | [nextdimensional](https://open.spotify.com/artist/3zDlEDZXauNcVpmq9FUrUD) | [daydream](https://open.spotify.com/album/2Ffq3guztfuDOY4adOEu5P) | 3:02 |
-| 10 | [－－ ··－ ·－·· － ·· ·－－· ·－·· ·－ －·－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ··－ ·－·· － ·· ·－－· ·－·· ·－ －·－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 |
+| 10 | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 |
 | 11 | [Superimposed](https://open.spotify.com/track/4IN5KXB45pLDjSwkPLgtwQ) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Superimposed](https://open.spotify.com/album/4n3Mq8t9tK0g12FUgx70Zo) | 3:07 |
 | 12 | [Ghi\-Ta \(Elin Piel Remix\)](https://open.spotify.com/track/05j5WvxwSGuAfTH3bZXyvq) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E), [Elin Piel](https://open.spotify.com/artist/3zVDpnuUhxYYCYyTccvdTY) | [Tết 41 \(Remixes, Pt.1\)](https://open.spotify.com/album/4i09tMahJcaoZrfCX2ws8U) | 6:14 |
 | 13 | [Love Languages](https://open.spotify.com/track/3ZgNp3Eu8Qx8UmSdnJILtK) | [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa) | [Wagenmuzik 2](https://open.spotify.com/album/4112se9p86vUJXzn2Z7ckn) | 4:06 |

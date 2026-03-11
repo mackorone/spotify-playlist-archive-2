@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 816859,
+  "num_followers": 816948,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "The Very Best Of William Bell",
+        "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
+      },
+      "artists": [
+        {
+          "name": "William Bell",
+          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Summer Breeze - The Best Of",
         "url": "https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 203373,
       "name": "War",
       "url": "https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "The Very Best Of William Bell",
-        "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
-      },
-      "artists": [
-        {
-          "name": "William Bell",
-          "url": "https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR"
-        }
-      ],
-      "duration_ms": 140733,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
     },
     {
       "added_at": "2024-07-02 22:47:47",

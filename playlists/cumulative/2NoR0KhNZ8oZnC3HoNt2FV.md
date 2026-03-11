@@ -4,7 +4,7 @@
 
 > 
 
-1,279 songs - 2 day 23 hr 3 min
+1,280 songs - 2 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Mark Of The Beast](https://open.spotify.com/track/3AaoowqKXRmPfVkRfd3dxp) | [The Boogie Monsters](https://open.spotify.com/artist/0EQwmVPWv7c1Gy07jF2D4J) | [Riders Of The Storm: The Underwater Album](https://open.spotify.com/album/73aze1Rvy8M7wdTGssL7rO) | 4:20 | 2023-11-30 | 2024-08-08 |
 | [Marmalade \(feat\. Lil Yachty\)](https://open.spotify.com/track/0RYXEibxMami3QuT8kn4Iz) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Marmalade \(feat\. Lil Yachty\)](https://open.spotify.com/album/5jt7rVzPCZjbS9odrmiqZj) | 4:21 | 2024-01-25 | 2025-03-28 |
 | [Mask Off](https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2) | 3:24 | 2024-01-25 | 2025-03-28 |
+| [masked up \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/6tuVceHAyUCDRhbEC2634b) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:16 | 2026-03-10 |  |
 | [Master Of Philosophy](https://open.spotify.com/track/2V5WWpKkKButfStvGcjiHl) | [Awesome Dre](https://open.spotify.com/artist/5fUGmhe7PmMfjsgQNJbD30), [The Hard Core Committee](https://open.spotify.com/artist/2cUd2UgPS7aVkjJ5HMxjOw) | [You Can't Hold Me Back](https://open.spotify.com/album/4nDwoEvQrpNKvEPv6vrhpq) | 3:09 | 2023-11-30 | 2024-08-08 |
 | [MDMA \(feat\. Destroy Lonely\)](https://open.spotify.com/track/2Hw0ohkjJVPXOc4y0iUqkt) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 3:48 | 2025-05-08 | 2025-06-04 |
 | [Me N My Kup](https://open.spotify.com/track/0hhNTyH6RJJGItHeSMCof3) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:54 | 2024-01-25 | 2024-02-07 |

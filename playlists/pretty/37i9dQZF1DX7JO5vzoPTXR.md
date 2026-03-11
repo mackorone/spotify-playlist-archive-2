@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:artist:60LfX8q7jliswygVxBPIL4">Rita Wilson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,615 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,622 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [Grandma's Song](https://open.spotify.com/track/4lMybtvZLyN4Zogl7DoWNu) | [Gail Davies](https://open.spotify.com/artist/1y8dFCzQRfgHZvjsUsYGjV) | [Gail Davies Greatest Hits](https://open.spotify.com/album/5NtohdYYqfGS9o3JUOzpBx) | 4:03 |
 | 50 | [More](https://open.spotify.com/track/2U0xhn59OdwhnvQwrijjHr) | [Bekah Bossard](https://open.spotify.com/artist/76Xmq6oQ26hyBCPsZ6kNg4) | [More](https://open.spotify.com/album/1BcSyEeBZE5vfefSRlrYaL) | 2:58 |
 
-Snapshot ID: `AAAAAHNAUJ8nzNTKHq2zY+Nt3QENQtg/`
+Snapshot ID: `AAAAAAK6R8XjW9FvIx/zeYRt7YOHYynH`

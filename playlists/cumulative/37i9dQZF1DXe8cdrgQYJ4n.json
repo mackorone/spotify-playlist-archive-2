@@ -676,7 +676,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 153546,
       "name": "Doll",
       "url": "https://open.spotify.com/track/6fwJK9YeEwoBVbxtWg0wbo"
@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/0ndTHRw7Cy3y5iIJA6VayW"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220845,
+      "name": "Fly away",
+      "url": "https://open.spotify.com/track/4uh6rj3FryYQXMz9zLqDKL"
+    },
+    {
+      "album": {
         "name": "Four Seasons",
         "url": "https://open.spotify.com/album/3ublKZHu1qjU9ujf9A4zhH"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 214778,
       "name": "Get It? (feat.HA:TFELT, Cheetah)",
       "url": "https://open.spotify.com/track/4OLpu3EcgdcBExx0z0gq75"
@@ -1600,6 +1618,24 @@
       "duration_ms": 150269,
       "name": "I \u2260 DOLL",
       "url": "https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa"
+    },
+    {
+      "album": {
+        "name": "My Voice - The 1st Album",
+        "url": "https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214594,
+      "name": "I'm OK",
+      "url": "https://open.spotify.com/track/0rHnkLIGf54WbwMW6cyVoP"
     },
     {
       "album": {

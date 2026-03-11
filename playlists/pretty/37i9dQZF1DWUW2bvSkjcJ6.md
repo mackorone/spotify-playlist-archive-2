@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Harry Styles, Sarah Connor, Zartmann, Jazeek & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,179 likes - 88 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,148 likes - 88 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

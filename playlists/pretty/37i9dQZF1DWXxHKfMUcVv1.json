@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 126689,
+  "num_followers": 126695,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
-        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
-      },
-      "artists": [
-        {
-          "name": "El Monchi Papa",
-          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
-        }
-      ],
-      "duration_ms": 215981,
-      "name": "Una Cerveza",
-      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Armadura De Rosas",
         "url": "https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 189733,
       "name": "En Un Solo Dia",
       "url": "https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
+        "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
+      },
+      "artists": [
+        {
+          "name": "El Monchi Papa",
+          "url": "https://open.spotify.com/artist/7n20wi37wBgwQbqabzrMTB"
+        }
+      ],
+      "duration_ms": 215981,
+      "name": "Una Cerveza",
+      "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "I Will Be: Like Big Stars!",
+        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
+      },
+      "artists": [
+        {
+          "name": "Chapa C",
+          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "No Llores por M\u00ed",
+      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Paso la Vida Pensando",
         "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 242277,
       "name": "Paso la Vida Pensando",
       "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "I Will Be: Like Big Stars!",
-        "url": "https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn"
-      },
-      "artists": [
-        {
-          "name": "Chapa C",
-          "url": "https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "No Llores por M\u00ed",
-      "url": "https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Estamos Solos (Nderehe'y)",
-        "url": "https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 174461,
-      "name": "Estamos Solos (Nderehe'y)",
-      "url": "https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1LAAMDXoeGYZkOsW8omDwW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 204950,
       "name": "Me Haces Falta",
       "url": "https://open.spotify.com/track/2p5HdaHUaVSpIhSyqSAGjG"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "Estamos Solos (Nderehe'y)",
+        "url": "https://open.spotify.com/album/1KMbrF7GXhwWcslv5BgjbH"
+      },
+      "artists": [
+        {
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
+        }
+      ],
+      "duration_ms": 174461,
+      "name": "Estamos Solos (Nderehe'y)",
+      "url": "https://open.spotify.com/track/7KTWO0fIqXdsX1XDtUIzWu"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "UNA CUMBITA",
-        "url": "https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az"
-      },
-      "artists": [
-        {
-          "name": "Qmbia Base",
-          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
-        }
-      ],
-      "duration_ms": 135157,
-      "name": "UNA CUMBITA",
-      "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Viernes De Pe\u00f1a",
         "url": "https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 203911,
       "name": "Viernes De Pe\u00f1a",
       "url": "https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
+        "name": "UNA CUMBITA",
+        "url": "https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Base",
+          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
+        }
+      ],
+      "duration_ms": 135157,
+      "name": "UNA CUMBITA",
+      "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
     },
     {
       "added_at": "2025-03-14 20:46:39",

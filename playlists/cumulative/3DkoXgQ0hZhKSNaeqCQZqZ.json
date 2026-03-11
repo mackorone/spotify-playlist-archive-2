@@ -7799,6 +7799,24 @@
     },
     {
       "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz"
+      },
+      "artists": [
+        {
+          "name": "YonKaGor",
+          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255079,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h"
+    },
+    {
+      "album": {
         "name": "See This Day Come",
         "url": "https://open.spotify.com/album/5IzQnzMlWwLsjYxdlKSw4y"
       },

@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 233002,
       "name": "Conmigo Te Gust\u00f3",
       "url": "https://open.spotify.com/track/5HlgCSzypWjzrQwfmEJNwW"
@@ -3874,7 +3874,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
@@ -4078,6 +4078,24 @@
       "duration_ms": 226808,
       "name": "Fue Dif\u00edcil",
       "url": "https://open.spotify.com/track/3R6zKiVOHM9WdnL8PvtrKK"
+    },
+    {
+      "album": {
+        "name": "PRELUDIOS (EN VIVO)",
+        "url": "https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207485,
+      "name": "FUE ELLA, FUI YO - EN VIVO",
+      "url": "https://open.spotify.com/track/4oe4Yi4dv1rviTg6w2kLj0"
     },
     {
       "album": {
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 284214,
       "name": "Lo Que Me Duele / Y Que Pas\u00f3",
       "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"

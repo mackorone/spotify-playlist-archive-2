@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: B.I\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-811 songs - 1 day 19 hr 18 min
+812 songs - 1 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [BEBE](https://open.spotify.com/track/6mrdTsiYQs9KzemKKu2Rx5) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [BIPOLAR](https://open.spotify.com/album/7jfWOLdcSrB7Q4TgRFDwXZ) | 3:05 | 2022-06-18 | 2022-06-26 |
 | [Because](https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Because](https://open.spotify.com/album/5uwBi26yP09mvt51AAQtY9) | 3:16 | 2022-04-01 | 2026-02-08 |
 | [Because I Was Young](https://open.spotify.com/track/5pGCRUSMcQ5OrezFaDxKHq) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Because I Was Young](https://open.spotify.com/album/0l7iV8S15L6uJyAJwjKn3u) | 3:16 | 2022-04-21 | 2022-07-28 |
-| [Beer \(Prod.Way Ched\)](https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Dingo X Ambition Musik](https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF) | 4:00 | 2022-07-24 |  |
+| [Beer \(Prod.Way Ched\)](https://open.spotify.com/track/3w9HSuLDejveVS9G8Qj8i0) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Dingo X Ambition Musik](https://open.spotify.com/album/3naaXqEfJnwlSqyFshTwlF) | 4:00 | 2022-07-24 | 2026-03-11 |
 | [being friends suck](https://open.spotify.com/track/3ZheaNstMAwG3uTbAoaZCG) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [GirlFrenD](https://open.spotify.com/artist/3HFox5DosAsJrKOwfwTf2A) | [Look! What Happened To Love?!](https://open.spotify.com/album/2ovR3PGbVdHUMikX20rb8L) | 3:09 | 2022-04-21 | 2022-07-13 |
 | [BENTLEY 1.5](https://open.spotify.com/track/6SlV6daW2N2f15CdsZGzBB) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BENTLEY 1.5](https://open.spotify.com/album/0Rl5epGTAzSWPA1eQqwfh5) | 3:13 | 2022-05-11 | 2022-06-11 |
 | [Better \(Feat\. Kid Milli\)](https://open.spotify.com/track/7AbeCCLtnoKOUib6OWnYi8) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Dry Flower](https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII) | 2:51 | 2022-04-21 | 2022-07-27 |
@@ -530,6 +530,7 @@
 | [Out Of Control \(feat\. Austn\)](https://open.spotify.com/track/69d5Z6u2fUgVZjQ1RnGqed) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Out Of Control Vol.1](https://open.spotify.com/album/79Qt6gWXEzQsK7Kyg41KnH) | 2:32 | 2022-05-03 | 2022-05-06 |
 | [OUT OF MY SIGHT](https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:26 | 2022-04-01 |  |
 | [Over You](https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Over You](https://open.spotify.com/album/5rr6ZH6LQckgwvHaIgPsPI) | 3:27 | 2023-11-21 | 2024-04-21 |
+| [Over You](https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa) | [Focused On Getting Rich](https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u) | 2:18 | 2026-03-03 |  |
 | [Pajama](https://open.spotify.com/track/0rtUHxLBR3MARvki4YVOzL) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [TENT 0.3](https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J) | 2:39 | 2024-09-03 | 2024-09-28 |
 | [paper boat](https://open.spotify.com/track/2EHXqLKcjzkYCKAiDyP2bk) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [paper boat](https://open.spotify.com/album/39jkwBVutZlFtwgIQkj1UB) | 2:56 | 2022-05-02 | 2022-05-04 |
 | [PARADISE](https://open.spotify.com/track/7riZNAVLKYzFLm64xbiZ7f) | [XIMON](https://open.spotify.com/artist/6Qdp2kbFRfYvQg5v8dHC9O) | [ch :P aradise](https://open.spotify.com/album/6OaGjU88ks32JtMomuQkcO) | 3:17 | 2022-05-05 | 2022-06-16 |

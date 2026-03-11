@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Harry Styles, LDA e Aka 7even,  Manuel Turizo e Maluma, Shakira e Beéle, Mambolosco e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,501 likes - 78 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,493 likes - 78 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

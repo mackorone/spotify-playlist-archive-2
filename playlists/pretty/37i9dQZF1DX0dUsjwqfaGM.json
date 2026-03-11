@@ -611,6 +611,22 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "duration_ms": 220023,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
         "name": "Leo Th\u0103ng",
         "url": "https://open.spotify.com/album/50qdwg6GoEAZpWDCmIJcBN"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 163200,
       "name": "Leo Th\u0103ng",
       "url": "https://open.spotify.com/track/0lL8WwEu7WGPDTQ7GP5IxR"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
-      },
-      "artists": [
-        {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
-        }
-      ],
-      "duration_ms": 220023,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
     },
     {
       "added_at": "2025-10-09 12:00:33",

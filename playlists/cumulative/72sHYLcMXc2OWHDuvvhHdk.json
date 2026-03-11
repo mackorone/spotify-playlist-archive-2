@@ -30189,6 +30189,24 @@
     },
     {
       "album": {
+        "name": "Sous la lune, le murmure",
+        "url": "https://open.spotify.com/album/2D6vwUM0azExiKsB7JmZdY"
+      },
+      "artists": [
+        {
+          "name": "Gigakript",
+          "url": "https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264742,
+      "name": "Sous la lune, le murmure",
+      "url": "https://open.spotify.com/track/1F7g51N0nafLXuALdyKJyJ"
+    },
+    {
+      "album": {
         "name": "Underground network",
         "url": "https://open.spotify.com/album/3uGuo9Iv88kmWnuuS87grd"
       },

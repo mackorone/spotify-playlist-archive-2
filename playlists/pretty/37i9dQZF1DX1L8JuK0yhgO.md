@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,350 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,348 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 24 | [I'm here if you need to talk](https://open.spotify.com/track/68kvc7qArMNBT5em82sVY8) | [Redhair Rosy](https://open.spotify.com/artist/1pVPvwB8EJnIDue4y5Oukc) | [turn red Ⅲ](https://open.spotify.com/album/6029J45XsKKm1BkyhFd76b) | 4:08 |
 | 25 | [ex](https://open.spotify.com/track/5qx9EKFwV4vpPqekCtcYDC) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [ex](https://open.spotify.com/album/1nqOC4m8naK1xHod6C0rfC) | 3:02 |
 | 26 | [GYAKUTEN](https://open.spotify.com/track/143ijJE50lp5Rz0YzoT6iI) | [Miyauchi](https://open.spotify.com/artist/3aj6QgNq3sqlvW2PvB3bCB), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Uka Death Audio](https://open.spotify.com/artist/2WZwiCQE0bEwW97gwygxfN) | [GYAKUTEN](https://open.spotify.com/album/6m6O8uB0avx9Cn6mDaK4ly) | 3:07 |
-| 27 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
+| 27 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Alenoise](https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
 | 28 | [HOP](https://open.spotify.com/track/6ULU5crk1Z1evN02IyWcyd) | [SpiderWeb](https://open.spotify.com/artist/32D17rve5oq3kWoTnJLkhn) | [HOP](https://open.spotify.com/album/4K2o1N6q3V8B3feLSI8d1a) | 4:07 |
 | 29 | [昼間の仕事は医者](https://open.spotify.com/track/6xj1nnfv345ksNUZAkVse3) | [SAWANO](https://open.spotify.com/artist/0qQEGyjYbm0fhniH5nK9We) | [BORN TO RAP](https://open.spotify.com/album/2RMwP6TiJVo9ZBL67qQjhM) | 1:44 |
 | 30 | [シックス・センス](https://open.spotify.com/track/5Z0UjhMDaoV2bjWOP8bCwQ) | [KUROJI](https://open.spotify.com/artist/5w6ay1VQsRfo8guXEyqlKK) | [YODARE](https://open.spotify.com/album/20jZzW3lVnsExmtA6ebT74) | 2:30 |

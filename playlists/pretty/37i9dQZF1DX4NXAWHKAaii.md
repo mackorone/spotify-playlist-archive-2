@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 
 > <a href="spotify:artist:2GZ0VsYD0N5Gb3EOIELa1N">PAUZA</a>'s favorite tracks\. Updated regularly\. Curated by PAUZA\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,984 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,991 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NXAWHKAaii.md) - [plain]
 | 45 | [Chan Chan](https://open.spotify.com/track/0K4Cv55G86CAGt2wwRIceK) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Joao del Monte](https://open.spotify.com/artist/7pMIhJRnRP1wg1rAW3wy9v) | [Chan Chan](https://open.spotify.com/album/4TFMCF9Z7ZYvvlLcMRFzxD) | 5:18 |
 | 46 | [Una Rumbita](https://open.spotify.com/track/6P5A8mP5ZzbL45TLzM3jSM) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [UNA RUMBITA](https://open.spotify.com/album/7MEq6HCRcNFJ2oCz0ZA2tf) | 5:44 |
 | 47 | [Papito \- Original Mix](https://open.spotify.com/track/03cDj7vjorCifiqK34OazI) | [Jimmix](https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Hilda Candela](https://open.spotify.com/artist/1RcnRurCt4IP3mKNOr0Qp0) | [Papito](https://open.spotify.com/album/6Q8vZDsYwN3Unqc8KE6ZHy) | 3:27 |
-| 48 | [Lágrimas \- Havana Vibes Edit](https://open.spotify.com/track/0Du9Rs1VvtSp5alK7gxp2D) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2) | [Lágrimas \(Feat\. Argentina\)](https://open.spotify.com/album/177yb1Pg2TGtIAO7pHzvPX) | 4:05 |
+| 48 | [Lágrimas \- Havana Vibes Edit](https://open.spotify.com/track/0Du9Rs1VvtSp5alK7gxp2D) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Argentina](https://open.spotify.com/artist/7dZexQj3iCyp7wr690gnf2) | [Lágrimas \(Feat\. Argentina\)](https://open.spotify.com/album/177yb1Pg2TGtIAO7pHzvPX) | 4:05 |
 | 49 | [Mtna \- Caiiro Remix](https://open.spotify.com/track/3EzoA0Df1lWtUfH3oQSmO1) | [Juan Soul](https://open.spotify.com/artist/1x2NSv0cluaH397VPX0Pfz), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Mtna EP](https://open.spotify.com/album/0s1BUEvb0ox4v0e2GCEd8H) | 7:07 |
 | 50 | [Tropicana](https://open.spotify.com/track/157jn2YkxNcPZcG2dZZJz8) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Cucu Diamantes](https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz) | [Tropicana](https://open.spotify.com/album/3AJMgWuKwAUHvG0eJpaWDC) | 3:51 |
 

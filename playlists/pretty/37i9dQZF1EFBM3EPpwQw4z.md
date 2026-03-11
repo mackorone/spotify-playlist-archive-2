@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 14 | [Ride Tonight \(feat\. KLP\)](https://open.spotify.com/track/6FKP7jqm9NPCflDjvGECDi) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Ride Tonight \(feat\. KLP\)](https://open.spotify.com/album/3Pv9SwCrvmN49a0p0LGvML) | 2:57 |
 | 15 | [Heater](https://open.spotify.com/track/7953uVZSJG2MJGYOrilJDr) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:53 |
 | 16 | [Standing Too Close](https://open.spotify.com/track/0YI4yEe1LAFYhJq3J2sOS4) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v) | [Standing Too Close](https://open.spotify.com/album/0bvnoBq3jC1yQSdyO8CfKf) | 3:22 |
-| 17 | [Never Be the Same](https://open.spotify.com/track/1ZvykrNUPMZ4cNwGTcK5NB) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Never Be the Same](https://open.spotify.com/album/0Qoilkt1L6Do1In2oVOpDO) | 3:13 |
-| 18 | [Rave Cave](https://open.spotify.com/track/7aYONhQEt4yhpLYtY6RGz9) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:31 |
+| 17 | [Rave Cave](https://open.spotify.com/track/7aYONhQEt4yhpLYtY6RGz9) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:31 |
+| 18 | [Never Be the Same](https://open.spotify.com/track/1ZvykrNUPMZ4cNwGTcK5NB) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Never Be the Same](https://open.spotify.com/album/0Qoilkt1L6Do1In2oVOpDO) | 3:13 |
 | 19 | [Swear I Lost Myself](https://open.spotify.com/track/46juGXFzApK5CRGsXvOKFu) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:46 |
 | 20 | [What's a Gremlin?](https://open.spotify.com/track/3wWdJGv0iqFJRQ82Uixaiu) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [What's a Gremlin?](https://open.spotify.com/album/3HTO3cw9wh1ia9n9aryWhm) | 2:20 |
 | 21 | [Forever](https://open.spotify.com/track/3ZwfRF6AAbJP0oUYwxjsmc) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [THE SHELL](https://open.spotify.com/album/3LdW3SGS1DixlVsNMHGeui) | 2:41 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBM3EPpwQw4z.md) - [plain]
 | 102 | [For Myself](https://open.spotify.com/track/7pZVOPDehm7pTj9LFsOH9s) | [Jjoska](https://open.spotify.com/artist/30jtQ4tZS8uBg285avUmBb) | [For Myself](https://open.spotify.com/album/1UA45mIsnhI4y021tUbhnw) | 4:50 |
 | 103 | [Bye from Diver City](https://open.spotify.com/track/6Xcqc0mPY3hTysRngiyMd1) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:13 |
 
-Snapshot ID: `AcLs4AAAAADaJH5jkNclko8MwEPnrBPv`
+Snapshot ID: `AcLybAAAAACVSNM6svXrMhfjerenlSaS`

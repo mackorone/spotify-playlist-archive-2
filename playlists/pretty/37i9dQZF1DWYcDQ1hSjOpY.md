@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,113,017 likes - 396 songs - 17 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,145,882 likes - 396 songs - 17 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -405,4 +405,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 395 | [Cycle of Now](https://open.spotify.com/track/3w0V2WdrKnHFe0zmd67Haj) | [Edge of Dreams](https://open.spotify.com/artist/5MhtcKdd5DHUpE0FvQFrBF) | [Cycle of Now](https://open.spotify.com/album/2Qcv3NtZkyLHXqHuO2mAOz) | 3:00 |
 | 396 | [Landscaphoria](https://open.spotify.com/track/6PGLOo7LvIi9bI971dJ4MY) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Landscaphoria](https://open.spotify.com/album/0gmUKcE9Yge2dNbtkn9fEg) | 2:55 |
 
-Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`
+Snapshot ID: `AAAAANxWJERtj2tbk+ooyPGUwv397Xpz`

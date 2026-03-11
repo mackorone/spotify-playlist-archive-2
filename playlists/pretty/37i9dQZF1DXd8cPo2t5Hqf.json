@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 409887,
+  "num_followers": 409951,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
-        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
-      },
-      "artists": [
-        {
-          "name": "Noboru",
-          "url": "https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f",
-      "url": "https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Eight -THE BEST OF \u516b\u738b\u5b50P-",
         "url": "https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 234637,
       "name": "Sweet Devil - Eight Mix",
       "url": "https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
+        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
+      },
+      "artists": [
+        {
+          "name": "Noboru",
+          "url": "https://open.spotify.com/artist/2GKOMrDQ4GrdZjoQncM7w1"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "\u767d\u3044\u96ea\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u306f",
+      "url": "https://open.spotify.com/track/0WqE9VjtUmgohp92X7xiq9"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Neko seT",
-        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
-      },
-      "artists": [
-        {
-          "name": "daniwellP",
-          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
-        }
-      ],
-      "duration_ms": 234404,
-      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "39 (feat. \u521d\u97f3\u30df\u30af)",
         "url": "https://open.spotify.com/album/5kGi7b284QLCIhuwXMHnHf"
       },
@@ -1375,22 +1359,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u7a7a\u60f3\u30e1\u30e2\u30e9\u30a4\u30ba",
-        "url": "https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm"
+        "name": "Neko seT",
+        "url": "https://open.spotify.com/album/4ukngdwnH2UhFiCLi42c2y"
       },
       "artists": [
         {
-          "name": "Marasy",
-          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+          "name": "daniwellP",
+          "url": "https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe"
         }
       ],
-      "duration_ms": 234306,
-      "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
+      "duration_ms": 234404,
+      "name": "\u306d\u3053\u307f\u307f\u30b9\u30a4\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/53FFoxXnk2eWxvSiywyVFw"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1411,6 +1391,26 @@
       "duration_ms": 200900,
       "name": "\u3042\u308a\u3075\u308c\u305f\u305b\u304b\u3044\u305b\u3044\u3075\u304f feat.\u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/6Cxzd8UyB28Grofsy17tfF"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u7a7a\u60f3\u30e1\u30e2\u30e9\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm"
+      },
+      "artists": [
+        {
+          "name": "Marasy",
+          "url": "https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30dc\u30fc\u30ca\u30b9\uff3c(^o^)\uff0f",
-        "url": "https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb"
-      },
-      "artists": [
-        {
-          "name": "Owata-P",
-          "url": "https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP"
-        }
-      ],
-      "duration_ms": 178412,
-      "name": "\u7247\u60f3\u3044\u30b5\u30f3\u30d0",
-      "url": "https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Lots of Love (feat. \u521d\u97f3\u30df\u30af)",
         "url": "https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 215066,
       "name": "Lol (Lots of Laugh)",
       "url": "https://open.spotify.com/track/2sigTDjOwoSnwJ9PAXOgwj"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u30dc\u30fc\u30ca\u30b9\uff3c(^o^)\uff0f",
+        "url": "https://open.spotify.com/album/2JvA2EhijU6V23sWTcgJjb"
+      },
+      "artists": [
+        {
+          "name": "Owata-P",
+          "url": "https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP"
+        }
+      ],
+      "duration_ms": 178412,
+      "name": "\u7247\u60f3\u3044\u30b5\u30f3\u30d0",
+      "url": "https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "ReRections",
+        "url": "https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t"
+      },
+      "artists": [
+        {
+          "name": "Dios/signalP",
+          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
+        }
+      ],
+      "duration_ms": 277137,
+      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
+      "url": "https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "\u4eba\u755c\u7121\u5bb3\u301c\u3055\u3064\u304d \u304c \u3066\u3093\u3053\u3082\u308a feat.\u521d\u97f3\u30df\u30af\u301c",
         "url": "https://open.spotify.com/album/2yGbhI9dsXfYSLK2hYlOpv"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 291693,
       "name": "\u30cd\u30c8\u30b2\u5ec3\u4eba\u30b7\u30e5\u30d7\u30ec\u30d2\u30b3\u30fc\u30eb feat.\u521d\u97f3\u30df\u30af",
       "url": "https://open.spotify.com/track/21114vcsL9bjdl1aV62t8h"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "ReRections",
-        "url": "https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t"
-      },
-      "artists": [
-        {
-          "name": "Dios/signalP",
-          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
-        }
-      ],
-      "duration_ms": 277137,
-      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
-      "url": "https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo"
     },
     {
       "added_at": "2021-05-26 02:37:36",

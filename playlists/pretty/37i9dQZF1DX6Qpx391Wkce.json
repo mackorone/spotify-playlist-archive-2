@@ -1,15 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:2xeHjPrS4EnEUIXHV9pkeg\">Monika Kruse</a>'s favorite tracks. Updated regularly. Curated by Monika Kruse. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 63663,
+  "num_followers": 63676,
   "original_name": "Monika Kruse's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPudtNrwJvoyygoAjnrnmtetWnO",
+  "snapshot_id": "AAAAAHPlYxAWUZ6tGyhiHREUdGvQpwfB",
   "tracks": [
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Route 27 (Alex Stein & Victor Ruiz Remix)",
         "url": "https://open.spotify.com/album/7KeYHBj26e3EXB6ZxK5HJD"
@@ -33,7 +33,87 @@
       "url": "https://open.spotify.com/track/1KcoibEQeIEFodYDTWJ9Bn"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Berghain (Remix)",
+        "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 154954,
+      "name": "Berghain - Remix",
+      "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Crushed",
+        "url": "https://open.spotify.com/album/0CsyN4VfFZSIE3j7TOmnOI"
+      },
+      "artists": [
+        {
+          "name": "Mario Ochoa",
+          "url": "https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg"
+        }
+      ],
+      "duration_ms": 214325,
+      "name": "Crushed",
+      "url": "https://open.spotify.com/track/0z2ZqJJT5ZHoNJEcBZOhB9"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Kontrol & Konfusion",
+        "url": "https://open.spotify.com/album/4CLN9MnEibhP5Vnpy07sjp"
+      },
+      "artists": [
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        }
+      ],
+      "duration_ms": 267807,
+      "name": "Kontrol - Edit",
+      "url": "https://open.spotify.com/track/3pVBBUMYcLOwNVmfsrdUZm"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Symphonie des Seins",
+        "url": "https://open.spotify.com/album/2rCF7kyL0FvORCyQQsblRc"
+      },
+      "artists": [
+        {
+          "name": "Chris Liebing",
+          "url": "https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI"
+        },
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 338576,
+      "name": "Symphonie des Seins",
+      "url": "https://open.spotify.com/track/1nxhI6XxM3PYr44NehXtep"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Shake the Underground (Tao Andra Remix)",
         "url": "https://open.spotify.com/album/0RXNj20K5fiYVmnjTWZDUf"
@@ -53,43 +133,23 @@
       "url": "https://open.spotify.com/track/1sI08prJmFGQkaQP8A9Vq3"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/6qKTG66KxEEBVTvxi3okKD"
+        "name": "Equanimity",
+        "url": "https://open.spotify.com/album/1gWtPlXfn8frWnF8imD7qF"
       },
       "artists": [
         {
-          "name": "Alex Stein",
-          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+          "name": "Simina Grigoriu",
+          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
         }
       ],
-      "duration_ms": 240750,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/0EjvX4gwnRQPVUFP4NzJEK"
+      "duration_ms": 294857,
+      "name": "Equanimity",
+      "url": "https://open.spotify.com/track/1WBPqL80sKLv0GNzjruqOt"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
-      "album": {
-        "name": "A Prayer for the Dancefloor",
-        "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Conduit",
-          "url": "https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy"
-        }
-      ],
-      "duration_ms": 414918,
-      "name": "A Prayer for the Dancefloor (feat. Conduit)",
-      "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
-    },
-    {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Latin Lovers (Joyhauser Remix & Original)",
         "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
@@ -109,7 +169,195 @@
       "url": "https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Kaltstrom",
+        "url": "https://open.spotify.com/album/0DtmfjDnfBMXtxQ9tFpz6m"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        }
+      ],
+      "duration_ms": 212678,
+      "name": "Kaltstrom",
+      "url": "https://open.spotify.com/track/7uZRZpToc7BE0HTj5JYs8I"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Planet XX",
+        "url": "https://open.spotify.com/album/7CWg0oYwESxCpnDxhkQbx7"
+      },
+      "artists": [
+        {
+          "name": "YellowHeads",
+          "url": "https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg"
+        }
+      ],
+      "duration_ms": 338211,
+      "name": "Planet XX - Extended Mix",
+      "url": "https://open.spotify.com/track/2t8dxuo4kz49lIXW6NJ3Ss"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "This Track Kills Fascism",
+        "url": "https://open.spotify.com/album/6aNmdMzWonqx04BYKneywz"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "This Track Kills Fascism",
+      "url": "https://open.spotify.com/track/5Mz4Il1WomFcKREuRrpvw8"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/50TJbf8ARpqpcp8lHMapuc"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "HNGT",
+          "url": "https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK"
+        }
+      ],
+      "duration_ms": 235615,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Flashback 98",
+        "url": "https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Flashback 98",
+      "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Rave the Planet: Supporter Series, Vol. 028",
+        "url": "https://open.spotify.com/album/0FDY758zZGKxRexSyM89zH"
+      },
+      "artists": [
+        {
+          "name": "Gary Beck",
+          "url": "https://open.spotify.com/artist/1mUVjZFnDM8mHpi4fR2bPC"
+        }
+      ],
+      "duration_ms": 266922,
+      "name": "Baddy Told Me",
+      "url": "https://open.spotify.com/track/4itweaycasrs6Gx8tkVEaN"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Zig Zag",
+        "url": "https://open.spotify.com/album/3zOfSq2r1QpzoZhkOaZ7jC"
+      },
+      "artists": [
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        },
+        {
+          "name": "Jancen",
+          "url": "https://open.spotify.com/artist/5DEG6jf4lvaICXAUhi6BKk"
+        }
+      ],
+      "duration_ms": 319147,
+      "name": "Morgana",
+      "url": "https://open.spotify.com/track/27myzkMUyZTPaR6VBcxKwZ"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Rhythmic High EP",
+        "url": "https://open.spotify.com/album/6UQMvV5WGuFPrdj89SrZxS"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "duration_ms": 294542,
+      "name": "Wild Within",
+      "url": "https://open.spotify.com/track/4dPaL7YwLMOqoCPXB632av"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Rituel",
+        "url": "https://open.spotify.com/album/2ZZ30t66ftZMpF0HxsJbnX"
+      },
+      "artists": [
+        {
+          "name": "Julian Jeweil",
+          "url": "https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf"
+        }
+      ],
+      "duration_ms": 295742,
+      "name": "Pulsion",
+      "url": "https://open.spotify.com/track/0jU5EyIWFVP7YhBoZUITJd"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6qKTG66KxEEBVTvxi3okKD"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "duration_ms": 240750,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/0EjvX4gwnRQPVUFP4NzJEK"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "A Prayer for the Dancefloor",
+        "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Conduit",
+          "url": "https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy"
+        }
+      ],
+      "duration_ms": 414918,
+      "name": "A Prayer for the Dancefloor (feat. Conduit)",
+      "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Human Robot Remixes",
         "url": "https://open.spotify.com/album/62U3slOTrbQxZbczv8waBB"
@@ -133,7 +381,23 @@
       "url": "https://open.spotify.com/track/7ErS5v15BFYOjqDSdoaIuw"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Second Skin",
+        "url": "https://open.spotify.com/album/73KWwwgOLhP6yWWgOtQgdw"
+      },
+      "artists": [
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Second Skin",
+      "url": "https://open.spotify.com/track/7n2evrJL9rysHcsUhOlH51"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/3YKBRhpDNrwIoHaZx3xOgq"
@@ -149,7 +413,7 @@
       "url": "https://open.spotify.com/track/3od9r9RKSEq0eih2NHDlPF"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Don't Watch TV",
         "url": "https://open.spotify.com/album/1VZISzi0Yd7I4AlKSaVeWd"
@@ -165,7 +429,7 @@
       "url": "https://open.spotify.com/track/3BStc0xYHDEBzCvqO9vgwz"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/14nUG1rYBU3QByh2CzujBv"
@@ -185,7 +449,7 @@
       "url": "https://open.spotify.com/track/7DFZtvENzdnSG1h8FOHclo"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Roy Batty EP",
         "url": "https://open.spotify.com/album/48kQJGLrirALK3pxhhztlc"
@@ -201,7 +465,7 @@
       "url": "https://open.spotify.com/track/3S6v6LzfJs3qNja4vI0mzX"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Phantaxxxy",
         "url": "https://open.spotify.com/album/59ic7Z0BTDocjAo7nd5q2Y"
@@ -221,7 +485,7 @@
       "url": "https://open.spotify.com/track/5Yh7gED0sQPPwGPDFDamx5"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "The Techno Code (Remixes)",
         "url": "https://open.spotify.com/album/3Li1RofrZtlvNEK8hBkMM4"
@@ -241,23 +505,7 @@
       "url": "https://open.spotify.com/track/1LXNuTm5hqRDSuYU2oXY5z"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
-      "album": {
-        "name": "Flashback 98",
-        "url": "https://open.spotify.com/album/4qL2gku5i5jFNLfLO9NvRP"
-      },
-      "artists": [
-        {
-          "name": "Monika Kruse",
-          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Flashback 98",
-      "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
-    },
-    {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Wieder Wach",
         "url": "https://open.spotify.com/album/0FtESqUkwzVk3Q2WvaCY0z"
@@ -273,7 +521,7 @@
       "url": "https://open.spotify.com/track/0tMWZx86ftxPn4TCxbMmia"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "It Feels So Good",
         "url": "https://open.spotify.com/album/0mzuIltuh7AjahLxJVQBr3"
@@ -289,7 +537,7 @@
       "url": "https://open.spotify.com/track/6q6PMmgS0yei12nmgBPP6T"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Sleeping Giants",
         "url": "https://open.spotify.com/album/5dk2wsVGbmgkbz0MWzKlss"
@@ -305,7 +553,7 @@
       "url": "https://open.spotify.com/track/7hZPWT2IwymuP5BTwfmFSl"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "4T20M",
         "url": "https://open.spotify.com/album/2pB0ujeQIyZ3Og8mT0QTqP"
@@ -321,7 +569,7 @@
       "url": "https://open.spotify.com/track/1DIWO9Z2Q1pETjK8GwWpFK"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "REESE",
         "url": "https://open.spotify.com/album/0ImSLM2gJU1EYeWpRFIIon"
@@ -341,7 +589,7 @@
       "url": "https://open.spotify.com/track/5gdMfPQGOaqrDusCAV5uZ8"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/3wXhsibdTscUSOZg77IR2t"
@@ -357,7 +605,7 @@
       "url": "https://open.spotify.com/track/48FHskTGXKi5euMGHYq3CT"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Urartu (Wehbba Remix)",
         "url": "https://open.spotify.com/album/3v7JJNxhTs8fS3ejjioP5N"
@@ -377,7 +625,7 @@
       "url": "https://open.spotify.com/track/5R5KLuzoPBbTNDVHrS38W2"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "That Place",
         "url": "https://open.spotify.com/album/2MIbpmX7b8jQ0hvLAPFZwE"
@@ -393,7 +641,7 @@
       "url": "https://open.spotify.com/track/43rqWLEnUIYeXxQzMLsoSg"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Beats for Days",
         "url": "https://open.spotify.com/album/7J7FbzxCjhnM1DWjhQA97W"
@@ -409,7 +657,7 @@
       "url": "https://open.spotify.com/track/7dHPZYu3SXTpKFmqXZR4NC"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Plastic Dreams",
         "url": "https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq"
@@ -425,7 +673,7 @@
       "url": "https://open.spotify.com/track/5mES4lfufA5pVgj9JAHbUI"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Charlotte de Witte",
         "url": "https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a"
@@ -441,7 +689,7 @@
       "url": "https://open.spotify.com/track/2OkW1IqUtKuy8EX11KAkDZ"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Schall (A.D.H.S. Remix)",
         "url": "https://open.spotify.com/album/1EVBygOSDlmFxPYhTo5tqv"
@@ -461,7 +709,7 @@
       "url": "https://open.spotify.com/track/1VVD0EmqdYmIcgEjoAwtGA"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Nostalgie und Traurigkeit (Deluxe)",
         "url": "https://open.spotify.com/album/2kcUhQkrJmntQZgbDviH3o"
@@ -477,7 +725,7 @@
       "url": "https://open.spotify.com/track/4qzNbx48h2KEqDtWfte9VQ"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Order In Chaos EP",
         "url": "https://open.spotify.com/album/1ivNf2HoHwALCuaeU2WqRF"
@@ -493,7 +741,7 @@
       "url": "https://open.spotify.com/track/742YGl0HOzL7nUfcireyBu"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/4QziocRlxq0VgHwO2X9vsP"
@@ -513,7 +761,7 @@
       "url": "https://open.spotify.com/track/2SVvycM3A5XdT6leTr30mv"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Camargue / Tokyo",
         "url": "https://open.spotify.com/album/0DEz6nvdGgIgX9e2IiCfZU"
@@ -529,7 +777,7 @@
       "url": "https://open.spotify.com/track/0isJGzkaJPqZqrbonohNXw"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "The Unknown",
         "url": "https://open.spotify.com/album/2sHHDkdacOHllc0irZJ2Xm"
@@ -549,7 +797,7 @@
       "url": "https://open.spotify.com/track/1lEUxnBbvrbCRyVn0tpKwp"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Discotech Remixe",
         "url": "https://open.spotify.com/album/1lKRvaS2mYUIWeu4B8iOVC"
@@ -569,7 +817,7 @@
       "url": "https://open.spotify.com/track/4tMtpe345Oi9sqnKgSsnbU"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Partners of Destiny",
         "url": "https://open.spotify.com/album/1uk10nTknJpttQ8pZCmO3Q"
@@ -585,7 +833,7 @@
       "url": "https://open.spotify.com/track/6VfxcjXxjJrXhK2EXXbkKy"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Shake the Underground",
         "url": "https://open.spotify.com/album/0fa6mJhfp5ES6Q3HCnugne"
@@ -601,7 +849,7 @@
       "url": "https://open.spotify.com/track/46G52oAp108BywIFJyzLtj"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Arkana",
         "url": "https://open.spotify.com/album/6FRGJXDEVx8Fgh6f28DP77"
@@ -617,7 +865,7 @@
       "url": "https://open.spotify.com/track/6P1qLgnVEQEd5tD7dysqqO"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Decode / Renegade",
         "url": "https://open.spotify.com/album/2SyTNvJrcKKOyoTHHg1oUM"
@@ -633,7 +881,7 @@
       "url": "https://open.spotify.com/track/3v7LKY0KAEYjerbUti9iUy"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "WILD ELECTRIC (Monika Kruse Remix)",
         "url": "https://open.spotify.com/album/2uUMO66NX3M4KFnBFbtgHW"
@@ -653,7 +901,7 @@
       "url": "https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Bigroom Sensual II",
         "url": "https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK"
@@ -669,7 +917,7 @@
       "url": "https://open.spotify.com/track/1oqKD9FYu3DJJcWJ5lPVmK"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Explorer Vol. 1",
         "url": "https://open.spotify.com/album/7jvBgKQK4ALnqRoxGQbktc"
@@ -689,7 +937,7 @@
       "url": "https://open.spotify.com/track/7oJHO6r8Rh4PbDcQflvmOQ"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Geeks On Hubbard EP",
         "url": "https://open.spotify.com/album/4kZKZI1TBtukvTsNhpa8WM"
@@ -709,7 +957,7 @@
       "url": "https://open.spotify.com/track/30rZV8iT6jSXk5x1rC7gW0"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Rippin & Dippin Pt. 2",
         "url": "https://open.spotify.com/album/1iXQ1Ja3AU1o4PB2FXb9nG"
@@ -729,7 +977,7 @@
       "url": "https://open.spotify.com/track/0Hu0Y4Yc2k4Ya3kyr5r5dB"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "My Palazzo",
         "url": "https://open.spotify.com/album/1pA03Hjiw2BDAFqhYiuYYa"
@@ -749,7 +997,7 @@
       "url": "https://open.spotify.com/track/2HrxuIQLaHHaDV74oPq0oB"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Elements (Kos:mo Remix)",
         "url": "https://open.spotify.com/album/3o2ErP21NRpAXpZw99CVGi"
@@ -769,7 +1017,7 @@
       "url": "https://open.spotify.com/track/0Koe78ebVuRuT97Ip8TjAJ"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Keep Your Love",
         "url": "https://open.spotify.com/album/4DhulVcSD9sVgnOZhdUtpc"
@@ -785,7 +1033,7 @@
       "url": "https://open.spotify.com/track/7JDQZ0f10dTmcF8Bqa9LDq"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Timballe",
         "url": "https://open.spotify.com/album/7Brsoniwb0lB2RA8Y7UhhY"
@@ -801,7 +1049,7 @@
       "url": "https://open.spotify.com/track/60cY5llk1eegolarRcSNc6"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Morgana (Patrik Berg Remix)",
         "url": "https://open.spotify.com/album/28I5ZkX8KgjS9t3wQjYD5e"
@@ -825,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5jX7yGmfqoDPJTrUucLAGi"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Bang the Acid",
         "url": "https://open.spotify.com/album/4hVBAB0g7RRmRA1W7dc2Yp"
@@ -845,7 +1093,7 @@
       "url": "https://open.spotify.com/track/5UkWN23dIRYNyhyZMstllC"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Afghan Acid",
         "url": "https://open.spotify.com/album/4mSm0RbsnDTUVXEZuUEMq0"
@@ -869,7 +1117,7 @@
       "url": "https://open.spotify.com/track/1ZcT8Ldh2EtrtfYZJpuDob"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Colours",
         "url": "https://open.spotify.com/album/5EnuzoFxD2QjtG2VFfZVpF"
@@ -893,7 +1141,7 @@
       "url": "https://open.spotify.com/track/7kkv6UAd9C6i4leZcwcvWI"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Latin Lovers (Joyhauser Remix & Original)",
         "url": "https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9"
@@ -909,7 +1157,7 @@
       "url": "https://open.spotify.com/track/6PKP4qXzVPztw65EHeLS4F"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/1Wuffc9B0PQ3THntefTq6y"
@@ -925,7 +1173,7 @@
       "url": "https://open.spotify.com/track/13wGULWSLE2VjE1VXAOny8"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Passengers 2016",
         "url": "https://open.spotify.com/album/4VPFCmJ2yYUNr2yhm2dbuh"
@@ -945,7 +1193,7 @@
       "url": "https://open.spotify.com/track/1YmesXY2Jx2ThEIO0GG8Hl"
     },
     {
-      "added_at": "2026-02-06 21:30:31",
+      "added_at": "2026-03-10 19:50:59",
       "album": {
         "name": "Panorama (Remastered 2021)",
         "url": "https://open.spotify.com/album/3k8WGklRb0tBsWSXw4K4sg"
@@ -963,6 +1211,22 @@
       "duration_ms": 434000,
       "name": "1-Q - 2021 Remaster",
       "url": "https://open.spotify.com/track/33QXrJArKc2IgX7xIuUpOf"
+    },
+    {
+      "added_at": "2026-03-10 19:50:59",
+      "album": {
+        "name": "Rituel",
+        "url": "https://open.spotify.com/album/2ZZ30t66ftZMpF0HxsJbnX"
+      },
+      "artists": [
+        {
+          "name": "Julian Jeweil",
+          "url": "https://open.spotify.com/artist/3C046bLxNmvBQyaucinAhf"
+        }
+      ],
+      "duration_ms": 319147,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0nPk9rvp09b479plsVgF82"
     }
   ],
   "unique_name": "Monika Kruse's track IDs",

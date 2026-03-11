@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-521 songs - 1 day 7 hr 42 min
+522 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Eastside](https://open.spotify.com/track/17eXvlZ3lu7QdlLHpBz0nX) | [Ky William](https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq), [Fear & Lowe](https://open.spotify.com/artist/5q0UuhAqlTNi9a5brL6Nn8) | [Eastside](https://open.spotify.com/album/5MmdBAQlg46EzgfQTSmjp9) | 2:55 | 2023-11-26 | 2024-02-05 |
 | [EAT THE BASS](https://open.spotify.com/track/1ViErUfDfWkXPXTsjj3kyh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [EAT THE BASS](https://open.spotify.com/album/0BAJwAHBOc08RczC0TMb7l) | 3:22 | 2024-04-14 | 2024-07-08 |
 | [EL AMOR \(CUT MIX\) \- Remaster](https://open.spotify.com/track/5JSG83kHtIiIrogXLjds43) | [TWOEF](https://open.spotify.com/artist/2QJuVsoNKHRWGaxomS9ity) | [CHRISTMAS CUT MIX VOL.I \(Remaster\)](https://open.spotify.com/album/44LUOfg77GpT5ikaTD7sbr) | 2:10 | 2025-12-23 | 2026-01-03 |
+| [El Baile de Carlito](https://open.spotify.com/track/6E8VN9DP3RzSv5R8m0K0UM) | [Carlito](https://open.spotify.com/artist/3nZReQzzyTIXP692DUqhxD) | [El Baile de Carlito](https://open.spotify.com/album/7qWXaz2mgOMsomrpwAzcgT) | 2:03 | 2026-03-10 |  |
 | [El Mundo \- The Cube Guys Radio Edit](https://open.spotify.com/track/2E95UxSc3sbPymFdUKF2AB) | [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ), [Mess](https://open.spotify.com/artist/6ZgLX6dxeYh2VCXlZBHp17), [Kenzo \(ITA\)](https://open.spotify.com/artist/3OCNLDaUydg5VsX811Zod3), [The Cube Guys](https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg) | [El Mundo \(The Cube Guys Mix\)](https://open.spotify.com/album/211GpUDZSpVWGOd47XSaRY) | 2:01 | 2026-02-25 |  |
 | [El Perdón](https://open.spotify.com/track/6gPLVEwgM1b7ro9uZ0OD5r) | [Aitor Astiz](https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz) | [Por Eso Que Me Amas EP](https://open.spotify.com/album/63Nu1PeMnLSvmWGQrcPVlU) | 3:26 | 2023-04-23 | 2023-05-23 |
 | [Endless Bliss](https://open.spotify.com/track/3MFp3iT64O44kvRuDXlVnN) | [Viaggi Sonori](https://open.spotify.com/artist/2Rmp2ArNd8rvmEJ3QBNe3Q), [Mark Sunrise](https://open.spotify.com/artist/0OpqRkBzUOzMFT0ilUvOqw), [Jolie](https://open.spotify.com/artist/4h6P5BOsf2pPJQwhderv6Z) | [Endless Bliss](https://open.spotify.com/album/2Vde3eMCZfYoM6BjP7WwNz) | 3:38 | 2026-02-24 |  |

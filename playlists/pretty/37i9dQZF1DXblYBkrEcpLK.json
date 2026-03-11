@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: Ado",
-  "num_followers": 196714,
+  "num_followers": 196769,
   "original_name": "Women of Anime",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-03-03 15:00:42",
       "album": {
+        "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
+        "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
+      },
+      "artists": [
+        {
+          "name": "kz",
+          "url": "https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4"
+        },
+        {
+          "name": "\u304b\u3050\u3084(cv.\u590f\u5409\u3086\u3046\u3053)",
+          "url": "https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres"
+        }
+      ],
+      "duration_ms": 269343,
+      "name": "Reply",
+      "url": "https://open.spotify.com/track/6ipTwgVCvUX6SgEuBtPoJ4"
+    },
+    {
+      "added_at": "2026-03-03 15:00:42",
+      "album": {
         "name": "LET'S JUST CRASH",
         "url": "https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD"
       },
@@ -780,33 +800,17 @@
       },
       "artists": [
         {
-          "name": "kz",
-          "url": "https://open.spotify.com/artist/4YpCJjlm4apQ7kbQbP2iT4"
+          "name": "yuigot",
+          "url": "https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0"
         },
         {
-          "name": "\u304b\u3050\u3084(cv.\u590f\u5409\u3086\u3046\u3053)",
-          "url": "https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres"
+          "name": "\u6708\u898b\u30e4\u30c1\u30e8(cv.\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD"
         }
       ],
-      "duration_ms": 269343,
-      "name": "Reply",
-      "url": "https://open.spotify.com/track/6ipTwgVCvUX6SgEuBtPoJ4"
-    },
-    {
-      "added_at": "2026-03-03 15:00:42",
-      "album": {
-        "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
-      },
-      "artists": [
-        {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
-        }
-      ],
-      "duration_ms": 242495,
-      "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
+      "duration_ms": 232616,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0HtGLasQ0qkzSETrnICqYR"
     },
     {
       "added_at": "2026-03-03 15:00:42",
@@ -827,22 +831,18 @@
     {
       "added_at": "2026-03-03 15:00:42",
       "album": {
-        "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
-        "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
+        "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
       },
       "artists": [
         {
-          "name": "yuigot",
-          "url": "https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0"
-        },
-        {
-          "name": "\u6708\u898b\u30e4\u30c1\u30e8(cv.\u65e9\u898b\u6c99\u7e54)",
-          "url": "https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD"
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
         }
       ],
-      "duration_ms": 232616,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0HtGLasQ0qkzSETrnICqYR"
+      "duration_ms": 242495,
+      "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
     },
     {
       "added_at": "2026-03-03 15:00:42",

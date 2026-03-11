@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-631 songs - 1 day 11 hr 58 min
+632 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/track/4x6lFrNvEvsJyZL3UFnC8s) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Amrutha Kshana \(Female Version\)](https://open.spotify.com/album/2XypahtBYalSRdrgPWK7Va) | 2:59 | 2023-05-11 | 2024-01-23 |
 | [Amuku Dumuku](https://open.spotify.com/track/6QtloMR4ELVROfgoEG2usu) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Amuku Dumuku](https://open.spotify.com/album/4yfsH0o8Z27nhIsQ14ynmq) | 2:27 | 2025-11-20 |  |
 | [Anarkali](https://open.spotify.com/track/4kvmWGtZmFXimJl1hgnmg4) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Ajay Warrier](https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC) | [Anarkali](https://open.spotify.com/album/3KfwfuKsi0lDo6ZrLBITKS) | 5:07 | 2023-05-16 | 2023-12-15 |
+| [Andada Gombe](https://open.spotify.com/track/2o4IRqT61medCrMnOPOs6L) | [Ravi K](https://open.spotify.com/artist/3y8nrKofZtzjWJ3DOdueVs) | [Andada Gombe](https://open.spotify.com/album/5hp0crxPK8b6mveYwJlNdX) | 3:23 | 2026-03-10 |  |
 | [Ani Ani Anisutide](https://open.spotify.com/track/4zsKK2o1risZLPP5GNmlTB) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem), [Varsha Acharya](https://open.spotify.com/artist/06QNJdEjmoWoO1JLEbaHi0) | [Ani Ani Anisutide](https://open.spotify.com/album/1fjADk8xGb7geepJdEAADc) | 4:13 | 2024-03-22 | 2024-09-14 |
 | [Anna Thamma](https://open.spotify.com/track/7kEKFFKfNXGRbcdB5OGnmL) | [Stunning Brothers](https://open.spotify.com/artist/0wCLmaPe5QdliCrAF8Iu84) | [Anna Thamma](https://open.spotify.com/album/36ovnJBaeqKGzWopJkewx2) | 2:53 | 2024-09-02 | 2025-02-19 |
 | [Antariksha](https://open.spotify.com/track/5PtZ9krK8nQ5c9sJx6lViv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Antariksha](https://open.spotify.com/album/67fzzYghJI5aPHJCwokERt) | 3:29 | 2022-10-12 | 2023-08-09 |
@@ -399,7 +400,7 @@
 | [Nanna Jeevana](https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/2sWSghuM3hzWwRFYdK0naK) | 2:16 | 2023-10-06 | 2024-04-05 |
 | [Nanna Jeevana](https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS) | 2:16 | 2023-10-06 | 2024-01-09 |
 | [Nanna Kannada](https://open.spotify.com/track/6RiAPNVdi1eOa2rAuwVh2C) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [Nanna Kannada](https://open.spotify.com/album/4LcpFWIzA5kFXryLKkLiH2) | 3:55 | 2022-04-01 | 2023-06-08 |
-| [Nanna Muddu Kanda](https://open.spotify.com/track/2Ep11dPRxsvOIocrZLDsJp) | [Deepthi Prashanth](https://open.spotify.com/artist/2sCvtPyW6aaumR1z7cMYvw) | [Nanna Muddu Kanda](https://open.spotify.com/album/2KABfy3xMELsbetmz8fVuy) | 3:52 | 2025-10-09 |  |
+| [Nanna Muddu Kanda](https://open.spotify.com/track/2Ep11dPRxsvOIocrZLDsJp) | [Deepthi Prashanth](https://open.spotify.com/artist/2sCvtPyW6aaumR1z7cMYvw) | [Nanna Muddu Kanda](https://open.spotify.com/album/2KABfy3xMELsbetmz8fVuy) | 3:52 | 2025-10-09 | 2026-03-11 |
 | [Nanna Tumba Neene](https://open.spotify.com/track/6kOL7AlmbPX1uGI6jG2QqL) | [Jaskaran Singh](https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL) | [Nanna Tumba Neene](https://open.spotify.com/album/192TmSQNJFZ4lUn3ekOb9w) | 3:28 | 2024-10-18 | 2025-03-27 |
 | [Nannale Iruve](https://open.spotify.com/track/2y2IxFZjCEyKJeKDMDZ5d8) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP), [Deepika S](https://open.spotify.com/artist/6QKndRubze318lol0g2M3L) | [Nannale Iruve](https://open.spotify.com/album/38wnSGbfXGc4hN7FAjogoG) | 3:21 | 2023-10-20 | 2024-02-17 |
 | [Nannavane](https://open.spotify.com/track/7vi9tKXEkE1P7TVjJVL0OB) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt) | [Nannavane](https://open.spotify.com/album/6TE5oWQZQBKHSxbIIN5f5R) | 4:17 | 2024-03-27 | 2024-08-20 |

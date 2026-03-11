@@ -4,7 +4,7 @@
 
 > New music from Harry Styles, Ramlah Ram, Dayang Nurfaizah, Aisha Retno, Sarah Suhairi,  and more!
 
-20,191 songs - 46 day 10 hr 10 min
+20,191 songs - 46 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13132,7 +13132,7 @@
 | [Raya Sehati Sedondon](https://open.spotify.com/track/3J3idZPERnarEHhXMdAEqK) | [Amar Amran](https://open.spotify.com/artist/7nquIgnQOf8pb47tLPSz9U), [Dato Jamal Abdillah](https://open.spotify.com/artist/2EYYkKx3dOBxFnx75HDNuf) | [Raya Sehati Sedondon](https://open.spotify.com/album/4EnAvJ1w5c0IYYVDbfGsBJ) | 3:25 | 2025-03-20 | 2025-03-28 |
 | [Raya Sempoi](https://open.spotify.com/track/6WrcYi7By9u9ON3EU1bKII) | [Naqiu](https://open.spotify.com/artist/6LOlfo8JBHjgw8P0vKKH2D) | [Raya Sempoi](https://open.spotify.com/album/1eQBN717IzdTYHTar6MZdf) | 2:42 | 2025-03-13 | 2025-03-21 |
 | [Raya Solo](https://open.spotify.com/track/6OOvdkNKaKvHcVl0bPR41A) | [Hasif Upin](https://open.spotify.com/artist/0bFah2HVD2yZTfGFGWsbJ4) | [Raya Solo](https://open.spotify.com/album/43tT2imrCDBTZbRObGYtTX) | 2:54 | 2024-04-04 | 2024-04-12 |
-| [Raya Tak Nak Single](https://open.spotify.com/track/6TOSNdoGaI0GG8KJyNhrjy) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [Merrah](https://open.spotify.com/artist/3nJriKGQMihXPG3AJ1gnNL) | [Raya Tak Nak Single](https://open.spotify.com/album/4WzuBKkn5M01W9cCmjkWYa) | 2:59 | 2026-03-05 |  |
+| [Raya Tak Nak Single](https://open.spotify.com/track/6TOSNdoGaI0GG8KJyNhrjy) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk), [Merrah](https://open.spotify.com/artist/3nJriKGQMihXPG3AJ1gnNL) | [Raya Tak Nak Single](https://open.spotify.com/album/4WzuBKkn5M01W9cCmjkWYa) | 2:54 | 2026-03-05 |  |
 | [Raya Telah Tiba](https://open.spotify.com/track/2AjAzwxIu0smbLQv5fL0G7) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Raya Telah Tiba](https://open.spotify.com/album/6oVn3rW7m97BU9diWghLjo) | 2:50 | 2025-03-06 | 2025-03-14 |
 | [Raya Terbaik](https://open.spotify.com/track/6hIgqLEtrhFM4N2EZm9YIU) | [Dayang Nurfaizah](https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV), [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ), [Sophia Liana](https://open.spotify.com/artist/4Xmv5ukMoLnot3CkVwP4tK) | [Raya Terbaik](https://open.spotify.com/album/1zn8DJO73nhD4H3a5gTOnn) | 2:23 | 2022-04-21 | 2022-04-29 |
 | [Raya Terpaling Vibes](https://open.spotify.com/track/18RxFLQ5SDykcu7hWu8KO7) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Raya Terpaling Vibes](https://open.spotify.com/album/7l00SABmsOn9riS2lo9yJN) | 1:04 | 2025-03-06 | 2025-03-14 |

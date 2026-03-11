@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Sade Olutola",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: thistle.",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 121031,
       "name": "2026",
       "url": "https://open.spotify.com/track/1LZX6iUlpK8tuPs1nx2Cdy"
@@ -8302,7 +8302,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 146491,
       "name": "Brighter Than Before",
       "url": "https://open.spotify.com/track/1Mu3Eu833Ry0rbdiOBTF5F"
@@ -9594,7 +9594,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 228592,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/124vsp9vtlJXFaCHVx5Drd"
@@ -14345,6 +14345,24 @@
     },
     {
       "album": {
+        "name": "Detached",
+        "url": "https://open.spotify.com/album/1vIlQyjcuBpqBJNDVLAJYC"
+      },
+      "artists": [
+        {
+          "name": "FIZA",
+          "url": "https://open.spotify.com/artist/2BgtLvix6Nmae2mM1l0iZN"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Detached",
+      "url": "https://open.spotify.com/track/4mdKdoSBGmeL5zm2D4AtiU"
+    },
+    {
+      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
       },
@@ -16046,7 +16064,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 243570,
       "name": "Dream Of Mine",
       "url": "https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB"
@@ -16970,7 +16988,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 181181,
       "name": "Empty Of You",
       "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
@@ -27529,6 +27547,24 @@
     },
     {
       "album": {
+        "name": "fall in love with the dj (deluxe)",
+        "url": "https://open.spotify.com/album/1KgxaU2u9eZoJ6TZO11Evo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "i dream of you and i",
+      "url": "https://open.spotify.com/track/5Ee67DVwPmJs6fzA0yc7P3"
+    },
+    {
+      "album": {
         "name": "i dream of/with you",
         "url": "https://open.spotify.com/album/4Jx0vzMC7AaCdRQtkk7eJt"
       },
@@ -35021,6 +35057,24 @@
     },
     {
       "album": {
+        "name": "looking at the same moon",
+        "url": "https://open.spotify.com/album/6k5StsA9RwjsxFsY87ucs4"
+      },
+      "artists": [
+        {
+          "name": "Amy Hardman",
+          "url": "https://open.spotify.com/artist/2cLxSVJVArtRaHWOke9TE6"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206799,
+      "name": "looking at the same moon",
+      "url": "https://open.spotify.com/track/6Fvn4scpz7HnLzCy3iiiLq"
+    },
+    {
+      "album": {
         "name": "LOOKING AT US",
         "url": "https://open.spotify.com/album/3W3HGFUgwbNPvwuVjernmk"
       },
@@ -36108,7 +36162,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 213959,
       "name": "Lucky Now",
       "url": "https://open.spotify.com/track/6Cn0MQUzbmmAlboRmcUTw4"
@@ -41671,6 +41725,24 @@
     },
     {
       "album": {
+        "name": "Nothing in it for me",
+        "url": "https://open.spotify.com/album/0kQmPCFvJmBXszQL98Km0W"
+      },
+      "artists": [
+        {
+          "name": "Ellie Nanni",
+          "url": "https://open.spotify.com/artist/3spMydBaIHg5DCbXY8tDqc"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209679,
+      "name": "Nothing in it for me",
+      "url": "https://open.spotify.com/track/328qniA976epLuTZXzCkwd"
+    },
+    {
+      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/3vwKYXZhPDZZtbUxbhpCwa"
       },
@@ -43266,6 +43338,28 @@
       "duration_ms": 102268,
       "name": "only1",
       "url": "https://open.spotify.com/track/10yyGvFFxYCFKAVHE8MnOj"
+    },
+    {
+      "album": {
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181718,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "album": {
@@ -45590,6 +45684,24 @@
       "duration_ms": 269500,
       "name": "please just hold on",
       "url": "https://open.spotify.com/track/09eUfQeNR5QKW9Co7Z2psY"
+    },
+    {
+      "album": {
+        "name": "Please, Don't Wake Me",
+        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219406,
+      "name": "Please, Don't Wake Me",
+      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
     },
     {
       "album": {
@@ -48780,6 +48892,24 @@
       "duration_ms": 163669,
       "name": "ROUGH",
       "url": "https://open.spotify.com/track/6fTshwPBLq7F1qfMGVrNT1"
+    },
+    {
+      "album": {
+        "name": "round, round",
+        "url": "https://open.spotify.com/album/2x2WXC5PAPfkB0XFsRhexd"
+      },
+      "artists": [
+        {
+          "name": "Raelle",
+          "url": "https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143098,
+      "name": "round, round",
+      "url": "https://open.spotify.com/track/3udUpLCl78125UkbwtSNIE"
     },
     {
       "album": {
@@ -55292,7 +55422,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 138950,
       "name": "Super Elastic",
       "url": "https://open.spotify.com/track/4EXreHEQvGiM6BlXbATMZm"

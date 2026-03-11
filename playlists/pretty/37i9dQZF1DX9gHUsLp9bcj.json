@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 50s! Cover: Pedro Infante",
-  "num_followers": 47374,
+  "num_followers": 47393,
   "original_name": "Los 50s",
   "owner": {
     "name": "Spotify",
@@ -271,18 +271,22 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Sus \u00c9xitos Fabulosos (Remastered)",
-        "url": "https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf"
+        "name": "Alma de negro",
+        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
         }
       ],
-      "duration_ms": 167760,
-      "name": "Cerezo Rosa - Remastered",
-      "url": "https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir"
+      "duration_ms": 140146,
+      "name": "Aquellos ojos verdes (bolero)",
+      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
     },
     {
       "added_at": "2024-04-24 22:38:01",
@@ -303,22 +307,18 @@
     {
       "added_at": "2024-04-24 22:38:01",
       "album": {
-        "name": "Alma de negro",
-        "url": "https://open.spotify.com/album/3F5U5ghrNGPnijdMvduDMj"
+        "name": "Sus \u00c9xitos Fabulosos (Remastered)",
+        "url": "https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 140146,
-      "name": "Aquellos ojos verdes (bolero)",
-      "url": "https://open.spotify.com/track/7lNA5fkgtuoLoheD6Rdk8V"
+      "duration_ms": 167760,
+      "name": "Cerezo Rosa - Remastered",
+      "url": "https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir"
     },
     {
       "added_at": "2024-04-24 22:38:01",

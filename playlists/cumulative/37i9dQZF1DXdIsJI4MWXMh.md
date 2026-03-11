@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-168 songs - 11 hr 14 min
+169 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Mis Ojos Estuvieron Llorando](https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U) | [Los Peñis del sur](https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO) | [Y Su Newen Ranchero](https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA) | 3:08 | 2023-03-03 | 2026-01-15 |
 | [Mix del Recuerdo \- Que de Raro Tiene/El Tío Borrachales /Tragos de Amargo Licor / El Mil Amores 1](https://open.spotify.com/track/0RTPEIJqt0hcGMzwjQ6CrT) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv) | [Mix del Recuerdo](https://open.spotify.com/album/0wqOsDjQf1WsBqOKYjI1bt) | 5:03 | 2024-06-12 |  |
 | [Mix Peregrinos del Amor 2026: Colorín Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Quédate](https://open.spotify.com/track/45bjfClZfLUFd7sLzfYAD6) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Mix Peregrinos del Amor 2026: Colorín Colorado / Por Primera Vez / Contigo y Sin Ti / Arrogancia / No Te He Dejado de Amar / Quédate](https://open.spotify.com/album/2l9Gi5qbMenU2Fj0hPNsdp) | 6:15 | 2026-02-19 |  |
-| [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2023-03-03 |  |
+| [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2023-03-03 | 2026-03-11 |
 | [Mátame a Besos](https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 3:02 | 2023-03-03 | 2025-12-08 |
 | [Ni Por Mil Puñados De Oro](https://open.spotify.com/track/1Xo6UbLWD2INjx1vMT7FUh) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [De Padre Desconocido](https://open.spotify.com/album/6hsBJneAqhFImnsdNDL6ZW) | 2:34 | 2023-10-05 |  |
 | [Ni Por Mil Puñados de Oro / Dos Monedas / De Padre Desconocido \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/74ge2rdkufNd7a6F6Tnle0) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [Ni Por Mil Puñados de Oro / Dos Monedas / De Padre Desconocido \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4PrQw2MbxeywRgy6zjZWdU) | 11:32 | 2023-03-03 | 2025-06-18 |
@@ -168,6 +168,7 @@
 | [Una Asesina](https://open.spotify.com/track/7eiRJ8pHqh2hHPwGt1Onsb) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Una Asesina](https://open.spotify.com/album/6WlJ3NLnNwaNZHPUHCWuUD) | 4:02 | 2024-06-12 |  |
 | [Una Cerveza \- Remix](https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Una Cerveza \(Remix\)](https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G) | 3:16 | 2023-03-03 | 2025-01-10 |
 | [Vamos a Amarla los Dos](https://open.spotify.com/track/70DhDnXmCJeDIzFKwUVaTJ) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 4:28 | 2023-03-03 |  |
+| [Vivo en Tinieblas](https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [Vivo en Tinieblas](https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ) | 3:46 | 2026-02-19 |  |
 | [Vivo la Vida](https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:12 | 2023-03-03 |  |
 | [Volveré](https://open.spotify.com/track/10JXQH7W7OzK5kqeLTnpmV) | [El Llanero del Lago Villarrica](https://open.spotify.com/artist/1ETTzSKxOD9LBXp1hyYzzf), [Zona Ranchera](https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ) | [Volveré](https://open.spotify.com/album/1cRSqJ1LSMCCOf4NIBc0WU) | 4:16 | 2025-08-01 |  |
 | [Voy a Ser](https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z) | [Talismanes del Ritmo y del amor](https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd) | [Voy a Ser](https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD) | 3:57 | 2023-03-03 |  |

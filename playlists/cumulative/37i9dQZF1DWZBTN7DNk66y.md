@@ -4,7 +4,7 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.
 
-231 songs - 13 hr 27 min
+232 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Falso de amor](https://open.spotify.com/track/0NZTon5imI2pfTZIEts5Wy) | [Catalina y Las Bordonas de Oro](https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Falso de amor](https://open.spotify.com/album/7CWGDvXea9XZhgWon8uLEc) | 3:32 | 2024-06-28 | 2025-12-16 |
 | [Fantasma](https://open.spotify.com/track/5ky2inW5srGBriAAYjvCiY) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Fantasma](https://open.spotify.com/album/6yxNIY4vpe4N6Ovgydn0ug) | 3:48 | 2025-08-01 |  |
 | [Felipa y la Luna](https://open.spotify.com/track/2stlqZmixD2n8YF79fanaj) | [Joaquin del Mundo](https://open.spotify.com/artist/5akC5ZXbpjIWwpsLXfw9hS) | [LIVE SESSION](https://open.spotify.com/album/2T7m6TjBDqQqKyEGrXCoKG) | 3:25 | 2024-06-28 | 2025-03-26 |
+| [Femme Fatale \- Spotify Sessions](https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE \(Spotify Sessions\)](https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x) | 4:18 | 2026-03-10 |  |
 | [Ficción](https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [OTRX](https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly) | 2:55 | 2024-06-28 | 2024-08-24 |
 | [Frascuelo](https://open.spotify.com/track/6Ls9qttIRWBG4hLDZK7kku) | [Juan Cottet](https://open.spotify.com/artist/2c3DwX82qvgVH4HBtnP5N4) | [FRÁGIL](https://open.spotify.com/album/0HzJ9p25CxxmrntNPch3Qz) | 3:29 | 2024-07-12 | 2024-10-26 |
 | [Frik](https://open.spotify.com/track/3BSHiT7tGIf5VafjR2u3tF) | [Juan Campodónico](https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Frik](https://open.spotify.com/album/1o9jga0jQBT8ApCNP5IV65) | 3:13 | 2024-07-22 | 2024-08-24 |
@@ -186,7 +187,7 @@
 | [Sendero](https://open.spotify.com/track/2e1ooE2q2Oiflu6wmCbwqG) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Nacho Rodriguez](https://open.spotify.com/artist/3fgNTqoWRiML6iMv4asqn9), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK), [Por ejemplo ahora](https://open.spotify.com/artist/75I3egZAz3BwFZKubBhCwy) | [Sendero](https://open.spotify.com/album/5rxlC79Jn0KgMI3OjSvlZ9) | 3:53 | 2024-07-26 |  |
 | [SERENATA \- En Vivo en Anfitrión \- TV Pública](https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5) | [Nahuel Briones](https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [SERENATA \(En Vivo en Anfitrión \- TV Pública\)](https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji) | 4:24 | 2024-08-23 |  |
 | [Sexo y Sushi](https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Sexo y Sushi](https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu) | 2:52 | 2024-08-30 |  |
-| [Shangrilá](https://open.spotify.com/track/7D9vbNoGjTDBZlqFVnUT5m) | [Ninguna Higuera](https://open.spotify.com/artist/5L9ZrNaSTvFWmAyGAOqpVW), [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Shangrilá](https://open.spotify.com/album/5zFxx45avjpTQlFV7cF6sm) | 4:59 | 2024-08-23 |  |
+| [Shangrilá](https://open.spotify.com/track/7D9vbNoGjTDBZlqFVnUT5m) | [Ninguna Higuera](https://open.spotify.com/artist/5L9ZrNaSTvFWmAyGAOqpVW), [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Shangrilá](https://open.spotify.com/album/5zFxx45avjpTQlFV7cF6sm) | 4:59 | 2024-08-23 | 2026-03-11 |
 | [Si Me Voy Antes Que Vos](https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8) | [El Alemán](https://open.spotify.com/artist/7mEsL5ToO5xme77cco1zlg), [Emiliano Y El Zurdo](https://open.spotify.com/artist/3wbAELhgQMUAyKKG8nfxey), [Lu Ferreira](https://open.spotify.com/artist/74TtgycmTAnjCSQeUA6oLQ) | [Si Me Voy Antes Que Vos](https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e) | 2:31 | 2024-06-28 |  |
 | [Siempre sale el sol en Barcelona \- Live Session Chez Xefo Art Gallery](https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8) | [Luisa y el Mar](https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC) | [Siempre sale el sol en Barcelona \(Live Session Chez Xefo Art Gallery\)](https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm) | 2:55 | 2024-06-28 | 2024-08-24 |
 | [Siesta rosa](https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU) | [Micaela Basadoni](https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU), [Luna Sujatovich](https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G) | [Árboles](https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA) | 2:19 | 2024-08-23 |  |

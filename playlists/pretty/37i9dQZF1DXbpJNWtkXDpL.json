@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92177,
+  "num_followers": 92172,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Obsesionado Contigo",
         "url": "https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV"
       },
@@ -755,22 +739,18 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "Rosita Lean",
-        "url": "https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG"
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
       },
       "artists": [
         {
-          "name": "ND Kobi'",
-          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
-        },
-        {
-          "name": "Dimelow Pro",
-          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
         }
       ],
-      "duration_ms": 91836,
-      "name": "Rosita Lean",
-      "url": "https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo"
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -787,6 +767,26 @@
       "duration_ms": 158312,
       "name": "PUM PUM!",
       "url": "https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "Rosita Lean",
+        "url": "https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG"
+      },
+      "artists": [
+        {
+          "name": "ND Kobi'",
+          "url": "https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl"
+        },
+        {
+          "name": "Dimelow Pro",
+          "url": "https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m"
+        }
+      ],
+      "duration_ms": 91836,
+      "name": "Rosita Lean",
+      "url": "https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "114",
-        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
-      },
-      "artists": [
-        {
-          "name": "Plastikboy",
-          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
-        }
-      ],
-      "duration_ms": 192162,
-      "name": "114",
-      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "Nocturna (Remix)",
         "url": "https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 235752,
       "name": "Nocturna - Remix",
       "url": "https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "114",
+        "url": "https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ"
+      },
+      "artists": [
+        {
+          "name": "Plastikboy",
+          "url": "https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp"
+        }
+      ],
+      "duration_ms": 192162,
+      "name": "114",
+      "url": "https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5"
     },
     {
       "added_at": "2025-10-03 06:00:06",

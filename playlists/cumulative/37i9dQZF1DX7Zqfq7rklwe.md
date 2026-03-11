@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista.
 
-366 songs - 23 hr 47 min
+367 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Kettingit](https://open.spotify.com/track/4owrESDc3HKDBerg0vfr4e) | [Ruoska](https://open.spotify.com/artist/0MCx3EcBHDcEb2nFUCMxSu) | [Kade](https://open.spotify.com/album/50i1el3KSBlu6ROLH9gWzT) | 3:52 | 2026-02-27 |  |
 | [Kevyt ja kohtuuton](https://open.spotify.com/track/3nC4RiESLtdOhxKgDs806R) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Kevyt ja kohtuuton](https://open.spotify.com/album/7A1jCxlw6K90rLonitQTXy) | 3:15 | 2026-03-05 |  |
 | [Kill The Light](https://open.spotify.com/track/0hI14YWBBS4E8N6xnC4Wun) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [Hell Is A State Of Mind](https://open.spotify.com/album/7tuED4XucJgIRbEaYfqvjA) | 4:47 | 2026-03-05 |  |
+| [KINDNESS IS A SIN?](https://open.spotify.com/track/3BKP1IOJcQA9RjmRGCX8AQ) | [Revolt 66°](https://open.spotify.com/artist/7K8vRy0mDiZEiDUUhZ3F4N) | [KINDNESS IS A SIN?](https://open.spotify.com/album/2Eab0Ss0XOENHRc5GdhY7X) | 3:25 | 2026-03-10 |  |
 | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/track/2lQgqBaf5ie7LWiG8NsEGw) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC), [Tomi Joutsen](https://open.spotify.com/artist/6XKm3Pn13Owwmtu4l23dui) | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/album/0hUlq2Cl3WB7n5yBWacztM) | 3:52 | 2025-08-14 | 2025-09-13 |
 | [Kuolemankello](https://open.spotify.com/track/7v5F0dkZafJJz20cjXRT34) | [Noumena](https://open.spotify.com/artist/4vWgFBf8pMnDHVq2CTWvvL) | [Kuolemankello](https://open.spotify.com/album/3saVVq5kHt7w9PTfiVVHCj) | 5:58 | 2026-02-27 |  |
 | [Kylie](https://open.spotify.com/track/2hq1XgYec0eejLFiDnytUY) | [Balboa Son](https://open.spotify.com/artist/6ZcJKMHJOCYcDNiKK9TeMi) | [Kylie](https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk) | 4:07 | 2024-09-12 | 2025-08-22 |

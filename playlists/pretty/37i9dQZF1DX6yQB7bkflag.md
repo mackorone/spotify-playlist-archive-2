@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Maher Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,204 likes - 135 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,207 likes - 135 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Habibi ﷺ](https://open.spotify.com/track/5Zr5Ck1F04EUedBhWgIvBa) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Habibi ﷺ](https://open.spotify.com/album/12VPEfNRQRnoHHLnNnFjZK) | 4:05 |
+| 1 | [Habibi](https://open.spotify.com/track/5Zr5Ck1F04EUedBhWgIvBa) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Habibi ﷺ](https://open.spotify.com/album/12VPEfNRQRnoHHLnNnFjZK) | 4:05 |
 | 2 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 |
 | 3 | [Selasa](https://open.spotify.com/track/2e3V1tgGzM2LpXwmK8lbIJ) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Selasa](https://open.spotify.com/album/2QBswxHldGPseWu5oeBcf1) | 3:39 |
 | 4 | [Save Me Tonight](https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z) | 3:16 |

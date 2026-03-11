@@ -674,7 +674,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 172352,
       "name": "Esto Reci\u00e9n Empieza",
       "url": "https://open.spotify.com/track/2jiGBz8zHMvfKCWXI1WBmb"
@@ -1684,6 +1684,36 @@
       "duration_ms": 142361,
       "name": "servidora \ud83d\udd76\ufe0f",
       "url": "https://open.spotify.com/track/6x6CoOGyNqDcPx96paNGSQ"
+    },
+    {
+      "album": {
+        "name": "Somos M\u00e1s",
+        "url": "https://open.spotify.com/album/6flv4pE0yu6CwznloKHqdV"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205565,
+      "name": "Somos M\u00e1s",
+      "url": "https://open.spotify.com/track/5McPJVECJppo96ilj5Ydsw"
     },
     {
       "album": {

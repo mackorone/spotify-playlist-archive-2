@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lapili.",
-  "num_followers": 21307,
+  "num_followers": 21322,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-03-03 23:00:24",
       "album": {
-        "name": "MAYO SEASON",
-        "url": "https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp"
-      },
-      "artists": [
-        {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "T\u00f3came",
-      "url": "https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs"
-    },
-    {
-      "added_at": "2026-03-03 23:00:24",
-      "album": {
         "name": "Nuevos Recuerdos",
         "url": "https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2026-03-03 23:00:24",
       "album": {
-        "name": "Satisfacer Tu Deseo De Hombre",
-        "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
+        "name": "MAYO SEASON",
+        "url": "https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp"
       },
       "artists": [
         {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
         }
       ],
-      "duration_ms": 156710,
-      "name": "Satisfacer Tu Deseo De Hombre",
-      "url": "https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04"
+      "duration_ms": 138080,
+      "name": "T\u00f3came",
+      "url": "https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs"
     },
     {
       "added_at": "2026-03-03 23:00:24",
@@ -635,6 +619,22 @@
       "duration_ms": 160684,
       "name": "El Destello",
       "url": "https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA"
+    },
+    {
+      "added_at": "2026-03-03 23:00:24",
+      "album": {
+        "name": "Satisfacer Tu Deseo De Hombre",
+        "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 156710,
+      "name": "Satisfacer Tu Deseo De Hombre",
+      "url": "https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04"
     },
     {
       "added_at": "2026-03-03 23:00:24",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-03 23:00:24",
       "album": {
-        "name": "Para 2",
-        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
-      },
-      "artists": [
-        {
-          "name": "Luna Ki",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Para 2",
-      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
-    },
-    {
-      "added_at": "2026-03-03 23:00:24",
-      "album": {
         "name": "Recardelino",
         "url": "https://open.spotify.com/album/4xNK43jp9NdfRVC2BliZ2H"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 170721,
       "name": "Mujer\u00f3n",
       "url": "https://open.spotify.com/track/5vL9Gs5JfUAB0fcwhRJosC"
+    },
+    {
+      "added_at": "2026-03-03 23:00:24",
+      "album": {
+        "name": "Para 2",
+        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Para 2",
+      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
     },
     {
       "added_at": "2026-03-03 23:00:24",

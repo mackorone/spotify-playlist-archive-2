@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women at full volume\. Dato' Sri Siti Nurhaliza is co\-curating EQUAL Singapore & Malaysia this time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,070 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,073 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [heaven!](https://open.spotify.com/track/0zXh8SNTYpzfqJPmgVmNgd) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [heaven!](https://open.spotify.com/album/6hjlLYPwNxJSDa7AD32Cr7) | 2:47 |
 | 50 | [skinshine](https://open.spotify.com/track/777q1XhIikZdJKaZnPwXUs) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [skinshine](https://open.spotify.com/album/1uIv5SSTTRMtUbeHjUNvOD) | 2:19 |
 
-Snapshot ID: `AAAAAFdkmi7eg6fbi+GU6M7SBsXJF78A`
+Snapshot ID: `AAAAAKwH16Dk0yA03+hZO3XslhSMm2w1`

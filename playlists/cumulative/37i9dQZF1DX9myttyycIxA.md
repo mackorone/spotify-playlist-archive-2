@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: villagerrr
 
-1,855 songs - 4 day 11 hr 7 min
+1,856 songs - 4 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1471,6 +1471,7 @@
 | [Someone to Love](https://open.spotify.com/track/7wtNoo3GB6Dv7KhiLmyY7T) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:56 | 2022-10-21 | 2023-01-18 |
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2022-04-29 | 2022-06-19 |
 | [Someone2Me](https://open.spotify.com/track/3cPIiiz4XKW8J8tXz1VhoP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Someone2Me](https://open.spotify.com/album/2y4iO77bOYy8MH5PKk9y3n) | 3:46 | 2023-01-17 | 2023-04-15 |
+| [Somersaults](https://open.spotify.com/track/2vyAEzE5FeDgm4Jx7mdblZ) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Somersaults](https://open.spotify.com/album/7hcLdGZHxJkqJQrbbE7tuv) | 4:32 | 2026-03-10 |  |
 | [Something Else](https://open.spotify.com/track/6bZ5iC1vemFxvVPHfmixbI) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Something Else](https://open.spotify.com/album/52qxd2pn2DC8uk51R4Yf7z) | 4:19 | 2021-03-05 | 2022-04-18 |
 | [something new](https://open.spotify.com/track/1Qot7BYHZjUqFpdlcJZqZm) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [something new](https://open.spotify.com/album/24jOjoJr6F2chxZiDBtqBF) | 3:51 | 2024-10-04 | 2025-04-05 |
 | [Sometimes I Think About Death](https://open.spotify.com/track/68azWVwlh4j461uhjXDzPM) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Adult Romantix](https://open.spotify.com/album/3QhaKVItgP8GQ5RQiz25FM) | 3:10 | 2025-08-22 | 2026-01-24 |

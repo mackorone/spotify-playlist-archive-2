@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,476 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,477 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -229,7 +229,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 219 | [Lock&Key](https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Lock&Key](https://open.spotify.com/album/1lN9DhBjJz4CBLa2vRT3jo) | 2:57 |
 | 220 | [Breathing](https://open.spotify.com/track/5E4Np2kVQM24Wsrr3KbMik) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:46 |
 | 221 | [Onus](https://open.spotify.com/track/3F41S8NjGQ4SlCAjGbVOby) | [Coby Sey](https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX) | [Onus](https://open.spotify.com/album/6FGKxhaHztaCJ8dijoyvGe) | 3:10 |
-| 222 | [burning \(feat\. just lil\)](https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [burning \(feat\. just lil\)](https://open.spotify.com/album/1xusQdAD0SSLGvXqpHFGKS) | 4:06 |
+| 222 | [burning \(feat\. just lil\)](https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl) | [ONES](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [burning \(feat\. just lil\)](https://open.spotify.com/album/1xusQdAD0SSLGvXqpHFGKS) | 4:06 |
 | 223 | [Quartz Register](https://open.spotify.com/track/6zjL5cxi3ulxZ4qEcGv1nn) | [Emissive](https://open.spotify.com/artist/4Ho22fa1FLgbvO8f3WaMbT) | [City of Rooms](https://open.spotify.com/album/2StE9HoDIkIy6vENLbwJHk) | 7:34 |
 | 224 | [Lost River](https://open.spotify.com/track/0CwCz7uXqrJyUrapdU01E9) | [Jeigo](https://open.spotify.com/artist/0kRZEV6XLNRXpxxY5pgQfa) | [Lost River](https://open.spotify.com/album/5Gpj2EooPMHeb41clRQn4u) | 5:30 |
 | 225 | [Erstwhile Rhythm](https://open.spotify.com/track/6tZZXcv2zwDdv7rwKVLFqA) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Erstwhile Rhythm / The Grind](https://open.spotify.com/album/1X1HqH0bqcpBIcaovnKD6c) | 6:12 |

@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Brilliance",
+        "url": "https://open.spotify.com/album/0D1IkyFIvPgtyHtulb8KSb"
+      },
+      "artists": [
+        {
+          "name": "Mwk",
+          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Brilliance",
+      "url": "https://open.spotify.com/track/0RbZ19kYLUBOSJZlFWXjFC"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30f3\u30b3\u30c4\u30bb\u30ab\u30a4",
         "url": "https://open.spotify.com/album/29NUFBpjtofJoaei3woQ98"
       },
@@ -720,7 +742,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 123384,
       "name": "Chu! Future Express! (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5eAQ5jh7MrQSPHmpvMrUZz"
@@ -2464,7 +2486,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 181893,
       "name": "muddy (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/2kOJ2zQooULVQ7K4XgCMTo"
@@ -3128,6 +3150,28 @@
       "duration_ms": 218124,
       "name": "Secret noise (feat. \u521d\u97f3\u30df\u30af&\u97f3\u8857\u30a6\u30ca)",
       "url": "https://open.spotify.com/track/6zmKvgMabJBeTIkiJdhanF"
+    },
+    {
+      "album": {
+        "name": "Prhythmatic4",
+        "url": "https://open.spotify.com/album/4Am9aiTAIiNA6JZa3aA5Ur"
+      },
+      "artists": [
+        {
+          "name": "Yunosuke",
+          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Sharari (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/2N55neUwaP07U3TMUHi6Gg"
     },
     {
       "album": {
@@ -4452,7 +4496,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 197187,
       "name": "\u3055\u3088\u306a\u3089\u304a\u6708\u69d8 (feat. \u9cf4\u82b1\u30d2\u30e1)",
       "url": "https://open.spotify.com/track/7aYtawX0ZsIsrHVyD9X9Rv"
@@ -4596,6 +4640,28 @@
       "duration_ms": 143555,
       "name": "\u307e\u305f\u904a\u3093\u3067\u306d (feat. \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/0PtF9GLITTVkHIxMt3nG4x"
+    },
+    {
+      "album": {
+        "name": "\u307e\u3076\u3057\u3044",
+        "url": "https://open.spotify.com/album/6VuIcrvWtAwikMwg9IxJrB"
+      },
+      "artists": [
+        {
+          "name": "Glue",
+          "url": "https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170999,
+      "name": "\u307e\u3076\u3057\u3044 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/7EPgtK6p677CX46eifRY2P"
     },
     {
       "album": {
@@ -5288,7 +5354,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 184000,
       "name": "\u30ad\u30e3\u30f3\u30c9\u30eb",
       "url": "https://open.spotify.com/track/6tbdfkBnspErKeHQjhAjzw"
@@ -5640,7 +5706,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 174461,
       "name": "\u30b7\u30a2\u30f3\u30d6\u30eb\u30fc (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3D18AlvQ1WqrN9CYhPfygk"
@@ -6196,6 +6262,28 @@
       "duration_ms": 187064,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30a2\u30cb\u30de\u30eb\u30ed\u30b1\u30c3\u30c8\u30e9\u30f3\u30c1\u30e3\u30fc",
       "url": "https://open.spotify.com/track/68EgR9SGyt3AIEY2mnwUMN"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30ad\u30e9\u30fc",
+        "url": "https://open.spotify.com/album/1Ms6FzCRUgCNRENQq1Orby"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3053\u306b\u3053\u3082\u304b\u308c\u30fc",
+          "url": "https://open.spotify.com/artist/0Sfql4L2dw8C7YqQTw3CkZ"
+        },
+        {
+          "name": "AiSuu",
+          "url": "https://open.spotify.com/artist/3RLthcK9u3qBoibNfNEseO"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238588,
+      "name": "\u30cf\u30c3\u30d4\u30fc\u30ad\u30e9\u30fc (feat. AIsuu)",
+      "url": "https://open.spotify.com/track/5QiECogilbpQMr0AER9pwD"
     },
     {
       "album": {
@@ -7868,6 +7956,28 @@
       "duration_ms": 195784,
       "name": "\u5973\u795e\u306f\u4e16\u754c\u3092\u30c0\u30f3\u30b9\u30db\u30fc\u30eb\u306b\u5909\u3048\u3084\u304c\u308b (feat. \u5922\u30ce\u7d50\u5531 POPY&\u5922\u30ce\u7d50\u5531 ROSE)",
       "url": "https://open.spotify.com/track/0PupkIoXkoSLGBmKYf7H6c"
+    },
+    {
+      "album": {
+        "name": "\u5de1\u308b / Grace Alone",
+        "url": "https://open.spotify.com/album/2Hh8AYtF2uW7LOWgXfKnz4"
+      },
+      "artists": [
+        {
+          "name": "\u305b\u304d\u3053\u307f\u3054\u306f\u3093",
+          "url": "https://open.spotify.com/artist/0Ob20i2XjAOSyVQGdJP0IS"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "\u5de1\u308b (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/4J0bc5YEb0N3TSGsxIIsif"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-835 songs - 1 day 17 hr 28 min
+836 songs - 1 day 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Pray Tonight \- borne Remix](https://open.spotify.com/track/24UiVa4yw52VDpPxGwq3Bw) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Pray Tonight \(borne Remix\)](https://open.spotify.com/album/3ddEoq1V87uYH3IOXxdGg1) | 2:46 | 2022-11-15 | 2023-04-28 |
 | [Pressure](https://open.spotify.com/track/2SGKoGK8sRtD3Rr2Rvofvc) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [Perk Pietrek](https://open.spotify.com/artist/7gVaS1q03Q8Dliy2lDXLx3) | [Pressure](https://open.spotify.com/album/6ENSlOPhYtBVrZbud8FtRR) | 3:14 | 2022-05-24 | 2023-04-28 |
 | [Pressure](https://open.spotify.com/track/3wHV275mc0xs0fmJt8ITGX) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Pressure](https://open.spotify.com/album/2HyVhCsCR2SPMgzi28QNoM) | 2:49 | 2023-02-09 | 2023-08-10 |
+| [PRETEND](https://open.spotify.com/track/2TCakdqhxjNeQ9zLskVGSd) | [RezaDead](https://open.spotify.com/artist/0x9bzpifUdZFBQw7R1UWPT), [prodcrucial](https://open.spotify.com/artist/0EDZR0iQpx69eoXs1ETZC0) | [PRETEND](https://open.spotify.com/album/3m8iVraaWeu5x0aVLHog9f) | 1:44 | 2026-03-10 |  |
 | [pretty afternoon](https://open.spotify.com/track/40YPH9eSjV9VY6OGjSTpAc) | [Andrah](https://open.spotify.com/artist/4zKVc3SBL6SPBkqxeIQlkk) | [pretty afternoon](https://open.spotify.com/album/2zp91IQGRApR3FDJ6wsPC7) | 2:38 | 2024-03-08 | 2024-09-29 |
 | [Psycho](https://open.spotify.com/track/7AZsMkUwu9wgz2yA78a9oU) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [Psycho](https://open.spotify.com/album/6N3jKknronDaQoRKwC8Pcd) | 2:51 | 2023-02-10 | 2023-08-10 |
 | [Psycho](https://open.spotify.com/track/3IyziM0cSPmHfTLH3dB8Dw) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm) | [Psycho](https://open.spotify.com/album/3BOwQFiUMdG0eTmfQuiJgJ) | 2:30 | 2022-12-13 | 2023-04-28 |

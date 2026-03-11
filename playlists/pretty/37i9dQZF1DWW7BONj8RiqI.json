@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 244439,
+  "num_followers": 244470,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
+      },
+      "artists": [
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "Soca Start",
         "url": "https://open.spotify.com/album/72vCgFMjbzVbiPdFvEm8BZ"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 141296,
       "name": "Soca Start",
       "url": "https://open.spotify.com/track/2rDPAKcCKNH2lXE02sP7dD"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/3VXWr4JZQJare2SN4oB5pR"
-      },
-      "artists": [
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0l8jZCr1hr0t6UyBilHAqQ"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
-      },
-      "artists": [
-        {
-          "name": "Blaka Dan",
-          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Vagabond",
         "url": "https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 238032,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Blessing",
+        "url": "https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN"
+      },
+      "artists": [
+        {
+          "name": "Blaka Dan",
+          "url": "https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
+        "name": "Engine Room",
+        "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
+      },
+      "artists": [
+        {
+          "name": "Olatunji",
+          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
+        }
+      ],
+      "duration_ms": 201594,
+      "name": "Engine Room",
+      "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
         "name": "Rock It",
         "url": "https://open.spotify.com/album/34oWtMuSUjNjLaMvAjL2tP"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 164409,
       "name": "Rock It",
       "url": "https://open.spotify.com/track/2VZlQCR2NlWD7NWEUjIQMA"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
-        "name": "Engine Room",
-        "url": "https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO"
-      },
-      "artists": [
-        {
-          "name": "Olatunji",
-          "url": "https://open.spotify.com/artist/04pf773tnBOux7gJaH108H"
-        }
-      ],
-      "duration_ms": 201594,
-      "name": "Engine Room",
-      "url": "https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Planet Jab Riddim",
         "url": "https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 191111,
       "name": "Run Wid It",
       "url": "https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soca Gold 2002",
-        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
-      },
-      "artists": [
-        {
-          "name": "Invasion Band Feat. Naya George",
-          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
-        }
-      ],
-      "duration_ms": 181960,
-      "name": "Trinidad",
-      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Darkseid Riddim",
         "url": "https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+        "name": "Soca Gold 2002",
+        "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
       "artists": [
         {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+          "name": "Invasion Band Feat. Naya George",
+          "url": "https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj"
         }
       ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
+      "duration_ms": 181960,
+      "name": "Trinidad",
+      "url": "https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1491,6 +1475,22 @@
       "duration_ms": 158917,
       "name": "Carnival Jumbie",
       "url": "https://open.spotify.com/track/6zFjWcBpe9N4mzD6AWp2pQ"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-02-12 17:24:55",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Too Real",
-        "url": "https://open.spotify.com/album/0ZNQstQ0ahvsAWzB5c0xoR"
-      },
-      "artists": [
-        {
-          "name": "Kerwin Du Bois",
-          "url": "https://open.spotify.com/artist/1yzePBgnaJhaFDpgt7MpxA"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Too Real",
-      "url": "https://open.spotify.com/track/3FkqGyIPfz7cn5B8W9sVdG"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Position",
         "url": "https://open.spotify.com/album/5qdP2o3JzTFe5ip7ljcEtX"
       },
@@ -1767,6 +1751,34 @@
       "duration_ms": 166588,
       "name": "Position",
       "url": "https://open.spotify.com/track/5q4NYj1C7JN2SaP6xgbpRT"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Down Dey (Refix)",
+        "url": "https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY"
+      },
+      "artists": [
+        {
+          "name": "GBM Nutron",
+          "url": "https://open.spotify.com/artist/2Kd1y3FJiNFcJRcdMvHdhT"
+        },
+        {
+          "name": "DJ Spider",
+          "url": "https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq"
+        },
+        {
+          "name": "Parry Jack",
+          "url": "https://open.spotify.com/artist/3bD41MPiBepcsiRyqlc9DA"
+        },
+        {
+          "name": "All Star Brass",
+          "url": "https://open.spotify.com/artist/5gMdbj51leNGDWTs35qsTa"
+        }
+      ],
+      "duration_ms": 173124,
+      "name": "Down Dey - Refix",
+      "url": "https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1"
     }
   ],
   "unique_name": "Massive Soca Hits",

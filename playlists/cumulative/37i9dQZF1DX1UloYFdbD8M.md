@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar, Salim Sulaiman
 
-467 songs - 1 day 4 hr 57 min
+468 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [FUNKY FUNKY](https://open.spotify.com/track/2roTsx5ggTU10Yv42JTksN) | [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg), [Unni Eldho](https://open.spotify.com/artist/5ZLiKNpSgIOCZs6s1zcVPg), [KARTHI](https://open.spotify.com/artist/55obZLZcCtYnKrMawHNgmU) | [FUNKY FUNKY](https://open.spotify.com/album/513fhYKM67VeK4eBNBQTtE) | 2:22 | 2025-11-16 | 2025-12-14 |
 | [Garudan](https://open.spotify.com/track/318OnS3kkEgC8PIY9oWbFz) | [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Garudan](https://open.spotify.com/album/66GY7yGX2gE7qEYCywJfpF) | 2:17 | 2025-03-17 | 2025-05-10 |
 | [Giddh](https://open.spotify.com/track/3QSD8pMN4h5W7Q1uXf2llP) | [Thaikkudam Bridge](https://open.spotify.com/artist/0kf7l9HNKxJcq6cgSjSWGI) | [Giddh](https://open.spotify.com/album/3xfYCwy48NZw4dKdmDURiO) | 4:18 | 2023-08-30 | 2025-01-14 |
-| [Gold](https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa) | [Gold](https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0) | 3:02 | 2025-08-06 |  |
+| [Gold](https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj) | [DJSHA](https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu), [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa) | [Gold](https://open.spotify.com/album/0PK5jkjXKLiMS7U2fmWft0) | 3:02 | 2025-08-06 | 2026-03-11 |
 | [Goli Soda](https://open.spotify.com/track/2tjdeqB1fzTqBi7wr3MU0W) | [Distosapien](https://open.spotify.com/artist/5TZ2tQ6CELFvCUOUe4r8At) | [Goli Soda](https://open.spotify.com/album/74sWQL65tl7NuZhGDUDRUQ) | 1:00 | 2025-11-03 | 2025-12-03 |
 | [Gopa Trance](https://open.spotify.com/track/2U2YHuFB8kYdmYzOp2FHg5) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Gopa Trance](https://open.spotify.com/album/3nSlJ9VWwpcX66QgFjSZNe) | 2:42 | 2023-09-29 | 2024-02-19 |
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
@@ -467,6 +467,7 @@
 | [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 | 2024-06-19 |
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 | 2024-06-25 |
 | [Veyil](https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC) | [Thanveer Zaman](https://open.spotify.com/artist/0C4C8ElFOrWVKqWFwssLXH), [Shiyaz Mhmd](https://open.spotify.com/artist/3Woy8AbDUnbuquWZnc0ez9) | [Veyil](https://open.spotify.com/album/46mEHWBOQAyQHjnFhiVS1g) | 2:52 | 2025-06-26 | 2025-10-01 |
+| [Vidha \- From Saina Indie Radar](https://open.spotify.com/track/0Am7wCieAFwFsmFTmS3rJ7) | [Ali Najih](https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo), [Dhaliya navas](https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw), [Leno Martin](https://open.spotify.com/artist/5JK0lP2maJcJ6G1z8N9r5K) | [Vidha \(From Saina Indie Radar\)](https://open.spotify.com/album/7ys7bCJKziDqLkNRFoS8yK) | 4:16 | 2026-03-10 |  |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 | 2024-10-01 |
 | [WILLING](https://open.spotify.com/track/1gXE2FuQb6xJvHjZRn0Rr8) | [EKAN](https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [WILLING](https://open.spotify.com/album/2P1xCCbxu9qGlVgp0IO4OB) | 3:07 | 2025-12-12 |  |
 | [Wrath](https://open.spotify.com/track/4aO8R0YzvBJIi0Z2GRzXC0) | [DREAMCODE](https://open.spotify.com/artist/7mnOxPNja4UnbCqdnyQBKB), [DROPAMINE](https://open.spotify.com/artist/3dXaLhqxBIE9RVug1gv9bd) | [Wrath](https://open.spotify.com/album/6s1pHJtpNLnFrsv7VMl1Ha) | 4:03 | 2025-04-21 | 2025-07-19 |

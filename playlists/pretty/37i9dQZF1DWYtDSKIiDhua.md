@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: GeeJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,031 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,028 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 5 | [Why You Wanna Fight?](https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 4:14 |
 | 6 | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 |
 | 7 | [Champagne Flying](https://open.spotify.com/track/2xL8UYp4kVr36tPvtOa7bc) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [Champagne Flying](https://open.spotify.com/album/5aI0h5vWUrm8MWYexYrtdv) | 3:20 |
-| 8 | [crybaby](https://open.spotify.com/track/2icmtCLDrMJZjO0rFGJXNF) | [CHUNGYOON](https://open.spotify.com/artist/7ajAOl7CQF2ZIc3n23pUAr), [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [crybaby](https://open.spotify.com/album/6PUJXA5GwBJ1yqFIoU3M6l) | 2:51 |
+| 8 | [crybaby \(feat\. aiai\)](https://open.spotify.com/track/2icmtCLDrMJZjO0rFGJXNF) | [CHUNGYOON](https://open.spotify.com/artist/7ajAOl7CQF2ZIc3n23pUAr), [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [crybaby](https://open.spotify.com/album/6PUJXA5GwBJ1yqFIoU3M6l) | 2:51 |
 | 9 | [room 5: WYWD](https://open.spotify.com/track/2GrnZnGjAseppFkcLyDqI4) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [VACANCY EP](https://open.spotify.com/album/5pSghB9L1CsF2iu5CtqQs0) | 2:12 |
 | 10 | [SAD 1ER CRU](https://open.spotify.com/track/0JWPJq3Zcqt30hTsmGDCMW) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [SAD 1ER CRU](https://open.spotify.com/album/0vyVsj6EJNdDFUXJBFY2UG) | 4:19 |
 | 11 | [Let Me Love You](https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Let Me Love You](https://open.spotify.com/album/105LdQFucx264gr5MMo2AX) | 3:13 |

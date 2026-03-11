@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 173606,
       "name": "Ghost Avenue",
       "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
@@ -13375,6 +13375,24 @@
     },
     {
       "album": {
+        "name": "\u3077\u308c\u3044\u3084",
+        "url": "https://open.spotify.com/album/6JjIGJUeclneQ3l8P4joVa"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u82bd",
+          "url": "https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262900,
+      "name": "\u3077\u308c\u3044\u3084",
+      "url": "https://open.spotify.com/track/5BahkRRILTVRPQTWeppj0f"
+    },
+    {
+      "album": {
         "name": "\u3078\u3073",
         "url": "https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB"
       },
@@ -13800,6 +13818,24 @@
       "duration_ms": 181538,
       "name": "\u3088\u3055\u305d\u3046",
       "url": "https://open.spotify.com/track/3qUlyd1hCDKBrVJqOb13j0"
+    },
+    {
+      "album": {
+        "name": "\u3088\u3082\u3059\u304c\u3089",
+        "url": "https://open.spotify.com/album/7cPTWBJ0hkadQDnIgNMS9r"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215233,
+      "name": "\u3088\u3082\u3059\u304c\u3089",
+      "url": "https://open.spotify.com/track/2aCg8PW6cbVLArMJ0W1KYy"
     },
     {
       "album": {
@@ -19358,7 +19394,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 173653,
       "name": "\u30d6\u30eb\u30fc\u30b7\u30e3\u30c9\u30a6\u306b\u306e\u3063\u304b\u3063\u3066",
       "url": "https://open.spotify.com/track/62jFkV1ctIh9lJzvWiaIRJ"
@@ -20676,7 +20712,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 148679,
       "name": "\u30ea\u30d9\u30e9",
       "url": "https://open.spotify.com/track/6kUge4VjMwcYOLlSGPQAAP"
@@ -30690,6 +30726,24 @@
       "duration_ms": 185021,
       "name": "\u9b54\u5d07\u83ef\u9e97\u5974",
       "url": "https://open.spotify.com/track/46G5u4FtuJbfyvkM7fOiAE"
+    },
+    {
+      "album": {
+        "name": "Magic if",
+        "url": "https://open.spotify.com/album/3Lchbtei59RdWPBlkQuoKx"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "\u9b54\u6cd5\u306e\u3082\u3057\u3082",
+      "url": "https://open.spotify.com/track/3IAHofKKU3trzoDIe4Gwq8"
     },
     {
       "album": {

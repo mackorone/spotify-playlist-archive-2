@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois dernier s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402556,
+  "num_followers": 402536,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : F\u00e9vrier 2026",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
+        "name": "un th\u00e9?",
+        "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 152659,
+      "name": "un th\u00e9?",
+      "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
+    },
+    {
+      "added_at": "2026-03-01 23:00:03",
+      "album": {
         "name": "I Did You Wrong",
         "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
       },
@@ -367,18 +383,18 @@
     {
       "added_at": "2026-03-01 23:00:03",
       "album": {
-        "name": "un th\u00e9?",
-        "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
+        "name": "Doom",
+        "url": "https://open.spotify.com/album/4aJxye23XBkIPfXwBYx1n6"
       },
       "artists": [
         {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+          "name": "Asinine",
+          "url": "https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C"
         }
       ],
-      "duration_ms": 152659,
-      "name": "un th\u00e9?",
-      "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
+      "duration_ms": 162800,
+      "name": "La b\u00eate",
+      "url": "https://open.spotify.com/track/1lV9VhiDMc6fDNhz5npGYQ"
     },
     {
       "added_at": "2026-03-01 23:00:03",
@@ -399,22 +415,6 @@
       "duration_ms": 224826,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60"
-    },
-    {
-      "added_at": "2026-03-01 23:00:03",
-      "album": {
-        "name": "Doom",
-        "url": "https://open.spotify.com/album/4aJxye23XBkIPfXwBYx1n6"
-      },
-      "artists": [
-        {
-          "name": "Asinine",
-          "url": "https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "La b\u00eate",
-      "url": "https://open.spotify.com/track/1lV9VhiDMc6fDNhz5npGYQ"
     },
     {
       "added_at": "2026-03-01 23:00:03",

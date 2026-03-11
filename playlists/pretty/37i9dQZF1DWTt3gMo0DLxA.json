@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: The Paradise",
-  "num_followers": 548387,
+  "num_followers": 549005,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHAEKtK4tDWcnnD+1emsiJo6g3dh",
+  "snapshot_id": "AAAAALBURx8BzffgKBV/uhNZi4xlDVZi",
   "tracks": [
     {
       "added_at": "2026-02-25 10:32:25",
@@ -57,34 +57,6 @@
       "url": "https://open.spotify.com/track/29HAoc3GDDbb7mW9isgs9K"
     },
     {
-      "added_at": "2026-03-03 06:36:54",
-      "album": {
-        "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
-        "url": "https://open.spotify.com/album/6l8wEEgbJ0VYfkMhEL999z"
-      },
-      "artists": [
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        },
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        },
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        }
-      ],
-      "duration_ms": 79234,
-      "name": "Endhayya Saami (Special Surprise) [From \"Ranabaali\"]",
-      "url": "https://open.spotify.com/track/3bBKPc5S5VkIP2msOWMFkv"
-    },
-    {
       "added_at": "2026-03-05 05:58:12",
       "album": {
         "name": "Munna",
@@ -121,7 +93,7 @@
       "url": "https://open.spotify.com/track/2Zu9jBaVw9WsjCfQszpeh7"
     },
     {
-      "added_at": "2026-02-26 13:21:50",
+      "added_at": "2026-03-10 04:56:55",
       "album": {
         "name": "Geetha Govindam",
         "url": "https://open.spotify.com/album/0HJz9WijjAmBKRIueDTGmm"
@@ -136,9 +108,9 @@
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 266715,
-      "name": "Inkem Inkem Inkem Kaavaale",
-      "url": "https://open.spotify.com/track/3hglFJgXWPZUlHLfiDO35b"
+      "duration_ms": 250402,
+      "name": "Vachindamma",
+      "url": "https://open.spotify.com/track/6WQcCaXK4B1MYEMiV90j1O"
     },
     {
       "added_at": "2025-11-11 06:12:33",
@@ -251,6 +223,26 @@
       "duration_ms": 314373,
       "name": "Rooba Rooba",
       "url": "https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop"
+    },
+    {
+      "added_at": "2026-03-10 04:56:55",
+      "album": {
+        "name": "Idli Kottu",
+        "url": "https://open.spotify.com/album/5g8COIZlXFPmv4ZMKpFhMk"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Samrat Naidu",
+          "url": "https://open.spotify.com/artist/4JmC9OnSXXGii6wjU1qRUX"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Endharo Cheppinna",
+      "url": "https://open.spotify.com/track/7cpVOnJz4b0PAE3VhRKg6Q"
     },
     {
       "added_at": "2025-11-20 09:32:51",

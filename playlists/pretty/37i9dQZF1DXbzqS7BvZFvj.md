@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Denzel Curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,711 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,710 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 15 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
 | 16 | [STARLIGHT](https://open.spotify.com/track/0FG5Byhhrxel96MUf1tTUb) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [STARLIGHT](https://open.spotify.com/album/5TibMNvMzjSot778RCMlDy) | 4:02 |
 | 17 | [Pain In My Eyes](https://open.spotify.com/track/5gcW3vHfdGwTn54ciRKu5d) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Still Standing](https://open.spotify.com/album/0W3LiRxmAhEIbwg4Sd2AU9) | 2:30 |
-| 18 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
+| 18 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Alenoise](https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
 | 19 | [アニョハセヨ](https://open.spotify.com/track/79o6CP5pgfHARPPXRHOcBN) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy) | [アニョハセヨ](https://open.spotify.com/album/2Vxwq1HTQ54jYHyinyIgWl) | 1:56 |
 | 20 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 21 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 |

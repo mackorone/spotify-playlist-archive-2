@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Juice WRLD\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,984 likes - 94 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,012 likes - 94 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 3 | [UP \[Feat\. Rich The Kid, A$AP Ferg & SadBoi\]](https://open.spotify.com/track/1nTawhKNAyDAtEkhPsNYY7) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Strictly 4 The Scythe](https://open.spotify.com/album/4vhZKLj3AB4e64DF1r6hTG) | 4:06 |
 | 4 | [I’m From The Bay](https://open.spotify.com/track/1dYWMsl6qgH0adxLDzOUR8) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Something’s In The Water](https://open.spotify.com/album/2Knrk6Q04i9itgxtTSguQN) | 3:08 |
 | 5 | [Baby I](https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Baby I](https://open.spotify.com/album/006WlILgYRtLjhs1W1w1Ov) | 2:20 |
-| 6 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
+| 6 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Alenoise](https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
 | 7 | [My Fan](https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [My Fan](https://open.spotify.com/album/2koHYjVXuawGbr10SRozrX) | 2:45 |
 | 8 | [レベルアップ \- feat\. Hezron](https://open.spotify.com/track/5RS3Yxr5QtLvb7YlHuRpPR) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq) | [レベルアップ \(feat\. Hezron\)](https://open.spotify.com/album/0AdIq2Yf6haNtPjZPoc4Hk) | 3:58 |
 | 9 | [Ain't No Love](https://open.spotify.com/track/6UgaFYmyZht8TrdeLiBF8r) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2), [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q) | [Ain't No Love](https://open.spotify.com/album/4gR3BjHuWgpFqpM7nVfF8M) | 2:27 |

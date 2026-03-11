@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,127 songs - 5 day 4 hr 21 min
+2,128 songs - 5 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1630,6 +1630,7 @@
 | [SOTTOMARINI](https://open.spotify.com/track/64CkptZ0a6rjIon86EANMj) | [ROOD!](https://open.spotify.com/artist/6QwZaBjMSO6y4tdUz7NFPU) | [COLPAMIA/SOTTOMARINI](https://open.spotify.com/album/1jrawEl9DKkpKiogUIT30u) | 1:34 | 2024-09-23 |  |
 | [Soul Horizon](https://open.spotify.com/track/1wzcYJVC0d80oyhtZ4J5Zm) | [BoogaTronic](https://open.spotify.com/artist/1l9I8K5ejxgEiVwxMCwXzs) | [Soul Horizon](https://open.spotify.com/album/3wclxdmvp9ftfcKzufWxZQ) | 3:44 | 2025-04-14 |  |
 | [Soul Song](https://open.spotify.com/track/5jk9drHYAkS0GatUSZkObS) | [Michael J Tinker](https://open.spotify.com/artist/7vf3jj90AWBUccLAs4Twus) | [Soul Song](https://open.spotify.com/album/3EW9b9Efiesp9HFyFJmmSm) | 3:10 | 2025-12-04 |  |
+| [Sous la lune, le murmure](https://open.spotify.com/track/1F7g51N0nafLXuALdyKJyJ) | [Gigakript](https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T) | [Sous la lune, le murmure](https://open.spotify.com/album/2D6vwUM0azExiKsB7JmZdY) | 4:24 | 2026-03-10 |  |
 | [Sous mes ailes](https://open.spotify.com/track/0fUWq5l2rlxrvZhc774tB8) | [Mycelium Project](https://open.spotify.com/artist/56ZcdfiLBv5xFmuCOlaZy3) | [Underground network](https://open.spotify.com/album/3uGuo9Iv88kmWnuuS87grd) | 4:23 | 2025-05-19 |  |
 | [Southern Skies](https://open.spotify.com/track/5yebiCyKxJrBnUwp73uyx1) | [Randy Mattsen](https://open.spotify.com/artist/1P4n4t4XjTO4AB2ttKOhV6) | [Southern Skies](https://open.spotify.com/album/1MLdSM5Cf9g5fi4KBaZhWt) | 2:57 | 2024-05-14 |  |
 | [SOÑADOR](https://open.spotify.com/track/2rr6QU2EzKKytNaxSaw30J) | [Cris Aliotta](https://open.spotify.com/artist/1HpLCs0dlO30MkuAUfj8sm) | [SOÑADOR](https://open.spotify.com/album/7cFsRmjomg9BWWXTr8rwig) | 3:46 | 2025-04-29 |  |

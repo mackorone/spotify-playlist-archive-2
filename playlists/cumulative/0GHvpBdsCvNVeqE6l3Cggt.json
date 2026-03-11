@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "gas station girlfriend",
+        "url": "https://open.spotify.com/album/1nE1fzPL2oAre8fRPWNGBg"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Gutierrez",
+          "url": "https://open.spotify.com/artist/0SMmk3DtmoaGVYVvSiq8ga"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228219,
+      "name": "gas station girlfriend",
+      "url": "https://open.spotify.com/track/5bCj0DcXw0U2DVxv5IYvwT"
+    },
+    {
+      "album": {
         "name": "Out Of Nothing",
         "url": "https://open.spotify.com/album/5oJiqbHX8PnUc1uEEAcII7"
       },

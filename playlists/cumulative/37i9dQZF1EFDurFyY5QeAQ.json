@@ -718,10 +718,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 248293,
       "name": "Glowing",
       "url": "https://open.spotify.com/track/2q2IvYjfidmDUXag3batKZ"
+    },
+    {
+      "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/55499noDiWYNvCIKT35FVs"
+      },
+      "artists": [
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71310,
+      "name": "glowing",
+      "url": "https://open.spotify.com/track/3vcORtMP3AUhX5wRaVIhqs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-413 songs - 22 hr 12 min
+414 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 | 2023-02-23 | 2024-12-13 |
 | [After Dark](https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [After Dark](https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy) | 3:43 | 2023-02-09 | 2024-11-09 |
 | [Aguila](https://open.spotify.com/track/3iZGBhU96lWp6pZSpiisIr) | [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX), [Kick Therapy](https://open.spotify.com/artist/2xy8VXCyJDdFYUxYGXbfpf) | [Aguila](https://open.spotify.com/album/5aixm3KEOdtOaTXgW3Bs5C) | 3:19 | 2022-12-15 | 2023-02-19 |
+| [Ain't No Thing](https://open.spotify.com/track/5SpaC3YsMTtv2WamENm0TP) | [Revealer](https://open.spotify.com/artist/2QNMNOR2Sbsedf6pxxACgN) | [Ain't No Thing](https://open.spotify.com/album/5wwb036FaZ5tfNmV4OD23R) | 2:21 | 2026-03-06 |  |
 | [ALLERLAATSTE FEESTJE](https://open.spotify.com/track/647e5w5pkhyX0XTZHRJK4m) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk) | [ALLERLAATSTE FEESTJE](https://open.spotify.com/album/7J7zRhFxdO4nSOOQK04Df3) | 3:03 | 2023-10-06 | 2024-12-13 |
 | [Another Club Banger](https://open.spotify.com/track/1Kw5RisasBWQ2s1E8Yx9GG) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS) | [Another Club Banger EP](https://open.spotify.com/album/7mpD7MeNm8WEHb8KzCYmtd) | 4:21 | 2025-09-26 | 2026-02-11 |
 | [Antidote](https://open.spotify.com/track/6lmpE4fLJcfCKxJViIRjZK) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 3:42 | 2023-09-01 | 2023-10-07 |
@@ -398,7 +399,7 @@
 | [Uptempo Airlines](https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Pinotello](https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d) | [Uptempo Airlines](https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP) | 2:44 | 2025-11-24 |  |
 | [Vida Loca](https://open.spotify.com/track/7gVm5cBMqXahUkz3Dvlwrv) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Vida Loca](https://open.spotify.com/album/0vMsQ7wShHQP57T33VmuCn) | 2:59 | 2022-12-08 | 2023-06-30 |
 | [Viens je t'emmène](https://open.spotify.com/track/4nKtQohelkyxRL4YMXarlq) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd) | [Viens je t'emmène](https://open.spotify.com/album/0yjaLZtMyOWb0Y4o6ziT03) | 3:14 | 2023-12-21 | 2024-12-13 |
-| [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 | 2025-08-07 |  |
+| [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 | 2025-08-07 | 2026-03-11 |
 | [WaKe uP](https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [WaKe uP](https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ) | 2:25 | 2026-03-06 |  |
 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 | 2023-03-30 | 2024-11-09 |
 | [Walking Dead](https://open.spotify.com/track/0pQWBa5bpSe36ziEsHIKGy) | [Potato](https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV) | [Walking Dead](https://open.spotify.com/album/7r4C5A5LB6uNLsgA7lgU7z) | 2:46 | 2023-05-18 | 2023-06-30 |

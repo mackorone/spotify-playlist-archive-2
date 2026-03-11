@@ -7018,7 +7018,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 130050,
       "name": "Karkki vai kepponen?",
       "url": "https://open.spotify.com/track/21qzvhxiQfQkVtHNq2iKRZ"
@@ -10454,6 +10454,24 @@
       "duration_ms": 220303,
       "name": "Merenneito",
       "url": "https://open.spotify.com/track/5LbGsP0guVvJrs2AYq0Y5B"
+    },
+    {
+      "album": {
+        "name": "Merimailei",
+        "url": "https://open.spotify.com/album/34FXe9qxOdimZPDv2eklzR"
+      },
+      "artists": [
+        {
+          "name": "Riekko Salama",
+          "url": "https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "Merimailei",
+      "url": "https://open.spotify.com/track/3giQeeZlkbqIcjIYml2lE1"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93412,
+  "num_followers": 93419,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aay8AAAAAADMGw66mZAh34I+JMGUBk3d",
+  "snapshot_id": "aa4NgAAAAAAADJ6A7mbjyGy88iqhFk0C",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live op Concert at SEA 2015",
-        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
+        "name": "De Grasbroek Sessies",
+        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 282866,
-      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
-      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+      "duration_ms": 198826,
+      "name": "Vroeg of Laat",
+      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Grasbroek Sessies",
-        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
+        "name": "Live op Concert at SEA 2015",
+        "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 198826,
-      "name": "Vroeg of Laat",
-      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
+      "duration_ms": 282866,
+      "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
+      "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
     },
     {
       "added_at": null,

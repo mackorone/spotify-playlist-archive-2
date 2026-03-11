@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,057 songs - 2 day 11 hr 56 min
+1,060 songs - 2 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Avoidant](https://open.spotify.com/track/1fWwlZVec79sMQ4rMNngII) | [choline](https://open.spotify.com/artist/0oIJkLO0Wbca0flyK0nvfT) | [Avoidant](https://open.spotify.com/album/1W4Z4uVk0FJ2FhEhtMmCMo) | 4:25 | 2025-12-23 | 2026-01-15 |
 | [Awake](https://open.spotify.com/track/5Am6CIarSZhrRekBzNgONx) | [Bear Jr](https://open.spotify.com/artist/0O8rk33EP9v7d6NNjziFEx) | [Every Little Thing](https://open.spotify.com/album/5c2ptgyReOkQlsbJIpcW9a) | 3:42 | 2026-01-08 | 2026-01-29 |
 | [B\-Side](https://open.spotify.com/track/7Ce01nMprYbN30R5InTTBh) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Feber EP](https://open.spotify.com/album/27sODt7CxuhqDLDZDNAP9f) | 0:57 | 2025-08-03 |  |
+| [Back For You](https://open.spotify.com/track/24vB9KU0Js72mkIUehOLLy) | [Finding Aurora](https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0) | [Back For You](https://open.spotify.com/album/6BegE1id4r7qCygofzNGTb) | 4:06 | 2026-03-10 |  |
 | [Back In Early 00's](https://open.spotify.com/track/7E999lKzlhXOxmXnzI3ZgG) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Back In Early 00's](https://open.spotify.com/album/205K7PtnliKtZ57qtHHRiU) | 3:13 | 2025-12-08 | 2026-01-06 |
 | [Backwards](https://open.spotify.com/track/4yjlLn64Pm9LwWUffWhd1P) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Backwards](https://open.spotify.com/album/2hMtwB5CvVyY0Xf3EAJNId) | 3:14 | 2025-11-27 | 2025-12-24 |
 | [Banshee Cry](https://open.spotify.com/track/3niZyQsYRWSeAnvTka7w1J) | [ill jill](https://open.spotify.com/artist/4kZpxiFPHZedF5zbsI8F3A) | [My Body Is Mine to Decide](https://open.spotify.com/album/4DsY2SV64X2m23bmZk63YA) | 2:03 | 2026-02-02 | 2026-03-06 |
@@ -282,6 +283,7 @@
 | [ego +](https://open.spotify.com/track/2NvZTOntxXFORfVK2eZqaF) | [marȼh](https://open.spotify.com/artist/6Vrp8TrWbYOIW7ErVD3mYf) | [ego +](https://open.spotify.com/album/6HB1GhSOGUp852lQCfnwFw) | 1:40 | 2026-01-18 | 2026-02-06 |
 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2025-11-30 | 2025-12-24 |
 | [Electric Venom](https://open.spotify.com/track/5SlcqXaD8zgLcpLQF8iHbA) | [vE3nOmM](https://open.spotify.com/artist/3BA9T2JOjMbAgFk312F5Ep) | [Electric Venom](https://open.spotify.com/album/4D3uv2VBZd1Y3E8cWDx7HD) | 2:49 | 2026-03-04 |  |
+| [Ellipsis](https://open.spotify.com/track/5GMZ7ygRbn1lns7kdzEhCN) | [Stealing Handshakes](https://open.spotify.com/artist/2HeQNlVfXXKAj3AnSxJPnQ) | [Ellipsis](https://open.spotify.com/album/3VEIBSNTPzwrgpgI40N3Nj) | 3:31 | 2026-03-10 |  |
 | [Elons Neuragazm](https://open.spotify.com/track/3vuNKGnwDSYiIJNYByIaGO) | [Simulation Defect](https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK), [Tom Hey](https://open.spotify.com/artist/0pE8OHVLedNBkAIjFdx3lS) | [Colonize Mars](https://open.spotify.com/album/0mGkAzYFpSo0HKxxON0wqS) | 2:34 | 2025-12-16 | 2026-01-06 |
 | [Elvira](https://open.spotify.com/track/13g6NsqL8uCVFX6lr3P24R) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:55 | 2025-09-16 |  |
 | [Emo Dancing](https://open.spotify.com/track/3Oaul3W1QAfjbTOY7P1lpf) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 3:15 | 2025-10-24 | 2026-01-15 |
@@ -376,6 +378,7 @@
 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2025-11-21 | 2025-12-10 |
 | [Greedy](https://open.spotify.com/track/2EpfWYkOZPkXCqFvJXYlw5) | [I'd Rather Be](https://open.spotify.com/artist/4EETQElkLfuxxTydmWxpLS) | [Greedy](https://open.spotify.com/album/21vKeyIaOKGHc1G98mjAX7) | 2:14 | 2026-01-30 | 2026-03-03 |
 | [Green Dynamite](https://open.spotify.com/track/1ZD6uio5K3zI6K605c0IkW) | [Nexus\_0](https://open.spotify.com/artist/1DeTbdvBWontCdCJThnYV8) | [Green Dynamite](https://open.spotify.com/album/79l6J16R93JFWhOJi7uQxo) | 3:54 | 2026-03-02 |  |
+| [Groceries](https://open.spotify.com/track/3XchDQDHTVYGWEVBKGPe6N) | [Tired Cossack](https://open.spotify.com/artist/7LZt0YpmFcot7UQ7BqOQtq) | [Groceries](https://open.spotify.com/album/0Gy6SeuSqw6J5Zp2AddiJ0) | 2:40 | 2026-03-10 |  |
 | [Grown Up](https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI) | [The DT's](https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ) | [Grown Up](https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh) | 3:16 | 2025-12-25 | 2026-01-15 |
 | [GUARDIAN](https://open.spotify.com/track/08F0GASkCAgiQiSCezLqAA) | [ethical artifacts](https://open.spotify.com/artist/7IHO8Z5AdfjxUv1KkIE6fV) | [GUARDIAN](https://open.spotify.com/album/5ihPLwitCr5awlUmBzpK5g) | 4:18 | 2025-12-19 | 2026-01-22 |
 | [Hallelujah](https://open.spotify.com/track/1PjtZThLPYY2DZSfkv5YgY) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Putting The Ex In XMas](https://open.spotify.com/album/4MsJGwIsQfgCTkQvrx1xby) | 5:00 | 2025-12-10 | 2026-01-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic beats and dark ambient movements.
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,042 likes - 166 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,029 likes - 166 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 16 | [Pride and Joy](https://open.spotify.com/track/4ShqE9f4IFXIWAkfzQlGZe) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Pride and Joy](https://open.spotify.com/album/3aYlBOUie41gTAOqwRK2Wr) | 3:10 |
 | 17 | [Ask Somebody](https://open.spotify.com/track/5fsd2pgZipjq2RqCIiqljd) | [Testomoron](https://open.spotify.com/artist/70j04I0wpjJTeI5U9EjZFQ) | [Ask Somebody](https://open.spotify.com/album/4JstE1rhJBLvVo8jfmzjIo) | 2:34 |
 | 18 | [Gogh](https://open.spotify.com/track/5vyVUBGUkdlIvSCVyLhlz6) | [Slim Rex](https://open.spotify.com/artist/1HuOkLUeW7mCWXf8ZnEVNX) | [Gogh](https://open.spotify.com/album/63sPq8YeeaClKpUy9m2zpn) | 2:37 |
-| 19 | [Last Ember](https://open.spotify.com/track/4ELU8m2fTXeIxH0nRjrqdV) | [Nineveh Skies](https://open.spotify.com/artist/3fp5CnEXdB6fA0M5iva4RA), [Karam Salem](https://open.spotify.com/artist/7AssYmLVlftLd4uZy7997Q) | [Last Ember](https://open.spotify.com/album/36rW0fuSj7V7ey7sqmQWD7) | 3:15 |
+| 19 | [Last Ember](https://open.spotify.com/track/4ELU8m2fTXeIxH0nRjrqdV) | [Nineveh Skies](https://open.spotify.com/artist/3fp5CnEXdB6fA0M5iva4RA), [Karam Salem](https://open.spotify.com/artist/1caXkPJOSwy2Qf5UibYwcc) | [Last Ember](https://open.spotify.com/album/36rW0fuSj7V7ey7sqmQWD7) | 3:15 |
 | 20 | [Roddy](https://open.spotify.com/track/0BfTbisZxX8U0sly9fA5CW) | [Treyon Dubs](https://open.spotify.com/artist/4pI8EDlzNqCOIndxbX5RFo) | [Roddy](https://open.spotify.com/album/4h1XpHRfiBXd3pdnWI5tuZ) | 2:22 |
 | 21 | [don't reach for me](https://open.spotify.com/track/2LrxfiWtFury5Oowu6llWD) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [don't reach for me](https://open.spotify.com/album/5h87FHTePshgxB4D6VqFRh) | 2:36 |
 | 22 | [bussdown bossa](https://open.spotify.com/track/3FGdR8SdahNnDJ3nUFG5Eg) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [Real Ones](https://open.spotify.com/album/6ANMl8JtgJtVBbEoIuO1Fi) | 3:20 |

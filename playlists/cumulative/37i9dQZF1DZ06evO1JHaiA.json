@@ -750,7 +750,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 165813,
       "name": "I'm Glad Your're My Girl",
       "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 244906,
       "name": "Mother and Child Reunion",
       "url": "https://open.spotify.com/track/6sAPnlY46Dq0f2LqlWcRTx"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 257333,
       "name": "Only One",
       "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
@@ -1542,8 +1542,8 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
-      "duration_ms": 156053,
+      "date_removed": null,
+      "duration_ms": 156049,
       "name": "Wonder What Kind of Bag She's In",
       "url": "https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE"
     },

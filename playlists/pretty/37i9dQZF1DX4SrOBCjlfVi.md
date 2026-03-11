@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Juice WRLD, The Scythe, Skrilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,426 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,460 likes - 48 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 16 | [ALREADY MINE](https://open.spotify.com/track/3r0z0osqa5540ESSK3xQrq) | [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [ALREADY MINE](https://open.spotify.com/album/5FrD2Gq0lVZnFqln6OKmb7) | 3:18 |
 | 17 | [Toxic](https://open.spotify.com/track/3F1ostPsVmNFzFNDfPj7ua) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Half Blood \(BloodLuxe\)](https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj) | 4:29 |
 | 18 | [Wigglin](https://open.spotify.com/track/6wsJneWdArI6crtiPYr8ZG) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Something’s In The Water](https://open.spotify.com/album/2Knrk6Q04i9itgxtTSguQN) | 2:23 |
-| 19 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:35 |
+| 19 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:36 |
 | 20 | [FIJI](https://open.spotify.com/track/3o3oF6mXg9Ko21ylS5DBzB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [FIJI](https://open.spotify.com/album/2SknDGjIYMDmm3imTXp8RD) | 3:34 |
 | 21 | [Twin](https://open.spotify.com/track/7lbsfb6EyVgr8h621DC3mk) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Twin](https://open.spotify.com/album/0OVCEDsDLCSYn0OLOsFVDu) | 1:28 |
 | 22 | [Patty Cake](https://open.spotify.com/track/7kcWzigXZnd21RYgmTUmWf) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u), [SpeedballSosa2x](https://open.spotify.com/artist/5yllEzidK7LVQ2j71vRHuJ) | [Patty Cake](https://open.spotify.com/album/3oW84lKfRVj9HcEw33DW3E) | 2:46 |

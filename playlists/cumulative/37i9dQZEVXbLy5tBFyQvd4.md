@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-1,162 songs - 2 day 16 hr 46 min
+1,163 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Aguacero](https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:30 | 2022-05-07 | 2022-09-04 |
 | [Ahí Estaré Yo](https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Camino del Amor](https://open.spotify.com/album/1fvaT1qOl0H0gAHk5RHbts) | 3:20 | 2024-03-16 | 2024-04-01 |
 | [AIRBNB](https://open.spotify.com/track/0fuyLaeHh0TvQ65m5ojgP2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:05 | 2022-11-05 | 2022-11-07 |
-| [Al Final del Día](https://open.spotify.com/track/5fnuvDHHkPdcnCbi675PSF) | [Xolo Music](https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6) | [Al Final del Día](https://open.spotify.com/album/59yx8ngDCtq6YATujXGQyg) | 3:44 | 2026-02-22 |  |
+| [Al Final del Día](https://open.spotify.com/track/29OfK2Au1LFtDNSKwsAm7i) | [Xolo Music](https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6) | [Al Final del Día](https://open.spotify.com/album/5ANEFe2tJKtn3O0zr7cJrE) | 3:44 | 2026-03-08 |  |
+| [Al Final del Día](https://open.spotify.com/track/5fnuvDHHkPdcnCbi675PSF) | [Xolo Music](https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6) | [Al Final del Día](https://open.spotify.com/album/59yx8ngDCtq6YATujXGQyg) | 3:44 | 2026-02-22 | 2026-03-11 |
 | [Al Final Del Día](https://open.spotify.com/track/6r9czfSZp4moVpP1NUlWub) | [Xolo Music](https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6) | [Al Final Del Día](https://open.spotify.com/album/4EZsD3FUx5hUvSELDX6C3M) | 3:44 | 2026-01-19 | 2026-02-04 |
 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-16 | 2025-07-27 |
 | [Alch Si](https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Alch Si](https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc) | 2:33 | 2024-02-05 | 2024-05-03 |

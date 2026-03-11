@@ -1495,6 +1495,36 @@
     },
     {
       "album": {
+        "name": "Balma",
+        "url": "https://open.spotify.com/album/0cIUcddrziyaJ8I8WIqLjT"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/67SWJbjPx8M3562Ewl4Ygx"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180728,
+      "name": "Balma",
+      "url": "https://open.spotify.com/track/2Ao7j1XOc6CdC1Nehjatzo"
+    },
+    {
+      "album": {
         "name": "Ban Ke Dikha Ikkis (From \"Ikkis\")",
         "url": "https://open.spotify.com/album/4J2vnSGmsEhlhkqczdt1Xf"
       },
@@ -3506,7 +3536,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 257518,
       "name": "Dil Se",
       "url": "https://open.spotify.com/track/7rXK1ksEA28ZnOQSwMXGuY"
@@ -3776,7 +3806,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 167154,
       "name": "Duhaai",
       "url": "https://open.spotify.com/track/3KoxL3EkonVdQyKVc3T0h4"
@@ -9262,6 +9292,24 @@
       "duration_ms": 300133,
       "name": "Nayi Baat",
       "url": "https://open.spotify.com/track/2VRMMimuXlHU4f6px2gGvD"
+    },
+    {
+      "album": {
+        "name": "Nazaara Sufiverse",
+        "url": "https://open.spotify.com/album/3e8UaOm7IKbdWKwCujOVQj"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Majmudar",
+          "url": "https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169787,
+      "name": "Nazaara Sufiverse",
+      "url": "https://open.spotify.com/track/6mFLbBs2FdOvee9ecU3OdU"
     },
     {
       "album": {

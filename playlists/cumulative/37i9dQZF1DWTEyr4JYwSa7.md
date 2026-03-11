@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-377 songs - 20 hr 32 min
+378 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Noël à Jérusalem](https://open.spotify.com/track/5NOIYvClm7ZvgeNSKE5dLW) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Noël Gospel](https://open.spotify.com/album/23TY3rg5y73zy5EQqDPcRx) | 3:53 | 2021-12-17 | 2022-07-27 |
 | [Noël à Paris](https://open.spotify.com/track/1iX0aX4G4SCoSlG0CqKgqs) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Noël 2019](https://open.spotify.com/album/6ykFQwwI2HgSZsHAzprXeP) | 2:29 | 2021-12-17 |  |
 | [Noël à Paris](https://open.spotify.com/track/1nYc3paA3jh6o0aWM9H0n7) | [Marc\-André Fortin](https://open.spotify.com/artist/2DwEhYCcTcVbqoSFwaxuhI) | [Noël à Paris](https://open.spotify.com/album/7IoUwAOf2KPnmBN6LVDhyv) | 2:28 | 2025-12-12 |  |
+| [Noël à Saint\-Marc](https://open.spotify.com/track/3NPAUjCPDuQva9q2kTO3NM) | [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI) | [Noël à Saint\-Marc](https://open.spotify.com/album/5ZUUZCcGaWlXLedDErOOte) | 3:42 | 2025-12-12 |  |
 | [Noël à trois](https://open.spotify.com/track/5aIYR5KTWTXQVphJBbJhl2) | [Manon Séguin](https://open.spotify.com/artist/6wv9s0XMd0Gk8eZBxmnRhD), [Christian Marc Gendron](https://open.spotify.com/artist/1rGD35s9369KpajSQylkQ9) | [Noël à trois](https://open.spotify.com/album/7oXPCfoclsCPgKsu9UPrZv) | 3:32 | 2021-12-17 | 2022-07-28 |
 | [Noël, c’est l’amour](https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Noël, c’est l’amour](https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte) | 3:35 | 2025-12-12 |  |
 | [Noël, parle\-moi](https://open.spotify.com/track/2KCMOY9ErnI9KLn5GAGr6v) | [Marie Denise Pelletier](https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l) | [Noël, parle\-moi](https://open.spotify.com/album/4RDHyPV39Ux7Wa1GtVOEtw) | 4:12 | 2021-12-17 | 2022-07-22 |
@@ -323,7 +324,7 @@
 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 | 2024-12-06 | 2025-12-13 |
 | [Sainte Nuit](https://open.spotify.com/track/04iRY9jDir3zzfR8maVhW6) | [Annie Blanchard](https://open.spotify.com/artist/24qMzpzrkTCHm3dqASHnO4) | [Chansons de Noël pour la Fondation Jasmin Roy](https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00) | 4:35 | 2021-12-17 | 2022-07-29 |
 | [Sainte nuit](https://open.spotify.com/track/4Yg8sGXGNNTluvZqGwbxDo) | [Les Gars Du Nord](https://open.spotify.com/artist/1oP33Qef6w5SeTOfyoKoTu) | [Les Gars Du Nord](https://open.spotify.com/album/7Ke95dHUELWoPehbQvIhbz) | 3:51 | 2021-12-17 | 2022-07-28 |
-| [Sainte Nuit](https://open.spotify.com/track/4gAgVk0X8m3t5NDJc3GYCB) | [Victoire Musique](https://open.spotify.com/artist/32sbuppF72lJLfmjCkOtbl) | [Sainte Nuit](https://open.spotify.com/album/2vTgx0uKwHO6ZRKwcq4nle) | 5:25 | 2025-12-12 |  |
+| [Sainte Nuit](https://open.spotify.com/track/4gAgVk0X8m3t5NDJc3GYCB) | [Victoire Musique](https://open.spotify.com/artist/32sbuppF72lJLfmjCkOtbl) | [Sainte Nuit](https://open.spotify.com/album/2vTgx0uKwHO6ZRKwcq4nle) | 5:25 | 2025-12-12 | 2026-03-11 |
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2021-12-17 | 2024-11-08 |
 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 | 2021-12-17 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6syO6UTl8QiiWADJy3Uy2d) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:14 | 2021-12-17 | 2025-12-13 |

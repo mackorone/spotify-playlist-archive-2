@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Clave Nueva \ud83d\udcf8",
-  "num_followers": 1298819,
+  "num_followers": 1298934,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -603,8 +603,8 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Lo Que Dure Esta Botella",
-        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
+        "name": "Que Bonita Mujer",
+        "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 174824,
-      "name": "Lo Que Dure Esta Botella",
-      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
+      "duration_ms": 203720,
+      "name": "Que Bonita Mujer",
+      "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -687,8 +687,8 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Que Bonita Mujer",
-        "url": "https://open.spotify.com/album/2BtZH6xEnUZ9FVoi9DXLdN"
+        "name": "Lo Que Dure Esta Botella",
+        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Que Bonita Mujer",
-      "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
+      "duration_ms": 174824,
+      "name": "Lo Que Dure Esta Botella",
+      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "En Coma Inducido",
-        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 159929,
-      "name": "En Coma Inducido",
-      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Sentimental (En Vivo)",
         "url": "https://open.spotify.com/album/2JHZkvvlS9rpifBcokiGGr"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 168000,
       "name": "Sentimental - En Vivo",
       "url": "https://open.spotify.com/track/713JF6JQtSfs7gpvMrdbIx"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "En Coma Inducido",
+        "url": "https://open.spotify.com/album/79YqRvx0jBW7Jju1jUbPmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 159929,
+      "name": "En Coma Inducido",
+      "url": "https://open.spotify.com/track/7cqzVh8WGPqFdF0MvUuU1j"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -1239,22 +1239,34 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Las Tres Vueltas",
-        "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
+        "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
+        "url": "https://open.spotify.com/album/4yMNMGfURraXhNmz2Er9Gh"
       },
       "artists": [
         {
-          "name": "Banda Cruz de Oro",
-          "url": "https://open.spotify.com/artist/0iHljO1e4ZiVTPIqtnUBrK"
-        },
-        {
-          "name": "Los Mentados De Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 140832,
-      "name": "Las Tres Vueltas",
-      "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
+      "duration_ms": 179745,
+      "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
+      "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
+      },
+      "artists": [
+        {
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+        }
+      ],
+      "duration_ms": 176982,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -1279,34 +1291,22 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
+        "name": "Las Tres Vueltas",
+        "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
       },
       "artists": [
         {
-          "name": "Edwin Garcia",
-          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
-        }
-      ],
-      "duration_ms": 176982,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
-        "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
-        "url": "https://open.spotify.com/album/4yMNMGfURraXhNmz2Er9Gh"
-      },
-      "artists": [
+          "name": "Banda Cruz de Oro",
+          "url": "https://open.spotify.com/artist/0iHljO1e4ZiVTPIqtnUBrK"
+        },
         {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+          "name": "Los Mentados De Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV"
         }
       ],
-      "duration_ms": 179745,
-      "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
-      "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
+      "duration_ms": 140832,
+      "name": "Las Tres Vueltas",
+      "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Te amo y te amar\u00e9",
-        "url": "https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3"
-      },
-      "artists": [
-        {
-          "name": "Decibel Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
-        }
-      ],
-      "duration_ms": 253071,
-      "name": "Te amo y te amar\u00e9",
-      "url": "https://open.spotify.com/track/6jDO7AeD5w2YlRqrH0ONVy"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Los Que Amo",
         "url": "https://open.spotify.com/album/1Rsjp6wljeukexzkdP1plW"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "60 Aniversario: El Legado Contin\u00faa",
-        "url": "https://open.spotify.com/album/0dIogYaSGCLU5fiVJMin26"
+        "name": "Te amo y te amar\u00e9",
+        "url": "https://open.spotify.com/album/4m7YV1cz8QGOegGkHZVGr3"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Decibel Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu"
         }
       ],
-      "duration_ms": 132864,
-      "name": "El Amor De Mi Vida",
-      "url": "https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB"
+      "duration_ms": 253071,
+      "name": "Te amo y te amar\u00e9",
+      "url": "https://open.spotify.com/track/6jDO7AeD5w2YlRqrH0ONVy"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -1471,6 +1455,22 @@
       "duration_ms": 189544,
       "name": "Y de Repente",
       "url": "https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "60 Aniversario: El Legado Contin\u00faa",
+        "url": "https://open.spotify.com/album/0dIogYaSGCLU5fiVJMin26"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 132864,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Si Me Ten\u00edas",
-        "url": "https://open.spotify.com/album/1q7uT320674nuCp3rl0gIY"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 235250,
-      "name": "Si Me Ten\u00edas",
-      "url": "https://open.spotify.com/track/6RMd5GlWb5DW4G0eT0VNZ2"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Si No Te Tengo",
         "url": "https://open.spotify.com/album/5RwuiKim92LZqj0cJnOqTp"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 206193,
       "name": "Si No Te Tengo",
       "url": "https://open.spotify.com/track/53VwoZ6zzz0TyGxki6ALjG"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Si Me Ten\u00edas",
+        "url": "https://open.spotify.com/album/1q7uT320674nuCp3rl0gIY"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 235250,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/6RMd5GlWb5DW4G0eT0VNZ2"
     },
     {
       "added_at": "2026-03-06 06:00:10",

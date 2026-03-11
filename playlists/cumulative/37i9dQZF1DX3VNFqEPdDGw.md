@@ -4,13 +4,13 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-401 songs - 20 hr 34 min
+402 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2aL7GhTyObaRdWaEi4HVPC) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/21rdsrcQ2jxiREmn3uZ7Tp) | 0:00 | 2022-06-28 | 2023-07-27 |
 | [](https://open.spotify.com/track/4N0TO4VfONQDwynV2khBL1) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Unfuckwithable \(Bonus Track from Moosetape\)](https://open.spotify.com/album/2boT4LsTrMusn1fzSnM3Oq) | 0:00 | 2025-01-08 | 2025-10-13 |
-| [18 Lakh Da](https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Preeta](https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8) | [Let's Go](https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu) | 2:57 | 2025-01-08 |  |
+| [18 Lakh Da](https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Preeta](https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8) | [Let's Go](https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu) | 2:57 | 2025-01-08 | 2026-03-11 |
 | [2 Kamm](https://open.spotify.com/track/7sWYLvZXs3XIl9eFKBFEp0) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [2 Kamm](https://open.spotify.com/album/5ocXx8clrayri1HefLYhv0) | 2:26 | 2023-09-01 |  |
 | [25/26](https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [V8](https://open.spotify.com/album/4yzyfXlckctM5u8I9Mslk2) | 2:45 | 2025-06-10 |  |
 | [3 Peg](https://open.spotify.com/track/3G8o2zm7LaF6eeVuvLlrkJ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Raviraj](https://open.spotify.com/artist/6PukbgXGSVUSDyBz2Hn2n7) | [3 Peg](https://open.spotify.com/album/2onCNtkuhjk538U3dPusIy) | 3:24 | 2025-01-28 | 2025-06-20 |
@@ -371,6 +371,7 @@
 | [Tell Me Honestly](https://open.spotify.com/track/2vYOc06QkjMCSQjpf7hISL) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH) | [Tell Me Honestly](https://open.spotify.com/album/3JpW1WY2iNxgVGUNQFw37S) | 3:45 | 2025-02-06 |  |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-09-01 | 2024-02-01 |
 | [Tere Naal](https://open.spotify.com/track/2ZtwIHxwBuC0DqnupyHmQY) | [Yasir Hussain](https://open.spotify.com/artist/2DtPjAGsvP7LPIMtj0Co1k) | [Tere Naal](https://open.spotify.com/album/17gV2EL0aOUi8BFCZ1iCyC) | 3:33 | 2025-12-01 | 2026-02-01 |
+| [Tere Warga](https://open.spotify.com/track/5YV6dijDvGw8TqJDkTnUwG) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Tere Warga](https://open.spotify.com/album/7DZnuTSKMgg8KJmcfwXJVX) | 2:04 | 2026-03-09 |  |
 | [Teri Jatti](https://open.spotify.com/track/4z2tsk5xr3lgk9oMOHqixc) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Teri Jatti](https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1) | 2:35 | 2025-01-08 |  |
 | [The Bull Walk 2](https://open.spotify.com/track/2NZOEgSzJxXGmzltOt8c7y) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3), [Raja Kang](https://open.spotify.com/artist/5KCHRPbzx9DQHpCv9i4PFs) | [The Bull Walk 2](https://open.spotify.com/album/1ToKW8En2i6lKeOoLeXCO3) | 2:58 | 2025-01-31 | 2025-03-18 |
 | [The Power](https://open.spotify.com/track/6eMV39PSv1N55Ncab1hxrw) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Momentum](https://open.spotify.com/album/4mUiFIvBPUPNI8bedILhpt) | 3:00 | 2025-03-19 | 2025-03-23 |

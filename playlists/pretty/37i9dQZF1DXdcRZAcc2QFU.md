@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,093 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,604 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 26 | [Jhanjharia \- Male Version](https://open.spotify.com/track/7v6kXbTvpHbhq5LHruy0xV) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Krishna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3203HE6RBAAYGt2Yi3VOin) | 4:42 |
 | 27 | [Ole Ole](https://open.spotify.com/track/4cHkNpAIlCFbNQKGHfMVaw) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Yeh Dillagi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Ie0MgmTKE4kkyq5MCh94N) | 4:30 |
 | 28 | [Dil Jigar Nazar Kya Hai](https://open.spotify.com/track/0kBR5ixa3ozflXDZYNPiKr) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Ka Kya Kasoor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ONg9pcYSvmMb7U8TCbhFi) | 7:42 |
-| 29 | [Hai Hukku Hai Hukku Hai Hai](https://open.spotify.com/track/0O3cP4XX3UOcSrFVnYtMWu) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Poornima](https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C) | [Gopi Kishan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Cr85naLACYH0QOvHHFJ5k) | 5:19 |
+| 29 | [Hai Hukku Hai Hukku Hai Hai](https://open.spotify.com/track/0O3cP4XX3UOcSrFVnYtMWu) | [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Poornima](https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Gopi Kishan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Cr85naLACYH0QOvHHFJ5k) | 5:19 |
 | 30 | [Channe Ke Khet Mein](https://open.spotify.com/track/1wbUMMWBRQAxrSrFUhMnVR) | [Poornima](https://open.spotify.com/artist/6lpXKoHUzxZc5PwyS6cu4C) | [Anjaam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5T4tGh2d4lCLa57fzYgTQe) | 5:58 |
 | 31 | [O Baby Dont Break My Heart](https://open.spotify.com/track/49zy0fZWKn3PCV6hjRswi9) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [K Krishnamoorthy](https://open.spotify.com/artist/4VoTmNZvS1ZGbbpVz8kled) | [Mohabbat](https://open.spotify.com/album/2bePSXcOvHsoqTo32Qf5tj) | 5:59 |
 | 32 | [Ooee Baba](https://open.spotify.com/track/1dK7uJG66w3oHztSu0ao2H) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Sapna Mukherjee](https://open.spotify.com/artist/2ME9akyjf2IaOM5DLTqHUS) | [Judaai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ttq5LojOO2nVKQiXVXCpY) | 5:39 |

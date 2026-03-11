@@ -468,7 +468,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 239493,
       "name": "Dis one.",
       "url": "https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh"
@@ -1442,6 +1442,24 @@
       "duration_ms": 309173,
       "name": "NATSU\u2606\u3057\u3088\u3046\u305c!",
       "url": "https://open.spotify.com/track/22r4nAGU4E9hZMDD0AfyWI"
+    },
+    {
+      "album": {
+        "name": "NAVIGATOR:",
+        "url": "https://open.spotify.com/album/3u1xs9zPQSgdCcf5JxUEUj"
+      },
+      "artists": [
+        {
+          "name": "Re:vale",
+          "url": "https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "NAVIGATOR:",
+      "url": "https://open.spotify.com/track/70YXK5UcjBp74yOZKNwhRk"
     },
     {
       "album": {

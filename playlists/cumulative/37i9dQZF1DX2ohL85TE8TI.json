@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc6b0\uc8fc\ub97c\uc904\uac8c (OurUniverse)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
+  "description": "Hot & new K-Drama OSTs are here! (Cover: \uc0e4\uc774\ub2dd (Still Shining)) (\uc778\uae30 \uc788\ub294 \ud654\uc81c\uc758 OST\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) ",
   "name": "K-OST Center",
   "tracks": [
     {
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 177000,
       "name": "All In, Do or Die",
       "url": "https://open.spotify.com/track/4yQmiUKbs8GooduZH0GbZg"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 228146,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/4z0vfU3JiAsl99ZHL29hMm"
@@ -7327,6 +7327,24 @@
     },
     {
       "album": {
+        "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
+      },
+      "artists": [
+        {
+          "name": "MRCH",
+          "url": "https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "I Feel Special",
+      "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
+    },
+    {
+      "album": {
         "name": "Social Savvy Class 101 OST Part.3",
         "url": "https://open.spotify.com/album/5n4TDmmzuczvIDCrOj8hkR"
       },
@@ -11166,7 +11184,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 196000,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S"
@@ -12230,6 +12248,24 @@
       "duration_ms": 245349,
       "name": "My heart says",
       "url": "https://open.spotify.com/track/2GUAkbWxTLNIyTMNUCqX54"
+    },
+    {
+      "album": {
+        "name": "Still Shining OST Part.2",
+        "url": "https://open.spotify.com/album/2o35P0jXFVWnDdZTAZ0tMY"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "My heart, To you",
+      "url": "https://open.spotify.com/track/1mDIYula5AUG2SfJfocAIX"
     },
     {
       "album": {
@@ -19384,6 +19420,24 @@
       "duration_ms": 219133,
       "name": "We\u2032re done - Female Version",
       "url": "https://open.spotify.com/track/1vGB8HUVBeNOA6sc85mA9r"
+    },
+    {
+      "album": {
+        "name": "Boyfriend on Demand Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "What A Love",
+      "url": "https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU"
     },
     {
       "album": {

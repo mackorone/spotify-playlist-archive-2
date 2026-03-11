@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-751 songs - 1 day 20 hr 58 min
+752 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 | 2025-03-07 |  |
 | [ENTROPIA](https://open.spotify.com/track/7dzlMlXxwC2vhpKsfhM6S5) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [ENTROPIA](https://open.spotify.com/album/5f5hYbgfgDmy6lb63ggUUg) | 6:38 | 2025-02-07 |  |
 | [Escapade](https://open.spotify.com/track/3ETeK08Ejz77XKvTfZ27YW) | [DJ Fudge](https://open.spotify.com/artist/5SDOrz6Zieh0kqMhQHjxF0) | [Escapade](https://open.spotify.com/album/03tZ3z6YViSoWsPeEmDEZ9) | 3:36 | 2024-04-26 | 2025-10-25 |
-| [Every Night](https://open.spotify.com/track/2bCLM3X7oblgqvZcCTnlve) | [Andreíos](https://open.spotify.com/artist/2bmJLhuJ6JUxswuOsVMJg7), [Pasadena Dream](https://open.spotify.com/artist/061W1Ytkhi6OWDy7ywsusz) | [DISCO & HOUSE](https://open.spotify.com/album/5JHaffaiwOTBwvDcnSQR0M) | 4:08 | 2026-02-27 |  |
+| [Every Night](https://open.spotify.com/track/2bCLM3X7oblgqvZcCTnlve) | [Andreíos](https://open.spotify.com/artist/2bmJLhuJ6JUxswuOsVMJg7), [Pasadena Dream](https://open.spotify.com/artist/061W1Ytkhi6OWDy7ywsusz) | [DISCO & HOUSE](https://open.spotify.com/album/5JHaffaiwOTBwvDcnSQR0M) | 4:08 | 2026-02-27 | 2026-03-11 |
 | [Everybody](https://open.spotify.com/track/3LIkT3OVUBUQPAhsqW0Ihx) | [Jay Bird](https://open.spotify.com/artist/2TrjvaUmQgHOhqzOiIPPLD) | [Everybody](https://open.spotify.com/album/272pRfeKK5pi1ARD5uylEe) | 3:04 | 2025-04-18 | 2025-06-14 |
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2022-04-06 | 2024-05-18 |
 | [Everything's Gonna Be Alright \(feat\. London Community Gospel Choir\)](https://open.spotify.com/track/6e9zuRnA4Vsg3PO6I1CMte) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Everything's Gonna Be Alright \(feat\. London Community Gospel Choir\)](https://open.spotify.com/album/5MX5rserGlqMOcu0WDisiI) | 3:33 | 2022-01-14 | 2022-12-16 |
@@ -495,6 +495,7 @@
 | [Nineteen 84](https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Veni, Vidi, Vici](https://open.spotify.com/album/0y5X3mEY5gtzpMATESTlp8) | 3:31 | 2024-03-22 |  |
 | [No Love, No Life](https://open.spotify.com/track/5ito7KV8kZzuA7SLFV0oMw) | [Redondo](https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF), [Elliot Fitch](https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB) | [No Love, No Life](https://open.spotify.com/album/42x5j34Hcxm0puZv92VnDH) | 2:19 | 2022-06-09 | 2022-07-10 |
 | [No More Talking](https://open.spotify.com/track/4fosKodky8p83kkpsRznXf) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz) | [On The Green Again](https://open.spotify.com/album/1ASGNkMTcydM6JMFOWzMmD) | 7:02 | 2022-04-06 | 2022-04-14 |
+| [No Party, No Disco](https://open.spotify.com/track/55tixy0Q1say3uhJALA72d) | [potem](https://open.spotify.com/artist/5kPRFNDG89rv2g3VohEtI5) | [No Party, No Disco](https://open.spotify.com/album/2F5hGiUldlgsuZPqJH0bkV) | 3:08 | 2026-03-10 |  |
 | [No Price \(feat\. Chromeo & Al\-P\) \- 12" Mix](https://open.spotify.com/track/0OE4VqAcsSjRjmgqUFJivg) | [Slam Dunk'd](https://open.spotify.com/artist/2RhM3ARgJXE0KUFadmiDIq), [Al\-P](https://open.spotify.com/artist/2hn9SgG7jpGt3PKYpP3wg6), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [No Price \(feat\. Chromeo & Al\-P\) \[Extended Mixes\]](https://open.spotify.com/album/7iE2z2WRpYSiJ9RkASpYJK) | 8:09 | 2022-04-06 | 2022-07-17 |
 | [No Sleep \- Phil Fuldner Remix](https://open.spotify.com/track/5g6Db0O5uWprvfGDre19HC) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Phil Fuldner](https://open.spotify.com/artist/1DKPQBaKEzmQzWG1GwJoXT) | [No Sleep \(Phil Fuldner Remix\)](https://open.spotify.com/album/4SOBmq7SrSy0dA5KWFXmo1) | 2:41 | 2022-01-14 | 2022-07-29 |
 | [No Wait](https://open.spotify.com/track/0drw6GcjPatpfpWSEouVVq) | [Lis Sarroca](https://open.spotify.com/artist/3tH1hoSRmfQvsejUewBC5t) | [No Wait](https://open.spotify.com/album/4HOWXX6sEyqOFELqdEaZQW) | 5:23 | 2022-01-14 | 2022-07-21 |

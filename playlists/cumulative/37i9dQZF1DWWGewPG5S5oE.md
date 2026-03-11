@@ -2,14 +2,15 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Okazaki Brothers
 
-499 songs - 1 day 16 hr 41 min
+500 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | ['Round Midnight](https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2) | 4:24 | 2024-11-19 | 2025-01-07 |
 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 | 2024-03-05 | 2026-03-03 |
+| [10\-6\-12](https://open.spotify.com/track/2l6dFVO7QEbFsnX0EAP6Dq) | [Okazaki Brothers](https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d) | [10\-6\-12](https://open.spotify.com/album/3nV4kJYWWPSXpwHNPRGyoZ) | 4:46 | 2026-03-10 |  |
 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 | 2024-01-10 |  |
 | [24/7](https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/0sGwnCQvYdQ2fuBBNIotJ9) | 6:07 | 2023-05-16 | 2023-05-18 |
 | [24/7](https://open.spotify.com/track/1dbKUjODEfs0srsw3KgFD9) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/7MJG1uYr3RqRqucOIvWrBr) | 6:07 | 2023-05-16 | 2023-06-14 |
@@ -286,7 +287,7 @@
 | [PRIME](https://open.spotify.com/track/3JsN2Kmll3HJolxA1gaPSF) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [JK Kim](https://open.spotify.com/artist/61AHu1G4iaVDRgbhvBuC4t) | [PRIME](https://open.spotify.com/album/3qYiZbuFnbQlBqJqjuGw00) | 3:47 | 2024-07-16 | 2024-08-07 |
 | [Purple](https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Purple](https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP) | 5:11 | 2024-01-30 | 2024-04-03 |
 | [purple view](https://open.spotify.com/track/2ota8TtaMhG4CBAtHLGyT8) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa) | [COSMIC](https://open.spotify.com/album/70qWVaE7p5z8AUsBJorMlA) | 3:55 | 2024-09-03 | 2024-09-18 |
-| [Pursuit](https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl) | [Mayuko Katakura](https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG) | [The Duality of My Soul](https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL) | 6:03 | 2025-12-23 |  |
+| [Pursuit](https://open.spotify.com/track/7IJpgWJNIc0HvsOjJmR6Hl) | [Mayuko Katakura](https://open.spotify.com/artist/5eP9be2Y1fGaWTQqvbF4hG) | [The Duality of My Soul](https://open.spotify.com/album/5ei1dg73EB8jSnUQgNSOxL) | 6:03 | 2025-12-23 | 2026-03-11 |
 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 | 2022-09-06 | 2024-12-18 |
 | [Questune](https://open.spotify.com/track/7fJppnEGxHyA3wHHl0qwLB) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Questune](https://open.spotify.com/album/4bqhOCK0Gb4iQ65EwRZ8uq) | 3:14 | 2025-09-02 | 2025-10-31 |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 | 2023-10-10 | 2024-04-19 |

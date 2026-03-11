@@ -5645,6 +5645,28 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/7xUH0H3d0V5NaEw86gpd0d"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213536,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/5xAe6C5gdoZD0v8JHHpQSB"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -8660,6 +8682,24 @@
       "duration_ms": 111013,
       "name": "Laura (Piano Vision)",
       "url": "https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu"
+    },
+    {
+      "album": {
+        "name": "Laura Marling: What He Wrote",
+        "url": "https://open.spotify.com/album/3Z9NFXMRlkDKLqmNwZ3gtu"
+      },
+      "artists": [
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Laura Marling: What He Wrote",
+      "url": "https://open.spotify.com/track/28mrR89iMAn9mFGrpDUoEs"
     },
     {
       "album": {
@@ -11988,6 +12028,24 @@
       "duration_ms": 152917,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/3giODUg7yq7Noolv09NY7Y"
+    },
+    {
+      "album": {
+        "name": "Of Love",
+        "url": "https://open.spotify.com/album/25oLqEVvAKsitF8EM9le2q"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219074,
+      "name": "Of Love",
+      "url": "https://open.spotify.com/track/5nCXByE5w0fc2zwpcbNPL9"
     },
     {
       "album": {

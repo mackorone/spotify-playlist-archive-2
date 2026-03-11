@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
@@ -400,6 +400,24 @@
       "duration_ms": 154990,
       "name": "99 Eyes",
       "url": "https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg"
+    },
+    {
+      "album": {
+        "name": "After I Pass Away",
+        "url": "https://open.spotify.com/album/36Zk4w8J9zcH0kRddj11Iu"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Bennett",
+          "url": "https://open.spotify.com/artist/0LPupLdy9esXU9r7s5xM1y"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265168,
+      "name": "A Fathers Love Do Not Let Go",
+      "url": "https://open.spotify.com/track/7gUvcPd4yHvXB8zw1KoPlo"
     },
     {
       "album": {
@@ -1121,6 +1139,32 @@
     },
     {
       "album": {
+        "name": "Asics",
+        "url": "https://open.spotify.com/album/0yWJV2MyiDzwuDOnA397Pb"
+      },
+      "artists": [
+        {
+          "name": "Jaysize",
+          "url": "https://open.spotify.com/artist/5TnjMkzfwu4VNqVUG9lChH"
+        },
+        {
+          "name": "sd",
+          "url": "https://open.spotify.com/artist/4aL4Wbg0PPCjTiYhT1DxN8"
+        },
+        {
+          "name": "DamianDsK",
+          "url": "https://open.spotify.com/artist/3zPVnyv4ax2WW8DsZYjcoG"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Asics",
+      "url": "https://open.spotify.com/track/3KSRLIEWucMPLufr9H1dix"
+    },
+    {
+      "album": {
         "name": "Atje Voor De Sfeer - En Andere Sfeermakers",
         "url": "https://open.spotify.com/album/2DY0nKAYHOsQZrg6LlylHo"
       },
@@ -1158,7 +1202,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 154378,
       "name": "Auf Wiedersehen",
       "url": "https://open.spotify.com/track/70neqLCI60pW86Zqkb25vQ"
@@ -1884,7 +1928,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 153973,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
@@ -2648,7 +2692,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 248297,
       "name": "butterflies.",
       "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
@@ -4583,6 +4627,28 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199831,
+      "name": "Dramatic Girl (feat. Che Ecru)",
+      "url": "https://open.spotify.com/track/05gychGDaYtqT3sWQhZydb"
+    },
+    {
+      "album": {
         "name": "Drank & Drugs",
         "url": "https://open.spotify.com/album/7AtH0EM3S7DVmAlI5TT9zW"
       },
@@ -6151,6 +6217,32 @@
     },
     {
       "album": {
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Momo Boyd",
+          "url": "https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232424,
+      "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
+      "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -6588,6 +6680,28 @@
       "duration_ms": 492972,
       "name": "Helse Weg",
       "url": "https://open.spotify.com/track/13J4yy3fZ0lL4hrPFuZD2f"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7"
     },
     {
       "album": {
@@ -8360,7 +8474,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 163753,
       "name": "JAAHAA",
       "url": "https://open.spotify.com/track/5BaBYz1YNroBj3V0v0oAb3"
@@ -8582,7 +8696,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 181568,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/5HHc3LV7smkNpx9JcvqsZa"
@@ -8600,7 +8714,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -8904,7 +9018,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 152195,
       "name": "Koffiepauze",
       "url": "https://open.spotify.com/track/5ej15hOxeeiwS542eGEfVY"
@@ -9272,6 +9386,24 @@
       "duration_ms": 234000,
       "name": "Lekker L\u00f4pe",
       "url": "https://open.spotify.com/track/4B8Ls0QBxJPzpHXUlakTC9"
+    },
+    {
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91659,
+      "name": "Lekker voor je",
+      "url": "https://open.spotify.com/track/6zE95yeReUgUmNr6d4T7UU"
     },
     {
       "album": {
@@ -10800,7 +10932,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 186367,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW"
@@ -12416,7 +12548,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 204737,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
@@ -13625,6 +13757,24 @@
     },
     {
       "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "album": {
         "name": "7/7 : 24/24",
         "url": "https://open.spotify.com/album/0u2KFP9XvLHwQshJy1wDTM"
       },
@@ -13672,7 +13822,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 199400,
       "name": "Ruwa",
       "url": "https://open.spotify.com/track/4zJu3WrABlBD23qunrjWov"
@@ -14068,6 +14218,28 @@
       "duration_ms": 120687,
       "name": "Shards",
       "url": "https://open.spotify.com/track/02OwhwebATDY9i4xfeo3FV"
+    },
+    {
+      "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
     },
     {
       "album": {
@@ -14508,6 +14680,24 @@
       "duration_ms": 183809,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X"
+    },
+    {
+      "album": {
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/0zJ7JfQf9OjZiy8AlgyzUn"
+      },
+      "artists": [
+        {
+          "name": "Unregular",
+          "url": "https://open.spotify.com/artist/7umRnm15XVlxG9PMlM6Rse"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210410,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/3iCGGFi3RlG7Us7nX7E6KK"
     },
     {
       "album": {
@@ -18167,6 +18357,28 @@
     },
     {
       "album": {
+        "name": "Wij Doen Het Samen",
+        "url": "https://open.spotify.com/album/0O5gcxGN86aGfeLed3n2DQ"
+      },
+      "artists": [
+        {
+          "name": "Grad Damen",
+          "url": "https://open.spotify.com/artist/14yvgluGrdWjoJWTR0TJCt"
+        },
+        {
+          "name": "Louistje Damen",
+          "url": "https://open.spotify.com/artist/3LEFMqy5scqsd0F2lfwNha"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201188,
+      "name": "Wij Doen Het Samen",
+      "url": "https://open.spotify.com/track/4lX1P1sgbfJ4FXZSTeJd2h"
+    },
+    {
+      "album": {
         "name": "Wij Gaan Niet Weg (Radio Edit)",
         "url": "https://open.spotify.com/album/0TtjWznlLyUNRfhBdealJo"
       },
@@ -19246,7 +19458,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

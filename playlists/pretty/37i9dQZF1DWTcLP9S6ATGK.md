@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Armada
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,484 likes - 117 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,488 likes - 117 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

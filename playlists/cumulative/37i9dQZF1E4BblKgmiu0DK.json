@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 188784,
       "name": "Automatic Confidence",
       "url": "https://open.spotify.com/track/75vxwf0g2pxpQNbQTz6D5i"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 192000,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/3S9ua0oBNbN5TEOyWBvWmJ"
@@ -639,7 +639,7 @@
     },
     {
       "album": {
-        "name": "smartsass (2.0)",
+        "name": "smartsass",
         "url": "https://open.spotify.com/album/2K3vCZqvfhy4xaoYAYHwAS"
       },
       "artists": [
@@ -704,7 +704,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 130290,
       "name": "Blazetrap Anthem",
       "url": "https://open.spotify.com/track/19WwfaQrv9Ofhce1PP3GRN"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 166408,
       "name": "Butterfly Effects",
       "url": "https://open.spotify.com/track/1WnSOC34hodkQA5XNHNfyX"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 163533,
       "name": "CANARY",
       "url": "https://open.spotify.com/track/1n27mNE1nt2NdyvatOpyCG"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 121718,
       "name": "Drip Drop Revolt",
       "url": "https://open.spotify.com/track/4cPrWWnGnQdBHu486PpK8d"
@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Hell in a Halter Top",
+        "url": "https://open.spotify.com/album/7e1LhCKIFl9NcDzib7YPzW"
+      },
+      "artists": [
+        {
+          "name": "Lucie Tiger",
+          "url": "https://open.spotify.com/artist/7kpz1LLc30Bw6zId3wst3e"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146885,
+      "name": "Hell in a Halter Top",
+      "url": "https://open.spotify.com/track/0B11lioXlVVDbTs3PbVBXY"
+    },
+    {
+      "album": {
         "name": "Hellhound",
         "url": "https://open.spotify.com/album/55TTAGCih6EKMAwmzVFieu"
       },
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 174236,
       "name": "Here For The Party",
       "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 101999,
       "name": "High-Voltage Riot",
       "url": "https://open.spotify.com/track/3wQP930DfW0DOc4nBBvS3F"
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 288319,
       "name": "I love the noise",
       "url": "https://open.spotify.com/track/3qK1JfFygBbPukOXCD7s0X"
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 200680,
       "name": "Jesus Wept",
       "url": "https://open.spotify.com/track/4mULVN5fIsZYaUYxE3HQdH"
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 186159,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/1y8k2DMk5IX9WoIQ69Snoa"
@@ -3035,7 +3053,7 @@
     },
     {
       "album": {
-        "name": "smartsass (2.0)",
+        "name": "smartsass",
         "url": "https://open.spotify.com/album/2K3vCZqvfhy4xaoYAYHwAS"
       },
       "artists": [
@@ -3082,7 +3100,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 152119,
       "name": "Let It Be Me",
       "url": "https://open.spotify.com/track/5x07CsymBxjDYgaUPa4Qbh"
@@ -3100,7 +3118,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -3644,7 +3662,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 170559,
       "name": "raise the fire",
       "url": "https://open.spotify.com/track/3IfwL9eaCoBukcCzf5nz26"
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -4778,7 +4796,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -4850,7 +4868,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 188628,
       "name": "Strange Affections",
       "url": "https://open.spotify.com/track/5a3Nba16ivRDsA6GrgFNjX"
@@ -4994,7 +5012,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 215074,
       "name": "Take Me Away From Him",
       "url": "https://open.spotify.com/track/3Ngb4fWgE2f6HPV1B8Bdez"
@@ -5142,7 +5160,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 186050,
       "name": "The Spell",
       "url": "https://open.spotify.com/track/0ZtHJrJ0yUhVRWxKhfwrbm"
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 250799,
       "name": "Top of the Mourning",
       "url": "https://open.spotify.com/track/7CtsYwGM9pMP5ywplXwpAc"
@@ -5423,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "Unicorn Steak",
+        "url": "https://open.spotify.com/album/7d7ICFHAfijWluxaeCJauO"
+      },
+      "artists": [
+        {
+          "name": "Die Mannequin",
+          "url": "https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234640,
+      "name": "Upside Down Cross",
+      "url": "https://open.spotify.com/track/0lM3X9CdTPbL5B7wnFsBs8"
+    },
+    {
+      "album": {
         "name": "Nocturnal Highways",
         "url": "https://open.spotify.com/album/2PWoQZPlvfnCGKxbs6XSDR"
       },
@@ -5474,6 +5510,24 @@
       "duration_ms": 277679,
       "name": "VIP",
       "url": "https://open.spotify.com/track/0aGvV5Rr7ZdLWx9GefjGKp"
+    },
+    {
+      "album": {
+        "name": "Vitamins",
+        "url": "https://open.spotify.com/album/3nT3Ul5Ds0OLxB5Le4q31B"
+      },
+      "artists": [
+        {
+          "name": "Cello",
+          "url": "https://open.spotify.com/artist/6DkFZn6lnSSEJ6UFl03zNy"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152856,
+      "name": "Vitamins",
+      "url": "https://open.spotify.com/track/12P1gmpczRb9Q3WqxnC515"
     },
     {
       "album": {

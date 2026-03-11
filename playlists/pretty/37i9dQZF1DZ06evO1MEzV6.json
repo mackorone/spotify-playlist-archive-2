@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 122774,
+  "num_followers": 122796,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aay8AAAAAABHNzp/sCLG424E90R/UpM1",
+  "snapshot_id": "aa4NgAAAAADL19WHPLWlJLdSX7c7A/S2",
   "tracks": [
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 152649,
-      "name": "Charlie Brown",
-      "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV"
+      "duration_ms": 189932,
+      "name": "Dye It Red",
+      "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 189932,
-      "name": "Dye It Red",
-      "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
+      "duration_ms": 152649,
+      "name": "Charlie Brown",
+      "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV"
     }
   ],
   "unique_name": "This Is beabadoobee",

@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: ARIA VEGA & Ryan Castro",
-  "num_followers": 142858,
+  "num_followers": 142860,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "Sirenita",
+        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 169478,
+      "name": "Sirenita",
+      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "Tengo Un Plan (Remix)",
         "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "Sirenita",
-        "url": "https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 169478,
-      "name": "Sirenita",
-      "url": "https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Vive La Vida (Remix)",
-        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
-      },
-      "artists": [
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 237754,
-      "name": "Vive La Vida - Remix",
-      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 202012,
       "name": "Soso - Remix",
       "url": "https://open.spotify.com/track/2CQ0S1zCT7QqmAh7Ke6Kso"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Vive La Vida (Remix)",
+        "url": "https://open.spotify.com/album/71VeWhunJPqfvt6CyZoNGp"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 237754,
+      "name": "Vive La Vida - Remix",
+      "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "MI ALGO",
-        "url": "https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 176845,
-      "name": "MI ALGO",
-      "url": "https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 199850,
       "name": "Eva Longoria",
       "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "MI ALGO",
+        "url": "https://open.spotify.com/album/02vBvKtAgM31xInDIxX6jh"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 176845,
+      "name": "MI ALGO",
+      "url": "https://open.spotify.com/track/05VmV2lcHrbu8rD2reWJLK"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "S3NSACI\u00f3N",
+        "url": "https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV"
+      },
+      "artists": [
+        {
+          "name": "OM.VI",
+          "url": "https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh"
+        }
+      ],
+      "duration_ms": 134737,
+      "name": "Tu Boquita",
+      "url": "https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "S3NSACI\u00f3N",
-        "url": "https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV"
-      },
-      "artists": [
-        {
-          "name": "OM.VI",
-          "url": "https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh"
-        }
-      ],
-      "duration_ms": 134737,
-      "name": "Tu Boquita",
-      "url": "https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Esa Nena",
         "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
       },
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        }
+      ],
+      "duration_ms": 186895,
+      "name": "Tucu",
+      "url": "https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "Wapa (Remix)",
         "url": "https://open.spotify.com/album/45V2HrcN52duWmzzXjkQqV"
       },
@@ -1199,26 +1219,6 @@
       "duration_ms": 228693,
       "name": "Wapa - Remix",
       "url": "https://open.spotify.com/track/06RpXuLcw8SQn8kBlMLMvP"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Amarion",
-          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
-        }
-      ],
-      "duration_ms": 186895,
-      "name": "Tucu",
-      "url": "https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu"
     },
     {
       "added_at": "2026-03-06 05:00:17",

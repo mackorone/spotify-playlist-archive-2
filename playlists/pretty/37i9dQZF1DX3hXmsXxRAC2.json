@@ -1,6 +1,6 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 359750,
+  "num_followers": 359766,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-02 23:46:15",
       "album": {
-        "name": "Amor Eterno al Divo / Tributo de Rock",
-        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Juro Que Nunca Volvere",
-      "url": "https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo"
-    },
-    {
-      "added_at": "2024-07-02 23:46:15",
-      "album": {
         "name": "Frente a Frente",
         "url": "https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 266217,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR"
+    },
+    {
+      "added_at": "2024-07-02 23:46:15",
+      "album": {
+        "name": "Amor Eterno al Divo / Tributo de Rock",
+        "url": "https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Juro Que Nunca Volvere",
+      "url": "https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo"
     },
     {
       "added_at": "2024-07-02 23:46:15",

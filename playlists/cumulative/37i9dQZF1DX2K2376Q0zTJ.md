@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: HANA
 
-1,456 songs - 3 day 13 hr 21 min
+1,458 songs - 3 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-10-04 | 2022-11-09 |
 | [Candy Racer](https://open.spotify.com/track/3rn4vlDtVfXCR6GaNyJZLM) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Candy Racer](https://open.spotify.com/album/1i5J264nc9xYsroDS3FTHx) | 5:06 | 2023-04-04 | 2023-05-03 |
 | [Car♡Wash♡Girl](https://open.spotify.com/track/2ijNxRyvM9bEqNZPo1ievQ) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ANTHOLOGY & DESTINY](https://open.spotify.com/album/2uBuVNcF7UUpKpOhBIIgwq) | 3:37 | 2023-04-04 | 2023-05-03 |
-| [Catch me when I fall](https://open.spotify.com/track/33LDbIdCNl9ppEdDJ0Vwee) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Catch me when I fall](https://open.spotify.com/album/5E0sDzjtAUQAkdCPSJn92Z) | 3:45 | 2026-01-29 |  |
+| [Catch me when I fall](https://open.spotify.com/track/33LDbIdCNl9ppEdDJ0Vwee) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Catch me when I fall](https://open.spotify.com/album/5E0sDzjtAUQAkdCPSJn92Z) | 3:45 | 2026-01-29 | 2026-03-11 |
 | [celebrate \- Prod.KM](https://open.spotify.com/track/0mwG7feAmZJCv6z59JRj6d) | [honoka](https://open.spotify.com/artist/2kKDR6hnn3AHWhVBr5RfEu) | [celebrate \(Prod.KM\)](https://open.spotify.com/album/5w7Ex0lHjbc4JHVOcLBPI9) | 3:40 | 2022-07-05 | 2022-08-03 |
 | [Chanel pt.2](https://open.spotify.com/track/31lBeogAxC65q2jMHmQM2k) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [KAWAII BUBBLY LOVELY III](https://open.spotify.com/album/6qEMRBsppEDrGMF3RdgNN1) | 1:46 | 2023-11-29 | 2024-01-10 |
 | [Chanel pt.2](https://open.spotify.com/track/4xtTbKmWGNSFaC4kDAuuKL) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [KAWAII BUBBLY LOVELY III](https://open.spotify.com/album/00NHoF1XbizRrBTny378TI) | 1:46 | 2023-09-05 | 2023-10-22 |
@@ -895,6 +895,7 @@
 | [Taiyokohatsuden](https://open.spotify.com/track/6zt7BlGgdLF8aFkI87MECR) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [Taiyokohatsuden](https://open.spotify.com/album/6snu9BjWt7YslUxT1DXpxe) | 3:28 | 2023-02-28 | 2023-04-05 |
 | [Take a chance](https://open.spotify.com/track/0RL7qleLwH9ASkAGpgDiRs) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Take a chance](https://open.spotify.com/album/0CvxXRNp8bS5fZme72JS8m) | 3:30 | 2022-07-05 | 2022-08-03 |
 | [Take Me Away](https://open.spotify.com/track/7vVJbmbtgGQjU5gB0tq6K7) | [NATSUMI](https://open.spotify.com/artist/7DCltfdFTL9tQFRM9KXPuz) | [Take Me Away](https://open.spotify.com/album/08WtO6PR4PAgzDrSrvPrc0) | 2:54 | 2022-05-31 | 2022-07-06 |
+| [Take you away](https://open.spotify.com/track/6fsj3YQXCwlXbAgNgGeg6C) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Take you away](https://open.spotify.com/album/1f1gfHqgadMCWp7tGXYtbR) | 3:54 | 2026-03-10 |  |
 | [take your time](https://open.spotify.com/track/5UNwotRLYy8yhTkmR4E0bZ) | [ニィキュッパ](https://open.spotify.com/artist/2xO9IhKnLiL2kuOmuaRgaI) | [take your time](https://open.spotify.com/album/1qShSYcdyXU8pxb1iEnGaM) | 2:33 | 2024-01-09 | 2024-02-07 |
 | [tasty tasks](https://open.spotify.com/track/1yxfdaklaKWgnfv6QmJP53) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [うつくしい日々](https://open.spotify.com/album/51F50ysyDdAVJi4srOHxpc) | 4:07 | 2021-11-30 | 2022-01-05 |
 | [tattahitosajinohibi](https://open.spotify.com/track/0mZAyXgzGIELQLh8K5fyVo) | [The Natsuyasumi Band](https://open.spotify.com/artist/1uyiv8HlmZlrvdY9oGP8hs) | [NEO PARK](https://open.spotify.com/album/52NL9YjhkBnt4QQEm1RFmC) | 5:07 | 2023-08-01 | 2023-09-06 |
@@ -1126,6 +1127,7 @@
 | [とーきょーフルムーン](https://open.spotify.com/track/4TCiUU1mRqNw1RYWJFLhWY) | [Vanityyy](https://open.spotify.com/artist/3InEerpxsyKDUBGTP6qQ8u) | [とーきょーフルムーン](https://open.spotify.com/album/4EOX5Wh1Q7AmGC7PC134Uj) | 3:25 | 2022-05-04 | 2022-06-01 |
 | [どどんぱ](https://open.spotify.com/track/6OeQQeRIw82KWUvsCjtPrg) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [キャンディーレーサー](https://open.spotify.com/album/1OxcfvSkYw5pD8Lv6zq5rf) | 4:37 | 2022-02-01 | 2022-03-08 |
 | [どれにしようかな](https://open.spotify.com/track/519DeWGuEhLTLWVZQx1Nhi) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 2:41 | 2022-04-05 | 2022-04-07 |
+| [ないものねだり](https://open.spotify.com/track/7zSDLqpefQ3gFmuTxWNctj) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [ないものねだり](https://open.spotify.com/album/519cWr859qwXnLvCZbDD7w) | 3:19 | 2026-03-10 |  |
 | [なんとなく最低な日々](https://open.spotify.com/track/5yvPNQ5yrBqbyBxQSgeWSu) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [祝典](https://open.spotify.com/album/2CoUwWsJBCVW5p0jSuURVh) | 4:14 | 2022-05-31 | 2023-01-04 |
 | [はじまりの日](https://open.spotify.com/track/4mQ3FeulKXnK9ChIzSmW42) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 5:18 | 2022-04-05 | 2022-05-05 |
 | [ひかりのディスコ](https://open.spotify.com/track/02lbewNkGqHLr06Irt4wvW) | [CAPSULE](https://open.spotify.com/artist/61KJdJU38zrAW4c3PI9C9N) | [ひかりのディスコ](https://open.spotify.com/album/5HmYQLP0mkigw3lwisqirI) | 5:24 | 2022-09-06 | 2022-10-05 |
@@ -1345,7 +1347,7 @@
 | [愛のありか](https://open.spotify.com/track/3Y6GGcbWHOqtALVTBjfc2g) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [愛のありか](https://open.spotify.com/album/6eYWjB0vaCmxpwrdHjsGhR) | 4:38 | 2024-06-20 | 2024-08-10 |
 | [愛のナンバー](https://open.spotify.com/track/3ppyp420FNoxy27oKJByaa) | [℃\-want you!](https://open.spotify.com/artist/1oePCCijpoxaCwJSzNahwa) | [℃\-want you!](https://open.spotify.com/album/6WT3BSC0vdtKLHsqKJQyER) | 4:48 | 2022-07-05 | 2022-08-03 |
 | [愛のレンタル \(Prod\. マカロニえんぴつ\)](https://open.spotify.com/track/6aGAhzJeQJr62F7MRAvXzx) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [playlist](https://open.spotify.com/album/3za0LZJcRl5Hfbvf4NYJeg) | 4:18 | 2023-04-04 | 2023-05-03 |
-| [愛楽](https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [愛楽](https://open.spotify.com/album/3QHpefJMnL4LycnCqXYM3a) | 3:00 | 2024-10-22 |  |
+| [愛楽](https://open.spotify.com/track/0hZJ3OSRzROihJiIT1Ag5g) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [愛楽](https://open.spotify.com/album/3QHpefJMnL4LycnCqXYM3a) | 3:00 | 2024-10-22 | 2026-03-11 |
 | [成長痛](https://open.spotify.com/track/6jTVrUczOZQKqprs4OT7gI) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [成長痛](https://open.spotify.com/album/6jMX7olPJ81OEMrfErL4Dk) | 2:52 | 2024-11-19 | 2025-01-29 |
 | [拝啓生きとし愛おしきあなた \(feat\. Zatta\)](https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [Zatta](https://open.spotify.com/artist/2MVinmnGbmuRr47Rx9ZSPx) | [拝啓生きとし愛おしきあなた \(feat\. Zatta\)](https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF) | 3:39 | 2024-06-20 | 2025-03-26 |
 | [摩天楼](https://open.spotify.com/track/6HrRqbT6lIFJa8grf7vYNO) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 3:36 | 2022-04-05 | 2022-05-05 |

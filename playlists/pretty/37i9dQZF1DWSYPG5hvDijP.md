@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Agsy
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,195 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,210 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 67 | [Body Bag](https://open.spotify.com/track/0y3Q6ZSwQgG0UhwqyYJ3aK) | [Sanakpaar](https://open.spotify.com/artist/2Z3qUmTivTaWrKCjy4Y4Kb), [prodphxntom](https://open.spotify.com/artist/1mb0rS1RypEMBoQjaXHF2R) | [Body Bag](https://open.spotify.com/album/6LVkfAckUUa47gmGY4sh1l) | 2:05 |
 | 68 | [Log Kehte Hai](https://open.spotify.com/track/2OTD4zVHbNxHsYryK0EjHZ) | [Poet Shaf](https://open.spotify.com/artist/5qlreh49Z5Pwrk8QmQob6b) | [Log Kehte Hai](https://open.spotify.com/album/4xshACUOeSdMdNgfFoSpSp) | 3:55 |
 | 69 | [Goodbye](https://open.spotify.com/track/0RzS26dH7BtTiYFqrAY4od) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW) | [Goodbye](https://open.spotify.com/album/3zyrQiqnsxpzAXoRies49o) | 3:36 |
-| 70 | [Nihilist](https://open.spotify.com/track/6HOdHbnfAN8zVuEFHpH2aW) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Bella](https://open.spotify.com/artist/3BNJJM3rZpt76Z2dRx6kE6), [Teja](https://open.spotify.com/artist/3n0cGv2o7RHrbibJEdPl0I) | [Nihilist](https://open.spotify.com/album/2ouDnOg095w6YBnGgru6Kx) | 3:02 |
+| 70 | [Nihilist](https://open.spotify.com/track/6HOdHbnfAN8zVuEFHpH2aW) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Teja](https://open.spotify.com/artist/3n0cGv2o7RHrbibJEdPl0I) | [Nihilist](https://open.spotify.com/album/2ouDnOg095w6YBnGgru6Kx) | 3:02 |
 | 71 | [Teen Tigaada Kaam Bigaada](https://open.spotify.com/track/6uyCb8gHGCVxZsu5SNtGcG) | [Kavira](https://open.spotify.com/artist/55dZoBgHhr0ADAVN55kjRY) | [Teen Tigaada Kaam Bigaada](https://open.spotify.com/album/18IwDDvyVZ2QYbTOzq6kUx) | 3:24 |
 | 72 | [Anytime](https://open.spotify.com/track/0NkTMqNg1B02vtAJTaspVf) | [Funkaar](https://open.spotify.com/artist/2V6FIScMLZiqWrNLmkDrfu), [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [Anytime](https://open.spotify.com/album/76pnNcpsFwMzmOOmynZ4zR) | 2:53 |
 | 73 | [Hillmatic Cypher, Vol\. 1](https://open.spotify.com/track/2k6dzWJWc6bN0xSlABFHqK) | [Shimla Cypher](https://open.spotify.com/artist/1NAG7Ebwqp91maW36ALH2k), [Trappy808](https://open.spotify.com/artist/6iQEWZX9e3N00YF3P5lvVQ), [Starboibeatz](https://open.spotify.com/artist/5SirFvTDNWgsbbLcg5Fx7p), [KEEDVERSE](https://open.spotify.com/artist/1CMnvAtDiVYdRVVtWlwcRp), [Ruzzaaq](https://open.spotify.com/artist/2BtIooCEXX4XvuCT1058Vn), [Raghav The Real](https://open.spotify.com/artist/4K5O7ho8PEnKH6O4vD5AMW), [T Rhyme](https://open.spotify.com/artist/7x0LmB6RSy7UtbyNBhHCHj), [Eddey](https://open.spotify.com/artist/0c60kAyOuIgeJu7ArmPJgb), [Neeraj D Champ](https://open.spotify.com/artist/4AJDok9kd4lVnauj24J1f9), [Toxicwinee](https://open.spotify.com/artist/5tFmAXDuwsTvxvJBoVQIoy), [Nik From TheValley](https://open.spotify.com/artist/571Ck1j9T2hpYb7lxYXv0D), [Flotrix](https://open.spotify.com/artist/0Q0RUTJC8MWDRIwRZuhyKF), [Emcee Monk](https://open.spotify.com/artist/48Rw2FsUY2rVdeVZHUUnL9) | [Hillmatic Cypher, Vol\. 1](https://open.spotify.com/album/5T1lKNjZo32jjYfwutcjBS) | 12:20 |

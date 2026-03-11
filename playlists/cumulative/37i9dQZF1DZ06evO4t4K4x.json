@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 1274745,
       "name": "Circle of Light, Pt. 1",
       "url": "https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN"
@@ -2165,24 +2165,20 @@
     },
     {
       "album": {
-        "name": "Late Night Horror / Frontier (1968 BBC Version)",
+        "name": "Late Night Horror / Frontier",
         "url": "https://open.spotify.com/album/6xckPw8TAGiqov7UgwLDWr"
       },
       "artists": [
         {
           "name": "Delia Derbyshire",
           "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "The BBC Radiophonic Workshop",
-          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
         }
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209533,
-      "name": "Late Night Horror / Frontier (1968 BBC Version)",
+      "name": "Late Night Horror / Frontier",
       "url": "https://open.spotify.com/track/3HgTFEwUqYvbEINLNCdnre"
     },
     {

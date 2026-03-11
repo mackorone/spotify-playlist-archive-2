@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aay8AAAAAAA2fGRwdKpB0Uu9Mdh+lf+U",
+  "snapshot_id": "aa4NgAAAAACUV3+QGezfH+3dM1140G9S",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "All My Stars Aligned",
+      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hyperspace (2020)",
         "url": "https://open.spotify.com/album/6Aqtcnv4SwSnXaZj987OQ0"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 179127,
       "name": "Uneventful Days - St. Vincent Remix",
       "url": "https://open.spotify.com/track/1zyBMwIWlKozL0hom8GT5x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry Me",
-        "url": "https://open.spotify.com/album/2j4W3q7BiQkaJO2qEZyBYF"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "All My Stars Aligned",
-      "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
     },
     {
       "added_at": null,

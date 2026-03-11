@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Young. The essential tracks, all in one playlist.",
-  "num_followers": 48782,
+  "num_followers": 48807,
   "original_name": "This Is Lola Young",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aay8AAAAAABVuk4nfboiRgf9N8cgqw9x",
+  "snapshot_id": "aa4NgAAAAAAHg0tGuWPvHWZ0cDi/w5Dx",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue (2AM)",
-        "url": "https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse"
+        "name": "Bose x NME: C24",
+        "url": "https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 231234,
-      "name": "Pill or a Lullaby (4AM till sunrise)",
-      "url": "https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs"
+      "duration_ms": 78322,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bose x NME: C24",
-        "url": "https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD"
+        "name": "Blue (2AM)",
+        "url": "https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 78322,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv"
+      "duration_ms": 231234,
+      "name": "Pill or a Lullaby (4AM till sunrise)",
+      "url": "https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,487 likes - 65 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,498 likes - 65 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 35 | [Dom Taka](https://open.spotify.com/track/6OcdY2E4J3M4GWVtIZ2vqf) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j), [Shamoun](https://open.spotify.com/artist/6TZiimSwp7J1XmpV5bivHc), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Dom Taka](https://open.spotify.com/album/6NLXAfVtkh6jtCOFzJpOXG) | 5:20 |
 | 36 | [Zadfa](https://open.spotify.com/track/2twX1GCsaw0WxZ3lggBwsD) | [ELEXSANDOM](https://open.spotify.com/artist/5ciXAvxKrOBcSTqKr2PAjp), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Zadfa](https://open.spotify.com/album/4gVqB3sJZpglJvtzUv19KG) | 2:20 |
 | 37 | [Mawjou](https://open.spotify.com/track/6hS72AKhCjGfPdDG2q7xNQ) | [Acnatro](https://open.spotify.com/artist/50ZNmrQ6aYDoAQVjjLX3HS) | [Mawjou](https://open.spotify.com/album/4sEcHjgYosHuNyoijrAlkQ) | 2:25 |
-| 38 | [Enamorá](https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Enamorá](https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl) | 2:52 |
+| 38 | [Enamorá](https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Enamorá](https://open.spotify.com/album/70Rb9d3ty7Fg6PEU9TNjyl) | 2:52 |
 | 39 | [Allo \- Afro House Version](https://open.spotify.com/track/2Bp077w8B83yrFIrHjUnst) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [JimmX](https://open.spotify.com/artist/4X71KCLaNqDa0dT5iAQhe1) | [Allo \(Afro House Version\)](https://open.spotify.com/album/6SiQF7kW5ErMrLP5DQrDBg) | 2:59 |
 | 40 | [Ghazali](https://open.spotify.com/track/2kn6kjdrbuFuyq27kyUA8d) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Ribale Wehbe](https://open.spotify.com/artist/1xk5sfa33J0BCW14SeCekK) | [Ghazali](https://open.spotify.com/album/3JFKzfAaL4RtvcXGvxUzUJ) | 4:09 |
 | 41 | [حبك لو غلطه](https://open.spotify.com/track/0zY2fgldi8N4JO4Ob6McD1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [لينا معاد](https://open.spotify.com/album/1PiNzyKUgo41ZnStM6EEY6) | 4:12 |

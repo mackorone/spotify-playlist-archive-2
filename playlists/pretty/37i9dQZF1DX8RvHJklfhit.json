@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 222405,
+  "num_followers": 222469,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6JwZcf1tj0DdPxaxMdiVv5"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 193626,
       "name": "Palmar",
       "url": "https://open.spotify.com/track/1INtYY3PE2RP7NrhHOsBaz"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6JwZcf1tj0DdPxaxMdiVv5"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "And Ever.",
+        "url": "https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Garcia",
+          "url": "https://open.spotify.com/artist/134p1mQ6nux5QPalFAupOM"
+        }
+      ],
+      "duration_ms": 175440,
+      "name": "And Ever.",
+      "url": "https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Romancero",
         "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 236503,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "And Ever.",
-        "url": "https://open.spotify.com/album/2Pwz72uGx2J9YkTxf30ETk"
-      },
-      "artists": [
-        {
-          "name": "Daniela Garcia",
-          "url": "https://open.spotify.com/artist/134p1mQ6nux5QPalFAupOM"
-        }
-      ],
-      "duration_ms": 175440,
-      "name": "And Ever.",
-      "url": "https://open.spotify.com/track/63dVzBKXxpC3BXU7gf6I37"
     },
     {
       "added_at": "2024-07-12 18:08:37",

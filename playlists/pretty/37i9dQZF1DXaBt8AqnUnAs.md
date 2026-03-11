@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,681 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,717 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 5 | [Beatriz](https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Leborato](https://open.spotify.com/artist/22YKiuRdkpMJ0yKO550zIq), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Beatriz](https://open.spotify.com/album/4ShDsc9HALU5W3i0l8rLup) | 4:07 |
 | 6 | [Passa o Beck](https://open.spotify.com/track/3h54LeGsVaREXywhEnbjDT) | [Bia e Bella](https://open.spotify.com/artist/31Ji2zYJgTY2bgyUgxl2wW), [Pedro Verné](https://open.spotify.com/artist/50DuPUvDj01Fd3yQb1ALXH), [Soft World](https://open.spotify.com/artist/6oZcMav6FpgRsaHzAJ7vA8) | [Passa o Beck](https://open.spotify.com/album/485NRfVV4lJYPS517lBCN5) | 2:26 |
 | 7 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
-| 8 | [Você \- Remix](https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7) | [Delinn](https://open.spotify.com/artist/0YZV75xF136zfiSYukmY6p), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [Você \(Remix\)](https://open.spotify.com/album/7Jdi1YIeZABZ0dD695gixE) | 3:23 |
+| 8 | [Você \- Remix](https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7) | [Delinn](https://open.spotify.com/artist/0YZV75xF136zfiSYukmY6p), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Você \(Remix\)](https://open.spotify.com/album/7Jdi1YIeZABZ0dD695gixE) | 3:23 |
 | 9 | [Oxigênio](https://open.spotify.com/track/5ERlEZEb6L9pn1ByAQJ3nT) | [Cael Gomess](https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh) | [Oxigênio](https://open.spotify.com/album/47jeyFF7y0PbGOKWCmybSM) | 3:15 |
 | 10 | [YSL](https://open.spotify.com/track/5OaJE18FphzIsdQZMbov2g) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [YSL](https://open.spotify.com/album/43U0I938wNzJ3P1F9kR467) | 2:11 |
 | 11 | [Assassinos de Saudade](https://open.spotify.com/track/4myh1l8GYicCOb60ckZqkX) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [HASOS](https://open.spotify.com/album/0T6NLOJMmjD6xyvzNswmnn) | 3:12 |

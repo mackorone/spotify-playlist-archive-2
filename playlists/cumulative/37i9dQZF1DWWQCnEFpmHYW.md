@@ -4,13 +4,14 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-169 songs - 8 hr 1 min
+170 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Moment Of Peace \(Rainy Green Noise\)](https://open.spotify.com/track/6fFR0PmP2feAJubtu2iG0s) | [LBE Nature Recordings](https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz) | [Nature's Green Noise](https://open.spotify.com/album/2nsVqm029i0ZfJlYeTnqq6) | 2:42 | 2023-06-16 |  |
 | [Always Raining](https://open.spotify.com/track/1q2KP0U1lQ7MzCTNwC1zpb) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [Rain over Cornwall](https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy) | 3:28 | 2022-11-21 |  |
 | [Amber Leaves \(Rain\)](https://open.spotify.com/track/4fCsvCujFVP1AEcO9Yp24d) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 2:59 | 2022-11-21 | 2025-10-28 |
+| [Another Rainy Day](https://open.spotify.com/track/1BQJ4esJ7hiAtK0kCQgNxX) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Another Rainy Day](https://open.spotify.com/album/6AOTXjaCD4ynxIbMqTEbUa) | 2:13 | 2025-12-19 |  |
 | [August Rain \- Green Noise](https://open.spotify.com/track/1Ll6DbRDeyQTkNdW0AbnmL) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Green Noise Vol\. 1](https://open.spotify.com/album/5ZSsHlWLo7Zginr7ig47Pw) | 2:27 | 2023-10-11 |  |
 | [Autumn Rain](https://open.spotify.com/track/3kWteyOjUnjJbm8W78KuLO) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Autumn Rain](https://open.spotify.com/album/1B5lpPLBPgHI0lYUdIiSA6) | 2:09 | 2024-08-23 | 2025-12-07 |
 | [Bajo el paraguas](https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE) | [Weather Modifier](https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN) | [Bajo el paraguas](https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ) | 2:03 | 2022-11-21 |  |
@@ -83,7 +84,7 @@
 | [Light Airy Rain](https://open.spotify.com/track/29ztwJlRRsaolUGZg2W6pc) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Light Airy Rain](https://open.spotify.com/album/74M1Rr63fwYx1kEqqHxzlR) | 3:16 | 2023-10-11 |  |
 | [Light Midday Rain](https://open.spotify.com/track/0cCB3UK7HZ1WlRo9L5CJx1) | [The Beautiful World Around](https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ) | [Light Midday Rain](https://open.spotify.com/album/3yrdWiExqMLI3GNF1Rppjl) | 3:20 | 2024-03-11 | 2025-06-20 |
 | [Light Night Rain](https://open.spotify.com/track/4RAPlesKcPmpHLYoWKjL4o) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Night Rain In The Forest](https://open.spotify.com/album/26AaQKKSGH3SoRkQzJgbZO) | 3:07 | 2023-10-11 |  |
-| [Light Rain & Thunder](https://open.spotify.com/track/6iS63rb0qhmZN1tXo7NbP2) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain & Thunder](https://open.spotify.com/album/0DZKxabmesNm3liwpYOgRd) | 3:28 | 2024-08-23 |  |
+| [Light Rain & Thunder](https://open.spotify.com/track/6iS63rb0qhmZN1tXo7NbP2) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain & Thunder](https://open.spotify.com/album/0DZKxabmesNm3liwpYOgRd) | 3:28 | 2024-08-23 | 2026-03-11 |
 | [Light Steady Rain \(Nature\)](https://open.spotify.com/track/5a8pa3Jtnb3O8eaym8hZ7n) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Morning Wonder \(Nature\)](https://open.spotify.com/album/5dKBRdiSn6T9x5yw1vUQck) | 3:16 | 2022-11-21 |  |
 | [Lightning In The Sky](https://open.spotify.com/track/4xLC1Ft6zYnVFQmyMyrjek) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
 | [Llovizna](https://open.spotify.com/track/712yV4g1ZG1gQIAVnFiZAR) | [Inunda el Alma](https://open.spotify.com/artist/1zerdBaGrzSOlS5WCmsjAb) | [Deja Caer](https://open.spotify.com/album/5K77WUwN3klqTlsVyo6NRV) | 3:25 | 2023-10-11 | 2025-08-12 |

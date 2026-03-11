@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "0% (Zero Percent)",
+        "url": "https://open.spotify.com/album/4J23PlZb3rKOWnOQCUt8mq"
+      },
+      "artists": [
+        {
+          "name": "Ants",
+          "url": "https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206341,
+      "name": "0% (Zero Percent)",
+      "url": "https://open.spotify.com/track/4tix1h4sqAYlF34hbqCv9X"
+    },
+    {
+      "album": {
         "name": "007",
         "url": "https://open.spotify.com/album/2h5zHTRQRlVXDRPW35FHXZ"
       },
@@ -49819,6 +49837,24 @@
     },
     {
       "album": {
+        "name": "Crybaby",
+        "url": "https://open.spotify.com/album/2EowrbfryyJRiRcka5vDXC"
+      },
+      "artists": [
+        {
+          "name": "Zia",
+          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-12-14",
+      "duration_ms": 227453,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/65cA0hwl9xn1qQCx6T5iCL"
+    },
+    {
+      "album": {
         "name": "crybaby",
         "url": "https://open.spotify.com/album/6PUJXA5GwBJ1yqFIoU3M6l"
       },
@@ -49836,26 +49872,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171000,
-      "name": "crybaby",
+      "name": "crybaby (feat. aiai)",
       "url": "https://open.spotify.com/track/2icmtCLDrMJZjO0rFGJXNF"
-    },
-    {
-      "album": {
-        "name": "Crybaby",
-        "url": "https://open.spotify.com/album/2EowrbfryyJRiRcka5vDXC"
-      },
-      "artists": [
-        {
-          "name": "Zia",
-          "url": "https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk"
-        }
-      ],
-      "date_added": "2024-12-02",
-      "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
-      "duration_ms": 227453,
-      "name": "Crybaby",
-      "url": "https://open.spotify.com/track/65cA0hwl9xn1qQCx6T5iCL"
     },
     {
       "album": {
@@ -81936,7 +81954,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 180156,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/1TBF4AVAShgxVjfp2qIgYh"
@@ -87904,6 +87922,24 @@
       "duration_ms": 196093,
       "name": "GO FOR IT",
       "url": "https://open.spotify.com/track/3yAQgYaPG6OjgV7Aej0C5G"
+    },
+    {
+      "album": {
+        "name": "Go for Love",
+        "url": "https://open.spotify.com/album/7ag0W3hrGjOF486km90W0K"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163818,
+      "name": "Go for Love",
+      "url": "https://open.spotify.com/track/5pC9c5HlVuifY319wqBMzb"
     },
     {
       "album": {
@@ -99412,7 +99448,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 180000,
       "name": "Highs and Goodbyes",
       "url": "https://open.spotify.com/track/2R8AgS1dQcau9LXnfKBIGa"
@@ -130929,6 +130965,28 @@
     },
     {
       "album": {
+        "name": "AMBITION 3/10",
+        "url": "https://open.spotify.com/album/1AUgYZCQlfevwwHcI7IXGU"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160781,
+      "name": "LAKU",
+      "url": "https://open.spotify.com/track/5xgBNPHw4s99IIQ9GORN71"
+    },
+    {
+      "album": {
         "name": "Giraffe Picture",
         "url": "https://open.spotify.com/album/2lXSibInMyEVDtP3skqtgO"
       },
@@ -149348,7 +149406,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 217000,
       "name": "Luv U",
       "url": "https://open.spotify.com/track/5T1pvo7hV4jo6iZ9gf7u0H"
@@ -154354,7 +154412,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 180000,
       "name": "Mention Me - From The Movie \"GOAT\"",
       "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
@@ -159962,7 +160020,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 230861,
       "name": "More than Noise",
       "url": "https://open.spotify.com/track/5zS9sl1aT9q8lxO5jhRkeu"
@@ -163808,7 +163866,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 180000,
       "name": "My Prelude",
       "url": "https://open.spotify.com/track/4HlAj9P2Tdk3Fg2ohfQI13"
@@ -173707,6 +173765,24 @@
     },
     {
       "album": {
+        "name": "RUN RUN RUN",
+        "url": "https://open.spotify.com/album/6Vt0Kc0kEMII0c0nHBZrjN"
+      },
+      "artists": [
+        {
+          "name": "Dragon Pony",
+          "url": "https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Oh Perfect!",
+      "url": "https://open.spotify.com/track/3LKZCLEnspadu6UQIOTPVD"
+    },
+    {
+      "album": {
         "name": "siTtin in A sauCer",
         "url": "https://open.spotify.com/album/0uCwxl10MmuLmBWxXQ2dst"
       },
@@ -176496,7 +176572,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 309000,
       "name": "One more time, One more chance",
       "url": "https://open.spotify.com/track/1V6FlzgHwOzTyuoqS87jvT"
@@ -180022,6 +180098,24 @@
       "duration_ms": 167710,
       "name": "OUR Wayyy (Feat. Ann One)",
       "url": "https://open.spotify.com/track/61h9hkKeEJoZuUZ1BVv9tC"
+    },
+    {
+      "album": {
+        "name": "Our world crashing into the sea",
+        "url": "https://open.spotify.com/album/6QSAbCW1d32CWuxC9G6LCr"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Our world crashing into the sea",
+      "url": "https://open.spotify.com/track/0OtQaOmrO1euYrhlZVUlz8"
     },
     {
       "album": {
@@ -187578,7 +187672,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 177258,
       "name": "Pop Pop",
       "url": "https://open.spotify.com/track/0UrKZhfmr8R4dIsmiFEzg4"
@@ -195272,7 +195366,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 181216,
       "name": "Remnant Flower (4moments Original Soundtrack Part.1)",
       "url": "https://open.spotify.com/track/0dk889fQmOCtw1xrEQEMdA"
@@ -197042,6 +197136,24 @@
       "duration_ms": 195837,
       "name": "Right here (Feat. Gist, NO:EL, Skinny Brown)",
       "url": "https://open.spotify.com/track/2Tgubf2oOdciOua7JaQw7n"
+    },
+    {
+      "album": {
+        "name": "right next to me",
+        "url": "https://open.spotify.com/album/5JwrbfAphlVvKf1HWxXT1z"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "right next to me",
+      "url": "https://open.spotify.com/track/6G4qa5d3rrRrCLIuHZyKQH"
     },
     {
       "album": {
@@ -209546,7 +209658,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 136000,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/6R6zXjhbvw7VtCDdKbuCTQ"
@@ -213854,6 +213966,24 @@
       "duration_ms": 179373,
       "name": "Snowfall at Night",
       "url": "https://open.spotify.com/track/0Zfbke9pFba6W4Vumee8iM"
+    },
+    {
+      "album": {
+        "name": "Snowflake",
+        "url": "https://open.spotify.com/album/3jOpIyzK7Q2deFjNYTJpqa"
+      },
+      "artists": [
+        {
+          "name": "soye",
+          "url": "https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Snowflake",
+      "url": "https://open.spotify.com/track/4xV93DQpf8fFqQz0k5Lgoc"
     },
     {
       "album": {
@@ -221410,7 +221540,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 184453,
       "name": "Stay here with me",
       "url": "https://open.spotify.com/track/14CBiz2JfZUOVWINmQJSnO"
@@ -225638,6 +225768,24 @@
       "duration_ms": 186570,
       "name": "Sugar Rush Ride",
       "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "album": {
+        "name": "Lv1",
+        "url": "https://open.spotify.com/album/62ibdcqTMW33uWiCYHPUko"
+      },
+      "artists": [
+        {
+          "name": "Yeo Jin",
+          "url": "https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132727,
+      "name": "Sugar talk",
+      "url": "https://open.spotify.com/track/1nKaeA6KSJzgzLBdbEMGST"
     },
     {
       "album": {
@@ -233204,6 +233352,24 @@
       "duration_ms": 198066,
       "name": "TELEPATHY (feat. Risso)",
       "url": "https://open.spotify.com/track/3W00LFLL2wWSBafixcrDpO"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO"
     },
     {
       "album": {
@@ -244748,6 +244914,28 @@
       "duration_ms": 220173,
       "name": "Tired of falling in love",
       "url": "https://open.spotify.com/track/5kBfn6GRgUfCww26vIGTzL"
+    },
+    {
+      "album": {
+        "name": "spring spring",
+        "url": "https://open.spotify.com/album/7eeaK3hhcRkV78Xdm8AYN9"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        },
+        {
+          "name": "Eily",
+          "url": "https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Tired Today, Happy Tomorrow",
+      "url": "https://open.spotify.com/track/463COOzLMzGp30vAAFlHxR"
     },
     {
       "album": {
@@ -259529,6 +259717,24 @@
     },
     {
       "album": {
+        "name": "We become love",
+        "url": "https://open.spotify.com/album/0jfJccsSMl3BhSckZGpXg2"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260120,
+      "name": "We become love",
+      "url": "https://open.spotify.com/track/0cSNCKbbOfPGazu5edq4rj"
+    },
+    {
+      "album": {
         "name": "We Burned, Then We Faded",
         "url": "https://open.spotify.com/album/3lcTRLpT67rMsMAa6ljH83"
       },
@@ -264086,7 +264292,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 170795,
       "name": "When It\u2019s Called Love",
       "url": "https://open.spotify.com/track/6iDfmFtNZGtXnpok8E7kbS"
@@ -266902,6 +267108,24 @@
       "duration_ms": 193571,
       "name": "Who's Next",
       "url": "https://open.spotify.com/track/6ThLQikkZeVsjrIanddbi6"
+    },
+    {
+      "album": {
+        "name": "Siren's Kiss (Original Soundtrack) Part.2",
+        "url": "https://open.spotify.com/album/2btlVaKXe6vVBYQ3p0xYam"
+      },
+      "artists": [
+        {
+          "name": "Lim Hyunsik",
+          "url": "https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Who's Real",
+      "url": "https://open.spotify.com/track/6xhY4KsXMH02dZgFTmKXxp"
     },
     {
       "album": {

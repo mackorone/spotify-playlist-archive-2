@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-420 songs - 1 day 3 hr 1 min
+421 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 | 2023-11-10 | 2024-02-27 |
 | [Delusyon](https://open.spotify.com/track/2cCDHJUUC9NmxPPr7JkP3R) | [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e), [Ken Manguiat](https://open.spotify.com/artist/5X0lDO3wabgkXnCyXZpXKz) | [Delusyon](https://open.spotify.com/album/2u4i2jr1X6AdlQrvKlAXZ2) | 3:12 | 2025-02-26 | 2025-03-01 |
 | [Di Bale](https://open.spotify.com/track/2zo7R0v0YrmVfb3VPkrAFX) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [jgh](https://open.spotify.com/album/5qbKa6ArxbSTX3qJZpg1ss) | 3:53 | 2024-12-04 | 2025-01-28 |
+| [Di Ko Alam](https://open.spotify.com/track/1ESvI4PhWa7pZCh7JRrmLs) | [RussJr](https://open.spotify.com/artist/1tfSYCR5FHZlqLzla1lJeG), [Melodias](https://open.spotify.com/artist/51mJcbrO6wCPWJDXffpAKi) | [Di Ko Alam](https://open.spotify.com/album/65yOErUwFhSK9t1so39QBT) | 3:12 | 2026-03-10 |  |
 | [Di Nakakasawa](https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [II: The second](https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw) | 3:17 | 2025-11-13 |  |
 | [Dito Ka Lang](https://open.spotify.com/track/43wDE87JHrWJ3KZKGk61tH) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Dito Ka Lang](https://open.spotify.com/album/1LDzCTNFhzfn9TjghCuQV3) | 3:29 | 2025-12-01 | 2026-01-20 |
 | [Diving](https://open.spotify.com/track/0f5KjkiImInkEJAqL76Aem) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Diving](https://open.spotify.com/album/7mWFFXiXvFGMWMe9WRtfMr) | 3:28 | 2025-02-26 | 2025-03-01 |
@@ -180,7 +181,7 @@
 | [Kursunada](https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Kursunada](https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA) | 2:59 | 2023-10-18 | 2024-01-06 |
 | [Kwarto](https://open.spotify.com/track/10WZ0sAK3gQl09ptxfZYK7) | [Anna Aquino](https://open.spotify.com/artist/6nrxik1s5QPX6CfiqeOoNd) | [Kwarto](https://open.spotify.com/album/5HFkyPrla5fKhZZtHSiLqA) | 4:57 | 2024-04-03 | 2024-04-19 |
 | [Lalapit?](https://open.spotify.com/track/6EiNfnUrSbiouZqFx7kxHf) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF) | [Lalapit?](https://open.spotify.com/album/7yXl6AtxQFNhWhtH0RpMV0) | 3:50 | 2025-11-17 | 2025-11-25 |
-| [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 |  |
+| [Lalim](https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Lalim](https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP) | 3:19 | 2024-09-25 | 2026-03-11 |
 | [Lapit Kapit](https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lapit Kapit](https://open.spotify.com/album/7saglGbQnqjQ5eytjWnqas) | 2:57 | 2026-02-11 | 2026-02-17 |
 | [Laro](https://open.spotify.com/track/06pA8vxowvqlRCe2hteMsB) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx) | [Laro](https://open.spotify.com/album/1tryiZ8ELSSko2XcSJJ1Jd) | 3:48 | 2025-11-17 | 2025-11-25 |
 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 | 2025-07-08 | 2025-08-02 |

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: Juice WRLD)",
-  "num_followers": 456984,
+  "num_followers": 457012,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -130,6 +130,10 @@
         {
           "name": "Big Soto",
           "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Alenoise",
+          "url": "https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE"
         }
       ],
       "duration_ms": 146084,

@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-411 songs - 19 hr 23 min
+412 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Luna Nueva](https://open.spotify.com/track/6GLKRIk8YSDDi3BnJIVr4C) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Luna Nueva](https://open.spotify.com/album/1nXR27VjplhMuwL7u6ChGd) | 3:37 | 2023-01-24 | 2023-12-19 |
 | [Lyricon](https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Lyricon](https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1) | 3:12 | 2025-04-24 |  |
 | [Lyvora](https://open.spotify.com/track/6swO4wcKvKlpIPziPc7AAk) | [Monkville](https://open.spotify.com/artist/53qEoYIkHrhdTdC6AaSoiJ) | [Lyvora](https://open.spotify.com/album/3i2ntpjwIuvdMuYJwjXfNQ) | 2:23 | 2025-10-24 |  |
+| [Lúnaris](https://open.spotify.com/track/7ottqeiDfzhvwfobW4tfBc) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Lúnaris](https://open.spotify.com/album/3yZZHbaqERyyHeCXwsoPQz) | 2:29 | 2026-03-06 |  |
 | [Magnetic Aura](https://open.spotify.com/track/6UDgvopTCbgF94i54HRuXB) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Magnetic Aura](https://open.spotify.com/album/0ucppkG6frtTW2LVZGvBBB) | 3:02 | 2024-03-05 | 2025-12-06 |
 | [Martello](https://open.spotify.com/track/7KWk7mL21m0YbkeJUdm1TM) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [Martello](https://open.spotify.com/album/3H979kln0g82N8otZE71ec) | 2:41 | 2023-09-01 | 2025-04-30 |
 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 | 2023-03-13 | 2024-08-23 |
@@ -406,7 +407,7 @@
 | [Unity](https://open.spotify.com/track/6rHtt54jKCbXRiJtEqJ0Lw) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Unity](https://open.spotify.com/album/6tFoXQoZLEz3myMSNL1fgh) | 2:02 | 2024-12-20 | 2025-07-02 |
 | [Unité](https://open.spotify.com/track/1XNuWRKQ8EoadsOq0nGtuI) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Unité](https://open.spotify.com/album/2arwW4mufgnvXDiPYIT6ze) | 2:38 | 2023-03-13 | 2024-12-05 |
 | [Upstream](https://open.spotify.com/track/2AczRHkxLS55yTDtyy5Hrr) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Upstream](https://open.spotify.com/album/2PLOlM8ygtam36gb7MOYMI) | 2:38 | 2023-08-21 | 2024-08-23 |
-| [Velvet Hours](https://open.spotify.com/track/5Ne3n3oUurjKyVKU6Fot5W) | [Nineveh Skies](https://open.spotify.com/artist/3fp5CnEXdB6fA0M5iva4RA) | [Velvet Hours](https://open.spotify.com/album/1jtJXJzYVQHacwaDoCBvm9) | 2:48 | 2026-03-06 |  |
+| [Velvet Hours](https://open.spotify.com/track/5Ne3n3oUurjKyVKU6Fot5W) | [Nineveh Skies](https://open.spotify.com/artist/3fp5CnEXdB6fA0M5iva4RA) | [Velvet Hours](https://open.spotify.com/album/1jtJXJzYVQHacwaDoCBvm9) | 2:48 | 2026-03-06 | 2026-03-11 |
 | [Volans In Silva](https://open.spotify.com/track/00KRNJUSfPviEiGgV09vq3) | [Bo Beauve](https://open.spotify.com/artist/6WhIXLtC2VSVq70ZepAKel) | [Volans In Silva](https://open.spotify.com/album/7icpgFKWyNPsM0P93bXhCG) | 3:06 | 2023-03-13 | 2024-06-04 |
 | [Waking Peacefully \(by a Forest Stream\)](https://open.spotify.com/track/17rfyrqT5cHsqJ51qlO1gM) | [Forlorn Light](https://open.spotify.com/artist/1lh84CpK8jFmCG7TFFUSao) | [Gentle Caress & Waking Peacefully](https://open.spotify.com/album/6iPI6hMJ0ntaN15enndpNv) | 3:44 | 2024-08-22 |  |
 | [Warm Mist](https://open.spotify.com/track/36CvZfRCWOtV0CnDfbvIbE) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Warm Mist](https://open.spotify.com/album/26HZv5Pb4v5ISn6IET9T6w) | 2:49 | 2025-10-24 |  |

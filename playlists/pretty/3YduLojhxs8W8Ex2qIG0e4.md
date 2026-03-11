@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YduLojhxs8W8Ex2qIG0e4.md) - [plain]
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,991 likes - 55 songs - 3 hr 16 min
+[Salon Blanc](https://open.spotify.com/user/1125193345) - 1,990 likes - 55 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/3YduLojhxs8W8Ex2qIG0e4.md) - [plain]
 | 54 | [Ashes to Ashes](https://open.spotify.com/track/0tGGJikXOs4W6ZJpnJi9mP) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Ashes to Ashes](https://open.spotify.com/album/2nyG2TIHPYl9XCWgEUnSge) | 3:51 |
 | 55 | [The Beginning Of The End](https://open.spotify.com/track/2fN6H4ncv3uYMG7mMEtbcA) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:08 |
 
-Snapshot ID: `AAAJi7uOJbhvF33ZOtR923gWv9iJOYRr`
+Snapshot ID: `AAAJjRHbDHKtV1z+8hfKwqEMVWZPUsSE`

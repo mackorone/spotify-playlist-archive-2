@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,482 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,533 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 8 | [\[end credits\]](https://open.spotify.com/track/5TH1wQUcUT7e8SUXESGniH) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Afterlife](https://open.spotify.com/album/1fnrwCqjG1x60wT7ixaYSK) | 2:59 |
 | 9 | [Smoke Rings](https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Smoke Rings](https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum) | 8:06 |
 | 10 | [We Move Slighly Forward](https://open.spotify.com/track/13jl7QOGhx4YAXDjXP3Abb) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq), [Blu Miles](https://open.spotify.com/artist/6Im1pI4Fs0wC6Vb4nj6E9A) | [We Move Slightly Forward](https://open.spotify.com/album/4iClAq2zbA2OzAYBmEYjvM) | 1:17 |
-| 11 | [－－ ··－ ·－·· － ·· ·－－· ·－·· ·－ －·－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ··－ ·－·· － ·· ·－－· ·－·· ·－ －·－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 |
+| 11 | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 |
 | 12 | [Waveframes](https://open.spotify.com/track/6EASY6Mbow5Eslb3N5V2wp) | [Sonant](https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K) | [Waveframes](https://open.spotify.com/album/0vXp320PGbgenQl3R3h8rS) | 2:43 |
 | 13 | [Where the Light Rests \(for Chris\)](https://open.spotify.com/track/58ZNBQEy5XbMyGiARiRBQQ) | [inamomentimalive](https://open.spotify.com/artist/36im0ei483DaMGXlbkTYUT), [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf), [Raphah](https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL) | [Where the Light Rests \(for Chris\)](https://open.spotify.com/album/2PwZh4tuxgGmC2mo1nby8P) | 3:41 |
 | 14 | [Other Tongues \(Oliver Coates Rework\)](https://open.spotify.com/track/768DOPEnw26guKGoNuK3ae) | [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Other Tongues \(Oliver Coates Rework\)](https://open.spotify.com/album/1gYNvuCM2rBYl2aUHZ8STi) | 6:12 |

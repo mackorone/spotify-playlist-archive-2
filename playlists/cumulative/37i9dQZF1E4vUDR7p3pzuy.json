@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "A Pop Song for Satan",
       "url": "https://open.spotify.com/track/14rkrBXoxEBpIdEfoPZx3t"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 209536,
       "name": "A song for the broken",
       "url": "https://open.spotify.com/track/0DMPMjuPkq7jfRuqpgNYXx"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "As the Water Fills the Hull",
       "url": "https://open.spotify.com/track/7kJGhdJb3CgoYizPBH48I1"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 213108,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7dST6nUksQ5kUZaDejsAqy"
@@ -1156,7 +1156,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 206896,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/6zOTd6Pahvwas06vzXh3Dr"
@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 230433,
       "name": "Cleansed by Fire",
       "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
@@ -2269,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "THREE TRIGGERS",
+        "url": "https://open.spotify.com/album/6ix70PMP3zGS6dOEJjd4wF"
+      },
+      "artists": [
+        {
+          "name": "THREE TRIGGERS",
+          "url": "https://open.spotify.com/artist/5JCt4SngFEl8hEd4iWkEcA"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92647,
+      "name": "escape",
+      "url": "https://open.spotify.com/track/07mG4TNfhFyLuS5v2bF4Rn"
+    },
+    {
+      "album": {
         "name": "Shamanic Faultlines",
         "url": "https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG"
       },
@@ -2464,10 +2482,28 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
+    },
+    {
+      "album": {
+        "name": "Cranky Tulips",
+        "url": "https://open.spotify.com/album/0E6tZ8Gta6j1G6z8QvnZAi"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276372,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
     },
     {
       "album": {
@@ -3650,7 +3686,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 152185,
       "name": "I WANNA KNOW",
       "url": "https://open.spotify.com/track/7GlKSGGjBpuVVfCQO48yM1"
@@ -4202,7 +4238,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 201468,
       "name": "Laissez-faire",
       "url": "https://open.spotify.com/track/7iAGjF1eTqPxTuzN7Gjo39"
@@ -4278,7 +4314,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 212307,
       "name": "Left On Read",
       "url": "https://open.spotify.com/track/5aug3u75DvXol19W9Syjik"
@@ -5090,7 +5126,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -5144,7 +5180,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 167830,
       "name": "no thank you",
       "url": "https://open.spotify.com/track/5DXHMz3iJWgw8MvfBoakze"
@@ -6460,7 +6496,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
@@ -7448,7 +7484,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 153199,
       "name": "The Void",
       "url": "https://open.spotify.com/track/1tzTUX3w3V9pYntggNL8Ej"
@@ -7617,6 +7653,24 @@
     },
     {
       "album": {
+        "name": "Gone but Not Forgotten",
+        "url": "https://open.spotify.com/album/1SReFJuZAU3226VhSul3VX"
+      },
+      "artists": [
+        {
+          "name": "The Creeping Candies",
+          "url": "https://open.spotify.com/artist/1AO5x0L3ufgU1AgFFaNSrg"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Things Have Changed - Radio Edit",
+      "url": "https://open.spotify.com/track/0Yy1djiKKXIaDzJyIe6MgU"
+    },
+    {
+      "album": {
         "name": "Don't Look Back (Radio Edit)",
         "url": "https://open.spotify.com/album/7sAQSZ70a0ynetSd1wzJmd"
       },
@@ -7628,7 +7682,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 234320,
       "name": "Things Have Changed - Radio Edit",
       "url": "https://open.spotify.com/track/3SmreUsJpTRubF2f69Ub9y"
@@ -7870,7 +7924,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
@@ -8347,6 +8401,24 @@
     },
     {
       "album": {
+        "name": "Wasp Factory",
+        "url": "https://open.spotify.com/album/7Mqni9n0vMfESW0iTLq5Lz"
+      },
+      "artists": [
+        {
+          "name": "Ecto Peach",
+          "url": "https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171413,
+      "name": "Wasp Factory",
+      "url": "https://open.spotify.com/track/0YIGnoaNjwTif56JGCKZEE"
+    },
+    {
+      "album": {
         "name": "We Are Coming For You",
         "url": "https://open.spotify.com/album/1n7VkevSx6n4rQauWwKYm7"
       },
@@ -8550,7 +8622,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -8604,7 +8676,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -8640,7 +8712,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 124399,
       "name": "Wildfire Heart",
       "url": "https://open.spotify.com/track/6Q7ApqsX2ZWOPGIEklmgL6"

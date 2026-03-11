@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > DETOX: ONE OK ROCK at their most explosive yet\. Cover: ONE OK ROCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,758 likes - 20 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,755 likes - 20 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 19 | [+Matter](https://open.spotify.com/track/2ZdQBK8hrh3ZaXQpVnFSn7) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:52 |
 | 20 | [We Are](https://open.spotify.com/track/57sk9X1fPLXRfkw74XNrmK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 4:15 |
 
-Snapshot ID: `AAAAAHpjw/F+j2dKLfi0uzCR7AFyAZUL`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

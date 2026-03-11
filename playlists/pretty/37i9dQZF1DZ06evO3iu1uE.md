@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 
 > This is X\-Ray Spex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,626 likes - 16 songs - 43 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,628 likes - 16 songs - 43 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 | 8 | [I'm a Cliche \- Live](https://open.spotify.com/track/3tKMHQ3AvkLKLctt82h0ga) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Rotten to the Core: The Early Punk Years \(Live\)](https://open.spotify.com/album/52Z36PbeiwRBII7ZT59nD0) | 1:45 |
 | 9 | [Germfree Adolescence](https://open.spotify.com/track/66aJzbthKVg5ZBgokifkkC) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:15 |
 | 10 | [Junk Food Junkie](https://open.spotify.com/track/11ciu5NrdW7DMp4dezYlkF) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 3:22 |
-| 11 | [The Day the World Turned Day\-Glo](https://open.spotify.com/track/0rccdaligaDK8URad52GZG) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:52 |
+| 11 | [Art\-I\-Ficial](https://open.spotify.com/track/4sOHhQfxnV1Wdr26hnuVtC) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:24 |
 | 12 | [Good Time Girl](https://open.spotify.com/track/39YULbxBJ8q7yQSdWffNH9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:59 |
-| 13 | [Art\-I\-Ficial](https://open.spotify.com/track/4sOHhQfxnV1Wdr26hnuVtC) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:24 |
+| 13 | [The Day the World Turned Day\-Glo](https://open.spotify.com/track/0rccdaligaDK8URad52GZG) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 2:52 |
 | 14 | [Peace Meal](https://open.spotify.com/track/1yVF4IbeaoBWg3YgBLd4N9) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:31 |
 | 15 | [Warrior in Woolworths](https://open.spotify.com/track/1euywBbU9IYRoT9qFOdUvr) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents](https://open.spotify.com/album/6O0hDvYYCjEoOzJdXkiaXa) | 3:07 |
 | 16 | [Party](https://open.spotify.com/track/3AekeEt7Fn2erIUo1YoOQa) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Conscious Consumer](https://open.spotify.com/album/5mFOmug1IuWTlUPc9EzL9G) | 2:48 |
 
-Snapshot ID: `aay8AAAAAACGz+Co8mQ4eahol94WfR6/`
+Snapshot ID: `aa4NgAAAAACsjDaKVzV1D6rXspkND95w`

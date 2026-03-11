@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 박찬영\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김푸름 \(KIM PU REUM\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,272 songs - 3 day 4 hr 58 min
+1,273 songs - 3 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,7 +501,7 @@
 | [I said I love you](https://open.spotify.com/track/6o8LGsALvRgiaGdHsh6Uy1) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Homeground](https://open.spotify.com/album/3S4IGPlVVFQlZKes6duYVZ) | 3:55 | 2024-04-30 | 2024-05-10 |
 | [I see you](https://open.spotify.com/track/3Fr9ZD5KAF9mm5BZQkmzqv) | [Giryeon](https://open.spotify.com/artist/019xuaJPwSE0VLLJzcO8K6) | [When the Weather is fine OST Part.5](https://open.spotify.com/album/3DhJ5fuH9Ag2sv0vHzVq44) | 4:34 | 2022-03-31 | 2022-04-19 |
 | [I Thought I Was An Adult 어른인 줄 알았어](https://open.spotify.com/track/4JuldopgBVxrFgROeBU8y6) | [흔적 Heunjeok](https://open.spotify.com/artist/1JLEa6Ne72F5PpIsLdL1gW) | [200326](https://open.spotify.com/album/5EDCJR4y81CObk37e0xBio) | 2:29 | 2022-04-12 | 2022-04-19 |
-| [i wanna believe something](https://open.spotify.com/track/2Kx1TevXau92x9faOQcW9Y) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [i wanna believe something](https://open.spotify.com/album/4oZ2V5zfK2tyvQFdVhTpBM) | 4:02 | 2026-02-02 |  |
+| [i wanna believe something](https://open.spotify.com/track/2Kx1TevXau92x9faOQcW9Y) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [i wanna believe something](https://open.spotify.com/album/4oZ2V5zfK2tyvQFdVhTpBM) | 4:02 | 2026-02-02 | 2026-03-11 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2021-12-21 | 2022-04-21 |
 | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/track/4Jvgf76h1R9xRfLQAgjixK) | [jungumul 정우물](https://open.spotify.com/artist/4kkPYliE6UmXoj81Xzr4s6) | [I want to live with you 당신과 함께 살고 싶어요](https://open.spotify.com/album/1wvNe35sWSsk35B8hrFgcP) | 3:29 | 2022-04-12 | 2022-04-21 |
 | [I Want You](https://open.spotify.com/track/2r3lmIMjeiBVfurRKM2XXn) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [I Want You](https://open.spotify.com/album/6LYuWto4dMfk00uHWZkkLx) | 3:48 | 2023-08-24 | 2024-05-09 |
@@ -877,6 +877,7 @@
 | [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 | 2024-05-10 |
 | [Ribbon Love ∞](https://open.spotify.com/track/7o8BCyeBH2fZLut4gW2IAd) | [Yeyoung Kang](https://open.spotify.com/artist/6xtXjfsGpDliughhzrv7OA) | [Ribbon Love ∞](https://open.spotify.com/album/7LlhQhqEwDajm63r6wmEbc) | 3:03 | 2024-04-30 | 2024-05-10 |
 | [Riddle of Life](https://open.spotify.com/track/0MNcLcsyHp25Siq9M7BkA1) | [Jeong Gayi](https://open.spotify.com/artist/0u4K1Tr32rIXpmYUhHhqP8) | [Conundrum](https://open.spotify.com/album/5tNIxtyS1X2W1rjf5yIZzj) | 3:22 | 2025-09-25 | 2025-11-06 |
+| [right next to me](https://open.spotify.com/track/6G4qa5d3rrRrCLIuHZyKQH) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [right next to me](https://open.spotify.com/album/5JwrbfAphlVvKf1HWxXT1z) | 4:15 | 2026-03-10 |  |
 | [Right Time and Right Place](https://open.spotify.com/track/3nYIZUYzPEgyGNjhQZvlx9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Chocolate,Pt.10\(Original Television Soundtrack\)](https://open.spotify.com/album/0YYLtuin5Xf0MB1vXHNtpD) | 3:53 | 2022-03-31 | 2022-04-11 |
 | [ringringring](https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [ringringring](https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH) | 3:47 | 2024-05-16 | 2024-11-30 |
 | [Rocket](https://open.spotify.com/track/1UZFUBCPJgHqLXgIVOfTGO) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Rocket](https://open.spotify.com/album/2ZoEBlx7O98lArGmUgfNof) | 3:15 | 2021-12-21 | 2022-04-27 |

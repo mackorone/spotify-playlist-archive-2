@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sema Moritz
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,295 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,299 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 83 | [Vazgeçmem](https://open.spotify.com/track/2ge9X06vhZ8gEVHlLqBFo9) | [Elvan Buldaş](https://open.spotify.com/artist/33lUKzZdTJMgjbQm8I8u1h) | [Vazgeçmem](https://open.spotify.com/album/2H0vfO3q3zx8eNSZ0OfA5d) | 2:51 |
 | 84 | [Bir Masal Daha](https://open.spotify.com/track/6KZMR8kHkhT8JG2yGIjBhq) | [Zeynep Doruk](https://open.spotify.com/artist/0saR1ENd9gWtNL8YS7MMUE) | [Bir Masal Daha](https://open.spotify.com/album/2m0prlNBRLG5yrxlP2ZGeP) | 2:54 |
 
-Snapshot ID: `AAAAALGQJS7OehIla7GcSNvhPdxwal6D`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

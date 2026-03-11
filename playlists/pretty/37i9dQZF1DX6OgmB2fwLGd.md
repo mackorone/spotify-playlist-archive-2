@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. Nettspend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,482 likes - 85 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,469 likes - 85 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

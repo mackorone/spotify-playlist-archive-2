@@ -4,7 +4,7 @@
 
 > Suomi\-indien tuoreimpia helmiä.
 
-1,107 songs - 2 day 18 hr 38 min
+1,108 songs - 2 day 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,7 +387,7 @@
 | [Kanna minut pois](https://open.spotify.com/track/4mekiNh8eHpAX1Q1E9WEMh) | [Uhrisavu](https://open.spotify.com/artist/2asPA1Osj2kIy9fH1CGzjR) | [Kanna minut pois](https://open.spotify.com/album/4drgVrNybcYzXezxoiQTez) | 3:32 | 2024-08-22 | 2024-09-20 |
 | [Karhupuisto](https://open.spotify.com/track/67CEHyZn7yRkgC7A1mkUAo) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Karhupuisto](https://open.spotify.com/album/2F20BwMJMsizfRTbd5dxOe) | 3:15 | 2026-02-19 |  |
 | [Kari Tapio](https://open.spotify.com/track/3GfJDmX88Ta6EfAS1vmupD) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Kari Tapio](https://open.spotify.com/album/7zWlwV602U48Zjj47Fq1Q3) | 2:50 | 2024-10-31 | 2024-11-29 |
-| [Karkki vai kepponen?](https://open.spotify.com/track/21qzvhxiQfQkVtHNq2iKRZ) | [Katariina](https://open.spotify.com/artist/1NWtSTqEpf6EuIb2USr66k) | [Karkki vai kepponen?](https://open.spotify.com/album/5FJzrkMY73g7yoFgnRRy9p) | 2:10 | 2025-10-09 |  |
+| [Karkki vai kepponen?](https://open.spotify.com/track/21qzvhxiQfQkVtHNq2iKRZ) | [Katariina](https://open.spotify.com/artist/1NWtSTqEpf6EuIb2USr66k) | [Karkki vai kepponen?](https://open.spotify.com/album/5FJzrkMY73g7yoFgnRRy9p) | 2:10 | 2025-10-09 | 2026-03-11 |
 | [Karla\-Maria](https://open.spotify.com/track/1pvFs8uoGwbsBAaybrPJRW) | [Demonisisarukset](https://open.spotify.com/artist/6yZvwqhXDWBuuwKcggX8vK) | [Karla\-Maria](https://open.spotify.com/album/3A2ww5L7z4sjWpbnN4WSWK) | 3:44 | 2025-05-15 | 2025-06-27 |
 | [Karma hoitaa](https://open.spotify.com/track/4dBdkRwx1814YdL4YXFxkh) | [Alisa Leskinen](https://open.spotify.com/artist/3kW62f6Lunpcv3hIZ8lv5z) | [Karma hoitaa](https://open.spotify.com/album/7htrRcdukagskHpEzsFME6) | 3:11 | 2024-07-02 | 2024-07-05 |
 | [Katariina, ei huolta](https://open.spotify.com/track/18k6xNK0dyCGxQx7r3ZvZW) | [Keidas](https://open.spotify.com/artist/2ESvglqbkUzxRiTB0nJH00) | [Kuinka meidän nyt käy?](https://open.spotify.com/album/1JwAaxbjWtknOYas999WTP) | 3:48 | 2024-10-24 | 2024-12-06 |
@@ -574,6 +574,7 @@
 | [Menkää te juhliin](https://open.spotify.com/track/2X7V0Demz6ZZsxpELQ5N9z) | [Rakkaudella Janne](https://open.spotify.com/artist/4fzPZ93EGyHrsb2jXBFfEK) | [Menkää te juhliin](https://open.spotify.com/album/5J8qpz9UUK8zVN6RWwP5Lg) | 3:13 | 2024-09-12 | 2024-10-11 |
 | [Mennyt ja nykyinen](https://open.spotify.com/track/6Enq5peNfnEAYXx1XPjzFV) | [Thilia](https://open.spotify.com/artist/6Dw0EbEexq4nq4pEP6ASUP) | [Mennyt ja nykyinen](https://open.spotify.com/album/3J4xDOk8UbXxQkT0bn027Z) | 3:50 | 2024-10-10 | 2024-11-01 |
 | [Merenneito](https://open.spotify.com/track/5LbGsP0guVvJrs2AYq0Y5B) | [Itcevät](https://open.spotify.com/artist/1dqKlPZyKIsxrmEkk1brEp) | [Merenneito](https://open.spotify.com/album/4IspOhCi597njsuVD0QzBi) | 3:40 | 2024-10-17 | 2024-11-29 |
+| [Merimailei](https://open.spotify.com/track/3giQeeZlkbqIcjIYml2lE1) | [Riekko Salama](https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx) | [Merimailei](https://open.spotify.com/album/34FXe9qxOdimZPDv2eklzR) | 3:33 | 2026-03-10 |  |
 | [Mermaid](https://open.spotify.com/track/4F5FGKY1rpozFz0zNZVoKJ) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Mermaid](https://open.spotify.com/album/5Ig2dW1s1Sa0VjQNXOyEJx) | 4:09 | 2025-05-01 | 2025-06-06 |
 | [Metsäharju](https://open.spotify.com/track/56ppx9x81s2OhyOFxZDRIu) | [Suisto](https://open.spotify.com/artist/3fgGRAdwG3yg5RvoHgHVaG) | [Metsäharju / Oi pojat](https://open.spotify.com/album/1Qoir8p8rpgk9Y7rTqNBcD) | 4:22 | 2024-07-18 | 2024-09-06 |
 | [Mies joka tuntee kaiken](https://open.spotify.com/track/2gHmhZg8IvQvbjOkgRF9zc) | [Kai Nuu](https://open.spotify.com/artist/1nM46vhERU1vkuD7Obhxol) | [Mies joka tuntee kaiken](https://open.spotify.com/album/5ylFkcKYQRuoGA88mobxtE) | 3:23 | 2026-03-05 |  |

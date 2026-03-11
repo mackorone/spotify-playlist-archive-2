@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Sik\-K\)
 
-1,792 songs - 4 day 0 hr 2 min
+1,793 songs - 4 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [L&B \(Feat\. Street Baby\)](https://open.spotify.com/track/3D8JDF9RR85PBzxW5JOj5X) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [L&B](https://open.spotify.com/album/5tXw2luJlRFJ4vqNZkzS6u) | 3:39 | 2024-02-20 | 2024-06-05 |
 | [LA DI DA](https://open.spotify.com/track/25GmkHJ7TadyVoIZ45l1tn) | [99' Nasty Kidz](https://open.spotify.com/artist/4tg3yil6hmZM8xe5wz7rh5) | [Cheap Talk](https://open.spotify.com/album/7s6s8lAo4ax8gjwynbPpd7) | 3:15 | 2025-01-30 | 2025-05-03 |
 | [Ladidadi!](https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Ladidadi](https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM) | 2:03 | 2024-04-28 | 2024-09-01 |
+| [LAKU](https://open.spotify.com/track/5xgBNPHw4s99IIQ9GORN71) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [AMBITION 3/10](https://open.spotify.com/album/1AUgYZCQlfevwwHcI7IXGU) | 2:40 | 2026-03-11 |  |
 | [LaLaLa](https://open.spotify.com/track/1q4XRbrf9AMgogUar08DYN) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ), [Jibin](https://open.spotify.com/artist/6ZD5uyGsRAMM3f4fxaAchL) | [Earth](https://open.spotify.com/album/0YHsWbFAAO9T5MXLduyim2) | 3:30 | 2025-10-03 | 2025-12-31 |
 | [LALALA Remix \(Feat\. Jay Park, Paul Blanco\)](https://open.spotify.com/track/1Dd6lOJeKgJVeWSZQPtkVF) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [LALALA Remix](https://open.spotify.com/album/70otDt0x1EX7RVIiGWPju3) | 3:04 | 2023-02-06 | 2023-07-18 |
 | [LALISA](https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 3:20 | 2021-12-18 | 2022-07-01 |

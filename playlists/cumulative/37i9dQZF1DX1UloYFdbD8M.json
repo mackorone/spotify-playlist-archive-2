@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 182129,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0pRYDrfGfJEiixN64WNpvj"
@@ -9920,6 +9920,32 @@
       "duration_ms": 172456,
       "name": "Veyil",
       "url": "https://open.spotify.com/track/26v8z8eV1Z4hhpk6oEHEgC"
+    },
+    {
+      "album": {
+        "name": "Vidha (From Saina Indie Radar)",
+        "url": "https://open.spotify.com/album/7ys7bCJKziDqLkNRFoS8yK"
+      },
+      "artists": [
+        {
+          "name": "Ali Najih",
+          "url": "https://open.spotify.com/artist/1QqoemJY9JDakoFrFpP1Qo"
+        },
+        {
+          "name": "Dhaliya navas",
+          "url": "https://open.spotify.com/artist/1bU5NVHBVjMH4k691oMnEw"
+        },
+        {
+          "name": "Leno Martin",
+          "url": "https://open.spotify.com/artist/5JK0lP2maJcJ6G1z8N9r5K"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256578,
+      "name": "Vidha - From Saina Indie Radar",
+      "url": "https://open.spotify.com/track/0Am7wCieAFwFsmFTmS3rJ7"
     },
     {
       "album": {

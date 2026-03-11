@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Amabbi, LAI$ROSA, GvsnoBeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,845 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,851 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Vilã da História](https://open.spotify.com/track/5BnsHBKi7iKJyEAF5u37hE) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [Vilã da História](https://open.spotify.com/album/5QBdLtY2q2X8qtowaPXsRI) | 2:26 |
 | 75 | [Rolé de Questão](https://open.spotify.com/track/7LJXh2QD51wZjZJVMRgMRM) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Rolé de Questão](https://open.spotify.com/album/4hJXmZs2c9VqT6yqTL209U) | 3:28 |
 
-Snapshot ID: `AAAAAFvwLHyeaHkig1gTs74lNHs32Ffe`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

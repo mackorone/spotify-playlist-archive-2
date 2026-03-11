@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158928,
+  "num_followers": 158919,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-03-09 15:50:54",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
-      },
-      "artists": [
-        {
-          "name": "DONATTO",
-          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
-    },
-    {
-      "added_at": "2026-03-09 15:50:54",
-      "album": {
         "name": "Pedras no Caminho",
         "url": "https://open.spotify.com/album/4kuJH4uki3ayfHC9SYRNJB"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 159374,
       "name": "Pedras no Caminho",
       "url": "https://open.spotify.com/track/71b7yoPiWC5fYss6x1fWx7"
+    },
+    {
+      "added_at": "2026-03-09 15:50:54",
+      "album": {
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X"
+      },
+      "artists": [
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
     },
     {
       "added_at": "2026-03-09 15:50:54",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2026-03-09 15:50:54",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
-      },
-      "artists": [
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
-    },
-    {
-      "added_at": "2026-03-09 15:50:54",
-      "album": {
         "name": "ALAKASAM",
         "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-03-09 15:50:54",
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/0scoy8UHbc4b7Rz5fZxuOl"
+      },
+      "artists": [
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6rrc5zmu5jC1j1146di7GY"
     },
     {
       "added_at": "2026-03-09 15:50:54",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2026-03-09 15:50:54",
       "album": {
-        "name": "Modo Avi\u00e3o",
-        "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
       "artists": [
         {
@@ -1192,21 +1192,25 @@
           "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
         },
         {
+          "name": "BORIS FARIAS",
+          "url": "https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF"
+        },
+        {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
           "name": "Junior Lord",
           "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
         },
         {
           "name": "Pel\u00e9 MilFlows",
           "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Caslu",
-          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Toda Linda (feat. Caslu)",
-      "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
+      "duration_ms": 163030,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
     },
     {
       "added_at": "2026-03-09 15:50:54",
@@ -1247,6 +1251,26 @@
     {
       "added_at": "2026-03-09 15:50:54",
       "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188319,
+      "name": "Passa a Bola (Ao Vivo em Noronha)",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+    },
+    {
+      "added_at": "2026-03-09 15:50:54",
+      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -1271,28 +1295,8 @@
     {
       "added_at": "2026-03-09 15:50:54",
       "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola (Ao Vivo em Noronha)",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
-    },
-    {
-      "added_at": "2026-03-09 15:50:54",
-      "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
+        "name": "Modo Avi\u00e3o",
+        "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
       "artists": [
         {
@@ -1304,25 +1308,21 @@
           "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
         },
         {
-          "name": "BORIS FARIAS",
-          "url": "https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF"
-        },
-        {
-          "name": "Mozart Mz",
-          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
-        },
-        {
           "name": "Junior Lord",
           "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
         },
         {
           "name": "Pel\u00e9 MilFlows",
           "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
         }
       ],
-      "duration_ms": 163030,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+      "duration_ms": 168000,
+      "name": "Toda Linda (feat. Caslu)",
+      "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
     },
     {
       "added_at": "2026-03-09 15:50:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 155 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 155 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 81 | [BG Bigelow Inc](https://open.spotify.com/track/37E1kD4lEzT18bAGEPKWMM) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 2:54 |
 | 82 | [The Springtime Cometh](https://open.spotify.com/track/5sik8XJlWHjqVq8xnpT5as) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 3:21 |
 | 83 | [Strange As It Seems](https://open.spotify.com/track/0LOxAo3BsLuUe0smgNEnYA) | [The Boswell Sisters](https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN) | [Anthology \(1925\-1936\)](https://open.spotify.com/album/4AW133ZOLu4rAaImOP4cbE) | 1:38 |
-| 84 | [Drivin' and Dreamin'](https://open.spotify.com/track/6ZPYXoReVWFvkk0nvpzIlr) | [Alan O'Day](https://open.spotify.com/artist/63f6RFsOlwDMnAuDwjB58Y) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:26 |
-| 85 | [A Penny For Your Thoughts \(09\-?\-45\)](https://open.spotify.com/track/6GatfPHao8fud312oMEoh8) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Complete Jazz Series 1944 \- 1945](https://open.spotify.com/album/2e8ORYGG9dsPdknPWvIy3C) | 2:58 |
+| 84 | [A Penny For Your Thoughts \(09\-?\-45\)](https://open.spotify.com/track/6GatfPHao8fud312oMEoh8) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Complete Jazz Series 1944 \- 1945](https://open.spotify.com/album/2e8ORYGG9dsPdknPWvIy3C) | 2:58 |
+| 85 | [Drivin' and Dreamin'](https://open.spotify.com/track/6ZPYXoReVWFvkk0nvpzIlr) | [Alan O'Day](https://open.spotify.com/artist/63f6RFsOlwDMnAuDwjB58Y) | [The Last Legacy of E.Y\. Harburg](https://open.spotify.com/album/7MDBTOKeIpeUeS8ASLU347) | 3:26 |
 | 86 | [Pity the Sunset](https://open.spotify.com/track/6pT3ZNzRrFQf9In8I5n9az) | [Phineas Newborn Jr.](https://open.spotify.com/artist/1WsMRWV5KEC2AxpYkeb2Cf) | [Plays Harold Arlen's Music from Jamaica](https://open.spotify.com/album/05jRnFn99eXi3f33S8Ad9X) | 4:08 |
 | 87 | [Water Under the Bridge](https://open.spotify.com/track/1aZTEwlHUCkuJswWgsbIqU) | [Vernon Duke](https://open.spotify.com/artist/66wHlBv24mr1yH7F4aF6yk), [Dawn Upshaw](https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74) | [Dawn Upshaw Sings Vernon Duke](https://open.spotify.com/album/3iGXOiy5OSuJAahFNDABoH) | 3:04 |
 | 88 | [Finale](https://open.spotify.com/track/3HqZLtVPKECOi3VB4z8ppn) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu), [Shirley Jones](https://open.spotify.com/artist/7722txNx6G1Q5u0kS7WaZn) | [April Love \(Music From The Soundtrack Of The 20th Century\-Fox Cinemascope Picture\)](https://open.spotify.com/album/0cc67yCaCF2D3Rc29Toqih) | 1:23 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 154 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 155 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcLs4AAAAAAZWVjPgMizrIaO9zQYP/Gk`
+Snapshot ID: `AcLydgAAAACib8vZphGqXiCh+PjpzyQH`

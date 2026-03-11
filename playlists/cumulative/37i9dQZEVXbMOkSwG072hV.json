@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 205403,
       "name": "A Sina de Ofelia",
       "url": "https://open.spotify.com/track/2P1KD6OEeAKExYpvx9CQEO"
@@ -22444,7 +22444,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -24082,7 +24082,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -34436,7 +34436,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 163200,
       "name": "GOSTA DE SACANAGEM",
       "url": "https://open.spotify.com/track/04qC09tJqs5BNQEE2Ujbja"
@@ -41880,7 +41880,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 173858,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
@@ -42894,6 +42894,28 @@
       "duration_ms": 219169,
       "name": "Lo Siento",
       "url": "https://open.spotify.com/track/2KazMPytQllwzQLF5CNdf3"
+    },
+    {
+      "album": {
+        "name": "Lobo da Matilha",
+        "url": "https://open.spotify.com/album/6G0fAJJMQgjJ62isVyb0nw"
+      },
+      "artists": [
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "MC Diogo da vn",
+          "url": "https://open.spotify.com/artist/2SDeSH3kOXsdOdIjxx59f0"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lobo da Matilha",
+      "url": "https://open.spotify.com/track/75TRdahib714ZAAG24SboJ"
     },
     {
       "album": {
@@ -47360,6 +47382,36 @@
       "duration_ms": 246935,
       "name": "Medley Explos\u00e3o - Reggae Funk",
       "url": "https://open.spotify.com/track/73mGrH51bfCXuESnwzOVKH"
+    },
+    {
+      "album": {
+        "name": "Medley Forr\u00f3 com Sentimento (Remastered 2026)",
+        "url": "https://open.spotify.com/album/1LZGnjjtRrexdmGtpRvSJ5"
+      },
+      "artists": [
+        {
+          "name": "Cooking",
+          "url": "https://open.spotify.com/artist/2ML4ZZWGGJNasN8LJkHQZb"
+        },
+        {
+          "name": "Arthur Valgueiro",
+          "url": "https://open.spotify.com/artist/3YAbhtuvVF2R3qXFkplcVq"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        },
+        {
+          "name": "Jotav\u00ea",
+          "url": "https://open.spotify.com/artist/7vuLSxTFztprQ8dW0sX47p"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232175,
+      "name": "Medley Forr\u00f3 com Sentimento - Remastered 2026",
+      "url": "https://open.spotify.com/track/5cLJxg0ouA1rwFNCgaYcqd"
     },
     {
       "album": {
@@ -63620,7 +63672,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 148697,
       "name": "Pera\u00ed",
       "url": "https://open.spotify.com/track/3o5l3fBpyNLn4ow46NToRa"
@@ -71431,6 +71483,24 @@
     },
     {
       "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "album": {
         "name": "YOUNG-LUV.COM",
         "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
       },
@@ -71580,7 +71650,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Sabor Cowboy",
       "url": "https://open.spotify.com/track/1JAVq5ortNzLG11K3VHPxa"
@@ -74570,7 +74640,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 149960,
       "name": "Ser Solteiro \u00e9 Bom",
       "url": "https://open.spotify.com/track/13tfck7tepcBeThdqW71F6"
@@ -76100,7 +76170,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 176920,
       "name": "Sina de Ofelia - Live",
       "url": "https://open.spotify.com/track/4AVoHwHelAhsPPloUValVZ"
@@ -80484,6 +80554,24 @@
       "duration_ms": 251960,
       "name": "Te Adorarei",
       "url": "https://open.spotify.com/track/1E1ysbNytpIUV9UYJVD7yq"
+    },
+    {
+      "album": {
+        "name": "Te Amar \u00c9 Meu Talento (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6WspHQm4g3ZBk44vUr6jDd"
+      },
+      "artists": [
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163207,
+      "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
+      "url": "https://open.spotify.com/track/0Jn2mV8cW1bkTGkyuB26Fs"
     },
     {
       "album": {
@@ -86161,7 +86249,7 @@
     },
     {
       "album": {
-        "name": "Um Novo Dia",
+        "name": "Um Novo Dia (Ao Vivo)",
         "url": "https://open.spotify.com/album/2PgHfrGTk7oyN7XscjbFrE"
       },
       "artists": [
@@ -86184,9 +86272,9 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 360143,
-      "name": "Um Novo Dia",
+      "name": "Um Novo Dia - Ao Vivo",
       "url": "https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ"
     },
     {

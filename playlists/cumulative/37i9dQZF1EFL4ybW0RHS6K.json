@@ -1055,6 +1055,32 @@
     },
     {
       "album": {
+        "name": "Faka",
+        "url": "https://open.spotify.com/album/64ydkS99TJ8y9409oNwnWS"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Faka",
+      "url": "https://open.spotify.com/track/3kTzNmEK4M6tCkA4fubGsB"
+    },
+    {
+      "album": {
         "name": "SDL 1",
         "url": "https://open.spotify.com/album/73xmQcgQYxMRXsL2aLE6I7"
       },
@@ -1613,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Kouwe Kak",
+        "url": "https://open.spotify.com/album/61TWNYthhubPajfdYtspVB"
+      },
+      "artists": [
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123782,
+      "name": "Kouwe Kak",
+      "url": "https://open.spotify.com/track/6br7zmBXTUgQWoqVDQ6qBW"
+    },
+    {
+      "album": {
         "name": "De Ene Hand Wast De Ander",
         "url": "https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX"
       },
@@ -1628,6 +1672,24 @@
       "duration_ms": 201353,
       "name": "Laatste Nacht",
       "url": "https://open.spotify.com/track/6qAkBMS9DtmSujEPQEB6MI"
+    },
+    {
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/2WUeSE3wgkgrBqjhmMzcV0"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109285,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/7qZcrK6ZE9bJAzpbCCThMo"
     },
     {
       "album": {
@@ -2208,6 +2270,24 @@
       "duration_ms": 143986,
       "name": "Regular Girls",
       "url": "https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi"
+    },
+    {
+      "album": {
+        "name": "ROTGANG",
+        "url": "https://open.spotify.com/album/0ZKzFgX27cLb6Z2x1e1zIJ"
+      },
+      "artists": [
+        {
+          "name": "BICKER",
+          "url": "https://open.spotify.com/artist/19raC1VudCZeFylKrnBtr3"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "ROTGANG",
+      "url": "https://open.spotify.com/track/3VkJk9IL0R6lz6XLuFVlkp"
     },
     {
       "album": {

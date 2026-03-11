@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở trên những khúc ca này\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,400 likes - 51 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,414 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 50 | [chẳng phải tình đầu sao đau đến thế](https://open.spotify.com/track/3T7XHOdRcyhKU3QCB6kZG3) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0) | [Dear Min](https://open.spotify.com/album/1ArFYNJ0eKeFWqnvdDivvv) | 4:43 |
 | 51 | [In Love](https://open.spotify.com/track/7uUuftbcr94tzGOCJSM25u) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO) | [L2K](https://open.spotify.com/album/1x5AiQ50WfsWCryL3zvdLx) | 3:20 |
 
-Snapshot ID: `AAAAANMbpUY2ciX8A97btMOKIB6qW9Jm`
+Snapshot ID: `AAAAABuuKIKxyQa/3c+/jDtso6h6CAMT`

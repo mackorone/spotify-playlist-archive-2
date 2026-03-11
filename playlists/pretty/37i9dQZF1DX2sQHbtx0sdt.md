@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,052 likes - 85 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,158 likes - 85 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 7 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
 | 8 | [My Fan](https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [My Fan](https://open.spotify.com/album/2koHYjVXuawGbr10SRozrX) | 2:45 |
 | 9 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
-| 10 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:35 |
+| 10 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:36 |
 | 11 | [TNT \(feat\. Nemzzz\)](https://open.spotify.com/track/5XGMPxrNLiKgd5HRa76HPg) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:36 |
 | 12 | [Next Up \- S6\-E16](https://open.spotify.com/track/4rP0N3zBfgq0luIn7UU9aX) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp) | [Next Up \- S6\-E16](https://open.spotify.com/album/3qmoC36FKqn6kWKKlSRU0U) | 1:54 |
 | 13 | [You've Changed](https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [You've Changed](https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr) | 3:15 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 21 | [SIERRA LEONE](https://open.spotify.com/track/0MsHYntRES1QW1VtuhfdUk) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [REQUIEM](https://open.spotify.com/album/11kuHYchPFBUAsGHDWDbsu) | 2:52 |
 | 22 | [Patek Philippe \(feat\. Lazza\)](https://open.spotify.com/track/6sukW44PrvVzeko9KZlqen) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:36 |
 | 23 | [Blackberry](https://open.spotify.com/track/5fCtbe05A3ql7PUDpbA6KL) | [J4y](https://open.spotify.com/artist/1gX9ZzZnjjI19QrSgW9Xkc) | [PREVIEW](https://open.spotify.com/album/1daqFO6Dj8opUdOpq3DDJC) | 2:09 |
-| 24 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
+| 24 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Alenoise](https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
 | 25 | [Be The Way \(feat\. Bas & The C!rcle\)](https://open.spotify.com/track/6eLHzlXjLnpKumvjIutdIT) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F) | [Be The Way \(feat\. Bas & The C!rcle\)](https://open.spotify.com/album/1qXESwpN0G1gtr1vZfdoWH) | 3:31 |
 | 26 | [Mention Me \- From The Movie "GOAT"](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me \(From The Movie "GOAT"\)](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 |
 | 27 | [Allonsy](https://open.spotify.com/track/134ATgu95x349r7c83DWO5) | [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [Allonsy](https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs) | 2:02 |

@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Gilsons
 
-901 songs - 1 day 21 hr 1 min
+902 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [caminhada](https://open.spotify.com/track/5AZbqiteR8VtDDWi3BkqBk) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [caminhada](https://open.spotify.com/album/6LGr34aE3K72nW4Jm6d9nH) | 2:09 | 2022-06-14 | 2022-11-12 |
 | [Camomila](https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y) | [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS), [SalDoce](https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Camomila](https://open.spotify.com/album/3A1gbycaZAzP4ikPl7EvCL) | 2:18 | 2024-01-26 | 2024-06-01 |
 | [Cangote](https://open.spotify.com/track/3N3ZgAT76DTknEJRkfq1JL) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [Cangote](https://open.spotify.com/album/1Gr55HqSGd3wcdk8q6BnK8) | 2:46 | 2023-06-02 | 2023-06-17 |
-| [Canibal](https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Canibal](https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16) | 2:35 | 2025-12-05 |  |
+| [Canibal](https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Canibal](https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16) | 2:35 | 2025-12-05 | 2026-03-11 |
 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 | 2023-10-13 | 2023-11-11 |
 | [Capa de Revista](https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Capa de Revista](https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5) | 2:54 | 2022-05-13 | 2022-10-15 |
 | [CARAMELO E FLOR DE SAL](https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5) | [Quorum](https://open.spotify.com/artist/5IbIAPtskjoaXAu2PrbngH), [Flav](https://open.spotify.com/artist/6xGwyLGDSwopnsGl5pgODv), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG), [Nobuga](https://open.spotify.com/artist/48jCwYdJZIWe4S9zcgCxpB), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [GALE](https://open.spotify.com/artist/0mjNj79KqkAtsLFWAj2HfB) | [CARAMELO E FLOR DE SAL](https://open.spotify.com/album/7kpBjBmSgDgXHfTETqdGAM) | 3:20 | 2024-08-30 | 2026-01-24 |
@@ -659,6 +659,7 @@
 | [Que Seja de Alegria](https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Que Seja de Alegria](https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma) | 2:54 | 2025-03-14 | 2025-05-02 |
 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 | 2024-08-17 |
 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 | 2024-11-22 | 2024-12-24 |
+| [Quem É Juão](https://open.spotify.com/track/4dDCIWde4PQDAf7TnaoqQP) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Se o Meu Peito Fosse o Mundo](https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO) | 3:31 | 2026-03-10 |  |
 | [Quem É Você?](https://open.spotify.com/track/2j5DvJgs2PuyyLAo8eQmjZ) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Quem É Você?](https://open.spotify.com/album/0fDQY5rOZ0zjR0qw8gv10b) | 3:44 | 2025-04-18 | 2025-05-14 |
 | [Quem É Você?](https://open.spotify.com/track/0fburSFYhNq39QBirzGILU) | [Whindersson Nunes](https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF), [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw) | [Quem É Você?](https://open.spotify.com/album/1uYirHTJk4GYz1QpgDRLtk) | 3:44 | 2025-05-16 | 2025-07-04 |
 | [Quero Acordar Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 | 2025-05-17 |

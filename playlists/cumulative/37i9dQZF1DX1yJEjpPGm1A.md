@@ -4,7 +4,7 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-105 songs - 6 hr 56 min
+108 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Just the way we love](https://open.spotify.com/track/04dATUKqjH6pmWpgZaB2Ec) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Reply 1997 \- Love Story \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/0puPQBUgmK9l1mWQYWKsdz) | 4:18 | 2025-04-22 |  |
 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 | 2024-12-19 |  |
 | [Like A Bird](https://open.spotify.com/track/3CqVJAY7D3jLIILrb6yn9C) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[04\]](https://open.spotify.com/album/6zykT8r65vnyisuLsQCcwm) | 3:40 | 2024-12-19 |  |
+| [Little Love](https://open.spotify.com/track/01MEDNMk2B3CfpQBZXJYXI) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Little Love](https://open.spotify.com/album/4YuAcac5jdFht2ixyEaoUE) | 3:33 | 2026-03-10 |  |
 | [look at me](https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [look at me](https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06) | 4:11 | 2025-07-01 |  |
 | [Love is](https://open.spotify.com/track/2hX6cnuS3YNXt8YbOTAxar) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Cho Youngsoo Remake Project Part.4](https://open.spotify.com/album/385kNRF09SSwaGe4AbA0Cg) | 3:49 | 2025-09-30 |  |
 | [Love Is All](https://open.spotify.com/track/1QoZ5G6pg7pZgEA7uFpgVh) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 2:44 | 2024-12-19 |  |
@@ -71,9 +72,11 @@
 | [of course](https://open.spotify.com/track/1S3Qtj2QGy4KQKbtOZZQ7d) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Voice Of Heaven](https://open.spotify.com/album/0V3PQa5gQpIHRwJEscGwvY) | 3:57 | 2025-09-03 |  |
 | [ONLY](https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 4:00 | 2024-12-19 |  |
 | [Only You](https://open.spotify.com/track/7b4E6eJJwIKHZJvRqSHEXI) | [JSDK](https://open.spotify.com/artist/3eRdM1qORYjqVTJwYieW1j) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 4:52 | 2024-12-19 |  |
+| [Promise You](https://open.spotify.com/track/5nQzf9FRmBrrYmWBNaev0b) | [최성용](https://open.spotify.com/artist/492Q6vvWOLl71ahg8rWm9W) | [Promise You](https://open.spotify.com/album/6a78mSTN8eTY1PYqWsYWk2) | 3:09 | 2026-03-10 |  |
 | [Propose](https://open.spotify.com/track/1ukIcsvbaFhtsKmvJPAyMZ) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Propose](https://open.spotify.com/album/5UdE8Wt0gAZ2KVgF5n0Y6z) | 4:22 | 2025-02-14 |  |
 | [Propose Song](https://open.spotify.com/track/5bgwb5zurggKqjD3T5KUqS) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [The 5th Album Vol.2 \[Thank You\]](https://open.spotify.com/album/6vOCXDs4BlGMsSbbgFEgsI) | 4:11 | 2025-04-22 |  |
-| [Relieved](https://open.spotify.com/track/5u3r3vueI0mUATK5nsaTgw) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Songs Made of Wood](https://open.spotify.com/album/4aKVF4a4wkXMmS3HF4RVMx) | 3:32 | 2024-12-19 |  |
+| [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/track/73whlfYeKmtBeOOuNFLeqT) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Propose Song \(WEBTOON 'Discovery of Love' X LEE RAON\)](https://open.spotify.com/album/2SxtplELKtfdrzQesuUTRR) | 3:37 | 2026-03-10 |  |
+| [Relieved](https://open.spotify.com/track/5u3r3vueI0mUATK5nsaTgw) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Songs Made of Wood](https://open.spotify.com/album/4aKVF4a4wkXMmS3HF4RVMx) | 3:32 | 2024-12-19 | 2026-03-11 |
 | [SoulMate \(feat\. IU\)](https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [SoulMate \(feat\. IU\)](https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo) | 3:39 | 2024-12-19 |  |
 | [Speechless](https://open.spotify.com/track/6dT0ADUaAI6I54ZP1zN60m) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Speechless](https://open.spotify.com/album/4utLnwQ4m8dLvfb72oJ6N8) | 3:27 | 2025-07-08 |  |
 | [Start of Forever](https://open.spotify.com/track/0JdokoPasRqRZFkhOIKkQb) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Start Of Forever](https://open.spotify.com/album/37EYZ2BkOugsdBBSPIcfbN) | 2:49 | 2025-05-20 |  |

@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello
 
-1,100 songs - 2 day 6 hr 32 min
+1,101 songs - 2 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,7 @@
 | [Não Me Sinto Mal Mais](https://open.spotify.com/track/563yuGweEqRVQtjfsDVRyK) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Não Me Sinto Mal Mais](https://open.spotify.com/album/3GkFmC2guCvyAkcaS95nhc) | 4:25 | 2020-10-20 | 2022-08-27 |
 | [Não Mudaria Nada](https://open.spotify.com/track/1ZgE91MtG1EhzGd8EbD82N) | [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Não Mudaria Nada](https://open.spotify.com/album/0VMkYlHtTZLPCKnadn5fbN) | 2:20 | 2023-07-07 | 2023-08-25 |
 | [não mudo por ninguém](https://open.spotify.com/track/1fXTWjQEdNx0z8Yx383fDw) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [fantasia de um amor perfeito](https://open.spotify.com/album/2szRuIFgI3PccmXm2jmDCt) | 2:50 | 2023-05-12 | 2023-06-17 |
-| [Não pense](https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não pense](https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug) | 2:55 | 2025-07-25 |  |
+| [Não pense](https://open.spotify.com/track/0NjqpVIPCSNvzobWScfi8r) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Não pense](https://open.spotify.com/album/5fS3KNM1kDF5j1QU3uh4ug) | 2:55 | 2025-07-25 | 2026-03-11 |
 | [Não Posso](https://open.spotify.com/track/4csVDKebs4B1qjjQt2AoGV) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Não Posso](https://open.spotify.com/album/36h6bFDEj4yMrdbBTkaXIP) | 2:27 | 2024-12-06 | 2025-12-05 |
 | [Não Posta](https://open.spotify.com/track/58571DKOdX2Zp2NOe6R90m) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Não Posta](https://open.spotify.com/album/0V6jEkF2X1yk0gwRYLr4ha) | 3:25 | 2024-05-03 | 2024-07-12 |
 | [Não Sou De Me Entregar](https://open.spotify.com/track/0tCFKbw0cXe0TIa8PzQgc0) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Não Sou De Me Entregar](https://open.spotify.com/album/7nR8G0opjRd3AAtzkv3qbr) | 4:02 | 2023-07-14 | 2023-08-26 |
@@ -828,6 +828,7 @@
 | [Que Tal](https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:10 | 2023-08-16 | 2025-05-03 |
 | [Queda Livre](https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14) | [NATI OFICIAL](https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4) | [Queda Livre](https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj) | 1:41 | 2025-11-28 |  |
 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-07-12 | 2024-10-12 |
+| [Quem É Juão](https://open.spotify.com/track/4dDCIWde4PQDAf7TnaoqQP) | [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Se o Meu Peito Fosse o Mundo](https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO) | 3:31 | 2026-03-10 |  |
 | [QUER DANÇAR](https://open.spotify.com/track/1g1elRYAuQ7BHMpeejvvKH) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa), [Bonde do Tigrão](https://open.spotify.com/artist/1VQMltQ5m8iFvRCpW2n5HR) | [QUER DANÇAR](https://open.spotify.com/album/0dcppOWM61TlHS4cfaE451) | 2:10 | 2023-11-10 | 2024-03-23 |
 | [Quer Dançar Comigo?](https://open.spotify.com/track/6t5Su8EZf1C0HNSD7asjKp) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Quer Dançar Comigo?](https://open.spotify.com/album/6I8WAPnDvwJg52va0zILXE) | 2:43 | 2023-04-14 | 2023-05-06 |
 | [Quero te ver gozar](https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW) | [Jaloo](https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93) | [Quero te ver gozar](https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog) | 3:01 | 2023-09-29 | 2023-10-21 |

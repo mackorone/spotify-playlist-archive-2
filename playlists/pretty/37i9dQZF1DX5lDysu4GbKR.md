@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,222 likes - 161 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,245 likes - 161 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

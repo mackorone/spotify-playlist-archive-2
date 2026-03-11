@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-7,201 songs - 16 day 14 hr 50 min
+7,202 songs - 16 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2963,6 +2963,7 @@
 | [I Never Dream About Trains](https://open.spotify.com/track/4u8JZMG1h659W4DIFz9PQB) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [I Never Dream About Trains](https://open.spotify.com/album/0S0QvMi2Kiu33RfIayLnsW) | 5:31 | 2025-08-07 | 2025-08-16 |
 | [I Never Knew You Well](https://open.spotify.com/track/4pU9XfXGm1773grbmqu4gh) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [CALL ME TWICE PT\. 1](https://open.spotify.com/album/433SKA9JbP0aeE103H6mmA) | 4:29 | 2024-07-19 | 2024-07-27 |
 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 | 2024-10-11 | 2024-10-19 |
+| [I Played the Fool \(Main Title Theme from "Rooster"\)](https://open.spotify.com/track/6nXRUBgCVxdr2gnx35msSG) | [Michael Stipe](https://open.spotify.com/artist/2G1Lyk7bWbBBrtwyl3obNB), [Andrew Watt](https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI) | [I Played the Fool \(Main Title Theme from "Rooster"\)](https://open.spotify.com/album/43vmrTWmXtYPRcLdLjHzZB) | 3:01 | 2026-03-10 |  |
 | [I Pray](https://open.spotify.com/track/52o21vlpbMhNEGfH8pZFL5) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [I Pray](https://open.spotify.com/album/0sEHxMrtx2R2fPXvUTrQcD) | 3:37 | 2025-09-02 | 2025-09-12 |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-11-01 | 2024-11-09 |
 | [I Said What I Said](https://open.spotify.com/track/3b4imlC1vc2v90NnpH2JsF) | [The Softies](https://open.spotify.com/artist/0Ve1sk7tcGsb7ZVsp4o8GG) | [I Said What I Said](https://open.spotify.com/album/10sMK7y2QZiUr2MYKCOnUn) | 2:23 | 2024-06-19 | 2024-06-29 |

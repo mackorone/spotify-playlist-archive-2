@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,216 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,227 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 2 | [Yaşıyoken Anla](https://open.spotify.com/track/0e86zY8kamEt5Jz5pAWpc9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Yaşıyoken Anla](https://open.spotify.com/album/5mWXaZ7MlKvbdnLPZ1UlOs) | 3:17 |
 | 3 | [Hermès 2.0](https://open.spotify.com/track/1ONwgLvPUbapdtMsMxpxx9) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Hermès 2.0](https://open.spotify.com/album/26LqIfnZFtbLTKq0aYzwb5) | 1:21 |
 | 4 | [Halef Selef](https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 1:56 |
-| 5 | [9\. SENFONİ](https://open.spotify.com/track/5HjteTM5JZ7fZSm6dupnm9) | [Orchi](https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve), [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [9\. SENFONİ](https://open.spotify.com/album/1qPnG5zWDyDdSXuvrfY4li) | 2:49 |
+| 5 | [9\. SENFONİ](https://open.spotify.com/track/5HjteTM5JZ7fZSm6dupnm9) | [Orchi](https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve), [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [dj.young.mes](https://open.spotify.com/artist/1qpk2zMYWrRoELQMaPZz72) | [9\. SENFONİ](https://open.spotify.com/album/1qPnG5zWDyDdSXuvrfY4li) | 2:49 |
 | 6 | [bu gece misafirinim](https://open.spotify.com/track/5g9FoTmNCpdXOM82o4T90h) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [bu gece misafirinim](https://open.spotify.com/album/5BECP4vLdzDAj6r7rjoPuX) | 2:24 |
 | 7 | [herhalde](https://open.spotify.com/track/2vi7n71iNVeKG8LDKfdLFE) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [herhalde](https://open.spotify.com/album/7GHQEKo01Yf6GW2cGJsu7C) | 2:39 |
 | 8 | [7/20](https://open.spotify.com/track/2Edd7cNSZsana1VQzMgjS0) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA) | [7/20](https://open.spotify.com/album/3u4Z2BFup9CV1OPeWbJyJh) | 1:19 |

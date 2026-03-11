@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 155912,
       "name": "Canibal",
       "url": "https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ"
@@ -12988,6 +12988,24 @@
       "duration_ms": 157918,
       "name": "Quem Vai Ser?",
       "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
+    },
+    {
+      "album": {
+        "name": "Se o Meu Peito Fosse o Mundo",
+        "url": "https://open.spotify.com/album/5fxJ6R9Amz69Jl5B3JkMIO"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211658,
+      "name": "Quem \u00c9 Ju\u00e3o",
+      "url": "https://open.spotify.com/track/4dDCIWde4PQDAf7TnaoqQP"
     },
     {
       "album": {

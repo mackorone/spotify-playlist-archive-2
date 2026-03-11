@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sarah Black
 
-735 songs - 1 day 17 hr 46 min
+736 songs - 1 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [Neram Mayangavillai](https://open.spotify.com/track/64YUic5Fh4jjQonuCVlqNT) | [Vishnu Sunil](https://open.spotify.com/artist/7mleenu1O4TItvEJ1pnze6) | [Neram Mayangavillai](https://open.spotify.com/album/47OTiEDWNBSCxKYX9B4hXh) | 2:58 | 2025-09-08 | 2026-01-28 |
 | [Neruppu Nadai](https://open.spotify.com/track/67vh1P1sZ1Rr0vwk8j5vHs) | [B&K Vibrant Vibes](https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR) | [Roar of the Veeran: The Tiger Chronicles](https://open.spotify.com/album/2aJK22DHqp7xtPIxioPZV2) | 2:53 | 2025-05-30 | 2025-09-05 |
 | [Nettotto](https://open.spotify.com/track/4gyJNevPPkX5ZHYyVLm9LV) | [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN), [Vishnu Das](https://open.spotify.com/artist/4VGE3ZXetNWbFoE59hVRrF), [Rehna Shaz](https://open.spotify.com/artist/0sqtUy5FyYwyRptp7SOx44), [Shafi Ali](https://open.spotify.com/artist/6U09TVU3LUO6LZzwcgh6FG) | [Nettotto](https://open.spotify.com/album/3DP8uyWEk9WxxEG1yRg6p4) | 3:35 | 2025-08-18 | 2026-01-17 |
+| [Nikkathé](https://open.spotify.com/track/4TLjttDPZsTzPe2KLtngtl) | [PAX DHARMA](https://open.spotify.com/artist/62QHD5zKMKEPataClvGpeJ) | [Nikkathé](https://open.spotify.com/album/7r3tzdTW2Bc5ZHAdDyCX1C) | 2:49 | 2026-03-10 |  |
 | [Nila](https://open.spotify.com/track/5R3eAT29cE067HIzlfdOeG) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nila](https://open.spotify.com/album/3uQQfEQdXlqzB8NwLeOuf3) | 2:43 | 2023-06-20 | 2024-01-06 |
 | [Nila](https://open.spotify.com/track/5quiW0k6Kski7DakIrVZed) | [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g), [Tushar Budhwani](https://open.spotify.com/artist/1GvvykZX16pGkIZTomxkgq) | [Nila](https://open.spotify.com/album/2QIQo3HAoODX6pU0nWh935) | 3:27 | 2024-06-28 | 2024-08-31 |
 | [Nilavai Paarthu](https://open.spotify.com/track/0hV99CLB1byU2Azwnor1WZ) | [Deepthi Balasubramanian](https://open.spotify.com/artist/5qi29X3pd2Fo6jRUdTLbrW), [Aakash Srinivasan](https://open.spotify.com/artist/28egnlexkYVyGAoJuazdoP) | [Nilavai Paarthu](https://open.spotify.com/album/5pQ50OxLIslQyo28IBVszh) | 2:09 | 2025-04-25 | 2025-07-04 |

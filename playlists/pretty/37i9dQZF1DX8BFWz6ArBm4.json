@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Mazonakis",
-  "num_followers": 37785,
+  "num_followers": 37787,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Leei Leei Leei",
-        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Leei Leei Leei",
-      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
-    },
-    {
-      "added_at": "2026-03-05 22:00:15",
-      "album": {
         "name": "Nero (Live Edition)",
         "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 198444,
       "name": "Nero - Live Edition",
       "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Leei Leei Leei",
+        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Leei Leei Leei",
+      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
     },
     {
       "added_at": "2026-03-05 22:00:15",
@@ -583,42 +583,6 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Kapnogona",
-        "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 184661,
-      "name": "Kapnogona",
-      "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
-    },
-    {
-      "added_at": "2026-03-05 22:00:15",
-      "album": {
-        "name": "San To Louloudi",
-        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        },
-        {
-          "name": "Stavento",
-          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
-        }
-      ],
-      "duration_ms": 193274,
-      "name": "San To Louloudi",
-      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
-    },
-    {
-      "added_at": "2026-03-05 22:00:15",
-      "album": {
         "name": "Unplugged 2025",
         "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
       },
@@ -655,6 +619,42 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
+        "name": "San To Louloudi",
+        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        },
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+        }
+      ],
+      "duration_ms": 193274,
+      "name": "San To Louloudi",
+      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Kapnogona",
+        "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 184661,
+      "name": "Kapnogona",
+      "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
         "name": "Leei",
         "url": "https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y"
       },
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-03-05 22:00:15",
       "album": {
+        "name": "Perifanos Aetos",
+        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "duration_ms": 228835,
+      "name": "Perifanos Aetos",
+      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
         "name": "Pou Ti Vrike?",
         "url": "https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 188470,
       "name": "Pou Ti Vrike?",
       "url": "https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c"
-    },
-    {
-      "added_at": "2026-03-05 22:00:15",
-      "album": {
-        "name": "Perifanos Aetos",
-        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        }
-      ],
-      "duration_ms": 228835,
-      "name": "Perifanos Aetos",
-      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
     },
     {
       "added_at": "2026-03-05 22:00:15",

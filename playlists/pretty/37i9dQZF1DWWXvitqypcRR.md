@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,432 likes - 47 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,447 likes - 47 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 46 | [The Church](https://open.spotify.com/track/6qtYg4sxsAXV4qcET5udIS) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [The Church](https://open.spotify.com/album/2dIlOfhnuybkHNkMvhiW4H) | 7:20 |
 | 47 | [Pest Control](https://open.spotify.com/track/1dgL9HEJqtdEPkn1fUTE2v) | [Adam Pits](https://open.spotify.com/artist/0vrrcYDODaghHDyxGZCIis) | [Stagga](https://open.spotify.com/album/5GrCu0oCMn2DtQALRBqsRU) | 5:53 |
 
-Snapshot ID: `AAAAAARvLDYnbvPU2m/s6zKqa3YutaBo`
+Snapshot ID: `AAAAAFPDx43iiDKsCKXyzmNZEZ0YYO08`

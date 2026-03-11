@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 231160,
       "name": "Cantiones sacrae II: Miserere mei",
       "url": "https://open.spotify.com/track/12Sd37QDsmHzFjXJnuKEbr"
@@ -1746,6 +1746,32 @@
       "duration_ms": 240520,
       "name": "Vesperae solennes de confessore, K. 339: V. Laudate Dominum",
       "url": "https://open.spotify.com/track/6XFB7oszmA520bt8D8cHXD"
+    },
+    {
+      "album": {
+        "name": "Classical Tranquillity",
+        "url": "https://open.spotify.com/album/3sAUybSBp9LpmYL05RN5Vo"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302720,
+      "name": "Was mir behagt, ist nur die muntre Jagd, BWV 208 \"Hunting Cantata\": No. 9, Sheep May Safely Graze (Arr. for Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/5BCcRqK0OMEWYKgI55Yi6r"
     },
     {
       "album": {

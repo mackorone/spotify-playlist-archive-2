@@ -56831,6 +56831,28 @@
     },
     {
       "album": {
+        "name": "I Played the Fool (Main Title Theme from \"Rooster\")",
+        "url": "https://open.spotify.com/album/43vmrTWmXtYPRcLdLjHzZB"
+      },
+      "artists": [
+        {
+          "name": "Michael Stipe",
+          "url": "https://open.spotify.com/artist/2G1Lyk7bWbBBrtwyl3obNB"
+        },
+        {
+          "name": "Andrew Watt",
+          "url": "https://open.spotify.com/artist/2CM9fci10ya5tJdRFaXPYI"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181883,
+      "name": "I Played the Fool (Main Title Theme from \"Rooster\")",
+      "url": "https://open.spotify.com/track/6nXRUBgCVxdr2gnx35msSG"
+    },
+    {
+      "album": {
         "name": "I Pray",
         "url": "https://open.spotify.com/album/0sEHxMrtx2R2fPXvUTrQcD"
       },

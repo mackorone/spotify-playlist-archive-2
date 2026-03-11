@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Madhubanti Bagchi
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,649 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,797 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 5 | [AANKH](https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [AANKH](https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE) | 3:08 |
 | 6 | [Haan Ke Haan](https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Maharaj](https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6) | 3:24 |
 | 7 | [Behtar](https://open.spotify.com/track/5dibYPxeDw00ClnPUpmlVS) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Behtar](https://open.spotify.com/album/2pK7DPxzdkF0LMpVpiYxTm) | 2:52 |
-| 8 | [O Maayi Ri \(From "The Kerala Story 2 Goes Beyond"\)](https://open.spotify.com/track/5PirzDD3bwx7dFD64eg53n) | [Mannan Shaah](https://open.spotify.com/artist/7N2dclX5B3iviso9v9TlUT), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [O Maayi Ri \(From "The Kerala Story 2 Goes Beyond"\) \- Single](https://open.spotify.com/album/6ny587paqj2pFADfDpA7hp) | 4:35 |
-| 9 | [Vaada Hai](https://open.spotify.com/track/5NTdWOWF2UVxOYVoj1KAga) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Ananya Wadkar](https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [O' Romeo](https://open.spotify.com/album/5VZxcrOq8sNpqFufVF0TiU) | 5:01 |
-| 10 | [Barf](https://open.spotify.com/track/2sJl8wjjlM7aNyaJNdUAwJ) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Barf](https://open.spotify.com/album/4zMKl5LLjrNQH7eyM7PJcf) | 6:10 |
-| 11 | [Yuhi](https://open.spotify.com/track/7d7nyCL7zaC6l4U6W9r5Xu) | [Niki Choudhury](https://open.spotify.com/artist/4bVaSxwel0yCQqkp459xqS) | [Yuhi](https://open.spotify.com/album/29xlpmG1xgTl2kvJwapdTK) | 2:40 |
+| 8 | [Vaada Hai](https://open.spotify.com/track/5NTdWOWF2UVxOYVoj1KAga) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Ananya Wadkar](https://open.spotify.com/artist/1GZvqaIir4444RvrFLXUQI), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [O' Romeo](https://open.spotify.com/album/5VZxcrOq8sNpqFufVF0TiU) | 5:01 |
+| 9 | [Yuhi](https://open.spotify.com/track/7d7nyCL7zaC6l4U6W9r5Xu) | [Niki Choudhury](https://open.spotify.com/artist/4bVaSxwel0yCQqkp459xqS) | [Yuhi](https://open.spotify.com/album/29xlpmG1xgTl2kvJwapdTK) | 2:40 |
+| 10 | [Balma](https://open.spotify.com/track/2Ao7j1XOc6CdC1Nehjatzo) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [RK](https://open.spotify.com/artist/67SWJbjPx8M3562Ewl4Ygx), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Balma](https://open.spotify.com/album/0cIUcddrziyaJ8I8WIqLjT) | 3:00 |
+| 11 | [Barf](https://open.spotify.com/track/2sJl8wjjlM7aNyaJNdUAwJ) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Barf](https://open.spotify.com/album/4zMKl5LLjrNQH7eyM7PJcf) | 6:10 |
 | 12 | [Darwaze](https://open.spotify.com/track/5ZyCERvkj7TFVB2OBmuv7Y) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Darwaze](https://open.spotify.com/album/3I4uhD2dMQFXCr37zWZZb0) | 2:46 |
 | 13 | [umraan](https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [umraan](https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7) | 2:31 |
 | 14 | [Impression](https://open.spotify.com/track/62qTL9muHhMFfKxKHEW0Xw) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Impression](https://open.spotify.com/album/2jZQt2LalNKkcI7r8G4eI5) | 2:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Bairagi](https://open.spotify.com/track/0V5oH9auubxDafdSA4zRXd) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Bairagi](https://open.spotify.com/album/2xUM0INHSuQ4fYasXzZGle) | 2:30 |
 | 50 | [Sajnaa](https://open.spotify.com/track/4aRzjWbBsjLkAezPWqvRSu) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F), [Pranshu Jha](https://open.spotify.com/artist/5JW6fUObHNgkNCnYBs3BQp) | [Sajnaa](https://open.spotify.com/album/7lpUjVHZ4huiSc2mjY47k6) | 3:21 |
 
-Snapshot ID: `AAAAAFIAsBWBSsMU92tht9ZpLC3mLOEF`
+Snapshot ID: `AAAAAFEuh4x0adYg788Y6zp8g59aVZUZ`

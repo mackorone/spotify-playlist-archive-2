@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Periferia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,735 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,748 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 68 | [Un beso y una flor](https://open.spotify.com/track/5W31WXmdZiFUzKcBmspJdG) | [Niños Bravos](https://open.spotify.com/artist/5yJc14614Bzi1g5WLSNO3U) | [Un beso y una flor](https://open.spotify.com/album/4Qu1tWIqp9wzL18E5xfiRx) | 2:50 |
 | 69 | [No queda tiempo](https://open.spotify.com/track/3dK7sZ7cWQujrWAMcLGi45) | [Drugos](https://open.spotify.com/artist/2UTXFJroj5cYXX4Wo8HSIJ) | [No queda tiempo](https://open.spotify.com/album/0XnmnlB1rBatQKkaMMdQPP) | 4:03 |
 | 70 | [Me Acostumbré](https://open.spotify.com/track/16rKe7kcB103azq4tuvPjF) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Me Acostumbré](https://open.spotify.com/album/5lt8llvT3c5gBSC3Qn2WxP) | 4:08 |
-| 71 | [Bukele o bukkake](https://open.spotify.com/track/6p7Kjsa8Tw8fgpR8OsIUHH) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [DJ Pollo](https://open.spotify.com/artist/0O7NbXmjtpCooRUH5u9U7M) | [Bukele o bukkake](https://open.spotify.com/album/3m12AqazIF7BLDQVVvAHN6) | 3:50 |
+| 71 | [Bukele o bukkake](https://open.spotify.com/track/6p7Kjsa8Tw8fgpR8OsIUHH) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [Enrique Borrajeros](https://open.spotify.com/artist/1drYlk71onjrbBFw9BvYoq) | [Bukele o bukkake](https://open.spotify.com/album/3m12AqazIF7BLDQVVvAHN6) | 3:50 |
 | 72 | [LOS DE CLASE](https://open.spotify.com/track/0iiKkM4gPoV0gDPIbRB1EP) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [LOS DE CLASE](https://open.spotify.com/album/6KgXxhdEw7XQXRkT3043N7) | 3:26 |
 | 73 | [Skol](https://open.spotify.com/track/3AIxhYnWjxQZmcFeDx667S) | [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP), [Los Chivatos](https://open.spotify.com/artist/1FrY0lSuDVQMmUFE3grB85) | [Skol](https://open.spotify.com/album/73fzO2bTDPFJZ8RbClCm9G) | 2:48 |
 | 74 | [No es nuestro momento](https://open.spotify.com/track/38fegshSXjJkOUUVTczvuk) | [Filtro](https://open.spotify.com/artist/7ciFx1MOd6KSEErGqzkgwV), [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst) | [No es nuestro momento](https://open.spotify.com/album/4GETD7KLayIIyJTR6CEcPT) | 3:41 |

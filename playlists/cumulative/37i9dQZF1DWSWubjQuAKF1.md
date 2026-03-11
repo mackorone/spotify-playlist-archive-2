@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Leon Krześniak
 
-758 songs - 1 day 13 hr 2 min
+759 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Clean girl era](https://open.spotify.com/track/2IXBRcjntKv4h9TNYwun2B) | [Klaudia](https://open.spotify.com/artist/3dWkm8gaXw4aS2fKk36z2o) | [Clean girl era](https://open.spotify.com/album/1Yn1UeZ9gBYllO6S1mzfdE) | 2:37 | 2024-07-18 | 2024-10-19 |
 | [Co by było gdyby](https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ) | [Renata Ślesicka](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae) | [16m2](https://open.spotify.com/album/3nPcKLFpyqh1y8sssJUJlz) | 3:25 | 2026-02-27 |  |
 | [co to? Miłość](https://open.spotify.com/track/6ujrbBFwVsI8op1IncntBV) | [Amelia And](https://open.spotify.com/artist/58wKaNZ5iuXaeelRtHzEsk) | [polecie](https://open.spotify.com/album/7b7qFH044TgbZhOhpcQc8f) | 2:49 | 2025-10-07 | 2025-11-21 |
+| [CO TOBIE ZROBIĘ](https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [CO TOBIE ZROBIĘ](https://open.spotify.com/album/691JRSOnZn4nCan44uaNEL) | 3:40 | 2026-03-05 |  |
 | [co ty na to?](https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A) | [wiśniosz](https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu), [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [co ty na to?](https://open.spotify.com/album/646vsWAg8YLIZXHZJOZgvC) | 2:31 | 2025-05-01 | 2025-08-27 |
 | [Co za stan](https://open.spotify.com/track/4Rw7LmqHPFjqTpWe0tYcbC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [Co za stan](https://open.spotify.com/album/3ayFRKD6twKbbap9qUmGkm) | 2:39 | 2025-07-31 | 2025-09-24 |
 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 | 2025-03-20 | 2025-06-06 |
@@ -177,7 +178,7 @@
 | [Dotknij](https://open.spotify.com/track/5a9izOBVjC242rMhmUxrsx) | [Daria Marx](https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u) | [Dotknij](https://open.spotify.com/album/5zqGQnNNJiDGcxCQIE3Kmh) | 2:34 | 2026-02-27 |  |
 | [Dotknięta przez słońce](https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639) | [Kachus](https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Dotknięta przez słońce](https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE) | 4:41 | 2025-08-26 | 2026-02-20 |
 | [dotknąć chcę twego serca](https://open.spotify.com/track/5OASk17FMgi4vwemS7okKO) | [.Bonaventura](https://open.spotify.com/artist/35Q5TQSaULwtlTkw44cokW) | [dotknąć chcę twego serca](https://open.spotify.com/album/4giN6tLosIqLENroXTuNT3) | 2:33 | 2025-07-03 | 2025-07-11 |
-| [Dotyk](https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [Dotyk](https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua) | 2:15 | 2026-01-30 |  |
+| [Dotyk](https://open.spotify.com/track/0boHEoQuU24eU7n0nGLf88) | [NEL](https://open.spotify.com/artist/3gC2pjwYVTQdMuHUucgODF), [Hania](https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa) | [Dotyk](https://open.spotify.com/album/2CatqcH2Ypdow0EmCue0Ua) | 2:15 | 2026-01-30 | 2026-03-11 |
 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 | 2024-08-30 | 2024-09-20 |
 | [Duch](https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Pomiędzy](https://open.spotify.com/album/6CXy0mzT8UGklAJXykNtHY) | 3:00 | 2025-04-03 | 2025-07-13 |
 | [Duma](https://open.spotify.com/track/7x9Y4840DOkLn8vqQBA6DC) | [Kachus](https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ) | [My Name Is Poznań 4.0](https://open.spotify.com/album/40qT9MT0EfkLT7k6Na1Ev3) | 3:00 | 2025-12-11 | 2025-12-28 |

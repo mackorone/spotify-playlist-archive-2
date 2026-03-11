@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Back For You",
+        "url": "https://open.spotify.com/album/6BegE1id4r7qCygofzNGTb"
+      },
+      "artists": [
+        {
+          "name": "Finding Aurora",
+          "url": "https://open.spotify.com/artist/5cg6ycryqQJewFOqeffsC0"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246349,
+      "name": "Back For You",
+      "url": "https://open.spotify.com/track/24vB9KU0Js72mkIUehOLLy"
+    },
+    {
+      "album": {
         "name": "Back In Early 00's",
         "url": "https://open.spotify.com/album/205K7PtnliKtZ57qtHHRiU"
       },
@@ -5009,6 +5027,24 @@
     },
     {
       "album": {
+        "name": "Ellipsis",
+        "url": "https://open.spotify.com/album/3VEIBSNTPzwrgpgI40N3Nj"
+      },
+      "artists": [
+        {
+          "name": "Stealing Handshakes",
+          "url": "https://open.spotify.com/artist/2HeQNlVfXXKAj3AnSxJPnQ"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211609,
+      "name": "Ellipsis",
+      "url": "https://open.spotify.com/track/5GMZ7ygRbn1lns7kdzEhCN"
+    },
+    {
+      "album": {
         "name": "Colonize Mars",
         "url": "https://open.spotify.com/album/0mGkAzYFpSo0HKxxON0wqS"
       },
@@ -6718,6 +6754,24 @@
       "duration_ms": 234324,
       "name": "Green Dynamite",
       "url": "https://open.spotify.com/track/1ZD6uio5K3zI6K605c0IkW"
+    },
+    {
+      "album": {
+        "name": "Groceries",
+        "url": "https://open.spotify.com/album/0Gy6SeuSqw6J5Zp2AddiJ0"
+      },
+      "artists": [
+        {
+          "name": "Tired Cossack",
+          "url": "https://open.spotify.com/artist/7LZt0YpmFcot7UQ7BqOQtq"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160609,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/3XchDQDHTVYGWEVBKGPe6N"
     },
     {
       "album": {

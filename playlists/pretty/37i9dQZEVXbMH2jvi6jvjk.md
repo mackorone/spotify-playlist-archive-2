@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,911 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,928 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 | 39 | [Lutho \(feat\. De Rose\)](https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp) | [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Smaki 08](https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ), [Wesley Keys](https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL) | [Onkgopotse](https://open.spotify.com/album/1NSZ619pGHYfsgbB2kBfF8) | 6:35 |
 | 40 | [Njengamajuba](https://open.spotify.com/track/6Ygx0qzCOdoD85KqJv5LpE) | [Skweletu](https://open.spotify.com/artist/0uW67UxcYtWZRPZO3Zaobf) | [Imizamo yami](https://open.spotify.com/album/4u9YivGCjPSmkfJRmdKHNY) | 4:43 |
 | 41 | [Ulova](https://open.spotify.com/track/6Fp2Kq1gOFqfQX1DEpHofE) | [Mjabulisi no Mnotho](https://open.spotify.com/artist/0zGc2BHElHRQMgE5HapAJQ) | [Ulova](https://open.spotify.com/album/0hROwMapzW3xVyDCjZlKTE) | 3:37 |
-| 42 | [Lengoma](https://open.spotify.com/track/5vtDq3riIXKcLPuRAqlZTf) | [LKG](https://open.spotify.com/artist/6jYx8mMQ9LIUPDB7jEDY3N), [MSA](https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI), [Sami'Kay](https://open.spotify.com/artist/7zlPsI1JA3iBmLOZIlLRQ7), [Misokuhle](https://open.spotify.com/artist/7ch05S0MB1zfGB50F7PRCL) | [Lengoma](https://open.spotify.com/album/0iDAHh4qIw4wyoLKN0XoEO) | 5:11 |
+| 42 | [Lengoma \(feat\. Sami'Kay & Misokuhle\)](https://open.spotify.com/track/3HCZlM8G03ely2mj6nHiJV) | [MSA](https://open.spotify.com/artist/4BH1zvz8ZEu7RqwaY5ygkI), [Sami'Kay](https://open.spotify.com/artist/7zlPsI1JA3iBmLOZIlLRQ7), [Misokuhle](https://open.spotify.com/artist/7ch05S0MB1zfGB50F7PRCL) | [Lengoma \(feat\. Sami'Kay & Misokuhle\)](https://open.spotify.com/album/6OeV6ker5BBE47Hhmt3cE4) | 5:11 |
 | 43 | [Thandolwethu](https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Zamambo Mkhize](https://open.spotify.com/artist/4uU1zWazhI0nkPCl4B0CkZ), [Umfana weKhansela](https://open.spotify.com/artist/61xku7ieEjLJZY2o3IUXac) | [Ng'funa intozami](https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6) | 5:46 |
 | 44 | [Amaphutha](https://open.spotify.com/track/6WAgkWtdNWXoZf8ZFkH5j1) | [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [Acquiesce](https://open.spotify.com/album/1YGjJwAanA1N66ctu89siu) | 5:33 |
 | 45 | [Iphupho \(feat\. Thatohatsi\)](https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Bab'Motha](https://open.spotify.com/album/5hdEZLjn0k8hM6KztDzIs1) | 6:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 | 49 | [Phesheya](https://open.spotify.com/track/47wmNGuyHyGo8Qefh4aTKS) | [JayJayy](https://open.spotify.com/artist/0Tp9c5DcGoHSU4V8bt4Q1U), [Mordecai](https://open.spotify.com/artist/15Nx2Vsu6WjYBUPcBptftM) | [Detour](https://open.spotify.com/album/0PdDJXOjA8IhzVJYoHTNdU) | 5:50 |
 | 50 | [Amalanga](https://open.spotify.com/track/1HrNfmHud8ymX3iDl92WN4) | [Piano City](https://open.spotify.com/artist/2i8xdaZHfJpzLWJB0f7g28), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tracy](https://open.spotify.com/artist/4YOZVLM9eFGOM88mtTLfze), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP) | [Amalanga](https://open.spotify.com/album/68i7f9nXniENX9Svk5bxZb) | 5:08 |
 
-Snapshot ID: `MUIuQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`

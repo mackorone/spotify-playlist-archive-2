@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,771 likes - 200 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,833 likes - 200 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 20 | [Deeper Love](https://open.spotify.com/track/1Q9ozUhiBdpxDznK0azJqZ) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [ALEXA PERL](https://open.spotify.com/artist/58apxCYrLU2Tv3M6Sr9WTd), [NAMBI](https://open.spotify.com/artist/7qHaQqFCSv6rGASeriMQdc) | [Deeper Love](https://open.spotify.com/album/7MNcUP9avAafj49pqPrg23) | 3:35 |
 | 21 | [Ride](https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ride](https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3) | 4:39 |
 | 22 | [Powder Hour](https://open.spotify.com/track/5XW6pzlCr6RJ6YZdMjLauL) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Powder Hour](https://open.spotify.com/album/6AfsLqVMVP8xhSgwiziCza) | 2:33 |
-| 23 | [Every Night](https://open.spotify.com/track/2bCLM3X7oblgqvZcCTnlve) | [Andreíos](https://open.spotify.com/artist/2bmJLhuJ6JUxswuOsVMJg7), [Pasadena Dream](https://open.spotify.com/artist/061W1Ytkhi6OWDy7ywsusz) | [DISCO & HOUSE](https://open.spotify.com/album/5JHaffaiwOTBwvDcnSQR0M) | 4:08 |
-| 24 | [CHARDONNAY \(Night & Day\)](https://open.spotify.com/track/5L2PC0h8oi4H6BlldbhOQn) | [Romeo Louisa](https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [CHARDONNAY \(Night & Day\)](https://open.spotify.com/album/6Fs7oJ8f9cNPBuRv2a5pnK) | 3:10 |
+| 23 | [CHARDONNAY \(Night & Day\)](https://open.spotify.com/track/5L2PC0h8oi4H6BlldbhOQn) | [Romeo Louisa](https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg), [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw) | [CHARDONNAY \(Night & Day\)](https://open.spotify.com/album/6Fs7oJ8f9cNPBuRv2a5pnK) | 3:10 |
+| 24 | [No Party, No Disco](https://open.spotify.com/track/55tixy0Q1say3uhJALA72d) | [potem](https://open.spotify.com/artist/5kPRFNDG89rv2g3VohEtI5) | [No Party, No Disco](https://open.spotify.com/album/2F5hGiUldlgsuZPqJH0bkV) | 3:08 |
 | 25 | [I WANT YOU](https://open.spotify.com/track/3Dd1dRzU137EOi0jxvaWCw) | [Close Counters](https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY) | [I WANT YOU](https://open.spotify.com/album/69t9cbydMUueDewAi2em9C) | 3:37 |
 | 26 | [Out Of My Mind](https://open.spotify.com/track/1UY1BveykAXFHiokxrCMkg) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Out Of My Mind](https://open.spotify.com/album/5AOOdE61qcqBULKF1EiVLb) | 2:17 |
 | 27 | [Use It](https://open.spotify.com/track/0gHbqx8UnqwUlMKqzuELu3) | [J Paul Getto](https://open.spotify.com/artist/2qplg23iVeAdhFhv7KPcj2) | [Use It](https://open.spotify.com/album/32t0rpEG3S0BGmrBfH14x2) | 3:28 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 199 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 |
 | 200 | [I Take What's Mine](https://open.spotify.com/track/5m7frLaca4N7yAJ1VZ8Wnz) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [I Take What's Mine](https://open.spotify.com/album/2uMmLp3ifgs0nJslnPecdU) | 3:31 |
 
-Snapshot ID: `AAAAANCzlNncKeGDjyCHeFU+eZJ6s9wu`
+Snapshot ID: `AAAAAOosSn5xUdxwKTrjB22Ni0nBAXDy`

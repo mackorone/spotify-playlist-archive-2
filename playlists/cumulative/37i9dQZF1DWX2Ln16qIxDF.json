@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Canciones que ten\u00e9s que escuchar, edici\u00f3n verano  \ud83d\udcf8  Kapo & Ryan Castro",
-  "name": "Top Verano 2026",
+  "description": "Canciones que ten\u00e9s que escuchar  \ud83d\udcf8  Kapo & Ryan Castro",
+  "name": "El Top 2026",
   "tracks": [
     {
       "album": {
@@ -8163,6 +8163,24 @@
     },
     {
       "album": {
+        "name": "FEMME FATALE (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258967,
+      "name": "Femme Fatale - Spotify Sessions",
+      "url": "https://open.spotify.com/track/5T9WsAmro0KoNqdGE8a19f"
+    },
+    {
+      "album": {
         "name": "FICHAJE DEL A\u00d1O",
         "url": "https://open.spotify.com/album/3ti3UTU7nuhuAZfO27lz2q"
       },
@@ -9141,7 +9159,7 @@
     },
     {
       "album": {
-        "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+        "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
         "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
       },
       "artists": [
@@ -9158,7 +9176,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195008,
-      "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+      "name": "Hasta Jes\u00fas Tuvo un Mal D\u00eda",
       "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
     },
     {
@@ -19722,7 +19740,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 175574,
       "name": "Sirenita",
       "url": "https://open.spotify.com/track/5Z8CxEV1quRGISkjscOODC"

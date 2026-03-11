@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,145 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,173 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 55 | [Each & Every Day \(Life Goes On\) \[feat\. Akram Sedkaoui\] \- Thakzin Remix](https://open.spotify.com/track/38IskLIwXANWGbJOF33ALh) | [Jerk House Connection](https://open.spotify.com/artist/0FEoVAvN3q5VWY4emxpFNK), [Akram Sedkaoui](https://open.spotify.com/artist/5c6TLBxjtCdRluAm4bAqUr), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Each & Every Day \(Life Goes On\) \[feat\. Akram Sedkaoui\] \[Thakzin Remix\]](https://open.spotify.com/album/1sxdkmDupoCDBKY7GHaTbL) | 7:32 |
 | 56 | [Mi Alma](https://open.spotify.com/track/6EjoH5rmbTr2jNm1S0IW4k) | [Teison](https://open.spotify.com/artist/7fd9Cb5382mcEQwTvXzdor) | [Mi Alma](https://open.spotify.com/album/75WDaLy5oIqM3l8AipjHQ2) | 4:01 |
 | 57 | [Astral Waves](https://open.spotify.com/track/2KTpxsNTSFOfvqzt9LF6ef) | [Hugo Massien](https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu) | [Fast Forward](https://open.spotify.com/album/0tUqYbiJBXtZeofYSrPVwi) | 5:18 |
-| 58 | [burning \(feat\. just lil\)](https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [burning \(feat\. just lil\)](https://open.spotify.com/album/1xusQdAD0SSLGvXqpHFGKS) | 4:06 |
+| 58 | [burning \(feat\. just lil\)](https://open.spotify.com/track/2DFA2QYJrgbUVMNgiavKEl) | [ONES](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [just lil](https://open.spotify.com/artist/3jcw0K5zIPsqqTcsVmKpQg) | [burning \(feat\. just lil\)](https://open.spotify.com/album/1xusQdAD0SSLGvXqpHFGKS) | 4:06 |
 | 59 | [I Guess I Have, Boy](https://open.spotify.com/track/4V6cWho5yqX1Y2TZttlUjm) | [Philippa](https://open.spotify.com/artist/4EJbiuIFj2HwW8NJe1ttIX) | [There's A Ghost In My Synthesizer EP](https://open.spotify.com/album/5jWEO9BYZUZhNnW3SeA2cM) | 5:54 |
 | 60 | [Equip XXXO](https://open.spotify.com/track/22hEvuOZAVbiBcpmxsTSh2) | [Equip](https://open.spotify.com/artist/6dzkX7X7s3VmR9EkmXjqFD) | [Greg Wilson Presents XXXO & ICA Beats](https://open.spotify.com/album/0IXZofWDMkhuffMUu8h6yw) | 6:11 |
 | 61 | [Last Night \- 1981 Version](https://open.spotify.com/track/4VaiYbCLC7PCdwIZbb9lEC) | [Jet Hammer](https://open.spotify.com/artist/5QnH8g5VaGI7wPFDgH4UKV) | [Last Night EP](https://open.spotify.com/album/5JgIaaM0G5mCsNyEtlDpfj) | 5:11 |

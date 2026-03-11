@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Fern.
 
-795 songs - 2 day 1 hr 22 min
+797 songs - 2 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Delikado, Baby](https://open.spotify.com/track/6q3NuCI1HTpMtSKbNbshne) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Delikado, Baby](https://open.spotify.com/album/314uI5ZQOrE5VpiWdFjRlY) | 3:25 | 2024-07-02 | 2024-07-13 |
 | [Delusyonal](https://open.spotify.com/track/09CvWD60BVdN1IcXhAV1X2) | [Liel](https://open.spotify.com/artist/1jrYfEdTDqMZBPQpXzEBlG) | [Delusyonal](https://open.spotify.com/album/7iRBfupC3gJnKbmZL5xXgM) | 3:05 | 2025-02-05 | 2025-05-17 |
 | [Di Bale](https://open.spotify.com/track/2zo7R0v0YrmVfb3VPkrAFX) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [jgh](https://open.spotify.com/album/5qbKa6ArxbSTX3qJZpg1ss) | 3:53 | 2024-11-29 | 2025-04-26 |
+| [Di Ko Alam](https://open.spotify.com/track/1ESvI4PhWa7pZCh7JRrmLs) | [RussJr](https://open.spotify.com/artist/1tfSYCR5FHZlqLzla1lJeG), [Melodias](https://open.spotify.com/artist/51mJcbrO6wCPWJDXffpAKi) | [Di Ko Alam](https://open.spotify.com/album/65yOErUwFhSK9t1so39QBT) | 3:12 | 2026-03-10 |  |
 | [Di Ko Sinabi](https://open.spotify.com/track/5LsHJdZUGkLVzW8Uz1LgLV) | [Hezekiah Mesina](https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp) | [Di Ko Sinabi](https://open.spotify.com/album/0YSVtW6W2TJcOVzEZsUGQ5) | 4:35 | 2026-03-09 |  |
 | [Di Mapakali](https://open.spotify.com/track/1AqyT79FxsN0PhqSty5BS2) | [Pattia](https://open.spotify.com/artist/5lsGsDuEgkJJVIupE3kupJ) | [Di Mapakali](https://open.spotify.com/album/6sJYwdvd3qvopepHz1111k) | 3:48 | 2024-11-22 | 2025-06-07 |
 | [Di Mawari](https://open.spotify.com/track/54duSykVaql1tM1vmp3E4v) | [\_dyco](https://open.spotify.com/artist/4NzPBLN5xfDwrUwz42xpnb) | [Di Mawari](https://open.spotify.com/album/5pg9caS7JVC71WcsSw0ynb) | 2:51 | 2025-04-16 | 2025-06-21 |
@@ -202,6 +203,7 @@
 | [Funny](https://open.spotify.com/track/5acDAc2d4h8VoUvFZDGlJA) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Funny](https://open.spotify.com/album/3ojzpLZHuP3jVWOIZ92qPd) | 2:40 | 2025-03-21 | 2025-05-31 |
 | [Gabi](https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2) | [Gabi](https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb) | 4:25 | 2024-08-14 | 2024-11-21 |
 | [Gabriel](https://open.spotify.com/track/2xc2MkE3KzL7Bp0tCglMYG) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gabriel](https://open.spotify.com/album/7Cx9zjpHJnfuOqZ7e5afjh) | 2:48 | 2024-11-04 | 2024-12-26 |
+| [GAGA](https://open.spotify.com/track/58KGLCGgYFbFK2f97GKd9M) | [RAMONA](https://open.spotify.com/artist/0VWo5C3HsavhLV8kAjTaGt) | [GAGA](https://open.spotify.com/album/2J0CDXL3lb7tPjrLIx0lE6) | 3:07 | 2026-03-10 |  |
 | [Ganda Gandahan](https://open.spotify.com/track/7z0v3qOhT5DxMJIDdOsDb3) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/1FmM5DN3H4TgA4c8gdEl7G) | 3:34 | 2024-11-13 | 2025-03-01 |
 | [Ganda Gandahan](https://open.spotify.com/track/257uKMQiyZ4audCBnYOeHc) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Ganda Gandahan](https://open.spotify.com/album/2ks1JP6W8xJugERaZa4vYU) | 3:36 | 2024-11-08 | 2024-11-14 |
 | [Gayuma](https://open.spotify.com/track/1zKRYkQrnTLs3VrKELEbhh) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Gayuma](https://open.spotify.com/album/1okRQ6xy7kHk6q70FgspVC) | 3:59 | 2025-08-29 | 2025-11-22 |

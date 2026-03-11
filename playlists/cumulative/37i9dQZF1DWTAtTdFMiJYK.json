@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Most exciting artists from the Indian Indie scene. Cover: Yawar Abdal",
+  "description": "Most exciting artists from the Indian Indie scene. Cover: rohh",
   "name": "RADAR India",
   "tracks": [
     {
@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 174580,
       "name": "Dil Ki Nadani",
       "url": "https://open.spotify.com/track/1LkeeEfNJVy8x7kb4yRu63"
@@ -4915,6 +4915,24 @@
     },
     {
       "album": {
+        "name": "Maname",
+        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Black",
+          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Maname",
+      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
+    },
+    {
+      "album": {
         "name": "Martbaan",
         "url": "https://open.spotify.com/album/4rhWPluu9U2NusNDQVdogO"
       },
@@ -5394,7 +5412,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 145641,
       "name": "Nasha",
       "url": "https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt"
@@ -5686,6 +5704,32 @@
       "duration_ms": 180624,
       "name": "Paar Laaye",
       "url": "https://open.spotify.com/track/3MSWGzFm8N3wJvOloRovR6"
+    },
+    {
+      "album": {
+        "name": "Paatha Edathila",
+        "url": "https://open.spotify.com/album/03VPIqFCLf2B3mCafybAya"
+      },
+      "artists": [
+        {
+          "name": "808Krshna",
+          "url": "https://open.spotify.com/artist/4BmMGRjcKQTnEaM2nCIaBE"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192984,
+      "name": "Paatha Edathila",
+      "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
     },
     {
       "album": {
@@ -6240,7 +6284,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 178541,
       "name": "Rehna Duur",
       "url": "https://open.spotify.com/track/1Rmcjz7zicFMNKfXS1FZmM"
@@ -8434,6 +8478,32 @@
       "duration_ms": 221666,
       "name": "Zakir",
       "url": "https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX"
+    },
+    {
+      "album": {
+        "name": "Zarii",
+        "url": "https://open.spotify.com/album/70ZVp8tkKTz2VUl6TIvjDS"
+      },
+      "artists": [
+        {
+          "name": "rohh",
+          "url": "https://open.spotify.com/artist/2ZRhDLITL8RK1IbK9dDGhf"
+        },
+        {
+          "name": "Mr. Doss",
+          "url": "https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG"
+        },
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Zarii",
+      "url": "https://open.spotify.com/track/2yHBq4DRKITMUypmWT136A"
     },
     {
       "album": {

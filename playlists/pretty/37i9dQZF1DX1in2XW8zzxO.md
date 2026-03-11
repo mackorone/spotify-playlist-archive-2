@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,454 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,491 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 47 | [Monate Mogwanti](https://open.spotify.com/track/4JeBRJ2Vj55GujElSafEsN) | [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Monate Mogwanti](https://open.spotify.com/album/2cqXjxeJFfT4xi3ulnRaFF) | 5:27 |
 | 48 | [Moratata \(feat\. Leemckrazy & TitoM\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |
 | 49 | [Woza La!](https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I) | [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1), [Benny Maverick](https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2), [Triple X Da Ghost](https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO) | [Woza La!](https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn) | 8:04 |
-| 50 | [Pure Bliss](https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe) | [Luzyo Keys](https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Pure Bliss](https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn) | 7:30 |
+| 50 | [Rekisa Kapela \(feat\. Certified Dyan\)](https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Certified Dyan](https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q) | [The EEQualizer](https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U) | 6:01 |
 
 Snapshot ID: `AAAAAJ8dlng/MsGGZ13op3R60YfA5PYI`

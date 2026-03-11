@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,387 songs - 5 day 19 hr 26 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,388 songs - 5 day 19 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2395,5 +2395,6 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2385 | [It Is What It Is](https://open.spotify.com/track/2aqL67JM0j4CODLfG90N01) | [8 Ball Nation](https://open.spotify.com/artist/1NtVMvCpFHZQLsqsPuBwhZ) | [It Is What It Is](https://open.spotify.com/album/3ysNbsLSS7MjxAlskrzHLl) | 4:47 |
 | 2386 | [Wanderlust](https://open.spotify.com/track/2b2n8QRwymnZiHd7At3vwf) | [Slowtide](https://open.spotify.com/artist/4gVVPt0VVJsl1EqZAtJlQc) | [Solaria](https://open.spotify.com/album/6IPfiZtUyj8lxGABNfxp8E) | 3:46 |
 | 2387 | [Moon Dog](https://open.spotify.com/track/5GDVdgsCCuiBumO87YORGd) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:28 |
+| 2388 | [Sous la lune, le murmure](https://open.spotify.com/track/1F7g51N0nafLXuALdyKJyJ) | [Gigakript](https://open.spotify.com/artist/4HSmSVozX7LDAlWRpfqL8T) | [Sous la lune, le murmure](https://open.spotify.com/album/2D6vwUM0azExiKsB7JmZdY) | 4:24 |
 
-Snapshot ID: `AAAJ6u6Mdk6FM7wAOZ/7l++CeibhREsG`
+Snapshot ID: `AAAJ67adBH6PWzRRH7839jlbVR0H7sLR`

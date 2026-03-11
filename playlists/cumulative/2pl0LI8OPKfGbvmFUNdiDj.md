@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-383 songs - 21 hr 25 min
+385 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Take Me There](https://open.spotify.com/track/0T540jldrQIbUy0WuZplnX) | [J.Soul](https://open.spotify.com/artist/5jdVWEJI1micvPRupftugZ) | [Take Me There](https://open.spotify.com/album/7B9n80xlWR68UQlaKMyHrE) | 4:16 | 2025-12-23 | 2026-01-15 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-01 |
 | [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 | 2025-12-04 | 2026-01-05 |
+| [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 | 2026-03-10 |  |
 | [That Girl](https://open.spotify.com/track/0ckv5piv2C88O9zejIsY4V) | [Kunnel Dtag](https://open.spotify.com/artist/0HXuhB5PCSq1LE1ZIZIA2k), [Swaggboss](https://open.spotify.com/artist/5lCK0L28sGSnogU6t1Y6KG) | [That Girl](https://open.spotify.com/album/1ZVgF25vYEIAn9jA1C3rIQ) | 3:29 | 2025-11-01 | 2025-12-01 |
 | [That's Crazy](https://open.spotify.com/track/6MUBkK6vyUfEIkzn7cuawW) | [LingoLive](https://open.spotify.com/artist/7lcc5XvNqm84iaWPyLqZji) | [That's Crazy](https://open.spotify.com/album/4o4xmW92QSyghsbmrORDdX) | 2:59 | 2026-01-18 | 2026-02-21 |
 | [The Best](https://open.spotify.com/track/3h4AGD1ov5A3MQvm6Yq9eQ) | [Abanny](https://open.spotify.com/artist/4i9kor3ZKQGq6B1GIhclrx) | [The Best](https://open.spotify.com/album/7v5en12K7q4GaJYFzWxHHH) | 2:28 | 2025-11-10 | 2025-12-01 |
@@ -358,6 +359,7 @@
 | [Up on the Map \(Bonus\)](https://open.spotify.com/track/1ipZmDA8TRSdWE1X1I2rU1) | [TUFF Cookie Productions](https://open.spotify.com/artist/3hG8Zkj1Vwzrg2LqiPfELU), [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [TUFF Cookie All\-Stars, Vol\. 1](https://open.spotify.com/album/1zDyXU2vigviLqfeb0r80y) | 2:39 | 2025-11-11 | 2025-12-01 |
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |
 | [VAMOS!](https://open.spotify.com/track/4HPh05Go7vxyYpqQb3xLs1) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [VAMOS!](https://open.spotify.com/album/0aHzsFNtkvrltOfK1ed20g) | 1:49 | 2025-11-10 | 2025-12-01 |
+| [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-03-10 |  |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-11-16 | 2026-01-05 |
 | [Walls](https://open.spotify.com/track/4jfale9zgHt9thJ6JFX6Ew) | [Joy Xande](https://open.spotify.com/artist/1lgXevJ9jOHDFulgS77qdR), [The Peace Option](https://open.spotify.com/artist/2vqA6XWr6sAnkDOIvd6YWM) | [Walls](https://open.spotify.com/album/52adXcCRJ2WMZ4lzuRjlej) | 3:56 | 2026-03-09 |  |
 | [Warzone](https://open.spotify.com/track/5eoBteAO3WSt6o9f18AVzm) | [Young Naughty G](https://open.spotify.com/artist/5ffV6UQd1XxjugmDxDN4cw) | [Warzone](https://open.spotify.com/album/4be2Xs4hXkcvjhkNKuN1Dl) | 1:19 | 2026-01-03 | 2026-01-25 |

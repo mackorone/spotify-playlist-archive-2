@@ -4,7 +4,7 @@
 
 > joshua idehen's new album has us beaming 🧡 metropolis is your home for the best indie dance
 
-2,205 songs - 5 day 13 hr 41 min
+2,206 songs - 5 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1760,7 +1760,7 @@
 | [Sorry Sorry Song](https://open.spotify.com/track/52jOLSP4sxdyLVn3cAczWn) | [swim good now](https://open.spotify.com/artist/0nfObbo5nqn9iWe0cy7Zvt) | [Sorry Sorry Song](https://open.spotify.com/album/4Wq0yR5fC9mmo89PCG1ql7) | 2:55 | 2021-10-08 | 2022-01-04 |
 | [soshy](https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [soshy](https://open.spotify.com/album/0It6cwMGugiHHtmLTjmoju) | 2:56 | 2021-08-06 | 2022-05-10 |
 | [Soulseek](https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Soltera](https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do) | [Soulseek](https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK) | 5:11 | 2026-02-13 |  |
-| [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 | 2025-11-07 |  |
+| [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 | 2025-11-07 | 2026-03-11 |
 | [Speak Your Mind](https://open.spotify.com/track/71lj44bELUowizDy5Ppz7l) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [MATTII](https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6) | [Nu Wav\(s\) and Fade Outs](https://open.spotify.com/album/2iKVlMMXrisku1gNMJOH8v) | 2:47 | 2025-04-04 | 2025-06-07 |
 | [SPEAKING OUT LOUD](https://open.spotify.com/track/68O9CSbx1oZ4nuRSYxPBmn) | [JEV](https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW) | [SPEAKING OUT LOUD](https://open.spotify.com/album/5uO8W71W2Zabn4wBtC7d5o) | 2:53 | 2024-02-02 | 2024-04-13 |
 | [Speed King](https://open.spotify.com/track/3AHzNfksnT7en2Ir8sIUc9) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Speed King](https://open.spotify.com/album/1XIpESQiT426pr6dvBgZRf) | 9:52 | 2022-09-09 | 2022-09-18 |
@@ -2088,6 +2088,7 @@
 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 | 2023-03-31 | 2023-12-09 |
 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 | 2023-11-17 | 2024-03-30 |
 | [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 | 2024-04-26 | 2024-07-27 |
+| [Watchu Say](https://open.spotify.com/track/3MU4fOC3qVJqDGbjomnyDm) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Watchu Say](https://open.spotify.com/album/3wRddtFjb5v5x3k06eWqgU) | 4:00 | 2026-03-11 |  |
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-05 | 2023-07-29 |
 | [Water](https://open.spotify.com/track/0HX7Qdf2R0pfeDueFpF6C4) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [QUOTA](https://open.spotify.com/album/2yj9MtZaGfQXkiH1CR3AeA) | 3:29 | 2021-07-09 | 2022-02-11 |
 | [Water Pistol \- Killen\. Remix](https://open.spotify.com/track/7F1YGJLMXM9T5kiRQ6JPdX) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Water Pistol \(Killen\. Remix\)](https://open.spotify.com/album/10l4hCpM2pON4RYhE7SjKe) | 2:56 | 2024-11-29 | 2025-01-11 |

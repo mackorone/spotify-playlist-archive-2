@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Frayle",
-  "num_followers": 390265,
+  "num_followers": 390312,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-01-05 19:53:01",
       "album": {
+        "name": "Under C\u00f6ver",
+        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 260720,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
+    },
+    {
+      "added_at": "2026-01-05 19:53:01",
+      "album": {
         "name": "How It's Done",
         "url": "https://open.spotify.com/album/64ubOftES7s24r5sMpraAb"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 174374,
       "name": "How It's Done",
       "url": "https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL"
-    },
-    {
-      "added_at": "2026-01-05 19:53:01",
-      "album": {
-        "name": "Under C\u00f6ver",
-        "url": "https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "Heroes",
-      "url": "https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c"
     },
     {
       "added_at": "2026-01-05 19:53:01",

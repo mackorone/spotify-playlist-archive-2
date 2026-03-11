@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 595234,
+  "num_followers": 595305,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
-      },
-      "artists": [
-        {
-          "name": "Symphonix",
-          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
-        },
-        {
-          "name": "Benzoo",
-          "url": "https://open.spotify.com/artist/2hmiyEZJxAeSmRuvv2S7FO"
-        }
-      ],
-      "duration_ms": 267107,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Aliyu",
         "url": "https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/58TmnGrhKm2VT42uSCJgMY"
+      },
+      "artists": [
+        {
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/2hmiyEZJxAeSmRuvv2S7FO"
+        }
+      ],
+      "duration_ms": 267107,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Psychosis",
         "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 206653,
       "name": "Psychosis",
       "url": "https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1535,22 +1535,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Home Alone (Monod Remix)",
-        "url": "https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f"
+        "name": "Stupid as Fvck (Physis Remix)",
+        "url": "https://open.spotify.com/album/5rKCuh31YA9TKTnt4u5cSD"
       },
       "artists": [
         {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+          "name": "Neelix",
+          "url": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
         },
         {
-          "name": "Monod",
-          "url": "https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO"
+          "name": "Symphonix",
+          "url": "https://open.spotify.com/artist/3YrMuDBgkI3zUJUAyKfxFm"
+        },
+        {
+          "name": "Physis",
+          "url": "https://open.spotify.com/artist/1IM0Mnml2ITEkXZoULnu6Z"
         }
       ],
-      "duration_ms": 421739,
-      "name": "Home Alone - Monod Remix",
-      "url": "https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn"
+      "duration_ms": 329565,
+      "name": "Stupid as Fvck (Physis Remix)",
+      "url": "https://open.spotify.com/track/7sR7TTMwNmLvQWSMgAr16f"
     }
   ],
   "unique_name": "Psytrance Supernova",

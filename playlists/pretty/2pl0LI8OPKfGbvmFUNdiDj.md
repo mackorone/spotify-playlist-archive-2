@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 616 likes - 51 songs - 2 hr 46 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 616 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 49 | [Scenes Of Doubt](https://open.spotify.com/track/2eiVgjlf3UjkHwGFods3eo) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Scenes Of Doubt](https://open.spotify.com/album/4d0D3BiU4i53qFwDKnWQmh) | 4:54 |
 | 50 | [Live Without](https://open.spotify.com/track/7GN43Hf3xR9gKfmxOxeOVW) | [SHVŃ](https://open.spotify.com/artist/2CLwDrIXLw3BIXIptDDt0M) | [Live Without](https://open.spotify.com/album/22uIKfBeybDR8pR6RwgJfx) | 2:54 |
 | 51 | [Halftime](https://open.spotify.com/track/01zUhHXnsvqEKaUbwubELW) | [Victoria Ibek](https://open.spotify.com/artist/49Y9JM0W6cbP1dxGZ7z5SS) | [Halftime](https://open.spotify.com/album/1tmgOOS0quA3LwKb9j5zwk) | 3:05 |
+| 52 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
+| 53 | [Technicolor Wine](https://open.spotify.com/track/37zitPVqGB50b27TrvHjbg) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Technicolor Wine](https://open.spotify.com/album/2LuUFZMvR9PSNdv4QDlhNk) | 3:46 |
 
-Snapshot ID: `AAADPYmDXpJMw1eM9AIG/mCWWTEr7eqp`
+Snapshot ID: `AAADP0BJZGPsVGzGZgZt7jyWvWOL3ID7`

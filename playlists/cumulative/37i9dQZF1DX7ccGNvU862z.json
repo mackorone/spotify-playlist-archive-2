@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SURIYA MQT, P6ICK",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 213230,
       "name": "25 \u0e0a\u0e31\u0e48\u0e27\u0e42\u0e21\u0e07",
       "url": "https://open.spotify.com/track/3tmr1EcxyQihxs1uVvPinG"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 170381,
       "name": "Banana",
       "url": "https://open.spotify.com/track/53h4D5x6WLazzBfPljOKu7"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 155004,
       "name": "DON'T LEAVE ME ALONE",
       "url": "https://open.spotify.com/track/5V7qK70rXsbMW8ismAH8bv"
@@ -2986,6 +2986,28 @@
       "duration_ms": 157932,
       "name": "HOMESTAY",
       "url": "https://open.spotify.com/track/2mcQwH5RwzCWKmWQEGypP4"
+    },
+    {
+      "album": {
+        "name": "Honey Lemon",
+        "url": "https://open.spotify.com/album/17cu93xBXRfj10d8IdHp6n"
+      },
+      "artists": [
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        },
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203190,
+      "name": "Honey Lemon",
+      "url": "https://open.spotify.com/track/3RgrQtfdHZTMNrgjWKh6SV"
     },
     {
       "album": {
@@ -7951,6 +7973,24 @@
     },
     {
       "album": {
+        "name": "Zindaria",
+        "url": "https://open.spotify.com/album/0woWWAaYtb3ovQBsUBKn8V"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143780,
+      "name": "Zindaria",
+      "url": "https://open.spotify.com/track/6QdbidmtvK7LMRsj8rSY2w"
+    },
+    {
+      "album": {
         "name": "Zodiacign",
         "url": "https://open.spotify.com/album/6TjFCdkGwRasvBLdsESwXJ"
       },
@@ -9375,6 +9415,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e16\u0e36\u0e07\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c",
+        "url": "https://open.spotify.com/album/0aBHvZj2E1pP7jkSzeAL6R"
+      },
+      "artists": [
+        {
+          "name": "FATBOII MQT",
+          "url": "https://open.spotify.com/artist/6zYoXxdjJH6n2DFQtr3i9O"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "\u0e04\u0e37\u0e19\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c\u0e16\u0e36\u0e07\u0e40\u0e0a\u0e49\u0e32\u0e27\u0e31\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c",
+      "url": "https://open.spotify.com/track/1xlBUoNWzVCWmNyc01wRuM"
+    },
+    {
+      "album": {
         "name": "Life is Love",
         "url": "https://open.spotify.com/album/3tHyVcO5AtllOZnKboJuh6"
       },
@@ -9676,7 +9734,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-11",
       "duration_ms": 119351,
       "name": "\u0e08\u0e38\u0e4a\u0e1a\u0e08\u0e38\u0e4a\u0e1a\u0e08\u0e38\u0e4a\u0e1a\u0e08\u0e38\u0e4a\u0e1a",
       "url": "https://open.spotify.com/track/13JN2LcaasF7FOnLzRs2dm"
@@ -14722,6 +14780,28 @@
       "duration_ms": 227647,
       "name": "\u0e40\u0e04\u0e22\u0e04\u0e34\u0e14\u0e27\u0e48\u0e32\u0e25\u0e37\u0e21\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49 (feat. SIMON & SARAN)",
       "url": "https://open.spotify.com/track/4n59FNaSSgzZ2wYT2RKsw1"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/4Xs4j9v7IrK5bPAGah6Ce6"
+      },
+      "artists": [
+        {
+          "name": "9tokyo",
+          "url": "https://open.spotify.com/artist/3FxGLtMGpuO4myzWo0gktr"
+        },
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224793,
+      "name": "\u0e40\u0e04\u0e22\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/5kphwAzHksSZrkrQbQdfXy"
     },
     {
       "album": {

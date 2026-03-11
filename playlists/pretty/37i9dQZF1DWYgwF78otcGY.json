@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29813,
+  "num_followers": 29821,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Iconic",
-        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Iconic",
-      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Viva L\u2019Amor",
         "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 181800,
       "name": "Viva L\u2019Amor",
       "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Iconic",
+        "url": "https://open.spotify.com/album/0HgLE4fEcT5oFPbMRF4Ej3"
+      },
+      "artists": [
+        {
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Iconic",
+      "url": "https://open.spotify.com/track/5FjvINvxiM03aNN7o1nUVc"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
-      },
-      "artists": [
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Genom Eld & Vatten",
         "url": "https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 186666,
       "name": "Genom Eld & Vatten",
       "url": "https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
       },
       "artists": [
         {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
       },
       "artists": [
         {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Bra vibrationer",
-        "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
-      },
-      "artists": [
-        {
-          "name": "Kikki Danielsson",
-          "url": "https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Bra vibrationer",
-      "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Stand By For...",
         "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 184733,
       "name": "Cara mia",
       "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Bra vibrationer",
+        "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
+      },
+      "artists": [
+        {
+          "name": "Kikki Danielsson",
+          "url": "https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Bra vibrationer",
+      "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -555,54 +555,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "Disco Defenders",
-        "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Blame It On The Disco",
-      "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Det blir vad du g\u00f6r det till",
-        "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
-      },
-      "artists": [
-        {
-          "name": "Panetoz",
-          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Efter solsken",
-      "url": "https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
-        "name": "Fr\u00e4mling 25 \u00e5r",
-        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Fr\u00e4mling",
-      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Where You Are (S\u00e1ve\u017ean)",
         "url": "https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE"
       },
@@ -627,6 +579,54 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
+        "name": "Disco Defenders",
+        "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
+      },
+      "artists": [
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Blame It On The Disco",
+      "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Fr\u00e4mling 25 \u00e5r",
+        "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Fr\u00e4mling",
+      "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Det blir vad du g\u00f6r det till",
+        "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
+      },
+      "artists": [
+        {
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Efter solsken",
+      "url": "https://open.spotify.com/track/2dh07zmyCMoY64rQdJrXLe"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "A State Of Mind",
+        "url": "https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0"
+      },
+      "artists": [
+        {
+          "name": "E.M.D.",
+          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
+        }
+      ],
+      "duration_ms": 174986,
+      "name": "Baby Goodbye",
+      "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -711,22 +727,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "A State Of Mind",
-        "url": "https://open.spotify.com/album/0XvSVC13iyxSoYuyExO3B0"
-      },
-      "artists": [
-        {
-          "name": "E.M.D.",
-          "url": "https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg"
-        }
-      ],
-      "duration_ms": 174986,
-      "name": "Baby Goodbye",
-      "url": "https://open.spotify.com/track/4Vg4aicJ6wzbhdpDh1Nq8L"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "I Won't Shake (La La Gunilla)",
-        "url": "https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC"
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/50ofW35oBO5mhrZTHnOBMt"
       },
       "artists": [
         {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
         }
       ],
-      "duration_ms": 179798,
-      "name": "I Won't Shake (La La Gunilla)",
-      "url": "https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId"
+      "duration_ms": 166346,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/3GbgOBpbw71zpy7lCnU6N6"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/50ofW35oBO5mhrZTHnOBMt"
+        "name": "I Won't Shake (La La Gunilla)",
+        "url": "https://open.spotify.com/album/5jq3fUQC7pZA5JaAzA4SCC"
       },
       "artists": [
         {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
         }
       ],
-      "duration_ms": 166346,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/3GbgOBpbw71zpy7lCnU6N6"
+      "duration_ms": 179798,
+      "name": "I Won't Shake (La La Gunilla)",
+      "url": "https://open.spotify.com/track/1ZZg7lCb29LApbbk8iNmId"
     },
     {
       "added_at": "2026-02-19 13:19:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-19 13:19:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc"
-      },
-      "artists": [
-        {
-          "name": "Panetoz",
-          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
-        }
-      ],
-      "duration_ms": 185688,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY"
-    },
-    {
-      "added_at": "2026-02-19 13:19:00",
-      "album": {
         "name": "X My Heart",
         "url": "https://open.spotify.com/album/4GXyJ4D53Gx0I3lHzhDUxd"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 174733,
       "name": "Let Your Spirit Fly",
       "url": "https://open.spotify.com/track/1k8Licv2jaRTbRtAbJZ3In"
+    },
+    {
+      "added_at": "2026-02-19 13:19:00",
+      "album": {
+        "name": "Never Let It Go",
+        "url": "https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4"
+      },
+      "artists": [
+        {
+          "name": "Afro-Dite",
+          "url": "https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Never Let It Go",
+      "url": "https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC"
     }
   ],
   "unique_name": "Mellofest! ",

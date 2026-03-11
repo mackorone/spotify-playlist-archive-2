@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Harry Styles, Jennifer Lopez, TOMORA,  ずっと真夜中でいいのに。 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,562 likes - 94 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,567 likes - 94 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 56 | [Estrellas \(feat\. IO\)](https://open.spotify.com/track/4q7vhrB5EhXeaBAUJ18CkE) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [VERTEX 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zHzMh3SabBqsomXBozXh6) | 3:44 |
 | 57 | [WIN WING \(feat\. HARKA, Only U & TOFU\)](https://open.spotify.com/track/3VcqCHLHRu6knHRWk6LkKn) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ) | [WIN WING \(feat\. HARKA, Only U & TOFU\)](https://open.spotify.com/album/6GxXEjYgfQKrV56p4JDYSq) | 3:59 |
 | 58 | [Bass Ninja \(feat\. Red Eye & ACE COOL\)](https://open.spotify.com/track/62bUhTnqNBV30l4WGCe3Ks) | [SO\-SO](https://open.spotify.com/artist/0AGwS4zwXlgeTJsee7q3cW), [Red Eye](https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Bass Ninja \(feat\. Red Eye & ACE COOL\)](https://open.spotify.com/album/1eOuzqVdOONwoNRdF8krI5) | 3:02 |
-| 59 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
+| 59 | [NAMIDA](https://open.spotify.com/track/2pFCk9bxOFkrWrdN8BWOIz) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Alenoise](https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE) | [NAMIDA](https://open.spotify.com/album/30yOYkYlmVwBOhd0vzS9eL) | 2:26 |
 | 60 | [FTP](https://open.spotify.com/track/5LUVNQDJSx7qP0y9KCoYAE) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [EASTA](https://open.spotify.com/artist/3M73iVLAP7NbB5ZrO0dlzO) | [FTP](https://open.spotify.com/album/1VZ8G2mG8YgCPxy0rhih0p) | 2:23 |
 | 61 | [Hiraeth](https://open.spotify.com/track/5rbEgluvVAsM1cLyUgsUmy) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Hiraeth](https://open.spotify.com/album/6ctn6jq4F0igkYugxjC9km) | 3:20 |
 | 62 | [No One Can](https://open.spotify.com/track/5HEKj8vmOnF51YvQTYaqGP) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [No One Can](https://open.spotify.com/album/1JhZcvJzYtJvOsyaiOeS5w) | 2:36 |

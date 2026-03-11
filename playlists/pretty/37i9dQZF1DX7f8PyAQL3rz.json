@@ -1,6 +1,6 @@
 {
   "description": "PTQFA ta na rua, chegou o momento das ex",
-  "num_followers": 1453864,
+  "num_followers": 1453759,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
+        "name": "QUASE QUE FALEI TE AMO",
+        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        }
+      ],
+      "duration_ms": 166058,
+      "name": "QUASE QUE FALEI TE AMO",
+      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
         "name": "KayBlack & Burna Boy - Spotify Sessions",
         "url": "https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 165540,
       "name": "TaTaTa - Spotify Sessions",
       "url": "https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
-        "name": "QUASE QUE FALEI TE AMO",
-        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 166058,
-      "name": "QUASE QUE FALEI TE AMO",
-      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
     },
     {
       "added_at": "2026-03-06 13:37:33",
@@ -815,6 +815,38 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
+        "name": "Presentinho",
+        "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Gigant",
+          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "duration_ms": 342857,
+      "name": "Presentinho",
+      "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
         "name": "A Favela N\u00e3o Venceu",
         "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
       },
@@ -891,38 +923,6 @@
       "duration_ms": 253042,
       "name": "THE BOX MEDLEY 11",
       "url": "https://open.spotify.com/track/6zlAWWyR93ryKDyWVQbL4v"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
-        "name": "Presentinho",
-        "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Gigant",
-          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Presentinho",
-      "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
     },
     {
       "added_at": "2026-03-06 13:37:33",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
-        "name": "T\u00f4 com Saudade",
-        "url": "https://open.spotify.com/album/2wK2TXDdcKFtRQXS6ZIcAV"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        }
-      ],
-      "duration_ms": 104539,
-      "name": "T\u00f4 com Saudade",
-      "url": "https://open.spotify.com/track/1W2nInxS8amzBPiBqrcyHT"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
         "name": "Press\u00e1gio (Studio Rec #9)",
         "url": "https://open.spotify.com/album/7kRLRiRjCpzKYlO8Ku7Oxf"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 152812,
       "name": "Press\u00e1gio (Studio Rec #9)",
       "url": "https://open.spotify.com/track/0mqn4Z7wLkveA0DlQuARLq"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
+        "name": "T\u00f4 com Saudade",
+        "url": "https://open.spotify.com/album/2wK2TXDdcKFtRQXS6ZIcAV"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "duration_ms": 104539,
+      "name": "T\u00f4 com Saudade",
+      "url": "https://open.spotify.com/track/1W2nInxS8amzBPiBqrcyHT"
     },
     {
       "added_at": "2026-03-06 13:37:33",

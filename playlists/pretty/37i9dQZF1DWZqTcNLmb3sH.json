@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 68143,
+  "num_followers": 68165,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABUGVa5WOatikTBXOSXVIguqTf44",
+  "snapshot_id": "AAAAALnyOqJWMTsmqdC73VOo8Wvuy9wP",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -101,6 +101,26 @@
       "url": "https://open.spotify.com/track/1oYCB3VCMuIdELnmHp7mbl"
     },
     {
+      "added_at": "2026-03-10 10:41:56",
+      "album": {
+        "name": "Hey Kamala (From \"Nadrusa\")",
+        "url": "https://open.spotify.com/album/5VKsTic2yS2mMvIe8rLj80"
+      },
+      "artists": [
+        {
+          "name": "Nandini Ganiga",
+          "url": "https://open.spotify.com/artist/4DJxf1MVt0K4tBGbijFbg5"
+        },
+        {
+          "name": "Vikas SG",
+          "url": "https://open.spotify.com/artist/3zwDW7yoVBUi6ykhAx2M4V"
+        }
+      ],
+      "duration_ms": 207699,
+      "name": "Hey Kamala (From \"Nadrusa\")",
+      "url": "https://open.spotify.com/track/0N885AxjaPpLOfV01wEZas"
+    },
+    {
       "added_at": "2026-03-05 11:10:09",
       "album": {
         "name": "BRAT (Original Motion Picture Soundtrack)",
@@ -147,6 +167,30 @@
       "duration_ms": 182455,
       "name": "Badukina Bandige (From \"Majestic 2\") - Male Vocals",
       "url": "https://open.spotify.com/track/5orHABGL0230OlqPGQABQN"
+    },
+    {
+      "added_at": "2026-03-10 10:39:23",
+      "album": {
+        "name": "Jumuku Jumuku (From \"Karikaada - Kannada\")",
+        "url": "https://open.spotify.com/album/54A3MG7RUuOE3Ed0gOXMMw"
+      },
+      "artists": [
+        {
+          "name": "VM Mahalingam",
+          "url": "https://open.spotify.com/artist/3qjzGkAGKsCkJOieWWRz8k"
+        },
+        {
+          "name": "Athishay Jain",
+          "url": "https://open.spotify.com/artist/2zPvFiANV9zd9lA1zzMjmb"
+        },
+        {
+          "name": "Gilli Venkatesh",
+          "url": "https://open.spotify.com/artist/3EISdTvkjnETXtRbCjr1Pv"
+        }
+      ],
+      "duration_ms": 241121,
+      "name": "Jumuku Jumuku (From \"Karikaada - Kannada\")",
+      "url": "https://open.spotify.com/track/5cs6fAwcjWctLrfbEaNrrR"
     },
     {
       "added_at": "2026-03-03 11:34:04",
@@ -1679,54 +1723,6 @@
       "duration_ms": 230400,
       "name": "Rathuni Rathuni (From \"Karikaada - Kannada\")",
       "url": "https://open.spotify.com/track/2OVbUK9xTPxgMinKGVT3zi"
-    },
-    {
-      "added_at": "2026-01-14 10:56:01",
-      "album": {
-        "name": "Soul Of Graamaayana (From \"Graamaayana\")",
-        "url": "https://open.spotify.com/album/5zHmrrIbEeGmoZ6yqWyUrL"
-      },
-      "artists": [
-        {
-          "name": "Poornachandra Tejaswi SV",
-          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
-        },
-        {
-          "name": "Arun M.C",
-          "url": "https://open.spotify.com/artist/6fx6V6qKHwn2j7Uyq0K7it"
-        },
-        {
-          "name": "Savera Swamy",
-          "url": "https://open.spotify.com/artist/7bPYZtQaZ34EfbCWCMbc5n"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Soul Of Graamaayana (From \"Graamaayana\")",
-      "url": "https://open.spotify.com/track/2ZtaLuE6ejBPkYCeZaKwQ9"
-    },
-    {
-      "added_at": "2026-01-09 08:02:33",
-      "album": {
-        "name": "Muddu Maraya (From \"Manada Kadalu\")",
-        "url": "https://open.spotify.com/album/1Wf0kg3URyKCj6wdE2UlXW"
-      },
-      "artists": [
-        {
-          "name": "V. Harikrishna",
-          "url": "https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX"
-        },
-        {
-          "name": "Jayanth Kaikini",
-          "url": "https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57"
-        },
-        {
-          "name": "Lakshmi Radhakrishna",
-          "url": "https://open.spotify.com/artist/6GIT1vPqYBxHGaX0b8VDTO"
-        }
-      ],
-      "duration_ms": 242869,
-      "name": "Muddu Maraya (From \"Manada Kadalu\")",
-      "url": "https://open.spotify.com/track/5VnsMHVqlnpK4IQiTXLcCV"
     },
     {
       "added_at": "2025-12-26 06:56:23",

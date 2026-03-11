@@ -14533,6 +14533,28 @@
     },
     {
       "album": {
+        "name": "early life crisis",
+        "url": "https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136923,
+      "name": "masked up (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6tuVceHAyUCDRhbEC2634b"
+    },
+    {
+      "album": {
         "name": "You Can't Hold Me Back",
         "url": "https://open.spotify.com/album/4nDwoEvQrpNKvEPv6vrhpq"
       },
