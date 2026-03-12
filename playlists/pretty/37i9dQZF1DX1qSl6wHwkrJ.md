@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,483 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,481 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 27 | [Hey Santa Claus](https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Presenting The Moonglows](https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v) | 2:25 |
 | 28 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 29 | [Bo Diddley Santa Claus](https://open.spotify.com/track/5b36XrEjIUeXE40biZ7cKF) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Big Night](https://open.spotify.com/album/0tmajlJTpuxh2HRXfZmbat) | 5:39 |
-| 30 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |
-| 31 | [You're A Mean One Mr\. Grinch](https://open.spotify.com/track/5AyuHCOC5gmJ8DrPIqMoaZ) | [Shine Delphi](https://open.spotify.com/artist/4P5ULEfqCWkQD5fZ9YYWgv), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:56 |
+| 30 | [You're A Mean One Mr\. Grinch](https://open.spotify.com/track/5AyuHCOC5gmJ8DrPIqMoaZ) | [Shine Delphi](https://open.spotify.com/artist/4P5ULEfqCWkQD5fZ9YYWgv), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:56 |
+| 31 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |
 | 32 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
 | 33 | [Jingle Bell Rock](https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Jingle Bell Rock](https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2) | 3:32 |
 | 34 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO) | [Angela Strehli](https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35) | [An Austin Rhythm And Blues Christmas](https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx) | 2:26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa PinkPantheress ja Zara Larsson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,639 likes - 66 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,645 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 15 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
 | 16 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
 | 17 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
-| 18 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
-| 19 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 |
+| 18 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 |
+| 19 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |
 | 20 | [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 |
 | 21 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
-| 22 | [Ikävä, kyllä](https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:54 |
+| 22 | [Walk](https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Walk](https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM) | 2:56 |
 | 23 | [Palamaan](https://open.spotify.com/track/5oOeg8tJgIl4y2YFCj4tId) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mansion Music](https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py) | 3:25 |
-| 24 | [Walk](https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Walk](https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM) | 2:56 |
+| 24 | [Ikävä, kyllä](https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:54 |
 | 25 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 |
 | 26 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 |
 | 27 | [Make up your mind](https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Make up your mind](https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4114285,
+  "num_followers": 4114131,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
@@ -775,30 +775,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "COMO UN BEB\u00c9",
-      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
       "added_at": "2025-09-05 11:40:44",

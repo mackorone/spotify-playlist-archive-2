@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,443 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,459 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 50 | [Perfect Stranger](https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 3:17 |
 | 51 | [Tonight](https://open.spotify.com/track/290yPLUQhUqZd1OlmPWGRI) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Holding Onto Strings Better Left To Fray](https://open.spotify.com/album/1Bjmcy5hWGdGQ0zANfgIzh) | 3:44 |
 | 52 | [4am](https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [4am](https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT) | 1:50 |
-| 53 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
-| 54 | [Manos Al Aire](https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:29 |
+| 53 | [Manos Al Aire](https://open.spotify.com/track/6x3QIoNigqF82XJAFxTsya) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Mi Plan](https://open.spotify.com/album/0Z9unTBF7JAlURJAMtrqyV) | 3:29 |
+| 54 | [Michigan](https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q) | 5:30 |
 | 55 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:52 |
-| 56 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
-| 57 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 |
+| 56 | [Shy Girl](https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Shy Girl](https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5) | 3:07 |
+| 57 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 58 | [Bom Bom \- Radio Edit](https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP) | [Sam And The Womp](https://open.spotify.com/artist/3tgiOZXeC1DIimfprvfL64) | [Bom Bom](https://open.spotify.com/album/69onf0drqjCpyjgJsIb8BJ) | 2:54 |
 | 59 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 | 60 | [Cassie](https://open.spotify.com/track/6RPDAf8p0lGL3jxpnuNotC) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 63 | [San Francisco](https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG) | 2:53 |
 | 64 | [Fancy Footwork](https://open.spotify.com/track/2kBt8AO9HZn8VvtyPhWX1o) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Fancy Footwork](https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF) | 3:18 |
 | 65 | [This Too Shall Pass](https://open.spotify.com/track/0OETmammlGosgW2SkaFeYl) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Of the Blue Colour of the Sky](https://open.spotify.com/album/41VPP2i2Yrwe8bXs5NNpM9) | 3:08 |
-| 66 | [Kiss Me Slowly](https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 3:55 |
-| 67 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 |
+| 66 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 |
+| 67 | [Kiss Me Slowly](https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 3:55 |
 | 68 | [Our Time Now](https://open.spotify.com/track/3CE3PYF64qJBjq54Uf9ZiW) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/6MEfS6zFbBYZalRsumJsvs) | 2:50 |
 | 69 | [Classic \(feat\. POWERS\)](https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [POWERS](https://open.spotify.com/artist/0PGB0xsAyDqHHlvNQcgq5S) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 4:08 |
 | 70 | [Suffer Well](https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:49 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 93 | [Celeste](https://open.spotify.com/track/3PkBUAyXpD6xihGLXOEfzR) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste](https://open.spotify.com/album/0f5XJqg9d3XtZBUO5lwgOb) | 3:23 |
 | 94 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 |
 | 95 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
-| 96 | [Good Day](https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:26 |
-| 97 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
+| 96 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |
+| 97 | [Good Day](https://open.spotify.com/track/7oKyITEBWOqSO87kuSBCx5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:26 |
 | 98 | [Fingers Crossed](https://open.spotify.com/track/7f0SiAYG8XjOoQyfGvgbLA) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 3:23 |
 | 99 | [Ring Pop](https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Ring Pop](https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH) | 2:26 |
 | 100 | [Malibu](https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Malibu](https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk) | 3:11 |

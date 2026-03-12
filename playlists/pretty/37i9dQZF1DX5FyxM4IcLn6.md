@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > Listen to selected nominees for the 68th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,907 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,902 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 93 | [WRK](https://open.spotify.com/track/0jxd4JBrPUZ4Pf2AwtH6JO) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 3:14 |
 | 94 | [Alone](https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:48 |
 | 95 | [Trailblazer \(with Miranda Lambert and Lainey Wilson\)](https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Trailblazer \(with Miranda Lambert and Lainey Wilson\)](https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0) | 3:46 |
-| 96 | [Crucified Son](https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 3:29 |
-| 97 | [VOLTAGE](https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:09 |
+| 96 | [VOLTAGE](https://open.spotify.com/track/227u7P0lZxYfBH9KjT1gsf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 2:09 |
+| 97 | [Crucified Son](https://open.spotify.com/track/6GniZoAv7dAL3djoMjxVZa) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 3:29 |
 | 98 | [Good News](https://open.spotify.com/track/4izQNhcqRT0tuqh9dWTKvi) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW) | 3:19 |
 | 99 | [Nose On The Grindstone](https://open.spotify.com/track/7MVELI3PNucjlskWhNZESi) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:55 |
 | 100 | [Coritos de Fuego](https://open.spotify.com/track/5lwcDrXrC1npHBasWkeQT6) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G), [Adrienne Bailon\-Houghton](https://open.spotify.com/artist/7yfn5P0P0V6r3uUcxd4d6u) | [CORITOS Vol\. 1](https://open.spotify.com/album/4RpmmQce0dfnMpYF7UFbzC) | 9:36 |

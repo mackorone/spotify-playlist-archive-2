@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: rohh",
-  "num_followers": 189996,
+  "num_followers": 190026,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-03-10 06:10:46",
       "album": {
+        "name": "Maname",
+        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
+      },
+      "artists": [
+        {
+          "name": "Sarah Black",
+          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Maname",
+      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
+    },
+    {
+      "added_at": "2026-03-10 06:10:46",
+      "album": {
         "name": "Better With You (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 212922,
       "name": "Tu Chodiyon Na",
       "url": "https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA"
-    },
-    {
-      "added_at": "2026-03-10 06:10:46",
-      "album": {
-        "name": "Maname",
-        "url": "https://open.spotify.com/album/7ekJRzvF4WcSUNddETbXjm"
-      },
-      "artists": [
-        {
-          "name": "Sarah Black",
-          "url": "https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Maname",
-      "url": "https://open.spotify.com/track/1dhe3PICallkMWr9098yzp"
     },
     {
       "added_at": "2026-03-10 06:10:46",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-03-10 06:10:46",
       "album": {
+        "name": "Jadoo",
+        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "Jadoo",
+      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
+    },
+    {
+      "added_at": "2026-03-10 06:10:46",
+      "album": {
         "name": "Jee Na Paaye",
         "url": "https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 232918,
       "name": "Jee Na Paaye",
       "url": "https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I"
-    },
-    {
-      "added_at": "2026-03-10 06:10:46",
-      "album": {
-        "name": "Jadoo",
-        "url": "https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "Jadoo",
-      "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
       "added_at": "2026-03-10 06:10:46",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-03-10 06:10:46",
       "album": {
-        "name": "Le Jaa",
-        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
-      },
-      "artists": [
-        {
-          "name": "Adeetiiya",
-          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
-        },
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        }
-      ],
-      "duration_ms": 154015,
-      "name": "Le Jaa",
-      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
-    },
-    {
-      "added_at": "2026-03-10 06:10:46",
-      "album": {
         "name": "Woh",
         "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 194521,
       "name": "Woh",
       "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
+    },
+    {
+      "added_at": "2026-03-10 06:10:46",
+      "album": {
+        "name": "Le Jaa",
+        "url": "https://open.spotify.com/album/0imiHfsNmizV0OaVJOYCdA"
+      },
+      "artists": [
+        {
+          "name": "Adeetiiya",
+          "url": "https://open.spotify.com/artist/4H7bDnsqf7lF07XmWegR0s"
+        },
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 154015,
+      "name": "Le Jaa",
+      "url": "https://open.spotify.com/track/1JdphOaJPSdVoGTtilQ4Pr"
     },
     {
       "added_at": "2026-03-10 06:10:46",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-03-10 06:10:46",
       "album": {
+        "name": "Jaane Anjaane",
+        "url": "https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC"
+      },
+      "artists": [
+        {
+          "name": "Last Minute India",
+          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "Jaane Anjaane",
+      "url": "https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr"
+    },
+    {
+      "added_at": "2026-03-10 06:10:46",
+      "album": {
         "name": "Khayaal",
         "url": "https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 149749,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ"
-    },
-    {
-      "added_at": "2026-03-10 06:10:46",
-      "album": {
-        "name": "Jaane Anjaane",
-        "url": "https://open.spotify.com/album/7MuSG1ofneQADzbak2QKJC"
-      },
-      "artists": [
-        {
-          "name": "Last Minute India",
-          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "Jaane Anjaane",
-      "url": "https://open.spotify.com/track/6yo5kQUJXTP6Ov1JFL2rqr"
     },
     {
       "added_at": "2026-03-10 06:10:46",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-03-10 06:10:46",
       "album": {
+        "name": "Maan Jao",
+        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "Maan Jao",
+      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
+    },
+    {
+      "added_at": "2026-03-10 06:10:46",
+      "album": {
         "name": "Saanware Aijaiyo",
         "url": "https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 234713,
       "name": "Saanware Aijaiyo",
       "url": "https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb"
-    },
-    {
-      "added_at": "2026-03-10 06:10:46",
-      "album": {
-        "name": "Maan Jao",
-        "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "Maan Jao",
-      "url": "https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C"
     },
     {
       "added_at": "2026-03-10 06:10:46",
@@ -1427,22 +1427,22 @@
     {
       "added_at": "2026-03-10 06:10:46",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm"
+        "name": "Rehna Duur",
+        "url": "https://open.spotify.com/album/3JI3cOWFjEVWx65MlzlE6t"
       },
       "artists": [
         {
-          "name": "Trance Effect",
-          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
         },
         {
-          "name": "MongDoll",
-          "url": "https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf"
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe"
+      "duration_ms": 178541,
+      "name": "Rehna Duur",
+      "url": "https://open.spotify.com/track/1Rmcjz7zicFMNKfXS1FZmM"
     }
   ],
   "unique_name": "RADAR India",

@@ -4,7 +4,7 @@
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 5 min
+81 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [Get Up! \(feat\. Skrillex\)](https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:42 | 2022-05-30 |  |
 | [Good God](https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:21 | 2022-05-30 |  |
 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 | 2022-05-30 |  |
-| [Hater](https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T) | 3:53 | 2023-09-09 |  |
+| [Hater](https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T) | 3:53 | 2023-09-09 | 2026-03-12 |
 | [Hater](https://open.spotify.com/track/1vlgn36Bko8wbMBwzS4Mdr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/14gKIvHuVsbf3cQVRxDOu1) | 3:53 | 2022-10-12 | 2023-09-10 |
+| [Hater](https://open.spotify.com/track/6BB8UssAN7vuXzsJ5jTsbP) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/7hrDDLfrAe8B5C2j5pTyyt) | 3:53 | 2026-03-12 |  |
 | [Here to Stay](https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:30 | 2022-05-30 |  |
 | [Hold On](https://open.spotify.com/track/2auOcw84LOvAYpbImw8Tid) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled](https://open.spotify.com/album/6uW0nLS4wNsobOLoHvUhAi) | 3:05 | 2023-03-04 | 2024-11-09 |
 | [Hypocrites](https://open.spotify.com/track/78HoIdDPqfWWAuRy7oNmq5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 3:49 | 2024-06-03 | 2024-06-04 |

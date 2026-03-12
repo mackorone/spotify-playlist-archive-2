@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis diaria de rock \ud83d\udcf8 NTVG",
-  "num_followers": 192570,
+  "num_followers": 192588,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Ey!",
-        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
+        "name": "Nada Es Tarde",
+        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "La Franela",
+          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
         }
       ],
-      "duration_ms": 209240,
-      "name": "Polaroid De Locura Ordinaria",
-      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
+      "duration_ms": 295373,
+      "name": "Fue Tan Bueno",
+      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Nada Es Tarde",
-        "url": "https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU"
+        "name": "Ey!",
+        "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
       },
       "artists": [
         {
-          "name": "La Franela",
-          "url": "https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku"
-        },
-        {
-          "name": "EMI",
-          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 295373,
-      "name": "Fue Tan Bueno",
-      "url": "https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8"
+      "duration_ms": 209240,
+      "name": "Polaroid De Locura Ordinaria",
+      "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
     },
     {
       "added_at": "2026-03-06 03:00:23",

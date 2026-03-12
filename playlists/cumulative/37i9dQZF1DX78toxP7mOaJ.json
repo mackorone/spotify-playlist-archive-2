@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: deathcrash",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Robber Robber",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -4630,6 +4630,24 @@
       "duration_ms": 77042,
       "name": "Blown to Bits",
       "url": "https://open.spotify.com/track/7HPw1XTlk0Qw7xapL0CWoY"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/5SQQsNetOHCcdQDVNJmPd3"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Club",
+          "url": "https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146214,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/73Jgmr6Vtjmc8o2OZ4wZIj"
     },
     {
       "album": {
@@ -11079,6 +11097,24 @@
     },
     {
       "album": {
+        "name": "Talulah's Tape",
+        "url": "https://open.spotify.com/album/7uk2k20iYtquLGoUIPdna3"
+      },
+      "artists": [
+        {
+          "name": "Good Flying Birds",
+          "url": "https://open.spotify.com/artist/4LnFAnA41BHrVfTWFKciVS"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140373,
+      "name": "Down on me",
+      "url": "https://open.spotify.com/track/3qRHkOVmIFM6SJQuTwKZAs"
+    },
+    {
+      "album": {
         "name": "Downtown Side",
         "url": "https://open.spotify.com/album/6e4SRIycocguic8fluMqNe"
       },
@@ -11454,6 +11490,24 @@
       "duration_ms": 187895,
       "name": "Dry",
       "url": "https://open.spotify.com/track/2pje58AMnj2ZsP0VzVfGF9"
+    },
+    {
+      "album": {
+        "name": "Dull Customer",
+        "url": "https://open.spotify.com/album/4hVZeVO1WzHGagpsdQ2i3B"
+      },
+      "artists": [
+        {
+          "name": "Suitor",
+          "url": "https://open.spotify.com/artist/5lTMfAl2DtVBQLtoOVHxty"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dull Customer",
+      "url": "https://open.spotify.com/track/445agh89s1M1KNoxnm3IIc"
     },
     {
       "album": {
@@ -15139,6 +15193,24 @@
     },
     {
       "album": {
+        "name": "Leave The Light On",
+        "url": "https://open.spotify.com/album/5ySh0jH7FkOKqMNcOdAybi"
+      },
+      "artists": [
+        {
+          "name": "Pileup",
+          "url": "https://open.spotify.com/artist/13T0pvqI92VaGpC2zYKhJU"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275018,
+      "name": "Going Away",
+      "url": "https://open.spotify.com/track/7E7CdmlUZiMUjehCPpT02O"
+    },
+    {
+      "album": {
         "name": "A Flooding Within You",
         "url": "https://open.spotify.com/album/5t4WVjwTP9j8xamzSaNXUG"
       },
@@ -17164,7 +17236,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 209846,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/0eB4BW6dwcA5gX4RXtUmXE"
@@ -20282,7 +20354,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 184922,
       "name": "Jessica's Changed",
       "url": "https://open.spotify.com/track/5RMcDCwBasu9RhRXHBJJac"
@@ -21852,7 +21924,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 219810,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/26jW6O3jnh8yxpQiSBpo0L"
@@ -26374,7 +26446,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 177333,
       "name": "off the hook",
       "url": "https://open.spotify.com/track/4G8VmRq3L0WpLh78tMN0kS"
@@ -36941,6 +37013,24 @@
     },
     {
       "album": {
+        "name": "The Weight",
+        "url": "https://open.spotify.com/album/48po9ZZwz1x2mGt4n7TIrc"
+      },
+      "artists": [
+        {
+          "name": "Cashier",
+          "url": "https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204994,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/37auVkMndiZtMGrMc1xKJA"
+    },
+    {
+      "album": {
         "name": "Freedomspacecake",
         "url": "https://open.spotify.com/album/06QP0yI5lEp7BkpNBUiV2E"
       },
@@ -40972,7 +41062,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 191733,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0srq2xzwoudYMxfratuopQ"

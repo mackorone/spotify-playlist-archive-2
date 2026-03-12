@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211292,
+  "num_followers": 211288,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACrpjfN5UDGwrWEvABQZ2o9",
+  "snapshot_id": "aa9fAAAAAACvubGnF0q59kpYNyDNUxQ8",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Getting Started",
-        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
       },
       "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 199431,
-      "name": "Still Get Chanel (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+        "name": "Just Getting Started",
+        "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
       "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
+      "duration_ms": 199431,
+      "name": "Still Get Chanel (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
     },
     {
       "added_at": null,
@@ -894,15 +894,11 @@
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 184562,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4E4nDfmBWrhZ60zqAjZri8"
+      "duration_ms": 210562,
+      "name": "Chain Smoker",
+      "url": "https://open.spotify.com/track/10vDX9vpFk4VZEFczgqoOg"
     },
     {
       "added_at": null,
@@ -1047,22 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man Who Has Everything",
-        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 218624,
-      "name": "The Man Who Has Everything",
-      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Boys 2",
         "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
       },
@@ -1079,6 +1059,22 @@
       "duration_ms": 133670,
       "name": "Bad Boys 2",
       "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Man Who Has Everything",
+        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 218624,
+      "name": "The Man Who Has Everything",
+      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

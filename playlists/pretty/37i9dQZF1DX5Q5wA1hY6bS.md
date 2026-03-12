@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,344,561 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,344,510 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 44 | [Our Kingdom](https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Yellow](https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0) | 3:06 |
 | 45 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
 | 46 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 |
-| 47 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 |
+| 47 | [Gloria](https://open.spotify.com/track/2ZR7DiAXXAOUr85ZBreWt4) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Gloria](https://open.spotify.com/album/65DRJr6ua9iSz4w1jsmann) | 3:36 |
 | 48 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
-| 49 | [Gloria](https://open.spotify.com/track/2ZR7DiAXXAOUr85ZBreWt4) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Gloria](https://open.spotify.com/album/65DRJr6ua9iSz4w1jsmann) | 3:36 |
+| 49 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 |
 | 50 | [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 |
 | 51 | [Moving Mountains](https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [American Novel: Ch\. I](https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX) | 4:39 |
 | 52 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 59 | [October \(October Version\)](https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD) | [HAPPY LANDING](https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6) | [October \(October Version\)](https://open.spotify.com/album/3uf5rVvGGDmnbWBH0ZvJse) | 4:37 |
 | 60 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
 | 61 | [People Talking](https://open.spotify.com/track/3EgC9peIAOtKROIHsRqVVZ) | [Robert John Ardiff](https://open.spotify.com/artist/6EGnIjpNcG5bArBuOxcgJ7) | [Between the Bed and Room](https://open.spotify.com/album/10mhcC4Be6Y2oSkH40C8N6) | 3:56 |
-| 62 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 |
-| 63 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
+| 62 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
+| 63 | [Old Black Magic](https://open.spotify.com/track/5lbgaOjchF4QZLdh2gw2Wl) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Fever Breaks](https://open.spotify.com/album/3qL2gdQLgulBvIo7bng2zS) | 4:46 |
 | 64 | [Heavy](https://open.spotify.com/track/1jzo5QmpKa8eLSF3NOJzPe) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 4:24 |
 | 65 | [Backpush](https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Backpush](https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj) | 3:02 |
 | 66 | [Caesar Knows](https://open.spotify.com/track/7IkZ5KtGsJ95M5rrpdmscs) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Caesar Knows](https://open.spotify.com/album/0AAfuLbM9duV4zcHWaDNKG) | 2:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 76 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5H1va3j5Bmr4zdBVgTwUti) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/2CndY3GLsa0e0gliCDPMsK) | 3:23 |
 | 77 | [Acre of Land](https://open.spotify.com/track/13IhhvCRSMREyJyAsLtDM2) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [Past Dawn](https://open.spotify.com/album/61qIRfEjwnm1g80saLhf7T) | 3:59 |
 | 78 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 |
-| 79 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
-| 80 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 |
+| 79 | [Hold Me Like A Fire](https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [Hold Me Like A Fire](https://open.spotify.com/album/1OfelcDKpEEzyXr204iY9p) | 3:12 |
+| 80 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 81 | [Wishing Girl](https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Wishing Girl](https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z) | 3:12 |
 | 82 | [A Random Act Of Kindness](https://open.spotify.com/track/5GepgBdAV6eI3RoijuHZua) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 4:14 |
 | 83 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 94 | [Prospector's Blues](https://open.spotify.com/track/1tfvW4LgacPraNoPKcYeFc) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Prospector's Blues](https://open.spotify.com/album/0IgccMfQHxbZw6WGV0DGqW) | 3:59 |
 | 95 | [Not Like It Was](https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Not Like It Was](https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT) | 2:55 |
 | 96 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
-| 97 | [Born at the Right Time](https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Born at the Right Time](https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x) | 3:44 |
-| 98 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 |
+| 97 | [Getting It Right](https://open.spotify.com/track/3W2DvPUsPGyCbfBZEgqPn8) | [Caitlin Rose](https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM), [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Getting It Right](https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj) | 2:50 |
+| 98 | [Born at the Right Time](https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Born at the Right Time](https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x) | 3:44 |
 | 99 | [Dynamite](https://open.spotify.com/track/2WDY2kjGeNmhb8UwKmixJi) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Dynamite](https://open.spotify.com/album/5KNRIU3f5Gmmf6HJggcBGq) | 3:21 |
 | 100 | [Daniel](https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Daniel](https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb) | 3:40 |
 

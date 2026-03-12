@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-274 songs - 14 hr 7 min
+275 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-05-14 | 2024-09-30 |
 | [even forever](https://open.spotify.com/track/4ub3Sf9B9BWNBKAIVgywc6) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:32 | 2025-05-31 |  |
 | [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 | 2024-11-24 |  |
+| [Eyes Closed](https://open.spotify.com/track/5io1H6YxPsFS7wxwHMrVCr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions: An Unexpected Turn of Events](https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE) | 2:25 | 2026-03-11 |  |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2024-02-07 |  |
 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 | 2024-02-07 |  |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2024-02-07 |  |
@@ -118,7 +119,7 @@
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-11 |  |
 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\) \- From “Lyle, Lyle, Crocodile” Soundtrack](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 | 2024-02-07 |  |
 | [Heartbroken](https://open.spotify.com/track/6Cw8aqDK5rDH7iL12ROlVP) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS) | [Heartbroken](https://open.spotify.com/album/265wK1CaRM8AHpZXxVkzad) | 2:57 | 2025-02-02 | 2025-02-08 |
-| [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 | 2024-02-07 | 2025-12-09 |
+| [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 | 2024-02-07 |  |
 | [Heartbroken \- Jessie Version](https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:17 | 2024-02-07 |  |
 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 | 2024-02-07 | 2026-02-01 |
 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 | 2026-01-31 |  |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > The new & hottest K\-Pop is here! \(Cover: BLACKPINK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,081,701 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,082,406 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GO](https://open.spotify.com/track/0XanaXeMJJ4VdjWzwok7ZI) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 3:15 |
 | 2 | [RUDE!](https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [RUDE!](https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s) | 3:20 |
-| 3 | [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 |
-| 4 | [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 |
-| 5 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 |
+| 3 | [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 |
+| 4 | [404 \(New Era\)](https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc) | 2:59 |
+| 5 | [BLACKHOLE](https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF) | 3:14 |
 | 6 | [Adrenaline](https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.4](https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk) | 3:39 |
 | 7 | [Moonwalkin'](https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [SHOT CALLERS](https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR) | 3:28 |
 | 8 | [SPAGHETTI](https://open.spotify.com/track/4ly7INe0YNvJNZYXnp85PH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 |
 | 50 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 
-Snapshot ID: `AAAAAKcxmbuAzqZjg6rY422IqfeDpp2H`
+Snapshot ID: `AAAAAJfgl18qEt5qSZVKjbhSdLuirbeg`

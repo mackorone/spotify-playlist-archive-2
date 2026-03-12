@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-76 songs - 3 hr 36 min
+77 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Routines](https://open.spotify.com/track/30prE2I2aX23gTOhEVt1vF) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavy Riyyaaz](https://open.spotify.com/artist/3E3EEtTlriPOWoIdyPTiX7), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC) | [Routines](https://open.spotify.com/album/2tXpAjI4U6a7ieZaaSOMfm) | 2:28 | 2025-10-17 |  |
 | [Rumal Reshmi](https://open.spotify.com/track/6cFwgWimXnQGdGrvgmrouA) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Proud Jawani](https://open.spotify.com/album/0TK4ld6smZ0ELX3e0GdksR) | 3:01 | 2025-10-17 |  |
 | [Sham Di Laali](https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Navvi](https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 2:48 | 2025-10-17 |  |
+| [Shehar](https://open.spotify.com/track/72rbC8wTjkxwgxQmEsiSCd) | [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Supreme Sidhu](https://open.spotify.com/artist/1ZepPUbPtyDgmq1ktCLqcN) | [Shehar](https://open.spotify.com/album/1WJ30eW5RPZkSRxfRa3gZk) | 2:15 | 2026-03-11 |  |
 | [Sift](https://open.spotify.com/track/3ubdbuynat3QLfKtdtJ5BH) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [Priceless](https://open.spotify.com/album/3tZYMTAlUIewhmkP0CFgyE) | 1:58 | 2025-10-17 |  |
 | [Sirra](https://open.spotify.com/track/3QsGq1Xd1n8qc9hwSPzQgj) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:26 | 2025-10-17 |  |
 | [Sleepless](https://open.spotify.com/track/1RHd5TlU3JZRnmU7vCIu2l) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [prodssd](https://open.spotify.com/artist/6ht8GFA7fw7HsrExgzBqFS) | [From The Vault](https://open.spotify.com/album/5vQqYDEX8meQm9UJoFAC2b) | 2:24 | 2025-11-11 | 2025-11-25 |
@@ -83,6 +84,6 @@
 | [You're U Tho](https://open.spotify.com/track/7E4EhLK8mG4ORi3QR52r2A) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:03 | 2025-10-17 |  |
 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 | 2025-10-17 |  |
 | [Zero Cares](https://open.spotify.com/track/57XP21lBcIam7LS72yDFFe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Zero Cares](https://open.spotify.com/album/2IFRgC80176V6oTn1nna5B) | 2:29 | 2025-12-10 |  |
-| [Zindagi Chill \( Without Rap \)](https://open.spotify.com/track/6qkIPklOHNKcK7seo0JMnQ) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Zindagi Chill \( Without Rap \)](https://open.spotify.com/album/11Gu0MzhiiwyNfhM6GYvVt) | 2:45 | 2025-11-26 |  |
+| [Zindagi Chill \( Without Rap \)](https://open.spotify.com/track/6qkIPklOHNKcK7seo0JMnQ) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Zindagi Chill \( Without Rap \)](https://open.spotify.com/album/11Gu0MzhiiwyNfhM6GYvVt) | 2:45 | 2025-11-26 | 2026-03-12 |
 
 \*This playlist was first scraped on 2025-10-21. Prior content cannot be recovered.

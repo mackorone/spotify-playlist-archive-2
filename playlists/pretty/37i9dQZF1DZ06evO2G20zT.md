@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,918 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,959 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 13 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 |
 | 14 | [Pressure](https://open.spotify.com/track/0yLPupVmWzIthRHesuR5Wt) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:39 |
 | 15 | [247](https://open.spotify.com/track/4IBFL0LGePPUtRt6trsAvE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Billion Solar](https://open.spotify.com/artist/34939zwBQsClP6Jo194PVo), [Nerryckole](https://open.spotify.com/artist/4q5MWh4frjCKoqo9OJBWSG) | [247](https://open.spotify.com/album/5ByH5b4vGuYOH3g6UmjM0Z) | 2:39 |
-| 16 | [Set Up](https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:04 |
-| 17 | [Different Pattern](https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:03 |
+| 16 | [Different Pattern](https://open.spotify.com/track/46oyXrPbCSbk0TLJ1f7w6K) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC) | 2:03 |
+| 17 | [Set Up](https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:04 |
 | 18 | [HOW ARE YOU](https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:38 |
 | 19 | [Realize](https://open.spotify.com/track/37xumKXReRyER0jlfM3iVL) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Trench Kid \(Deluxe Edition\)](https://open.spotify.com/album/3Uj9cMWx6MjmIuXIK0NHl2) | 2:55 |
 | 20 | [Emo \(Remix\)](https://open.spotify.com/track/1fBzU9kseA8Tmq8rV2R1eC) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:36 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2G20zT.md) - [plain]
 | 48 | [Billion Dollar](https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:24 |
 | 49 | [BD Baby](https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:12 |
 
-Snapshot ID: `aa4NgAAAAADsf0WvnLVTYK/b4laaMQZM`
+Snapshot ID: `aa9fAAAAAADe6dJqCVVd9UsDkCu845fe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 
 > Let's go! 👟
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,213 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,394 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZq91oLsHZvy.md) - [plain]
 | 94 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 95 | [Wake Me Up](https://open.spotify.com/track/4kSCNra5VuD1ZfiwAe8bTD) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 4:23 |
 | 96 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
-| 97 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 |
-| 98 | [One Thing Left to Try](https://open.spotify.com/track/52pWggDlN5mVeX111i06PP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:20 |
+| 97 | [One Thing Left to Try](https://open.spotify.com/track/52pWggDlN5mVeX111i06PP) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:20 |
+| 98 | [I'm Not Gonna Teach Your Boyfriend How To Dance With You](https://open.spotify.com/track/6fcZNs8sOkLwMK2NPzfVWC) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/5VrF6FtM8ZJcA3NcGN2AM1) | 3:37 |
 | 99 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 100 | [End Of Summer](https://open.spotify.com/track/7fLYOlthh2owNFQqrYUffE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 7:12 |
 

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,008 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,018 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [stranger](https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 3:34 |
 | 2 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 3 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 |
-| 4 | [From Time](https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 5:22 |
+| 4 | [Post to Be \(feat\. Chris Brown & Jhene Aiko\)](https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:46 |
 | 5 | [my mine](https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:01 |
 | 6 | [While We're Young](https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 3:56 |
 | 7 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 |
-| 8 | [Post to Be \(feat\. Chris Brown & Jhene Aiko\)](https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sex Playlist](https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D) | 3:46 |
+| 8 | [From Time](https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA) | 5:22 |
 | 9 | [2 seconds \- Bonus](https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 2:32 |
 | 10 | [I Know](https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:19 |
 | 11 | [Bed Peace](https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xhrLa.md) - [plain]
 | 49 | [Break](https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Break](https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px) | 3:16 |
 | 50 | [First Fuck](https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [First Fuck](https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf) | 3:25 |
 
-Snapshot ID: `aa4NgAAAAAAeLCTsHcrprqQodTtNSWdq`
+Snapshot ID: `aa9fAAAAAACGwa1UW+1DJYUHlJL0VInG`

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135683,
+  "num_followers": 135689,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+      "duration_ms": 230546,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
     },
     {
       "added_at": "2026-03-06 05:00:18",
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 230546,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     },
     {
       "added_at": "2026-03-06 05:00:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Fame Is A Gun",
-        "url": "https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Fame Is A Gun",
-      "url": "https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat"
-    },
-    {
-      "added_at": "2026-03-06 05:00:18",
-      "album": {
         "name": "Clay Pigeons",
         "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 230666,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Fame Is A Gun",
+        "url": "https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Fame Is A Gun",
+      "url": "https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat"
     },
     {
       "added_at": "2026-03-06 05:00:18",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Yukon",
-        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Yukon",
-      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
-    },
-    {
-      "added_at": "2026-03-06 05:00:18",
-      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Yukon",
+        "url": "https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK"
     },
     {
       "added_at": "2026-03-06 05:00:18",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "From Now On",
-        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
       },
       "artists": [
         {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 242746,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
+      "duration_ms": 371448,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
     },
     {
       "added_at": "2026-03-06 05:00:18",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
+        "name": "From Now On",
+        "url": "https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 371448,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
+      "duration_ms": 242746,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5"
     },
     {
       "added_at": "2026-03-06 05:00:18",

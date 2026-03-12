@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,146 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,158 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 24 | [She Looks So Perfect](https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE) | 3:22 |
 | 25 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 |
 | 26 | [Geronimo](https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97) | 3:38 |
-| 27 | [High ft\. Nicole Millar](https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High](https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF) | 3:48 |
-| 28 | [Angels Brought Me Here](https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Just As I Am](https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km) | 3:59 |
+| 27 | [Angels Brought Me Here](https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Just As I Am](https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km) | 3:59 |
+| 28 | [High ft\. Nicole Millar](https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High](https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF) | 3:48 |
 | 29 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 |
 | 30 | [Saturday Sun](https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:34 |
 | 31 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 53 | [Weir](https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb) | [Killing Heidi](https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP) | [Reflector](https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip) | 4:04 |
 | 54 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
 | 55 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
-| 56 | [Amazing](https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i) | [Alex Lloyd](https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy) | [Watching Angels Mend](https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6) | 3:23 |
-| 57 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
+| 56 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
+| 57 | [Amazing](https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i) | [Alex Lloyd](https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy) | [Watching Angels Mend](https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6) | 3:23 |
 | 58 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
 | 59 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
 | 60 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:10 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 65 | [Do You Remember](https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:54 |
 | 66 | [Burn](https://open.spotify.com/track/1XsFwPxVyhouqW6Qu71Ygm) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Greatest Hits 1994 \- 2004](https://open.spotify.com/album/3eArVEbkPCtNGoCFkFCftz) | 4:24 |
 | 67 | [What About Me](https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [That's What I'm Talking About](https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z) | 3:21 |
-| 68 | [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Mousetrap Heart](https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7) | 3:52 |
-| 69 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
+| 68 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
+| 69 | [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Mousetrap Heart](https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7) | 3:52 |
 | 70 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
 
 Snapshot ID: `AAAAAJwzJ+eEbmxIIWEHOfQNMAjVi6/O`

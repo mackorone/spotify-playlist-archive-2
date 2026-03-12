@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Harry Styles, Naaz, MEROL, Willem, OYSTER en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,240 likes - 102 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,235 likes - 102 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 13 | [Jump \(feat\. Steve Vai & Travis Barker\) \- Coca\-Cola Anthem for the FIFA World Cup 26™](https://open.spotify.com/track/3rw7X1utxqRRCig2Bxua7K) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Jump \(feat\. Steve Vai & Travis Barker\) \[Coca\-Cola Anthem for the FIFA World Cup 26™\]](https://open.spotify.com/album/3y7padDq5LgNJrzo9cYXrx) | 3:28 |
 | 14 | [Mad](https://open.spotify.com/track/1Xc34ytVqT7oijRyNsoeQh) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [Loyal Friend Of The Night](https://open.spotify.com/album/2jtjDxSNYPwYG83iU8LQml) | 3:22 |
 | 15 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
-| 16 | [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 |
+| 16 | [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 |
 | 17 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
 | 18 | [Jon Snow](https://open.spotify.com/track/0CnM3vnBnjiIe2RqjmLJSM) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Jon Snow](https://open.spotify.com/album/3T9DIkvFTq5i5VRWS9tq8l) | 2:28 |
 | 19 | [Party & Bullshit](https://open.spotify.com/track/5MQi0TlGBa0DZ8OsoDXV8c) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Party & Bullshit](https://open.spotify.com/album/0AxiKisKj3FucPCpPHvtM3) | 1:54 |

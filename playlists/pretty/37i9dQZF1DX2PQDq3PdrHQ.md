@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,235 likes - 178 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,381 likes - 178 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 177 | [Lucid Dream](https://open.spotify.com/track/0ESvr3vqkGTKqyTI35LIEA) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Lucid Dream](https://open.spotify.com/album/0o4EfuIuCZFgiEv26JUzky) | 2:37 |
 | 178 | [you don't know what you did to me](https://open.spotify.com/track/4H6POdROKcRiPChvaK4HWY) | [hushfall](https://open.spotify.com/artist/6wPZ8OOl7FlpRa1aUejY47) | [you don't know what you did to me](https://open.spotify.com/album/74wjxzvCKQfn80ecFDPL0E) | 2:02 |
 
-Snapshot ID: `AAAAAI27vFY3ErlSyKlDS3DpuK0A0Yt6`
+Snapshot ID: `AAAAAHiyjUVa3/7vfYqC3WuIMb7R5n9C`

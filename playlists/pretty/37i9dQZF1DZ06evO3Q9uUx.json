@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15941,
+  "num_followers": 15946,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADv1NSjxI9Os92W+xw38a1R",
+  "snapshot_id": "aa9fAAAAAACLmpa35/q50cKTaxHnVyG6",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 243864,
-      "name": "Miami (feat. BIA)",
-      "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "USB002 REMIXES",
         "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 161739,
       "name": "..FEISTY - Oppidan remix",
       "url": "https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 243864,
+      "name": "Miami (feat. BIA)",
+      "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIRTHDAY BEHAVIOR",
+        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "BIRTHDAY BEHAVIOR",
+      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
         "url": "https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 197461,
       "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
       "url": "https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIRTHDAY BEHAVIOR",
-        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "BIRTHDAY BEHAVIOR",
-      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIANCA",
-        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "HARD WAY (feat. Becky G)",
-      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DADE",
         "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 104415,
       "name": "DADE",
       "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "HARD WAY (feat. Becky G)",
+      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
-      },
-      "artists": [
-        {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FAST X (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
       },
@@ -707,26 +687,6 @@
       "duration_ms": 43200,
       "name": "Furious",
       "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "blame the chat",
-        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 139680,
-      "name": "fine shyt (feat. BIA)",
-      "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
     },
     {
       "added_at": null,
@@ -751,6 +711,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+      },
+      "artists": [
+        {
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blame the chat",
+        "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "fine shyt (feat. BIA)",
+      "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIKI",
         "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
@@ -771,6 +771,38 @@
       "duration_ms": 155666,
       "name": "Labels. (ft. Moneybagg Yo, BIA)",
       "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+        "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "duration_ms": 231325,
+      "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
+      "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
     },
     {
       "added_at": null,
@@ -811,38 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
-        "url": "https://open.spotify.com/album/6juC0gq6OcrLCQGGzDg5LC"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
-        },
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 231325,
-      "name": "GBAD (feat. MILLI & YOUHA) [Remix]",
-      "url": "https://open.spotify.com/track/4G2a4inKSsFc0pjyPP4dKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR CERTAIN",
         "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
       },
@@ -855,6 +855,26 @@
       "duration_ms": 149497,
       "name": "COVER GIRL",
       "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
     },
     {
       "added_at": null,
@@ -879,26 +899,6 @@
       "duration_ms": 172078,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Eat It Up (feat. BIA)",
-      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
     },
     {
       "added_at": null,

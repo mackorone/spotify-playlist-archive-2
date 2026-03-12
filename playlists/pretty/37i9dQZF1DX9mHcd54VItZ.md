@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: We Kill Cowboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,005 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,009 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 44 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
 | 45 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 46 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
-| 47 | [Friends Like You](https://open.spotify.com/track/2ITbuEDOj1hel1w9dU4xxO) | [JaeXlynne](https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz) | [Friends Like You](https://open.spotify.com/album/5YVXCkYnYhkdkzeZ3lrEb6) | 2:08 |
-| 48 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
+| 47 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
+| 48 | [Friends Like You](https://open.spotify.com/track/2ITbuEDOj1hel1w9dU4xxO) | [JaeXlynne](https://open.spotify.com/artist/6ExJNNZMX7q3uIaZCDSFcz) | [Friends Like You](https://open.spotify.com/album/5YVXCkYnYhkdkzeZ3lrEb6) | 2:08 |
 | 49 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
-| 50 | [Ek Dink Te Veel](https://open.spotify.com/track/0nJcHyQST727NW3jNhzlFh) | [Schwabie](https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ), [Tylo](https://open.spotify.com/artist/299MvNkYz1bIwdWQpffHKr) | [Ek Dink Te Veel](https://open.spotify.com/album/6ceCa4ISJm6S8fU2W6b75i) | 3:00 |
+| 50 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
 
 Snapshot ID: `AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH`

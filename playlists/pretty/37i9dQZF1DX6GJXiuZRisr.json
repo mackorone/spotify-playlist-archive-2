@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1610196,
+  "num_followers": 1610245,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 224731,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
         "name": "Distraction",
         "url": "https://open.spotify.com/album/18iJol0H5J6ApQzwRkniXp"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 235187,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/2XCc7Y5BhnBK29r9mhFXZG"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 224731,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
         "name": "Heaven Knows",
         "url": "https://open.spotify.com/album/5k8cHlDuk2szbc6VlPaL5L"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 233604,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/3TnVOV85DaxEMP02xWbQfH"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+        "name": "SYNCHRONICITY",
+        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
         }
       ],
-      "duration_ms": 204593,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
+      "duration_ms": 257641,
+      "name": "million angels",
+      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1379,6 +1375,26 @@
       "duration_ms": 225361,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/312IUwFHyqdRyZ9Kx8ErXv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 204593,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7zVIFnJMkXrYfxnBJxQtNF"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1427,6 +1443,38 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
+        "name": "Tibet",
+        "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Tibet",
+      "url": "https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 207638,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
         "name": "Tears Don\u2019t Fall",
         "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
       },
@@ -1459,22 +1507,6 @@
       "duration_ms": 305235,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 207638,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "SYNCHRONICITY",
-        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        }
-      ],
-      "duration_ms": 257641,
-      "name": "million angels",
-      "url": "https://open.spotify.com/track/5A19V4mQ66x8JTz6WSqW5x"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
         "name": "IT MIGHT BE THE DRUGS",
         "url": "https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 219892,
       "name": "IT MIGHT BE THE DRUGS",
       "url": "https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
-        "name": "Tibet",
-        "url": "https://open.spotify.com/album/1AEnheMsQcR7yzsAJLh9dm"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Tibet",
-      "url": "https://open.spotify.com/track/0iVIz19bKMM87UUOkBWoJa"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1583,6 +1583,22 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1643,22 +1659,6 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3msvLBxKrUza6uM1VjXLsI"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/4eQXDVpJW0P2uj59IuoKrh"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
         "name": "Live My Life",
         "url": "https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 241920,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Pretoria",
+        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 207840,
+      "name": "Pretoria",
+      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1751,42 +1767,6 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Pretoria",
-        "url": "https://open.spotify.com/album/05tbS23ZFVmITyuwgFWFvO"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 207840,
-      "name": "Pretoria",
-      "url": "https://open.spotify.com/track/5ViijhC2983J1B8Bo1wbbo"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
-        "name": "Caught in a Moment",
-        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        }
-      ],
-      "duration_ms": 255285,
-      "name": "Caught in a Moment",
-      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
         "name": "Cheating Heart",
         "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Caught in a Moment",
+        "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 255285,
+      "name": "Caught in a Moment",
+      "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -1943,26 +1943,18 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Wherever You Go",
-        "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
       },
       "artists": [
         {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "B Jones",
-          "url": "https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq"
-        },
-        {
-          "name": "EKE",
-          "url": "https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I"
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
         }
       ],
-      "duration_ms": 197272,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
     }
   ],
   "unique_name": "Night Rider",

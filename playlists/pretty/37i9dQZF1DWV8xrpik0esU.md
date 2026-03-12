@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,967 likes - 80 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,988 likes - 80 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 26 | [The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:11 |
 | 27 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
 | 28 | [The Boy Is Mine](https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:54 |
-| 29 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
-| 30 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 |
+| 29 | [Show Me the Meaning of Being Lonely](https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:54 |
+| 30 | [Boombastic](https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Boombastic](https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv) | 4:09 |
 | 31 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 32 | [Always Be My Baby](https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:18 |
 | 33 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
@@ -68,23 +68,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 58 | [All for Love](https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [If We Fall in Love Tonight](https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6) | 4:41 |
 | 59 | [Return To Innocence](https://open.spotify.com/track/2UKkLqST2xWpK8n1b0Xr5Z) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Cross Of Changes](https://open.spotify.com/album/1t4hf9yHMQBoTz2CxTBJKj) | 4:15 |
 | 60 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
-| 61 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
+| 61 | [Thank U](https://open.spotify.com/track/3CVDronuSnhguSUguPoseM) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Supposed Former Infatuation Junkie](https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp) | 4:18 |
 | 62 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
-| 63 | [Thank U](https://open.spotify.com/track/3CVDronuSnhguSUguPoseM) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Supposed Former Infatuation Junkie](https://open.spotify.com/album/2QXT4rGSfqjqfgpZ059yKp) | 4:18 |
+| 63 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
 | 64 | [Sleeping Satellite](https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR) | [Tasmin Archer](https://open.spotify.com/artist/6EgtYGZoF5jLydCpz43xu1) | [Great Expectations](https://open.spotify.com/album/4W5bJ5C6XGKEGWQNvhsSSY) | 4:41 |
 | 65 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
-| 66 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
-| 67 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
+| 66 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
+| 67 | [Stop](https://open.spotify.com/track/3FteycP8CaXS1MhjcXekVT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 3:24 |
 | 68 | [Crush](https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Jennifer Paige](https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz) | 3:20 |
 | 69 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
 | 70 | [When You're Gone](https://open.spotify.com/track/7p9dd71JR2ucoAuO1Sy0VZ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/1xF1nKu3UL84l7CofB4QBV) | 3:24 |
-| 71 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
-| 72 | [You](https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [You](https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW) | 4:32 |
+| 71 | [You](https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [You](https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW) | 4:32 |
+| 72 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
 | 73 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 |
 | 74 | [Tearin' up My Heart \- Radio Edit](https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:29 |
 | 75 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 |
-| 76 | [Viva Forever](https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 5:10 |
-| 77 | [Fastlove, Pt\. 1](https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:24 |
+| 76 | [Fastlove, Pt\. 1](https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:24 |
+| 77 | [Viva Forever](https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 5:10 |
 | 78 | [Runaway](https://open.spotify.com/track/6csX1JjmeoLhGqMBXGnZF0) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [Forgiven, Not Forgotten](https://open.spotify.com/album/4acB71ZhsfYGdTdqdbpzLK) | 4:25 |
 | 79 | [Torn](https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Glorious: The Singles 97\-07](https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX) | 4:04 |
 | 80 | [The Power of Good\-Bye](https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:11 |

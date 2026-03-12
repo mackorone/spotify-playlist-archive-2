@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,884 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,914 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 12 | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40/66](https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Eladio Carrion: Bzrp Music Sessions, Vol\. 40/66](https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb) | 2:44 |
 | 13 | [Kemba Walker](https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 2:32 |
 | 14 | [Pensabas](https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Pensabas](https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2) | 4:52 |
-| 15 | [Hey Lil Mama](https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:36 |
-| 16 | [Flores en Anónimo](https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
+| 15 | [Flores en Anónimo](https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:50 |
+| 16 | [Hey Lil Mama](https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:36 |
 | 17 | [Todo o Nada](https://open.spotify.com/track/2zdHRQTOBDk8mM8xBzziFh) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:39 |
 | 18 | [Romeo y Julieta](https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 3:26 |
 | 19 | [Primer Lugar](https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Primer Lugar](https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vZHOp.md) - [plain]
 | 49 | [FUMETEO \- Remix](https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:34 |
 | 50 | [Mi Error](https://open.spotify.com/track/4o4HQPKJQEsPq36BJqWWUr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:35 |
 
-Snapshot ID: `aa4NgAAAAAA/bCK6H+gaFO65l3BpGFTr`
+Snapshot ID: `aa9fAAAAAAArxSuBiz0EcRsJyjpAza88`

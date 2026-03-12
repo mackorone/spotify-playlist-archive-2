@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: Coco K)",
+  "description": "New & best K-Electronic music is here. (Cover: Silly Silky (\uc2e4\ub9ac\uc2e4\ud0a4))",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -486,6 +486,24 @@
       "duration_ms": 180495,
       "name": "Amerindio",
       "url": "https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7"
+    },
+    {
+      "album": {
+        "name": "Apple watch",
+        "url": "https://open.spotify.com/album/12kNfvT3ygKMnUTrEzc9DS"
+      },
+      "artists": [
+        {
+          "name": "nineorzero",
+          "url": "https://open.spotify.com/artist/1NGZSA9GWeApTgvQKYspvW"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Apple watch",
+      "url": "https://open.spotify.com/track/6pplJ5Xl5AagfuyMO1Uo0x"
     },
     {
       "album": {
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 116000,
       "name": "luv",
       "url": "https://open.spotify.com/track/2SohrGJ5UVFcdHe7VSq6Z3"
@@ -4492,7 +4510,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 216386,
       "name": "Red Flavor - Mar Vista Remix",
       "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
@@ -4770,6 +4788,24 @@
       "duration_ms": 194569,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/6F3cF9xuPXYa6vZKrAQOlo"
+    },
+    {
+      "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
     },
     {
       "album": {

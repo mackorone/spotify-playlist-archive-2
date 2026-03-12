@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,265 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,361 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33jFle.md) - [plain]
 | 49 | [La Misma Gran Señora](https://open.spotify.com/track/6GdKaRR9Rumxm8GTH3bg3N) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Misma Gran Señora](https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5) | 3:01 |
 | 50 | [El Destino](https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [El Primer Lugar](https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa) | 4:38 |
 
-Snapshot ID: `aa4NgAAAAABfDxm1EWaouCU8Zcl1kw4H`
+Snapshot ID: `aa9fAAAAAAAAZttbz0WTjtgEcur8kKjZ`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15766,
+  "num_followers": 15769,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,22 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
-        "name": "Wapa",
-        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
+        "name": "SUPERARTE",
+        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
       },
       "artists": [
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 159776,
-      "name": "Wapa",
-      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
+      "duration_ms": 207984,
+      "name": "CHAMPAGNE",
+      "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
     },
     {
       "added_at": "2026-02-27 04:59:16",
@@ -251,22 +255,18 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
-        "name": "SUPERARTE",
-        "url": "https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g"
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 207984,
-      "name": "CHAMPAGNE",
-      "url": "https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv"
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "added_at": "2026-02-27 04:59:16",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
+        "name": "Yo Quisiera",
+        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
+    },
+    {
+      "added_at": "2026-02-27 04:59:16",
+      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
-    },
-    {
-      "added_at": "2026-02-27 04:59:16",
-      "album": {
-        "name": "Yo Quisiera",
-        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
     },
     {
       "added_at": "2026-02-27 04:59:16",

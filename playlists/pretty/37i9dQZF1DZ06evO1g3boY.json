@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173893,
+  "num_followers": 173899,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAASjpw8CP4pz8ovn+IDMIlT",
+  "snapshot_id": "aa9fAAAAAAB/lOSmoMkA91FvghfSHgq4",
   "tracks": [
     {
       "added_at": null,
@@ -891,6 +891,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mil Coisas",
+        "url": "https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Mil Coisas",
+      "url": "https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -915,22 +935,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mil Coisas",
-        "url": "https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W"
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Mil Coisas",
-      "url": "https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK"
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Evandro Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "S\u00f3 Mais Uma Noite - Live",
+      "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
     },
     {
       "added_at": null,
@@ -975,46 +1015,6 @@
       "duration_ms": 390002,
       "name": "Batucada dos Nossos Tant\u00e3s - Vou Festejar - Ao Vivo",
       "url": "https://open.spotify.com/track/069ceJiGEkMnK31CYnL08v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Evandro Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "S\u00f3 Mais Uma Noite - Live",
-      "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     },
     {
       "added_at": null,

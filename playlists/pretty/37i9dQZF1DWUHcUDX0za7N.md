@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Fimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,242 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,280 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 22 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 |
 | 23 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
 | 24 | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR) | 3:43 |
-| 25 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
-| 26 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 |
+| 25 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 |
+| 26 | [Mortal Kombat](https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Mortal Kombat](https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr) | 2:01 |
 | 27 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 |
 | 28 | [Kilogram](https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Kilometer II](https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ) | 2:03 |
 | 29 | [Get Better](https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Get Better](https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy) | 3:15 |
-| 30 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
-| 31 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 |
+| 30 | [PITY THIS BOY \(with Victony\)](https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [PITY THIS BOY](https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk) | 2:45 |
+| 31 | [Fire](https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Hat\-Trick](https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo) | 2:17 |
 | 32 | [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 |
 | 33 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 |
 | 34 | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5) | 2:50 |

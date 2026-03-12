@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 479,315 likes - 50 songs - 2 hr 41 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 479,468 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 7 | [Oopsie Daisy](https://open.spotify.com/track/2zhL0I5FedP2EflWAoG007) | [€cht](https://open.spotify.com/artist/3nIMQzFVaVlQ3MSFSy4RtN), [TRIM ACTIVITY](https://open.spotify.com/artist/7vhTrDgMlBodabX4mzFxWT), [De Ryk](https://open.spotify.com/artist/2IXubm3QIS64fW62Z9RLWe) | [Straight Outta Kitchen, Vol\. 1](https://open.spotify.com/album/0e3oBPSQzeVdviD1OLC3mk) | 2:45 |
 | 8 | [Daddy's Song feat\. Angelica Idalia](https://open.spotify.com/track/03Yit4l0bZgwgejTQIjeIR) | [Dash D.U.B.](https://open.spotify.com/artist/3IjymlI7EtFdNh6wsG9fyh) | [Daddy's Song feat\. Angelica Idalia](https://open.spotify.com/album/3MIMgYHky5eHVi5c0N3pC8) | 3:53 |
 | 9 | [Backwards \(Visions\)](https://open.spotify.com/track/3l8grkUIBHJ6VhxkukVdg7) | [Bar$](https://open.spotify.com/artist/3JcrKP3rr9FHGJfyBZ8Jmu) | [Monatomic](https://open.spotify.com/album/2fB7dnbusd7kL18SRjofbc) | 3:46 |
-| 10 | [Summertime](https://open.spotify.com/track/5oLdNMbesH73Wmr2S2aKXD) | [DJ ACE NYC & HIGH SEASON](https://open.spotify.com/artist/7tjbJgm5t0urNLxAcSadHj) | [Summertime](https://open.spotify.com/album/4pGRSYZWnZ4QHU376cYhLL) | 3:28 |
+| 10 | [Summertime \(feat\. High Season\)](https://open.spotify.com/track/5oLdNMbesH73Wmr2S2aKXD) | [DJ ACE NYC](https://open.spotify.com/artist/3NggH17RWRTlazacK3wG0o), [High Season](https://open.spotify.com/artist/3UI5HLvaA3hJWqN3qPu82n) | [Summertime \(feat\. High Season\)](https://open.spotify.com/album/4pGRSYZWnZ4QHU376cYhLL) | 3:28 |
 | 11 | [Juice](https://open.spotify.com/track/6Gv7aBmUJefvV8GWQrc4wl) | [Shai Gy](https://open.spotify.com/artist/6vGJOsKasQB3HZpsLPTZl8) | [Juice](https://open.spotify.com/album/1fDEUcwVJLPU472G3aimob) | 2:40 |
 | 12 | [Sadaam'em](https://open.spotify.com/track/35PI5CYK9uQyxaRffi2fEE) | [P Able & J Chapsworth](https://open.spotify.com/artist/0YBfY5RhZ9VEGJahgVbDjX) | [The BeezNeez](https://open.spotify.com/album/1X6OGJgG3047WmaBIXVO0b) | 2:37 |
 | 13 | [Follow](https://open.spotify.com/track/4QbJxfMo9UGjjPbrDgIzdy) | [6spd](https://open.spotify.com/artist/0z4Xd95tgkcfZqwkeryKMj) | [Follow](https://open.spotify.com/album/5U0cbPMpJiPC6i2D00l7oO) | 3:21 |

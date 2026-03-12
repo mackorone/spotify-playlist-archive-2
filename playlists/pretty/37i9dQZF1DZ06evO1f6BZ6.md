@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,503 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,506 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 35 | [Get Drunk And Be Somebody](https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 2:58 |
 | 36 | [Trailerhood](https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 2:53 |
 | 37 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 |
-| 38 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
-| 39 | [Honkytonk U](https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:34 |
+| 38 | [Honkytonk U](https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 3:34 |
+| 39 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
 | 40 | [Sailboat for Sale](https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:08 |
 | 41 | [If I Was Jesus](https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:44 |
 | 42 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 45 | [Cryin' for Me \(Wayman's Song\)](https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 4:45 |
 | 46 | [She's A Hottie \- Single Version](https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:08 |
 | 47 | [Ain't No Thang](https://open.spotify.com/track/0rRXZvjL2ZHqq3OX3Dp62q) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:27 |
-| 48 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 |
-| 49 | [Big Blue Note](https://open.spotify.com/track/1aF6yVzmxhTyVChoLMD2JI) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 2:57 |
+| 48 | [Big Blue Note](https://open.spotify.com/track/1aF6yVzmxhTyVChoLMD2JI) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Honkytonk University](https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT) | 2:57 |
+| 49 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 |
 | 50 | [Getcha Some](https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:17 |
 
-Snapshot ID: `aa4NgAAAAACAYxrt2SOIfy5sQ3lj6haK`
+Snapshot ID: `aa9fAAAAAACS2MUK3F6AvNBQaXnEChsS`

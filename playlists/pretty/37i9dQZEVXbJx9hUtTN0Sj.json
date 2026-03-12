@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Belgium.",
-  "num_followers": 23114,
+  "num_followers": 23117,
   "original_name": "Viral 50 - Belgium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MUTO6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "LET ME BE",
         "url": "https://open.spotify.com/album/1s8YhJRqFAcpcA5DoF1cQg"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5HJVMb4sCeGiiHOwQeYO3j"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "SRT FULL NWAR",
         "url": "https://open.spotify.com/album/1ami8fmVq2Jv4F1tNIS0wC"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6US5ckvpkICMbKb3lAvHLX"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Inkebrantable (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/61AAhksxYxU0hukOwmMNTR"
@@ -81,39 +81,7 @@
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
@@ -129,7 +97,39 @@
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Le Petit P\u00eacheur",
         "url": "https://open.spotify.com/album/1jjbImjSR9gTjqmbjTA4OB"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/7LBYUp2QeFNjNmfncY4DHU"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "SOLEIL",
         "url": "https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D"
@@ -161,10 +161,10 @@
       "url": "https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Kakalika",
-        "url": "https://open.spotify.com/album/7sv61tCfnb0kakjtRC9jVg"
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
       },
       "artists": [
         {
@@ -172,28 +172,12 @@
           "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
         }
       ],
-      "duration_ms": 181568,
+      "duration_ms": 181581,
       "name": "Kakalika",
-      "url": "https://open.spotify.com/track/5HHc3LV7smkNpx9JcvqsZa"
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ"
-      },
-      "artists": [
-        {
-          "name": "Jerri",
-          "url": "https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK"
-        }
-      ],
-      "duration_ms": 138897,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "ECLESIA",
         "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
@@ -209,7 +193,23 @@
       "url": "https://open.spotify.com/track/34BzcgDQc4mnP8A2umJiu9"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/2kTHdT585hkQkJVWrybzqQ"
+      },
+      "artists": [
+        {
+          "name": "Jerri",
+          "url": "https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK"
+        }
+      ],
+      "duration_ms": 138897,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Bazooka",
         "url": "https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Dancing on the ice",
         "url": "https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD"
@@ -241,10 +241,10 @@
       "url": "https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "RUDE!",
-        "url": "https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz"
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
       },
       "artists": [
         {
@@ -254,10 +254,50 @@
       ],
       "duration_ms": 200000,
       "name": "RUDE!",
-      "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Argent Sale - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
+      },
+      "artists": [
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Argent Sale - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Comme Caroline (feat. MC Solaar)",
+        "url": "https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq"
+      },
+      "artists": [
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Comme Caroline (feat. MC Solaar)",
+      "url": "https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "The Ketchup Song (Aserej\u00e9) [Remixes]",
         "url": "https://open.spotify.com/album/6YnzlbpPQR0Kwf1UzLi8ax"
@@ -281,63 +321,7 @@
       "url": "https://open.spotify.com/track/4X4HhhDKp3iLIRLwBorhZd"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Comme Caroline (feat. MC Solaar)",
-        "url": "https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq"
-      },
-      "artists": [
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Comme Caroline (feat. MC Solaar)",
-      "url": "https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "FUCK SHIT",
-        "url": "https://open.spotify.com/album/7ue6a2z9WbEAFG3sa70h3B"
-      },
-      "artists": [
-        {
-          "name": "26keuss",
-          "url": "https://open.spotify.com/artist/2BLicRE8Fcc5L2qthULtMi"
-        }
-      ],
-      "duration_ms": 125940,
-      "name": "PRINCES",
-      "url": "https://open.spotify.com/track/1GTYLpZ8axV5ZesUr513Kl"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Argent Sale - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE"
-      },
-      "artists": [
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Argent Sale - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
@@ -361,7 +345,7 @@
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "F*CK KLEINE",
         "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
@@ -381,23 +365,35 @@
       "url": "https://open.spotify.com/track/7pjRtk9nAPyU9zdyPQFFqi"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
-        "name": "That's The Way It Is",
-        "url": "https://open.spotify.com/album/76UXGwUst31tICFVctrWtw"
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
       },
       "artists": [
         {
-          "name": "Outliers",
-          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
         }
       ],
-      "duration_ms": 174960,
-      "name": "That's The Way It Is",
-      "url": "https://open.spotify.com/track/1SI0CweVotDCHDJ89eRVrQ"
+      "duration_ms": 306537,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Loco Loco",
         "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
@@ -417,39 +413,23 @@
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
-        "name": "F*CK KLEINE",
-        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+        "name": "FUCK SHIT",
+        "url": "https://open.spotify.com/album/7ue6a2z9WbEAFG3sa70h3B"
       },
       "artists": [
         {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+          "name": "26keuss",
+          "url": "https://open.spotify.com/artist/2BLicRE8Fcc5L2qthULtMi"
         }
       ],
-      "duration_ms": 91659,
-      "name": "Lekker voor je",
-      "url": "https://open.spotify.com/track/6zE95yeReUgUmNr6d4T7UU"
+      "duration_ms": 125940,
+      "name": "PRINCES",
+      "url": "https://open.spotify.com/track/1GTYLpZ8axV5ZesUr513Kl"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "GMK",
-        "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
-      },
-      "artists": [
-        {
-          "name": "WIXO & LA2S",
-          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
-        }
-      ],
-      "duration_ms": 125179,
-      "name": "GMK",
-      "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Finalement",
         "url": "https://open.spotify.com/album/1WoEnALYvkxwyotHB33GLT"
@@ -465,7 +445,39 @@
       "url": "https://open.spotify.com/track/7u5p9XVjsV9RBSTOp9Ws44"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "That's The Way It Is",
+        "url": "https://open.spotify.com/album/76UXGwUst31tICFVctrWtw"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        }
+      ],
+      "duration_ms": 174960,
+      "name": "That's The Way It Is",
+      "url": "https://open.spotify.com/track/1SI0CweVotDCHDJ89eRVrQ"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "GMK",
+        "url": "https://open.spotify.com/album/5x8V9vBC8E2OzJqzdYZv7V"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "duration_ms": 125179,
+      "name": "GMK",
+      "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -481,7 +493,23 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 91659,
+      "name": "Lekker voor je",
+      "url": "https://open.spotify.com/track/6zE95yeReUgUmNr6d4T7UU"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
@@ -497,7 +525,47 @@
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
@@ -525,27 +593,7 @@
       "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Afraid Of The Dark",
         "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
@@ -561,43 +609,7 @@
       "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Site 15",
-        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
-      },
-      "artists": [
-        {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        }
-      ],
-      "duration_ms": 236460,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "We Do What We Want (Edit)",
         "url": "https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa"
@@ -613,7 +625,7 @@
       "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
@@ -633,23 +645,7 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "ECLESIA",
-        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 183360,
-      "name": "WELCOME TO ECLESIA",
-      "url": "https://open.spotify.com/track/6NKOWPALQMpRLkh8891F0C"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Waar Was Je?",
         "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
@@ -665,59 +661,91 @@
       "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
-        "name": "Na Za D\u00e9sol\u00e9",
-        "url": "https://open.spotify.com/album/1rLDCAOf1YrN1viEJTelte"
+        "name": "Site 15",
+        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
       },
       "artists": [
         {
-          "name": "Black Cat",
-          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
         }
       ],
-      "duration_ms": 207600,
-      "name": "Na Za D\u00e9sol\u00e9",
-      "url": "https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18"
+      "duration_ms": 236460,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
-        "name": "She Knows Too Much",
-        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+        "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
         },
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
         }
       ],
-      "duration_ms": 213106,
-      "name": "She Knows Too Much",
-      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+      "duration_ms": 370666,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
-        "name": "BMW",
-        "url": "https://open.spotify.com/album/6cu1V5JlSGdB26I2WlrUrF"
+        "name": "ECLESIA",
+        "url": "https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH"
       },
       "artists": [
         {
-          "name": "Black Cat",
-          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
         }
       ],
-      "duration_ms": 145631,
-      "name": "BMW",
-      "url": "https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A"
+      "duration_ms": 183360,
+      "name": "WELCOME TO ECLESIA",
+      "url": "https://open.spotify.com/track/6NKOWPALQMpRLkh8891F0C"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Cipriani",
+        "url": "https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Amori Stupidi",
+      "url": "https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "Jean",
         "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
@@ -733,7 +761,39 @@
       "url": "https://open.spotify.com/track/4l3MfSQrxCWfUYUyE2sMy6"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+      },
+      "artists": [
+        {
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+        }
+      ],
+      "duration_ms": 191687,
+      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/6cu1V5JlSGdB26I2WlrUrF"
+      },
+      "artists": [
+        {
+          "name": "Black Cat",
+          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+        }
+      ],
+      "duration_ms": 145631,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/6e4MfehUZ1wzSPwbOG3N4A"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -753,7 +813,63 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "TRILLIUM HARDTEKK",
+        "url": "https://open.spotify.com/album/6qdWynMoPYbFY68Hofhn6O"
+      },
+      "artists": [
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+        },
+        {
+          "name": "Bearn",
+          "url": "https://open.spotify.com/artist/65W5I2tJzuSiZra9HeTW1V"
+        }
+      ],
+      "duration_ms": 92365,
+      "name": "TRILLIUM HARDTEKK",
+      "url": "https://open.spotify.com/track/7hPwUxGo7YgQFFYDynDQwp"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "She Knows Too Much",
+        "url": "https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "She Knows Too Much",
+      "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
+      "album": {
+        "name": "Na Za D\u00e9sol\u00e9",
+        "url": "https://open.spotify.com/album/1rLDCAOf1YrN1viEJTelte"
+      },
+      "artists": [
+        {
+          "name": "Black Cat",
+          "url": "https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Na Za D\u00e9sol\u00e9",
+      "url": "https://open.spotify.com/track/61CH0VrEAdCQuhuFitZr18"
+    },
+    {
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -769,111 +885,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
-      },
-      "artists": [
-        {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
-        }
-      ],
-      "duration_ms": 191687,
-      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Ma Fleur",
-        "url": "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ"
-      },
-      "artists": [
-        {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 371320,
-      "name": "To Build A Home",
-      "url": "https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Cipriani",
-        "url": "https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Amori Stupidi",
-      "url": "https://open.spotify.com/track/3WHBKLrTUAvqXmKUN7hCe8"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "B.M.S (by my side)",
-        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
-      },
-      "artists": [
-        {
-          "name": "Rambo goyard",
-          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "B.M.S (by my side)",
-      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "Terukir Di Bintang",
-        "url": "https://open.spotify.com/album/7aB1a1ifJVpp2bfbTQkCLa"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 181173,
-      "name": "Someone Out of Town",
-      "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
-      "album": {
-        "name": "KENZO",
-        "url": "https://open.spotify.com/album/0hbGYhRfD6QuQGinjwnNON"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        },
-        {
-          "name": "The Straikerz",
-          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "Shake That Bunda",
-      "url": "https://open.spotify.com/track/2zVfPMOeQsZEd3F1dt4SPJ"
-    },
-    {
-      "added_at": "2026-03-10 14:38:53",
+      "added_at": "2026-03-11 14:24:09",
       "album": {
         "name": "AWGAZI",
         "url": "https://open.spotify.com/album/17KKeHngp4vbAYAMRRgVSW"

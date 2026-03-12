@@ -1,13 +1,29 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22979,
+  "num_followers": 22982,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABC5dLGJAqf3P5G+gBhMwC6",
+  "snapshot_id": "aa9fAAAAAACAlLlP2dXd3b/U8+KyBCVb",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Est\u00e1 Nada Perdido (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 272263,
+      "name": "N\u00e3o Est\u00e1 Nada Perdido (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh"
+    },
     {
       "added_at": null,
       "album": {
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 229552,
-      "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
-      "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Creio (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI"
       },
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 248035,
-      "name": "Tira-me do Vale",
-      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
+      "duration_ms": 229552,
+      "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
+      "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
       "duration_ms": 381280,
       "name": "Posso Clamar + N\u00e3o Pare (Ao Vivo)",
       "url": "https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Tira-me do Vale",
+      "url": "https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 220589,
-      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
-      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem Me Tocou (Ao Vivo)",
         "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
       },
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Ter Vida A\u00ed",
-        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 270512,
-      "name": "Vai Ter Vida A\u00ed",
-      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
+      "duration_ms": 220589,
+      "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
+      "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
       "duration_ms": 277339,
       "name": "Eu Vim Te Adorar",
       "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Ter Vida A\u00ed",
+        "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 270512,
+      "name": "Vai Ter Vida A\u00ed",
+      "url": "https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq"
     },
     {
       "added_at": null,
@@ -587,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
@@ -603,22 +635,6 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -675,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enquanto a Igreja Ora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Cavalcanty",
-          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Enquanto a Igreja Ora (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gisele Nascimento 20 Anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0GHSBOIstODdANsqZkz7v4"
       },
@@ -711,6 +707,26 @@
       "duration_ms": 325720,
       "name": "Vencer ou Vencer (Ao Vivo)",
       "url": "https://open.spotify.com/track/6YXNUfLSsMnptAL1dOAi7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enquanto a Igreja Ora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia Cavalcanty",
+          "url": "https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Enquanto a Igreja Ora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
     },
     {
       "added_at": null,
@@ -891,26 +907,6 @@
       "duration_ms": 239820,
       "name": "Novidade de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Em Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 272697,
-      "name": "Prossiga (feat. Midian Lima)",
-      "url": "https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz"
     }
   ],
   "unique_name": "This Is Midian Lima",

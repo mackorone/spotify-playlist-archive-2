@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,102 likes - 75 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,154 likes - 75 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 20 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 21 | [More Human Than Human](https://open.spotify.com/track/1NbJFhkVdD47YZ2IojKkJi) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/3HugnfabsMODIbxzwxS5xC) | 4:28 |
 | 22 | [Midlife Crisis](https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [Angel Dust \(Deluxe Edition\)](https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k) | 4:19 |
-| 23 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
-| 24 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
+| 23 | [Down By The Water](https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 3:14 |
+| 24 | [All Mine](https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Portishead](https://open.spotify.com/album/3G36754KQVLyGuskraEAVA) | 4:00 |
 | 25 | [1979 \- Remastered 2012](https://open.spotify.com/track/3Y8Ff1nH44jFywAtpgmleZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:26 |
 | 26 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |
 | 27 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 43 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 44 | [Burn](https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 6:38 |
 | 45 | [Snap Your Fingers, Snap Your Neck](https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx) | [Prong](https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B) | [Cleansing](https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO) | 4:11 |
-| 46 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
-| 47 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
+| 46 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
+| 47 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
 | 48 | [Bull In The Heather](https://open.spotify.com/track/6px1KhTqAfxdcF6A1JGSpx) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Experimental Jet Set, Trash And No Star](https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO) | 3:04 |
 | 49 | [Pictures Of You \- Remastered](https://open.spotify.com/track/72gg0bqrLCCyomkfunyiuU) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 7:28 |
 | 50 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |

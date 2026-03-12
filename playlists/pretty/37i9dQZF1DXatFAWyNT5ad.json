@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 152257,
+  "num_followers": 152256,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "FEAR OF HEIGHTS",
         "url": "https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 154189,
       "name": "FEAR OF HEIGHTS",
       "url": "https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Blood Bunny",
-        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "I Want To Be With You",
-      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Blood Bunny",
+        "url": "https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "I Want To Be With You",
+      "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 179814,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "29",
         "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 163027,
       "name": "29",
       "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 179814,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 199866,
       "name": "Known You Always",
       "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 142533,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
         "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 214735,
       "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
       "url": "https://open.spotify.com/track/4hothXhcXn6OmMXmN9A2cU"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "oxygen.",
+        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
+      },
+      "artists": [
+        {
+          "name": "OUT IN FRONT",
+          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
+        }
+      ],
+      "duration_ms": 168472,
+      "name": "oxygen.",
+      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 205933,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "oxygen.",
-        "url": "https://open.spotify.com/album/7qNk0bAQVJOWegN9uUCII9"
-      },
-      "artists": [
-        {
-          "name": "OUT IN FRONT",
-          "url": "https://open.spotify.com/artist/7s6QINQAMIPJtlAK4lrKdx"
-        }
-      ],
-      "duration_ms": 168472,
-      "name": "oxygen.",
-      "url": "https://open.spotify.com/track/1ljRD49oOvvX8TFCvGSJY8"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "THE OUTSIDE (OUTSIDERS VERSION)",
         "url": "https://open.spotify.com/album/14kvTa7vi9xBLZqg6lc1Km"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 244648,
       "name": "THE OUTSIDE - OUTSIDERS VERSION",
       "url": "https://open.spotify.com/track/4iGlMhSSuRHUlNAknDjvT8"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Day Job",
-        "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
-      },
-      "artists": [
-        {
-          "name": "Jayden Seeley",
-          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
-        },
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 158423,
-      "name": "Day Job",
-      "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Year 3000 2.0",
         "url": "https://open.spotify.com/album/5Ofq6KPqN8XUK5gaOSB5WC"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Day Job",
+        "url": "https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi"
+      },
+      "artists": [
+        {
+          "name": "Jayden Seeley",
+          "url": "https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy"
+        },
+        {
+          "name": "The Wrecks",
+          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+        }
+      ],
+      "duration_ms": 158423,
+      "name": "Day Job",
+      "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 180114,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 146620,
       "name": "SOULSUCKER",
       "url": "https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 180114,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
     },
     {
       "added_at": "2026-01-16 05:00:41",

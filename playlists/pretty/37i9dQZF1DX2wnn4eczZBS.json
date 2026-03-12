@@ -1,12 +1,12 @@
 {
   "description": "Indiepop in het Nederlands. Cover: MEROL",
-  "num_followers": 11297,
+  "num_followers": 11300,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIWBanZH+KVu/+fkmu+BjmtFn/kG",
+  "snapshot_id": "AAAAAJPkrm5VLexPER3MLeXbva2ro1px",
   "tracks": [
     {
       "added_at": "2026-03-09 10:00:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-03-09 10:00:27",
       "album": {
-        "name": "Mommy",
-        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 174352,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
-    },
-    {
-      "added_at": "2026-03-09 10:00:27",
-      "album": {
         "name": "Winterkind",
         "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 172941,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK"
+    },
+    {
+      "added_at": "2026-03-09 10:00:27",
+      "album": {
+        "name": "Mommy",
+        "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 174352,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
     },
     {
       "added_at": "2026-03-09 10:00:27",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-03-09 10:00:27",
       "album": {
-        "name": "Magneten",
-        "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 190704,
-      "name": "Magneten",
-      "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
-    },
-    {
-      "added_at": "2026-03-09 10:00:27",
-      "album": {
         "name": "Ik Weet Hoe Het Werkt",
         "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 141051,
       "name": "Ik Weet Hoe Het Werkt",
       "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
+    },
+    {
+      "added_at": "2026-03-09 10:00:27",
+      "album": {
+        "name": "Magneten",
+        "url": "https://open.spotify.com/album/41tDTfgCQ1Ybl7TAAERFIw"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 190704,
+      "name": "Magneten",
+      "url": "https://open.spotify.com/track/5OHgSlszGzcqsmcIGigxkD"
     },
     {
       "added_at": "2026-03-09 10:00:27",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-03-09 10:00:27",
       "album": {
-        "name": "Videotheek (Recht Uit Een Film)",
-        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 218704,
-      "name": "Videotheek (Recht Uit Een Film)",
-      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
-    },
-    {
-      "added_at": "2026-03-09 10:00:27",
-      "album": {
         "name": "Aerobics",
         "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 167901,
       "name": "Aerobics",
       "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
+    },
+    {
+      "added_at": "2026-03-09 10:00:27",
+      "album": {
+        "name": "Videotheek (Recht Uit Een Film)",
+        "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 218704,
+      "name": "Videotheek (Recht Uit Een Film)",
+      "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
     },
     {
       "added_at": "2026-03-09 10:00:27",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-03-09 10:00:27",
       "album": {
-        "name": "Kan Je Niet Blijven?",
-        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
-      },
-      "artists": [
-        {
-          "name": "Politie Warnsveld",
-          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
-        }
-      ],
-      "duration_ms": 215199,
-      "name": "Kan Je Niet Blijven?",
-      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
-    },
-    {
-      "added_at": "2026-03-09 10:00:27",
-      "album": {
         "name": "Kubus In Een Ballenbak",
         "url": "https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 153428,
       "name": "Komt Goed",
       "url": "https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2"
+    },
+    {
+      "added_at": "2026-03-09 10:00:27",
+      "album": {
+        "name": "Kan Je Niet Blijven?",
+        "url": "https://open.spotify.com/album/0zDtda7KNQvJ1jggMPyhvI"
+      },
+      "artists": [
+        {
+          "name": "Politie Warnsveld",
+          "url": "https://open.spotify.com/artist/7dknEQKM1f3bOMXN1pmoqe"
+        }
+      ],
+      "duration_ms": 215199,
+      "name": "Kan Je Niet Blijven?",
+      "url": "https://open.spotify.com/track/39eWBLGnZPIwBNESykz0V8"
     },
     {
       "added_at": "2026-03-09 10:00:27",

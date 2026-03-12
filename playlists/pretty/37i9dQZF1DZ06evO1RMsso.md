@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,119 likes - 42 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,146 likes - 42 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 35 | [Scent of a Woman: Tango \(Por Una Cabeza\)](https://open.spotify.com/track/3mGkPsZbHEBf8ZT1ExZnww) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Pittsburgh Symphony Orchestra](https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9) | [Cinema Serenade](https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq) | 3:51 |
 | 36 | [Anakin's Betrayal](https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:05 |
 | 37 | [March of the Resistance](https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 2:35 |
-| 38 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
-| 39 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
+| 38 | [I Could Have Done More](https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [Boston Symphony Orchestra](https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI) | [Schindler's List](https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8) | 5:52 |
+| 39 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 | 40 | [Princess Leia's Theme](https://open.spotify.com/track/7hlYfQpGJWdheP2quiyz8j) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 4:23 |
 | 41 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 |
 | 42 | [The Throne Room and End Title](https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:34 |
 
-Snapshot ID: `aa4NgAAAAACWiUBTsgdQDUVwD8JL4ygm`
+Snapshot ID: `aa9fAAAAAACskTXZETByok2xrJfQegL9`

@@ -4,7 +4,7 @@
 
 > Ny fredag, ny musik fra Katinka, Harry Styles, MØ og maaange flere  ❤️‍🔥
 
-9,534 songs - 20 day 15 hr 0 min
+9,535 songs - 20 day 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2213,6 +2213,7 @@
 | [Drop Dead Gorgeous](https://open.spotify.com/track/2x9Fy0DVFyuIHGodTETDnt) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Drop Dead Gorgeous](https://open.spotify.com/album/6GngxqHldEck7q9yLXD323) | 3:07 | 2025-06-26 | 2025-07-04 |
 | [drown](https://open.spotify.com/track/6qKGw4mPngMJ43oING2nTV) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [drown](https://open.spotify.com/album/4SBqaBsnhT1kWWr7N9lvGv) | 2:54 | 2024-10-10 | 2024-10-18 |
 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 | 2026-01-29 | 2026-02-06 |
+| [drown](https://open.spotify.com/track/4PUaUdhLeOyOjbfQ3bTZqK) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [drown](https://open.spotify.com/album/2oOTzS5MMF69VNdZvNhhHk) | 3:25 | 2026-03-05 |  |
 | [Drown In Champagne](https://open.spotify.com/track/5UB6Bs5UUueS5LLdmqxrrJ) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Drown In Champagne](https://open.spotify.com/album/6QHO1WmxDubPu3OOsUcEKq) | 3:30 | 2025-01-23 | 2025-01-31 |
 | [Drug worth doing](https://open.spotify.com/track/09mwvppceQhNgB16PAdqrb) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Drug worth doing](https://open.spotify.com/album/4DF4BjpiSqvxN83ToSRO4p) | 2:44 | 2024-05-16 | 2024-05-24 |
 | [drukner](https://open.spotify.com/track/3kKx2zS5REpt9zDqEW0ZNZ) | [RAES](https://open.spotify.com/artist/2Cjjx7kWrrl7Ewj264zbsx) | [drukner](https://open.spotify.com/album/3lBZow1kvaocL2Q0dzYe2t) | 2:50 | 2024-08-22 | 2024-08-30 |

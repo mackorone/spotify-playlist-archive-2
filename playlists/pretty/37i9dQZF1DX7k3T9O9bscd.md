@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Sedef  Sebüktekin on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,563 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,592 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,19 +61,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 51 | [Weird World Awoke](https://open.spotify.com/track/1AviZe8149mRq0hGrJk33F) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Weird World Awoke](https://open.spotify.com/album/7gDYaJfIILcMR2607YmuSM) | 3:20 |
 | 52 | [Ends Meet](https://open.spotify.com/track/394Ic5GQysxdvt9RpSO2ng) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ends Meet](https://open.spotify.com/album/3GziivhJQCGZU7FlQWPT4Y) | 3:21 |
 | 53 | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Looking For A Way Out \(Of Del Rio\)](https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5) | 3:07 |
-| 54 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
-| 55 | [Cinnamon Temple](https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Cinnamon Temple](https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ) | 3:20 |
+| 54 | [Cinnamon Temple](https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Cinnamon Temple](https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ) | 3:20 |
+| 55 | [Ilion](https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [ILION](https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3) | 11:08 |
 | 56 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 57 | [Ring Tail](https://open.spotify.com/track/1wVNi51JyuLkBa1Q7JeUTN) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Ring Tail](https://open.spotify.com/album/1jB0X1Ch7IChY79vv1gZMe) | 1:58 |
 | 58 | [Hey Boy Hey Girl \- Cover Version](https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Bud Spencer Blues Explosion](https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL) | 3:15 |
 | 59 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
 | 60 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 |
-| 61 | [Who dreams of cats?](https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Something Else](https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc) | 3:34 |
-| 62 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
+| 61 | [Reflections](https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw) | [Dead Vibrations](https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr) | [Reflections](https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs) | 3:55 |
+| 62 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
 | 63 | [Fantôme](https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Hippie Hourrah!](https://open.spotify.com/album/28zKoIAguk9AaZWVChjg5J) | 5:06 |
-| 64 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
+| 64 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
 | 65 | [Casino](https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Django's High](https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq) | 3:03 |
-| 66 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
+| 66 | [Who dreams of cats?](https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Something Else](https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc) | 3:34 |
 | 67 | [The Moon Is In The Wrong Place](https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [The Moon Is In The Wrong Place](https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf) | 2:59 |
 | 68 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
 | 69 | [Feel so Fine](https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO) | [El Goodo](https://open.spotify.com/artist/5i7dni5qwxlcEs65HSvUm7) | [Coyote](https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf) | 3:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 96 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 97 | [Norfolk Hotel](https://open.spotify.com/track/5ddTYCVB8cboihAVIIFpM9) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Norfolk Hotel](https://open.spotify.com/album/6ciMfe8dPnz1OK3ZGe27KZ) | 4:34 |
 | 98 | [Lava](https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Lava](https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH) | 3:51 |
-| 99 | [Nel Tempio Blu](https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ) | [ONDAKEIKI](https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG) | [Canti, Vol\. I](https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo) | 7:14 |
-| 100 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
+| 99 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
+| 100 | [Nel Tempio Blu](https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ) | [ONDAKEIKI](https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG) | [Canti, Vol\. I](https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo) | 7:14 |
 
 Snapshot ID: `AAAAAPZQ9aaSjqeuePVz/nM0LBYsOvKv`

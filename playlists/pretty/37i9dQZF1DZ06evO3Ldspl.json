@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADL3owSVaiSnVRr9Ud16D8n",
+  "snapshot_id": "aa9fAAAAAADZ3JsLouUqqjN/ysH6Otq2",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festival Vallenato",
-        "url": "https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Esa",
-      "url": "https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos El Vallenato",
         "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 287268,
       "name": "No Se Pedir Perd\u00f3n",
       "url": "https://open.spotify.com/track/2SBtTElyn8VqS31GhD4dnF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festival Vallenato",
+        "url": "https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Esa",
+      "url": "https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Elegidos",
-        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 257306,
-      "name": "Relicario de Besos",
-      "url": "https://open.spotify.com/track/16KEt1cp8tN0Et7BqPd4Vb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos El Vallenato",
         "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 248066,
       "name": "A Ritmo Cha Cun Cha",
       "url": "https://open.spotify.com/track/3k4G0p5ERmsX7kF0SyJ7fy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 257306,
+      "name": "Relicario de Besos",
+      "url": "https://open.spotify.com/track/16KEt1cp8tN0Et7BqPd4Vb"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 295386,
-      "name": "Dime pajarito",
-      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera De Serie",
         "url": "https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 241333,
       "name": "Cuando Decidas",
       "url": "https://open.spotify.com/track/5gIFDhejEETBeSWcjaZkDD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Dime pajarito",
+      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 250102,
-      "name": "A\u00f1oranzas",
-      "url": "https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq"
+      "duration_ms": 243995,
+      "name": "S\u00f3lo un Recuerdo",
+      "url": "https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 243995,
-      "name": "S\u00f3lo un Recuerdo",
-      "url": "https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm"
+      "duration_ms": 250102,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucha Calidad",
-        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "A Mano Dura",
-      "url": "https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Vallenato",
         "url": "https://open.spotify.com/album/2bHLevxqV0xTrGXzxRYMOk"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 243986,
       "name": "De rodillas",
       "url": "https://open.spotify.com/track/563E4RotzfzACM1Fo98nfc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mucha Calidad",
+        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "A Mano Dura",
+      "url": "https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Super Vallenato",
+        "url": "https://open.spotify.com/album/2bHLevxqV0xTrGXzxRYMOk"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 241815,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/6FmQRov2V7oU3c7nM6BeMt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los 30 Mejores",
         "url": "https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS"
       },
@@ -663,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Super Vallenato",
-        "url": "https://open.spotify.com/album/2bHLevxqV0xTrGXzxRYMOk"
+        "name": "Tercer Concierto Vallenato",
+        "url": "https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv"
       },
       "artists": [
         {
@@ -672,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 241815,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/6FmQRov2V7oU3c7nM6BeMt"
+      "duration_ms": 231173,
+      "name": "Bonita, Bonita",
+      "url": "https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 259707,
       "name": "Cien A\u00f1os De Ausencia",
       "url": "https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tercer Concierto Vallenato",
-        "url": "https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Bonita, Bonita",
-      "url": "https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR"
     },
     {
       "added_at": null,

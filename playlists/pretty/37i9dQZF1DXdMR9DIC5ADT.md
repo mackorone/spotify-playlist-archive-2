@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,875 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,874 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 12 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
 | 13 | [somebody you're supposed to love](https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS \(DELUXE\)](https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU) | 3:10 |
 | 14 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
-| 15 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
+| 15 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 16 | [Hasta Jesús Tuvo un Mal Día](https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Hasta Jesús Tuvo un Mal Día](https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY) | 3:15 |
 | 17 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
-| 18 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
-| 19 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
+| 18 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
+| 19 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 20 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
-| 21 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
+| 21 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 22 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 |
 | 23 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
 | 24 | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [White Feather Hawk Tail Deer Hunter](https://open.spotify.com/album/5Li8k3H3b4BC7CLlq5jVfQ) | 3:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 47 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
 | 48 | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Killin' It Girl \(feat\. GloRilla\)](https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs) | 2:28 |
 | 49 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
-| 50 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
+| 50 | [her](https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [her](https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx) | 2:51 |
 
 Snapshot ID: `AAAAANFXNig4JQAI3FexFPHmyhJ/IUMx`

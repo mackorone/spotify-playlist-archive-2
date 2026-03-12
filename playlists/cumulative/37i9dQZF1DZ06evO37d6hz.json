@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 476906,
       "name": "Appalachian Grove II",
       "url": "https://open.spotify.com/track/6XDocPNf2YEBkLud2SoHXr"
@@ -96,6 +96,24 @@
       "duration_ms": 324222,
       "name": "Donnie and Laurie",
       "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
+    },
+    {
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429013,
+      "name": "Drums",
+      "url": "https://open.spotify.com/track/7sagDXY3Pdl5A5EPUgimZn"
     },
     {
       "album": {
@@ -284,7 +302,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 291693,
       "name": "The Hollows",
       "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 353506,
       "name": "Three Sonic Spaces III",
       "url": "https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg"

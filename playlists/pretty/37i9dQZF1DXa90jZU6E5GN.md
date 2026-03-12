@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > let's go girls ✨💋
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,245 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,272 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 28 | [Can't Fight The Moonlight](https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:35 |
 | 29 | [Dance The Night](https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:56 |
 | 30 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
-| 31 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:50 |
-| 32 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
+| 31 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |
+| 32 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:50 |
 | 33 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
 | 34 | [Heads Carolina, Tails California](https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Jo Dee Messina](https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn) | 3:28 |
 | 35 | [Bad Reviews](https://open.spotify.com/track/1Y66A5zH3iPOWCDIuSDQR5) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 2:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,649 likes - 38 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,655 likes - 38 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 37 | [No Hay Flores en Venus](https://open.spotify.com/track/7phGc1gPOFCbhC5RVLpRCf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Lianna](https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 2:57 |
 | 38 | [El Salón de la Injusticia](https://open.spotify.com/track/2x7cgane1Pqh8pxgKhayOu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/72fxZydAOtlLc4XiAWeFzq) | 3:50 |
 
-Snapshot ID: `aa4NgAAAAABtAwsD+CfAtXuukYv1km/C`
+Snapshot ID: `aa9fAAAAAAAkjSX9TcPnHoCdt/XYJasG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 541 likes - 59 songs - 3 hr 32 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 542 likes - 62 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 57 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 |
 | 58 | [Succumber](https://open.spotify.com/track/5SgoJiHnbT9NYv0HomVd0b) | [The Disorder Unit](https://open.spotify.com/artist/5odi17P7Ak4GmQ72xdg0F2) | [Echo Of A Shadow](https://open.spotify.com/album/0G5il9gzou2IGEidkERa6L) | 3:38 |
 | 59 | [Tomorrow Is Here](https://open.spotify.com/track/5VMUskyWeRjMUnyHnpxNw2) | [Hardar](https://open.spotify.com/artist/4KOKGSVXWgWRBPv0Zqh2Pm) | [Tomorrow Is Here](https://open.spotify.com/album/798T6z0oVDanXisQOWGKcy) | 3:21 |
+| 60 | [All Along](https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:37 |
+| 61 | [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 |
+| 62 | [Лавины](https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F) | [genteel renegade](https://open.spotify.com/artist/7AfX5ZMx0UP4ZouLe1HNEl) | [Лавины](https://open.spotify.com/album/1uq5G5T9eEP9BKhkTRitBX) | 3:53 |
 
-Snapshot ID: `AAAC7hvj2xcfz7vwgrhSSOc3Crarx0/K`
+Snapshot ID: `AAAC8dajAUraYQFpmGDcGLRxjXsO/xlu`

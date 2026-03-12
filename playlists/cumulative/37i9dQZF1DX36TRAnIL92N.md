@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-302 songs - 1 day 0 hr 48 min
+303 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,9 +33,10 @@
 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 | 2025-05-14 | 2025-06-26 |
 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 | 2023-08-09 | 2023-10-04 |
 | [Believe](https://open.spotify.com/track/1STyRAWBlr18jm9aRBVrqE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw) | 6:48 | 2023-10-13 | 2024-04-19 |
-| [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-07-05 |  |
+| [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-07-05 | 2026-03-12 |
 | [Bells of Notre Dame](https://open.spotify.com/track/7o9t0mKNMpb5HJCFNGZTOS) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Bells of Notre Dame](https://open.spotify.com/album/32OCQHT0jFTEN1d8yP1Wtz) | 4:11 | 2023-02-01 | 2024-08-17 |
 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 | 2024-08-30 | 2026-02-05 |
+| [Bigger Than Techno](https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:48 | 2026-03-06 |  |
 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 | 2023-03-29 | 2024-08-12 |
 | [Bombacid](https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Roberto Molinaro](https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9) | [Bombacid](https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN) | 3:24 | 2024-12-09 |  |
 | [BORE/ALIS](https://open.spotify.com/track/2XjiQGuiVWAfLmpt5JCNMK) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [DEVIN/ITION](https://open.spotify.com/album/7JPLAj9HtVO1l1eOhQN5Nc) | 4:07 | 2022-12-16 | 2023-02-01 |
@@ -202,7 +203,7 @@
 | [Point of No Return](https://open.spotify.com/track/4AVjVPLrElTPP4JIDY8QPv) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Point of No Return](https://open.spotify.com/album/5cgMOLRkAZ1DJNbR6qWeOM) | 5:54 | 2022-08-15 | 2022-08-27 |
 | [Portal](https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G) | 6:24 | 2022-07-11 | 2022-10-29 |
 | [Portal](https://open.spotify.com/track/3mwpXrMLka70VsDLn1hunw) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Portal](https://open.spotify.com/album/5n4aScv2NiUPaLnNGeZrWt) | 6:24 | 2022-07-05 | 2022-07-29 |
-| [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-16 | 2026-01-19 |
+| [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-16 |  |
 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 | 2024-08-16 | 2025-11-21 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-04-13 |  |
 | [Push Up \- Original Mix](https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Original Mix\)](https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK) | 4:00 | 2023-04-07 | 2023-04-14 |
@@ -238,7 +239,7 @@
 | [See Me Coming](https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m) | [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S), [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [See Me Coming](https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY) | 4:16 | 2025-11-14 |  |
 | [Sense](https://open.spotify.com/track/76543PV6WgeJ3RAZiY9XIk) | [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [Sense EP](https://open.spotify.com/album/6Jg01D0r46MbjuerQTRyp5) | 6:55 | 2022-07-05 | 2022-11-08 |
 | [Sentinel \- Original Mix](https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Julien Riess](https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N) | [Sentinel](https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC) | 6:28 | 2022-07-05 | 2022-11-09 |
-| [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 | 2025-05-16 |  |
+| [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 | 2025-05-16 | 2026-03-12 |
 | [Sex and the Machine](https://open.spotify.com/track/2H4l11D1fsfJ3WfyZ6XGe1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Sex and the Machine](https://open.spotify.com/album/6atDj6WJcP84s9nY88mkYe) | 4:00 | 2022-08-15 | 2022-12-17 |
 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 | 2025-01-31 | 2025-04-30 |
 | [Simulator \- Mha Iri Remix](https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Simulator \(Mha Iri Remix\)](https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi) | 4:00 | 2024-08-16 | 2024-12-24 |

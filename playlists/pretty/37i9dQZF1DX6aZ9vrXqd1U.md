@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,777 likes - 171 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,797 likes - 171 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

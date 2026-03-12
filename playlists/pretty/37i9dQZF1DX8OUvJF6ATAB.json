@@ -1,6 +1,6 @@
 {
   "description": "Explore the inner worlds floating in the imagination of experimental Ambient music producers.",
-  "num_followers": 211718,
+  "num_followers": 211734,
   "original_name": "Exospheres",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "outside of your lifetime",
-        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 237187,
-      "name": "Moderato",
-      "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Gold Fiction Loop Garden",
         "url": "https://open.spotify.com/album/1xuprH46uojeEL4YAPx6YG"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 150045,
       "name": "Yellow Calcite",
       "url": "https://open.spotify.com/track/5eTpf3MIpOMYDbrrJNfTZQ"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 237187,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/5nihxnUMrvUAY7NweeNPbT"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/2WkPJh5pGbUX0PDjrrNvmA"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "Caisson",
-        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 469333,
-      "name": "Caisson",
-      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
-    },
-    {
       "added_at": "2024-08-12 17:58:23",
       "album": {
         "name": "Sky Hooks",
@@ -851,6 +835,22 @@
       "duration_ms": 363483,
       "name": "Sky Hooks",
       "url": "https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Caisson",
+        "url": "https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 469333,
+      "name": "Caisson",
+      "url": "https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Forest Dreams",
-        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
-      },
-      "artists": [
-        {
-          "name": "Glacier Wave",
-          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
-        }
-      ],
-      "duration_ms": 222511,
-      "name": "Forest Dreams",
-      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Goatherder",
-        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
+        "name": "Forest Dreams",
+        "url": "https://open.spotify.com/album/1FEt78mhUImIJ7UAVD2CsO"
       },
       "artists": [
         {
-          "name": "Capitol K",
-          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
+          "name": "Glacier Wave",
+          "url": "https://open.spotify.com/artist/4oUckuGBldRcLfLmZcMdBN"
         }
       ],
-      "duration_ms": 239794,
-      "name": "Landlocked",
-      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
+      "duration_ms": 222511,
+      "name": "Forest Dreams",
+      "url": "https://open.spotify.com/track/70zia32aU9S7zvTdymWhCP"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -931,6 +915,22 @@
       "duration_ms": 299892,
       "name": "Our New Order",
       "url": "https://open.spotify.com/track/71kdBwFjBFIMn4ZBsFOlYa"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Goatherder",
+        "url": "https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI"
+      },
+      "artists": [
+        {
+          "name": "Capitol K",
+          "url": "https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj"
+        }
+      ],
+      "duration_ms": 239794,
+      "name": "Landlocked",
+      "url": "https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -969,6 +969,22 @@
       "url": "https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ"
     },
     {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Control Voltage",
+        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+      },
+      "artists": [
+        {
+          "name": "Blue Carbon",
+          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Suspension",
+      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+    },
+    {
       "added_at": "2023-12-12 18:06:55",
       "album": {
         "name": "Twin Color (Extended Play No. 1)",
@@ -985,20 +1001,20 @@
       "url": "https://open.spotify.com/track/2o7fSWiT3vOVJEeJj8lQJE"
     },
     {
-      "added_at": "2023-04-21 14:41:23",
+      "added_at": "2024-05-30 01:04:31",
       "album": {
-        "name": "Control Voltage",
-        "url": "https://open.spotify.com/album/66CZYR1YmSW7Mmf83TuUqL"
+        "name": "Even Stars Explode",
+        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
       },
       "artists": [
         {
-          "name": "Blue Carbon",
-          "url": "https://open.spotify.com/artist/3rToj8JEJIZMjaFhn9wR8j"
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Suspension",
-      "url": "https://open.spotify.com/track/627uLiGOZyGwe5MWJbJL3j"
+      "duration_ms": 211252,
+      "name": "Even Stars Explode",
+      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1019,22 +1035,6 @@
       "duration_ms": 241000,
       "name": "Murmur - Machinefabriek Remix",
       "url": "https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ"
-    },
-    {
-      "added_at": "2024-05-30 01:04:31",
-      "album": {
-        "name": "Even Stars Explode",
-        "url": "https://open.spotify.com/album/5BdZD5rHgKuAdOUO6Q4iOu"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 211252,
-      "name": "Even Stars Explode",
-      "url": "https://open.spotify.com/track/39BZWNlhye6ywVK486XCxp"
     },
     {
       "added_at": "2024-01-11 03:32:09",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Guidance in Dreams",
-        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
-      },
-      "artists": [
-        {
-          "name": "HEAVY CHEST",
-          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
-        }
-      ],
-      "duration_ms": 131879,
-      "name": "Dawn Chorus",
-      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Endlessness",
         "url": "https://open.spotify.com/album/0pHwRR0CdmJTwTU96ZCrIE"
       },
@@ -1391,22 +1375,6 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
-        "name": "Sublunar Oracles",
-        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
-      },
-      "artists": [
-        {
-          "name": "Trans-4M",
-          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
-        }
-      ],
-      "duration_ms": 566333,
-      "name": "Arrival",
-      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
         "name": "Forget The Curse",
         "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
       },
@@ -1419,6 +1387,38 @@
       "duration_ms": 379573,
       "name": "Phare",
       "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Guidance in Dreams",
+        "url": "https://open.spotify.com/album/3nwRb1uqt2bX0jT6bD5ECJ"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 131879,
+      "name": "Dawn Chorus",
+      "url": "https://open.spotify.com/track/0Ldll3NS6kcb89k9PqolI7"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
+        "name": "Sublunar Oracles",
+        "url": "https://open.spotify.com/album/0ErOiDberv4cJ2Kxj4J2fk"
+      },
+      "artists": [
+        {
+          "name": "Trans-4M",
+          "url": "https://open.spotify.com/artist/19BCL3CRrl1hMq8cIJV4fj"
+        }
+      ],
+      "duration_ms": 566333,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4sBqFcXxQEfyqNYA7tDNwq"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-04-21 14:41:23",
       "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
+    },
+    {
+      "added_at": "2023-04-21 14:41:23",
+      "album": {
         "name": "Signals Bulletin",
         "url": "https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 385998,
       "name": "How A Spiral Works",
       "url": "https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc"
-    },
-    {
-      "added_at": "2023-04-21 14:41:23",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2023-04-21 14:41:23",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"
     },
     {
-      "added_at": "2023-10-22 04:29:48",
-      "album": {
-        "name": "Doxa",
-        "url": "https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J"
-      },
-      "artists": [
-        {
-          "name": "Venus Ex Machina",
-          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
-        }
-      ],
-      "duration_ms": 416166,
-      "name": "The Abyss",
-      "url": "https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp"
-    },
-    {
       "added_at": "2023-10-10 02:23:30",
       "album": {
         "name": "how will we get back to life again?",
@@ -1619,6 +1603,22 @@
       "duration_ms": 223735,
       "name": "how will we get back to life again?",
       "url": "https://open.spotify.com/track/2Ijzl5nr2rFV5FDFW6Fitn"
+    },
+    {
+      "added_at": "2023-10-22 04:29:48",
+      "album": {
+        "name": "Doxa",
+        "url": "https://open.spotify.com/album/5RYRAYaGjgDAaWUMeEwt2J"
+      },
+      "artists": [
+        {
+          "name": "Venus Ex Machina",
+          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
+        }
+      ],
+      "duration_ms": 416166,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/3lhesp9GC2OTAy7ANEKSmp"
     },
     {
       "added_at": "2023-04-21 14:41:23",

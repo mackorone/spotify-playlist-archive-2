@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Can't Hold Back",
+        "url": "https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Take Me Home Tonight",
+      "url": "https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2"
+    },
+    {
+      "album": {
         "name": "The Essential John Denver",
         "url": "https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5"
       },

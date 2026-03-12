@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,560 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,610 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 14 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
 | 15 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 16 | [DYNAMITE](https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [DYNAMITE](https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ) | 2:57 |
-| 17 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 |
-| 18 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
+| 17 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 |
+| 18 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 |
 | 19 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
-| 20 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 |
-| 21 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
+| 20 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
+| 21 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 |
 | 22 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 23 | [Many Ways \(feat\. Wizkid\)](https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 3:47 |
 | 24 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21rV4I.md) - [plain]
 | 49 | [System \(feat\. WizKid\)](https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
 | 50 | [This Kind Luv](https://open.spotify.com/track/2UrxkIScshPyPlgRpy57Fm) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:49 |
 
-Snapshot ID: `aa4NgAAAAAARtI8wqcpiDoD6kD7Aa0/d`
+Snapshot ID: `aa9fAAAAAABxeewTHXgRS1MVOI7wL6pV`

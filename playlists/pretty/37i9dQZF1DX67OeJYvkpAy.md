@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,160 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,161 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 59 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 60 | [Because Of You](https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7), [Serena](https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX) | [Because Of You](https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO) | 2:57 |
 | 61 | [Couple Little Things](https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:26 |
-| 62 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
-| 63 | [Sexy Back](https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Sexy Back](https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC) | 2:24 |
+| 62 | [Sexy Back](https://open.spotify.com/track/4HN0RZC8KErxF5fz88La55) | [Br3nya](https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW) | [Sexy Back](https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC) | 2:24 |
+| 63 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
 | 64 | [LTC](https://open.spotify.com/track/4fgEnPmto9LJyvJVulYi1f) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 3:01 |
 | 65 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
 | 66 | [Lost & Found](https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D) | [Abnormal Sleepz](https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i), [Ruby Wood](https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK) | [Lost & Found](https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC) | 2:18 |

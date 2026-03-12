@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,482 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,488 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 28 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
 | 29 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 30 | [Vento Alecrim](https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Várias Queixas](https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp) | 2:36 |
-| 31 | [É Isso Aí \(The Blower'S Daughter\) \- Ao Vivo](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge \(Ao Vivo\)](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 |
-| 32 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
+| 31 | [Ter o coração no chão](https://open.spotify.com/track/5FbcIkgUDNt6mZdDVFwVyE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Esquinas](https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl) | 3:14 |
+| 32 | [É Isso Aí \(The Blower'S Daughter\) \- Ao Vivo](https://open.spotify.com/track/6tvnj77OJD0DJTgSIi6fQ3) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Ana E Jorge \(Ao Vivo\)](https://open.spotify.com/album/3EVU0AnPTXK1scTVMrG8Sm) | 5:18 |
 | 33 | [Luz Dos Olhos \- Ao Vivo](https://open.spotify.com/track/2evNqAoJGCTbfx9KEqzPQ9) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:11 |
 | 34 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
 | 35 | [Onde Anda Você](https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Bossa Nova Essenciais](https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR) | 2:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 387208,
+  "num_followers": 387218,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "Blackout!",
+        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 136093,
+      "name": "Da Rockwilder",
+      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Hood Hop",
         "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 237400,
       "name": "Fuck Up Some Commas",
       "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "Blackout!",
-        "url": "https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 136093,
-      "name": "Da Rockwilder",
-      "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
     },
     {
       "added_at": "2024-07-15 15:51:37",

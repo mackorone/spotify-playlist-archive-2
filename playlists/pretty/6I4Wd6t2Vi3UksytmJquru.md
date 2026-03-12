@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain]
 
 > Pub &amp; karaoke drinking classics from 70s, 80s, 90s, 00s, 10s &amp; beyond \- right through to closing time in the local.
 
-[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,656 likes - 117 songs - 8 hr 9 min
+[Filtr Ireland](https://open.spotify.com/user/filtr.ie) - 49,661 likes - 118 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,6 @@ pretty - [cumulative](/playlists/cumulative/6I4Wd6t2Vi3UksytmJquru.md) - [plain]
 | 115 | [Burning Love](https://open.spotify.com/track/6s9uIGMkd43R48ssQKAhtH) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 2:56 |
 | 116 | [Jessie's Girl](https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D) | 3:14 |
 | 117 | [Bat Out of Hell](https://open.spotify.com/track/0VafPclbphrwh36WraHWws) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 9:50 |
+| 118 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
 
-Snapshot ID: `AAAKHl4qmTbgw+PtPMTMweUSCAIYcX90`
+Snapshot ID: `AAAKH7FsJqeWpTLWonSL/5CM3PXXf1Ke`

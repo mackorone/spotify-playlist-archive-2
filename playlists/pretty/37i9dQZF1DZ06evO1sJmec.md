@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,102,623 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,102,787 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 8 | [For Whom The Bell Tolls \- Remastered](https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 5:09 |
 | 9 | [Sad But True \- Remastered 2021](https://open.spotify.com/track/5ltXoDLlI0rFZAmOXbAp5T) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7h5xn0Olvx2p0eQcSt1Osy) | 5:24 |
 | 10 | [Seek & Destroy \- Remastered](https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 6:54 |
-| 11 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 |
-| 12 | [The Unforgiven II](https://open.spotify.com/track/6nswV1Lz3OZkaiCJfmVUOa) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 6:36 |
+| 11 | [The Unforgiven II](https://open.spotify.com/track/6nswV1Lz3OZkaiCJfmVUOa) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 6:36 |
+| 12 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 |
 | 13 | [Fade To Black \- Remastered](https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:57 |
 | 14 | [Until It Sleeps \- Remastered](https://open.spotify.com/track/1L8c08ueO8ag3vBQFXwbjc) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 4:29 |
 | 15 | [Wherever I May Roam \- Remastered 2021](https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 6:44 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 23 | [Don't Tread on Me \- Remastered 2021](https://open.spotify.com/track/3zbLtkeCoU5LutGs8728c6) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 4:00 |
 | 24 | [I Disappear](https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [I Disappear](https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM) | 4:26 |
 | 25 | [Ride The Lightning \- Remastered](https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:36 |
-| 26 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
-| 27 | [Welcome Home \(Sanitarium\)](https://open.spotify.com/track/4TktvZTsMoFukiim1otMtr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:27 |
+| 26 | [Welcome Home \(Sanitarium\)](https://open.spotify.com/track/4TktvZTsMoFukiim1otMtr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:27 |
+| 27 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
 | 28 | [Holier Than Thou \- Remastered 2021](https://open.spotify.com/track/6c5Ft6sEfLjVxL2wkgxBtv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 3:47 |
 | 29 | [Harvester of Sorrow](https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 5:45 |
 | 30 | [Die, Die My Darling](https://open.spotify.com/track/0t7LcUic4qolMCysPrKeAd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [The Shortest Straw](https://open.spotify.com/track/4hvo7eCLfhs7dFr0mpk3zi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 6:35 |
 | 50 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
 
-Snapshot ID: `aa4NgAAAAACnXwT0AwftRLa7fxLMjxXS`
+Snapshot ID: `aa9fAAAAAACouic6gO7ISE2+y5+dnW0C`

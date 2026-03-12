@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,563 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,693 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 28 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
 | 29 | [Infinity](https://open.spotify.com/track/78fTO9KOXmWLkm1r6Ko2Uq) | [Guru Josh](https://open.spotify.com/artist/0GWezHEUuBQvQM31OaWlS7) | [Infinity](https://open.spotify.com/album/0PuT9tt0GtnAYA8CaZ5RMW) | 4:01 |
 | 30 | [Past](https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ) | [Sub Sub](https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm) | [Full Fathom Five](https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL) | 2:55 |
-| 31 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
-| 32 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 31 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
+| 32 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 33 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
 | 34 | [Ayla \- DJ Taucher Radio Edit](https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq), [Taucher](https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa) | [Trance Classics, Vol\. 01](https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC) | 3:58 |
 | 35 | [Offshore](https://open.spotify.com/track/1ULtIyg1f3ju3llYxZBWKc) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowd](https://open.spotify.com/album/7spCTSbVqE37Ohj4DwFCrw) | 6:48 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 76 | [Put Your Hands Up For Detroit](https://open.spotify.com/track/2T1Xemp92qxuUCAFBWfRrj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/5NaES6denS6wM2M2zV1YkR) | 6:36 |
 | 77 | [Canoa](https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Canoa](https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt) | 9:06 |
 | 78 | [Natural Blues](https://open.spotify.com/track/6hmtNel4OKlBpBcTO7ao3o) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play](https://open.spotify.com/album/1xB1tmm50ZhXwrNs89u7Jx) | 4:13 |
-| 79 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn) | [The Age Of Love](https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5) | 6:48 |
-| 80 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
+| 79 | [Situation \- 12" Remix](https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs at Eric's](https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3) | 5:45 |
+| 80 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn) | [The Age Of Love](https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5) | 6:48 |
 
 Snapshot ID: `AAAAAG/CjY4fa9ugWmHe532br0LSehjw`

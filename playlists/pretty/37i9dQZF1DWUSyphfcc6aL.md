@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,054 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,043 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSyphfcc6aL.md) - [plain]
 | 17 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
 | 18 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
 | 19 | [Just The Way You Are](https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Just The Way You Are](https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y) | 2:39 |
-| 20 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 21 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
+| 20 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
+| 21 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
 | 22 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 23 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
 | 24 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 |

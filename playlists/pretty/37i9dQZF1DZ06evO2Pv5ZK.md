@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,870 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,879 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 28 | [Antarctica Echoes \- Remastered](https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 5:52 |
 | 29 | [Across the Mountains \(From "Alexander" Soundtrack\)](https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6), [Maria Bildea](https://open.spotify.com/artist/1ft7wSsl5xVNOzuIteOqi4), [Irina Valentinovna Karpouchina](https://open.spotify.com/artist/6EFd1h6niaS79UnMV9PlU4), [Konstantinos Paliatsaras](https://open.spotify.com/artist/1pM22HiX08GjuozIH3NOCi), [Vanessa\-Mae Vanakorn Nicholson](https://open.spotify.com/artist/5KM9N7qB2m9DD6ZaeJGrFL), [Epirus Polyphonic Ensemble](https://open.spotify.com/artist/3Vw17o3vjrvPvZ20KFwj5v) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 4:12 |
 | 30 | [Early Years](https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:32 |
-| 31 | [The Tao Of Love](https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 2:44 |
-| 32 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 |
+| 31 | [Rosetta](https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Rosetta](https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix) | 5:02 |
+| 32 | [The Tao Of Love](https://open.spotify.com/track/1pbqHRbjsZPqXx0XiDLstV) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [China](https://open.spotify.com/album/0GPvraFrPjbXzY0H3fcudk) | 2:44 |
 | 33 | [La mort du loup \- Remastered](https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 3:05 |
 | 34 | [Theme from Bitter Moon](https://open.spotify.com/track/60oJ9svwUE4lvyF7KYA60p) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Reprise 1990\-1999](https://open.spotify.com/album/38ZlWsy8hIIl42Cv7bQFHB) | 3:40 |
 | 35 | [P.S.](https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 2:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 49 | [Twilight](https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:57 |
 | 50 | [Longing](https://open.spotify.com/track/7vI1UAd3OZNdsZ7sth2CDf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:45 |
 
-Snapshot ID: `aa4NgAAAAACV1/pMW0ab0z+rFfw5Dmf6`
+Snapshot ID: `aa9fAAAAAAA927HDtmgOMjFF9RYfdi5c`

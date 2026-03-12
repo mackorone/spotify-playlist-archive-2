@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,037 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,040 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 40 | [Wana](https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [Wana](https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm) | 3:39 |
 | 41 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
 | 42 | [LA DROGA ES MIA \(Yuca\_Ab\_120BPM\)](https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MAKIA](https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv) | 3:15 |
-| 43 | [Springtime Red Tulips](https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Springtime Red Tulips](https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1) | 4:34 |
+| 43 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 44 | [Blue Voyage](https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [REIA](https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6) | [Blue Voyage](https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw) | 4:14 |
-| 45 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
-| 46 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
+| 45 | [Springtime Red Tulips](https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Springtime Red Tulips](https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1) | 4:34 |
+| 46 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
 | 47 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 |
 | 48 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
 | 49 | [Raining Tomorrow](https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Raining Tomorrow](https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY) | 3:48 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 77 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 |
 | 78 | [Colder in June](https://open.spotify.com/track/11ElSTjEBTXx3fGjSGphi5) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Colder in June](https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn) | 3:51 |
 | 79 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |
-| 80 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 |
-| 81 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
+| 80 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
+| 81 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 |
 | 82 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 |
 | 83 | [what u like](https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD) | [Drewbyrd](https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH) | [what u like](https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo) | 2:48 |
 | 84 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 |

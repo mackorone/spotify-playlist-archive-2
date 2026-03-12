@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Justin Radford
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,085 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,093 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

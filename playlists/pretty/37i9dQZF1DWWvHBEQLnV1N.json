@@ -1,6 +1,6 @@
 {
   "description": "Festive season staples and new holiday favourites \ud83c\udf81",
-  "num_followers": 1107936,
+  "num_followers": 1107863,
   "original_name": "Christmas is Coming",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Christmas (Baby, Please Come Home)",
-        "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
-      },
-      "artists": [
-        {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "A Pentatonix Christmas Deluxe",
         "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 268937,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Christmas (Baby, Please Come Home)",
+        "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 146293,
-      "name": "Silent Night - 1999 Remaster",
-      "url": "https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "Sheezus",
         "url": "https://open.spotify.com/album/6bzZGnW3Sp21AloMefqd47"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 208504,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/6nYEkOrpEjeNV3MBLwoZBG"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 146293,
+      "name": "Silent Night - 1999 Remaster",
+      "url": "https://open.spotify.com/track/5yNgdD8E6WruhULb4n2Con"
     },
     {
       "added_at": "2025-12-04 05:43:16",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-12-04 05:43:16",
       "album": {
-        "name": "Exhale",
-        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Do You Hear What I Hear?",
-      "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
-    },
-    {
-      "added_at": "2025-12-04 05:43:16",
-      "album": {
         "name": "Celebrate Me Home",
         "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 233558,
       "name": "Celebrate Me Home",
       "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
+    },
+    {
+      "added_at": "2025-12-04 05:43:16",
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Do You Hear What I Hear?",
+      "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
     },
     {
       "added_at": "2025-12-04 05:43:16",

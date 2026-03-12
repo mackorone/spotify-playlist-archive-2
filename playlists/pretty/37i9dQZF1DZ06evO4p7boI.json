@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96113,
+  "num_followers": 96125,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABtLIJPJUOXdGUkl2Uzz652",
+  "snapshot_id": "aa9fAAAAAAB7bX97hVkbXwjaV8F6ezmp",
   "tracks": [
     {
       "added_at": null,
@@ -148,13 +148,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 228386,
-      "name": "Wanted You (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1Faq8G2y56A8fRv7HsLq25"
+      "duration_ms": 195053,
+      "name": "Champion (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
     },
     {
       "added_at": null,
@@ -232,13 +232,13 @@
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Champion (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo"
+      "duration_ms": 228386,
+      "name": "Wanted You (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1Faq8G2y56A8fRv7HsLq25"
     },
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+        "name": "OMW2 REXDALE",
+        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
       },
       "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 165013,
-      "name": "NOTHING 4 FREE (feat. NAV)",
-      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
+      "duration_ms": 114560,
+      "name": "BURBS",
+      "url": "https://open.spotify.com/track/3id4YOaR7JBKJUPOE9VgaE"
     },
     {
       "added_at": null,
@@ -735,18 +731,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OMW2 REXDALE",
-        "url": "https://open.spotify.com/album/1hDf16zDN5SjIoMuy6fzB8"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
       "artists": [
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 114560,
-      "name": "BURBS",
-      "url": "https://open.spotify.com/track/3id4YOaR7JBKJUPOE9VgaE"
+      "duration_ms": 228106,
+      "name": "Held Me Down",
+      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
     },
     {
       "added_at": null,
@@ -771,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         },
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 228106,
-      "name": "Held Me Down",
-      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
+      "duration_ms": 165013,
+      "name": "NOTHING 4 FREE (feat. NAV)",
+      "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 320910,
+  "num_followers": 320966,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABwOJFWSnB61FxrGK9nBZKy",
+  "snapshot_id": "aa9fAAAAAAA894kBMRrbxxRAVaZN6SP9",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 405913,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SO BE IT",
         "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 313916,
       "name": "I Got Saved (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0Fcu29KCsISZx8SIFIuGWw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 405913,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg"
     },
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When Wind Meets Fire",
-        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 430689,
-      "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SO BE IT",
         "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 394321,
       "name": "Call God",
       "url": "https://open.spotify.com/track/59IdtwA4xwAXOq6eID9OE4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 430689,
+      "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Har\u00e1s Otra Vez",
-        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 499213,
-      "name": "Como en el Cielo (Here as in Heaven)",
-      "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SO BE IT",
         "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 499213,
+      "name": "Como en el Cielo (Here as in Heaven)",
+      "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -616,17 +616,13 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 598622,
-      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
+      "duration_ms": 376416,
+      "name": "Runnin (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/60s7QyO42V4QGRp6Ewzwds"
     },
     {
       "added_at": null,
@@ -655,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 291330,
-      "name": "My Testimony (Live)",
-      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SO BE IT",
         "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
       },
@@ -695,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 291330,
+      "name": "My Testimony (Live)",
+      "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -704,37 +700,17 @@
           "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 376416,
-      "name": "Runnin (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/60s7QyO42V4QGRp6Ewzwds"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Wind Meets Fire",
-        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Jonsal Barrientes",
-          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         },
         {
           "name": "Tiffany Hudson",
           "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 342458,
-      "name": "God Is Not Against Me (feat. Jonsal Barrientes & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/2lQL53FnkClnRs2q6aX7Lr"
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
     },
     {
       "added_at": null,
@@ -787,6 +763,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 342458,
+      "name": "God Is Not Against Me (feat. Jonsal Barrientes & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/2lQL53FnkClnRs2q6aX7Lr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -803,26 +803,6 @@
       "duration_ms": 354885,
       "name": "Jehovah (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Wind Meets Fire",
-        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Jenna Barrientes",
-          "url": "https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO"
-        }
-      ],
-      "duration_ms": 347587,
-      "name": "Great Is (feat. Jenna Barrientes)",
-      "url": "https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jenna Barrientes",
+          "url": "https://open.spotify.com/artist/1kXAHDXLzukedSpQPN1XUO"
+        }
+      ],
+      "duration_ms": 347587,
+      "name": "Great Is (feat. Jenna Barrientes)",
+      "url": "https://open.spotify.com/track/1Z07de4JfEV5lk8cNaNvn3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CAN YOU IMAGINE?",
         "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
       },
@@ -883,26 +883,6 @@
       "duration_ms": 361964,
       "name": "No Body (feat. Jonsal Barrientes)",
       "url": "https://open.spotify.com/track/2djkGKuduO9pea7gt8wPIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When Wind Meets Fire",
-        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 371698,
-      "name": "Owe You Praise",
-      "url": "https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G"
     },
     {
       "added_at": null,
@@ -947,6 +927,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "When Wind Meets Fire",
+        "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 371698,
+      "name": "Owe You Praise",
+      "url": "https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wake Up The Wonder",
         "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
       },
@@ -959,6 +975,26 @@
       "duration_ms": 261678,
       "name": "Unstoppable God",
       "url": "https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 236736,
+      "name": "Echo (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
     },
     {
       "added_at": null,
@@ -983,42 +1019,6 @@
       "duration_ms": 473850,
       "name": "New Thing Coming (feat. Tiffany Hudson & Steven Furtick)",
       "url": "https://open.spotify.com/track/352bLqQDbtRgaFhZgdLUde"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hallelujah Here Below",
-        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 236736,
-      "name": "Echo (feat. Tauren Wells)",
-      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
     },
     {
       "added_at": null,

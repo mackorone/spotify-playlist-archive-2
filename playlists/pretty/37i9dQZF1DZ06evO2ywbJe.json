@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7552,
+  "num_followers": 7561,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABYZznyAFn/uBMHMFwVDJ1J",
+  "snapshot_id": "aa9fAAAAAADdlSjScl/zzckMYaGbx5u0",
   "tracks": [
     {
       "added_at": null,
@@ -1047,26 +1047,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatness 2.0",
-        "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
+        "name": "Marleba The EP",
+        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
       },
       "artists": [
         {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
         },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Drey Spencer",
+          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Only Fan",
-      "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
+      "duration_ms": 144993,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
     }
   ],
   "unique_name": "This Is Zlatan",

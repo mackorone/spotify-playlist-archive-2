@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella\. Jessi Uribe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,628 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,678 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 29 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 30 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 |
 | 31 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 |
-| 32 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
-| 33 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
+| 32 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/1cVlW9WQiGlFdWUXFdFZGh) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ) | 3:47 |
+| 33 | [La Farsante](https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 2:55 |
 | 34 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
 | 35 | [2 Veces](https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [2 Veces](https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ) | 3:09 |
 | 36 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 |
@@ -98,14 +98,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 88 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 |
 | 89 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 |
 | 90 | [Tu \- Live](https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 4:06 |
-| 91 | [Amor Verdadero](https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:07 |
+| 91 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 |
 | 92 | [Soltero Feliz](https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo](https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj) | 3:51 |
-| 93 | [OK](https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:21 |
-| 94 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
+| 93 | [Amor Verdadero](https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:07 |
+| 94 | [OK](https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:21 |
 | 95 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
-| 96 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 |
-| 97 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 |
-| 98 | [Dulce Pecado](https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:55 |
-| 99 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
+| 96 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
+| 97 | [Las Locuras Mías](https://open.spotify.com/track/0U5xDCt05URDZj92LFx0M1) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Las Locuras Mías](https://open.spotify.com/album/53j31ilieZGhnqgWzJW17G) | 3:44 |
+| 98 | [Mis Borracheras](https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Mis Borracheras](https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli) | 2:47 |
+| 99 | [Dulce Pecado](https://open.spotify.com/track/1dcPvuDlIyEZSCtYXtZlMm) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:55 |
 
 Snapshot ID: `AAAAAB7TpwHxGGwtMF3flyORYfGMbusF`

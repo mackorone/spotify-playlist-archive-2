@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,865 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,912 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 46 | [Dance Like](https://open.spotify.com/track/36EPfDEkfLYQLt8Fvced8x) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dance Like](https://open.spotify.com/album/4eVSYKLFcL0PuWDPzU47li) | 2:51 |
 | 47 | [Dard](https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Akash Rajput](https://open.spotify.com/artist/3PedLNTFVPKy2wUQbiq0gk) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 2:45 |
 | 48 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
-| 49 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 |
-| 50 | [Wakhra Swag](https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Wakhra Swag](https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd) | 3:10 |
+| 49 | [Wakhra Swag](https://open.spotify.com/track/0gbk1PiLb6ISZ2hffSKLmq) | [Navv Inder](https://open.spotify.com/artist/7GPyedHMvKTiM2OfXc0MVv), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Navi Ferozpurwala](https://open.spotify.com/artist/78Wjtcr5lUroDSkK7cKfkp) | [Wakhra Swag](https://open.spotify.com/album/5bey8nBlZwmEVYXPL6T5jd) | 3:10 |
+| 50 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 |
 
 Snapshot ID: `AAAAAPXm1eHttiVZS/TB5t0iXBws52g0`

@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 14524,
+  "num_followers": 2950,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "The Fountain OST",
-        "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
-      },
-      "artists": [
-        {
-          "name": "Clint Mansell",
-          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Together We Will Live Forever",
-      "url": "https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Intervention",
         "url": "https://open.spotify.com/album/3SUCGEmj4rxH9R103omShr"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 205611,
       "name": "Willow",
       "url": "https://open.spotify.com/track/3SYpNSW2sXVghgwW1Ffm6I"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "The Fountain OST",
+        "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Together We Will Live Forever",
+      "url": "https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Volker",
-          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
-        }
-      ],
-      "duration_ms": 118016,
-      "name": "Kleine Forelle",
-      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 179810,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3INNtJyFpOFyQRK0FhT0Iz"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Volker",
+          "url": "https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY"
+        }
+      ],
+      "duration_ms": 118016,
+      "name": "Kleine Forelle",
+      "url": "https://open.spotify.com/track/5B9DnzAxmYHSuEMegZYYwQ"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "We've Never Been Here",
         "url": "https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 193866,
       "name": "We've Never Been Here",
       "url": "https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Murray's Moon",
-        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
-      },
-      "artists": [
-        {
-          "name": "Stan Van Outen",
-          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Murray's Moon",
-      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "In The Stillness",
         "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 184389,
       "name": "Grounded Mind",
       "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Murray's Moon",
+        "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
+      },
+      "artists": [
+        {
+          "name": "Stan Van Outen",
+          "url": "https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Murray's Moon",
+      "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "A Gift To Share",
+        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Gift To Share",
+      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "A Gift To Share",
-        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/4Hbj5OAjuH2wP140oohhmo"
       },
       "artists": [
         {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+          "name": "Jan Baltimore",
+          "url": "https://open.spotify.com/artist/2JOosskeWZKm2P84LeA2Gd"
         }
       ],
-      "duration_ms": 139500,
-      "name": "A Gift To Share",
-      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+      "duration_ms": 212000,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/0rbKJ3fMPs3FmLqiyxq9n2"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -819,22 +835,6 @@
       "duration_ms": 141374,
       "name": "L\u2019herbe verte",
       "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Senorita",
-        "url": "https://open.spotify.com/album/4Hbj5OAjuH2wP140oohhmo"
-      },
-      "artists": [
-        {
-          "name": "Jan Baltimore",
-          "url": "https://open.spotify.com/artist/2JOosskeWZKm2P84LeA2Gd"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Senorita",
-      "url": "https://open.spotify.com/track/0rbKJ3fMPs3FmLqiyxq9n2"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP"
-      },
-      "artists": [
-        {
-          "name": "Bill Walton",
-          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
-        }
-      ],
-      "duration_ms": 285374,
-      "name": "Dedicated To You",
-      "url": "https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Origins",
         "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 202357,
       "name": "The Inner World",
       "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP"
+      },
+      "artists": [
+        {
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
+        }
+      ],
+      "duration_ms": 285374,
+      "name": "Dedicated To You",
+      "url": "https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Flaming Katy",
         "url": "https://open.spotify.com/album/3mlH54JsUWAjDCqUf2us5J"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 201306,
       "name": "Flaming Katy",
       "url": "https://open.spotify.com/track/4QX3pL1js2TmgU0TmkHbV5"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "Avenues",
+        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+      },
+      "artists": [
+        {
+          "name": "Seth Fernsby",
+          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+        }
+      ],
+      "duration_ms": 139663,
+      "name": "Avenues",
+      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "Yesterdays",
         "url": "https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 157744,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "There Is No Greater Love",
-        "url": "https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD"
-      },
-      "artists": [
-        {
-          "name": "A Whisper",
-          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
-        }
-      ],
-      "duration_ms": 154063,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Avenues",
-        "url": "https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1"
+        "name": "There Is No Greater Love",
+        "url": "https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD"
       },
       "artists": [
         {
-          "name": "Seth Fernsby",
-          "url": "https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX"
+          "name": "A Whisper",
+          "url": "https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy"
         }
       ],
-      "duration_ms": 139663,
-      "name": "Avenues",
-      "url": "https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4"
+      "duration_ms": 154063,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
-        "name": "Lib\u00e9lula",
-        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
-      },
-      "artists": [
-        {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Lib\u00e9lula",
-      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
         "name": "Disconnect",
         "url": "https://open.spotify.com/album/65eG2Wyj6NuiA8Yrn5pwm4"
       },
@@ -1499,22 +1483,6 @@
       "duration_ms": 154794,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Knowing Myself",
-        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Knowing Myself",
-      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1535,6 +1503,38 @@
     {
       "added_at": "2026-02-09 02:44:55",
       "album": {
+        "name": "Lib\u00e9lula",
+        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Lib\u00e9lula",
+      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 151000,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
+    },
+    {
+      "added_at": "2026-02-09 02:44:55",
+      "album": {
+        "name": "Looking Forward, Looking Backward",
+        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
+      },
+      "artists": [
+        {
+          "name": "Robin Bennich",
+          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
+        }
+      ],
+      "duration_ms": 177875,
+      "name": "Looking Forward, Looking Backward",
+      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
     },
     {
       "added_at": "2026-02-09 02:44:55",
@@ -1579,22 +1595,6 @@
       "duration_ms": 179562,
       "name": "Astral",
       "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
-    },
-    {
-      "added_at": "2026-02-09 02:44:55",
-      "album": {
-        "name": "Looking Forward, Looking Backward",
-        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
-      },
-      "artists": [
-        {
-          "name": "Robin Bennich",
-          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
-        }
-      ],
-      "duration_ms": 177875,
-      "name": "Looking Forward, Looking Backward",
-      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
     },
     {
       "added_at": "2026-02-09 02:44:55",

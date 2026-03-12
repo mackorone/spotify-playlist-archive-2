@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,503,735 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,503,859 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 29 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
 | 30 | [Undead](https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 4:25 |
 | 31 | [Popular Monster](https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Popular Monster](https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4) | 3:40 |
-| 32 | [Kool\-Aid](https://open.spotify.com/track/0hpWmAB3L0OJ3VBeMkOQUu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 3:48 |
-| 33 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
+| 32 | [Mudshovel](https://open.spotify.com/track/6264zKFgXM13JuRBX4MMyD) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Dysfunction](https://open.spotify.com/album/4fLp0YBi1chfMHSBkIeI6w) | 4:42 |
+| 33 | [Kool\-Aid](https://open.spotify.com/track/0hpWmAB3L0OJ3VBeMkOQUu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 3:48 |
 | 34 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 |
 | 35 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
 | 36 | [Happy?](https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:36 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 48 | [Welcome To The Circus](https://open.spotify.com/track/1linrfCmITmQHs4enAxTUY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 4:16 |
 | 49 | [Dance Macabre](https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:39 |
 | 50 | [Denial](https://open.spotify.com/track/25LbeGnYJuqbkxqc8VyhTs) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Home](https://open.spotify.com/album/0oSbjRKcORa1iN2wTcQYqf) | 4:17 |
-| 51 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
-| 52 | [Gold Cobra](https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:53 |
+| 51 | [Gold Cobra](https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:53 |
+| 52 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
 | 53 | [Jekyll and Hyde](https://open.spotify.com/track/6efSwlK3LOlWOeKK9xlUKF) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 3:26 |
 | 54 | [ecdysis](https://open.spotify.com/track/4JV3BjszeEUD1bTTcx9hdx) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:28 |
 | 55 | [The Heart from Your Hate](https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 4:03 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 62 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
 | 63 | [Revery](https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Revery](https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE) | 3:12 |
 | 64 | [Until the World Goes Cold](https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 5:21 |
-| 65 | [House Of Cards](https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House Of Cards](https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L) | 3:26 |
-| 66 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 |
+| 65 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 |
+| 66 | [House Of Cards](https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House Of Cards](https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L) | 3:26 |
 | 67 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 68 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
 | 69 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 73 | [Amazonia](https://open.spotify.com/track/1GWtUkDQk7XC35r7kTPfqx) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Fortitude](https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI) | 5:00 |
 | 74 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
 | 75 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
-| 76 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
-| 77 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
+| 76 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 |
+| 77 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 78 | [Addicted to Pain](https://open.spotify.com/track/2I75GCnEOzCvNpxCR3XYZH) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/14XXkmq6rjlKTxRkelMtZx) | 4:16 |
 | 79 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
 | 80 | [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 |

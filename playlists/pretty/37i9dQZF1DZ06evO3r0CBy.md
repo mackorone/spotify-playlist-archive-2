@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,420 likes - 22 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,419 likes - 22 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 21 | [Hate Street Dialogue](https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:33 |
 | 22 | [Silver Words?](https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:04 |
 
-Snapshot ID: `aa4NgAAAAACNeNN2YioxTCVLrCGegcPo`
+Snapshot ID: `aa9fAAAAAADV742QMZxqYcAoWlWnGoRu`

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 546620,
+  "num_followers": 546640,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,38 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Age of Winters",
+        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 274400,
+      "name": "Freya",
+      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+      },
+      "artists": [
+        {
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+        }
+      ],
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Tempel",
         "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
       },
@@ -1387,38 +1419,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Age of Winters",
-        "url": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 274400,
-      "name": "Freya",
-      "url": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
       },
@@ -1431,6 +1431,38 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1467,6 +1499,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Dopes To Infinity",
+        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Look To Your Orb For The Warning",
+      "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "In Her Garden",
         "url": "https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G"
       },
@@ -1499,38 +1547,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dopes To Infinity",
-        "url": "https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux"
-      },
-      "artists": [
-        {
-          "name": "Monster Magnet",
-          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
-        }
-      ],
-      "duration_ms": 392000,
-      "name": "Look To Your Orb For The Warning",
-      "url": "https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
-      },
-      "artists": [
-        {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
-        }
-      ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Burning Village",
         "url": "https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P"
       },
@@ -1543,6 +1559,22 @@
       "duration_ms": 282217,
       "name": "The Dead Won't Sleep",
       "url": "https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1575,38 +1607,6 @@
       "duration_ms": 317033,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "The Crucible",
-        "url": "https://open.spotify.com/album/2MJ7TzoTvmi2WrIDpQAeak"
-      },
-      "artists": [
-        {
-          "name": "Motorpsycho",
-          "url": "https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T"
-        }
-      ],
-      "duration_ms": 523466,
-      "name": "Psychotzar",
-      "url": "https://open.spotify.com/track/3CEWBhG07nTuheDfZZHib1"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     }
   ],
   "unique_name": "Stoner Rock",

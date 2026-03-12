@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Mario Pelchat
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,399 likes - 103 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,398 likes - 103 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 13 | [L'épaule à la roue](https://open.spotify.com/track/2Kuevnr5ywEnmgceOnjMl9) | [Olivier Couture](https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq) | [L'épaule à la roue](https://open.spotify.com/album/2daUdRcsuTiTMZZz74zLQi) | 3:44 |
 | 14 | [fine fine fine](https://open.spotify.com/track/5A6QANRkcQisdUtiWD2Yxi) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [fine fine fine](https://open.spotify.com/album/6PrLjGwqVAh4EgkYJM6ssc) | 2:41 |
 | 15 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
-| 16 | [Eau Salée \- Roselle, Phil Murray remix](https://open.spotify.com/track/6sdFNH3P7uQ717wOOMpCEX) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3), [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl), [Phil Murray](https://open.spotify.com/artist/0Gg9T5b0Eex549Lt8ObscL) | [Eau Salée](https://open.spotify.com/album/0XTdxh8O2YXTcDDdsjtq8F) | 3:31 |
+| 16 | [Eau Salée \- Roselle, Phil Murray remix](https://open.spotify.com/track/6sdFNH3P7uQ717wOOMpCEX) | [Roselle](https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3), [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl), [Phil Murray](https://open.spotify.com/artist/4esf0eEKQfSIStYwJh5tCN) | [Eau Salée](https://open.spotify.com/album/0XTdxh8O2YXTcDDdsjtq8F) | 3:31 |
 | 17 | [Rien de gratuit](https://open.spotify.com/track/3JOpH2xaLaUGHwmiQWwIG6) | [Saye](https://open.spotify.com/artist/6Aed6FYByzggINMDy3EevX), [Webster](https://open.spotify.com/artist/28PFzVunbZTdeOjTBRzMTK), [Paranoize](https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA), [Seif](https://open.spotify.com/artist/3RBtyMBbXCOlB69Y2kJb36) | [Rien de gratuit](https://open.spotify.com/album/1fGJir4iBnxmkE0tgcXPUs) | 3:44 |
 | 18 | [Peace Out](https://open.spotify.com/track/3pGGpYfzPhhwDL2XtyRkqJ) | [BlackLife](https://open.spotify.com/artist/7rgPkJCE9ppxsVKX6szjRZ), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Peace Out](https://open.spotify.com/album/68OwgFLfcxZPNWVtWXUPK7) | 2:34 |
 | 19 | [Golden Boy](https://open.spotify.com/track/4GPfOVBUl1HiadvnZ9AbL1) | [Vendou](https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG) | [Golden Boy](https://open.spotify.com/album/4ZtadAFB8gOTFkav4RhuFw) | 2:42 |

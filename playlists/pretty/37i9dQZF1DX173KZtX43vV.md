@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,596 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,600 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

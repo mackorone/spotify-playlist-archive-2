@@ -18,4 +18,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 | 8 | [ 2x2 \- Supositorios en la vida adulta \- Kayko \- Puerto la Camotera.](https://open.spotify.com/episode/580Yz0V1atmbENWt9ZCmEK) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:18:45 |
 | 9 | [1x6 Rocío Gómez Turner \- Sierra Madre Oriental](https://open.spotify.com/episode/0maD34Qs6e0xvAVTse1Kzt) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:13:16 |
 
-Snapshot ID: `AAAAADE5kTa2PthilVUl3QJ5NfqfzACB`
+Snapshot ID: `AAAAAD+LT2pJipcgRKznvDY3fP0IbrDr`

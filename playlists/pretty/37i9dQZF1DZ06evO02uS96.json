@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169409,
+  "num_followers": 169408,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABYjcBTX0URGFTeGDuuLtKL",
+  "snapshot_id": "aa9fAAAAAABUTZFhlue6Zdpm+GlvJsMt",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 338173,
-      "name": "\u516d\u7b49\u661f\u306e\u591c",
-      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
+      "duration_ms": 360480,
+      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
+      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 360480,
-      "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
-      "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
+      "duration_ms": 338173,
+      "name": "\u516d\u7b49\u661f\u306e\u591c",
+      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8776\u3005\u7d50\u3073",
-        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
+        "name": "ninelie EP",
+        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 302960,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
+      "duration_ms": 244186,
+      "name": "Through My Blood <AM>",
+      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ninelie EP",
-        "url": "https://open.spotify.com/album/1a1ckZAQAULGf2XuH3JbeN"
+        "name": "\u8776\u3005\u7d50\u3073",
+        "url": "https://open.spotify.com/album/6Sxen65iUIObRklGqP1iTh"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 244186,
-      "name": "Through My Blood <AM>",
-      "url": "https://open.spotify.com/track/6S8yJ1otH9mlhVSXDMV9Bt"
+      "duration_ms": 302960,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/684qXOiHeMagUHN4eto8bv"
     },
     {
       "added_at": null,

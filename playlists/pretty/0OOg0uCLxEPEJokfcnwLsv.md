@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 767 likes - 65 songs - 4 hr 6 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 772 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 63 | [Oxygen](https://open.spotify.com/track/14QISLgJs7nlmR8rRybQCo) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Oxygen](https://open.spotify.com/album/6s4OCKSVdEgYMB4bPzslGZ) | 3:15 |
 | 64 | [Debbie](https://open.spotify.com/track/26Rw7z6INdwmyEPZUYS6SI) | [Presión alta](https://open.spotify.com/artist/6To2DHH1TIPvIRijfDpLys) | [Debbie](https://open.spotify.com/album/4OvwgIDxbgp7LQj1E8HYvF) | 3:12 |
 | 65 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 |
+| 66 | [The Artist](https://open.spotify.com/track/7JYLpQZPFzAsWH0vKoDoAJ) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [Mud Music](https://open.spotify.com/album/5mXJWvL4cMaYobl6K0YUh2) | 3:39 |
+| 67 | [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 |
+| 68 | [All Along](https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:37 |
+| 69 | [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 |
+| 70 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 |
 
-Snapshot ID: `AAAFQ0ZE0T4pNA2SRaFl5tF2oWF+qF4E`
+Snapshot ID: `AAAFSDBRtBmAvD11b7Gp/EHwI0ynXRxn`

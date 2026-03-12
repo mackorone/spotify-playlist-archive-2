@@ -1,6 +1,6 @@
 {
   "description": "PTQFA ta na rua, chegou o momento das ex",
-  "num_followers": 1453759,
+  "num_followers": 1453642,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -123,34 +123,6 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
-        "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
-        "url": "https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        },
-        {
-          "name": "Dj Andrabeat",
-          "url": "https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
-      "url": "https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
         "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
         "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
       },
@@ -175,6 +147,34 @@
       "duration_ms": 140487,
       "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
       "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
+        "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
+        "url": "https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        },
+        {
+          "name": "Dj Andrabeat",
+          "url": "https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
+      "url": "https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI"
     },
     {
       "added_at": "2026-03-06 13:37:33",
@@ -791,30 +791,6 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/1O6473FQ4oOmVhgHMtCiJY"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Gigant",
-          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5nNScs8d0L55YlrPepJi7C"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
         "name": "Presentinho",
         "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 342857,
       "name": "Presentinho",
       "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
+        "name": "Fake Love",
+        "url": "https://open.spotify.com/album/1O6473FQ4oOmVhgHMtCiJY"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Gigant",
+          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 196626,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5nNScs8d0L55YlrPepJi7C"
     },
     {
       "added_at": "2026-03-06 13:37:33",

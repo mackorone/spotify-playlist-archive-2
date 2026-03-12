@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
-> The best new indie tracks from independent artists & labels\. Cover: Victoryland
+> The best new indie tracks from independent artists & labels\. Cover: Quiet Light
 
-3,736 songs - 8 day 14 hr 55 min
+3,742 songs - 8 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 | 2024-04-17 | 2024-06-06 |
 | [Angel Blessings](https://open.spotify.com/track/6h5NAE2KDEmnb3GcQ7YPSp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Sex Week](https://open.spotify.com/album/5CYw5D0JT6RC8qQ6UzeEAu) | 3:20 | 2024-12-04 | 2025-01-16 |
 | [Angelface](https://open.spotify.com/track/5MEfxTan4X3PmkETXxOG6e) | [Maraschino](https://open.spotify.com/artist/69gtbCnRjxfD5hrQ11kawx) | [Angelface](https://open.spotify.com/album/094uWLFqFmPZkrH9liTmY3) | 5:48 | 2023-02-01 | 2023-03-02 |
+| [Angelica](https://open.spotify.com/track/61wiLy4LB7rFZUYvETBv6u) | [Bella Litsa](https://open.spotify.com/artist/7JtXhBJMyYER8yXatsX7Xd) | [Drasticism](https://open.spotify.com/album/4fLp3PmXlkqbdFHen2ENDd) | 2:54 | 2026-03-11 |  |
 | [Angelina](https://open.spotify.com/track/5ZSSP4DA2iRTmKUQr7qicB) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [Angelina](https://open.spotify.com/album/3gJQkqLEaJshEGIm3VK3Ea) | 3:24 | 2021-12-01 | 2022-01-13 |
 | [Angels](https://open.spotify.com/track/1m4Xca7rdY2hvkDaMGccI5) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Pirate Radio](https://open.spotify.com/album/4UGjfskucRAge5oMYjDsOz) | 3:08 | 2022-11-30 | 2023-01-12 |
 | [Angels](https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN) | [Hamond](https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR) | [Angels](https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL) | 3:08 | 2022-02-09 | 2022-03-17 |
@@ -643,6 +644,7 @@
 | [Chow](https://open.spotify.com/track/4mAPF5TsEQW0rGvwAmHkee) | [Sun Era](https://open.spotify.com/artist/15wl7Y9VZVXUWvjSurSwO5) | [Chow](https://open.spotify.com/album/4lghrveo673J4knOFgxdPF) | 2:44 | 2022-03-16 | 2022-04-27 |
 | [Chromatic Fantasy, and Feud](https://open.spotify.com/track/3POEhTkVghg7shEbBVzvFI) | [ernest rareberrg](https://open.spotify.com/artist/46dVUKwnMDdVFUX7Zz28fB) | [Chromatic Fantasy, and Feud](https://open.spotify.com/album/62NdklMwygmByB3Y5XFyib) | 2:35 | 2023-11-08 | 2023-11-30 |
 | [Cigarettes In Paris](https://open.spotify.com/track/1OMPGlgkSKs4BJhk3Kof9V) | [MORE&MORE](https://open.spotify.com/artist/0WWwnAF0Ljd6f4NUOnVuWk) | [Cigarettes in Paris](https://open.spotify.com/album/4Te8ccxLimCYna1HHU8N9q) | 2:43 | 2022-09-28 | 2022-10-26 |
+| [Cigs](https://open.spotify.com/track/4bAFGowS2jqSfGfMEyrNxM) | [Organ Tapes](https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS) | [一包烟](https://open.spotify.com/album/5Tbpo9yKicVDv3KX0sP3O5) | 2:20 | 2026-03-11 |  |
 | [CINDERELLA GIRL](https://open.spotify.com/track/5b3X9HXi7mK05KWTC3703i) | [TURNSPIT](https://open.spotify.com/artist/1HbKJU6NYDySoBXuAi5dNB) | [CINDERELLA GIRL](https://open.spotify.com/album/2EPgdKewo65kZvovKFljzD) | 5:12 | 2025-10-08 | 2025-12-04 |
 | [Circle Falls](https://open.spotify.com/track/5nX6EuwErmNnD5LkzqryZa) | [Jupie](https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28) | [Brick Hill](https://open.spotify.com/album/7zsR6O8S3HQVXqkgKbK4fi) | 2:29 | 2024-01-17 | 2024-02-22 |
 | [Circles](https://open.spotify.com/track/6cIaCOBTxU0XWSMth3X5XJ) | [Artificial Go](https://open.spotify.com/artist/6XBGmjpy9vfSmarlFHppRU) | [Circles](https://open.spotify.com/album/7GhhJjMZd8j8XTYIAzH8tR) | 2:57 | 2025-04-23 | 2025-06-12 |
@@ -857,6 +859,7 @@
 | [Do I Scare You](https://open.spotify.com/track/1PHn37xR2YvLcGpBCPpl2e) | [Bea Bitter](https://open.spotify.com/artist/6dgOnDNXvJ5ipEnbocP0Gu) | [Do I Scare You](https://open.spotify.com/album/3YN9Rzgi86fzi1WMTRY3uf) | 2:26 | 2022-09-23 | 2022-10-13 |
 | [Do You Believe in Love](https://open.spotify.com/track/1RFAVXee1BDJp0DKZZLWZd) | [Coco Elise](https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC) | [Do You Believe in Love](https://open.spotify.com/album/0Y4dm9ueHYvlBBwK5dxpN2) | 2:10 | 2023-06-27 | 2023-07-22 |
 | [do you know my name?](https://open.spotify.com/track/2veqAEzHW7tAoATpCbXg97) | [St\. Frances](https://open.spotify.com/artist/19hq1SgLJe8SVZnH9jfwfj) | [do you know my name?](https://open.spotify.com/album/28nMBhaC4ynX8dEjTMBsgN) | 4:21 | 2023-02-08 | 2023-03-02 |
+| [Do you miss me at all](https://open.spotify.com/track/2qNlbiYVufbqIvxBugp3Rf) | [Bedelia](https://open.spotify.com/artist/2y1uY0iJhBmQ2pbJpj94Vz) | [Never change, love you always](https://open.spotify.com/album/4Zdz41nIVoVftrPWRVwIWW) | 3:24 | 2026-03-11 |  |
 | [do you think im a robot \- demo](https://open.spotify.com/track/1sqLoG0pxdZxJ1KGaQmZsi) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [dorm room demos](https://open.spotify.com/album/4KXsPYtvXLnc9GFURxuCPo) | 5:17 | 2023-04-12 | 2023-04-27 |
 | [do you think it was the last time?](https://open.spotify.com/track/0htfRkYdvFdjhZOz3YCp1A) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [do you think it was the last time?](https://open.spotify.com/album/5GF1z8ApTTX7CgBk9Q31O4) | 2:41 | 2023-08-08 | 2023-09-14 |
 | [do you think we're old enough](https://open.spotify.com/track/3wOixX2IXEqYZaui7mTUtp) | [Au Gres](https://open.spotify.com/artist/6hz3z9hlJ0gB5CkmxnnwHr) | [do you think we're old enough](https://open.spotify.com/album/5SOvZNMeYqj0epHWecJUV2) | 3:04 | 2022-02-09 | 2022-04-07 |
@@ -1401,6 +1404,7 @@
 | [heavy\-hearted](https://open.spotify.com/track/0EpZxmxdI27Y6hMwO79pvy) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [heavy\-hearted](https://open.spotify.com/album/428oKi8Lpx377MJjLV1upq) | 2:39 | 2022-05-19 | 2022-06-09 |
 | [Height](https://open.spotify.com/track/6EygYVTCRzcPk1djzLQoqT) | [butohes](https://open.spotify.com/artist/6ofwAXNQ3cuSW3J7N3CBdz) | [Height](https://open.spotify.com/album/49JJC4xVS7urfzqvxtLgXX) | 3:27 | 2023-04-05 | 2023-05-11 |
 | [Hell No](https://open.spotify.com/track/34JLZtNXw2pxMa0KX5e45R) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I) | [Hell No](https://open.spotify.com/album/3LgWpcJ7vjf1ZcQo8T5HNb) | 2:43 | 2023-02-15 | 2023-03-23 |
+| [hello](https://open.spotify.com/track/10HkcKldxntNwW4W9m998V) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [hello](https://open.spotify.com/album/3cxt0budBXJt5kuorU6PxF) | 1:16 | 2026-03-11 |  |
 | [hello !](https://open.spotify.com/track/5kXvq3Av4i43eejvl2GxZq) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [hello !](https://open.spotify.com/album/40TqXlI1fSIQVfx6HmUfaQ) | 2:50 | 2024-10-23 | 2025-01-16 |
 | [Help Me](https://open.spotify.com/track/2VOhM65FMp6Exa49eWbv6f) | [rainbow frog biscuits](https://open.spotify.com/artist/6tyZ35su1t0W5Hx0rWhhvT) | [Help Me](https://open.spotify.com/album/7BRttwjnjHqjcZ4ww6H17d) | 3:23 | 2022-03-16 | 2022-04-27 |
 | [helpless](https://open.spotify.com/track/4Bnl98SGAhCxIpikigYl0O) | [bugzbee](https://open.spotify.com/artist/31BmC7LEE0klpwP8LqlYdl) | [helpless](https://open.spotify.com/album/42ybDgfXiKQxgrcKjDuiVr) | 3:08 | 2024-06-12 | 2024-07-11 |
@@ -1896,6 +1900,7 @@
 | [Lily of the Nile](https://open.spotify.com/track/4SARufmc1LxmOyFLC8tWag) | [Zsela](https://open.spotify.com/artist/7IYuY1VszmoEUu4o3tNgC6) | [Big For You](https://open.spotify.com/album/2VAmLEwcaTz1KeOw0RSKjz) | 3:51 | 2024-06-19 | 2024-08-01 |
 | [Limelight](https://open.spotify.com/track/2aENXDjF7mODufS7JunKUk) | [rakey](https://open.spotify.com/artist/2MHVHW2D8Xzn8jQKOMFx4p) | [Limelight](https://open.spotify.com/album/0xZLdAXZ46uQHMI6eaVduU) | 3:14 | 2026-01-14 | 2026-02-19 |
 | [Limerence](https://open.spotify.com/track/7ejzjqjzcJ7K2YRlcUd55w) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Limerence](https://open.spotify.com/album/7wPNxfaGRGhBGpdfQXAV10) | 2:51 | 2023-07-24 | 2023-08-24 |
+| [limerence](https://open.spotify.com/track/4Jc44NE8nRCBLlfqDdPm4z) | [jite](https://open.spotify.com/artist/2U5muScVm0KPEmqiBQuXO3) | [limerence](https://open.spotify.com/album/1oQXqFpDbAaoGWbFJbRdAs) | 3:39 | 2026-03-11 |  |
 | [Liminal Space](https://open.spotify.com/track/4eolAvAFu1WldnVAhKT6jY) | [ultrasaturated](https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC) | [Liminal Space // Luna](https://open.spotify.com/album/3EW2ZUuaZVdlI5LGOAEnGG) | 3:34 | 2024-11-06 | 2024-12-05 |
 | [Limitless](https://open.spotify.com/track/1DElDcDVnmNRp6wEl4R7Oh) | [Wunderkind](https://open.spotify.com/artist/4JZIqECSVa1Bry6ApgnaGu) | [Limitless](https://open.spotify.com/album/6wzk4ekf5N2AwFXbt310lR) | 2:46 | 2025-07-02 | 2025-08-28 |
 | [limn](https://open.spotify.com/track/69oIIqwBPHmM8m81cW1H5O) | [isobel](https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA) | [limn](https://open.spotify.com/album/26IJ29iCYAozdqslJSkUWw) | 3:27 | 2026-01-14 | 2026-02-26 |
@@ -2740,6 +2745,7 @@
 | [Same Thing, Different Now](https://open.spotify.com/track/2iNjbkKgq84hyhWvLUOtIi) | [Moxie](https://open.spotify.com/artist/4K2IUtmY2APWh6mdxzBOZF) | [Same Thing, Different Now / Tripping Fields](https://open.spotify.com/album/6BHHnDK5yRU0RH2ZBt5IEU) | 2:29 | 2022-01-19 | 2022-04-07 |
 | [same town](https://open.spotify.com/track/79s2YK9V1mGJkSOxt4a94K) | [Jay Kim](https://open.spotify.com/artist/6imBIUT38VebSD6K6N6cN6) | [homegrown](https://open.spotify.com/album/4teTVPQKqDyUV7sJGanYGL) | 2:18 | 2022-03-09 | 2022-04-13 |
 | [Sandra](https://open.spotify.com/track/5ICH7ngVufTeW8sBCCl2GN) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Sandra](https://open.spotify.com/album/3diUwioN2XksdXKERc4rxi) | 3:54 | 2022-09-06 | 2023-01-12 |
+| [Sanity](https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Sanity](https://open.spotify.com/album/5I17zM2Ovzcpew2NJOkzJM) | 5:23 | 2026-03-11 |  |
 | [Santa Fe](https://open.spotify.com/track/7b3MrbdkWwYnDTcQaQJ9g5) | [Veni Sun](https://open.spotify.com/artist/2FLqR4YXPurY27vtZEIwqB) | [Santa Fe](https://open.spotify.com/album/5699tqLKxPzXnAmX3ToRKc) | 4:00 | 2022-04-12 | 2022-05-12 |
 | [Sapphire](https://open.spotify.com/track/4BLZjdPU4Yiw1M1KDTY3bA) | [City Mall](https://open.spotify.com/artist/5IUx10uUQF8dfkuvlejNiV) | [Lobby Songs](https://open.spotify.com/album/6BwvnzSSJKP5EHYzf5UUE2) | 2:56 | 2024-11-20 | 2024-12-05 |
 | [Satan Loves You](https://open.spotify.com/track/3LdXoKD1oTAsRxHLJGEEOE) | [Chloë Doucet](https://open.spotify.com/artist/4wKCXloIwBDiO9eUGe1QpW) | [Satan Loves You](https://open.spotify.com/album/6xrANcAOKHnc8SMRRh3FBn) | 3:15 | 2023-08-30 | 2023-10-26 |

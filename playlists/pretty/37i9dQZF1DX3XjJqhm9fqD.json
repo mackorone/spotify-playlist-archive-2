@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 99947,
+  "num_followers": 99962,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
+      },
+      "artists": [
+        {
+          "name": "Sweet Micky",
+          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
+        }
+      ],
+      "duration_ms": 512940,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Apre bal la",
         "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 237362,
       "name": "Apre bal la",
       "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/0ggs2PkqXX0iS04QP224FX"
-      },
-      "artists": [
-        {
-          "name": "Sweet Micky",
-          "url": "https://open.spotify.com/artist/05geNTZ09mJ7s6OguQySjc"
-        }
-      ],
-      "duration_ms": 512940,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/2zJ6ZsqLSAaov7OXnePKcB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "F\u00f2s",
-        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        },
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 234248,
-      "name": "Crush la",
-      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Akouna",
         "url": "https://open.spotify.com/album/3mG0N03K6bRCzdrjZDv4dp"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 230679,
       "name": "Akouna",
       "url": "https://open.spotify.com/track/4LpNfAbfboWLlXw6Y3p5U5"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "F\u00f2s",
+        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 234248,
+      "name": "Crush la",
+      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Bwa Kale",
         "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 185965,
       "name": "Bwa Kale",
       "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
         }
       ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+      "duration_ms": 286840,
+      "name": "Flanm",
+      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Lakou",
+        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
+      },
+      "artists": [
+        {
+          "name": "Tafa Mi-Soleil",
+          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Lakou",
+      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Ban Mwen Love",
         "url": "https://open.spotify.com/album/6HExK0uNeuhH4iNWQWuxie"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 278213,
       "name": "Ban Mwen Love",
       "url": "https://open.spotify.com/track/1XbnEgnpIsAefXxNuiNH3X"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Lakou",
-        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
-      },
-      "artists": [
-        {
-          "name": "Tafa Mi-Soleil",
-          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Lakou",
-      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
         }
       ],
-      "duration_ms": 286840,
-      "name": "Flanm",
-      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1539,22 +1539,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+        "name": "BIDIBAM",
+        "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
       "artists": [
         {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
         },
         {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+          "name": "Dwala",
+          "url": "https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT"
         }
       ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
+      "duration_ms": 190143,
+      "name": "BIDIBAM",
+      "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
@@ -1591,26 +1611,6 @@
       "duration_ms": 400388,
       "name": "Ayizan",
       "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "BIDIBAM",
-        "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
-      },
-      "artists": [
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        },
-        {
-          "name": "Dwala",
-          "url": "https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT"
-        }
-      ],
-      "duration_ms": 190143,
-      "name": "BIDIBAM",
-      "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
-      },
-      "artists": [
-        {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
-        },
-        {
-          "name": "Spectrum the Originator",
-          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
-        }
-      ],
-      "duration_ms": 166008,
-      "name": "Wine Pon Me - Remix",
-      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
+      },
+      "artists": [
+        {
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "Spectrum the Originator",
+          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
+        }
+      ],
+      "duration_ms": 166008,
+      "name": "Wine Pon Me - Remix",
+      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
     },
     {
       "added_at": "2025-07-25 04:00:50",

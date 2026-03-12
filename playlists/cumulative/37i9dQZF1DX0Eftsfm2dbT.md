@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Daichi Yamamoto, NENE, MIKADO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,332 songs - 4 day 21 hr 35 min
+2,333 songs - 4 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2267,6 +2267,7 @@
 | [新しい友達いらない](https://open.spotify.com/track/6hRVNat0GUcPM9dOXshp8N) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [DubbyMaple](https://open.spotify.com/artist/2Y0nGXu6bM3bvR16LDbuKX) | [新しい友達いらない](https://open.spotify.com/album/0U4BaXJCAdqGDS0SjuaHyZ) | 2:38 | 2025-05-20 | 2025-07-18 |
 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 | 2024-04-09 | 2024-07-31 |
 | [星に願う](https://open.spotify.com/track/1SeC3ZRkFfGdhJw3ftr8Zp) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [星に願う](https://open.spotify.com/album/3jsSiU9UXByd2z5jSr8ViL) | 2:46 | 2025-08-05 | 2025-10-01 |
+| [春夏秋冬](https://open.spotify.com/track/6QfnWtaW5oerFQeIrjMGrr) | [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Mother Tree](https://open.spotify.com/album/5R3DJCQQ4HcIL2o7dDc5Au) | 4:06 | 2026-03-11 |  |
 | [昼はリーマン夜はラッパー](https://open.spotify.com/track/5b5KABTNzIw7ZsaRt2buUO) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [昼はリーマン夜はラッパー](https://open.spotify.com/album/5Y4iKeU6ZVOolbK22u8yaN) | 1:57 | 2026-01-22 | 2026-02-25 |
 | [普通の人間だって言えないよ](https://open.spotify.com/track/5mdhqO06ZE7PCZ0uNc12Qz) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [普通の人間だって言えないよ](https://open.spotify.com/album/34oChr7G0x8xWoPZDGY2iL) | 2:56 | 2025-11-11 | 2025-12-10 |
 | [智衆](https://open.spotify.com/track/545QLMjQtMMkFznIrAakkU) | [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [智衆](https://open.spotify.com/album/3RUOwMlFr5Omc1AZnAy9WZ) | 2:11 | 2025-02-25 | 2025-04-30 |

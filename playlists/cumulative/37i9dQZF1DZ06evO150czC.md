@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-85 songs - 7 hr 14 min
+86 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 | 2023-07-09 | 2023-10-11 |
 | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW) | 3:59 | 2025-12-09 |  |
 | [Não Desisto](https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Desisto](https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl) | 4:59 | 2024-07-23 | 2026-01-29 |
+| [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/track/57NfFc3A5Dwn2TvAwvYkKh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Está Nada Perdido \(Ao Vivo\)](https://open.spotify.com/album/5rTzbVeGpTUM2B1VzKMRSb) | 4:32 | 2026-03-12 |  |
 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 | 2023-07-09 | 2025-12-07 |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2023-07-09 |  |
 | [Não Pare \(Ao Vivo\)](https://open.spotify.com/track/5fzw5K4pKnkEx1X9GlaHBy) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare \(Ao Vivo\)](https://open.spotify.com/album/3HLSfUuf03Tl40dp2YHb2M) | 6:51 | 2025-08-15 | 2025-09-12 |
@@ -66,7 +67,7 @@
 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 | 2023-07-09 | 2026-02-05 |
 | [Prioridade](https://open.spotify.com/track/7aqbM1anoTfbbQKQqwMrER) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:11 | 2026-02-05 |  |
 | [Prioridade \(Ao Vivo\)](https://open.spotify.com/track/42xqD1YxWBXgU9ND55MqXE) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Prioridade \(Ao Vivo\)](https://open.spotify.com/album/4EO1KlcmvHxJGG37PzYmDw) | 4:15 | 2025-08-29 | 2025-09-25 |
-| [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 | 2023-07-09 |  |
+| [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 | 2023-07-09 | 2026-03-12 |
 | [Quando o Vento Soprar \(Legado\)](https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9) | [Beno César](https://open.spotify.com/artist/2mnVdA4TjOXomvcMYpuUP2), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Quando o Vento Soprar \(Legado\)](https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY) | 4:22 | 2024-06-09 | 2025-06-21 |
 | [Que Tal](https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Voar](https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7) | 5:09 | 2023-07-09 |  |
 | [Que Tal](https://open.spotify.com/track/259CE2u6OzqsZs7P0cvMK4) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Que Tal](https://open.spotify.com/album/4sh2KYWC7o3oZfxpw37ZOH) | 5:09 | 2023-07-13 | 2023-11-11 |

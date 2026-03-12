@@ -12132,7 +12132,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 208251,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
@@ -13010,6 +13010,24 @@
       "duration_ms": 226483,
       "name": "OUTSIDE (feat. IO & D.O)",
       "url": "https://open.spotify.com/track/32aAUNUI8qjNu4a7ivDbgE"
+    },
+    {
+      "album": {
+        "name": "OYJ",
+        "url": "https://open.spotify.com/album/7jKwAvQp1nlGB9u3x7uWpM"
+      },
+      "artists": [
+        {
+          "name": "Sonsi",
+          "url": "https://open.spotify.com/artist/6YoXFM2OoA3Bn1SUeFnf7r"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163804,
+      "name": "OYJ",
+      "url": "https://open.spotify.com/track/3p18KC7lAWs6dy5PgaRx3K"
     },
     {
       "album": {
@@ -14198,7 +14216,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 141837,
       "name": "RAPSTAR",
       "url": "https://open.spotify.com/track/6znv4CdPla2YNknegmybBT"
@@ -14344,6 +14362,24 @@
       "duration_ms": 161746,
       "name": "Reach",
       "url": "https://open.spotify.com/track/5F5W0KSTnU7KtqSXo2ietC"
+    },
+    {
+      "album": {
+        "name": "Soul Quake 3",
+        "url": "https://open.spotify.com/album/11gMNssJtONEGPfsRuPLKg"
+      },
+      "artists": [
+        {
+          "name": "Watson",
+          "url": "https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157594,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/0PmbnxKgUW0UUL41Qa3e7F"
     },
     {
       "album": {
@@ -18571,6 +18607,32 @@
     },
     {
       "album": {
+        "name": "With U",
+        "url": "https://open.spotify.com/album/73Tky1qFIK781fFTwVkfCj"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268396,
+      "name": "With U",
+      "url": "https://open.spotify.com/track/5qWBjBFvcZ2zWjmGPUUErB"
+    },
+    {
+      "album": {
         "name": "Without you",
         "url": "https://open.spotify.com/album/5Li1r3naPf81vHKBf0aVpv"
       },
@@ -20551,6 +20613,24 @@
     },
     {
       "album": {
+        "name": "\u5730\u5143\u306e\u661f",
+        "url": "https://open.spotify.com/album/34fLSSWGw8b5FpOe8pYjPJ"
+      },
+      "artists": [
+        {
+          "name": "YELLASOMA",
+          "url": "https://open.spotify.com/artist/2pwF9CAO9DDTrer0heIUjb"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149564,
+      "name": "\u5730\u5143\u306e\u661f",
+      "url": "https://open.spotify.com/track/1kOZfgYQsodiZ6QTvrSyao"
+    },
+    {
+      "album": {
         "name": "\u591c\u3092\u306c\u3051\u3066",
         "url": "https://open.spotify.com/album/58Awsy8CSBmcydVxEvj5tX"
       },
@@ -21498,6 +21578,32 @@
       "duration_ms": 172355,
       "name": "\u8d85Fresh",
       "url": "https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8"
+    },
+    {
+      "album": {
+        "name": "\u9055\u3046",
+        "url": "https://open.spotify.com/album/1uP8jI2re3s6MElvZZZuPI"
+      },
+      "artists": [
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267725,
+      "name": "\u9055\u3046",
+      "url": "https://open.spotify.com/track/3UDXnCDzTv4yWO93HAJJ6E"
     },
     {
       "album": {

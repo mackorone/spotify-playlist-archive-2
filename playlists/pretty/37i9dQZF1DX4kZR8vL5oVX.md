@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Naïka \(du titre \#1 au \#16\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,536 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,540 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Charade](https://open.spotify.com/track/2TXNsK2zjC72HSDA944rCv) | [Nina Uzan](https://open.spotify.com/artist/30iinzdRdXO3StiffBPiw9) | [Charade](https://open.spotify.com/album/6D5xf0IHzBNyfQU3otMLcn) | 2:40 |
 | 50 | [Kon Sa](https://open.spotify.com/track/7ykg7XuvPKaCans1BpX9dY) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Kon Sa](https://open.spotify.com/album/4arejIBFe8xHM0SGYfJqXT) | 2:42 |
 
-Snapshot ID: `AAAAAK8QhhGmKruRE+hSaeiDuN8R4QNh`
+Snapshot ID: `AAAAAP22TADdyK0eEZ+DB77PDbyhiVcA`

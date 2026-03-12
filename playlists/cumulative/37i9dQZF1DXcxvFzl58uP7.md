@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-1,024 songs - 2 day 5 hr 4 min
+1,025 songs - 2 day 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2021-02-27 | 2024-04-19 |
 | [Gotta Run](https://open.spotify.com/track/1KcuZCtR3XTcJS6VJsLiHS) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Gotta Run](https://open.spotify.com/album/1FBzIbU60x8HY7z9xzIKTT) | 3:08 | 2020-06-12 | 2021-05-24 |
 | [Gravity](https://open.spotify.com/track/2bCAgbpt22GjAYlO2PggAj) | [Posh Chocolates](https://open.spotify.com/artist/3xTWaGPtvulmX73dfT71J1) | [Gravity](https://open.spotify.com/album/299IQB4kbejJwVROtq0jBK) | 2:48 | 2021-08-13 | 2022-04-20 |
+| [Guilt Drive](https://open.spotify.com/track/1akpUk38h2yvRKn3quUNNS) | [Fireball Kid](https://open.spotify.com/artist/1YnSsYsMWBmHHN05ALpcXM) | [Guilt Drive](https://open.spotify.com/album/1VTT8Rrevx15iQhAJR7FH1) | 3:27 | 2026-03-06 |  |
 | [gum v6.4](https://open.spotify.com/track/3Lq2kHLszAS0KzfH39NI1a) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [gum](https://open.spotify.com/album/4LylTD5MkLPC0w9lsE1lWE) | 3:41 | 2024-01-12 |  |
 | [Gummi Bear](https://open.spotify.com/track/7gKgu4EJwLTuYZXIzA23vO) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/4aLMhlTE9KUz6L2MMYs1xw) | 4:18 | 2021-04-03 | 2021-08-20 |
 | [gushers](https://open.spotify.com/track/1mByHpt75sOE7xFToiJntc) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [tape 001](https://open.spotify.com/album/20aDiqiFzvjFvRsKwvNrbS) | 2:34 | 2021-03-21 | 2021-08-28 |
@@ -792,7 +793,7 @@
 | [Slow Motion](https://open.spotify.com/track/7dNJzsQdvmkX7tQEkH1h4Q) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Slow Motion](https://open.spotify.com/album/3DmSolgySJQElDoJMIVrGF) | 2:30 | 2021-10-29 | 2022-06-25 |
 | [Small Talk](https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Small Talk](https://open.spotify.com/album/3ukx49bzJnkwSgGyWjm2AC) | 3:13 | 2021-07-19 | 2022-07-29 |
 | [Smoke Break](https://open.spotify.com/track/1V0KZwcXiqtkbVnALn4MWw) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Smoke Break](https://open.spotify.com/album/2468pxzGecAFEEp8xeSr16) | 3:27 | 2021-05-14 | 2022-07-28 |
-| [Snail Mail](https://open.spotify.com/track/2Ailg2NC6gSSGOc2UcA5RV) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Snail Mail](https://open.spotify.com/album/0ZiVw4wKZhf1OuTXClRXAO) | 2:06 | 2026-02-27 |  |
+| [Snail Mail](https://open.spotify.com/track/2Ailg2NC6gSSGOc2UcA5RV) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Snail Mail](https://open.spotify.com/album/0ZiVw4wKZhf1OuTXClRXAO) | 2:06 | 2026-02-27 | 2026-03-12 |
 | [So Far](https://open.spotify.com/track/6RKE2FRFq9MDYI0L1HcXG9) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8), [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [So Far](https://open.spotify.com/album/1SWsuGzbGY1y0506omiR3E) | 3:14 | 2020-07-24 | 2021-08-03 |
 | [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2023-07-19 | 2023-08-26 |
 | [Social Sites](https://open.spotify.com/track/0puyikpyVwe8TTv2tvMHeq) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5CVh7KRau0zBDqKuM6G2ZU) | 4:49 | 2019-07-30\* | 2021-05-22 |

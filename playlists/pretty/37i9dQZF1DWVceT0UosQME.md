@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,288 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,298 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 28 | [True Crimes](https://open.spotify.com/track/1Xom95weqXElNvdHoAxuSi) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [True Crimes](https://open.spotify.com/album/1WguboHSQgsMGzoQ66Y8Ds) | 2:11 |
 | 29 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
 | 30 | [Piano Roll](https://open.spotify.com/track/1mgu8HfJP14u5czwRJlGVp) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [Piano Roll](https://open.spotify.com/album/1pMPBn1X8SgzmIHSafKXLt) | 2:05 |
-| 31 | [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 |
-| 32 | [Pineapple Buddies](https://open.spotify.com/track/0mj2sBzTr6l1klNonBbLyG) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Pineapple Buddies](https://open.spotify.com/album/57JWCjra4VebstviuIJ6Ne) | 1:58 |
+| 31 | [Pineapple Buddies](https://open.spotify.com/track/0mj2sBzTr6l1klNonBbLyG) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Pineapple Buddies](https://open.spotify.com/album/57JWCjra4VebstviuIJ6Ne) | 1:58 |
+| 32 | [Whispers of the Wind](https://open.spotify.com/track/3E6NfnkawOsv6QEHDVqdlV) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Whispers of the Wind](https://open.spotify.com/album/4vxhhrJEaboZh47GyEfZ00) | 2:13 |
 | 33 | [fliff](https://open.spotify.com/track/4WuNnBS0bhE9WuXky2VBCl) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [fliff](https://open.spotify.com/album/6Y8uumptLHbhwhDbFWcX3M) | 1:35 |
 | 34 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 |
 | 35 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 45 | [Sunny Walk](https://open.spotify.com/track/7EccAFIyTAXrxfvrkZdDNU) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Sunny Walk](https://open.spotify.com/album/6JvavHc9LVWO0fksFQviHS) | 1:46 |
 | 46 | [You Look Pretty](https://open.spotify.com/track/1Fq0VPFph4hIF4971B8and) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Mornings with Oscar](https://open.spotify.com/album/137kXQBQ6M2x1Xaj48aFvB) | 2:51 |
 | 47 | [Lisabon](https://open.spotify.com/track/08PythMQ97nIacc0AdIdnF) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Lisabon](https://open.spotify.com/album/7mMzc1YjMfdgLJ2wzckN86) | 2:29 |
-| 48 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
-| 49 | [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 |
+| 48 | [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 |
+| 49 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
 | 50 | [comply](https://open.spotify.com/track/2rm5C58P9UDchlcKdV0Bzn) | [Flower Chanel.](https://open.spotify.com/artist/7qnkTNSjbkAfmWRjjs9yq4) | [comply](https://open.spotify.com/album/6DjUY2UsJxbITCNZUv1RtO) | 2:04 |
 | 51 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 |
 | 52 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 57 | [projection](https://open.spotify.com/track/5ot2Nv3COru7DqNd8PaFy5) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [projection](https://open.spotify.com/album/64wr6u8ng4pFUfCvtLIbJ8) | 2:38 |
 | 58 | [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 |
 | 59 | [Bar Breeze](https://open.spotify.com/track/4cPDwwClSmyI85odEgVVgm) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Bar Breeze](https://open.spotify.com/album/58Igwkq1QIk5dfnfoqaB5M) | 2:18 |
-| 60 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 |
-| 61 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 |
+| 60 | [dear](https://open.spotify.com/track/4eMXHSc8jzmc9XdrHc14eO) | [Ree Vozz](https://open.spotify.com/artist/03Kr8XGKfldmQU7bODAzqu) | [chai latay](https://open.spotify.com/album/2LsusJuv6WiMu7VKOLg7Ki) | 2:51 |
+| 61 | [High five, low\-fi](https://open.spotify.com/track/6mCHWvDL7kXZdVhc8ovk0y) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [High five, low\-fi](https://open.spotify.com/album/0XqcEKC7xJg1bN9dp8tKVo) | 2:08 |
 | 62 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
 | 63 | [L.B.H.U](https://open.spotify.com/track/30VyqwDufoHJrOWBbrnZVq) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [Gijri](https://open.spotify.com/album/346x1qpLsub5x6B2MNx2sE) | 3:28 |
 | 64 | [Kyoto Nights](https://open.spotify.com/track/7kCclmsH5N16EG7eSTmkh4) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Kyoto Nights](https://open.spotify.com/album/2f0vY3mmnDAXTfqP9UzMi7) | 2:13 |
@@ -99,10 +99,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 89 | [Leaps Of Faith](https://open.spotify.com/track/0x0gAc20a4R4d4J9sAov5S) | [Chill Collusion](https://open.spotify.com/artist/1TtW6tuwl4p3aUWydX2kMj) | [Leaps Of Faith](https://open.spotify.com/album/2tdVnz8aJLwRWcIp15rTY6) | 2:18 |
 | 90 | [Wonders](https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI) | [Hallie](https://open.spotify.com/artist/4LmD8cR6Zd5udgGP2RHGdb) | [Wonders](https://open.spotify.com/album/2t9021Gl3lIMHhQJzJo2Rt) | 2:41 |
 | 91 | [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 |
-| 92 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 |
-| 93 | [Breathing](https://open.spotify.com/track/05Ze1zg6BmU0UtLv1upnLb) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Breathing](https://open.spotify.com/album/67LIvPyCZM0V1Lf9EOYm8T) | 2:10 |
-| 94 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 |
-| 95 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 |
+| 92 | [Breathing](https://open.spotify.com/track/05Ze1zg6BmU0UtLv1upnLb) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Breathing](https://open.spotify.com/album/67LIvPyCZM0V1Lf9EOYm8T) | 2:10 |
+| 93 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 |
+| 94 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 |
+| 95 | [Planka på tricken](https://open.spotify.com/track/6rqgMboy3Kc7vVFZeeJnp9) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Planka på tricken](https://open.spotify.com/album/34L7eNGbFJoqVkoK8E9SeM) | 2:04 |
 | 96 | [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 |
 | 97 | [Proud](https://open.spotify.com/track/389TtRJoTkbZ8VtGkt22iC) | [SPEERMINT](https://open.spotify.com/artist/4vUekBx2RSM0U87RLJl1pL) | [Proud](https://open.spotify.com/album/6kethGKQhDlXousA0NfVCD) | 2:16 |
 | 98 | [Miró](https://open.spotify.com/track/5HbtorjBQ9pgeKI88WS6k1) | [Canapé](https://open.spotify.com/artist/1RBDVHmvVjKG5XuCpD02hg) | [Miró](https://open.spotify.com/album/2VbLl6M1fIUTiRB9am8tYv) | 2:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,282 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,285 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 25 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 | 26 | [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 |
 | 27 | [Lijntje](https://open.spotify.com/track/7pjRtk9nAPyU9zdyPQFFqi) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:49 |
-| 28 | [Zoo](https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT) | 3:10 |
+| 28 | [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 |
 | 29 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 30 | [Argent Sale \- A COLORS SHOW](https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Argent Sale \- A COLORS SHOW](https://open.spotify.com/album/5rnigfYhS1xJ8JuRQhNfcE) | 2:44 |
 | 31 | [Génération impolie](https://open.spotify.com/track/7EyB1sN9IUO1YXIoHTyZRk) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aura X G\-wave](https://open.spotify.com/album/19oWIQY8EuiAaxbS7Atbga) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
 | 50 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 |
 
-Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUTRQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

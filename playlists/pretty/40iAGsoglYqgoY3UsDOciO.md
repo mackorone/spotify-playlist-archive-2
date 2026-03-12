@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 642 likes - 500 songs - 1 day 0 hr 9 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 645 likes - 505 songs - 1 day 0 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -508,5 +508,10 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 498 | [My Mind Is a Void](https://open.spotify.com/track/0K1cYIykoKhDbYF3WHXNKT) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [My Mind Is a Void](https://open.spotify.com/album/7vDLJdt0tdllXZ6ZDINQb6) | 3:14 |
 | 499 | [Mind Racing](https://open.spotify.com/track/0R5z5TGaGrt92LNRdT2pUR) | [Only1Krook](https://open.spotify.com/artist/0Aq2lOPzjhehPyGY3YGWDC) | [V1oneKrook](https://open.spotify.com/album/2E3GlytM8U0bgMT1bgWSeZ) | 2:26 |
 | 500 | [Cycles](https://open.spotify.com/track/38bi05yCUFyHLU08QEMc50) | [Teknik](https://open.spotify.com/artist/7xGB1yPO2EpkMKpk9RHn9v), [MISTER GREEN](https://open.spotify.com/artist/3NgAIGpRDPOe6ZGPhQNRD2) | [Cycles](https://open.spotify.com/album/2F26U2YH5YBXWciFyKxhmw) | 2:40 |
+| 501 | [PEINE](https://open.spotify.com/track/4KMb5my1t67v1yC3JAIF5v) | [Nayyar](https://open.spotify.com/artist/1txzMXuzAsFb8f3IUtgBUh) | [EGO](https://open.spotify.com/album/3vXhIxQevrJhppiLRMh94F) | 2:18 |
+| 502 | [Feeling Down](https://open.spotify.com/track/0B85RhpXbAe90r3wSSsw5u) | [JkashMurkum](https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C) | [Feeling Down](https://open.spotify.com/album/5VFTtHwMuFTkqwiz2v2qFm) | 3:20 |
+| 503 | [Clean My Cuts II](https://open.spotify.com/track/1rLeYqrwDshfgsi6SYmkem) | [Frvrmars](https://open.spotify.com/artist/4rR3lkqLfQpS4UO6fFnWri) | [Clean My Cuts II](https://open.spotify.com/album/0BjotdDyebDkiFoo6AUQOw) | 1:43 |
+| 504 | [Sacrifice](https://open.spotify.com/track/2z0GmPAHek5JOcXH1ANfpH) | [MAXZY](https://open.spotify.com/artist/0Q7IxVepXapwhfsHtHZdPo) | [Sacrifice](https://open.spotify.com/album/2jSszvlN2bOYctf59rUShe) | 2:18 |
+| 505 | [Vodka Gimlet](https://open.spotify.com/track/4SAUPzFcpA73GE1oYsFgyy) | [TheJesterFeste](https://open.spotify.com/artist/6vz1X4moDOarYoxIVdZDvY) | [Vodka Gimlet](https://open.spotify.com/album/1GZehL05fyv9OicjDwCWaW) | 2:46 |
 
-Snapshot ID: `AAABlPpDuhw8pOCdUjwf432fUYvuDNHK`
+Snapshot ID: `AAABmZgpR/XBA1mKoKkUJTw86ocbHLan`

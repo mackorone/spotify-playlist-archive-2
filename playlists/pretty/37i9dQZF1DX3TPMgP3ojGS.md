@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,843 likes - 100 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,922 likes - 100 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 10 | [Suzume](https://open.spotify.com/track/2PP2JHhu02ATqc54cmtFn9) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Suzume](https://open.spotify.com/album/5UJFhq3j1eJXE4KS5lFD3h) | 3:42 |
 | 11 | [Beyond Sleep](https://open.spotify.com/track/5lEiP2arSohcW66h98W9wT) | [N nulls](https://open.spotify.com/artist/6w7driOaO7unWQ2b2FaZcS) | [Beyond Sleep](https://open.spotify.com/album/5Z4h9hm2XqZVIsC127vFkS) | 2:47 |
 | 12 | [Valse lente](https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tailleferre: Valse lente](https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ) | 2:46 |
-| 13 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 |
-| 14 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
+| 13 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
+| 14 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 |
 | 15 | [Merry Christmas, Mr\. Lawrence](https://open.spotify.com/track/5wrxIep0VCAdo1tFsneW1A) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Stanford Cheung](https://open.spotify.com/artist/3cQqz3AnuxmCT6Onwa4zsp) | [Folios of Light \(Music by Contemporary Japanese Composers\)](https://open.spotify.com/album/1QahXtx1tlS7u93nHamC13) | 4:28 |
 | 16 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 |
 | 17 | [That day Re\-work](https://open.spotify.com/track/7F6hZ0WLtmdElhFoGvU6Xt) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [That day Re\-work](https://open.spotify.com/album/65Avh1vLd4VWCbq2cuA40B) | 1:42 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 28 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 |
 | 29 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 |
 | 30 | [Serene](https://open.spotify.com/track/4fG5KccAJKYk1EguGbGKt0) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Serene](https://open.spotify.com/album/0U8AH8FOjVginjHUhK73Ov) | 2:26 |
-| 31 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
-| 32 | [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 |
+| 31 | [Brume Matinale](https://open.spotify.com/track/0jFnlaavbGTER2XNnUztEF) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Brume Matinale](https://open.spotify.com/album/3sMktb2iVDvqtL4UXVcJDA) | 2:46 |
+| 32 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 |
 | 33 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 34 | [Les Soir](https://open.spotify.com/track/0WM2fu4FoREAkHiD25SAOj) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Les Soir](https://open.spotify.com/album/2pRy5vvv9wU2guTJuw1X9m) | 2:24 |
 | 35 | [還る](https://open.spotify.com/track/4SsJaHSydoIr3cYwxPKwfU) | [田中タリラ](https://open.spotify.com/artist/1xQC7gNhUDSY1IfQvF8fou) | [還る](https://open.spotify.com/album/6GsJjr8oBbjvXmNOLwYVRk) | 4:23 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 68 | [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 |
 | 69 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
 | 70 | [A Gentle Sunlight](https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [A Gentle Sunlight](https://open.spotify.com/album/5m80r6ueo0TW5kwn5AuDkF) | 1:57 |
-| 71 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
-| 72 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 |
+| 71 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 |
+| 72 | [The Coming Day](https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT) | [Jack Pelayo](https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG) | [The Coming Day](https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa) | 2:32 |
 | 73 | [Mare Nostrum](https://open.spotify.com/track/08NywOqVYmiuQ8mLpQaUeG) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Mare Nostrum](https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7) | 3:15 |
 | 74 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 |
 | 75 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 |
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 79 | [Sibylline](https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P) | [Corinne Blanchard](https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG) | [Sibylline](https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ) | 2:11 |
 | 80 | [Ala](https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ala](https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa) | 2:00 |
 | 81 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 |
-| 82 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 |
-| 83 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
+| 82 | [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 |
+| 83 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 |
 | 84 | [Sequoia](https://open.spotify.com/track/0w5Kd5Vqg37VZupZCEZVhi) | [Amos Coelllo](https://open.spotify.com/artist/2YbV6GhzqjW9j2ebq8ua5X) | [Sequoia](https://open.spotify.com/album/6cczip33Jhl51tkYf5tS8E) | 2:46 |
 | 85 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 |
 | 86 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 |
 | 87 | [The Gift](https://open.spotify.com/track/0PCduL4v5QEEKqeRUv7TEC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Prehension](https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK) | 3:45 |
 | 88 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 |
 | 89 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 |
-| 90 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
-| 91 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
-| 92 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
-| 93 | [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 |
+| 90 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 |
+| 91 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
+| 92 | [Tone of Love](https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Tone of Love](https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp) | 3:18 |
+| 93 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 |
 | 94 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 |
 | 95 | [Luce](https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Luce](https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H) | 2:10 |
 | 96 | [Libre](https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Libre](https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ) | 2:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Laredo](https://open.spotify.com/track/4T9ej7a6gtJyQ5yFRO1vXc) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Laredo](https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq) | 2:47 |
 | 100 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 |
 
-Snapshot ID: `AAAAAPuW020hZdNhoCmBuTT7mi7EJU7b`
+Snapshot ID: `AAAAAE+m4xgW/0VhD9xXVa5MLePenxZg`

@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-123 songs - 6 hr 19 min
+124 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [I had a dream...](https://open.spotify.com/track/4IKowbCQsk8o6AQPaYvzQC) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [I had a dream...](https://open.spotify.com/album/4a0XPueH1gK27EtPLCZVp0) | 2:39 | 2026-02-06 |  |
 | [In My World](https://open.spotify.com/track/2R4mhwY1OCrsOgC3EYrcj7) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [In My World](https://open.spotify.com/album/157mdFtAohLLC8NWhXdgTU) | 3:35 | 2025-11-12 |  |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2025-07-04 |  |
+| [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 | 2026-03-11 |  |
 | [Kalabancoro](https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Kalabancoro](https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6) | 3:06 | 2025-07-04 | 2025-09-13 |
 | [Kannot Compare](https://open.spotify.com/track/4h5v5pDvP217NKUTOeYXEA) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Sandro Beatz](https://open.spotify.com/artist/7aD9DloLZqOaJ8saOF4OXi) | [Kannot Compare](https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz) | 2:51 | 2025-07-04 | 2025-09-13 |
 | [Kiss](https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Kiss](https://open.spotify.com/album/0ZLsgnTsexXc2QvVeUlI6s) | 2:19 | 2025-10-10 |  |

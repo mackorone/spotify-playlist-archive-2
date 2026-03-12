@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 ### [Kollywood Cream](https://open.spotify.com/playlist/37i9dQZF1DX0TyiNWW7uUQ)
 
-> Finest collection of Tamil Music from the past 10 years<br/>Cover : Sublashini
+> Finest collection of Tamil Music from the past 10 years<br/>Cover : Dude
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,876 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,030 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Monica](https://open.spotify.com/track/7MrdHOL2aoWfT16CncgNei) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Coolie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1) | 3:37 |
-| 2 | [Oorum Blood](https://open.spotify.com/track/4pCXTYAPgdzMTCsDdDwjy3) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Dude \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL) | 4:00 |
+| 1 | [Oorum Blood](https://open.spotify.com/track/4pCXTYAPgdzMTCsDdDwjy3) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Bhumi](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl) | [Dude \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL) | 4:00 |
+| 2 | [Monica](https://open.spotify.com/track/7MrdHOL2aoWfT16CncgNei) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Coolie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1) | 3:37 |
 | 3 | [Neelothi \(From "Sirai"\)](https://open.spotify.com/track/6wqwVre9LoGnsUUzukxUy3) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Sarathi](https://open.spotify.com/artist/1P4WoYT07QVoIKOenXFXur) | [Neelothi \(From "Sirai"\)](https://open.spotify.com/album/0Z7a6bvJ3aMz3abGSjJ6EK) | 4:34 |
 | 4 | [Thalapathy Kacheri \(From "Jana Nayagan"\)](https://open.spotify.com/track/28keFvZn4UVRi4I8Rj4GjY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Thalapathy Kacheri \(From "Jana Nayagan"\)](https://open.spotify.com/album/0TthxobhZuRUVweIhTUwuc) | 3:17 |
 | 5 | [Singari](https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Pradeep Ranganathan](https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc), [Semv.iii](https://open.spotify.com/artist/2O4fDX3s0c3JQsnxabRK8o) | [Dude \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 74 | [Saarattu Vandiyila](https://open.spotify.com/track/42ON67EVCaJpihkP2U38n7) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [A.R\. Reihana](https://open.spotify.com/artist/1NGDbzC6ZJ1jNt1V5Kv5lv), [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm) | [Kaatru Veliyidai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2tLekrnboehY2rLZhf5YVi) | 4:49 |
 | 75 | [Kaattumalli](https://open.spotify.com/track/5HgXSvl2YoBtEY623UsACk) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 5:06 |
 
-Snapshot ID: `AAAAAJi9/gzA9DeuXRWrQigFYKAQ4Vsa`
+Snapshot ID: `AAAAAEQvjlgvcKoq71AIInqbmxvDxxGS`

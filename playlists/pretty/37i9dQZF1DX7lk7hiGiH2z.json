@@ -1,6 +1,6 @@
 {
   "description": "Der Fr\u00fchling ist da \u2013 mit Songs f\u00fcr l\u00e4ngere Tage und fr\u00f6hliche Familienmomente.",
-  "num_followers": 58478,
+  "num_followers": 58496,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-03-05 14:49:03",
       "album": {
-        "name": "Encanto (Deutscher Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
-      },
-      "artists": [
-        {
-          "name": "Jenniffer Kae",
-          "url": "https://open.spotify.com/artist/7s12cq7LvagVKZN1MWHHNw"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Druck",
-      "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
-    },
-    {
-      "added_at": "2026-03-05 14:49:03",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 88540,
       "name": "Kleine Meise",
       "url": "https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5"
+    },
+    {
+      "added_at": "2026-03-05 14:49:03",
+      "album": {
+        "name": "Encanto (Deutscher Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/0WexjM0UZvvk3AjWK7S8RI"
+      },
+      "artists": [
+        {
+          "name": "Jenniffer Kae",
+          "url": "https://open.spotify.com/artist/7s12cq7LvagVKZN1MWHHNw"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Druck",
+      "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
     },
     {
       "added_at": "2026-03-05 14:49:03",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-03-05 14:49:03",
       "album": {
-        "name": "Heile Welt",
-        "url": "https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc"
-      },
-      "artists": [
-        {
-          "name": "Deine Freunde",
-          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "H\u00e4schen h\u00fcpf",
-      "url": "https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn"
-    },
-    {
-      "added_at": "2026-03-05 14:49:03",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 56745,
       "name": "Jetzt f\u00e4ngt das sch\u00f6ne Fr\u00fchjahr an",
       "url": "https://open.spotify.com/track/3lBlo2fMGuYMva0jYxKeJS"
+    },
+    {
+      "added_at": "2026-03-05 14:49:03",
+      "album": {
+        "name": "Heile Welt",
+        "url": "https://open.spotify.com/album/390vUKguCbQcJIHaDcmLWc"
+      },
+      "artists": [
+        {
+          "name": "Deine Freunde",
+          "url": "https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "H\u00e4schen h\u00fcpf",
+      "url": "https://open.spotify.com/track/3nBg8DJv1zuUpZAlNpRdhn"
     },
     {
       "added_at": "2026-03-05 14:49:03",
@@ -475,30 +475,6 @@
     {
       "added_at": "2026-03-05 14:49:03",
       "album": {
-        "name": "Freunde finden / Devenir Amis",
-        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
-      },
-      "artists": [
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        },
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "Freunde finden / Devenir Amis (feat. ZO\u00cb M\u00cb)",
-      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
-    },
-    {
-      "added_at": "2026-03-05 14:49:03",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -519,6 +495,30 @@
       "duration_ms": 113127,
       "name": "Der Mai ist gekommen",
       "url": "https://open.spotify.com/track/0BAeOswy8zqael94JgdGFQ"
+    },
+    {
+      "added_at": "2026-03-05 14:49:03",
+      "album": {
+        "name": "Freunde finden / Devenir Amis",
+        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
+      },
+      "artists": [
+        {
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+        },
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "Freunde finden / Devenir Amis (feat. ZO\u00cb M\u00cb)",
+      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
     },
     {
       "added_at": "2026-03-05 14:49:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-03-05 14:49:03",
       "album": {
-        "name": "Fr\u00fchjahrsputz auf dem singenden Bauernhof",
-        "url": "https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN"
-      },
-      "artists": [
-        {
-          "name": "Der singende Bauernhof",
-          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
-        }
-      ],
-      "duration_ms": 118532,
-      "name": "No Problama",
-      "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
-    },
-    {
-      "added_at": "2026-03-05 14:49:03",
-      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 88728,
       "name": "Singt ein Vogel",
       "url": "https://open.spotify.com/track/6p6i094Q8LZRWebVHvWasC"
+    },
+    {
+      "added_at": "2026-03-05 14:49:03",
+      "album": {
+        "name": "Fr\u00fchjahrsputz auf dem singenden Bauernhof",
+        "url": "https://open.spotify.com/album/2AA9MIW7BgHuToNsFCrCmN"
+      },
+      "artists": [
+        {
+          "name": "Der singende Bauernhof",
+          "url": "https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo"
+        }
+      ],
+      "duration_ms": 118532,
+      "name": "No Problama",
+      "url": "https://open.spotify.com/track/1baMW3mcV1KzQ89lZrNkaC"
     },
     {
       "added_at": "2026-03-05 14:49:03",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-03-05 14:49:03",
       "album": {
-        "name": "015/Abends im Walde",
-        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
-      },
-      "artists": [
-        {
-          "name": "Unser Sandm\u00e4nnchen",
-          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
-        }
-      ],
-      "duration_ms": 123320,
-      "name": "Fr\u00fchlingslied",
-      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
-    },
-    {
-      "added_at": "2026-03-05 14:49:03",
-      "album": {
         "name": "Rolfs Hasengeschichte - Die Lieder",
         "url": "https://open.spotify.com/album/1EtDPG0Uju2blhBqouf9vt"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 157793,
       "name": "Wenn es Fr\u00fchling wird im Hasenland",
       "url": "https://open.spotify.com/track/7MPobyJg4jGMalvxGZRXRE"
+    },
+    {
+      "added_at": "2026-03-05 14:49:03",
+      "album": {
+        "name": "015/Abends im Walde",
+        "url": "https://open.spotify.com/album/4BhFBcF5S9Cjdw8ayDsZQI"
+      },
+      "artists": [
+        {
+          "name": "Unser Sandm\u00e4nnchen",
+          "url": "https://open.spotify.com/artist/02Z9KUEjSTXcsmEB7uhDiJ"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "Fr\u00fchlingslied",
+      "url": "https://open.spotify.com/track/4BZlk53PYePRPAB8Bmdnzt"
     },
     {
       "added_at": "2026-03-05 14:49:03",

@@ -1,6 +1,6 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 374408,
+  "num_followers": 374427,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
+        "name": "Strike a Pose (feat. Camille Munn)",
+        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Camille Munn",
+          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
+        }
+      ],
+      "duration_ms": 186604,
+      "name": "Strike a Pose (feat. Camille Munn)",
+      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
-        "name": "Strike a Pose (feat. Camille Munn)",
-        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
-      },
-      "artists": [
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        },
-        {
-          "name": "Camille Munn",
-          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
-        }
-      ],
-      "duration_ms": 186604,
-      "name": "Strike a Pose (feat. Camille Munn)",
-      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
     },
     {
       "added_at": "2026-02-12 16:45:42",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
         "name": "This World Of Mine",
         "url": "https://open.spotify.com/album/67qqzqcaVGJ0FBAkfy6J38"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 186691,
       "name": "This World Of Mine",
       "url": "https://open.spotify.com/track/6bttpK4KFgtKwCfQ8oIaWQ"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     },
     {
       "added_at": "2026-02-12 16:45:42",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-02-12 16:45:42",
       "album": {
-        "name": "Secular Music Vol. 1",
-        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Melodies",
-      "url": "https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN"
-    },
-    {
-      "added_at": "2026-02-12 16:45:42",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 165333,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
+    },
+    {
+      "added_at": "2026-02-12 16:45:42",
+      "album": {
+        "name": "Secular Music Vol. 1",
+        "url": "https://open.spotify.com/album/2wlYFoF3Ac1JII1SYrUudf"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Melodies",
+      "url": "https://open.spotify.com/track/0Bnat14c6fH2h1MUTPVaTN"
     },
     {
       "added_at": "2026-02-12 16:45:42",

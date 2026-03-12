@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 윤하 \(YOUNHA\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,146 songs - 2 day 21 hr 38 min
+1,147 songs - 2 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [O2](https://open.spotify.com/track/3gE6fZuOsBCOoIWONBtd2T) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:48 | 2022-04-22 | 2022-07-23 |
 | [OCEAN](https://open.spotify.com/track/76HdYXlpceoc0N2P6E4oGW) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [OCEAN](https://open.spotify.com/album/4rOhOYOy9Arjaula5XaBlg) | 4:38 | 2022-05-11 | 2022-07-07 |
 | [OffCourse](https://open.spotify.com/track/3gwtdR9M1DpKn6Ejsfax5L) | [RecordTheVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [OffCourse](https://open.spotify.com/album/10oASQp25ZGiM1Ad1V1oxU) | 3:45 | 2025-03-06 | 2025-03-18 |
+| [Oh Perfect!](https://open.spotify.com/track/3LKZCLEnspadu6UQIOTPVD) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [RUN RUN RUN](https://open.spotify.com/album/6Vt0Kc0kEMII0c0nHBZrjN) | 3:11 | 2026-03-11 |  |
 | [Ohio](https://open.spotify.com/track/4m1yAglyrf4tCJqFrIkRMA) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ohio](https://open.spotify.com/album/2ZJ2iiGnv7d8J4IOO0YmKx) | 2:46 | 2022-04-22 | 2022-06-26 |
 | [ON MY OWN](https://open.spotify.com/track/1mnw7B1EQPalqnY3u4QqUy) | [THE MIDNIGHT ROMANCE](https://open.spotify.com/artist/0oD9KiqTgoOgEYyL5kIC6v) | [ON MY OWN](https://open.spotify.com/album/7Iiyw5TWZCZxfuAWEKyDIr) | 3:56 | 2022-04-12 | 2022-07-29 |
 | [On\-Air](https://open.spotify.com/track/4Z7tPcXoeP0JJ6Qyve84aC) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [On\-Air](https://open.spotify.com/album/5oHhTiPxMWyfp3A21IlgxW) | 3:16 | 2022-05-02 | 2022-07-23 |
@@ -947,7 +948,7 @@
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |
 | [That Summer And The Sea](https://open.spotify.com/track/6If1ehcUnAxYI8PfIR3bw0) | [KYUDO](https://open.spotify.com/artist/3rxwS5AqVLUJ775AqSoRDf) | [That Summer And The Sea](https://open.spotify.com/album/03FFrwtrZqixtyp853CB8E) | 5:56 | 2024-11-06 | 2024-12-04 |
 | [That’s all](https://open.spotify.com/track/7tvls0s6SWA9KTEBcrj1RN) | [Yoo Yong Min](https://open.spotify.com/artist/7kDZYNuHj9RBMCJzIrxrme) | [That’s all](https://open.spotify.com/album/7nrWwUHACD51HLQDf1B3PB) | 4:37 | 2025-02-18 | 2025-03-18 |
-| [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-08-28 |  |
+| [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-08-28 | 2026-03-12 |
 | [The Answer](https://open.spotify.com/track/6gnCg6Z7WcJ9qt8idMWiaj) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [daybreak X LUCY : Part.1](https://open.spotify.com/album/7k74Ulb6AeAPYPkUFVntyu) | 3:34 | 2022-04-12 | 2022-07-29 |
 | [The Assignment Song](https://open.spotify.com/track/6AZqC0amAg49hiTk67DWxL) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [The Assignment Song](https://open.spotify.com/album/772jJk9bGdOZB6k6uCWHGE) | 3:49 | 2022-05-02 | 2022-07-17 |
 | [THE BEACON OF HOPE](https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [THE BEACON OF HOPE](https://open.spotify.com/album/3k86I5vdCvxf2VdUxAGPpv) | 4:44 | 2024-11-20 | 2025-03-25 |

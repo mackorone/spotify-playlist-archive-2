@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 
 > Una inyección de alegría para tus mañanas 🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,525 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,553 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 39 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 |
 | 40 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:07 |
 | 41 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
-| 42 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
-| 43 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
+| 42 | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [EYES CLOSED \(with ZAYN\)](https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc) | 3:01 |
+| 43 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 44 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
-| 45 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
-| 46 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 |
+| 45 | [La Bachata](https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 2:42 |
+| 46 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 |
 | 47 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 |
 | 48 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 49 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 66 | [Con Otra](https://open.spotify.com/track/2F6PBqz7aPA7K309aFKMHt) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 3:51 |
 | 67 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 |
 | 68 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 |
-| 69 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 |
-| 70 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
+| 69 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
+| 70 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 |
 | 71 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 |
 | 72 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 73 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XuzoFe1VZC.md) - [plain]
 | 99 | [ESTA ES TU CASA NENA](https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [ESTA ES TU CASA NENA](https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5) | 3:29 |
 | 100 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 |
 
-Snapshot ID: `AAAAAPAGgyP/TXXU/pQztb18wTpMvxx7`
+Snapshot ID: `AAAAADiWgk8Cyn1RYgIe4YVFlbc+6CK6`

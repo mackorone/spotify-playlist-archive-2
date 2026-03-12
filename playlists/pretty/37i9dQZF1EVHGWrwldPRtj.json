@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXwkdkoDV3G5>J. Cole</a>, <a href=spotify:playlist:37i9dQZF1EIZk7yMCTnyOv>French Montana</a>, <a href=spotify:playlist:37i9dQZF1EIWvLtPAMQUqE>Ravyn Lenae</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIX5ouMZt24jE>Lil Uzi Vert</a>, <a href=spotify:playlist:37i9dQZF1EIXuk68dNdha1>Glass Animals</a>, <a href=spotify:playlist:37i9dQZF1EIXDGo0vWYROm>Noah Kahan</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,70 +11,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Jungle Rules",
-        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
       "artists": [
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 233901,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+      "duration_ms": 317961,
+      "name": "The Great Divide",
+      "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
     },
     {
       "added_at": null,
@@ -95,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "strobo",
         "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
       },
@@ -111,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 180000,
+      "name": "Sweet Boy",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa"
     },
     {
       "added_at": null,
@@ -163,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sweet Boy",
-      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/1FjwAt6Yo15vTeSvO5GeSk"
       },
@@ -191,42 +167,6 @@
       "duration_ms": 126969,
       "name": "Stephanie",
       "url": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00e1rgolas Forever",
-        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
-      },
-      "artists": [
-        {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
     },
     {
       "added_at": null,
@@ -247,34 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Tiene Mal",
-        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 250697,
-      "name": "Me Tiene Mal",
-      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shut up My Moms Calling (Sped up)",
-        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Shut up My Moms Calling (Sped up)",
-      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": null,
@@ -311,6 +235,82 @@
     {
       "added_at": null,
       "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 241232,
+      "name": "Disillusioned (with serpentwithfeet)",
+      "url": "https://open.spotify.com/track/4YsnwsPURRSvprBHBY1BCd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She Said (Big Jet Plane)",
+        "url": "https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Queen D",
+          "url": "https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "She Said (Big Jet Plane)",
+      "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00e1rgolas Forever",
+        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u30ac\u30fc\u30c7\u30f3",
+      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shut up My Moms Calling (Sped up)",
+        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Shut up My Moms Calling (Sped up)",
+      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 176048,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": null,
@@ -391,38 +391,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Icon",
-        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+        "name": "Me Tiene Mal",
+        "url": "https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 223621,
-      "name": "wrong faces.",
-      "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"
+      "duration_ms": 250697,
+      "name": "Me Tiene Mal",
+      "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "She Said (Big Jet Plane)",
-        "url": "https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc"
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
       },
       "artists": [
         {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "Queen D",
-          "url": "https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 173750,
-      "name": "She Said (Big Jet Plane)",
-      "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": null,
@@ -439,174 +435,6 @@
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KID & SERGI: VOL I",
-        "url": "https://open.spotify.com/album/3Wd5eZzeDgn4cT1j2DW4MF"
-      },
-      "artists": [
-        {
-          "name": "Sergi",
-          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
-        },
-        {
-          "name": "KID FLEX",
-          "url": "https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Seguro Te Pierdo",
-      "url": "https://open.spotify.com/track/5k3QGt8B4gTv5N3Ct03uur"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/37HhnXqIRFSSJXWsysl6B7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "Me Gustas Natural",
-      "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malcolm Todd",
-        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 199825,
-      "name": "SOLO POR VOS",
-      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Milagrosa",
-        "url": "https://open.spotify.com/album/2TKYEbaAPl4mqTAyGiKFRS"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 140288,
-      "name": "Milagrosa",
-      "url": "https://open.spotify.com/track/7vFESQCFxuL38hNbTCtUDu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "to hell with it",
-        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 98544,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVE ALL SERVE ALL",
-        "url": "https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u30ac\u30fc\u30c7\u30f3",
-      "url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF"
     },
     {
       "added_at": null,
@@ -631,34 +459,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+        "name": "to hell with it",
+        "url": "https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+      "duration_ms": 98544,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
     },
     {
       "added_at": null,
       "album": {
-        "name": "C U Girl",
-        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+        "name": "lo que hay x aqu\u00ed",
+        "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 129697,
-      "name": "C U Girl",
-      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+      "duration_ms": 155031,
+      "name": "lo que hay x aqu\u00ed",
+      "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
     },
     {
       "added_at": null,
@@ -679,18 +507,186 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
+        "name": "Malcolm Todd",
+        "url": "https://open.spotify.com/album/6IkS2cDHxaYVkJueCPSdFs"
       },
       "artists": [
         {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
+      "duration_ms": 200826,
+      "name": "Chest Pain (I Love)",
+      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KID & SERGI: VOL I",
+        "url": "https://open.spotify.com/album/3Wd5eZzeDgn4cT1j2DW4MF"
+      },
+      "artists": [
+        {
+          "name": "Sergi",
+          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+        },
+        {
+          "name": "KID FLEX",
+          "url": "https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Seguro Te Pierdo",
+      "url": "https://open.spotify.com/track/5k3QGt8B4gTv5N3Ct03uur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Icon",
+        "url": "https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 223621,
+      "name": "wrong faces.",
+      "url": "https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/37HhnXqIRFSSJXWsysl6B7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "C U Girl",
+        "url": "https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 129697,
+      "name": "C U Girl",
+      "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milagrosa",
+        "url": "https://open.spotify.com/album/2TKYEbaAPl4mqTAyGiKFRS"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 140288,
+      "name": "Milagrosa",
+      "url": "https://open.spotify.com/track/7vFESQCFxuL38hNbTCtUDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "Me Gustas Natural",
+      "url": "https://open.spotify.com/track/1Sym1HsTqsa2pYKhYL1j15"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u5fd8\u308c\u308b\u524d\u306b",
+        "url": "https://open.spotify.com/album/6fuPZsXtm9E9HhVYSOpRop"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 242694,
+      "name": "\u5fd8\u308c\u308b\u524d\u306b",
+      "url": "https://open.spotify.com/track/6vkks9YI9rY9lhP2CsJKGo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 199825,
+      "name": "SOLO POR VOS",
+      "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
     },
     {
       "added_at": null,
@@ -727,34 +723,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 233866,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u5fd8\u308c\u308b\u524d\u306b",
-        "url": "https://open.spotify.com/album/6fuPZsXtm9E9HhVYSOpRop"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 242694,
-      "name": "\u5fd8\u308c\u308b\u524d\u306b",
-      "url": "https://open.spotify.com/track/6vkks9YI9rY9lhP2CsJKGo"
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": null,
@@ -775,18 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/4JCybsNZUXWrK2Jpyn12Ni"
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/33QDA3HhsTPmeCwR5Mk9gx"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/34HgIvucTKJvDgzHVMaGLG"
     },
     {
       "added_at": null,
@@ -807,38 +803,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
         }
       ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
+      "duration_ms": 207454,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Too Sweet",
-        "url": "https://open.spotify.com/album/2SPkdaGAzaDdftkh0EvyMJ"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
       },
       "artists": [
         {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        },
-        {
-          "name": "The Macarons Project",
-          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
         }
       ],
-      "duration_ms": 164196,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4Z3F8VnLHzcIRNDRRJmr8P"
+      "duration_ms": 191823,
+      "name": "Tek It",
+      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
     }
   ],
   "unique_name": "Chill Mix",

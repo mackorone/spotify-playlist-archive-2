@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 279,
+  "num_followers": 280,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIRiuCjdxGlLGlpShVD6Jo3f2sTin7",
+  "snapshot_id": "AAAIR9LlgvhX17uQJ3lAyLbZ5v1iEKfH",
   "tracks": [
     {
       "added_at": "2026-02-24 08:34:44",
@@ -33811,6 +33811,22 @@
       "duration_ms": 192826,
       "name": "Veloz",
       "url": "https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P"
+    },
+    {
+      "added_at": "2026-03-11 23:16:09",
+      "album": {
+        "name": "En Las Buenas y en las malas",
+        "url": "https://open.spotify.com/album/0wviHdHw9IDyv8PR9PSWQv"
+      },
+      "artists": [
+        {
+          "name": "Dany.Love",
+          "url": "https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le"
+        }
+      ],
+      "duration_ms": 172319,
+      "name": "En Las Buenas y en las malas",
+      "url": "https://open.spotify.com/track/3LqXn1KRXCLQcXQuC2oj21"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

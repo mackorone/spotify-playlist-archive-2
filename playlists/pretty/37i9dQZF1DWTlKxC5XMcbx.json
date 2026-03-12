@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61783,
+  "num_followers": 61787,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Standard Time Vol. 3: The Resolution Of Romance",
+        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Tuesday Wonderland",
         "url": "https://open.spotify.com/album/1FXFyWXLIdOVgjR0MaRa9y"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 189016,
       "name": "Last Night at the Cedar Tavern",
       "url": "https://open.spotify.com/track/22WIvZ04x2ARzjRwzEsNtU"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Standard Time Vol. 3: The Resolution Of Romance",
-        "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "Straight Road",
         "url": "https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 285969,
       "name": "A Flower Is a Lovesome Thing",
       "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "And Suddenly There Was Love",
-        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
       "artists": [
         {
-          "name": "Jonah Aardekker",
-          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 267142,
-      "name": "And Suddenly There Was Love",
-      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
+      "duration_ms": 303160,
+      "name": "Tranquillity - Remastered 1994",
+      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+        "name": "And Suddenly There Was Love",
+        "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
       },
       "artists": [
         {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+          "name": "Jonah Aardekker",
+          "url": "https://open.spotify.com/artist/0uznEwAun1tXBVJWQASNns"
         }
       ],
-      "duration_ms": 303160,
-      "name": "Tranquillity - Remastered 1994",
-      "url": "https://open.spotify.com/track/5oGTAeeyS6ju9zFrk56ckZ"
+      "duration_ms": 267142,
+      "name": "And Suddenly There Was Love",
+      "url": "https://open.spotify.com/track/5X6IyZNTHOehDW5BCsAqJH"
     },
     {
       "added_at": "2026-02-09 02:43:04",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-02-09 02:43:04",
       "album": {
+        "name": "Out Here",
+        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride Trio",
+          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
+        }
+      ],
+      "duration_ms": 507534,
+      "name": "I Have Dreamed",
+      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
+    },
+    {
+      "added_at": "2026-02-09 02:43:04",
+      "album": {
         "name": "It's Nice to Be with You: Jim Hall in Berlin",
         "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 265024,
       "name": "Young One for Debra",
       "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
-    },
-    {
-      "added_at": "2026-02-09 02:43:04",
-      "album": {
-        "name": "Out Here",
-        "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride Trio",
-          "url": "https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP"
-        }
-      ],
-      "duration_ms": 507534,
-      "name": "I Have Dreamed",
-      "url": "https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo"
     },
     {
       "added_at": "2026-02-09 02:43:04",

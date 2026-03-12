@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2702,
+  "num_followers": 2701,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARhMOq4bnZU2zh/9m2yPL9Yy5Nw230",
+  "snapshot_id": "AAARhdgp795yj8e/V2seTVry/luDBl3g",
   "tracks": [
+    {
+      "added_at": "2026-03-11 13:47:56",
+      "album": {
+        "name": "Neutron Decay (Rebirth Edit)",
+        "url": "https://open.spotify.com/album/6yR0ksueyFX1JaCqAOqJz3"
+      },
+      "artists": [
+        {
+          "name": "SPXCEPVNK",
+          "url": "https://open.spotify.com/artist/2AMOCfEU0hWfO6qtzxcy8Z"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "Neutron Decay - Rebirth Edit",
+      "url": "https://open.spotify.com/track/4F6VoXxtgQyy2iJEEWXv6c"
+    },
     {
       "added_at": "2026-03-10 16:55:26",
       "album": {

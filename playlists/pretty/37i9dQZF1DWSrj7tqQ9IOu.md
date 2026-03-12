@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois dernier sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,536 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,515 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 11 | [you and forever](https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [you and forever](https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up) | 3:54 |
 | 12 | [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 |
 | 13 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 |
-| 14 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
-| 15 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
+| 14 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
+| 15 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 16 | [Ride](https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ride](https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3) | 4:39 |
 | 17 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
 | 18 | [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 30 | [Ongles cassés](https://open.spotify.com/track/4FLNvVjwgpNiuiHOaKaPE3) | [Cielbleu](https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc) | [Ongles cassés](https://open.spotify.com/album/1tSyawRXmLPVwx0XvA3tT3) | 3:29 |
 | 31 | [Tourisme](https://open.spotify.com/track/4wVZ0CDlKtSt05ztiOqplg) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Tourisme](https://open.spotify.com/album/50dLClesSVQO0ni2RIStOp) | 3:31 |
 | 32 | [Winter Days 冬の日々\(feat\. Salasa\)](https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Winter Days 冬の日々 \(feat\. Salasa\)](https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA) | 3:42 |
-| 33 | [rayito de luz](https://open.spotify.com/track/6NN2qLaBD73xIzbuI8LZEK) | [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [el santo que del cielo quiere bajar](https://open.spotify.com/album/4ugDegU1o8gFp3rwITBU5H) | 2:14 |
-| 34 | [Tout est de ma faute](https://open.spotify.com/track/5HlIqC9Sc4SkBGGzouYPX4) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Tout est de ma faute](https://open.spotify.com/album/7e88tG4PHQsypyBsk6yt4o) | 2:35 |
+| 33 | [Tout est de ma faute](https://open.spotify.com/track/5HlIqC9Sc4SkBGGzouYPX4) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Tout est de ma faute](https://open.spotify.com/album/7e88tG4PHQsypyBsk6yt4o) | 2:35 |
+| 34 | [rayito de luz](https://open.spotify.com/track/6NN2qLaBD73xIzbuI8LZEK) | [Chini Tacchini](https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY) | [el santo que del cielo quiere bajar](https://open.spotify.com/album/4ugDegU1o8gFp3rwITBU5H) | 2:14 |
 | 35 | [Lettre à l'Univers \- Live](https://open.spotify.com/track/7a7u8n5xdh5YYhlJq7XpmN) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Lettre à l'Univers \(Live\)](https://open.spotify.com/album/5WJ81Ls7XQbhvC0RoZV1AJ) | 5:50 |
 | 36 | [Nana](https://open.spotify.com/track/4jZb5ARAPY47dZOr8nqIJa) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5), [Sabrina Bellaouel](https://open.spotify.com/artist/1TI3pJmtWgehlVMJzKJaJB) | [Nana](https://open.spotify.com/album/1tFYuZ0v7O2x34L0XlKEMC) | 3:13 |
 | 37 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 39 | [20S](https://open.spotify.com/track/5j01MVH7tjbeHFDUr7ijzD) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [20S](https://open.spotify.com/album/7d55M83JSccUsKp0KiH9G9) | 3:04 |
 | 40 | [One Night](https://open.spotify.com/track/1H3yExvvt38qBYULirIfP6) | [command+M](https://open.spotify.com/artist/2iVoor2wzTLqv8pUEjuz7a) | [In the Dark we're Thick as Thieves](https://open.spotify.com/album/6C5fI6lz2H9UmsF2FXpQPh) | 6:55 |
 
-Snapshot ID: `AAAAALSsjyW8G19kj2a1O1jHBW6/sBtl`
+Snapshot ID: `AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5`

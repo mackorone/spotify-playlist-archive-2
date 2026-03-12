@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Open Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh"
+      },
+      "artists": [
+        {
+          "name": "Pol Sembrano",
+          "url": "https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220211,
+      "name": "Open Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY"
+    },
+    {
+      "album": {
         "name": "A Million and A Half Ways",
         "url": "https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc"
       },

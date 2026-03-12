@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - KBIR",
+  "description": "The best new music by independent artists and labels in India. Cover - Aanya Khanna",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 212812,
       "name": "20 Something",
       "url": "https://open.spotify.com/track/2PmkxEUGG1epRsaZ2q6mFs"
@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Ankahi Baatein",
+        "url": "https://open.spotify.com/album/065nHLR8BGCVhXMoqU3xcL"
+      },
+      "artists": [
+        {
+          "name": "Sushant Mhaske",
+          "url": "https://open.spotify.com/artist/2PRyhRy0dZOHXKHeNoUVl1"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122783,
+      "name": "Ankahi Baatein",
+      "url": "https://open.spotify.com/track/4N5HNe0EeuYqFcxdcO4mVp"
+    },
+    {
+      "album": {
         "name": "Ankhon Ke Samandar",
         "url": "https://open.spotify.com/album/0Tzr8Ob8BPBI6O3hVEhCD6"
       },
@@ -3576,7 +3594,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 167568,
       "name": "Bedarda",
       "url": "https://open.spotify.com/track/0XSbK8tMMjplGaOmXk16JK"
@@ -7614,7 +7632,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 206655,
       "name": "Dil Mera",
       "url": "https://open.spotify.com/track/5ntLA896LcxIlbpQpeRU5P"
@@ -8694,7 +8712,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 231176,
       "name": "Dur Kahi Na Jaa Tu",
       "url": "https://open.spotify.com/track/3WSQsfAgTtyfQamWXkOMvd"
@@ -12271,6 +12289,32 @@
     },
     {
       "album": {
+        "name": "Hum Tum Miley",
+        "url": "https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Amaan Anjum",
+          "url": "https://open.spotify.com/artist/6i2OGAPggr2SpNnrzEjQG1"
+        },
+        {
+          "name": "Harshil Roy",
+          "url": "https://open.spotify.com/artist/0WLHgj66goZ8D71UhA0wvN"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171969,
+      "name": "Hum Tum Miley",
+      "url": "https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d"
+    },
+    {
+      "album": {
         "name": "Humare Tumhare Darmiyaan",
         "url": "https://open.spotify.com/album/7xSVqeoTz1LqO06BeIJ3qE"
       },
@@ -13946,7 +13990,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 194666,
       "name": "JAANA",
       "url": "https://open.spotify.com/track/2YQo7aCOlLjq7ReonEjT54"
@@ -18102,7 +18146,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 140571,
       "name": "Khwahishein",
       "url": "https://open.spotify.com/track/47RhGQxt5LvF9wbhciPVdS"
@@ -18274,6 +18318,36 @@
       "duration_ms": 206249,
       "name": "Kiske Liye",
       "url": "https://open.spotify.com/track/6ALz5MWfAnHLEuGUlVN4Ms"
+    },
+    {
+      "album": {
+        "name": "Kiski Khata",
+        "url": "https://open.spotify.com/album/14CbMFfLo7xOa4X2560AfW"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya",
+          "url": "https://open.spotify.com/artist/7mTJZY7jhvN2QEzWqwXdKP"
+        },
+        {
+          "name": "Saurabh Trivedi",
+          "url": "https://open.spotify.com/artist/3bz6ZRvw3t4k0Oz72baGrk"
+        },
+        {
+          "name": "Rishita Malkania",
+          "url": "https://open.spotify.com/artist/2iYRleECSrB0io7EdpIWFz"
+        },
+        {
+          "name": "Eric Wink",
+          "url": "https://open.spotify.com/artist/7k2dC4sHlKjN52VppZRxUP"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Kiski Khata",
+      "url": "https://open.spotify.com/track/2s5f7ouN7DtFZXGmNFb9tJ"
     },
     {
       "album": {
@@ -18818,7 +18892,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 239523,
       "name": "Kyu",
       "url": "https://open.spotify.com/track/5oT7zmS4GYhOBBmFv2CudG"
@@ -19944,7 +20018,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 170624,
       "name": "little things",
       "url": "https://open.spotify.com/track/2rfHzzJly9NRjFLc3eBGMh"
@@ -22512,6 +22586,24 @@
       "duration_ms": 295000,
       "name": "Mind Palace",
       "url": "https://open.spotify.com/track/6sS3tnyRPVsuvyTHVLcA1V"
+    },
+    {
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/48ZwmhOam4a4VktRzo5oL4"
+      },
+      "artists": [
+        {
+          "name": "Janki Maheshwar",
+          "url": "https://open.spotify.com/artist/7rlucARG4vewlHI4YByHRf"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152726,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4IW56DopaPOjcIfLwALBi2"
     },
     {
       "album": {
@@ -28967,6 +29059,24 @@
     },
     {
       "album": {
+        "name": "Saiyaan Ji",
+        "url": "https://open.spotify.com/album/3MRep8SqAbCk4HsC0iDAgw"
+      },
+      "artists": [
+        {
+          "name": "Akshay Sharma",
+          "url": "https://open.spotify.com/artist/6If9PrCinkALv9IfyQRGbe"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Saiyaan Ji",
+      "url": "https://open.spotify.com/track/7Fj7BynBezZtivL1zWbgiO"
+    },
+    {
+      "album": {
         "name": "Saiyaan Morey",
         "url": "https://open.spotify.com/album/0cjixm6x5WV5cf9qU8lTCr"
       },
@@ -33007,6 +33117,24 @@
     },
     {
       "album": {
+        "name": "Thikana",
+        "url": "https://open.spotify.com/album/7j3GUxfJyfgz490DV1qB2T"
+      },
+      "artists": [
+        {
+          "name": "Aanya khanna",
+          "url": "https://open.spotify.com/artist/0Z03GAYc98XFZ9QGlibFjo"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Thikana",
+      "url": "https://open.spotify.com/track/4KRBPwRWfYKWKOUYP5LrY7"
+    },
+    {
+      "album": {
         "name": "Thinking Ahead of Time",
         "url": "https://open.spotify.com/album/5t0jJQCXJ2BJaiJKY7gAML"
       },
@@ -33268,6 +33396,24 @@
       "duration_ms": 190800,
       "name": "Till Midnight",
       "url": "https://open.spotify.com/track/4Dc3XTwAWL6TmgkEBtT431"
+    },
+    {
+      "album": {
+        "name": "Time's Going By",
+        "url": "https://open.spotify.com/album/0Do7E49u9b1ElsrWe2uGqP"
+      },
+      "artists": [
+        {
+          "name": "Malvi",
+          "url": "https://open.spotify.com/artist/1emXPCYT47GWaaGMHgWm88"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Time's Going By",
+      "url": "https://open.spotify.com/track/5bQfluUOOsWz5uwRdiXPqN"
     },
     {
       "album": {

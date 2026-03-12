@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 659,079 likes - 85 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,331 likes - 85 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 28 | [Paris](https://open.spotify.com/track/0uziRA46wxFQvNRtArLcZ4) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Cajueiro](https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq) | 3:21 |
 | 29 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
 | 30 | [Le Poisson Des Mers Du Sud](https://open.spotify.com/track/0OtLnXYlL9nvUDhD5CCVaY) | [Isabelle Antena](https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ) | [Hoping for Love](https://open.spotify.com/album/6O20StLk29iz9VXX7xcx0e) | 4:13 |
-| 31 | [La Pluie Et Le Beau Temps](https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Élodie Frégé](https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii) | [I Could Be Happy](https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x) | 3:31 |
-| 32 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 |
+| 31 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 |
+| 32 | [La Pluie Et Le Beau Temps](https://open.spotify.com/track/0qKkvGK3tC2H5lBKWlMYgY) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Élodie Frégé](https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii) | [I Could Be Happy](https://open.spotify.com/album/6yJVZEa8WVUBGVso0Uez2x) | 3:31 |
 | 33 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
 | 34 | [Chanson triste](https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:28 |
 | 35 | [Juste quelqu'un de bien](https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Deux](https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt) | 4:07 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 51 | [Je m'ennuie](https://open.spotify.com/track/4Qw9NyyIYkgGzcmRnrZPrT) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 4:32 |
 | 52 | [Il Faut Du Temps Au Temps](https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD) | [Makali](https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO) | [De La Chanson Et Puis C'Est Tout...](https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe) | 2:30 |
 | 53 | [Un homme et une femme](https://open.spotify.com/track/64aUYyD7RXmseLmB6WX56k) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Frenchy \(Deluxe Version\)](https://open.spotify.com/album/58bdFlzDzkwFRs6hct7CtW) | 3:00 |
-| 54 | [J'ai Deux Amours](https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 2:56 |
-| 55 | [La noyée](https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:58 |
+| 54 | [La noyée](https://open.spotify.com/track/6IqdKYhWzcznN8TPOxD3i4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:58 |
+| 55 | [J'ai Deux Amours](https://open.spotify.com/track/6CVQKNoPVjU2U9wGZpr35F) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux \(International Edition\)](https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m) | 2:56 |
 | 56 | [La mer opale](https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA) | [Coralie Clement](https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4) | [Salle des pas perdus](https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY) | 2:47 |
 | 57 | [Un Homme Et Une Femme](https://open.spotify.com/track/1pZcUuU8LiSkWy5JB9HESO) | [Nathalie Et Guillaume](https://open.spotify.com/artist/2sP7NffeSH1e8N5J3N9f6i) | [Paris \- I Love You](https://open.spotify.com/album/6X29j29MSmUWNFv3D4zKUN) | 2:45 |
 | 58 | [J’ai ta main](https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Nicolas Fiszman](https://open.spotify.com/artist/4d0roMzc4feODS6OCmkJ5d), [Denis Benarrosh](https://open.spotify.com/artist/324sdO7LUc6DgR2tLLWoCa), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trenet](https://open.spotify.com/album/3ZZJVoDieCjBDyZl4ePZnQ) | 3:14 |

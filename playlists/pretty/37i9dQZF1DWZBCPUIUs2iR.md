@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,674 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,750 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 75 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
 | 76 | [Daddy Sang Bass](https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 2:20 |
 | 77 | [Black Sheep](https://open.spotify.com/track/5EPQbU0wk70Btiu9onZR48) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [All The People Are Talkin'](https://open.spotify.com/album/2cWX0i12WDcbP8Gp6cACvS) | 2:57 |
-| 78 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
-| 79 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
+| 78 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
+| 79 | [Islands In the Stream](https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Ultimate Dolly Parton](https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts) | 4:09 |
 | 80 | [High Cotton](https://open.spotify.com/track/2KEu2z1f7TakR3KY4jGLzl) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection](https://open.spotify.com/album/1jafIRrPVaBkcwl3TC0C8T) | 3:00 |
 | 81 | [Big City](https://open.spotify.com/track/7MYCBhcWtRSJ7YXTfIHlI8) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 2:59 |
 | 82 | [How Do You Like Me Now?!](https://open.spotify.com/track/7LimFGKop84KMDutqYaNIF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:25 |

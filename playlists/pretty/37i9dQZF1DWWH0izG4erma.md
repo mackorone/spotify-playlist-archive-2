@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,375 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,499 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 51 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 52 | [Southern Rock](https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Roads That Go Nowhere](https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir) | 3:38 |
 | 53 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
-| 54 | [Whiskey Lullaby](https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc) | [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0), [Caitlynne Curtis](https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf) | [Whiskey Lullaby](https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM) | 4:29 |
-| 55 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
-| 56 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
+| 54 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
+| 55 | [Whiskey Lullaby](https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc) | [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0), [Caitlynne Curtis](https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf) | [Whiskey Lullaby](https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM) | 4:29 |
+| 56 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
 | 57 | [Drowning](https://open.spotify.com/track/22AYv6oubrOclu24nNux0M) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Drowning](https://open.spotify.com/album/5Y8hv9mXolK9hQej1MOlwF) | 4:48 |
 | 58 | [Redneck Rockstar](https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [Redneck Rockstar](https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO) | 3:18 |
 | 59 | [Fire On The Hillside](https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Fire On The Hillside](https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv) | 3:24 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 71 | [Made It This Far](https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7) | [Chase McDaniel](https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz) | [Made It This Far](https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx) | 2:44 |
 | 72 | [Had It For A While](https://open.spotify.com/track/2iRIwezcfYxCyl2SqMt9RN) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Had It For A While](https://open.spotify.com/album/6nxaqnlVueBm7rOF6S6B8e) | 2:31 |
 | 73 | [Fire On Wheels](https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Fire On Wheels](https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7) | 2:36 |
-| 74 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
+| 74 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
 | 75 | [With or Without Me](https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [With or Without Me](https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D) | 3:42 |
-| 76 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
+| 76 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
 | 77 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
 | 78 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
 | 79 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 96 | [Sorry For Nothing](https://open.spotify.com/track/0H4hXxR6cP8kvXfJf0xMou) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Sorry For Nothing](https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ) | 3:18 |
 | 97 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
-| 99 | [Found](https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Found](https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03) | 3:46 |
-| 100 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
+| 99 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
+| 100 | [Found](https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Found](https://open.spotify.com/album/20nlZ26QvDjhtwKSkbyM03) | 3:46 |
 
 Snapshot ID: `AAAAAK9l3hX7c78KNkS2BSmIzBsx+Nfy`

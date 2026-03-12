@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-250 songs - 15 hr 22 min
+253 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aggravated Cultivation](https://open.spotify.com/track/03j9ESzqUIcPzWn5hh1W7g) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Pale Ontology](https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6) | 3:45 | 2026-01-19 | 2026-02-19 |
 | [Agujas](https://open.spotify.com/track/4E4xgatRQurGBlsXaKfp1z) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 3:45 | 2025-08-29 | 2026-01-05 |
 | [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 | 2026-02-13 |  |
+| [All Along](https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:37 | 2026-03-12 |  |
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 | 2026-01-05 |
 | [Anything Better to Do](https://open.spotify.com/track/5rk0K5Z6oyuHpP7gjlScDK) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Bridging The Gaps](https://open.spotify.com/album/1NPMdLOVMk6kqBB4DQMKfi) | 3:19 | 2026-01-17 | 2026-02-19 |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-06 |
@@ -147,6 +148,7 @@
 | [My Journey into Space](https://open.spotify.com/track/0JwcnEfABRXunsYH2W1AVv) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 5:12 | 2025-12-29 | 2026-01-21 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-17 | 2025-12-06 |
+| [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 | 2026-03-12 |  |
 | [New Shit Has Come To Light](https://open.spotify.com/track/7pxNCg2vwJ9FLxXqaJliQl) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [New Shit Has Come To Light](https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl) | 2:50 | 2025-12-05 |  |
 | [No One Speaks](https://open.spotify.com/track/06JSOvLBhf9SKSL9hx8ETx) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Off to the Happy Place](https://open.spotify.com/album/5nJbbVazM8PySnmkj64vvR) | 2:29 | 2026-01-19 | 2026-02-25 |
 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 | 2026-03-05 |  |
@@ -256,6 +258,7 @@
 | [You Don't Wanna Go Home](https://open.spotify.com/track/1N3Yy7KmL8kPNUvUf9ndyU) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [You Don't Wanna Go Home](https://open.spotify.com/album/7y2TICCC1Hv6sXMQHbljoR) | 2:59 | 2025-10-29 |  |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Your Love Shines Down Like a Supernova's Death](https://open.spotify.com/track/0pNHZJgtYJoN9UfLvxvOL3) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:06 | 2025-11-02 | 2025-12-06 |
+| [Лавины](https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F) | [genteel renegade](https://open.spotify.com/artist/7AfX5ZMx0UP4ZouLe1HNEl) | [Лавины](https://open.spotify.com/album/1uq5G5T9eEP9BKhkTRitBX) | 3:53 | 2026-03-12 |  |
 | [Навстречу вам](https://open.spotify.com/track/0JTBRA7RuYCA0rbsrzDwOV) | [Палмерин](https://open.spotify.com/artist/4TWuUkIy1dyDqDkGUFqglO) | [Навстречу вам](https://open.spotify.com/album/1rwoyeO3KQOwAfE8ypt8ob) | 3:18 | 2026-01-19 | 2026-02-19 |
 | [нам не нужны друзья 2](https://open.spotify.com/track/5tQjNmHZzliw3VofqYR8n0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [нет меня](https://open.spotify.com/album/6WpS7JSN3qKRTpnFiS8tLA) | 2:57 | 2026-02-20 |  |
 

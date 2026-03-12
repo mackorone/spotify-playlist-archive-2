@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Arisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,526 likes - 99 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,528 likes - 99 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 98 | [VAI](https://open.spotify.com/track/7gOvyM0lngEeH3fWTsccj4) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [VAI](https://open.spotify.com/album/26PNNkpnqJ7Un82W5P3FTz) | 2:48 |
 | 99 | [17](https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [Dead End](https://open.spotify.com/album/3tMqWsevN8DlWHsofi1Joo) | 3:23 |
 
-Snapshot ID: `AAAAAPSfT8v3XJBcAYalr8THzd6f/HBF`
+Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`

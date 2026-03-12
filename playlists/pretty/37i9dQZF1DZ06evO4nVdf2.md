@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,567 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,574 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 36 | [Las Cosas Simples](https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Las Cosas Simples](https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW) | 3:37 |
 | 37 | [Diosa](https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Diosa](https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd) | 2:55 |
 | 38 | [Lo Bailado](https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:53 |
-| 39 | [La chula \(with Ximena Sariñana\) \- MTV Unplugged](https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 3:51 |
-| 40 | [Sophia](https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Sophia Perusquia](https://open.spotify.com/artist/3YmlPJYhKl7hmmOynT0DrX) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 0:49 |
+| 39 | [Sophia](https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Sophia Perusquia](https://open.spotify.com/artist/3YmlPJYhKl7hmmOynT0DrX) | [Amor Adolescente](https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt) | 0:49 |
+| 40 | [La chula \(with Ximena Sariñana\) \- MTV Unplugged](https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 3:51 |
 | 41 | [Ruptura](https://open.spotify.com/track/3D51NYZSRztVQqim234LiI) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No todo lo puedes dar](https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld) | 4:09 |
-| 42 | [No Es Igual](https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Es Igual](https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ) | 3:45 |
-| 43 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
-| 44 | [Lo Que Se Va](https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Que Se Va](https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW) | 3:28 |
-| 45 | [Fetiche](https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 3:15 |
-| 46 | [Nada Para Ti](https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Adentro](https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ) | 3:56 |
+| 42 | [No vuelvo más](https://open.spotify.com/track/5cSOp6pWzatLGzCSuFDh0u) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mediocre \[Edición Especial\]](https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq) | 4:13 |
+| 43 | [No Es Igual](https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Es Igual](https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ) | 3:45 |
+| 44 | [Nada Para Ti](https://open.spotify.com/track/1J7DXtecVHR34Rc4Zkv71d) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Adentro](https://open.spotify.com/album/6cNhorO2Vmcbt2zyXosHYZ) | 3:56 |
+| 45 | [Lo Que Se Va](https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Que Se Va](https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW) | 3:28 |
+| 46 | [Fetiche](https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Malcriado](https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3) | 3:15 |
 | 47 | [ALV](https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ALV](https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk) | 3:37 |
 | 48 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
 | 49 | [Girls Go Wild \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/7F3ljQtzVztcGo9dcA6TeH) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Girls Go Wild \(feat\. Ximena Sariñana\)](https://open.spotify.com/album/6tWZkM5GMysGLWjePJBWXt) | 3:43 |
-| 50 | [Temes](https://open.spotify.com/track/66LLNuHo95vCXZyYsKp33k) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Existencia Kamikaze](https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP) | 3:17 |
+| 50 | [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 |
 
-Snapshot ID: `aa4NgAAAAACUjfxkkzRYxLN1dqpuzVHZ`
+Snapshot ID: `aa9fAAAAAABMjklY7GhCF7acjETN2qMs`

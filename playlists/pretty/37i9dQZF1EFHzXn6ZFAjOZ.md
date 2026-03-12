@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,169 likes - 131 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,171 likes - 131 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 34 | [RIIVERDANCE](https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:11 |
 | 35 | [Make It to Heaven \(with Raye\)](https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Make It To Heaven \(with Raye\)](https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13) | 2:52 |
 | 36 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 |
-| 37 | [Call on Me](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me \(Remixes\)](https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs) | 7:34 |
-| 38 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
+| 37 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
+| 38 | [Call on Me](https://open.spotify.com/track/1As4KC3YYpu89aBt7EqL2m) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me \(Remixes\)](https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs) | 7:34 |
 | 39 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
 | 40 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
 | 41 | [Please Don’t Touch](https://open.spotify.com/track/16eNwSoWmJh5GSjN8ECmIp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Please Don’t Touch](https://open.spotify.com/album/2L0kDBJ2d6aThU4egKkoDk) | 3:38 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 73 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
 | 74 | [Crew](https://open.spotify.com/track/31MUzJRDoberNLCXSISodO) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:56 |
 | 75 | [Midnight Cowboy](https://open.spotify.com/track/4zrnaKcJWGYVfGZqmCOELM) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:31 |
-| 76 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 |
-| 77 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
+| 76 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
+| 77 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 |
 | 78 | [The Line](https://open.spotify.com/track/3Kdpyh94Xz8DeUgMCnVYy1) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Line](https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG) | 3:19 |
 | 79 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
 | 80 | [Buss It Down.](https://open.spotify.com/track/08fvAoeVAl6DAOT3nilvQN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:36 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 86 | [Sober \- Stripped](https://open.spotify.com/track/7iHAue5izVmII1Z6Q1xy7B) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Sober \(Stripped\)](https://open.spotify.com/album/2LIGrpvdLOfLuLkObXSL6H) | 3:18 |
 | 87 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
 | 88 | [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 |
-| 89 | [x2](https://open.spotify.com/track/0k79twDYBMpqqjVLuEnYkh) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:42 |
-| 90 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
+| 89 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
+| 90 | [x2](https://open.spotify.com/track/0k79twDYBMpqqjVLuEnYkh) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:42 |
 | 91 | [All Dressed Up](https://open.spotify.com/track/1HIwkl1QwoGeJZ8nJYE25e) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 4:02 |
 | 92 | [Wife Me](https://open.spotify.com/track/0pqlci982oEcavayQKZDQW) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Side Tape](https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL) | 3:08 |
 | 93 | [The Fruits](https://open.spotify.com/track/5VvnRNKALQhnfDcbslgk3h) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Heroine](https://open.spotify.com/album/4E6nyzUW5sNhMwCoLNIJun) | 3:10 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 130 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 131 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `AcLybAAAAABs+xepb0ROszvKtWyjh4CI`
+Snapshot ID: `AcL4DAAAAAB8Vob4ijX7B0UI04jrywuw`

@@ -1,6 +1,6 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 782674,
+  "num_followers": 782750,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2026-02-11 22:49:04",
       "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2026-02-11 22:49:04",
+      "album": {
         "name": "Ultimate Dolly Parton",
         "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 249293,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
-    },
-    {
-      "added_at": "2026-02-11 22:49:04",
-      "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2026-02-11 22:49:04",

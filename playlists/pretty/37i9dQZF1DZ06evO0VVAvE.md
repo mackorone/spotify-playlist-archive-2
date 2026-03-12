@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,577 likes - 46 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,592 likes - 46 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 9 | [Gbedu](https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:47 |
 | 10 | [1000 Thoughts](https://open.spotify.com/track/6idlK37wzdlOJP9c3MS4m5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:26 |
 | 11 | [Introduction](https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:25 |
-| 12 | [Good Life](https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y) | [Marleykiddo](https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Good Life](https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK) | 2:52 |
-| 13 | [Kilo](https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:12 |
+| 12 | [Kilo](https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:12 |
+| 13 | [Good Life](https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y) | [Marleykiddo](https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Good Life](https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK) | 2:52 |
 | 14 | [Mario](https://open.spotify.com/track/5Ck0RUDWbZs5npuXRmjIKU) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:14 |
 | 15 | [Feel Free](https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:27 |
 | 16 | [Pay Me](https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI) | [Panaache](https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Pay Me](https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll) | 2:07 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VVAvE.md) - [plain]
 | 45 | [Overload \(Kala\)](https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:29 |
 | 46 | [Daddy Yo](https://open.spotify.com/track/4BanorzpNi9WBZOpFTi6Ug) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:24 |
 
-Snapshot ID: `aa4NgAAAAABxDeTNLHs7U1ISZKtB2qOe`
+Snapshot ID: `aa9fAAAAAAB8cqRT2Gr812mxLV5q5iyN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bixarte
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,926 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,920 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 36 | [coisas triviais](https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [coisas triviais](https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9) | 3:10 |
 | 37 | [Egoísta](https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Cara Ideal](https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS) | 2:24 |
 | 38 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
-| 39 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
-| 40 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 |
+| 39 | [furta\-cor](https://open.spotify.com/track/28kKRjAddAbDwKgiZOlseB) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [furta\-cor](https://open.spotify.com/album/7qyluPOBlYd6xRLQBqjHgT) | 2:45 |
+| 40 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 41 | [nada sério](https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [nada sério](https://open.spotify.com/album/5IGmeu79E1pW35B6MmsReV) | 2:46 |
 | 42 | [De Quinta A Domingo](https://open.spotify.com/track/3DPpnsH5S0269NXaD2uZ3v) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [De Quinta A Domingo](https://open.spotify.com/album/0UFiIp4aj71h2CEAymFy7T) | 3:17 |
 | 43 | [10 Minutos \- Remix](https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 2:31 |

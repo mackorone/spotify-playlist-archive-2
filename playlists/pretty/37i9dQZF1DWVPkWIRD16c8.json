@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 251172,
+  "num_followers": 251257,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
+        "name": "Greatest Hits (Acoustic)",
+        "url": "https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 216624,
+      "name": "Remind Me Who I Am - Acoustic",
+      "url": "https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
         "name": "NEVER GOING BACK",
         "url": "https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 152014,
       "name": "NEVER GOING BACK",
       "url": "https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
-        "name": "Greatest Hits (Acoustic)",
-        "url": "https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 216624,
-      "name": "Remind Me Who I Am - Acoustic",
-      "url": "https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae"
     },
     {
       "added_at": "2025-12-12 22:21:53",

@@ -8205,6 +8205,32 @@
     },
     {
       "album": {
+        "name": "Mudhal Kadhal",
+        "url": "https://open.spotify.com/album/3gpvFgze1RE552JFyIqt9v"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "Ijas",
+          "url": "https://open.spotify.com/artist/6DX3zVZ7llwG8vkdCRMdVA"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278117,
+      "name": "Mudhal Kadhal",
+      "url": "https://open.spotify.com/track/2Xc5tsdj047m83rVvWRM9p"
+    },
+    {
+      "album": {
         "name": "Mudhal Murai",
         "url": "https://open.spotify.com/album/6ce5L0qcnyTzMOUa9hqnhT"
       },

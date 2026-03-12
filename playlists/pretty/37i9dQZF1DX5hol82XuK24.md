@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,026 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,028 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 47 | [Le Temple Volant](https://open.spotify.com/track/2uQotduUA32t7EwTEMvMyb) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B), [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Le Temple Volant](https://open.spotify.com/album/1LiZ2XItICSDOaNT4Bpnx5) | 2:05 |
 | 48 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
 | 49 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
-| 50 | [The Kazimier Garden](https://open.spotify.com/track/2CnM3CVx7X9L7j2UA1E8F9) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 1:29 |
-| 51 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
+| 50 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
+| 51 | [The Kazimier Garden](https://open.spotify.com/track/2CnM3CVx7X9L7j2UA1E8F9) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Vicious Delicious](https://open.spotify.com/album/5OdepuxYMgKoZABd8lCuYi) | 1:29 |
 | 52 | [Deep Green](https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 3:35 |
 | 53 | [My Body's a Zombie For You](https://open.spotify.com/track/14Vua5sMxKiPDcRS5pmoYW) | [Dead Man's Bones](https://open.spotify.com/artist/66uU7VPJQ8eC06LAZyqYYk) | [Dead Man's Bones](https://open.spotify.com/album/4xGTfawtEfy5f2yGYtRqlr) | 4:30 |
 | 54 | [My Horror](https://open.spotify.com/track/7qaFdrjVYpKH9lFPaWBBix) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Spirituals](https://open.spotify.com/album/2AMcE13TUlCDdXVBlR0sdo) | 2:36 |
@@ -73,17 +73,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 63 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
 | 64 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
 | 65 | [Tastes Good With The Money](https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Serfs Up!](https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ) | 5:42 |
-| 66 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
-| 67 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
-| 68 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
+| 66 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
+| 67 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
+| 68 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
 | 69 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
 | 70 | [May I Comply](https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [May I Comply](https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c) | 4:00 |
 | 71 | [You are the Problem Here](https://open.spotify.com/track/1wSGgkDKaX5OXM7NPqJv4U) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [You are the Problem Here](https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV) | 3:38 |
 | 72 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
 | 73 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 74 | [The Fork](https://open.spotify.com/track/1FxHFQ30GjkrAPiUo6b4Do) | [Powerplant](https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx) | [The Fork](https://open.spotify.com/album/5t7bzjEslFvywuwqsRlPgU) | 4:35 |
-| 75 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
-| 76 | [Abandon](https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ) | 2:40 |
+| 75 | [Abandon](https://open.spotify.com/track/2I4HGGLdZsy3LqQn9ndsty) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [All That Is Over](https://open.spotify.com/album/0oqLmxhxIu8moVRQZLfsYQ) | 2:40 |
+| 76 | [Deep Six Textbook](https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I, Gemini](https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC) | 5:39 |
 | 77 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 78 | [Your Love Is It Real?](https://open.spotify.com/track/5AGYajXy8psPb1d18TC20G) | [doubleVee](https://open.spotify.com/artist/44ctaVe3os7HsW3ad0JbIt) | [Treat Her Strangely](https://open.spotify.com/album/160v3MwjFlmnBYCFXbTxzH) | 3:25 |
 | 79 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 95 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 |
 | 96 | [Darp 2 / Exorcism](https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 3:20 |
 | 97 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
-| 98 | [Black Tuesday](https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Peaky Blinders: Season 5 \(Original Score\)](https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2) | 1:32 |
-| 99 | [Strange Comfort](https://open.spotify.com/track/5keFdzNhXXOzZ6pshLGJVY) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Strange Comfort](https://open.spotify.com/album/1sOKriGM1stwLtJ7xSJOQb) | 4:08 |
+| 98 | [Strange Comfort](https://open.spotify.com/track/5keFdzNhXXOzZ6pshLGJVY) | [ENOLA](https://open.spotify.com/artist/0JwAxa5LS26N0e6wEedRnB) | [Strange Comfort](https://open.spotify.com/album/1sOKriGM1stwLtJ7xSJOQb) | 4:08 |
+| 99 | [Black Tuesday](https://open.spotify.com/track/0V7lk9z0lENF1yokswyldF) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo) | [Peaky Blinders: Season 5 \(Original Score\)](https://open.spotify.com/album/4BdTEmyT5pI0OyBzqwQtu2) | 1:32 |
 | 100 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
 
 Snapshot ID: `AAAAAAOCOHnCzZnIpeiV53cnf1cnuLFb`

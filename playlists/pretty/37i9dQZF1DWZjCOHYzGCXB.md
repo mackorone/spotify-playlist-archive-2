@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > boots, that's my ego boost 👢
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,832 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,836 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 13 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 14 | [Angel](https://open.spotify.com/track/6932XE7HnGtDvB0kgMDPdZ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:03 |
 | 15 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 16 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
-| 17 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 16 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 |
+| 17 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 18 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
 | 19 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 20 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 52 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 53 | [AAAHH MEN!](https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:13 |
 | 54 | [Tennis](https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:30 |
-| 55 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
-| 56 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 |
+| 55 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 |
+| 56 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
 | 57 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 |
 | 58 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 59 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 |

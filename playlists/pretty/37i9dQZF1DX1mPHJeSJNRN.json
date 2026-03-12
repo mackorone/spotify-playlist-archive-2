@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 21867,
+  "num_followers": 21914,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Henderson",
+          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
+        }
+      ],
+      "duration_ms": 263444,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 203933,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/42glcnGSZYpv5kg9izfAuP"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "The Good Life",
-        "url": "https://open.spotify.com/album/1KcIDuzLH70tG5qt2jYtt6"
-      },
-      "artists": [
-        {
-          "name": "Tyler Henderson",
-          "url": "https://open.spotify.com/artist/4edLXfn5dbnwKUZ7pNdmze"
-        }
-      ],
-      "duration_ms": 263444,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4xMAglOTdaA3GVgP7iQLmd"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
         "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 219826,
       "name": "Spring Is Here",
       "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "There'll Be Another Spring",
-      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Calendar Girl",
         "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 141266,
       "name": "Melancholy March",
       "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "There'll Be Another Spring",
+      "url": "https://open.spotify.com/track/22vHml55QoZoqhE5yl57DS"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "A Lot of Livin' to Do",
-        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
-      },
-      "artists": [
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Won't You Be My Neighbor",
-      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 190345,
       "name": "Just A Little Lovin'",
       "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "A Lot of Livin' to Do",
+        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Won't You Be My Neighbor",
+      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Cad\u00eancia Verde e Amarela",
         "url": "https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 237013,
       "name": "Cad\u00eancia",
       "url": "https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "The Art Of Elegance",
-        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
-      },
-      "artists": [
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 174813,
-      "name": "I\u2019ve Got A Crush On You",
-      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 192726,
       "name": "Keep It in Your Dreams",
       "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "The Art Of Elegance",
+        "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 174813,
+      "name": "I\u2019ve Got A Crush On You",
+      "url": "https://open.spotify.com/track/3OQratgAjUQhiDyku1RJEg"
     },
     {
       "added_at": "2026-02-17 14:09:55",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
-        "name": "Your Songs",
-        "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "All The Way",
-      "url": "https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
         "name": "It Happens Like That",
         "url": "https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 466973,
       "name": "Shallow Waters",
       "url": "https://open.spotify.com/track/0Q3LZbJerwYufO4DfOfZ56"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
+        "name": "Your Songs",
+        "url": "https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl"
     },
     {
       "added_at": "2026-02-17 14:09:55",

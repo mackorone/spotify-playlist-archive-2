@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Harry Styles, Metric, Cameron Whitcomb, Baby Nova, Daniela Andrade and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,803 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,779 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 74 | [London's Burning](https://open.spotify.com/track/7zSo6VFBUzx3jrH6RpaUyP) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Little Miss Crazy B!tch](https://open.spotify.com/album/3rbz11TmDHUWPKLNVJ2Vzj) | 2:49 |
 | 75 | [Wish](https://open.spotify.com/track/4pACtAVffmWj3KHWb2MXvM) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Wish](https://open.spotify.com/album/5pIYTTC1eZTlaOBIirQha6) | 2:45 |
 | 76 | [Smudge Bowl](https://open.spotify.com/track/2Xprl9DRrL9pwioHZb8OZl) | [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ) | [Smudge Bowl](https://open.spotify.com/album/2xb2ru3Dxw21YNg22dBa70) | 3:12 |
-| 77 | [Ancient Seed](https://open.spotify.com/track/68ecoJITGB8aJzb02krL8n) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Ancient Seed](https://open.spotify.com/album/4SP8alHSsTAwom8blEF6iY) | 3:32 |
+| 77 | [Ancient Seed \(\#SaveSoil\)](https://open.spotify.com/track/68ecoJITGB8aJzb02krL8n) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Ancient Seed \(\#SaveSoil\)](https://open.spotify.com/album/4SP8alHSsTAwom8blEF6iY) | 3:32 |
 | 78 | [Love Me Crazy](https://open.spotify.com/track/2X9kvnIFMFjI0NnADY4moh) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Love Me Crazy](https://open.spotify.com/album/0qU2CFeOxGSlVXx560wXIv) | 3:48 |
 | 79 | [Frontin’ \- Spotify Singles](https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Frontin’ \- Spotify Singles](https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0) | 3:56 |
 | 80 | [Choo Choo](https://open.spotify.com/track/2CftoriIV6cBsAcFMzm5Cx) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Choo Choo](https://open.spotify.com/album/1K9FBRQLKXTdbXr7kkzC7t) | 3:20 |

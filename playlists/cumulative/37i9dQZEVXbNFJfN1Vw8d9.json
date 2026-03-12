@@ -8821,6 +8821,40 @@
     },
     {
       "album": {
+        "name": "Dichavate",
+        "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246428,
+      "name": "Dichavate",
+      "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
+    },
+    {
+      "album": {
         "name": "Las Leyendas Nunca Mueren",
         "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
@@ -29460,7 +29494,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -30620,7 +30654,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
@@ -31506,7 +31540,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 127575,
       "name": "Te Dar\u00e9",
       "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"

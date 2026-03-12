@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,323 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,267 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 57 | [Lemon Tree](https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lemon Tree](https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G) | 4:08 |
 | 58 | [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 |
 | 59 | [Virginia \(Wind In The Night\)](https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Virginia \(Wind In The Night\)](https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx) | 3:25 |
-| 60 | [Where'd All the Time Go](https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Where'd All the Time Go](https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD) | 4:01 |
-| 61 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
+| 60 | [Song In My Head](https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:40 |
+| 61 | [Where'd All the Time Go](https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Where'd All the Time Go](https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD) | 4:01 |
 | 62 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
 | 63 | [I Can't Make You Love Me \- Spotify Singles](https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:16 |
 | 64 | [Rococo Zephyr](https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with one thing in common.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,033,038 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,033,084 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 40 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 41 | [No Good](https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:54 |
 | 42 | [Need You Tonight](https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:00 |
-| 43 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 |
-| 44 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
+| 43 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 |
+| 44 | [Fire](https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:17 |
 | 45 | [I Am the Highway](https://open.spotify.com/track/3bwAS8cN7Xtzvv5UurJOOX) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 5:34 |
 | 46 | [Jailhouse Rock](https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:29 |
 | 47 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
-| 48 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
-| 49 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
+| 48 | [Safari Song](https://open.spotify.com/track/1BfR5GMOgW0peHkPxrwf11) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 3:54 |
+| 49 | [Lydia](https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [Mister Asylum](https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM) | 4:02 |
 | 50 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 51 | [Howlin' for You](https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:11 |
 | 52 | [American Woman](https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:24 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 70 | [Save Me Some Sunshine](https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Save Me Some Sunshine](https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q) | 3:37 |
 | 71 | [Nearly Forgot My Broken Heart](https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Higher Truth](https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl) | 3:54 |
 | 72 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
-| 73 | [Slow Ride](https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Fool for the City](https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi) | 8:14 |
-| 74 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
+| 73 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
+| 74 | [Slow Ride](https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Fool for the City](https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi) | 8:14 |
 | 75 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin \(Expanded 2005 Remaster\)](https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE) | 2:29 |
 | 76 | [My Hero](https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:18 |
 | 77 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 93 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 |
 | 94 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
 | 95 | [Ten Tonne Skeleton](https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:07 |
-| 96 | [Blood In The Water](https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Chronicles Of The Kid](https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp) | 3:37 |
-| 97 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
-| 98 | [Man in the Box](https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ) | 4:44 |
+| 96 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
+| 97 | [Man in the Box](https://open.spotify.com/track/3G0EKJZy0j3rMG077UawaC) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/24RN3saFUfzYYGLviEh4JZ) | 4:44 |
+| 98 | [Blood In The Water](https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Chronicles Of The Kid](https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp) | 3:37 |
 | 99 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 100 | [Paralyzed](https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Paralyzed](https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl) | 4:28 |
 | 101 | [20th Century Boy](https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(Deluxe Edition\)](https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J) | 3:41 |

@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Rainbow note",
+        "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn"
+    },
+    {
+      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 202200,
       "name": "Dive",
       "url": "https://open.spotify.com/track/2ibh8s36m4hNsVfzRomsTI"
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 240944,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/7ox2IqmVCDoNwdQdjpbuku"
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 203600,
       "name": "Lost Star",
       "url": "https://open.spotify.com/track/65oAffhyWVBIJgPix4L5XF"
@@ -4510,6 +4528,24 @@
       "duration_ms": 294700,
       "name": "Monthly Project 2019 May Yoon Jong Shin - A train to chuncheon",
       "url": "https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk"
+    },
+    {
+      "album": {
+        "name": "Monthly Project 2020 June Yoon Jong Shin - Summer, Anyway",
+        "url": "https://open.spotify.com/album/6bC0KXhZSgJFRKCLgEiCul"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343616,
+      "name": "Monthly Project 2020 June Yoon Jong Shin - Summer, Anyway",
+      "url": "https://open.spotify.com/track/1YJMHH9j5xCnaC0UAza07f"
     },
     {
       "album": {
@@ -6548,6 +6584,28 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/4C3cXopfT2rbKGYgYfoHrK"
+    },
+    {
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/7hX2fO4JjrObIF3u33pKM6"
+      },
+      "artists": [
+        {
+          "name": "OuiOui",
+          "url": "https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8"
+        },
+        {
+          "name": "Wilcox",
+          "url": "https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216360,
+      "name": "Thinkin' bout you",
+      "url": "https://open.spotify.com/track/21DduanRJyq1KNV4h1DyWH"
     },
     {
       "album": {

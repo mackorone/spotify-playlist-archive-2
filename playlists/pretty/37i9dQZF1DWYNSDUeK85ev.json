@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 695792,
+  "num_followers": 695832,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -340,8 +340,8 @@
       },
       "artists": [
         {
-          "name": "La Secta",
-          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
+          "name": "La Secta AllStar",
+          "url": "https://open.spotify.com/artist/5WTJgmKTxGTi6N9KpGH9Yr"
         },
         {
           "name": "Eddie Dee",
@@ -519,30 +519,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "MERCHO",
-        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
-      },
-      "artists": [
-        {
-          "name": "LiL CaKe",
-          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 161451,
-      "name": "MERCHO",
-      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -567,6 +543,30 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "MERCHO",
+        "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 161451,
+      "name": "MERCHO",
+      "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Inocente",
         "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
       },
@@ -583,26 +583,6 @@
       "duration_ms": 171500,
       "name": "Inocente",
       "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Si Me Tomo una Cerveza",
-        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
-        }
-      ],
-      "duration_ms": 182198,
-      "name": "Si Me Tomo Una Cerveza",
-      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -647,6 +627,26 @@
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        }
+      ],
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -931,26 +931,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Ya No M\u00e1s",
-        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
       },
       "artists": [
         {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         },
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "Santiago Saez",
-          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 158447,
-      "name": "Ya No M\u00e1s",
-      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -999,22 +995,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+        "name": "Ya No M\u00e1s",
+        "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
         },
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "Santiago Saez",
+          "url": "https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV"
         }
       ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+      "duration_ms": 158447,
+      "name": "Ya No M\u00e1s",
+      "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Peipper | Mission 11",
         "url": "https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 138000,
       "name": "Peipper | Mission 11",
       "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "El Polaco - Agradeciendo a Dios",
+        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Porque te fuiste",
+      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Que Locura Fue Enamorarme de Ti (Remix)",
         "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "El Polaco - Agradeciendo a Dios",
-        "url": "https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Porque te fuiste",
-      "url": "https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Besame",
-      "url": "https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 125828,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49"
     },
     {
       "added_at": "2026-02-20 03:00:09",

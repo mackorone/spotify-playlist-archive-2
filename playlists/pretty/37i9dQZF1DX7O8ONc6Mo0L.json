@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 374465,
+  "num_followers": 374587,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-11-30 17:53:06",
       "album": {
-        "name": "Ton Canta",
-        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 316055,
-      "name": "Algo Novo",
-      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
-    },
-    {
-      "added_at": "2025-11-30 17:53:06",
-      "album": {
         "name": "De Dentro Pra Fora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 257105,
       "name": "De Dentro Pra Fora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
+    },
+    {
+      "added_at": "2025-11-30 17:53:06",
+      "album": {
+        "name": "Ton Canta",
+        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
+      },
+      "artists": [
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 316055,
+      "name": "Algo Novo",
+      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
     },
     {
       "added_at": "2025-11-30 17:53:06",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-11-30 17:53:06",
       "album": {
-        "name": "Nova Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
-      },
-      "artists": [
-        {
-          "name": "Felipe Valente",
-          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Nova Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
-    },
-    {
-      "added_at": "2025-11-30 17:53:06",
-      "album": {
         "name": "Grande \u00c9 o Senhor",
         "url": "https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 253000,
       "name": "Grande \u00c9 o Senhor",
       "url": "https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3"
+    },
+    {
+      "added_at": "2025-11-30 17:53:06",
+      "album": {
+        "name": "Nova Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5JSTFlvhD0OyS6lEO5ztiq"
+      },
+      "artists": [
+        {
+          "name": "Felipe Valente",
+          "url": "https://open.spotify.com/artist/3tybwof5hhq09nqwDiESev"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Nova Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4lQvKqzgMgwdsNnSGLkzlP"
     },
     {
       "added_at": "2025-11-30 17:53:06",

@@ -143781,6 +143781,24 @@
     },
     {
       "album": {
+        "name": "Tes yeux",
+        "url": "https://open.spotify.com/album/2e7oEqkFUprlaBjtw6LC6l"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Tes yeux",
+      "url": "https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH"
+    },
+    {
+      "album": {
         "name": "TESLA",
         "url": "https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn"
       },

@@ -172,7 +172,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "10 Ng\u00e0n N\u0103m",
       "url": "https://open.spotify.com/track/2pm7K14nHj2fLrpU8j9bit"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 152000,
       "name": "1000 \u00c1nh M\u1eaft",
       "url": "https://open.spotify.com/track/5XfGQZA0ioQAWUjlyJRcHc"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -728,6 +728,32 @@
       "duration_ms": 114477,
       "name": "= (Equal Sign)",
       "url": "https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx"
+    },
+    {
+      "album": {
+        "name": "A Little Dream Of Me (From \"C\u1ea3m \u01a0n Ng\u01b0\u1eddi \u0110\u00e3 Th\u1ee9c C\u00f9ng T\u00f4i\" Original Soundtrack)",
+        "url": "https://open.spotify.com/album/78suGEY9lVaQzQUCgJZC1Y"
+      },
+      "artists": [
+        {
+          "name": "C\u00f4ng D\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex"
+        },
+        {
+          "name": "Nguy\u1ec5n L\u00e2m Th\u1ea3o T\u00e2m",
+          "url": "https://open.spotify.com/artist/5YG0ioEAI3lSqkJqAP2bDO"
+        },
+        {
+          "name": "30 Pictures",
+          "url": "https://open.spotify.com/artist/4fuBxSAuP6X7YxDZYVaLsz"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "A Little Dream Of Me - From \"C\u1ea3m \u01a0n Ng\u01b0\u1eddi \u0110\u00e3 Th\u1ee9c C\u00f9ng T\u00f4i\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/66v7AvDs5gZfmkJgFMMtHL"
     },
     {
       "album": {
@@ -4998,7 +5024,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 259764,
       "name": "Ch\u1ea5t G\u00e2y H\u1ea1i",
       "url": "https://open.spotify.com/track/1i5SZL7Ngz0sYFaKmwieyw"
@@ -9150,7 +9176,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 237192,
       "name": "Gh\u00e9 Qua",
       "url": "https://open.spotify.com/track/6Q2oEdOhRjZ1DTv2a7j0lN"
@@ -16352,7 +16378,7 @@
       ],
       "date_added": "2025-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 214438,
       "name": "Ng\u00e0n N\u0103m \u00c1nh S\u00e1ng",
       "url": "https://open.spotify.com/track/4nyoalDFgUaZOzIKqj3aS5"
@@ -16690,6 +16716,24 @@
       "duration_ms": 284600,
       "name": "Ng\u01b0\u1eddi B\u00ecnh Th\u01b0\u1eddng",
       "url": "https://open.spotify.com/track/1fFvYVg1v3rpUSqKNCUh7b"
+    },
+    {
+      "album": {
+        "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+        "url": "https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Ng\u01b0\u1eddi Im L\u1eb7ng G\u1eb7p Ng\u01b0\u1eddi Hay N\u00f3i",
+      "url": "https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo"
     },
     {
       "album": {
@@ -21014,7 +21058,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 293000,
       "name": "She Neva Knows",
       "url": "https://open.spotify.com/track/0NyrI1tMvqcK3vU5z9DMdI"
@@ -22980,7 +23024,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 206016,
       "name": "Thanh T\u00e2n",
       "url": "https://open.spotify.com/track/2eVsKrWqJhTAVItaTRashw"
@@ -23860,7 +23904,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -25424,7 +25468,7 @@
       },
       "artists": [
         {
-          "name": "Bao Anh",
+          "name": "B\u1ea3o Anh",
           "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
         },
         {
@@ -25434,7 +25478,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-23",
+      "date_removed": null,
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,274 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,280 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 29 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 |
 | 30 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 |
 | 31 | [Night Shift](https://open.spotify.com/track/1yYlpGuBiRRf33e1gY61bN) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu) | 6:31 |
-| 32 | [The greatest](https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
-| 33 | [Everything Is Embarrassing](https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS) | 4:10 |
+| 32 | [Everything Is Embarrassing](https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS) | 4:10 |
+| 33 | [The greatest](https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
 | 34 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |
 | 35 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |
 | 36 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 56 | [Vortex](https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 5:43 |
 | 57 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
 | 58 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 |
-| 59 | [Best Guess](https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 4:00 |
-| 60 | [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 |
-| 61 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
-| 62 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
-| 63 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 |
-| 64 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
-| 65 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 |
+| 59 | [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 |
+| 60 | [Best Guess](https://open.spotify.com/track/2u6VEZjUu5P3GVfUMDIIbu) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 4:00 |
+| 61 | [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 |
+| 62 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
+| 63 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
+| 64 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 |
+| 65 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |
 | 66 | [That's Where I Am](https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:12 |
 | 67 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 |
 | 68 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 69 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
 | 70 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 71 | [Breathe onto me](https://open.spotify.com/track/4Ptz8KrFzU52Eyp1wwpVCn) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 3:57 |
-| 72 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
-| 73 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
-| 74 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
+| 72 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
+| 73 | [Now & Then](https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Now & Then](https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc) | 3:25 |
+| 74 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
 | 75 | [Us](https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Soviet Kitsch](https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy) | 4:52 |
 | 76 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 77 | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [My Baby \(Got Nothing At All\) \(Materialists Original Soundtrack\)](https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu) | 4:02 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 86 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 87 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
 | 88 | [Black Dog](https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:48 |
-| 89 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
-| 90 | [Starvation](https://open.spotify.com/track/6rtwjJHMx7pNd6xAnT8nK8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV) | 3:27 |
+| 89 | [Starvation](https://open.spotify.com/track/6rtwjJHMx7pNd6xAnT8nK8) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV) | 3:27 |
+| 90 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 |
 | 91 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
 | 92 | [How to Be a Heartbreaker](https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ) | 3:41 |
 | 93 | [Love Is to Die](https://open.spotify.com/track/2RAXAF7qjvn0FsRuMMTlBx) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Warpaint](https://open.spotify.com/album/01bpErHrPxAZVPoZV7yVhk) | 4:51 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 96 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
 | 97 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
 | 98 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
-| 99 | [Method Actor](https://open.spotify.com/track/0sggL2BsarV5q8acXljmWI) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [My Method Actor](https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p) | 3:51 |
-| 100 | [Glad He's Gone](https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Glad He's Gone](https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94) | 3:16 |
+| 99 | [Glad He's Gone](https://open.spotify.com/track/6aIAuKNU8JlVaTmoCYYN6U) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Glad He's Gone](https://open.spotify.com/album/4XpTyLPAuao2zSsN6WGR94) | 3:16 |
+| 100 | [Method Actor](https://open.spotify.com/track/0sggL2BsarV5q8acXljmWI) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [My Method Actor](https://open.spotify.com/album/4BBVZgRsWeNVgGmub6LY3p) | 3:51 |
 
 Snapshot ID: `AAAAAO5TL7UPmNs06Lq+FwvSfH6v6oAB`

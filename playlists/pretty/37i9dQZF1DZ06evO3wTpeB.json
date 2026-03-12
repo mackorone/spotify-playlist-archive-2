@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4871,
+  "num_followers": 4870,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADedVewNB+k2We7wga0OQ89",
+  "snapshot_id": "aa9fAAAAAAA3FzH6seY/DLCalGkJx365",
   "tracks": [
     {
       "added_at": null,
@@ -1087,38 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rap Conciencia",
-        "url": "https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Es una lucha Constante",
-      "url": "https://open.spotify.com/track/6opNqQS5QBfw58qae9MD6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estado Popular Del Alma \u2022 Epa",
         "url": "https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1"
       },
@@ -1139,6 +1107,42 @@
       "duration_ms": 214600,
       "name": "Invente",
       "url": "https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universos Mixtape",
+        "url": "https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Andrade A.K.A Doble A",
+          "url": "https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU"
+        }
+      ],
+      "duration_ms": 170527,
+      "name": "Otra Pa' Mi Cuenta",
+      "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     }
   ],
   "unique_name": "This Is Ali Aka Mind",

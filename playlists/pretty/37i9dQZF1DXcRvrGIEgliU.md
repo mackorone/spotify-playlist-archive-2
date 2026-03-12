@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,893 likes - 150 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,922 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,16 +111,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 101 | [Flight of the Crows](https://open.spotify.com/track/2SgpLPEfLGWDMkCT9nFAO6) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/4Xfd2a497pZksMAx2BHqrv) | 2:38 |
 | 102 | [All Is Well](https://open.spotify.com/track/1wDSBJSCKxB8qZR6jnfqgt) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [All Is Well](https://open.spotify.com/album/7IAZgH8L6M6sOVx3I0FPWo) | 2:30 |
 | 103 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
-| 104 | [nine thirty \(the glow\)](https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:34 |
-| 105 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
-| 106 | [Joga Bonito](https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:42 |
-| 107 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 104 | [I'm All Fucked Up](https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Box for Buddy, Box for Star](https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV) | 4:33 |
+| 105 | [nine thirty \(the glow\)](https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [dear dialE](https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE) | 1:34 |
+| 106 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
+| 107 | [Joga Bonito](https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:42 |
 | 108 | [Sao Em Lại Tắt Máy?](https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Sao Em Lại Tắt Máy?](https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1) | 3:18 |
 | 109 | [i haunt ur dreams](https://open.spotify.com/track/2JE60bG37E2hJA0pAuQ9wo) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/6Nm1396bUjq3IUS0nlhcAP) | 3:36 |
 | 110 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
 | 111 | [Uçurum](https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [Uçurum](https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP) | 2:30 |
-| 112 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz) | 2:09 |
-| 113 | [Olympus](https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE) | 3:36 |
+| 112 | [Olympus](https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE) | 3:36 |
+| 113 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz) | 2:09 |
 | 114 | [Cat Girls Are Ruining My Life!](https://open.spotify.com/track/4SPBwOTXgku4QvmRtMEGfW) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [Cat Girls Are Ruining My Life!](https://open.spotify.com/album/13vJf0S7wWfz9NC9nBhWqW) | 1:37 |
 | 115 | [Wildfire](https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wildfire](https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd) | 3:10 |
 | 116 | [high school boy](https://open.spotify.com/track/6Aj3Ff2lIXBZF3KxfQkUH2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:54 |
@@ -147,16 +147,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 137 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 |
 | 138 | [Can't Hide](https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Can't Hide](https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW) | 3:04 |
 | 139 | [Blue Eyed Constellation](https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:53 |
-| 140 | [Mrs\. Hollywood](https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP) | 2:23 |
-| 141 | [Eyes Don't Lie](https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don’t lie](https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y) | 3:46 |
-| 142 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 |
+| 140 | [Eyes Don't Lie](https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don’t lie](https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y) | 3:46 |
+| 141 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 |
+| 142 | [Mrs\. Hollywood](https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP) | 2:23 |
 | 143 | [Lotto](https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [34Corine](https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL) | 2:27 |
 | 144 | [Little Bit](https://open.spotify.com/track/0spXmYRCgO10zVvQwkj4hZ) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6AYAMoty9hbhfzRKWaILTW) | 4:46 |
 | 145 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
-| 146 | [All I Want Is You](https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [All I Want Is You](https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4) | 3:32 |
+| 146 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 |
 | 147 | [Shotta Flow 2](https://open.spotify.com/track/26X0iVtpSOySWPTcQAc5ul) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 2](https://open.spotify.com/album/1FxcC9sPtPHDs7EW5m8ji2) | 2:12 |
-| 148 | [Second hand embarrassment](https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 2:17 |
+| 148 | [Shawty](https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes) | 3:17 |
 | 149 | [High 4 U](https://open.spotify.com/track/0pRbwemRrnRUDOAniF6FOR) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [High 4 U](https://open.spotify.com/album/5MMBnre4vg3kHHjCuPzBRR) | 2:42 |
-| 150 | [Shawty](https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Shawty](https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes) | 3:17 |
+| 150 | [All I Want Is You](https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [All I Want Is You](https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4) | 3:32 |
 
 Snapshot ID: `AAAAACv9AaK9FykFSRcSypcyMfg6yXz/`

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 2010s. ",
-  "num_followers": 1581389,
+  "num_followers": 1581697,
   "original_name": "Soft 10s",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 278719,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -455,34 +439,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Call Out My Name",
-      "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+      "duration_ms": 278719,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -503,18 +471,34 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Call Out My Name",
+      "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -535,18 +519,18 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 231826,
-      "name": "Blank Space",
-      "url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -563,6 +547,22 @@
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231826,
+      "name": "Blank Space",
+      "url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 202749,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 202749,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "reputation Stadium Tour Surprise Song Playlist",
-        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
-      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "James Arthur (Deluxe)",
         "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 172723,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "reputation Stadium Tour Surprise Song Playlist",
+        "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker)",
+      "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Love Is a Four Letter Word (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Once Upon a Mind",
         "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 259991,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Love Is a Four Letter Word (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "The 1975 (Deluxe)",
-        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 240670,
-      "name": "Fallingforyou",
-      "url": "https://open.spotify.com/track/7LbUv7w2z7rEbNqp1uIL9U"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "The 1975 (Deluxe)",
+        "url": "https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 240670,
+      "name": "Fallingforyou",
+      "url": "https://open.spotify.com/track/7LbUv7w2z7rEbNqp1uIL9U"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 236440,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 239786,
-      "name": "I'm with You",
-      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 256687,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 239786,
+      "name": "I'm with You",
+      "url": "https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3543,22 +3543,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -3571,6 +3555,22 @@
       "duration_ms": 246320,
       "name": "Incredible",
       "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3675,22 +3675,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Jake Bugg",
-        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 247013,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Make My Bed",
         "url": "https://open.spotify.com/album/6VnoKML5dWRxOOEbMAPfG5"
       },
@@ -3703,6 +3687,22 @@
       "duration_ms": 174666,
       "name": "Holy",
       "url": "https://open.spotify.com/track/7FVGIPgLMDChTffvG2LuHV"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Jake Bugg",
+        "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 247013,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -3795,22 +3795,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Uncover",
-        "url": "https://open.spotify.com/album/60HpAwkOWjgTIJERzgy76n"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Uncover",
-      "url": "https://open.spotify.com/track/5rkok5WSDPoQb9xKx5R61n"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Songs Of Experience (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP"
       },
@@ -3823,6 +3807,22 @@
       "duration_ms": 204066,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Uncover",
+        "url": "https://open.spotify.com/album/60HpAwkOWjgTIJERzgy76n"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Uncover",
+      "url": "https://open.spotify.com/track/5rkok5WSDPoQb9xKx5R61n"
     },
     {
       "added_at": "2024-07-15 19:36:11",
@@ -4203,22 +4203,6 @@
     {
       "added_at": "2024-07-15 19:36:11",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Overgrown",
-      "url": "https://open.spotify.com/track/7rHIRFNCDu6o9LWtGMevK1"
-    },
-    {
-      "added_at": "2024-07-15 19:36:11",
-      "album": {
         "name": "Thinking About It (Let It Go) [KVR Remix]",
         "url": "https://open.spotify.com/album/0bVpSLPikXccXESlJzdmgD"
       },
@@ -4235,6 +4219,22 @@
       "duration_ms": 183564,
       "name": "Thinking About It (Let It Go) - KVR Remix",
       "url": "https://open.spotify.com/track/0yJv0G7r1PZIl1CY5XhvkR"
+    },
+    {
+      "added_at": "2024-07-15 19:36:11",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Overgrown",
+      "url": "https://open.spotify.com/track/7rHIRFNCDu6o9LWtGMevK1"
     },
     {
       "added_at": "2024-07-15 19:36:11",

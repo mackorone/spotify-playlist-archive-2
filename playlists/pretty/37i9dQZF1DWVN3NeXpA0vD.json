@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26341,
+  "num_followers": 26339,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Broken & Beautiful",
+        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 218948,
+      "name": "Broken & Beautiful",
+      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "The Other Side (from Trolls World Tour)",
         "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 188186,
       "name": "The Other Side (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Broken & Beautiful",
-        "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 218948,
-      "name": "Broken & Beautiful",
-      "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
     },
     {
       "added_at": "2024-07-03 14:32:39",

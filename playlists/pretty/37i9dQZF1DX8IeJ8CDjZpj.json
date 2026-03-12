@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 94871,
+  "num_followers": 94915,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 258266,
       "name": "Hymn for the Weekend",
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 209453,
       "name": "Otra Vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "This Is What You Came For",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 221900,
       "name": "This Is What You Came For",
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "Viejo Marihuano",
+        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Cul\u00f3n Culito",
+      "url": "https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "DUELE EL CORAZON (feat. Wisin)",
         "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 199693,
       "name": "DUELE EL CORAZON (feat. Wisin)",
       "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
-        "name": "Viejo Marihuano",
-        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Cul\u00f3n Culito",
-      "url": "https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Durmiendo en el Lugar Equivocado",
-        "url": "https://open.spotify.com/album/0niloiK76YpMEqEO698GIF"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 195194,
-      "name": "Te Dir\u00e1n",
-      "url": "https://open.spotify.com/track/1Z0OcQTJWRBvzzGl7D7TtJ"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Pegao en Youtube",
         "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 214726,
       "name": "Xapiadora",
       "url": "https://open.spotify.com/track/3Gfs29GWViOqUnHSBq911p"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Durmiendo en el Lugar Equivocado",
+        "url": "https://open.spotify.com/album/0niloiK76YpMEqEO698GIF"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 195194,
+      "name": "Te Dir\u00e1n",
+      "url": "https://open.spotify.com/track/1Z0OcQTJWRBvzzGl7D7TtJ"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Blackstar",
-        "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 384453,
-      "name": "Lazarus",
-      "url": "https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Pegao en Youtube",
         "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 225959,
       "name": "Tropical",
       "url": "https://open.spotify.com/track/1c3lEwfoPzQ52Wq7G0RNCA"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 384453,
+      "name": "Lazarus",
+      "url": "https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0"
     },
     {
       "added_at": "2026-01-23 01:08:49",

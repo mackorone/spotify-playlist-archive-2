@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 
 > Dale play y déjate llevar por estas finas melodías Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,205 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,227 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,10 +84,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapHi7gXtXo2.md) - [plain]
 | 74 | [Casi Algo](https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV) | [Júpiter en Casa](https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd) | [Casi Algo](https://open.spotify.com/album/4Gf0hePwvQJ6WfesWheCDv) | 3:21 |
 | 75 | [Me Siento en Primavera](https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Siento en Primavera](https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz) | 2:42 |
 | 76 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
-| 77 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
-| 78 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
-| 79 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
-| 80 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
+| 77 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
+| 78 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 |
+| 79 | [Cursi](https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG) | [Yamila Ruiz](https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl) | [Cursi](https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M) | 3:13 |
+| 80 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Cómo Te Extraño Mi Amor](https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9) | 3:07 |
 | 81 | [Llueve Sobre Mojado](https://open.spotify.com/track/7AbXvFA3CC6sA7t1wlwApo) | [Deborah De Corral](https://open.spotify.com/artist/0cEINGGZS5I0npSooTOQRZ) | [Piel](https://open.spotify.com/album/22zFtS2ipuNixDofMq176B) | 4:03 |
 | 82 | [El Club](https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [El Club](https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh) | 2:39 |
 | 83 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |

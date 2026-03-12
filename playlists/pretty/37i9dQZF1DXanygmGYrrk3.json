@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tus canciones favoritas del momento, todas en un solo lugar! Cover: Valent\u00edn Elizalde, Edgardo Nu\u00f1ez",
-  "num_followers": 387121,
+  "num_followers": 387338,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
+        "name": "Gracias Por Creer",
+        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/366AAoKCXunrJSqKqZuafy"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 224920,
       "name": "Fin de Semana",
       "url": "https://open.spotify.com/track/6TBzRwnX2oYd8aOrOuyK1p"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
-        "name": "Gracias Por Creer",
-        "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -847,22 +847,18 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
+        "name": "M\u00e1s Adelante",
+        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
       },
       "artists": [
         {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 178079,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
+      "duration_ms": 181160,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -883,34 +879,22 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "M\u00e1s Adelante",
-        "url": "https://open.spotify.com/album/2kjKAnGYRXKveSja6gSOEB"
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 181160,
-      "name": "Ya Es Muy Tarde",
-      "url": "https://open.spotify.com/track/64my6WOkrygcpXKMLxxpi9"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
-        "name": "El Beneficio De La Duda",
-        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
-      },
-      "artists": [
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 245500,
-      "name": "El Beneficio De La Duda",
-      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
+      "duration_ms": 178079,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
+        "name": "El Beneficio De La Duda",
+        "url": "https://open.spotify.com/album/0i2GOYC6sONGebCWwtHUf6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "El Beneficio De La Duda",
+      "url": "https://open.spotify.com/track/7xJ1scIZpc33lZ7HpcrjCY"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
         "name": "La Rueda De La Fortuna",
         "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 222528,
-      "name": "Como Duele El Amor",
-      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
         "name": "El Free",
         "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 163560,
       "name": "Mi \u00daltimo Deseo",
       "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 222528,
+      "name": "Como Duele El Amor",
+      "url": "https://open.spotify.com/track/3lCxAT7Q8VOxL39y3H62hF"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 191504,
-      "name": "LOKERON X AMOR",
-      "url": "https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 201322,
       "name": "On D Gas",
       "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 191504,
+      "name": "LOKERON X AMOR",
+      "url": "https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
-    },
-    {
-      "added_at": "2026-02-20 08:39:43",
-      "album": {
         "name": "El Del Palenque",
         "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2026-02-20 08:39:43",
       "album": {
-        "name": "Cada Noche",
-        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 221325,
-      "name": "Cada Noche",
-      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2026-02-20 08:39:43",
@@ -1703,6 +1687,22 @@
       "duration_ms": 170744,
       "name": "Chale",
       "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2026-02-20 08:39:43",
+      "album": {
+        "name": "Cada Noche",
+        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 221325,
+      "name": "Cada Noche",
+      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
     },
     {
       "added_at": "2026-02-20 08:39:43",

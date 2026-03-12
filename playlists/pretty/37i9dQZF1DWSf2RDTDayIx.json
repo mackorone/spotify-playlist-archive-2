@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2463252,
+  "num_followers": 2463537,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,26 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2026-02-20 05:00:34",
+      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -703,22 +723,22 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Jocelyn Enriquez",
+          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
         }
       ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+      "duration_ms": 182947,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
     },
     {
       "added_at": "2026-02-20 05:00:34",
@@ -743,26 +763,6 @@
       "duration_ms": 182498,
       "name": "The One (feat. Jocelyn Brown)",
       "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
-    },
-    {
-      "added_at": "2026-02-20 05:00:34",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Jocelyn Enriquez",
-          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
-        }
-      ],
-      "duration_ms": 182947,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
     },
     {
       "added_at": "2026-02-20 05:00:34",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": "2026-02-20 05:00:34",
-      "album": {
         "name": "True Desire",
         "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 155660,
       "name": "True Desire",
       "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
+    },
+    {
+      "added_at": "2026-02-20 05:00:34",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
     },
     {
       "added_at": "2026-02-20 05:00:34",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
+        "name": "Lost In Music",
+        "url": "https://open.spotify.com/album/51da1nUSWtm7kA6JZuu6lT"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 210929,
+      "name": "Lost In Music",
+      "url": "https://open.spotify.com/track/7FUKSjbSp3GrEEPTmj5e5R"
+    },
+    {
+      "added_at": "2026-02-20 05:00:34",
+      "album": {
         "name": "TANZPARTEI II (Mixtape)",
         "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
-    },
-    {
-      "added_at": "2026-02-20 05:00:34",
-      "album": {
-        "name": "Lost In Music",
-        "url": "https://open.spotify.com/album/51da1nUSWtm7kA6JZuu6lT"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 210929,
-      "name": "Lost In Music",
-      "url": "https://open.spotify.com/track/7FUKSjbSp3GrEEPTmj5e5R"
     },
     {
       "added_at": "2026-02-20 05:00:34",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
+      },
+      "artists": [
+        {
+          "name": "Jodie Harsh",
+          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:34",
+      "album": {
         "name": "Turn The Lights Off (with Jaxstyle) [HILLS & Dansyn Remix]",
         "url": "https://open.spotify.com/album/5VEPN4W4wed0acDeJQJtFD"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 173547,
       "name": "Turn The Lights Off (with Jaxstyle) - HILLS & Dansyn Remix",
       "url": "https://open.spotify.com/track/0jhjSbq8aTKPcQjZOhOZxw"
-    },
-    {
-      "added_at": "2026-02-20 05:00:34",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy"
-      },
-      "artists": [
-        {
-          "name": "Jodie Harsh",
-          "url": "https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
     },
     {
       "added_at": "2026-02-20 05:00:34",
@@ -2315,6 +2315,26 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
+        "name": "Future Renaissance",
+        "url": "https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 163834,
+      "name": "Believing In Us",
+      "url": "https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r"
+    },
+    {
+      "added_at": "2026-02-20 05:00:34",
+      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -2335,26 +2355,6 @@
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
-    },
-    {
-      "added_at": "2026-02-20 05:00:34",
-      "album": {
-        "name": "Future Renaissance",
-        "url": "https://open.spotify.com/album/14WJvgC04sHE4m7HIXZ8Ri"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 163834,
-      "name": "Believing In Us",
-      "url": "https://open.spotify.com/track/6WljWthiqncq6ad3FiDM8r"
     },
     {
       "added_at": "2026-02-20 05:00:34",
@@ -2587,26 +2587,6 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
-        "name": "The Unreleased Project Pt. VIII",
-        "url": "https://open.spotify.com/album/7rVZAcxxJuRf9oLxF8lZSw"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Lyn Jada",
-          "url": "https://open.spotify.com/artist/5QD9BTJb8QvdHog0dec7QD"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "No One Like You - Edit",
-      "url": "https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx"
-    },
-    {
-      "added_at": "2026-02-20 05:00:34",
-      "album": {
         "name": "Time Never Stops (with Yung Bae)",
         "url": "https://open.spotify.com/album/3avlkzbiZFaPik4q6m6URA"
       },
@@ -2623,6 +2603,26 @@
       "duration_ms": 171923,
       "name": "Time Never Stops (with Yung Bae)",
       "url": "https://open.spotify.com/track/3KsqGmLA8hPcf143S7DP5T"
+    },
+    {
+      "added_at": "2026-02-20 05:00:34",
+      "album": {
+        "name": "The Unreleased Project Pt. VIII",
+        "url": "https://open.spotify.com/album/7rVZAcxxJuRf9oLxF8lZSw"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Lyn Jada",
+          "url": "https://open.spotify.com/artist/5QD9BTJb8QvdHog0dec7QD"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "No One Like You - Edit",
+      "url": "https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx"
     },
     {
       "added_at": "2026-02-20 05:00:34",
@@ -2855,6 +2855,22 @@
     {
       "added_at": "2026-02-20 05:00:34",
       "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf"
+    },
+    {
+      "added_at": "2026-02-20 05:00:34",
+      "album": {
         "name": "Tell Me What You Want",
         "url": "https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi"
       },
@@ -2871,22 +2887,6 @@
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
-    },
-    {
-      "added_at": "2026-02-20 05:00:34",
-      "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4RjokXhv5dBtyggZ7yg9W5"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/1yApeqGiKKeAMptbNUv2Mf"
     },
     {
       "added_at": "2026-02-20 05:00:34",

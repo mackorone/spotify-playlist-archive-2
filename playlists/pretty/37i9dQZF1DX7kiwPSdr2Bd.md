@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Valesca Mayssa
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,267 likes - 80 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,404 likes - 80 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 24 | [Minh'alma Engrandece ao Senhor / Adorado \- Ao Vivo](https://open.spotify.com/track/0RrDi7nGS8OapfGymSMClE) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Minh'alma Engrandece ao Senhor / Adorado \(Ao Vivo\)](https://open.spotify.com/album/4MkBBQMxmYrJ1lCkmzMqzw) | 7:34 |
 | 25 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 |
 | 26 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
-| 27 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
-| 28 | [Acalma o Meu Coração](https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Sessão Livre \(Vol.3\)](https://open.spotify.com/album/1V3TKVDKXKcVLrOwHwUfHx) | 7:33 |
+| 27 | [Acalma o Meu Coração](https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Sessão Livre \(Vol.3\)](https://open.spotify.com/album/1V3TKVDKXKcVLrOwHwUfHx) | 7:33 |
+| 28 | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 |
 | 29 | [Esse Vento Vai Passar \- Studio Session](https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Esse Vento Vai Passar \(Studio Session\)](https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9) | 5:19 |
 | 30 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
 | 31 | [Canção dos Redimidos \- Ao Vivo](https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Canção dos Redimidos \(Ao Vivo\)](https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ) | 6:53 |

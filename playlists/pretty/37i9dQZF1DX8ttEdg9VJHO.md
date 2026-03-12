@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,264 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,296 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 4 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 5 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 |
 | 6 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 |
-| 7 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
-| 8 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
+| 7 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
+| 8 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 9 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
 | 10 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 |
 | 11 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 |
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 39 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 |
 | 40 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
 | 41 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
-| 42 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 |
-| 43 | [Schön genug](https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Kuss.](https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs) | 3:18 |
+| 42 | [Schön genug](https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Kuss.](https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs) | 3:18 |
+| 43 | [Safety Net](https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp) | [Bea](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Safety Net](https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8) | 3:23 |
 | 44 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
 | 45 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
-| 46 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
-| 47 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
-| 48 | [Let Me Love You](https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Let Me Love You](https://open.spotify.com/album/105LdQFucx264gr5MMo2AX) | 3:13 |
+| 46 | [Let Me Love You](https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Let Me Love You](https://open.spotify.com/album/105LdQFucx264gr5MMo2AX) | 3:13 |
+| 47 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
+| 48 | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [GROWING UP IS \_\_\_\_\_](https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6) | 3:53 |
 | 49 | [Over](https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Over](https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2) | 2:49 |
 | 50 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 |
 | 51 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |

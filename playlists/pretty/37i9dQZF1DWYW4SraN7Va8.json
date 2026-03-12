@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 198283,
+  "num_followers": 198409,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Tipping Point",
-        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 268828,
-      "name": "Tipping Point",
-      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
         "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 189133,
       "name": "Blame It on the Boom Boom",
       "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Whitesnake's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Here I Go Again",
-      "url": "https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Automatic Sun",
         "url": "https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 190859,
       "name": "Automatic Sun",
       "url": "https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Whitesnake's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "Here I Go Again",
+      "url": "https://open.spotify.com/track/1tQ5TSr1tyeQUbHKBee0jv"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/2I8N3vNB7506VwZK6ICyeK"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/5rOzetfeTHK30dlGc7DBjU"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Holy Ground",
         "url": "https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 289597,
       "name": "Holy Ground (Shake the Memory)",
       "url": "https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/2I8N3vNB7506VwZK6ICyeK"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/5rOzetfeTHK30dlGc7DBjU"
     },
     {
       "added_at": "2026-02-06 06:00:21",

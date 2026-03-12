@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - UAE.",
-  "num_followers": 6058,
+  "num_followers": 6063,
   "original_name": "Top 50 - UAE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MUTO6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -29,7 +29,39 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 180716,
+      "name": "Don\u2019t Say You Love Me",
+      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -49,39 +81,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
@@ -97,7 +97,23 @@
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -129,7 +145,39 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "KALYANI",
         "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
@@ -157,55 +205,7 @@
       "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "VISA",
         "url": "https://open.spotify.com/album/5mtA5iGasjsoAGVFlwOa19"
@@ -221,23 +221,23 @@
       "url": "https://open.spotify.com/track/6RYMQDnY4zPaLSfvfRdXT7"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 180716,
-      "name": "Don\u2019t Say You Love Me",
-      "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -253,7 +253,55 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "Kaattuchembakam (From \"Pallichattambi\")",
         "url": "https://open.spotify.com/album/17ibcchQINeDcTqxlUMvwx"
@@ -281,55 +329,151 @@
       "url": "https://open.spotify.com/track/2ZjwnRNaEEwQaJaIH2h6KY"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "Pavazha Malli (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Shruti Haasan",
+          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 252569,
+      "name": "Pavazha Malli - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 153181,
+      "name": "E85",
+      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Winter Ahead (with PARK HYO SHIN)",
+        "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        },
+        {
+          "name": "Park Hyo Shin",
+          "url": "https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj"
+        }
+      ],
+      "duration_ms": 234895,
+      "name": "Winter Ahead (with PARK HYO SHIN)",
+      "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "ZILL",
         "url": "https://open.spotify.com/album/25D2wFqxvv4SupOGBIxXCM"
@@ -353,71 +497,103 @@
       "url": "https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
         }
       ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
+      "duration_ms": 195428,
+      "name": "Tahanan",
+      "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "(When You Gonna) Give It Up to Me",
+        "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 243880,
+      "name": "(When You Gonna) Give It Up to Me - Radio Version",
+      "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
         }
       ],
-      "duration_ms": 153181,
-      "name": "E85",
-      "url": "https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ"
+      "duration_ms": 362400,
+      "name": "Gehra Hua",
+      "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -449,131 +625,23 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+      "duration_ms": 197226,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
-        }
-      ],
-      "duration_ms": 362400,
-      "name": "Gehra Hua",
-      "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Pavazha Malli (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/0AZKtXd74RQmQtCSGcVuZB"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Shruti Haasan",
-          "url": "https://open.spotify.com/artist/06vOoTzj6cIac9FMbNXz9h"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 252569,
-      "name": "Pavazha Malli - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/4yur1GSBfuS1VADyUYocqd"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Volume One",
-        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "I Thought I Saw Your Face Today",
-      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "(When You Gonna) Give It Up to Me",
-        "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "(When You Gonna) Give It Up to Me - Radio Version",
-      "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -597,23 +665,127 @@
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
       "artists": [
         {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 197226,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Dracula (Remix)",
+        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Dracula - JENNIE Remix",
+      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "Belyol",
         "url": "https://open.spotify.com/album/0AHOtjeUSQi96z5RoYTwKC"
@@ -637,71 +809,7 @@
       "url": "https://open.spotify.com/track/1gSxCX6p00kxVqQjCN2PQY"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Tahanan",
-        "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
-      },
-      "artists": [
-        {
-          "name": "El Manu",
-          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Tahanan",
-      "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -717,27 +825,7 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 230453,
-      "name": "Starboy",
-      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -761,31 +849,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Papaoutai (Afro Soul)",
-        "url": "https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL"
-      },
-      "artists": [
-        {
-          "name": "mikeeysmind",
-          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Chill77",
-          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
-        },
-        {
-          "name": "Unjaps",
-          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
-        }
-      ],
-      "duration_ms": 280033,
-      "name": "Papaoutai - Afro Soul",
-      "url": "https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "What You Saying",
         "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
@@ -801,71 +865,59 @@
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
+      "duration_ms": 240426,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
       "album": {
-        "name": "Dhurandhar",
-        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
       "artists": [
         {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Sudhir Yaduvanshi",
-          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
-        },
-        {
-          "name": "Charanjit Ahuja",
-          "url": "https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj"
-        },
-        {
-          "name": "Muhammad Sadiq",
-          "url": "https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD"
-        },
-        {
-          "name": "Ranjit Kaur",
-          "url": "https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY"
-        },
-        {
-          "name": "Babu Singh Maan",
-          "url": "https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 155590,
-      "name": "Dhurandhar - Title Track",
-      "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
     },
     {
-      "added_at": "2026-03-08 13:45:16",
+      "added_at": "2026-03-11 13:44:59",
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "added_at": "2026-03-11 13:44:59",
       "album": {
         "name": "Hurry Up Tomorrow",
         "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
@@ -883,90 +935,6 @@
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "Dizzy up the Girl",
-        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 289533,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
-    },
-    {
-      "added_at": "2026-03-08 13:45:16",
-      "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     }
   ],
   "unique_name": "Top 50 - UAE",

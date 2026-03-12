@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-664 songs - 1 day 1 hr 17 min
+666 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [A Quiet Night](https://open.spotify.com/track/6H0uVRJtvqOBbGwNabw519) | [Prithvi](https://open.spotify.com/artist/4GKyEHBQxZKcVESiIggVaU), [Hush Child](https://open.spotify.com/artist/3r46iM1vaXubb5us8YCDPa) | [A Quiet Night](https://open.spotify.com/album/0OSwH5NIfILHiyOue1qCQT) | 2:13 | 2022-05-20 | 2023-01-20 |
 | [A Slight Return](https://open.spotify.com/track/4CeZdj5rYqg8hb5csZ6LhI) | [Partika](https://open.spotify.com/artist/3kKhFe1UhACeP31S9i1ZvS) | [A Slight Return](https://open.spotify.com/album/4GUj54llVxwgIksahB4z1G) | 3:09 | 2022-05-20 | 2022-09-03 |
 | [Above and Beyond](https://open.spotify.com/track/0qJu4CH53vfwJcrfG3teZt) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Above and Beyond](https://open.spotify.com/album/5yYaNuuxG6grkT4TJl8NBO) | 2:54 | 2022-05-20 | 2022-11-12 |
+| [Abstract](https://open.spotify.com/track/6Curu4yls4TfvynqNTnrfp) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Abstract](https://open.spotify.com/album/2wbh0mXpqZE65sHoo4Ltrn) | 1:45 | 2026-03-11 |  |
 | [Adieu](https://open.spotify.com/track/5Xmis2excSOi2DT4HLJL98) | [rebirthi.](https://open.spotify.com/artist/5CBPNGpH8RmawzvbFnnanz) | [Adieu](https://open.spotify.com/album/5AgHqMTk7p0VdNy1dHco5r) | 1:32 | 2022-10-28 | 2026-02-28 |
 | [adjustment](https://open.spotify.com/track/3a61DHhrJhe7jpgWrSW0ln) | [Ryder 003](https://open.spotify.com/artist/7FemKn5NierJh61aLlXsQz) | [adjustment](https://open.spotify.com/album/5P8KfJz3ZGTwTFUoR4J8Dz) | 2:13 | 2023-09-08 |  |
 | [after dark](https://open.spotify.com/track/0YmkDHPWe86vQDCtbubz14) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [after dark](https://open.spotify.com/album/44AQfgMwZWXBuvRoXYCcuM) | 2:21 | 2023-10-27 | 2026-02-28 |
@@ -227,7 +228,7 @@
 | [Glitter Space](https://open.spotify.com/track/16cGLCoy5hR0D02M0jzS3w) | [Unsuspected Noise](https://open.spotify.com/artist/4ka9QHdlBExtto0XXvFels), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Glitter Space](https://open.spotify.com/album/00B5LUP688G1RHsDb3jrK8) | 2:13 | 2023-03-27 | 2026-02-28 |
 | [gloaming atmospheres](https://open.spotify.com/track/5D0r1uBb8jOBH4djqq6weE) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [gloaming atmospheres](https://open.spotify.com/album/08Q4qGs9OFRlryVRedjgeI) | 2:29 | 2024-03-22 |  |
 | [gloomy forecast](https://open.spotify.com/track/0JOOhy4DD2DhsDUuFLcxKY) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [gloomy forecast](https://open.spotify.com/album/7AwLVPooBNokzJzlLyn91r) | 3:35 | 2022-05-20 | 2023-01-18 |
-| [Glum Look](https://open.spotify.com/track/4ZbgM8IdNDQ1G9atMLvKBf) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [Glum Look](https://open.spotify.com/album/3D3AYyKxxfxagXU3BiY4aZ) | 1:57 | 2024-11-21 |  |
+| [Glum Look](https://open.spotify.com/track/4ZbgM8IdNDQ1G9atMLvKBf) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [Glum Look](https://open.spotify.com/album/3D3AYyKxxfxagXU3BiY4aZ) | 1:57 | 2024-11-21 | 2026-03-12 |
 | [God Girl](https://open.spotify.com/track/6PUrpc5FKEIdOHB6Cr0UOQ) | [Salty Soundz](https://open.spotify.com/artist/0uj4WSTdDGg22OCuqLTKk9) | [God Girl](https://open.spotify.com/album/0FUXc6dVrKHPn2dT9FhzrU) | 2:48 | 2023-01-20 | 2023-10-06 |
 | [Golden Hours](https://open.spotify.com/track/6pFCWGvher1KJdEEsj55dn) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Autumn Here](https://open.spotify.com/album/2Ea5pKp1ORP8nXaOk85WHP) | 2:28 | 2022-05-20 | 2022-06-10 |
 | [golden lanterns](https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2) | [bby knife](https://open.spotify.com/artist/3Tub4hRLiyd2Heoati75O4) | [golden lanterns & sub zero](https://open.spotify.com/album/5BUYM7k80XcB4A2KSTK228) | 2:24 | 2023-01-13 |  |
@@ -316,7 +317,7 @@
 | [Let It Rain](https://open.spotify.com/track/5eniIpGH50pjaFLXzxRxfo) | [Travertina](https://open.spotify.com/artist/2pRfs9421S5W58xd6yfgYu) | [Let It Rain](https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5) | 2:31 | 2024-08-22 | 2026-02-28 |
 | [Let's stay here forever](https://open.spotify.com/track/5M4NSsW6J63KGMHc1y0c6c) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Let's stay here forever](https://open.spotify.com/album/7f6G4nEcP8zfHdFE61MABP) | 2:29 | 2024-02-09 | 2026-02-28 |
 | [Levitate](https://open.spotify.com/track/7dxp8lVzYsTLmXol1sAOKh) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Levitate](https://open.spotify.com/album/7Ha54KNva8eRTES9LrnudX) | 2:11 | 2023-09-08 |  |
-| [LEVITATE](https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [LEVITATE](https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk) | 2:19 | 2024-09-13 |  |
+| [LEVITATE](https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [LEVITATE](https://open.spotify.com/album/5SSzQLL7JrhpBQ60DDgKZk) | 2:19 | 2024-09-13 | 2026-03-12 |
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2022-05-20 | 2022-09-20 |
 | [leyawiin](https://open.spotify.com/track/6ZQ6OSk8nA6iPoE6rDhili) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/0SUtI8v2vOliyEU2WO2yMn) | 1:28 | 2022-09-16 | 2022-11-26 |
 | [Liar](https://open.spotify.com/track/4Q6lcRdTZBcrQMIpGPSNUf) | [Flôr](https://open.spotify.com/artist/0hCCzoPjAAINgHqnrtOdhH) | [Liar](https://open.spotify.com/album/4wn2B3U2g1ICkN8guRutUW) | 1:36 | 2023-01-20 | 2026-02-28 |
@@ -477,6 +478,7 @@
 | [Quicksand](https://open.spotify.com/track/5R0hMjFR1pbR0UMqRk2G1m) | [Val Neter](https://open.spotify.com/artist/1oIiTiQaKHPd31g7ALlkRW) | [Quicksand](https://open.spotify.com/album/2qwYNU05DhcUTRF5rtWNiz) | 2:21 | 2022-10-28 | 2026-02-28 |
 | [Quiet Corner](https://open.spotify.com/track/4DSlgCK59DficPnapF5kTE) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Quiet Corner](https://open.spotify.com/album/6mAljgRl93rNIkcDzUbFsF) | 2:48 | 2022-07-15 | 2024-09-14 |
 | [Quiet Pulse](https://open.spotify.com/track/7F3aYjhN3tF2s9d57s6IiC) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Quiet Pulse](https://open.spotify.com/album/53X8PzRYZrcqmXrMgRuBuT) | 2:00 | 2024-11-21 |  |
+| [rain](https://open.spotify.com/track/32deihOe13SUyY9oRfwVM8) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [rain](https://open.spotify.com/album/3by4lnFvTBeC5bdEs9Mx2m) | 1:51 | 2026-03-11 |  |
 | [Rain Man](https://open.spotify.com/track/531kxTKpH4SKQbgREzhgUD) | [Kodi Koda](https://open.spotify.com/artist/4bCq5dWSbCc5ixmaTnsAPW) | [Rain Man](https://open.spotify.com/album/7zHvg8OIupzWCgzPRmOyzZ) | 1:54 | 2022-10-28 | 2023-11-11 |
 | [Rainy Day](https://open.spotify.com/track/1yqAghmGXkcct0tQQCdS4w) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/1Nf5o3mcLP0TBOn53FYqY5) | 3:01 | 2022-05-20 | 2022-11-20 |
 | [Rainy Day](https://open.spotify.com/track/6AgrbKYeBgqJggFS9SqaIO) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA) | [Rainy Day](https://open.spotify.com/album/58wseddQ1pv4O5jfrH0s4m) | 3:01 | 2022-11-11 | 2023-09-16 |

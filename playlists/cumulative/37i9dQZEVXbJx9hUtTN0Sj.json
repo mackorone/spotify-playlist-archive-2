@@ -16513,6 +16513,36 @@
     },
     {
       "album": {
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
+      },
+      "artists": [
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306537,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
+    },
+    {
+      "album": {
         "name": "flex fm (freddit)",
         "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
       },
@@ -24864,7 +24894,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 181568,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/5HHc3LV7smkNpx9JcvqsZa"
@@ -24882,7 +24912,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -40746,10 +40776,28 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {
@@ -42470,7 +42518,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 160421,
       "name": "Shake That Bunda",
       "url": "https://open.spotify.com/track/2zVfPMOeQsZEd3F1dt4SPJ"
@@ -43850,7 +43898,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 181173,
       "name": "Someone Out of Town",
       "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
@@ -48294,6 +48342,28 @@
     {
       "album": {
         "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370666,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
+    },
+    {
+      "album": {
+        "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ"
       },
       "artists": [
@@ -48308,7 +48378,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 371320,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK"
@@ -48920,7 +48990,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 92365,
       "name": "TRILLIUM HARDTEKK",
       "url": "https://open.spotify.com/track/7hPwUxGo7YgQFFYDynDQwp"

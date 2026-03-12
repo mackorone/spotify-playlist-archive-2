@@ -1,6 +1,6 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 250648,
+  "num_followers": 250737,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 136706,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6E5gZOwEMVED0hNBeaTu9k"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
+      },
+      "artists": [
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "Rancheras de Relajo",
         "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 213573,
       "name": "Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/0uJUohjIxJs0FHE53qOCvX"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
-      },
-      "artists": [
-        {
-          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "El Caminante",
-      "url": "https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "A 10 a\u00f1os....un recuerdo permanente",
         "url": "https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 195480,
       "name": "Paloma negra",
       "url": "https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "El Amo del Imperio",
-        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Si Llego a Viejo",
-      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "Serie De Coleci\u00f3n \"15 Aut\u00e9nticos \u00c9xitos\"",
+        "url": "https://open.spotify.com/album/3BxdhnjRLQENU2dv4XeERQ"
+      },
+      "artists": [
+        {
+          "name": "Dueto Las Palomas",
+          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
+        }
+      ],
+      "duration_ms": 148160,
+      "name": "Ojitos Verdes",
+      "url": "https://open.spotify.com/track/7AIMZnJLv9gkuoMBtLSNRA"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "15 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/2dTjktd31M87a9QseiJjDO"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 164337,
       "name": "Son las Dos de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Serie De Coleci\u00f3n \"15 Aut\u00e9nticos \u00c9xitos\"",
-        "url": "https://open.spotify.com/album/3BxdhnjRLQENU2dv4XeERQ"
-      },
-      "artists": [
-        {
-          "name": "Dueto Las Palomas",
-          "url": "https://open.spotify.com/artist/3aw6AZo6qz9YtuU9ST824E"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Ojitos Verdes",
-      "url": "https://open.spotify.com/track/7AIMZnJLv9gkuoMBtLSNRA"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1695,6 +1695,38 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
+        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
+      },
+      "artists": [
+        {
+          "name": "Dueto America",
+          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Ojitos So\u00f1adores",
+      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Vali\u00f3 La Pena Equivocarme",
+        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
       },
@@ -1723,38 +1755,6 @@
       "duration_ms": 186131,
       "name": "Me Ca\u00ed De La Nube",
       "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "Vali\u00f3 La Pena Equivocarme",
-        "url": "https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "La L\u00e1mpara",
-      "url": "https://open.spotify.com/track/4N9cZZk8n3mUp2o5HnDagr"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
-        "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
-      },
-      "artists": [
-        {
-          "name": "Dueto America",
-          "url": "https://open.spotify.com/artist/7xHsb5jtYV8Il47FHWvcyO"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Ojitos So\u00f1adores",
-      "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "15 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
-      },
-      "artists": [
-        {
-          "name": "Chayito Valdez",
-          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
-        }
-      ],
-      "duration_ms": 220612,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/6WDlfXdCGYAIo6bWKZosNP"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Ya Pa'que",
         "url": "https://open.spotify.com/album/4IHpbUl6G1dneIv8EM8Qt3"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 134000,
       "name": "Con Que Me Pagas",
       "url": "https://open.spotify.com/track/6rLlQDuwozeLWJEXZtTxrl"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "15 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3Fw9fBB4i8TW0jj7YuOv10"
+      },
+      "artists": [
+        {
+          "name": "Chayito Valdez",
+          "url": "https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04"
+        }
+      ],
+      "duration_ms": 220612,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6WDlfXdCGYAIo6bWKZosNP"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "Era Cab - El Viejo",
         "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 153093,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Un Pu\u00f1o de Tierra",
-      "url": "https://open.spotify.com/track/5sccvYWAbqyChZPqPadLqC"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Dueto Am\u00e9rica",
         "url": "https://open.spotify.com/album/5m825Tjb1Yxudzl4S2nSKW"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 165866,
       "name": "Zenaida Ingrata",
       "url": "https://open.spotify.com/track/6uO97s9FsybAdIg1qJxaqq"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/6z4CaiYZEhfmIzHbxfYNxA"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Un Pu\u00f1o de Tierra",
+      "url": "https://open.spotify.com/track/5sccvYWAbqyChZPqPadLqC"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2099,22 +2099,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "La Rosa Negra / El Ahijado",
-        "url": "https://open.spotify.com/album/4bXrEzi0fVVxTDSUVwBfna"
-      },
-      "artists": [
-        {
-          "name": "Federico Villa",
-          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "En un Cami\u00f3n Pasajero",
-      "url": "https://open.spotify.com/track/2cuNeHP1pqYVMwMZ9hBzDW"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "16 Exitos De Oro",
         "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
       },
@@ -2127,6 +2111,22 @@
       "duration_ms": 201560,
       "name": "Desde Hoy - Con Mariachi",
       "url": "https://open.spotify.com/track/3xpcxYUs20mA2qAh0tsx48"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "La Rosa Negra / El Ahijado",
+        "url": "https://open.spotify.com/album/4bXrEzi0fVVxTDSUVwBfna"
+      },
+      "artists": [
+        {
+          "name": "Federico Villa",
+          "url": "https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "En un Cami\u00f3n Pasajero",
+      "url": "https://open.spotify.com/track/2cuNeHP1pqYVMwMZ9hBzDW"
     },
     {
       "added_at": "2024-07-11 01:00:12",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2024-07-11 01:00:12",
       "album": {
-        "name": "Pensando En Ti",
-        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
-    },
-    {
-      "added_at": "2024-07-11 01:00:12",
-      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 184746,
       "name": "No Hay Novedad",
       "url": "https://open.spotify.com/track/1cvuESXANPuTV27IFPRtPu"
+    },
+    {
+      "added_at": "2024-07-11 01:00:12",
+      "album": {
+        "name": "Pensando En Ti",
+        "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
     },
     {
       "added_at": "2024-07-11 01:00:12",

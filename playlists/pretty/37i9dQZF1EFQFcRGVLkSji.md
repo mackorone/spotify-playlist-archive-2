@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 165 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 165 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 44 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/1bMgK96LX39zjqW7AW5o3w) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa) | 3:34 |
 | 45 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 |
 | 46 | [Now \(feat\. Luh geeky\)](https://open.spotify.com/track/4j3sLMVOMeJKnW7dhSBbJZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Luh geeky](https://open.spotify.com/artist/5HkVNXsvk9Nvt0eoWF9v4C) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 4:32 |
-| 47 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 |
-| 48 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 |
+| 47 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 |
+| 48 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 |
 | 49 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 |
 | 50 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
 | 51 | [Feelings](https://open.spotify.com/track/6MNSwUUjWSDUhuCZaTezAn) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 54 | [Marinate](https://open.spotify.com/track/41Rfg4KikdF3WIHHxU821m) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 2:42 |
 | 55 | [Hold Me](https://open.spotify.com/track/2ufahvEKcQW69XYjWcmKXH) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 |
 | 56 | [sipping my tea](https://open.spotify.com/track/0uJ5hraraU2GEfF3ub61JT) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [sipping my tea](https://open.spotify.com/album/31f0fGsAldfErxbxPqJs95) | 1:42 |
-| 57 | [IHY2LN](https://open.spotify.com/track/4vQkd6oRbNeLprHmYUwIV5) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 3:10 |
-| 58 | [Rose Colored \(with Yeat\)](https://open.spotify.com/track/3x7Y0Rn7EjPfB2zbddbDVg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:33 |
+| 57 | [Rose Colored \(with Yeat\)](https://open.spotify.com/track/3x7Y0Rn7EjPfB2zbddbDVg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:33 |
+| 58 | [IHY2LN](https://open.spotify.com/track/4vQkd6oRbNeLprHmYUwIV5) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [IHY2LN + Marinate](https://open.spotify.com/album/06VhwTs1NUtbRoa3YlaJ9Q) | 3:10 |
 | 59 | [IWSS](https://open.spotify.com/track/4Oa9ieQKxWt3F50IWT8sCf) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Delbo's World](https://open.spotify.com/album/6PwnanHJ5C4hV9VB7vhIHb) | 2:18 |
 | 60 | [mind your business](https://open.spotify.com/track/2qUrmYFAH003q5jG73qHOq) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:22 |
 | 61 | [Who Wit Me](https://open.spotify.com/track/6SlEbe7ae9NBK6QjM6tR0l) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 2:21 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 164 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 165 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcLyqAAAAACIebclU2EYFpJLmYyaooHU`
+Snapshot ID: `AcL4AgAAAADN4JDysdBgZNWWn0UiE3bg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,620 likes - 100 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,640 likes - 100 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 82 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
 | 83 | [Quick Quiet Raid](https://open.spotify.com/track/46ZfsbnFdI9FpeQKJRZUzS) | [Satan's Satyrs](https://open.spotify.com/artist/2XjAtuHYFRZRIATLrYfSVX) | [Quick Quiet Raid](https://open.spotify.com/album/6Ar4J8yW63XFVH9j3YiWf5) | 2:43 |
 | 84 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
-| 85 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
-| 86 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 |
-| 87 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
-| 88 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
+| 85 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
+| 86 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
+| 87 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
+| 88 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 |
 | 89 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 |
-| 90 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
-| 91 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
-| 92 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
-| 93 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
+| 90 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 |
+| 91 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
+| 92 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 |
+| 93 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 |
 | 94 | [Look To Your Orb For The Warning](https://open.spotify.com/track/0hXpC8CI25VOT8qNV1nr8l) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 6:32 |
-| 95 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
-| 96 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 |
-| 97 | [Dead Rock Commandos](https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx) | 3:16 |
-| 98 | [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 |
-| 99 | [Psychotzar](https://open.spotify.com/track/3CEWBhG07nTuheDfZZHib1) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/2MJ7TzoTvmi2WrIDpQAeak) | 8:43 |
-| 100 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
+| 95 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
+| 96 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
+| 97 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 |
+| 98 | [I'm the Mountain](https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Seven Thunders Roar](https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU) | 16:01 |
+| 99 | [Dead Rock Commandos](https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx) | 3:16 |
+| 100 | [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 |
 
 Snapshot ID: `AAAAAGTPgd4FUIO56MnEVVuQHg0Ozc1g`

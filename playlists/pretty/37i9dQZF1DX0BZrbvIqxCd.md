@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,482 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,468 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 76 | [Criminal Energy](https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:11 |
 | 77 | [All My Friends are Nobodies](https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/3JKg0soC1sRle2yPenQa2j) | 3:03 |
 | 78 | [What Are We Standing For](https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [What Are We Standing For](https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK) | 2:53 |
-| 79 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
-| 80 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
+| 79 | [Won't Give Up The Fight](https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 3:02 |
+| 80 | [WEIRDO](https://open.spotify.com/track/46WTvn5j8rx0JRB8BMF2YQ) | [GANG!](https://open.spotify.com/artist/50DgH5MV7YHdaQ3behXw4C) | [WEIRDO](https://open.spotify.com/album/53RO0O7zjPj1yJuLegkzoz) | 2:35 |
 | 81 | [Minds Like Minefields](https://open.spotify.com/track/4hKsDk5XzS7oYi0aWGIBvH) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 3:15 |
 | 82 | [Bad Habits](https://open.spotify.com/track/43t2TYUzhb3FpM7Bn2UyJL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 2:53 |
 | 83 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/3kL1eGyxKYipkJoGGjxy0J) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Paradise Lost, a poem by John Milton](https://open.spotify.com/album/4EhnHqtmJ6mBQwHO2nXxLn) | 2:47 |

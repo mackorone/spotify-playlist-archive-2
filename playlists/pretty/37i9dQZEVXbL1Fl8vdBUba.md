@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,433 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,442 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 44 | [Cuando No Era Cantante](https://open.spotify.com/track/6N2iccqxRInhTLHc2Fu3W0) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/0zIwyKAaSjpEdF13pf1VnK) | 3:31 |
 | 45 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
 | 46 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |
-| 47 | [Hace Mucho Tiempo](https://open.spotify.com/track/0a6ogDrZBvYgDjILgsQVaJ) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia Y Maldad](https://open.spotify.com/album/3jdYDg5KQ9d8uBGleBlGYY) | 2:51 |
+| 47 | [Hace Mucho Tiempo](https://open.spotify.com/track/2amAkuq2kUFgo87zQLMorw) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Maldad](https://open.spotify.com/album/0hfWMwwiPPoD5LV0QeIskI) | 2:51 |
 | 48 | [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 |
 | 49 | [Cuando No Era Cantante \- Remix](https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Cuando No Era Cantante \(Remix\)](https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ) | 5:27 |
 | 50 | [MIL D AURA](https://open.spotify.com/track/0LvxvoeJmdhkxRIC4orlJ3) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [MIL D AURA](https://open.spotify.com/album/2hHyXhkWnYTTsZgK6aCUTh) | 3:23 |
 
-Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUTO6AAAAAAAAAAAAAAAAAAAAAAAAGVu`

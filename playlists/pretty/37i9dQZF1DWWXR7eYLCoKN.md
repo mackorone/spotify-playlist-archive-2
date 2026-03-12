@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,418 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,425 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 16 | [Tô Voltando](https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Pedaços](https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj) | 3:58 |
 | 17 | [Tempo Velho](https://open.spotify.com/track/0Roj7QJeVqNO5ArpKGw5fR) | [Douglas Germano](https://open.spotify.com/artist/2ig041GcPcddsLoeUWpcJ0) | [Escumalha](https://open.spotify.com/album/3uCW5dht5i4pFiaYPSV8Zq) | 5:11 |
 | 18 | [Beijo Sem \- Ao Vivo](https://open.spotify.com/track/07JmyvYMNUs4WnZs1SYEuG) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Pedro Baby](https://open.spotify.com/artist/7pMsZBaVjKibhLkNM9r4p0) | [Melhor Assim](https://open.spotify.com/album/4DWkJyeCTzLFHRbZ4U4d4m) | 3:34 |
-| 19 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
-| 20 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 |
+| 19 | [O Sol Nascerá \(A Sorrir\)](https://open.spotify.com/track/6YqzOIMvKn5ItGDIyVDM6J) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ney Matogrosso Interpreta Cartola](https://open.spotify.com/album/6usPCKnm2wd01RvUrgEh5Z) | 4:10 |
+| 20 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
 | 21 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 |
 | 22 | [O Amanhã](https://open.spotify.com/track/6bVN61aMSRNMM6vYdPfM7A) | [Simone](https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD) | [Delirios Delicias](https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp) | 4:51 |
 | 23 | [Corra e Olhe o Céu](https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Canta Cartola](https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5) | 2:26 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 34 | [Inversão de Valores](https://open.spotify.com/track/5BXjNU3lFXx30vMZ0bTUXx) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Inversão de Valores](https://open.spotify.com/album/1p3aaNPA3l6JwIi8nKObxd) | 2:53 |
 | 35 | [Trilha do Amor \- Ao Vivo](https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambasá \(Ao Vivo\)](https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV) | 3:35 |
 | 36 | [Folhas Secas](https://open.spotify.com/track/3xjW13hgLwBdfPh0wEOPtD) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 2:13 |
-| 37 | [Papo Final](https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Papo Final](https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ) | 2:33 |
-| 38 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
+| 37 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
+| 38 | [Papo Final](https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Papo Final](https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ) | 2:33 |
 | 39 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
 | 40 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
 | 41 | [Balanço Zona Sul](https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Baterista: Wilson Das Neves](https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ) | 2:14 |

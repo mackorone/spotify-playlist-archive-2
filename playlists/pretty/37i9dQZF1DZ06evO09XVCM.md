@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,992 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,995 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ) | 3:56 |
 | 50 | [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 |
 
-Snapshot ID: `aa4NgAAAAADyj1JXkS1nlALHPd+f9/wH`
+Snapshot ID: `aa9fAAAAAABU51ha73Rfir06xeIWrbgH`

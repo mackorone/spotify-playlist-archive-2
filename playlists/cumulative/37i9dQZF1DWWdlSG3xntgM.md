@@ -2,9 +2,9 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-347 songs - 1 day 6 hr 16 min
+348 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 | 2024-05-27 |  |
 | [Chuyen Tinh Nguoi Dan Ao](https://open.spotify.com/track/4ySMmjCyJvFt3eMbIjFyv7) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Hoang Vu](https://open.spotify.com/album/3mbToXjyHoSaiHnFweVJuJ) | 6:01 | 2025-06-03 | 2025-11-07 |
 | [Chuyến tàu hoàng hôn](https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Thương Về Miền Trung](https://open.spotify.com/album/3N6nwHtcPzuxlnwWFj4jYA) | 5:36 | 2022-03-11 |  |
+| [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/68MQeS7SL9bIe3BMZ9NKow) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Đêm Tâm Sự \(Khúc Tình Xưa 3\)](https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV) | 5:05 | 2026-03-01 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 4:55 | 2022-03-11 |  |
 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/0Lk9vVQXX2lgzUHQUorp2T) | [Nghệ sĩ Thụy Mười](https://open.spotify.com/artist/3HmGUdPh4IOzv9WXoFkHgJ) | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/album/18x2bES32ZumNCvQQnssB8) | 6:17 | 2023-05-24 | 2024-02-22 |
 | [Chuyến Đò Không Em](https://open.spotify.com/track/3fTSqVwTVYWUEPxlR97YQU) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx) | [Một Lần Lỡ Bước](https://open.spotify.com/album/4ZAfGzRxCGidnntAX4KmAx) | 5:13 | 2024-03-11 | 2024-05-17 |
@@ -314,7 +315,7 @@
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/0HJ3DgU82FaR4XuihYeTAb) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:23 | 2022-03-11 | 2023-08-07 |
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/1WCix14XoBrfdopN3BRYMJ) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5iARlHWbiqMDnGbF9CAVv1) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/3mpQ1AviqQ8iC9H5AaVVWu) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o), [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/album/5vaRnl2QeL8hONSGhi1EE8) | 5:42 | 2023-10-06 | 2023-10-13 |
-| [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/1uyjScv0NWtjXuktSjEFKr) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 6](https://open.spotify.com/album/3RTJLsZ2JBfATm9RvQVAf4) | 5:03 | 2025-06-03 |  |
+| [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/1uyjScv0NWtjXuktSjEFKr) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 6](https://open.spotify.com/album/3RTJLsZ2JBfATm9RvQVAf4) | 5:03 | 2025-06-03 | 2026-03-12 |
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/6IxoEMunEZqKB9tjBdRkcS) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 4:17 | 2023-12-14 |  |
 | [Về đâu mái tóc người thương](https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [LiveShow Duyên phận](https://open.spotify.com/album/0pASS53YcZ5uYXIDhtdrgX) | 4:43 | 2022-03-11 |  |
 | [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 | 2022-03-11 |  |

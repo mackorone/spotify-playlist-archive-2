@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: OYSTER \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,435 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,413 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 13 | [Fashionweek](https://open.spotify.com/track/3AsS2rFZd9yvysDmPIXkDk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:29 |
 | 14 | [Op Een Go](https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ) | [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [GS](https://open.spotify.com/artist/2KR13mWlgztgIek6BlS7hA) | [Op Een Go](https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH) | 2:57 |
 | 15 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 |
-| 16 | [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 |
+| 16 | [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 |
 | 17 | [Brrrr 🥶🇨🇦](https://open.spotify.com/track/5Zyaa1GakQxEVdnZ8bF2kQ) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Brrrr 🥶🇨🇦](https://open.spotify.com/album/6hzdVWNgtKMtRW2xtXIzER) | 2:19 |
 | 18 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 |
 | 19 | [Vervreemd](https://open.spotify.com/track/7M4F4A8M7k13zOnyt3q2CC) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Vervreemd](https://open.spotify.com/album/3Zme7AYOj5SA4Xuh8TDWjr) | 3:28 |

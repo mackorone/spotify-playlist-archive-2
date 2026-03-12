@@ -4,7 +4,7 @@
 
 > New music from Harry Styles, Ayra Starr, Jennifer Lopez x David Guetta and more...
 
-8,541 songs - 18 day 18 hr 18 min
+8,542 songs - 18 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3521,7 +3521,7 @@
 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 | 2024-08-29 | 2024-09-06 |
 | [Ik heb je zo gemist](https://open.spotify.com/track/78xwr7xEmWHXmIwliLNyyS) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [drift](https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y) | 3:22 | 2024-10-03 | 2024-10-11 |
 | [Ik Heb Tijd](https://open.spotify.com/track/7qXpqAZIeaqKh1VA9XbQVh) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Heb Tijd](https://open.spotify.com/album/0UmqecBUudgRkeagngDkd9) | 3:16 | 2025-01-30 | 2025-02-07 |
-| [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 | 2026-03-05 |  |
+| [Ik Ken Die Girls](https://open.spotify.com/track/4LCDrR00rJwjGPQYKavU7G) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Ik Ken Die Girls](https://open.spotify.com/album/3MJnKNmeKEjunKkT1bZSeW) | 2:16 | 2026-03-05 |  |
 | [Ik Lach En Leef De Dag](https://open.spotify.com/track/0bsxJxxjQktCdMqKEqGeGn) | [Steve Tielens](https://open.spotify.com/artist/7w69TXWSlmBYRK1gPDCEQ1) | [Ik Lach En Leef De Dag](https://open.spotify.com/album/6d5XrNGFvYXmWgjNENC0T6) | 3:23 | 2024-07-26 | 2024-08-02 |
 | [Ik Mis Je Elke Dag \- Uit Liefde Voor Muziek](https://open.spotify.com/track/79Th3YWlWmZWRFZasnmTVu) | [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Ik Mis Je Elke Dag \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/6Dk1o9YwhdVQNg4YVUZMdX) | 2:42 | 2025-04-24 | 2025-05-02 |
 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 | 2025-10-16 | 2025-10-24 |
@@ -7217,6 +7217,7 @@
 | [Terril](https://open.spotify.com/track/2SsnPdIWcCjOsH10CNs0Zn) | [Cellini](https://open.spotify.com/artist/5wFiSr66v5LC5Lt8MF06n3), [Simo Lagnawi](https://open.spotify.com/artist/5nL4NhY55Mr65tdAHvK0WK) | [Terril](https://open.spotify.com/album/7CrRNz1FfU2iS723uy2NF1) | 4:07 | 2024-05-31 | 2024-06-07 |
 | [Terug Naar Jou](https://open.spotify.com/track/4Q6exdU53bGksSgoZf0aW3) | [Lars Verstraete](https://open.spotify.com/artist/56XwaLRt0ZzOEwfzf0ymx1) | [Terug Naar Jou](https://open.spotify.com/album/021R6Egrf4XMVSimWGpFG7) | 2:28 | 2025-10-16 | 2025-10-24 |
 | [Terwijl Je Voor Me Stond](https://open.spotify.com/track/0dZP31liofOrl8VTrfbsqv) | [Frans Kalf](https://open.spotify.com/artist/53HC6zp6LWb36NB6HBnHMt) | [Terwijl Je Voor Me Stond](https://open.spotify.com/album/5y4aMMIGmJj4kfVQYUw6KX) | 3:37 | 2026-01-23 | 2026-01-30 |
+| [Tes yeux](https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Tes yeux](https://open.spotify.com/album/2e7oEqkFUprlaBjtw6LC6l) | 2:59 | 2026-03-05 |  |
 | [TESLA](https://open.spotify.com/track/578UWSA1zvunNhItkuVpqS) | [OG Gold](https://open.spotify.com/artist/1MdO2qXpn6Ub2G4WAde1oT) | [ARTICLE 15](https://open.spotify.com/album/2gjREKLQE6jipuzkJjpFqR) | 2:04 | 2026-02-12 | 2026-02-20 |
 | [Tetris \(Bonus Track\)](https://open.spotify.com/track/66BdlQjp3kxeWyB2y16p0e) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Noodzakelijk Verdriet](https://open.spotify.com/album/5sAbiFawPMlLJJgNEHlgPZ) | 2:51 | 2024-05-16 | 2024-05-24 |
 | [Text Back](https://open.spotify.com/track/4VLwNuffbdkapeykr0ZD8V) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [What if I break up with u ?](https://open.spotify.com/album/7LxUCbMeIYevtmkQUymwnm) | 3:02 | 2025-03-13 | 2025-03-21 |

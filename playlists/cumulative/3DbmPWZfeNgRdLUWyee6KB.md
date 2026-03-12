@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-765 songs - 1 day 20 hr 58 min
+769 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Alquimia Ancestral](https://open.spotify.com/track/1cMmRFXNiIhON1TfyTxAMt) | [Lucas Prospero](https://open.spotify.com/artist/2KqlV9bFYcA3KtqxJLSIvf) | [Alquimia Ancestral](https://open.spotify.com/album/0Mi0CLyGKcgYm7XCXLzgkA) | 2:55 | 2025-12-19 | 2026-01-15 |
 | [Amores Verdadeiros](https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp) | [Binho Rodrigues](https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd) | [Amores Verdadeiros](https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf) | 2:19 | 2026-02-04 | 2026-03-07 |
 | [An Oracle Told Me...](https://open.spotify.com/track/3VKpgXu5oNFuaJtafkOuS5) | [Joe Siciliano Jazz Trio](https://open.spotify.com/artist/0DDVg8KuFfA7fjD2M2x3N3) | [An Oracle Told Me...](https://open.spotify.com/album/5jkRcJhNoL3bmd9VpO3qTO) | 2:58 | 2024-11-14 | 2025-12-21 |
+| [Angel](https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm) | [Optacure](https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3), [Ean Aguila](https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D) | [Angel](https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi) | 4:59 | 2026-03-11 |  |
 | [Angie Stereo \- funk rock](https://open.spotify.com/track/09R3zrMifDRK4Q2DM2eePe) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 3:19 | 2026-01-20 | 2026-02-20 |
 | [Anime A Metà](https://open.spotify.com/track/3o7VA7PCkHz2VYwXxZz7BC) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Anime A Metà](https://open.spotify.com/album/7qhml3sGdAvkB8nb2UQSo2) | 3:28 | 2026-03-09 |  |
 | [Anything Goes](https://open.spotify.com/track/7MZE2xeA3tGnbtIEDSJmmS) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [Anything Goes](https://open.spotify.com/album/160vx1LCMqRpgwWMlVaGCu) | 4:03 | 2025-09-11 | 2025-11-29 |
@@ -159,6 +160,7 @@
 | [Dentro De Ti](https://open.spotify.com/track/1oa09yw9bnZHXZNHVupo0t) | [Petter Marchan Xtasix](https://open.spotify.com/artist/6RTz0qC5h5uYfAO3UgNXTr) | [Dentro De Ti](https://open.spotify.com/album/5IgQdsSMIJX14d4ybY6EnH) | 3:00 | 2026-03-05 |  |
 | [Depende de mí](https://open.spotify.com/track/4h0qZah1CMkFPtqfCbRx6b) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Depende de mí](https://open.spotify.com/album/7fOnzY2MBOjvh1h96fOIRN) | 3:31 | 2026-01-14 | 2026-02-20 |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2026-01-14 | 2026-02-20 |
+| [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 |  |
 | [Devour / The Performer](https://open.spotify.com/track/5FDV4uoXH08RdtWYK59TJv) | [TULLE](https://open.spotify.com/artist/6OiVFeVhtP4mo9QSVheiuI) | [Devour / The Performer](https://open.spotify.com/album/0WjR5u6xA9bI9qu0lhDurj) | 4:00 | 2025-11-17 | 2025-12-21 |
 | [Di una donna](https://open.spotify.com/track/6yECICIZ8PrA3fBfsATvig) | [Tommaso Giusti](https://open.spotify.com/artist/45gWIaYD5ih9QCHoBxEy3a) | [Di una donna](https://open.spotify.com/album/5o1y7J95FKsNNRdqJgaydO) | 3:55 | 2026-01-02 | 2026-02-03 |
 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 | 2025-12-09 | 2026-01-05 |
@@ -196,6 +198,7 @@
 | [Estrella de luna](https://open.spotify.com/track/5NjudslnouGdwlYfJFyTU6) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:29 | 2026-01-27 | 2026-02-28 |
 | [Everlasting](https://open.spotify.com/track/1PkxoTKPCNdn38xZ4vrRYU) | [ALRIGHT](https://open.spotify.com/artist/6wsLLtTC30cVoWIpjFX8xx) | [Everlasting](https://open.spotify.com/album/4wy80FBOPHmdNe08Su752v) | 3:46 | 2026-01-26 | 2026-02-28 |
 | [Every Day](https://open.spotify.com/track/77Xpq8jioOWIqKWaJyT71E) | [Cristobal Junta](https://open.spotify.com/artist/4qfd9D2EeXvlUrQr6RO1U1) | [Let Yourself Know](https://open.spotify.com/album/1NtUyx79SG97sPCa16Iq0g) | 5:20 | 2026-02-12 |  |
+| [Every Night](https://open.spotify.com/track/41qMG3eHjNneqPAsSiUSFr) | [Dj Vanwells](https://open.spotify.com/artist/6mdpXV2RQJw6ELeGvJ2Iuz) | [Every Night](https://open.spotify.com/album/052cHSsou6KeY0CJ36vXgt) | 3:01 | 2026-03-11 |  |
 | [Everything](https://open.spotify.com/track/1oL4pFLc2E8b9CKsZApmSm) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Love & Heartbreak, Vol\. 3](https://open.spotify.com/album/3b2UKbjlhHnEJHr3LjpRmi) | 4:28 | 2026-02-11 |  |
 | [Fading Into You](https://open.spotify.com/track/5VPBujeOcYZ6SJ50pbXZiv) | [Reyzalla](https://open.spotify.com/artist/1GDg9eSEuaf2DR4zwuAQZE) | [Fading Into You](https://open.spotify.com/album/5uFWFE43KS6GIwCoaFdWnM) | 3:27 | 2026-03-11 |  |
 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 | 2025-12-09 | 2026-01-05 |
@@ -410,6 +413,7 @@
 | [Mi voluntad](https://open.spotify.com/track/5tXPiB9wwihAlWuwS5hYr0) | [Eterea](https://open.spotify.com/artist/4H08iozMUTfC4kj5mPnDPD) | [Que la luna me desarme](https://open.spotify.com/album/4npBuLFIMtPnj5EFaa2zBN) | 3:14 | 2026-01-29 | 2026-02-28 |
 | [Mia Famiglia](https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Massimiliano De Lucia](https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc) | [Mia Famiglia](https://open.spotify.com/album/06gfq63dLIwYSqh0ou4nN1) | 4:17 | 2026-01-09 |  |
 | [Midnight Train](https://open.spotify.com/track/75ndxPSgPcezSP8xz2UuSb) | [RayOrbit](https://open.spotify.com/artist/1kG8I34nBNWoXtkp53JdT2) | [Midnight Train](https://open.spotify.com/album/6ia67fR6ixurUa0oysyGXn) | 4:50 | 2026-03-01 |  |
+| [MIGHT BE](https://open.spotify.com/track/3pzikv3e84YM3hZxqm4Rhw) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 2:49 | 2026-03-11 |  |
 | [Milenios de Amor](https://open.spotify.com/track/5SKERroWJAtPprqyweRjuO) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¿A dónde irá el amor?](https://open.spotify.com/album/70mPEYs6WVlLBIDXtP4m0R) | 3:28 | 2025-12-09 | 2026-01-05 |
 | [Misery](https://open.spotify.com/track/1q5pZyYwDaqMk17GkkaOMH) | [B1GHEADCHRIS](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Misery](https://open.spotify.com/album/1HpxaI60U9dBKNv5kDRu5x) | 3:53 | 2025-08-23 | 2025-11-29 |
 | [Misfits Rejoice](https://open.spotify.com/track/1T08MkKOgNuqMHg3nDjsnU) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [Misfits Rejoice](https://open.spotify.com/album/1mVKv1gmUXXFLxBZgViTDe) | 2:34 | 2026-02-19 |  |

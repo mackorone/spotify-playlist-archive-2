@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Yandel y LATIN MAFIA en portada.",
-  "num_followers": 40081,
+  "num_followers": 40085,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "So\u00f1ando",
-        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 242215,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
         "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 251039,
       "name": "Te Quiero Con Bugal\u00fa",
       "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "So\u00f1ando",
+        "url": "https://open.spotify.com/album/5HDXllRh6Kyp0TWilBuDsr"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242215,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 214970,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Mi vida en llamas (feat. Buscabulla)",
         "url": "https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 288625,
       "name": "Mi vida en llamas (feat. Buscabulla)",
       "url": "https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 214970,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Who's there / Vida",
         "url": "https://open.spotify.com/album/2xsYK6gmc0Zirq75RI4tDm"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 209761,
       "name": "Who's there",
       "url": "https://open.spotify.com/track/0zLgFtLgOHrR1wN1hDfdFK"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
     },
     {
       "added_at": "2026-01-16 06:00:20",

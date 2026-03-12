@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,205 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,206 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 18 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 |
 | 19 | [Ne me quitte pas](https://open.spotify.com/track/6IRA4KOVbtiGiTdYoEThJN) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [La Valse A Mille Temps \(Vol.4\)](https://open.spotify.com/album/0PVjDkptaHbw2wrpsWupoV) | 3:49 |
 | 20 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
-| 21 | [S'il suffisait d'aimer](https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il Suffisait D'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 3:34 |
-| 22 | [Longtemps](https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Addictions \(Ultimate Version\)](https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW) | 3:39 |
+| 21 | [Longtemps](https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Addictions \(Ultimate Version\)](https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW) | 3:39 |
+| 22 | [S'il suffisait d'aimer](https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [S'il Suffisait D'aimer](https://open.spotify.com/album/14GKp6GNpP9jL7g98QTxsY) | 3:34 |
 | 23 | [Nous deux contre le reste du monde](https://open.spotify.com/track/0Uy2DEV9vQRFrCg4CLY6wY) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:42 |
 | 24 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |
 | 25 | [Je vais t'aimer](https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La vieille](https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm) | 5:27 |
 | 26 | [Quelques mots d'amour \- Remasterisé en 2002](https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Beauséjour \(Remasterisé en 2002\)](https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA) | 3:37 |
 | 27 | [Couleur menthe à l'eau](https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Happy Birthday](https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA) | 3:30 |
-| 28 | [Morgane de toi](https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(Remastered\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 6:12 |
+| 28 | [Morgane de toi \- 2013 Remaster](https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(2013 Remaster\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 6:12 |
 | 29 | [Rétine](https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:30 |
 | 30 | [Aimer à mort](https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Joie de vivre](https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2) | 2:56 |
 | 31 | [La maladie d'amour](https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf) | 3:30 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 42 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
 | 43 | [Je t'aime moi non plus](https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo), [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Comic Strip](https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG) | 4:28 |
 | 44 | [Viens on s’aime](https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Solune](https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1) | 3:21 |
-| 45 | [J'en rêve encore \- Radio Edit](https://open.spotify.com/track/07aWTEpDmPPCx5XkqhRHfH) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [Marcher Dans Le Sable](https://open.spotify.com/album/7669yAkyDYTr33Hc0cAdhn) | 4:00 |
-| 46 | [Pas toi](https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 5:31 |
+| 45 | [Pas toi](https://open.spotify.com/track/0UcPuBlICvhGbCjnGOHyHj) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 5:31 |
+| 46 | [J'en rêve encore \- Radio Edit](https://open.spotify.com/track/07aWTEpDmPPCx5XkqhRHfH) | [De Palmas](https://open.spotify.com/artist/5GUi6Czd9ReKfaRGQsi9dI) | [Marcher Dans Le Sable](https://open.spotify.com/album/7669yAkyDYTr33Hc0cAdhn) | 4:00 |
 | 47 | [Parce que c'est toi](https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Toujours moi](https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg) | 4:05 |
-| 48 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
-| 49 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
+| 48 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
+| 49 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
 | 50 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
 
 Snapshot ID: `AAAAAM4BJu1+CE5tBsEtecS42ME/Vneu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 
 > Spotify music editors' choice for the best Christian & Gospel songs of 2010s\. Cover: MercyMe
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,315 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,339 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 27 | [I Smile](https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:07 |
 | 28 | [Fix My Eyes](https://open.spotify.com/track/7zJg7aNCvTKW9EtG1Dvzkl) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:35 |
 | 29 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
-| 30 | [We Believe](https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Restart](https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl) | 4:21 |
-| 31 | [One Thing Remains](https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [One Thing Remains](https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm) | 3:59 |
+| 30 | [One Thing Remains](https://open.spotify.com/track/1bVVKpdOuQ77Ti3kcTdfTy) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [One Thing Remains](https://open.spotify.com/album/7ssexdoSq9DKVkKXR0b4Sm) | 3:59 |
+| 31 | [We Believe](https://open.spotify.com/track/1dtzjTkNecIRAL4X3u4CtL) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Restart](https://open.spotify.com/album/2DzN9KpN5XlDcSKaqa1bZl) | 4:21 |
 | 32 | [Hello, My Name Is](https://open.spotify.com/track/2XEdrmqNM9ZQQ24ViuceB0) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Into The Light](https://open.spotify.com/album/0RqGqJYEYyDhgeSiZVoXfH) | 3:43 |
 | 33 | [Redeemed](https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:36 |
 | 34 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJDplEJVP32.md) - [plain]
 | 90 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
 | 91 | [Start A Fire](https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Unspoken](https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi) | 3:04 |
 | 92 | [My Hope Is In You](https://open.spotify.com/track/5m0IsXTsXWxSbdltKmsKlI) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [This Is What We Believe](https://open.spotify.com/album/0VppFHYSXdcjX05v4ZrWhn) | 4:14 |
-| 93 | [Hold Me \(feat\. Tobymac\)](https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [One Song at a Time](https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy) | 3:33 |
-| 94 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 |
+| 93 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 |
+| 94 | [Hold Me \(feat\. Tobymac\)](https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [One Song at a Time](https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy) | 3:33 |
 | 95 | [Manolo](https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Rise](https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA) | 4:08 |
 | 96 | [Way Maker \- Live](https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Way Maker](https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII) | 8:23 |
 | 97 | [Is He Worthy?](https://open.spotify.com/track/5CTN5yokyAcrCoShGJmlJn) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [Resurrection Letters, Vol\. 1](https://open.spotify.com/album/1VBQLRJF7FcTaJITKgqvBO) | 4:33 |

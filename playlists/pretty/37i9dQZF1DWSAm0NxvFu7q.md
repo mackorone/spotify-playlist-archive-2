@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 
 > recent trending tracks in rock, alt, metal, and punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,574 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,609 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 | 49 | [Heavy Is The Crown \(Original Score\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0i77506epd8NgmHxZwMOwS) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Emily Armstrong](https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Heavy Is The Crown \(Original Score\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2Iu5auPZp12ftZiNv0eZP5) | 1:41 |
 | 50 | [Hello Juliet](https://open.spotify.com/track/5v3Dv4UlDOGaXlvphFpkIX) | [Clarion](https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW) | [Clarion](https://open.spotify.com/album/2gPxxzgdIHdUe9MAivY8Qw) | 3:28 |
 
-Snapshot ID: `AAAAAEuZosMOZ1f0B427c6Qx48gMgXi3`
+Snapshot ID: `AAAAAP/B/BMhQab/hACR5T1Hjy80ufnI`

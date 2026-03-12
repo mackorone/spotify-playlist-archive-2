@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777683,
+  "num_followers": 777698,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADJNf0tNwlfzwaZhXVv1nYx",
+  "snapshot_id": "aa9fAAAAAADhcuQhPpdKp/udXAXBf8JG",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vices & Virtues",
-        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
+        "name": "Jennifer's Body Music From The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 226680,
-      "name": "The Ballad of Mona Lisa",
-      "url": "https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"
+      "duration_ms": 227093,
+      "name": "New Perspective",
+      "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ"
     },
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jennifer's Body Music From The Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox"
+        "name": "Vices & Virtues",
+        "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 227093,
-      "name": "New Perspective",
-      "url": "https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ"
+      "duration_ms": 226680,
+      "name": "The Ballad of Mona Lisa",
+      "url": "https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P"
     },
     {
       "added_at": null,

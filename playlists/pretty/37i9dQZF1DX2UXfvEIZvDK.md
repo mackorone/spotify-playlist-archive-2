@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 
 > Even rockers need a break.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,195 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,256 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UXfvEIZvDK.md) - [plain]
 | 71 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 |
 | 72 | [Everything We Need](https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Everything We Need](https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF) | 3:05 |
 | 73 | [A Symptom Of Being Human](https://open.spotify.com/track/3ZswWTKkEz0kj1rA0uRIi1) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [A Symptom Of Being Human \(Live\)](https://open.spotify.com/album/68MJEv5noaG9yRUhIg5zKn) | 4:08 |
-| 74 | [Machines](https://open.spotify.com/track/2QaaXYzEzLio3POCFCI19r) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Puzzle](https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6) | 3:56 |
-| 75 | [History](https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:09 |
+| 74 | [History](https://open.spotify.com/track/6Fbh1lMmind3rj6W67QFeO) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:09 |
+| 75 | [Machines](https://open.spotify.com/track/2QaaXYzEzLio3POCFCI19r) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Puzzle](https://open.spotify.com/album/6XVx5wCqkpSZRCOHslBVK6) | 3:56 |
 | 76 | [Fly Like an Eagle](https://open.spotify.com/track/0SiS1Iud2fNazdtccUxE7m) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Fly Like an Eagle](https://open.spotify.com/album/3YJD5f1gXAZo08syETdfmq) | 4:32 |
 | 77 | [The Messenger](https://open.spotify.com/track/0ee40G4B8b2qjY0mWWc6ss) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns \(Bonus Edition\)](https://open.spotify.com/album/4fy0SXW5G8evBCo2A3kn02) | 3:01 |
 | 78 | [Golden Songs](https://open.spotify.com/track/5lm0T8DfaVOK4HWCmEXvPw) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 3:38 |

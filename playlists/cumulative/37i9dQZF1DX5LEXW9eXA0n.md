@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 김나영 \(Kim Na Young\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,696 songs - 4 day 14 hr 13 min
+1,697 songs - 4 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [A Song For You](https://open.spotify.com/track/3jAap8woUqJhIFbzedFRd7) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [A Song For You](https://open.spotify.com/album/7JA7N27T4oTQpFbaHCmZow) | 4:55 | 2024-12-09 | 2025-05-14 |
 | [A Story I Never Told You](https://open.spotify.com/track/5nZ8BMC3OCcEBX5pnGoKdR) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [IDOL I Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3tmCsno1QcwKCEEpzLOP2i) | 3:57 | 2026-01-13 |  |
 | [A Thousand Reasons](https://open.spotify.com/track/0reriCJCzwM8GBFN6HM3gv) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Second Shot at Love, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/4Qogl8QWCZhN3E4BYtvosl) | 3:39 | 2025-05-27 | 2025-10-02 |
+| [A Trace of Us](https://open.spotify.com/track/7IzG2H3oVCeOdgQnLc93mY) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Traces of Love](https://open.spotify.com/album/6yMQf9EAJBzgTjWMi8KdRt) | 4:17 | 2026-03-11 |  |
 | [A very personal story](https://open.spotify.com/track/3PWyWdzpWOfBmH7R5moC8O) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [A very personal story](https://open.spotify.com/album/3oO0sPdkc17C9QsrvsUrxR) | 3:23 | 2023-11-15 | 2024-05-18 |
 | [A Way To Forget](https://open.spotify.com/track/19DyfJxGbf8iFTHnx4RtfW) | [Giryeon](https://open.spotify.com/artist/019xuaJPwSE0VLLJzcO8K6) | [Our Last Day](https://open.spotify.com/album/0NXk8DUNdmuF1AiEgQAV4X) | 3:38 | 2023-10-20 | 2023-11-16 |
 | [About all love](https://open.spotify.com/track/0x6X6hV1taDYGOhkBLuoqS) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [About all love](https://open.spotify.com/album/1IV3TxNNJgcnE6nlZycxx6) | 3:45 | 2023-10-20 | 2023-12-14 |
@@ -536,7 +537,7 @@
 | [How did we](https://open.spotify.com/track/5MstaTKdwp6gVpaEFfvZrP) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Hello](https://open.spotify.com/album/2aCYxRu2ETq1u3MlR4c86z) | 3:52 | 2022-01-03 | 2022-06-14 |
 | [How have you been](https://open.spotify.com/track/2HVku0IEbTB41iQvAJKQuJ) | [Kim Sol](https://open.spotify.com/artist/2ZXy5pIbcsRpQSdJ7ORUdb) | [How have you been](https://open.spotify.com/album/6nESHbjPc2o0YzWj9zh5bq) | 3:01 | 2023-01-11 | 2023-02-25 |
 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 | 2025-04-25 | 2025-11-03 |
-| [How Love Is](https://open.spotify.com/track/0mTLpIpw9Ynqwrx35cZydH) | [Choi Eunbin](https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC) | [The Ballad of Us Story 5](https://open.spotify.com/album/4AspaX4zC3UhhOOe9P0nJJ) | 5:20 | 2025-11-06 |  |
+| [How Love Is](https://open.spotify.com/track/0mTLpIpw9Ynqwrx35cZydH) | [Choi Eunbin](https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC) | [The Ballad of Us Story 5](https://open.spotify.com/album/4AspaX4zC3UhhOOe9P0nJJ) | 5:20 | 2025-11-06 | 2026-03-12 |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-01-20 | 2023-02-25 |
 | [How Many Times Can We Say Goodbye](https://open.spotify.com/track/4xeUPkI5r5aHwziwlYXvS0) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [How Many Times Can We Say Goodbye](https://open.spotify.com/album/1wr3C63SlJ3P67iICQKfob) | 4:26 | 2023-01-11 | 2023-02-15 |
 | [How Much I Love You](https://open.spotify.com/track/55tsR9WU9Rtl8eLKTz242N) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [How Much I Love You](https://open.spotify.com/album/5NpyatjHKN1GJur16L3dfR) | 3:37 | 2024-01-29 | 2024-06-18 |

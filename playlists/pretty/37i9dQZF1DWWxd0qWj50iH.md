@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,109 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,069 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 25 | [Stoned at the Nail Salon](https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 4:26 |
 | 26 | [Hourglass](https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:18 |
 | 27 | [No Hard Feelings](https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:35 |
-| 28 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 |
-| 29 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
+| 28 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
+| 29 | [Blouse](https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:15 |
 | 30 | [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 |
 | 31 | [Radio](https://open.spotify.com/track/45kn9BixcxJID8oNIknocn) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:22 |
 | 32 | [33 “GOD”](https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl) | 3:33 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 49 | [Sunflower](https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p) | 4:23 |
 | 50 | [Older](https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Older](https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe) | 6:55 |
 | 51 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
-| 52 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
-| 53 | [Posing For Cars](https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 6:38 |
+| 52 | [Posing For Cars](https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 6:38 |
+| 53 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
 | 54 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
 | 55 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 |
 | 56 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 69 | [See For Miles](https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [Since July](https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw) | 3:17 |
 | 70 | [Only Love Can Wait](https://open.spotify.com/track/0iGAHczl365Pswb8u6YeDF) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:24 |
 | 71 | [In My Head](https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [In My Head](https://open.spotify.com/album/0fqg8Qb6hM93RnLEMMrINj) | 3:32 |
-| 72 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
-| 73 | [Son](https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Ultrasound](https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT) | 5:28 |
-| 74 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
-| 75 | [I'll Scream \(All the Words\)](https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [I'll Scream \(All the Words\)](https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A) | 3:13 |
+| 72 | [Son](https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Ultrasound](https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT) | 5:28 |
+| 73 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
+| 74 | [I'll Scream \(All the Words\)](https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [I'll Scream \(All the Words\)](https://open.spotify.com/album/0OSl9jJB9FR0GrAvtRhw6A) | 3:13 |
+| 75 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 76 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 |
 | 77 | [Foot Forward](https://open.spotify.com/track/0Q5x5NQ2ub5SRd0YsaZWdL) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 2:33 |
 | 78 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |

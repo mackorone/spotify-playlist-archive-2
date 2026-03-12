@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72396,
+  "num_followers": 72398,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAAvYJM+IhpzVA9MnZzyYMhJ",
+  "snapshot_id": "aa9fAAAAAABSxJIqls9vC8i4GEhPpD0D",
   "tracks": [
     {
       "added_at": null,
@@ -183,30 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 239736,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -227,6 +203,30 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/05nQu4HN54vSMx506ajfrC"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 239736,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/1cVOEbvsf7N9Su4kZXFcYB"
     },
     {
       "added_at": null,
@@ -559,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 186263,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You for the Summer (Kohen Remix)",
         "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
       },
@@ -611,22 +587,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+      "duration_ms": 186263,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     },
     {
       "added_at": null,
@@ -667,6 +647,26 @@
       "duration_ms": 224640,
       "name": "Free (with Ellie Goulding) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/5teofOpFb6BllwQT8OmqIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -723,38 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
-        "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        },
-        {
-          "name": "Atmozfears",
-          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
-        },
-        {
-          "name": "Audiotricz",
-          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
-        }
-      ],
-      "duration_ms": 169404,
-      "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
-      "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ups & Downs",
         "url": "https://open.spotify.com/album/4ImvRnu6rXC5Ye7ImmTfGU"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 198805,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
+        "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        },
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+        }
+      ],
+      "duration_ms": 169404,
+      "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
+      "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
     },
     {
       "added_at": null,
@@ -867,6 +867,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waiting For Me",
+        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Louis III",
+          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 138102,
+      "name": "Waiting For Me",
+      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Feel (Radio Edit)",
         "url": "https://open.spotify.com/album/0zdMvVziBUVHQn2fyBbnWV"
       },
@@ -895,26 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting For Me",
-        "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Louis III",
-          "url": "https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr"
-        },
-        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
         }
       ],
-      "duration_ms": 138102,
-      "name": "Waiting For Me",
-      "url": "https://open.spotify.com/track/69FsZtKV3syfUMApe92Spf"
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -947,8 +967,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
       },
       "artists": [
         {
@@ -956,13 +976,29 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         }
       ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment (Novell)",
+        "url": "https://open.spotify.com/album/3k70G2fNSOgsirdlXJB2ub"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 200791,
+      "name": "The Moment (Novell)",
+      "url": "https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r"
     },
     {
       "added_at": null,
@@ -991,8 +1027,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Summer Nights",
-        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
+        "name": "Love You Forever",
+        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
       "artists": [
         {
@@ -1000,13 +1036,17 @@
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        },
+        {
+          "name": "Sam Martin",
+          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
         }
       ],
-      "duration_ms": 158671,
-      "name": "Hot Summer Nights",
-      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+      "duration_ms": 234609,
+      "name": "Love You Forever",
+      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
     },
     {
       "added_at": null,
@@ -1031,46 +1071,6 @@
       "duration_ms": 211771,
       "name": "Tomorrow Comes",
       "url": "https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moment (Novell)",
-        "url": "https://open.spotify.com/album/3k70G2fNSOgsirdlXJB2ub"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 200791,
-      "name": "The Moment (Novell)",
-      "url": "https://open.spotify.com/track/5s2Ck1iBxZ1eP3WMT5Ie8r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love You Forever",
-        "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
-        },
-        {
-          "name": "Sam Martin",
-          "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
-        }
-      ],
-      "duration_ms": 234609,
-      "name": "Love You Forever",
-      "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 
 > good vibes, all day every day
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,843 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,997 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 40 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
 | 41 | [SEEIN’ STARS](https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:06 |
 | 42 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
-| 43 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
-| 44 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
+| 43 | [Dominoes](https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:57 |
+| 44 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 | 45 | [Lose My Cool](https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:34 |
 | 46 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 47 | [Mannequin Love](https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 3:27 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 53 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 |
 | 54 | [Sunny](https://open.spotify.com/track/42AsgO0005lineLVc1aSOL) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Sunny](https://open.spotify.com/album/7JgO7n3YCFeYN2RmR5A2Bh) | 2:37 |
 | 55 | [Can we talk about Isaac?](https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Can we talk about Isaac?](https://open.spotify.com/album/0p0b5NEjx9v2XfSQG3qel8) | 4:03 |
-| 56 | [hello !](https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [man oh man !](https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ) | 2:50 |
-| 57 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 |
+| 56 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 |
+| 57 | [hello !](https://open.spotify.com/track/3eIVoDIJJduj7HDDI5yz1V) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [man oh man !](https://open.spotify.com/album/3ceQB5KZjY2EI7F2b9h1pQ) | 2:50 |
 | 58 | [Take A Sexy Picture Of Me](https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Take A Sexy Picture Of Me](https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB) | 3:49 |
 | 59 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt III \(Expanded Edition\)](https://open.spotify.com/album/79thwyFL6Uo6rgTp3YWEAf) | 3:24 |
 | 60 | [Summer Sweat](https://open.spotify.com/track/539XSJouqOZlQlz1wEiakF) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Ariel Imani 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046,233 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,099 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,17 +50,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 40 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |
 | 41 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 |
 | 42 | [Hurts](https://open.spotify.com/track/42PmsIuf88yzxgyZ4YsrA3) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Hurts](https://open.spotify.com/album/0vD6ViITeV3JJtZIswk4t7) | 2:42 |
-| 43 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
-| 44 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 |
+| 43 | [Try To Forget You](https://open.spotify.com/track/4owTp0ISJEukMDPpbiYVTF) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Bloom](https://open.spotify.com/album/3bbmQ862f9gNMC3I5eH5Qx) | 3:24 |
+| 44 | [2 Versager](https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [2 Versager](https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2) | 3:47 |
 | 45 | [Temberang](https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2) | [Mimifly](https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw) | [Temberang](https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf) | 2:07 |
 | 46 | [Broken?](https://open.spotify.com/track/4p3yxm5pepvqYPKmwPL2hx) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Broken?](https://open.spotify.com/album/5O0oQRED2CxWkFhRKlAWzG) | 4:03 |
 | 47 | [In Love](https://open.spotify.com/track/4KauSJM3ORpOHUMNPKq6H7) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [In Love](https://open.spotify.com/album/7zoNOdoJc2DJQMn87cta73) | 2:48 |
-| 48 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:26 |
+| 48 | [Prayer](https://open.spotify.com/track/4SSzmLUKeG9ogOJr9B0kU7) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Prayer](https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb) | 5:25 |
 | 49 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 |
 | 50 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 |
 | 51 | [Hideaway](https://open.spotify.com/track/6whwQsAorYI2N8iFLWUhfb) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:57 |
-| 52 | [Франсуа](https://open.spotify.com/track/5nxvhdJsVBsmNm7UIWLF4w) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa), [Iryna Bilyk](https://open.spotify.com/artist/5wnPg3gAN19gmRi0sIyqEx) | [Франсуа](https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY) | 3:58 |
-| 53 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
+| 52 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
+| 53 | [Франсуа](https://open.spotify.com/track/5nxvhdJsVBsmNm7UIWLF4w) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa), [Iryna Bilyk](https://open.spotify.com/artist/5wnPg3gAN19gmRi0sIyqEx) | [Франсуа](https://open.spotify.com/album/3tuTCr2wT7xKAFjUhlYLQY) | 3:58 |
 | 54 | [Pena penita pena](https://open.spotify.com/track/021KukNOhoemTxzEVWaaId) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [Pena, Penita, Pena](https://open.spotify.com/album/2QsSxyyEqzwvPpONUs0qkn) | 3:43 |
 | 55 | [Maravilhosamente Bem](https://open.spotify.com/track/6A7Ck7Bgl3YIzbeUwm99Sm) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/4Od9vP3ffzaBu3nXezoPZi) | 3:46 |
 | 56 | [Not Enough](https://open.spotify.com/track/0RXVnZkoEtvI5HcGUtncpY) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [hi, it's nice to meet me](https://open.spotify.com/album/5bVSpRtlZwFwDAd6G7Siav) | 3:37 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [got.to.believe](https://open.spotify.com/track/5zvE5C2JislfFqefghan0H) | [Miss Ko 葛仲珊](https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg) | [soul.food 靈食](https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz) | 3:36 |
 | 69 | [Tento Na Língua](https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Tento Na Língua](https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx) | 3:15 |
 | 70 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
-| 71 | [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 |
-| 72 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
-| 73 | [The Silence & The Storm](https://open.spotify.com/track/18wYstWXgbzlxjguSj1LSR) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [The Silence & The Storm](https://open.spotify.com/album/1m4no0XlyEjaWa0pW4bkiA) | 3:10 |
-| 74 | [deja vu](https://open.spotify.com/track/5PlFjZHDhcyjUUZRQCO9uh) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [deja vu](https://open.spotify.com/album/3iRypzqqCo3N96LlXuyvdy) | 3:08 |
-| 75 | [Mirza](https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Mirza](https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD) | 3:02 |
+| 71 | [deja vu](https://open.spotify.com/track/5PlFjZHDhcyjUUZRQCO9uh) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [deja vu](https://open.spotify.com/album/3iRypzqqCo3N96LlXuyvdy) | 3:08 |
+| 72 | [Good Life](https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 3:02 |
+| 73 | [Deja Vu](https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Deja Vu](https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS) | 2:55 |
+| 74 | [The Silence & The Storm](https://open.spotify.com/track/18wYstWXgbzlxjguSj1LSR) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6), [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [The Silence & The Storm](https://open.spotify.com/album/1m4no0XlyEjaWa0pW4bkiA) | 3:10 |
+| 75 | [Looks Like](https://open.spotify.com/track/5PXklfwWedRcLoS2LF9JQb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Looks Like](https://open.spotify.com/album/1V5pcctYS2nlkEphtiwGCL) | 3:00 |
 
 Snapshot ID: `AAAAAKe4fbPatVFFJMQKe6FqKXlBpWle`

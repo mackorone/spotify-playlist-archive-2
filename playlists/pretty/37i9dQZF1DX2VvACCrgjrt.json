@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313382,
+  "num_followers": 1313397,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "I Got Feelings",
+        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 153321,
+      "name": "I Got Feelings",
+      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Temperature (Club Mix)",
         "url": "https://open.spotify.com/album/3WWC6D8L3H9bErbu0FMi5w"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 126461,
       "name": "Temperature - Club Mix",
       "url": "https://open.spotify.com/track/3UG51j7jDfdfKlErPRMXOT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "I Got Feelings",
-        "url": "https://open.spotify.com/album/5VA1Nehnfdr4ao3Tr2XCrK"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 153321,
-      "name": "I Got Feelings",
-      "url": "https://open.spotify.com/track/3f5LJiAEHHZtW8bzF4qpNr"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1653,6 +1653,26 @@
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "T.A.S.T.E.",
+        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "T.A.S.T.E.",
+      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
+    },
+    {
       "added_at": "2026-02-20 05:00:45",
       "album": {
         "name": "4THEBOYS",
@@ -1717,26 +1737,6 @@
       "url": "https://open.spotify.com/track/0LPcQK0wDigAqAkgs939cK"
     },
     {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "T.A.S.T.E.",
-        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        }
-      ],
-      "duration_ms": 135692,
-      "name": "T.A.S.T.E.",
-      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Sweat",
@@ -1757,24 +1757,24 @@
       "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
+      "added_at": "2026-01-23 05:00:24",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
         },
         {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+          "name": "WIN WIN",
+          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
         }
       ],
-      "duration_ms": 164307,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
+      "duration_ms": 212307,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1797,24 +1797,24 @@
       "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
-      "added_at": "2026-01-23 05:00:24",
+      "added_at": "2026-01-30 05:00:51",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/3Hc7jNzHjNI3YbyLXfx3Jm"
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         },
         {
-          "name": "WIN WIN",
-          "url": "https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt"
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
         }
       ],
-      "duration_ms": 212307,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
+      "duration_ms": 164307,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Tease",
-        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
-      },
-      "artists": [
-        {
-          "name": "N2N",
-          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Tease",
-      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Freedom (Body Ocean Remix)",
         "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Tease",
+        "url": "https://open.spotify.com/album/7pkI6v49HH4NPz79BdvCvx"
+      },
+      "artists": [
+        {
+          "name": "N2N",
+          "url": "https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Tease",
+      "url": "https://open.spotify.com/track/6uyPxNh9jZSdwQkfaOF9FF"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2001,6 +2001,22 @@
       "url": "https://open.spotify.com/track/5CzGZ3cUdWFB8xxd6C7Shi"
     },
     {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/52fURmrWyVSulmBbmdmwEO"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Deeper Underground",
@@ -2019,22 +2035,6 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "Hyper",
-        "url": "https://open.spotify.com/album/52fURmrWyVSulmBbmdmwEO"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Hyper",
-      "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2093,6 +2093,22 @@
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
       "added_at": "2026-01-30 05:00:51",
       "album": {
         "name": "Stop Me Fallin",
@@ -2111,22 +2127,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "F*CK THAT",
         "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
       },
@@ -2139,6 +2139,26 @@
       "duration_ms": 191818,
       "name": "F*CK THAT",
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grind It",
+        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        },
+        {
+          "name": "EJ3000",
+          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
+        }
+      ],
+      "duration_ms": 185033,
+      "name": "Grind It",
+      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2171,26 +2191,6 @@
       "duration_ms": 145846,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/7lssCwBFqAp5sszHnsfLDr"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Grind It",
-        "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        },
-        {
-          "name": "EJ3000",
-          "url": "https://open.spotify.com/artist/6dpX7szxr75uXCxiqhp7Cu"
-        }
-      ],
-      "duration_ms": 185033,
-      "name": "Grind It",
-      "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2267,6 +2267,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "ZERO200",
+        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "ZERO200",
+      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Bus Stop Please (David Guetta & Morten Future Rave Remix)",
         "url": "https://open.spotify.com/album/4ZTjlo4DdfAH98ffFyT51r"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 192157,
       "name": "Bus Stop Please - David Guetta & Morten Future Rave Remix",
       "url": "https://open.spotify.com/track/75rc1El3Y6X4uhJD3UK0xn"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "ZERO200",
-        "url": "https://open.spotify.com/album/5CWX8Gbb9qAuAYCnUIMhfB"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "ZERO200",
-      "url": "https://open.spotify.com/track/3Mm90uj8UhWcUzHTE9ohQ1"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "No Excuse",
-        "url": "https://open.spotify.com/album/0ba2fTgEHRr79W7kHiW5sI"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Gamuel Sori",
-          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
-        }
-      ],
-      "duration_ms": 134119,
-      "name": "No Excuse",
-      "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "PARTY",
         "url": "https://open.spotify.com/album/0sJoDFsVQN657EwQCXCChE"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 128695,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "No Excuse",
+        "url": "https://open.spotify.com/album/0ba2fTgEHRr79W7kHiW5sI"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        }
+      ],
+      "duration_ms": 134119,
+      "name": "No Excuse",
+      "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
     },
     {
       "added_at": "2026-01-09 16:39:37",

@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 617109,
+  "num_followers": 617069,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Sling",
-        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195376,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "The Florist",
         "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Sling",
+        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195376,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Jubilee",
         "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 398783,
       "name": "Posing For Cars",
       "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Ultrasound",
         "url": "https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 193458,
       "name": "I'll Scream (All the Words)",
       "url": "https://open.spotify.com/track/5XennSN9tgLRZTdvhGTrBp"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-02-28 15:54:30",

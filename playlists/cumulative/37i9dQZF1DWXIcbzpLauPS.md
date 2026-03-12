@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Wage War
 
-1,552 songs - 3 day 22 hr 22 min
+1,553 songs - 3 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-10-08 | 2022-12-17 |
 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 | 2022-01-28 | 2022-04-09 |
 | [Deadweight](https://open.spotify.com/track/6acStZnAy3HC0IOQtQWnmQ) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Deadweight](https://open.spotify.com/album/1cHbSBOKZktVPSrjClBDcj) | 4:03 | 2024-10-18 | 2024-12-19 |
+| [Dear Jane Doe](https://open.spotify.com/track/19Oo1mY5WJLkKP9R1UE0Z2) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Dear Jane Doe](https://open.spotify.com/album/3HZpIfQ5zhqX8uIQQ0DoB0) | 3:23 | 2026-03-10 |  |
 | [Dear Wendy](https://open.spotify.com/track/0eD0Svr1TOFx8QgNkpTBsT) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Long Time, No Sea \(Expanded Edition\)](https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7) | 3:27 | 2021-12-17 | 2022-07-23 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-14 | 2022-07-23 |
 | [DEATH \(By Modern Error\)](https://open.spotify.com/track/2Komicfi85vw7aPJI0xxZA) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt), [Modern Error](https://open.spotify.com/artist/1QvyglfXAHITHVc45nSc1T) | [DEATH \(By Modern Error\)](https://open.spotify.com/album/0KvJUEcjyV6KB2ECXbkqvq) | 3:32 | 2022-04-29 | 2022-07-08 |
@@ -1335,7 +1336,7 @@
 | [The Line](https://open.spotify.com/track/6z0oVHUpCffd17PnC4uJEn) | [Affiance](https://open.spotify.com/artist/4gSQlkxtYOyPSRFksQk6tb) | [The Line](https://open.spotify.com/album/135JeuEorzoXRr21qrAj75) | 3:37 | 2021-12-17 | 2022-03-18 |
 | [The Love You Took Away](https://open.spotify.com/track/5PAj0hJpYDs3eT7hmu0izg) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [The Love You Took Away](https://open.spotify.com/album/1vmQbqagHVLfzRmWuFqJ5X) | 4:16 | 2025-05-09 | 2025-08-02 |
 | [The Medicine](https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Alejandro Aranda](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Leap of Death](https://open.spotify.com/album/2cMg25CzpU2YjomavkYsZ6) | 4:43 | 2024-08-25 | 2025-05-24 |
-| [THE MESS I CREATED](https://open.spotify.com/track/6qNZcXQHfuG3ZddNTNe9cd) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [THE MESS I CREATED](https://open.spotify.com/album/780QrDOEZULMdT1JgkdNxi) | 2:31 | 2026-03-02 |  |
+| [THE MESS I CREATED](https://open.spotify.com/track/6qNZcXQHfuG3ZddNTNe9cd) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb) | [THE MESS I CREATED](https://open.spotify.com/album/780QrDOEZULMdT1JgkdNxi) | 2:31 | 2026-03-02 | 2026-03-12 |
 | [The Negative](https://open.spotify.com/track/6dOoxvIbgQq8WhQ2gjndpq) | [Famous Last Words](https://open.spotify.com/artist/3rxPTMtxVQKNAbBBl6cQrw) | [The Negative](https://open.spotify.com/album/7ecQh8Nhpy5OqsmK7N4rHo) | 3:39 | 2021-12-17 | 2022-04-02 |
 | [The New Flesh](https://open.spotify.com/track/2hCAMPzEzeaMSr6Soncb9r) | [Sylosis](https://open.spotify.com/artist/2RiGIRDi4GoJpDbjDnPVJl) | [The New Flesh](https://open.spotify.com/album/1Ulcgnvs7WLJlFUhTkAx0D) | 4:05 | 2025-11-28 | 2026-01-31 |
 | [The Ocean Breather](https://open.spotify.com/track/7zTWCx4lZeoNkrOwK9moDf) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [The Celestials](https://open.spotify.com/album/19QXSfhvCZ4QxAJBSwSjZm) | 5:08 | 2022-07-13 | 2022-07-16 |

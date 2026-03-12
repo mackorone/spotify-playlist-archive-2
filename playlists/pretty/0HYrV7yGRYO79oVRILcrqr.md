@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,731 likes - 172 songs - 11 hr 4 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,735 likes - 175 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,5 +180,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 170 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 |
 | 171 | [No Durará Mañana](https://open.spotify.com/track/7hgsM0WZJD0Isjx6dNSVRE) | [Almur](https://open.spotify.com/artist/74i8Ww4vUGlxxRlaMzkqQV) | [No Durará Mañana](https://open.spotify.com/album/0wr5e08FOEp85lFyIRBW0B) | 3:44 |
 | 172 | [Route 66 Storm](https://open.spotify.com/track/0SnrPl7CYenERPqiU2QXXp) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Route 66 Storm](https://open.spotify.com/album/2nIrZBoaiNbRvY4lI2WmIJ) | 3:34 |
+| 173 | [Corrado](https://open.spotify.com/track/1QXGkSB2T1pNR8hDT2mFoO) | [Le Pietre di Mara](https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M) | [Corrado](https://open.spotify.com/album/3YvkiNefWVg45wCKtcsG1c) | 0:48 |
+| 174 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 |
+| 175 | [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 |
 
-Snapshot ID: `AAAKwQdUJ8MWWNVdCoJRd9UHKOxU8WW7`
+Snapshot ID: `AAAKxNrJmBRx3qLPYBlvRre4FF4xW3qv`

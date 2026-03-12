@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-345 songs - 16 hr 24 min
+347 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bucolia](https://open.spotify.com/track/19mlhPZJTyZi7uP2dE3MAv) | [Dormiente](https://open.spotify.com/artist/5CsUyEbyQ9JoZLTaP9HJhu) | [Bucolia](https://open.spotify.com/album/2YB6mquvIXoVoMwgaY0l7D) | 4:14 | 2023-04-28 | 2025-05-22 |
 | [by our brook](https://open.spotify.com/track/5D2j9P6XAjC1KTHWgCtKCD) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [by our brook](https://open.spotify.com/album/6gsmlzO7pBVwDq6NBpDKTB) | 2:36 | 2025-10-24 |  |
 | [By the Creek](https://open.spotify.com/track/2wNyMwLskL0yAYyipYOdyI) | [Between Worlds](https://open.spotify.com/artist/0HBncYc0ljDrJAqog1F1Qi) | [By the Creek](https://open.spotify.com/album/3T9saIz1K5izcdTVJt3ohu) | 2:23 | 2025-04-11 |  |
-| [Caelora](https://open.spotify.com/track/6cDoBKoAVREk6rM1Ine6Mb) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Caelora](https://open.spotify.com/album/601Gzmie38rKNOn6jnOdfC) | 2:49 | 2025-12-17 |  |
+| [Caelora](https://open.spotify.com/track/6cDoBKoAVREk6rM1Ine6Mb) | [Aidin](https://open.spotify.com/artist/1FQMmopnjYkAuyjQImmDMM) | [Caelora](https://open.spotify.com/album/601Gzmie38rKNOn6jnOdfC) | 2:49 | 2025-12-17 | 2026-03-12 |
 | [Calihue](https://open.spotify.com/track/1DLvqCj6UGzQcPoXzH6wMM) | [Paihuén](https://open.spotify.com/artist/4UOw7vZ41cwDXGNce9zTLB) | [Calihue](https://open.spotify.com/album/4E0BbqjU0J9EU3aIPtwkp6) | 2:11 | 2023-04-28 | 2025-05-22 |
 | [Calm Mind, in the Forest](https://open.spotify.com/track/6j88pim2dgfpUIlf984HtC) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Calm Mind, in the Forest](https://open.spotify.com/album/0TYH8l0gdWGehsBYzlLkjq) | 2:15 | 2026-02-23 |  |
 | [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 | 2025-09-11 |
@@ -52,7 +52,7 @@
 | [Cave of Secrets](https://open.spotify.com/track/6pCSTOEL0CSQAy2a21wHNu) | [Light Garden](https://open.spotify.com/artist/1LvHtO44PddBf4DeQ7i9aF) | [Cave of Secrets](https://open.spotify.com/album/2Ki1z5SvTVDvSF8YvfVZgZ) | 2:49 | 2025-10-24 |  |
 | [Cedar Forest](https://open.spotify.com/track/16Aoy96Xo1Y1xnNW5Q0rnu) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 2:24 | 2023-04-28 | 2025-05-22 |
 | [Celestial Incandescence \- Spa](https://open.spotify.com/track/7CxSyjymXR6bquZA2Mj7BS) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Celestial Incandescence](https://open.spotify.com/album/4cWd16fQU6DEnYmJ45IhQT) | 3:28 | 2023-04-28 | 2024-06-04 |
-| [chammomile](https://open.spotify.com/track/5nDPKdOwEO5mEql3Nqze3G) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Body Scan](https://open.spotify.com/album/7zDsE6swmHKUn6hNktcOPU) | 3:16 | 2023-08-18 |  |
+| [chammomile](https://open.spotify.com/track/5nDPKdOwEO5mEql3Nqze3G) | [Aydols](https://open.spotify.com/artist/53F1RqaWYLrqvrZuvubBEv) | [Body Scan](https://open.spotify.com/album/7zDsE6swmHKUn6hNktcOPU) | 3:16 | 2023-08-18 | 2026-03-12 |
 | [Chitwan Longing](https://open.spotify.com/track/2HVEoqPXUYIVeshrfufq0u) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Chitwan Longing](https://open.spotify.com/album/6m6lONbEzbgiXCspvdaZ92) | 2:54 | 2023-04-28 | 2025-12-17 |
 | [Circle](https://open.spotify.com/track/5kfHwava0Jn209SJch0yVO) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Circle](https://open.spotify.com/album/0FWYBWscbQyFSXLHuxTfd3) | 2:19 | 2023-06-30 | 2025-10-16 |
 | [Clarity](https://open.spotify.com/track/2SEFRp8tsRpHMDuoOLDySR) | [Jaylen Sharise](https://open.spotify.com/artist/0xrQf6fTJb3fjpYyddA0ph) | [Clarity](https://open.spotify.com/album/6Zfm4chfknuDbhHbwrmWZf) | 2:46 | 2023-04-28 | 2025-05-22 |
@@ -158,6 +158,7 @@
 | [I Can See You At The Bottom Of Every River](https://open.spotify.com/track/7mNB5wjFqN2ERnNeDe1YPg) | [Le Code](https://open.spotify.com/artist/5w7nuCjDmpoz2mcdM8RsOQ) | [Into The Wild](https://open.spotify.com/album/2hxfoyhB0m567fTylRTAw3) | 4:02 | 2023-04-28 | 2023-06-17 |
 | [Imitating Reflections](https://open.spotify.com/track/0SETmmxlQchBbRxvJpZTp3) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Imitating Reflections](https://open.spotify.com/album/7LmA2P6Of7fTlkqHdv9ex1) | 2:23 | 2023-04-28 | 2025-05-22 |
 | [imperia](https://open.spotify.com/track/0IOkAVin2sQFGnUDCccATb) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [imperia](https://open.spotify.com/album/3ruq6fx1M4ruMrGmKtEfvb) | 2:42 | 2025-10-15 | 2025-12-18 |
+| [In Bloom](https://open.spotify.com/track/3Bv155JBe0u85brGovdFgZ) | [Slowshore](https://open.spotify.com/artist/3uK8f61m1YNoaT6Qk7F88K) | [In Bloom](https://open.spotify.com/album/7ntnH8GlYuOQRGH21fWKUg) | 2:45 | 2026-02-23 |  |
 | [Incandescent](https://open.spotify.com/track/4kv0JwNazt1KbOw9Vggcbd) | [Monduen](https://open.spotify.com/artist/7ufKbXQTJ2WVnEbsbTo5iJ) | [Incandescent](https://open.spotify.com/album/39SH7vxnTRlGsXiEdjEfUg) | 2:28 | 2025-10-02 |  |
 | [Inclusive](https://open.spotify.com/track/26atiN5wmCGO9Rbcx5lSwj) | [Spacetiming](https://open.spotify.com/artist/5eFO9GqXr6CFXygAtUlxGa) | [Inclusive](https://open.spotify.com/album/6bPTArHqDlHoxzO5ELIE0g) | 2:35 | 2025-10-02 |  |
 | [Infinite Potential](https://open.spotify.com/track/66w2QkVBFwKcZm4DvN3FLv) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Infinite Potential](https://open.spotify.com/album/5GL2UD3ZEqT1AaTx5Bbsl9) | 2:17 | 2024-06-03 | 2026-02-26 |
@@ -197,6 +198,7 @@
 | [Misty Glade](https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Misty Glade](https://open.spotify.com/album/1oOiCZ9Fr49EpOmBkCp9vV) | 3:50 | 2024-06-03 |  |
 | [Mitra´s Morning](https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Mitra´s Morning](https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y) | 2:35 | 2023-10-06 | 2025-12-18 |
 | [Morning Flourish](https://open.spotify.com/track/682ajrmPSRg9h9iAnT1Y3X) | [Cedarsound](https://open.spotify.com/artist/3zQf7bXB7xtlEjVmeT53GP) | [Morning Flourish](https://open.spotify.com/album/5xCELqjiM5ClyW12ggx7Qz) | 2:40 | 2025-03-19 |  |
+| [Morning Serenity](https://open.spotify.com/track/1f0Xfxjv0ClqY4PGedSAoq) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Morning Serenity](https://open.spotify.com/album/61PBagExiEvzSCp7H4hKbC) | 2:22 | 2026-02-23 |  |
 | [Morning Spring](https://open.spotify.com/track/2z8607a6qDX2eUFsjI4LM4) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Morning Spring](https://open.spotify.com/album/4x0WU6pozeMkcND1zJlifI) | 2:30 | 2026-01-08 |  |
 | [Morning Yoga](https://open.spotify.com/track/745hKdfWK8QlbkmJVNR2kk) | [Orakleminds](https://open.spotify.com/artist/76yD4nheAs3jgqSgQZDDwC) | [Morning Yoga](https://open.spotify.com/album/02rCmVAY6NsJXNxFOM1HOa) | 3:19 | 2024-07-19 |  |
 | [My Sanctuary](https://open.spotify.com/track/3MiOoOWcIVfxT4DtiVx7RW) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [My Sanctuary](https://open.spotify.com/album/6LD9SZaxij45q5VylWfDpM) | 3:31 | 2023-04-28 | 2024-06-04 |

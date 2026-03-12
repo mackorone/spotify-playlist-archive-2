@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117084,
+  "num_followers": 117096,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -911,18 +911,22 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
+        "name": "Svensk i kv\u00e4ll",
+        "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
       "artists": [
         {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+          "name": "Helene Olafsen",
+          "url": "https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN"
+        },
+        {
+          "name": "Norges Nye Megahit",
+          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
         }
       ],
-      "duration_ms": 193374,
-      "name": "Tr\u00f8bbel",
-      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
+      "duration_ms": 124661,
+      "name": "Svensk i kv\u00e4ll",
+      "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -943,22 +947,18 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Svensk i kv\u00e4ll",
-        "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
       },
       "artists": [
         {
-          "name": "Helene Olafsen",
-          "url": "https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN"
-        },
-        {
-          "name": "Norges Nye Megahit",
-          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 124661,
-      "name": "Svensk i kv\u00e4ll",
-      "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
+      "duration_ms": 193374,
+      "name": "Tr\u00f8bbel",
+      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
     },
     {
       "added_at": "2026-02-19 23:00:46",

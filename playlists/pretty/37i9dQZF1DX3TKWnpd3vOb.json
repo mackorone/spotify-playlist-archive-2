@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: La Ley",
-  "num_followers": 187067,
+  "num_followers": 187061,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Cahu\u00edn",
-        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
+        "name": "Privado",
+        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
       },
       "artists": [
         {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+          "name": "Caf\u00e9 en Saturno",
+          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
         }
       ],
-      "duration_ms": 181812,
-      "name": "Cahu\u00edn",
-      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
+      "duration_ms": 281037,
+      "name": "Privado",
+      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -419,18 +419,18 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Privado",
-        "url": "https://open.spotify.com/album/4AjiNqomtPDlz0WGYwgxPG"
+        "name": "Cahu\u00edn",
+        "url": "https://open.spotify.com/album/6aMle8LJtLQEIpCdCJp6P6"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 en Saturno",
-          "url": "https://open.spotify.com/artist/4jZ4GYY6tv0zdZGDOMc23T"
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
         }
       ],
-      "duration_ms": 281037,
-      "name": "Privado",
-      "url": "https://open.spotify.com/track/0xnVxyivmqxo72jx0ffkVx"
+      "duration_ms": 181812,
+      "name": "Cahu\u00edn",
+      "url": "https://open.spotify.com/track/5iXo2vhyhhDxsIU0LS1e5z"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -463,22 +463,6 @@
       "duration_ms": 177487,
       "name": "Bien",
       "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
-        "name": "Plumas",
-        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 262530,
-      "name": "Todo Cae",
-      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -519,6 +503,22 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
+        "name": "Plumas",
+        "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 262530,
+      "name": "Todo Cae",
+      "url": "https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
         "name": "Un D\u00eda por Concepci\u00f3n",
         "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Mis Hermanos Sue\u00f1an Despiertos",
-        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
-      },
-      "artists": [
-        {
-          "name": "Plumas",
-          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
-        }
-      ],
-      "duration_ms": 204829,
-      "name": "Mis Hermanos Sue\u00f1an Despiertos",
-      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "La vida mi vida se vive as\u00ed (Radio Edit)",
         "url": "https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 222133,
       "name": "Let Me Fly",
       "url": "https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Mis Hermanos Sue\u00f1an Despiertos",
+        "url": "https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg"
+      },
+      "artists": [
+        {
+          "name": "Plumas",
+          "url": "https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg"
+        }
+      ],
+      "duration_ms": 204829,
+      "name": "Mis Hermanos Sue\u00f1an Despiertos",
+      "url": "https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "Nuestra se\u00f1al",
+      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
         "name": "Se Aleja el Tren",
         "url": "https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Mirar La Luz",
-        "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
-      },
-      "artists": [
-        {
-          "name": "Electrodom\u00e9sticos",
-          "url": "https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn"
-        }
-      ],
-      "duration_ms": 270049,
-      "name": "El Viento Escap\u00f3",
-      "url": "https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Arauco Tiene una Pena",
         "url": "https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
+        "name": "Mirar La Luz",
+        "url": "https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV"
+      },
+      "artists": [
+        {
+          "name": "Electrodom\u00e9sticos",
+          "url": "https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn"
+        }
+      ],
+      "duration_ms": 270049,
+      "name": "El Viento Escap\u00f3",
+      "url": "https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
         "name": "Solo de Ti",
         "url": "https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF"
       },
@@ -871,6 +887,22 @@
       "duration_ms": 237830,
       "name": "Solo de Ti",
       "url": "https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Julius Popper?",
+        "url": "https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 247693,
+      "name": "La Innombrable",
+      "url": "https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -927,22 +959,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Julius Popper?",
-        "url": "https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 247693,
-      "name": "La Innombrable",
-      "url": "https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "T\u00f3tem",
         "url": "https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Nuestra se\u00f1al",
-      "url": "https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/3UeaOvDIWsGVqUmsTjZ3Gd"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 236084,
-      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
-      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Al otro lado del canal",
         "url": "https://open.spotify.com/album/60nnIm6s1dPSEdd68kYI2V"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 155849,
       "name": "Al otro lado del canal",
       "url": "https://open.spotify.com/track/55er5KcKNggTKgedq7EElN"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+        "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 236084,
+      "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
+      "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Coraz\u00f3n Negro",
-        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 242166,
-      "name": "Coraz\u00f3n Negro",
-      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Lo Que Dicen",
         "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 243566,
       "name": "Lo Que Dicen",
       "url": "https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Coraz\u00f3n Negro",
+        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 242166,
+      "name": "Coraz\u00f3n Negro",
+      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 205765,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Tu primero y luego yo",
         "url": "https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 146922,
       "name": "Tu primero y luego yo",
       "url": "https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 205765,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Hacia Ti",
-        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Hacia Ti",
-      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Asocial",
         "url": "https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 197747,
       "name": "Asocial",
       "url": "https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Hacia Ti",
+        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Hacia Ti",
+      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Bella Vu",
-        "url": "https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 155372,
-      "name": "Bella Vu",
-      "url": "https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Partido Platanista",
         "url": "https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 152500,
       "name": "Partido Platanista",
       "url": "https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Bella Vu",
+        "url": "https://open.spotify.com/album/3WKc52F7u48leqswyZqwoR"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 155372,
+      "name": "Bella Vu",
+      "url": "https://open.spotify.com/track/7lgYAj4KluzeOBxQlzOrB0"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Relatos Falsos De Historias Verdaderas",
-        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 236901,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "PORTAL",
         "url": "https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 293252,
       "name": "Fiesta En El Barrio",
       "url": "https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Relatos Falsos De Historias Verdaderas",
+        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 236901,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
     },
     {
       "added_at": "2026-02-27 13:59:26",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-02-27 13:59:26",
       "album": {
-        "name": "Mujer Primavera",
-        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 276431,
-      "name": "Mujer Primavera",
-      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
-    },
-    {
-      "added_at": "2026-02-27 13:59:26",
-      "album": {
         "name": "Baile Infinito",
         "url": "https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 195234,
       "name": "Vida de locos",
       "url": "https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30"
+    },
+    {
+      "added_at": "2026-02-27 13:59:26",
+      "album": {
+        "name": "Mujer Primavera",
+        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 276431,
+      "name": "Mujer Primavera",
+      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
     },
     {
       "added_at": "2026-02-27 13:59:26",

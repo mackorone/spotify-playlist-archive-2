@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 
 > La banda sonora para tus cenas en casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,402 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,373 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 38 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 |
 | 39 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 40 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
-| 41 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
-| 42 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
+| 41 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 |
+| 42 | [Spooky](https://open.spotify.com/track/3MtP9T0WF4xbIo8vqHYeXM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty..\. Definitely \(Expanded Edtion\)](https://open.spotify.com/album/08W4d8uMIQvJg0nlwR1rBN) | 2:44 |
 | 43 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 |
 | 44 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 | 45 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLmaNnR9HlL.md) - [plain]
 | 48 | [Hit the Road Jack](https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Soul](https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD) | 1:59 |
 | 49 | [For Cryin' Out Loud!](https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:37 |
 | 50 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 |
-| 51 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
-| 52 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
+| 51 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
+| 52 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
 | 53 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
 | 54 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 |
 | 55 | [Lebanese Blonde](https://open.spotify.com/track/6k5VMHrwv7mgPpkQSRQtQr) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 4:48 |

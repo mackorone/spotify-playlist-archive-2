@@ -4,7 +4,7 @@
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-110 songs - 6 hr 54 min
+111 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [KOD](https://open.spotify.com/track/7yotKA30dwTKNEGomV9ZsI) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:11 | 2023-11-10 | 2024-04-07 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2023-11-10 | 2025-11-22 |
 | [Land Of The Snakes](https://open.spotify.com/track/0hW72l6tZgSY7Od2OUVDIC) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born Sinner \(Deluxe Version\)](https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623) | 4:14 | 2024-04-06 | 2024-04-07 |
-| [Legacy \(with PJ\)](https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:55 | 2026-02-11 |  |
+| [Legacy \(with PJ\)](https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:55 | 2026-02-11 | 2026-03-12 |
 | [Let Me Calm Down \(feat\. J\. Cole\)](https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 4:04 | 2023-12-13 | 2024-05-17 |
 | [Lights Please](https://open.spotify.com/track/6sZv0ECT8cEW3oZtoCuVg4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:28 | 2025-09-19 | 2026-02-22 |
 | [Love Yourz](https://open.spotify.com/track/2e3Ea0o24lReQFR4FA7yXH) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:31 | 2023-11-10 |  |
@@ -70,6 +70,7 @@
 | [Neighbors](https://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:36 | 2023-11-10 |  |
 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2023-11-10 |  |
 | [Nobody's Perfect](https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:10 | 2023-11-10 |  |
+| [Old Dog \(with Petey Pablo\)](https://open.spotify.com/track/6WGJ7hPYHXu3aQ6x8GzigX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:22 | 2026-03-12 |  |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-11-10 |  |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2023-11-10 |  |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2023-11-10 | 2024-06-14 |

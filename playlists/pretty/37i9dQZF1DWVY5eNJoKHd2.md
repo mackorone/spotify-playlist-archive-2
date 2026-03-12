@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > Music that makes you feel like you're levitating.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,474 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,521 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 84 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
 | 85 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 | 86 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 |
-| 87 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
-| 88 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
+| 87 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
+| 88 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
 | 89 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 90 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
 | 91 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 96 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 97 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |
 | 98 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 99 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 |
-| 100 | [Distance](https://open.spotify.com/track/1SsUx7lHTfuiSSB1KfRMdE) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 4:15 |
+| 99 | [Distance](https://open.spotify.com/track/1SsUx7lHTfuiSSB1KfRMdE) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 4:15 |
+| 100 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 |
 
 Snapshot ID: `AAAAANtrLnV14T0wLurKkn/J7c79cBWu`

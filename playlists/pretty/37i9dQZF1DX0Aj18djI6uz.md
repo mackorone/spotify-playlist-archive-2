@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aj18djI6uz.md) - [plain]
 
 > 블랙핑크가 직접 국립중앙박물관의 유물들을 설명해주는 스포티파이 공식 도슨트 플레이리스트입니다\. \(This is a Spotify official docent playlist, featuring the members of BLACKPINK as they personally guide you through the artifacts of the National Museum of Korea.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,615 likes - 21 songs - 32 min 33 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,670 likes - 21 songs - 32 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

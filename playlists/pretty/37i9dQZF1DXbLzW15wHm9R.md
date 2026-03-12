@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that stay with you long after the credits roll..\. Cover: GOAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,571 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,583 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

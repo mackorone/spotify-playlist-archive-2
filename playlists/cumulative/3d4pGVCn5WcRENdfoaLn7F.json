@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "The Winter Sloths",
+        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217370,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ"
+    },
+    {
+      "album": {
         "name": "Surrounded by Spiders",
         "url": "https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT"
       },
@@ -2543,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Nada De Vos",
+        "url": "https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184438,
+      "name": "Nada De Vos",
+      "url": "https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO"
+    },
+    {
+      "album": {
         "name": "New Shit Has Come To Light",
         "url": "https://open.spotify.com/album/2vsnu0bdEfC2zgOmk1vFsl"
       },
@@ -4526,6 +4562,24 @@
       "duration_ms": 246160,
       "name": "Your Love Shines Down Like a Supernova's Death",
       "url": "https://open.spotify.com/track/0pNHZJgtYJoN9UfLvxvOL3"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
+        "url": "https://open.spotify.com/album/1uq5G5T9eEP9BKhkTRitBX"
+      },
+      "artists": [
+        {
+          "name": "genteel renegade",
+          "url": "https://open.spotify.com/artist/7AfX5ZMx0UP4ZouLe1HNEl"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233239,
+      "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
+      "url": "https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F"
     },
     {
       "album": {

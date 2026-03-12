@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6581,
+  "num_followers": 6582,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABhS9ifBqdo+TpVGJ6tp1og",
+  "snapshot_id": "aa9fAAAAAADwWz0cWEjDJzwtAP4DtYz5",
   "tracks": [
     {
       "added_at": null,
@@ -263,38 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "You're the Fool",
-      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Three Degrees",
-        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 429160,
-      "name": "If And When",
-      "url": "https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees",
+        "url": "https://open.spotify.com/album/348rR3bK4ypUS5MF2aIetX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 429160,
+      "name": "If And When",
+      "url": "https://open.spotify.com/track/5OkcQcCdSqQMpU4WYdT2ir"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "You're the Fool",
+      "url": "https://open.spotify.com/track/3vzbLYeAjvRjc63S1fxSpp"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Dimensions",
-        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 367520,
-      "name": "Giving Up, Giving In",
-      "url": "https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of The Three Degrees: When Will I See You Again",
         "url": "https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 177626,
       "name": "Long Lost Lover",
       "url": "https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Dimensions",
+        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 367520,
+      "name": "Giving Up, Giving In",
+      "url": "https://open.spotify.com/track/4Aj2Midm2Nyhb9C68ba95c"
     },
     {
       "added_at": null,
@@ -831,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36"
+        "name": "I'm Gonna Need You / Just Right for Love",
+        "url": "https://open.spotify.com/album/37upZER0zdrc3EUCOlV2zR"
       },
       "artists": [
-        {
-          "name": "Roy Budd",
-          "url": "https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV"
-        },
         {
           "name": "The Three Degrees",
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 137573,
-      "name": "End Titles",
-      "url": "https://open.spotify.com/track/5dIMP9s07iyL5RXn3JsabP"
+      "duration_ms": 172133,
+      "name": "I'm Gonna Need You",
+      "url": "https://open.spotify.com/track/1PEscRoDcbLjlLHqIYkynY"
     }
   ],
   "unique_name": "This Is The Three Degrees",

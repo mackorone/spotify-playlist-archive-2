@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoAkqFHJmQZ.md) - [plain]
 
 > 🎮 Dein Soundtrack zum Zocken 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,427 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,430 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoAkqFHJmQZ.md) - [plain]
 | 67 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 68 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
 | 69 | [Pompeii](https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 3:34 |
-| 70 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
+| 70 | [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 |
 
 Snapshot ID: `AAAAAOLmFVg+cI9blqKreAGxtXRolgSc`

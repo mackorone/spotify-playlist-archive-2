@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,110 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,177 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 49 | [When Love And Hate Collide](https://open.spotify.com/track/5HJoLjMetgvuOyvuubDl1g) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Best Of](https://open.spotify.com/album/2MHIDS8G3Er8PUI7QkgoXi) | 4:16 |
 | 50 | [Glory Of Love](https://open.spotify.com/track/1rCvELDf9YKp1pNxVWAqAm) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Rock Ballads](https://open.spotify.com/album/7BvcQLsLEvk6vl2yuRFzve) | 4:20 |
 
-Snapshot ID: `AAAAANkUWfYnU//M4drWgYnz0S+0pFUo`
+Snapshot ID: `AAAAAPw6+3MVUU9OpOca5JwfkjT2TKIP`

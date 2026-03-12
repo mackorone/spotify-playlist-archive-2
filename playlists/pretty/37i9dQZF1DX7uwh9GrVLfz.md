@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: 板歯目
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,167 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,177 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 37 | [フランス料理](https://open.spotify.com/track/3Zid95Tp3ipCFAbmI9yl2k) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [君の飼い犬は、可愛くて最悪。](https://open.spotify.com/album/1KFqzFxWms2QCIgX6y7L98) | 4:43 |
 | 38 | [PEAK'D YELLOW](https://open.spotify.com/track/4F8IqZEYs0KePKI7AAgrPv) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [THE BAND STAR](https://open.spotify.com/album/7LBnXKfzvkhJIvZcTENgiS) | 2:59 |
 | 39 | [MajiでKoiする5秒前](https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [GOD SAVE THE わーるど](https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3) | 4:50 |
-| 40 | [Our Song](https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Our Song](https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n) | 2:42 |
-| 41 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 |
+| 40 | [Get Up](https://open.spotify.com/track/1gJsVvWkcLnMLcZBa6FtGw) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Dim The Lights](https://open.spotify.com/album/6IaqeynN8Mgi5RprUaWbIU) | 4:05 |
+| 41 | [Our Song](https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [Our Song](https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n) | 2:42 |
 | 42 | [Stereoman](https://open.spotify.com/track/6ZIOIVey5pvMycER6mSA4y) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Space Sonic](https://open.spotify.com/album/4MJpSVLeU2zWaph5ywV60A) | 3:33 |
 | 43 | [リュミエール](https://open.spotify.com/track/6u7D7lRx9YA2sQtWPzKXWJ) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [リュミエール](https://open.spotify.com/album/13uuVnO6TJvUJxTkS3lpuP) | 4:34 |
 | 44 | [Dance all night my friends](https://open.spotify.com/track/65yT4lhXarJZo0jVLfH8k5) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [EVERYNIGHT](https://open.spotify.com/album/1zkWG461a3ppXEP5hhSGtK) | 2:45 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 49 | [DEEP](https://open.spotify.com/track/3RVr9rPwZ8EwbCshQWonMT) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [A FORLORN HOPE](https://open.spotify.com/album/552gufO6U4IFh3WWwA2kWr) | 2:02 |
 | 50 | [ラズリ](https://open.spotify.com/track/0TuWIRwex6d8rOJvdNoOO4) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [ラズリ](https://open.spotify.com/album/6tsSfB8j7Au2BsfUAgnpza) | 5:35 |
 | 51 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |
-| 52 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 |
-| 53 | [死ぬまでに俺がやりたいこと](https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [死ぬまでに俺がやりたいこと](https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0) | 1:40 |
+| 52 | [死ぬまでに俺がやりたいこと](https://open.spotify.com/track/4TF6wD2NlUn8CpZrQFSqUl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [死ぬまでに俺がやりたいこと](https://open.spotify.com/album/4hwgXFx90Z2BmAOXu897c0) | 1:40 |
+| 53 | [ハッピーライフ](https://open.spotify.com/track/3IKUuAJghlmAkjBKbXaGjS) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 3:29 |
 | 54 | [愛するPOW](https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ぽ](https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY) | 3:20 |
 | 55 | [今夜](https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [梵唄 \-bonbai\-](https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx) | 4:25 |
 | 56 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 |
-| 57 | [未来の破片](https://open.spotify.com/track/0ggkEAlaVUAqhSNT3dsSu3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [未来の破片](https://open.spotify.com/album/2Y0g41iLy9VrDWa5vigkrl) | 4:03 |
-| 58 | [不純愛ラブストーリー](https://open.spotify.com/track/1m1LvGZoH4V2AF8Ev5301N) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:05 |
+| 57 | [不純愛ラブストーリー](https://open.spotify.com/track/1m1LvGZoH4V2AF8Ev5301N) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:05 |
+| 58 | [未来の破片](https://open.spotify.com/track/0ggkEAlaVUAqhSNT3dsSu3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [未来の破片](https://open.spotify.com/album/2Y0g41iLy9VrDWa5vigkrl) | 4:03 |
 | 59 | [情熱たましい](https://open.spotify.com/track/4HUGJkUteNRGnyr2GVFYRp) | [B\-DASH](https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz) | [ビッグ ブラック ストア\(連絡しろ\)](https://open.spotify.com/album/1f5YEXI4Ezn2NEGOr0LdlU) | 3:07 |
 | 60 | [Steady](https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:30 |
 | 61 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 75 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
 | 76 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 |
 | 77 | [作戦会議](https://open.spotify.com/track/3rVyi0vqp9xTgJbMFOw52N) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 2:44 |
-| 78 | [心底心中したい](https://open.spotify.com/track/5CGTPjeGyOzMwpQGZOk2oh) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [心底心中したい](https://open.spotify.com/album/5G1Mtrtfoil5HJTpF9EPb2) | 2:43 |
-| 79 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
+| 78 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
+| 79 | [心底心中したい](https://open.spotify.com/track/5CGTPjeGyOzMwpQGZOk2oh) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [心底心中したい](https://open.spotify.com/album/5G1Mtrtfoil5HJTpF9EPb2) | 2:43 |
 | 80 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
 | 81 | [Place of Fire \- Beginning mix](https://open.spotify.com/track/7vcx8In5HIZGG5ZsH0J6IH) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Beginning](https://open.spotify.com/album/69fiqV5Tge5nuNaaf1MJye) | 4:14 |
 | 82 | [Sally the Witch](https://open.spotify.com/track/36P381075zGqGLHW62QEdR) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [Sally the Witch](https://open.spotify.com/album/0lC6uiSWrcay97ky0AOeil) | 1:12 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 84 | [Midnight Grow](https://open.spotify.com/track/1A2MlEvCue0EWDvPP2aJL0) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Midnight Grow](https://open.spotify.com/album/3HXAGw0DEIjZrLg3b1D9IL) | 2:43 |
 | 85 | [GOLD YOUTH](https://open.spotify.com/track/1LPGdMiMhY6LXEMoIAa7ZK) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [GOLD YOUTH](https://open.spotify.com/album/4GYC2moJkrip8Hct4XskBe) | 2:41 |
 | 86 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 |
-| 87 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
-| 88 | [死亡フラグを立てないで](https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [死亡フラグを立てないで](https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG) | 4:35 |
+| 87 | [JUST A NUMBER](https://open.spotify.com/track/52IwY7KnlKOP3ZsoKyV8A5) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [JUST A NUMBER](https://open.spotify.com/album/6uUKinKzdRNdFAjvRqVlNT) | 2:19 |
+| 88 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
 | 89 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
-| 90 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 |
-| 91 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
-| 92 | [JUST A NUMBER](https://open.spotify.com/track/52IwY7KnlKOP3ZsoKyV8A5) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [JUST A NUMBER](https://open.spotify.com/album/6uUKinKzdRNdFAjvRqVlNT) | 2:19 |
+| 90 | [死亡フラグを立てないで](https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [死亡フラグを立てないで](https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG) | 4:35 |
+| 91 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 |
+| 92 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 |
 | 93 | [さよなら涙](https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [神様からの贈物 e.p.](https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY) | 2:31 |
 | 94 | [ショートカット](https://open.spotify.com/track/6CHrfuOFJikGNs6JriXdGi) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [ショートカット](https://open.spotify.com/album/4RHVfs0r4wZ3MPwZMiMuWO) | 3:32 |
 | 95 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 |
 | 96 | [morning glow](https://open.spotify.com/track/7vRVeeoAMz9peuYiHkjRiN) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [morning glow](https://open.spotify.com/album/1UGxYO35TP44XoyzE4QJ1g) | 3:02 |
 | 97 | [ポテサラ](https://open.spotify.com/track/5L8ZRE5UQiPHKkVI5XtHqb) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [あの夜のはなし](https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U) | 2:15 |
 | 98 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 |
-| 99 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 |
-| 100 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 |
+| 99 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 |
+| 100 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 |
 
 Snapshot ID: `AAAAAPTDceg9UcaqKc+mv2u/OayXMvVT`

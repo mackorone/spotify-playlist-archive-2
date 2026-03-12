@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112281,
+  "num_followers": 112294,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "\u00c9 Mais Que Uma Honra",
-        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
-      },
-      "artists": [
-        {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        }
-      ],
-      "duration_ms": 296058,
-      "name": "\u00c9 Mais Que Uma Honra",
-      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "SL.27.4",
         "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 237209,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "\u00c9 Mais Que Uma Honra",
+        "url": "https://open.spotify.com/album/4IItVJeLdLmppzqHqymA94"
+      },
+      "artists": [
+        {
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        }
+      ],
+      "duration_ms": 296058,
+      "name": "\u00c9 Mais Que Uma Honra",
+      "url": "https://open.spotify.com/track/0FleYfjQOtce0GXPq1CJPI"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Deixa Esse Medo",
         "url": "https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 125890,
       "name": "Deixa Esse Medo",
       "url": "https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Tudo em Mim",
-        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Tudo em Mim",
-      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 262019,
       "name": "Reconstituir",
       "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Tudo em Mim",
+        "url": "https://open.spotify.com/album/2Xzp0ZlJZXb3n7OWVFTvrj"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Tudo em Mim",
+      "url": "https://open.spotify.com/track/3OKmHJqGnGVCfA4BFoQXKw"
     },
     {
       "added_at": "2025-12-15 18:47:45",

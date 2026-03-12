@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-97 songs - 4 hr 56 min
+98 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Spacedrift](https://open.spotify.com/track/5AcyS8n7riLQhPK1xBGS7c) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#1](https://open.spotify.com/album/5SHaxd7oNOl4mHnv4dp1Ko) | 2:54 | 2024-06-24 |  |
 | [Summertime](https://open.spotify.com/track/79MSVviX2SqqLS6murFaYB) | [tape joe](https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Summertime](https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq) | 3:35 | 2024-06-24 |  |
 | [Sunny Side](https://open.spotify.com/track/50IYpgJ4swioyNFfti9M6l) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [Sunny Side](https://open.spotify.com/album/3qhjESGg47HWA4vcRdS8TZ) | 1:58 | 2024-06-24 |  |
+| [Sunset](https://open.spotify.com/track/1m6F75WGkBn4bXP8gLzui8) | [Scientific](https://open.spotify.com/artist/3e8OpWlbKBsKycsOzmoek1) | [Collateral / Sunset](https://open.spotify.com/album/2EJVPFHib2E8BFgvKMTfCm) | 2:32 | 2026-03-05 |  |
 | [Teekup](https://open.spotify.com/track/5YMXPKKjCo20suhXxBAhzh) | [The Jazzual Suspects](https://open.spotify.com/artist/7KH5fBS44kdTebdgzspYtJ) | [Teekup](https://open.spotify.com/album/5UKLOWUIr7WXBmKHuq10yb) | 3:00 | 2024-06-24 |  |
 | [tenacity](https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [tenacity](https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx) | 2:00 | 2024-06-24 |  |
 | [The Honeydipper \- Bonus Instrumental](https://open.spotify.com/track/0RtfemNYgGzKUESWJjayOR) | [Retrogott](https://open.spotify.com/artist/5tVBk9HCvx9dELxzEgQ2ll) | [Glasklar](https://open.spotify.com/album/1o2Hq0jhbHgZ369iorIKTb) | 2:49 | 2024-06-26 |  |

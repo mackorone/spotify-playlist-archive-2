@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 469968,
+  "num_followers": 470050,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABIpOudftAJLE7pKkqoh6OR",
+  "snapshot_id": "aa9fAAAAAABxL7suuvjmRT+tfiEkG3Qw",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Gracias Por Que Volviste",
+      "url": "https://open.spotify.com/track/2FtixLUEMUI7eT5Zc02s7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soy As\u00ed",
         "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 156573,
       "name": "La Tambora Va A Sonar",
       "url": "https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Gracias Por Que Volviste",
-      "url": "https://open.spotify.com/track/2FtixLUEMUI7eT5Zc02s7B"
     },
     {
       "added_at": null,

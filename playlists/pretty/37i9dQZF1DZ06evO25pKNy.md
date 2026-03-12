@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,078 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,081 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 12 | [Loco Malandro](https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:41 |
 | 13 | [Niveles](https://open.spotify.com/track/3jPympWdTjXK59qcJ83kpZ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Niveles](https://open.spotify.com/album/4t4tkSCl2kGVNuX5funZSM) | 2:31 |
 | 14 | [La Gente Del Chapo](https://open.spotify.com/track/4LvDq1k3v2sZc8LrZIet0Y) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 3:02 |
-| 15 | [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 |
-| 16 | [Cabezones Azules](https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Cabezones Azules](https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9) | 3:36 |
+| 15 | [Cabezones Azules](https://open.spotify.com/track/05y6GAASJNXAOAyk4dZVKQ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Cabezones Azules](https://open.spotify.com/album/1Lkokal6RcHYzxDfqMrPY9) | 3:36 |
+| 16 | [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 |
 | 17 | [El Tuna](https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 3:33 |
 | 18 | [La Querian Facil](https://open.spotify.com/track/0CGpWyDPr89T453kMb638E) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:39 |
 | 19 | [CHALINOFEST](https://open.spotify.com/track/3Kds2AGOb00EjxKUDczMYT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Desde La 48](https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD) | 2:29 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 32 | [El Cimarron](https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:36 |
 | 33 | [Carta A Mi Familia](https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:51 |
 | 34 | [Willy Checks](https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:07 |
-| 35 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
-| 36 | [De Botas O Gabanas](https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [De Botas O Gabanas](https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp) | 2:50 |
+| 35 | [De Botas O Gabanas](https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [De Botas O Gabanas](https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp) | 2:50 |
+| 36 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
 | 37 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 |
 | 38 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 |
 | 39 | [Mujer Paseada \- En Vivo](https://open.spotify.com/track/6d7s3sqE0cOR1oUdbxPrhS) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 45 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:46 |
 | 46 | [Le Pegue a lo Grande](https://open.spotify.com/track/0JMNj5ZXQK74Nyfq05O88Y) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:57 |
 | 47 | [Aqui Nada Me Va Mal](https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Aqui Nada Me Va Mal](https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb) | 2:58 |
-| 48 | [Recordando Al Chavalon](https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Recordando Al Chavalon](https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8) | 2:12 |
-| 49 | [Recordando La Sierra](https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:02 |
+| 48 | [Recordando La Sierra](https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 3:02 |
+| 49 | [Recordando Al Chavalon](https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Recordando Al Chavalon](https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8) | 2:12 |
 | 50 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 |
 
-Snapshot ID: `aa4NgAAAAAByyQybqr0L+/X+dhThtk6t`
+Snapshot ID: `aa9fAAAAAACjazNmDqYfy3+IUxSMHkHE`

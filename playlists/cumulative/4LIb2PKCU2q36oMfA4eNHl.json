@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Collision",
+        "url": "https://open.spotify.com/album/5Q2zeIAQ17oQZX6W1GGLNJ"
+      },
+      "artists": [
+        {
+          "name": "Ben Norderfeld",
+          "url": "https://open.spotify.com/artist/0vGgrRut9ZEFgqpXqftwiS"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Collision",
+      "url": "https://open.spotify.com/track/10MTjI1jCroheeUquehvj0"
+    },
+    {
+      "album": {
         "name": "Come Apart",
         "url": "https://open.spotify.com/album/3Hp1mcpihhbhcCiT1kGS2j"
       },
@@ -5794,7 +5812,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 195044,
       "name": "RITUAL (nothing is lost)",
       "url": "https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN"

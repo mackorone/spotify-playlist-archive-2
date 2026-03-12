@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 137130,
+  "num_followers": 137122,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Xoxo",
-        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Mora",
-          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "360 al Mundo",
-      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Mi Coraz\u00f3n y Yo",
         "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 178665,
       "name": "Mi Coraz\u00f3n y Yo",
       "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Xoxo",
+        "url": "https://open.spotify.com/album/6ELJsqVkUsw9k8341j22u8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "360 al Mundo",
+      "url": "https://open.spotify.com/track/4jZysO9Cyydag0oBsGgPCc"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Lo Que Siento",
-        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
-      },
-      "artists": [
-        {
-          "name": "Clara Yolks",
-          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "El After",
-      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Lo Que Siento",
+        "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
+      },
+      "artists": [
+        {
+          "name": "Clara Yolks",
+          "url": "https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59"
+        }
+      ],
+      "duration_ms": 199672,
+      "name": "El After",
+      "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -963,6 +963,26 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Hoy Dej\u00e9 De Llorar",
+        "url": "https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D"
+      },
+      "artists": [
+        {
+          "name": "Sonia Z",
+          "url": "https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh"
+        },
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Hoy Dej\u00e9 De Llorar",
+      "url": "https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Todo Va A Cambiar",
         "url": "https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 187786,
       "name": "No hay m\u00e1s tiempo",
       "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Hoy Dej\u00e9 De Llorar",
-        "url": "https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D"
-      },
-      "artists": [
-        {
-          "name": "Sonia Z",
-          "url": "https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh"
-        },
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Hoy Dej\u00e9 De Llorar",
-      "url": "https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 187105,
+      "name": "Salvaje y tierno",
+      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 147198,
       "name": "Tu Vereda",
       "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Al calor de un sol que acaba de morir",
-        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 187105,
-      "name": "Salvaje y tierno",
-      "url": "https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "llorando en la luna",
-        "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        }
-      ],
-      "duration_ms": 177265,
-      "name": "llorando en la luna",
-      "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Y vos dec\u00eds que me gust\u00e1s",
         "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "llorando en la luna",
+        "url": "https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "duration_ms": 177265,
+      "name": "llorando en la luna",
+      "url": "https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO"
     },
     {
       "added_at": "2025-07-17 22:42:38",

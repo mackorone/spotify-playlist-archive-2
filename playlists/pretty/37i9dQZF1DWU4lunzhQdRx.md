@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 
 > what if the missing you don't ever go away?
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,100 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,158 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,18 +33,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 23 | [More Hearts Than Mine](https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:34 |
 | 24 | [Vice](https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:00 |
 | 25 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 |
-| 26 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
-| 27 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 |
+| 26 | [Stay](https://open.spotify.com/track/0jn2XqaHliEpWd04ZykIHy) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [Enjoy The Ride](https://open.spotify.com/album/6CtZVmlfVS5SSUBHnjgFKG) | 4:44 |
+| 27 | [Back To December](https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 4:53 |
 | 28 | [Loom](https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 2:43 |
 | 29 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
 | 30 | [I Only Miss You \(feat\. Ed Sheeran\)](https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 4:05 |
-| 31 | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB) | 9:58 |
-| 32 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
+| 31 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
+| 32 | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Too Well \(Sad Girl Autumn Version\) \- Recorded at Long Pond Studios](https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB) | 9:58 |
 | 33 | [Every Little Thing](https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:00 |
 | 34 | [Merry Go 'Round](https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:26 |
 | 35 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
-| 36 | [You’re Not Sorry \(Taylor’s Version\)](https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:21 |
-| 37 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
+| 36 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
+| 37 | [You’re Not Sorry \(Taylor’s Version\)](https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:21 |
 | 38 | [Wasting All These Tears](https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Frame By Frame](https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn) | 3:35 |
 | 39 | [Everleave](https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [All I've Ever Known](https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE) | 4:05 |
 | 40 | [Penthouse](https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4lunzhQdRx.md) - [plain]
 | 49 | [Tin Man](https://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 4:19 |
 | 50 | [Never Wanted To Be That Girl](https://open.spotify.com/track/7yRJMLG9ja0fBVVEmV6vcT) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:34 |
 
-Snapshot ID: `AAAAAHQFeQ0e8+MIQ0GXTTD6ChcAFD2+`
+Snapshot ID: `AAAAAAgo9CbnldYc/f6LMeuI8acf0JtX`

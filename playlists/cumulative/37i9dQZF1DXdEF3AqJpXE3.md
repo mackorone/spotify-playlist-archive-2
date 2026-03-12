@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: Bruno Mars
 
-617 songs - 1 day 9 hr 44 min
+619 songs - 1 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-04 | 2025-06-12 |
 | [b.o.m.b.](https://open.spotify.com/track/0D1MNTrIZM6rHZbENgL8ZS) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [b.o.m.b.](https://open.spotify.com/album/5kxSD8iP2rpaZU2LGosAuX) | 2:46 | 2024-09-04 | 2024-10-03 |
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-28 | 2025-01-23 |
-| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-26 |  |
+| [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-26 | 2026-03-12 |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-11 | 2025-07-03 |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2024-01-17 | 2024-02-15 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-06-04 | 2024-06-20 |
@@ -140,7 +140,7 @@
 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-24 | 2024-08-22 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-28 | 2024-06-01 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-06-11 | 2025-07-17 |
-| [Eclipse](https://open.spotify.com/track/29J9ZL6bj20BOvJJsjrBE2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Eclipse](https://open.spotify.com/album/3dMBBRvltr8Z1KBzQcJuQS) | 3:56 | 2026-01-28 |  |
+| [Eclipse](https://open.spotify.com/track/29J9ZL6bj20BOvJJsjrBE2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Eclipse](https://open.spotify.com/album/3dMBBRvltr8Z1KBzQcJuQS) | 3:56 | 2026-01-28 | 2026-03-12 |
 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 | 2025-10-22 | 2025-11-27 |
 | [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-08 | 2026-01-01 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-06 |  |
@@ -231,7 +231,7 @@
 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 | 2024-02-07 | 2024-02-29 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-22 | 2024-07-25 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-06 | 2024-03-28 |
-| [I JUST CUT MY HAIR](https://open.spotify.com/track/7yMcMhsYvn5myVD2EizWuJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [I JUST CUT MY HAIR](https://open.spotify.com/album/1sHxTj50ol2j3XZFErvFpW) | 2:33 | 2026-01-28 |  |
+| [I JUST CUT MY HAIR](https://open.spotify.com/track/7yMcMhsYvn5myVD2EizWuJ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [I JUST CUT MY HAIR](https://open.spotify.com/album/1sHxTj50ol2j3XZFErvFpW) | 2:33 | 2026-01-28 | 2026-03-12 |
 | [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-14 |  |
 | [i like that you like it](https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [i like that you like it](https://open.spotify.com/album/7cloAjZG5UTmzXoS3Q9xD9) | 3:00 | 2024-08-07 | 2024-09-05 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-04-03 | 2024-06-01 |
@@ -340,6 +340,7 @@
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2024-11-13 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-07-03 | 2024-08-08 |
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2024-11-20 | 2024-12-04 |
+| [No One Can](https://open.spotify.com/track/5HEKj8vmOnF51YvQTYaqGP) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [No One Can](https://open.spotify.com/album/1JhZcvJzYtJvOsyaiOeS5w) | 2:36 | 2026-03-11 |  |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-10-23 | 2025-03-13 |
 | [Noid](https://open.spotify.com/track/1YdtGoSYDvVQKoUqSDXX41) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:44 | 2024-10-30 | 2024-11-28 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2024-01-17 | 2024-01-25 |
@@ -560,6 +561,7 @@
 | [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-12-03 | 2026-03-05 |
 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 | 2024-06-19 | 2024-07-11 |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-30 | 2024-11-13 |
+| [下一個你](https://open.spotify.com/track/5UJPhXmu7vQktcpuXJVmRX) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [下一個你](https://open.spotify.com/album/4Lc1Rq7CNluXxdivSPxyuQ) | 4:25 | 2026-03-11 |  |
 | [不喜欢就请直说](https://open.spotify.com/track/3943CDU79LzTLoWj81Rjwe) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [不喜欢就请直说](https://open.spotify.com/album/0BazLddjUePVnQqhKULEVN) | 3:17 | 2024-08-28 | 2024-09-19 |
 | [也許是我寫給你的最後一首歌](https://open.spotify.com/track/3KIW75aUkooLJBLa6ah5y1) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 5:35 | 2025-12-24 |  |
 | [人的這一生](https://open.spotify.com/track/2Jox8DFhnUpJZJWLsVAsAR) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人的這一生](https://open.spotify.com/album/15Am8vPv9e0A4z4QzvdmlH) | 4:42 | 2026-02-26 |  |

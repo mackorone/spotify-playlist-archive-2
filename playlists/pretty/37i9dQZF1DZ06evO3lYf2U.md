@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 > This is Central Cee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,750 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,820 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 10 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/70TGNwQDvF5b6GQWlYPr8p) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:20 |
 | 11 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/2BNcawEW0KlzLW9DeHzXZJ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Y2K!](https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH) | 1:58 |
 | 12 | [Obsessed With You](https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 1:48 |
-| 13 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
+| 13 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 | 14 | [Truth In The Lies \(feat\. Lil Durk\)](https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:22 |
-| 15 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
+| 15 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 |
 | 16 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/178n1tTLTmsIyxBTQdcAJM) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE \(DELUXE\)](https://open.spotify.com/album/0tbWPYGZ1f6vnOEP1ZxaGI) | 2:40 |
 | 17 | [UK Rap](https://open.spotify.com/track/5d01AUplB1QOZY3kPrAuot) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH) | 3:18 |
 | 18 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:34 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 24 | [Wave](https://open.spotify.com/track/7i4m8FybgjufzfvhO7gAKf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:25 |
 | 25 | [Commitment Issues](https://open.spotify.com/track/0UCKUJU94sx8XBQnaNsRkB) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:30 |
 | 26 | [Now We're Strangers](https://open.spotify.com/track/4ys3y9djWZurOdyouMlcBG) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:26 |
-| 27 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
-| 28 | [Ungrateful](https://open.spotify.com/track/1fBaPpiFIepmaMkJqHcPBh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:53 |
+| 27 | [Ungrateful](https://open.spotify.com/track/1fBaPpiFIepmaMkJqHcPBh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 2:53 |
+| 28 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
 | 29 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
 | 30 | [LA Leakers Freestyle](https://open.spotify.com/track/5gpyyqA9WZyWu24ESUzrkk) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LA Leakers Freestyle](https://open.spotify.com/album/5BdTpc5WQMyt0qBuJ5mDCH) | 2:58 |
 | 31 | [One Up](https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One Up](https://open.spotify.com/album/51A9bnCs9oq6vjFZIDza97) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 49 | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/track/1JeLx7sGn3LzHLwCzd6swY) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy) | [Daily Duppy \(feat\. GRM Daily\)](https://open.spotify.com/album/1FBhWfdHQnqphA5Dk1KFhx) | 4:38 |
 | 50 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 
-Snapshot ID: `aa4NgAAAAABb0KSbqomK7hyMBwzfQ3UI`
+Snapshot ID: `aa9fAAAAAAC4dZN1zJG0qtt3WNNrugM6`

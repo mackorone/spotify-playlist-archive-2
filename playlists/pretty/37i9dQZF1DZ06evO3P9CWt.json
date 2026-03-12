@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 280238,
+  "num_followers": 280242,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACIdjkdgTlDZVU7pI6RxKd6",
+  "snapshot_id": "aa9fAAAAAAD1PG1TW/h7yI8kFMLQtsSI",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 206736,
+      "name": "Pra Te Esquecer",
+      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quem Manda em Mim",
         "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
@@ -691,42 +723,6 @@
       "duration_ms": 192000,
       "name": "Quem Manda em Mim",
       "url": "https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7taQQZWIVcnHK6spr9N21l"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Taty Girl",
-          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
-        }
-      ],
-      "duration_ms": 157492,
-      "name": "Falta Coragem",
-      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
       "added_at": null,
@@ -782,11 +778,15 @@
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Taty Girl",
+          "url": "https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE"
         }
       ],
-      "duration_ms": 206736,
-      "name": "Pra Te Esquecer",
-      "url": "https://open.spotify.com/track/7FRNVA4gViHQxSo1hUqlqD"
+      "duration_ms": 157492,
+      "name": "Falta Coragem",
+      "url": "https://open.spotify.com/track/2Ai0zPyvWl5BWpdv5YVguy"
     },
     {
       "added_at": null,
@@ -967,30 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-        "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
-        },
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
-      "url": "https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
       },
@@ -1031,6 +1007,22 @@
       "duration_ms": 231573,
       "name": "I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 137422,
+      "name": "Buzina",
+      "url": "https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

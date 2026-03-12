@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 106719,
+  "num_followers": 106737,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        }
-      ],
-      "duration_ms": 250700,
-      "name": "Slapend Rijk",
-      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Vakantie",
         "url": "https://open.spotify.com/album/2BXnoTFrD8mbIwYHyzZl4f"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 165077,
       "name": "Vakantie (with Jonna Fraser)",
       "url": "https://open.spotify.com/track/2sE0IOF0pCl7hd4pi5QpgI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        }
+      ],
+      "duration_ms": 250700,
+      "name": "Slapend Rijk",
+      "url": "https://open.spotify.com/track/3QW4Z0otVIQEPWxP7K4v3M"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -567,38 +567,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Lituatie",
-        "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
-      },
-      "artists": [
-        {
-          "name": "GLOWINTHEDARK",
-          "url": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
-        },
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Philly Mor\u00e9",
-          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
-        }
-      ],
-      "duration_ms": 164900,
-      "name": "Dansen Op Labanta",
-      "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Overal (feat. DJ Youss-F)",
         "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 137595,
       "name": "Co\u00f1o",
       "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Lituatie",
+        "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
+      },
+      "artists": [
+        {
+          "name": "GLOWINTHEDARK",
+          "url": "https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P"
+        },
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Philly Mor\u00e9",
+          "url": "https://open.spotify.com/artist/3GL6hDzc8ltMMIl6gOTWIT"
+        }
+      ],
+      "duration_ms": 164900,
+      "name": "Dansen Op Labanta",
+      "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Omlaag",
         "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 196958,
       "name": "Omlaag",
       "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1715,34 +1715,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Spiritual",
-        "url": "https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR"
-      },
-      "artists": [
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
-        },
-        {
-          "name": "ADF Samski",
-          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 176366,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Nachtwacht",
         "url": "https://open.spotify.com/album/0ZakSoY5lCsL5vBf1LFlJw"
       },
@@ -1771,6 +1743,34 @@
       "duration_ms": 240000,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/3TUafDwB2Oygi8lyZlLyQt"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/764ROddbOz7lLkKLexbdKR"
+      },
+      "artists": [
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 176366,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/4PSltAygj37fHdUccvL1x5"
     },
     {
       "added_at": "2024-07-19 06:38:33",

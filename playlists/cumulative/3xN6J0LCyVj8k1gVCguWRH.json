@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "612 (You)",
+        "url": "https://open.spotify.com/album/1OYGTzypt3rmIDZiKAd9sW"
+      },
+      "artists": [
+        {
+          "name": "Christian James",
+          "url": "https://open.spotify.com/artist/2cl5NOs4eJ5SKfjweJlHMB"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "612 (You)",
+      "url": "https://open.spotify.com/track/7kLUIR4LDO8dqwLUtSY6Nq"
+    },
+    {
+      "album": {
         "name": "647am",
         "url": "https://open.spotify.com/album/1fd8mEPHbKAEE93wZA7xBI"
       },
@@ -1834,6 +1852,24 @@
       "duration_ms": 318840,
       "name": "A Little Bit Of Honey",
       "url": "https://open.spotify.com/track/6EVHVCQ5bGyjh0MedmOBLK"
+    },
+    {
+      "album": {
+        "name": "badsoma",
+        "url": "https://open.spotify.com/album/6N3pTCMiH6UvGIhlD8TIFx"
+      },
+      "artists": [
+        {
+          "name": "badsoma",
+          "url": "https://open.spotify.com/artist/449mtrP6n550JPy5IA1Utw"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228235,
+      "name": "A Little Goes",
+      "url": "https://open.spotify.com/track/0z2TF4K4MWm478W1ug1cly"
     },
     {
       "album": {
@@ -18798,7 +18834,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 158500,
       "name": "Come Home",
       "url": "https://open.spotify.com/track/2VYt1eQeEKo31TP5nnD9wJ"
@@ -68003,6 +68039,24 @@
     },
     {
       "album": {
+        "name": "NOTICE ME",
+        "url": "https://open.spotify.com/album/3hGyYm4u39ngjmqiYwrrQn"
+      },
+      "artists": [
+        {
+          "name": "Midnight Pool Party",
+          "url": "https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "NOTICE ME",
+      "url": "https://open.spotify.com/track/6ALbNifQeeU2oGTcDX1JJU"
+    },
+    {
+      "album": {
         "name": "November",
         "url": "https://open.spotify.com/album/0Lp1ZNJG8yErE0JWA0R3wC"
       },
@@ -83644,6 +83698,24 @@
       "duration_ms": 205560,
       "name": "Showing Off",
       "url": "https://open.spotify.com/track/5baDKmhhPVbR0tg2s16eMX"
+    },
+    {
+      "album": {
+        "name": "Delay Not Denial (Dnd)",
+        "url": "https://open.spotify.com/album/3SWIexJTmbvlQ2upN6HtC3"
+      },
+      "artists": [
+        {
+          "name": "Euroboy542",
+          "url": "https://open.spotify.com/artist/1MfnWq0buNuzWpglq1ce1l"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197120,
+      "name": "Shrine",
+      "url": "https://open.spotify.com/track/1EDxIpVRnmw6nrZhNGYTKa"
     },
     {
       "album": {
@@ -107628,6 +107700,24 @@
       "duration_ms": 165728,
       "name": "Wonderland Avenue",
       "url": "https://open.spotify.com/track/3iTsRPyevKbm6Z2LRcEfTN"
+    },
+    {
+      "album": {
+        "name": "Wonderwall",
+        "url": "https://open.spotify.com/album/2miIToQQauGKjEhC2wvUcb"
+      },
+      "artists": [
+        {
+          "name": "Light the Moon",
+          "url": "https://open.spotify.com/artist/7MiUN4JGt2HIdyaszsLyJb"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263625,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/24l3llN4ZzR79PbObe0Zf1"
     },
     {
       "album": {

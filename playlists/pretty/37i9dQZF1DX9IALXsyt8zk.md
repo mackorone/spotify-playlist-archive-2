@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: BOYNEXTDOOR\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,463 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,459 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [F Girl](https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [F Girl](https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP) | 2:33 |
 | 50 | [L.O.V.E \(Romantic\)](https://open.spotify.com/track/444IU436DVhrz6HJlPv4C4) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [L.O.V.E \(Romantic\)\) \(Villain With A Crush X SAY MY NAME\) \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/2EQVBowFogB13LDXv5UdlU) | 2:44 |
 
-Snapshot ID: `AAAAAKlwelykcfdXq9qT51Gn4LO17eyH`
+Snapshot ID: `AAAAAF4cvMS7X92CXXLAlrGVx7s/6jIc`

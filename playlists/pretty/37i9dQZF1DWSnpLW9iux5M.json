@@ -1,6 +1,6 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists. Cover: Jonathan McReynolds",
-  "num_followers": 71995,
+  "num_followers": 71991,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
@@ -171,26 +171,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "O Come, O Come Emmanuel",
-        "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
-        {
-          "name": "iAmSon",
-          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "O Come, O Come Emmanuel",
-      "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 412278,
       "name": "Go Tell It on the Mountain (feat. Melvin Crispell III, Chandler Moore & Mav City Gospel Choir)",
       "url": "https://open.spotify.com/track/39vrg74sgzrd8fSX94e5RM"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "O Come, O Come Emmanuel",
+        "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "iAmSon",
+          "url": "https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "O Come, O Come Emmanuel",
+      "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
+        "name": "Christmas Time Has Come",
+        "url": "https://open.spotify.com/album/3VuMd0LgmyZAt5h5pQeF2V"
+      },
+      "artists": [
+        {
+          "name": "SSTEDI",
+          "url": "https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK"
+        }
+      ],
+      "duration_ms": 191573,
+      "name": "Christmas Time Has Come",
+      "url": "https://open.spotify.com/track/0JDniarTARP2tibPvHenUH"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 247160,
       "name": "It Came Upon a Midnight Clear",
       "url": "https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
-        "name": "Christmas Time Has Come",
-        "url": "https://open.spotify.com/album/3VuMd0LgmyZAt5h5pQeF2V"
-      },
-      "artists": [
-        {
-          "name": "SSTEDI",
-          "url": "https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK"
-        }
-      ],
-      "duration_ms": 191573,
-      "name": "Christmas Time Has Come",
-      "url": "https://open.spotify.com/track/0JDniarTARP2tibPvHenUH"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Christmas, Vol. 3 (Live)",
-        "url": "https://open.spotify.com/album/1KthDJFWWfpeTJikiGEWx1"
-      },
-      "artists": [
-        {
-          "name": "Eagle Brook Music",
-          "url": "https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Joy To The World (Joyful, Joyful) - Live",
-      "url": "https://open.spotify.com/track/4qZjVjExSGSlOIeOZaj03i"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Family Christmas",
         "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 167266,
       "name": "Oh Come Emmanuel",
       "url": "https://open.spotify.com/track/2M4bPMboF6KmA4paixqo0I"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "Christmas, Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/1KthDJFWWfpeTJikiGEWx1"
+      },
+      "artists": [
+        {
+          "name": "Eagle Brook Music",
+          "url": "https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Joy To The World (Joyful, Joyful) - Live",
+      "url": "https://open.spotify.com/track/4qZjVjExSGSlOIeOZaj03i"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/1TAkhyJqzmZGczP4YUMMoH"
-      },
-      "artists": [
-        {
-          "name": "RED Hands",
-          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/0lbBC5zuP0NgMwfuNGzoLv"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Fred Hammond Christmas... Just Remember",
         "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 272466,
       "name": "His Name Is Jesus",
       "url": "https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/1TAkhyJqzmZGczP4YUMMoH"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/0lbBC5zuP0NgMwfuNGzoLv"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "For Unto Us (A Child Is Born)",
-      "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Christmas Card",
         "url": "https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 240026,
       "name": "Home for Christmas (feat. Joe) (feat. Joe)",
       "url": "https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "For Unto Us (A Child Is Born)",
+      "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Photos",
-        "url": "https://open.spotify.com/album/68lVUiaLs5n9AMHOHgz5W5"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        }
-      ],
-      "duration_ms": 150518,
-      "name": "Photos",
-      "url": "https://open.spotify.com/track/0xnr1ftG93t3SAy3b6ubeJ"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "Photos",
+        "url": "https://open.spotify.com/album/68lVUiaLs5n9AMHOHgz5W5"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        }
+      ],
+      "duration_ms": 150518,
+      "name": "Photos",
+      "url": "https://open.spotify.com/track/0xnr1ftG93t3SAy3b6ubeJ"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Roses in December",
-        "url": "https://open.spotify.com/album/2lPVyX24o1lDMysxnaXUmJ"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Roses in December",
-      "url": "https://open.spotify.com/track/3QZYZWP9qErMlBfyeRXiCU"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Joy to the World",
         "url": "https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM"
       },
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
+        "name": "Roses in December",
+        "url": "https://open.spotify.com/album/2lPVyX24o1lDMysxnaXUmJ"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Roses in December",
+      "url": "https://open.spotify.com/track/3QZYZWP9qErMlBfyeRXiCU"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
         "name": "Christmas at Home with Juanita Bynum",
         "url": "https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN"
       },
@@ -1707,22 +1707,6 @@
       "duration_ms": 303853,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
-        "name": "This Christmas Live",
-        "url": "https://open.spotify.com/album/3OJ0sHFz461MWifO2LFkvN"
-      },
-      "artists": [
-        {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
-        }
-      ],
-      "duration_ms": 183917,
-      "name": "This Christmas Live",
-      "url": "https://open.spotify.com/track/5LmVA12cXHnJpUGi4ky6cz"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "A Motown Gospel Christmas",
-        "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
+        "name": "This Christmas Live",
+        "url": "https://open.spotify.com/album/3OJ0sHFz461MWifO2LFkvN"
       },
       "artists": [
         {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 280533,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR"
+      "duration_ms": 183917,
+      "name": "This Christmas Live",
+      "url": "https://open.spotify.com/track/5LmVA12cXHnJpUGi4ky6cz"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1775,6 +1759,22 @@
       "duration_ms": 340800,
       "name": "Glory To The Lamb",
       "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "A Motown Gospel Christmas",
+        "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "duration_ms": 280533,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Family Christmas",
-        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "I'm So Glad It's Christmas",
         "url": "https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 219706,
       "name": "I'm So Glad It's Christmas",
       "url": "https://open.spotify.com/track/3ooBBNfyGhJcctJuEvwQuF"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -2103,38 +2103,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Family Christmas",
-        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "Hark The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/4Zgd9TerFAB6delKBFITmX"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
-        "name": "A Motown Gospel Christmas",
-        "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
-      },
-      "artists": [
-        {
-          "name": "Brian Courtney Wilson",
-          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
-        }
-      ],
-      "duration_ms": 275093,
-      "name": "Give Me A Star",
-      "url": "https://open.spotify.com/track/2vbCMcecSWwccm1ojWKOaZ"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Praise Your Name",
         "url": "https://open.spotify.com/album/0Jf5B7Jjlq6f2UmQgzjHOh"
       },
@@ -2191,6 +2159,38 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "Hark The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4Zgd9TerFAB6delKBFITmX"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "A Motown Gospel Christmas",
+        "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        }
+      ],
+      "duration_ms": 275093,
+      "name": "Give Me A Star",
+      "url": "https://open.spotify.com/track/2vbCMcecSWwccm1ojWKOaZ"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
         "name": "Presents The Family, No Christmas Without You",
         "url": "https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6"
       },
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "Black Nativity: A Gospel Christmas Musical Experience",
-        "url": "https://open.spotify.com/album/0YNDjOd9X8zQatXKeBxH2X"
-      },
-      "artists": [
-        {
-          "name": "Q Parker",
-          "url": "https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "What Child Is This",
-      "url": "https://open.spotify.com/track/3lcGSSpKMK42flmisBIgwC"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 235100,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "Black Nativity: A Gospel Christmas Musical Experience",
+        "url": "https://open.spotify.com/album/0YNDjOd9X8zQatXKeBxH2X"
+      },
+      "artists": [
+        {
+          "name": "Q Parker",
+          "url": "https://open.spotify.com/artist/0uqnxM3Rns1qIVpZheidd4"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/3lcGSSpKMK42flmisBIgwC"
     },
     {
       "added_at": "2025-12-12 06:45:41",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2025-12-12 06:45:41",
       "album": {
-        "name": "My Christmas Prayer",
-        "url": "https://open.spotify.com/album/24QzSoc6Pw3RoPVhyDqyBL"
-      },
-      "artists": [
-        {
-          "name": "Bebe Winans",
-          "url": "https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Yes It's Christmas",
-      "url": "https://open.spotify.com/track/3T8eTfnvbDKKfCKaN3TsOF"
-    },
-    {
-      "added_at": "2025-12-12 06:45:41",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/0ASaO0DREGZATv0CoQlxAc"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 251240,
       "name": "Go Tell It On the Mountain",
       "url": "https://open.spotify.com/track/3bizf9qXDaLmDdhIVcTsVs"
+    },
+    {
+      "added_at": "2025-12-12 06:45:41",
+      "album": {
+        "name": "My Christmas Prayer",
+        "url": "https://open.spotify.com/album/24QzSoc6Pw3RoPVhyDqyBL"
+      },
+      "artists": [
+        {
+          "name": "Bebe Winans",
+          "url": "https://open.spotify.com/artist/6D9xBdOOyGHqOam9OShAWl"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Yes It's Christmas",
+      "url": "https://open.spotify.com/track/3T8eTfnvbDKKfCKaN3TsOF"
     },
     {
       "added_at": "2025-12-12 06:45:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > The country that made country cool\. Cover: George Strait
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,164,343 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,164,860 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 47 | [Lesson In Leavin'](https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:39 |
 | 48 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
 | 49 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
-| 50 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
-| 51 | [Gone Country](https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 4:20 |
+| 50 | [Gone Country](https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Who I Am](https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39) | 4:20 |
+| 51 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 52 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 |
 | 53 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
 | 54 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 69 | [I'm From The Country \- Single Version](https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [I'm From The Country](https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS) | 3:33 |
 | 70 | [Sticks and Stones](https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Sticks and Stones](https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq) | 3:38 |
 | 71 | [That Ain't My Truck](https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR) | [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [A Thousand Memories](https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb) | 4:03 |
-| 72 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 |
-| 73 | [Bubba Shot The Jukebox](https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Longnecks & Short Stories](https://open.spotify.com/album/3GAq1vI6aQ5gZu53e8DZFy) | 3:05 |
+| 72 | [Bubba Shot The Jukebox](https://open.spotify.com/track/0PsBdKWnOQGMo9smobflvy) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Longnecks & Short Stories](https://open.spotify.com/album/3GAq1vI6aQ5gZu53e8DZFy) | 3:05 |
+| 73 | [Take It Easy \- 2006 Remaster](https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Very Best of Travis Tritt](https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx) | 3:33 |
 | 74 | [She's Got It All](https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [I Will Stand](https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO) | 3:25 |
 | 75 | [The Way You Love Me](https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 3:06 |
 | 76 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 81 | [Blame It on Your Heart](https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Only What I Feel](https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB) | 3:33 |
 | 82 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
 | 83 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
-| 84 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
-| 85 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
+| 84 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
+| 85 | [Go Rest High On That Mountain](https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 5:15 |
 | 86 | [Chasin' That Neon Rainbow](https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Here In The Real World](https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e) | 3:05 |
 | 87 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
 | 88 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |

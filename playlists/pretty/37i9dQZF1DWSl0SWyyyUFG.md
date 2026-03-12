@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. COSME TADEO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,963 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,240 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 33 | [Un indio quiere llorar](https://open.spotify.com/track/4cnm9F3YGOW6ydiyo3LdrW) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:49 |
 | 34 | [Un Rinconcito en el Cielo](https://open.spotify.com/track/7wLxUIRidKDDIOBmq0TSyl) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Homenaje A Ramon Ayala](https://open.spotify.com/album/3Duc8M0fBz1UT53deyiec4) | 3:35 |
 | 35 | [Romántico incurable](https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:43 |
-| 36 | [Ojos Negros](https://open.spotify.com/track/438LdN72OnqCv46ZzHtcwC) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:32 |
-| 37 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
+| 36 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
+| 37 | [Ojos Negros](https://open.spotify.com/track/438LdN72OnqCv46ZzHtcwC) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:32 |
 | 38 | [Que Solo Estoy Sin Ti](https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Parranda Con La Banda](https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq) | 3:39 |
 | 39 | [La culebra](https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 3:08 |
 | 40 | [Como Este Loco](https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Como Este Loco](https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f) | 3:41 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 50 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
 | 51 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
 | 52 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 |
-| 53 | [A Gozar](https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 4:36 |
-| 54 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
+| 53 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
+| 54 | [A Gozar](https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 4:36 |
 | 55 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:51 |
 | 56 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 57 | [Solo Tú](https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:41 |
-| 58 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 3:55 |
-| 59 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
+| 58 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
+| 59 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 3:55 |
 | 60 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
 | 61 | [Las mujeres quieren bailar](https://open.spotify.com/track/5wJOv7x0ObqV024IhCruVF) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [A Mover el Guayin](https://open.spotify.com/album/7faetDuF4VoGbqlstgpjct) | 3:16 |
 | 62 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |

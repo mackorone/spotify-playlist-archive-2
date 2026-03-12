@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,343 songs - 2 day 23 hr 46 min
+1,344 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,7 @@
 | [I Just Wanna Dance](https://open.spotify.com/track/1LsoAswipJvPzdcSnoQ46C) | [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ) | [I Just Wanna Dance](https://open.spotify.com/album/31jRhjDJKyfBO9brqOgMrD) | 2:34 | 2021-03-27 | 2022-07-02 |
 | [I Just Wanna Dance](https://open.spotify.com/track/1E6eBDvEvVMz3PIUIkWs1y) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [I Just Wanna Dance](https://open.spotify.com/album/5qj8lJSGn2tNQUsDVEVMnK) | 2:57 | 2020-05-30 | 2022-01-03 |
 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 | 2025-04-04 |  |
-| [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 | 2025-10-24 |  |
+| [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 | 2025-10-24 | 2026-03-12 |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-05 | 2023-08-14 |
 | [I Love You \- CID Remix](https://open.spotify.com/track/5GrUWIm6FMdtqaLYTqW5yh) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [I Love You \(CID Remix\)](https://open.spotify.com/album/23cJBxx1WN89hFUkCu2xUl) | 2:36 | 2020-05-22\* | 2021-12-21 |
 | [I Need A Painkiller](https://open.spotify.com/track/6K43zu0UqLQSj3T6nNOeH5) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Butter Rush](https://open.spotify.com/artist/4qfT9FLvhtokwy0BGlEVQo) | [I Need A Painkiller \(Armand Van Helden Vs\. Butter Rush\)](https://open.spotify.com/album/0dTCxYvPkt9AbZ3oqHI2CJ) | 3:15 | 2020-05-22\* | 2020-09-06 |
@@ -611,6 +611,7 @@
 | [It's Quiet Now \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:02 | 2022-12-14 | 2023-01-23 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2024-04-05 | 2025-12-13 |
 | [It's That Time \- FISHER Remix](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [It's That Time \(FISHER Remix\)](https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2) | 2:51 | 2024-06-21 |  |
+| [I’ll Stand By You \(feat\. Blythe\)](https://open.spotify.com/track/0zwjijKrWJMpB8VNa0LTd0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 3:33 | 2026-03-06 |  |
 | [J'adore](https://open.spotify.com/track/0tlztRFDgCSnAbUxllcZJJ) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [A Butterfly In\-between Time](https://open.spotify.com/album/3yG67dwpot0imvZJ7nAXhv) | 4:12 | 2020-12-27 | 2021-05-28 |
 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 | 2023-06-05 | 2023-11-10 |
 | [Jack Machine](https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Jack Machine](https://open.spotify.com/album/3kVnyuakYWhlGwZHrmIBn3) | 3:07 | 2021-12-31 | 2022-04-20 |

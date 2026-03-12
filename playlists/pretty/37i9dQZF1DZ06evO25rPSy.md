@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,139 likes - 38 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,136 likes - 38 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 9 | [Alquien Que Bese Como Tu](https://open.spotify.com/track/3yX13QX2pqJP55Q0Tg8Pm5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 6:06 |
 | 10 | [Si Escuchas a un Angel](https://open.spotify.com/track/4OZN1r8FyvLXnaZhdZH4f6) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:01 |
 | 11 | [Te Siento de Sólo Pensar](https://open.spotify.com/track/2w1rwzelNTt9VKdh9tHGO5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:22 |
-| 12 | [Talk Show](https://open.spotify.com/track/44eOyzLMYOFF7v3Uv9Hcc9) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 5:54 |
+| 12 | [No Llores Más Morena](https://open.spotify.com/track/4SboPJcd0PeJ6afuTC72Wy) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 3:31 |
 | 13 | [Amor Yo Te Perdí La Fe](https://open.spotify.com/track/1kiJIuvxjENeBKNIkoOS3m) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [30 Grandes Canciones](https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I) | 2:53 |
 | 14 | [Me Elevé](https://open.spotify.com/track/6UCyJCjS5W8ta1LkQEzcbw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:40 |
 | 15 | [Sé Que Todo Ha Acabado Ya](https://open.spotify.com/track/2KmjzHrv8GUIqEJRydovEq) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:29 |
-| 16 | [No Llores Más Morena](https://open.spotify.com/track/4SboPJcd0PeJ6afuTC72Wy) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 3:31 |
+| 16 | [Talk Show](https://open.spotify.com/track/44eOyzLMYOFF7v3Uv9Hcc9) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 5:54 |
 | 17 | [Nadia \(feat\. Juan Diego Florez\)](https://open.spotify.com/track/556fzaLRJYGkUvLK8LQmQf) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:50 |
 | 18 | [No Llores Más](https://open.spotify.com/track/6b99570f9AyRpALqusGu05) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:55 |
 | 19 | [Sentimiento Increible](https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:29 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 37 | [Los Niños Se Enamoran](https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR) | 3:24 |
 | 38 | [Túnel del Tiempo](https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:16 |
 
-Snapshot ID: `aa4NgAAAAADXqsYljKaGEplkji7edBcI`
+Snapshot ID: `aa9fAAAAAACeva1BH5fVm0HPMhfVOAqH`

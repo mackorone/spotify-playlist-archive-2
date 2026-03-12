@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Typhoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,752 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,739 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 74551,
+  "num_followers": 74548,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADBPbFOTSs3UZHotBh0Z1AU",
+  "snapshot_id": "aa9fAAAAAADbI3DKIO828WpgutgDkZ6D",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 180585,
       "name": "Frenzy",
       "url": "https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God\u2019s Lonely Man",
-        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
-      },
-      "artists": [
-        {
-          "name": "Anna Calvi",
-          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 163120,
-      "name": "God's Lonely Man",
-      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
     },
     {
       "added_at": null,
@@ -127,6 +107,26 @@
       "duration_ms": 313925,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God\u2019s Lonely Man",
+        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "God's Lonely Man",
+      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frenchy",
         "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7gWHElHSGXdzBcMogudgzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 314186,
-      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "Everybody's Talkin'",
-      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "He's Frank (Slight Return)",
         "url": "https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 197013,
       "name": "He's Frank - Slight Return",
       "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Everybody's Talkin'",
+      "url": "https://open.spotify.com/track/5eSP5IqYqeMeIYoaTEs8yF"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
+      "duration_ms": 146598,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 146598,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/70ZlAJGfC4DesFw4oQ7YZM"
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome To Goran Bregovic",
-        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
@@ -707,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 433357,
-      "name": "Dum Dum Boys",
-      "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Preliminaires",
         "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
@@ -739,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 433357,
+      "name": "Dum Dum Boys",
+      "url": "https://open.spotify.com/track/4D2oxcrgtaRlzpGwUVSKkA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arista Heritage Series: Iggy Pop",
         "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 167560,
       "name": "I'm Bored",
       "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome To Goran Bregovic",
+        "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
     },
     {
       "added_at": null,
@@ -863,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blah-Blah-Blah",
-        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+        "name": "R\u00e9sistance",
+        "url": "https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C"
       },
       "artists": [
+        {
+          "name": "Songhoy Blues",
+          "url": "https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z"
+        },
         {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Fire Girl",
-      "url": "https://open.spotify.com/track/5j0r6b2Bjgg4rYk4OYhOKv"
+      "duration_ms": 183720,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5"
     }
   ],
   "unique_name": "This Is Iggy Pop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the '00s\. Cover: D'Angelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,811,519 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,811,609 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 26 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 27 | [I'm Sprung](https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga \(Expanded Edition\)](https://open.spotify.com/album/21dqbZplVbX1gMMdqOLvWI) | 3:51 |
 | 28 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
-| 29 | [Sexy Love](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:40 |
-| 30 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
+| 29 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
+| 30 | [Sexy Love](https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr) | 3:40 |
 | 31 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 32 | [Diva](https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 3:20 |
 | 33 | [How Do I Breathe](https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:36 |
-| 34 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
-| 35 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
+| 34 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
+| 35 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
 | 36 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 |
 | 37 | [Be Without You \- Kendu Mix](https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [The Breakthrough](https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV) | 4:06 |
 | 38 | [Take You Down](https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Exclusive \(Expanded Edition\)](https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI) | 4:05 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 53 | [Grind With Me](https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Bluestars](https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE) | 3:57 |
 | 54 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 55 | [Can't Help but Wait](https://open.spotify.com/track/5k3VjTwIsOjQ2woGz3Yx71) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trey Day](https://open.spotify.com/album/6vnUL0NxqV1JrBvYW1M2wn) | 3:26 |
-| 56 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
-| 57 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
+| 56 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
+| 57 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
 | 58 | [Get It Shawty](https://open.spotify.com/track/2a03afRiyAbNAleOByVju4) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 3:29 |
 | 59 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
 | 60 | [Butterflies](https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 4:40 |

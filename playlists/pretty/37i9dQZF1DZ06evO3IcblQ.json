@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36013,
+  "num_followers": 36020,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACt4J5mguw5/+kr8SCEyHiR",
+  "snapshot_id": "aa9fAAAAAADXgWWirkdmt6wnnJgzRaeN",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ace of Spades",
         "url": "https://open.spotify.com/album/3xyncfiFgU49RupI5wfvP3"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 151866,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/1K7OdZNMaEqButgV6D28UX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/03ScC00zLbzJ5GrVp6Y5M1"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
     },
     {
       "added_at": null,

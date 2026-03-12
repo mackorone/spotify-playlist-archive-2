@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,113 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,139 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 42 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 |
 | 43 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 44 | [WELTiTA](https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:07 |
-| 45 | [Es un Secreto](https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi) | 3:10 |
+| 45 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 46 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 |
 | 47 | [Gil](https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:53 |
 | 48 | [HASTA QUE ME ENAMORO](https://open.spotify.com/track/7rfYGYxsZzQAhlJy5B0IcW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 3:00 |
 | 49 | [Adiós](https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:53 |
-| 50 | [Fronteo](https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:23 |
+| 50 | [Fronteo](https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 3:23 |
 
-Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUTO6AAAAAAAAAAAAAAAAAAAAAAAAGVu`

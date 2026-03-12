@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Emre Altuğ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,372 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,365 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,716 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,722 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 45 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 |
 | 46 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 |
 | 47 | [Where Are You?](https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Gabrielle Cavassa](https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:10 |
-| 48 | [Say It](https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Say It](https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5) | 4:18 |
+| 48 | [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 |
 | 49 | [She Loves You](https://open.spotify.com/track/1a56wRkbBjtglKTwyGdROw) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Aqui, Ali, Em Qualquer Lugar](https://open.spotify.com/album/07KAoy7racDNRDQEmpQOkN) | 2:38 |
-| 50 | [Even in the Evenin'](https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:47 |
+| 50 | [Say It](https://open.spotify.com/track/7hEJTSDvpUOlVF4x9C5nIv) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [Say It](https://open.spotify.com/album/1UnBZXFNaQEGN8V5ZuZ7t5) | 4:18 |
 | 51 | [Summertime](https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 5:12 |
 | 52 | [Misty](https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:54 |
 | 53 | [Si Me Dejas Ahora](https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth) | [Valeria](https://open.spotify.com/artist/12zOzTSaujBrC0wvlNSFwt) | [Al Príncipe Bossa](https://open.spotify.com/album/2RxNlfJ7ApMdXoIH9WwvcH) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Os funks mais 🔑 do Brasil / Foto: MC Jacaré, MC Negão Original, Mc Lele JP, DJ Japa NK
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,740,263 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,740,988 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

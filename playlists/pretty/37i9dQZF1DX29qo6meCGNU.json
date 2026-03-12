@@ -1,6 +1,6 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 444492,
+  "num_followers": 444530,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,46 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Me Niego (feat. Ozuna & Wisin)",
+      "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 175918,
+      "name": "A Tu Merced",
+      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
       },
@@ -455,46 +495,6 @@
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 175918,
-      "name": "A Tu Merced",
-      "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 221653,
-      "name": "Me Niego (feat. Ozuna & Wisin)",
-      "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "PERO T\u00da",
-      "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "PERO T\u00da",
+      "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -851,6 +851,38 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "SORRY 4 THAT MUCH",
+        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "SORRY 4 THAT MUCH",
+      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "Palabras Sobran",
+        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Palabras Sobran",
+      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Bubalu",
         "url": "https://open.spotify.com/album/6JEvViJkAj8GjJbTeU5I7q"
       },
@@ -879,38 +911,6 @@
       "duration_ms": 228493,
       "name": "Bubalu",
       "url": "https://open.spotify.com/track/7dNwJbsT0sg1le5kVugGJb"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "Palabras Sobran",
-        "url": "https://open.spotify.com/album/6B5dqaafC0ygHJ8dUW1FOs"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Palabras Sobran",
-      "url": "https://open.spotify.com/track/4wu7jIeJCUhQJaXsXVit0e"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "SORRY 4 THAT MUCH",
-        "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "SORRY 4 THAT MUCH",
-      "url": "https://open.spotify.com/track/63pLfjK6FvcYJYMGwtHjd6"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
-        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 191924,
-      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
-      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "Chica Ideal",
         "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 183240,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "Carita de Inocente (feat. Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 191924,
+      "name": "Carita de Inocente (feat. Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1"
     },
     {
       "added_at": "2026-01-22 23:00:53",

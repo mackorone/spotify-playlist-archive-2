@@ -1,6 +1,6 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 254400,
+  "num_followers": 254487,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2025-02-11 03:54:56",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -787,18 +803,18 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
       },
       "artists": [
         {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2025-02-11 03:54:56",
@@ -819,22 +835,6 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2025-02-11 03:54:56",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 152317,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
-    },
-    {
-      "added_at": "2025-02-11 03:54:56",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+    },
+    {
+      "added_at": "2025-02-11 03:54:56",
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 152317,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A"
     },
     {
       "added_at": "2025-02-11 03:54:56",

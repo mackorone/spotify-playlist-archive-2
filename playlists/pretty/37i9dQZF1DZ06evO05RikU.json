@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43567,
+  "num_followers": 43572,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADE6PxGpRapzmiJJj7MXNcN",
+  "snapshot_id": "aa9fAAAAAAB/+rNzTzOrQtOXfihG+wnu",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NOT \u00dc",
         "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 139322,
       "name": "NOT \u00dc",
       "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133604,
-      "name": "Si Me Ven Llorando",
-      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Wey",
         "url": "https://open.spotify.com/album/59gTwaPF89m9W3WcPasQaK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/6CIXdlrPdBpP0ejW5jUFAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133604,
+      "name": "Si Me Ven Llorando",
+      "url": "https://open.spotify.com/track/6gUeEvhTyXO9oZxuimoN6e"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 153204,
-      "name": "WYKYK",
-      "url": "https://open.spotify.com/track/2KeH7XtRrlozIScLnTG20c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IDIOTA",
         "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 205013,
       "name": "IDIOTA",
       "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 153204,
+      "name": "WYKYK",
+      "url": "https://open.spotify.com/track/2KeH7XtRrlozIScLnTG20c"
     },
     {
       "added_at": null,

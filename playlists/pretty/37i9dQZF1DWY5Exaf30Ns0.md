@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 
 > ¿searma o nosearma?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,316,050 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,316,058 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 4 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 5 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 6 | [Mi Mundo Al Revés](https://open.spotify.com/track/5eL3CUuqkOycNKjRUJban8) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Mi Mundo Al Revés](https://open.spotify.com/album/3YSgkCCFuUs3jm3NZuiOxK) | 3:29 |
-| 7 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
+| 7 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 8 | [PLAK](https://open.spotify.com/track/1lqSiPVISxVO0MC3b4l9ce) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 2:50 |
-| 9 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
+| 9 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 |
 | 10 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
 | 11 | [Californication](https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication \(Deluxe Edition\)](https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi) | 5:29 |
 | 12 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Exaf30Ns0.md) - [plain]
 | 34 | [Amigos? No.](https://open.spotify.com/track/5MBAaEt7s8El3WWhYinLzv) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 3:46 |
 | 35 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 36 | [Blancanieves](https://open.spotify.com/track/3BZUM1xojiL3TvRo3T50R9) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 2:31 |
-| 37 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 |
+| 37 | [Morena](https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:13 |
 | 38 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 |
-| 39 | [Morena](https://open.spotify.com/track/4oB8Xd7gMlUEtWoD8bmCXW) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:13 |
+| 39 | [AMARGURA](https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:50 |
 | 40 | [Primera Cita](https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv) | 3:06 |
 | 41 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
 | 42 | [Tu Boda](https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Tu Boda](https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA) | 3:45 |

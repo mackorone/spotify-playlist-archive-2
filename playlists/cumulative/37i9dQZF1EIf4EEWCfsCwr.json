@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-08-05",
-  "description": "Feel Good Rainy Day music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EIhL1UbjDO0na\">easy listening</a>, <a href=\"spotify:playlist:37i9dQZF1EIeiQfHaFXS3i\">soft pop</a>, <a href=\"spotify:playlist:37i9dQZF1EIdnKYvdViEVn\">mollywood</a>, <a href=\"spotify:playlist:37i9dQZF1EIhDxoaGrXRL1\">singer-songwriter</a>, <a href=\"spotify:playlist:37i9dQZF1EQqkOPvHGajmW\">indie</a>",
+  "description": "Feel Good Rainy Day music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EIhL1UbjDO0na\">easy listening</a>, <a href=\"spotify:playlist:37i9dQZF1EIeWlaZZqeNe1\">mollywood</a>, <a href=\"spotify:playlist:37i9dQZF1EIghjZV03OkEv\">soft pop</a>, <a href=\"spotify:playlist:37i9dQZF1EQqkOPvHGajmW\">indie</a>, <a href=\"spotify:playlist:37i9dQZF1EIhkeucoxGhUI\">singer-songwriter</a>",
   "name": "Feel Good Rainy Day Mix",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 213120,
       "name": "A Couple Minutes - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1WiHuDPI9vNkicCNg9Tkbu"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 360938,
       "name": "Aaraadhike",
       "url": "https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 303585,
       "name": "Adyam Thammil",
       "url": "https://open.spotify.com/track/5Ye5VX2e1B61Bx5GwZYPNd"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 263028,
       "name": "Aval - From \"Op 160/18 Kakshi: Amminippilla\"",
       "url": "https://open.spotify.com/track/3cZ1L75hTPcF9Cxr3oEzcj"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 338480,
       "name": "Azhalinte Aazhangalil (From \"Ayalum Njanum Thammil\")",
       "url": "https://open.spotify.com/track/1iPizWb11D9nlI0Dtygwxi"
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 265618,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/7ti3X29bBAU1rJZ9sXnqPx"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 160000,
       "name": "Chirapunji - From Saina Music Indie",
       "url": "https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 171515,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/5w44L6XIQM1SHPPEWGxcwq"
@@ -2602,7 +2602,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 278373,
       "name": "Dirty Paws",
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
@@ -3102,6 +3102,28 @@
       "duration_ms": 270588,
       "name": "Elhaam",
       "url": "https://open.spotify.com/track/3LRbv49lEtKIe3Yy5xMlxT"
+    },
+    {
+      "album": {
+        "name": "Aadavari Matalaku Ardhalu Veruley",
+        "url": "https://open.spotify.com/album/4DblbW7PigWE3fK5msaiHR"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319686,
+      "name": "Emaindhi Eevela",
+      "url": "https://open.spotify.com/track/02hoWuAbkaajPREIFQePgZ"
     },
     {
       "album": {
@@ -4450,7 +4472,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
@@ -4854,7 +4876,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 165962,
       "name": "I Am Getting Well",
       "url": "https://open.spotify.com/track/27JyruRYaRFdDEjgvNJFzr"
@@ -5125,6 +5147,24 @@
     },
     {
       "album": {
+        "name": "I'm Okay but I'm Not",
+        "url": "https://open.spotify.com/album/2yhoR3c0bQF147Iuqh1X4a"
+      },
+      "artists": [
+        {
+          "name": "Rhy Elliot",
+          "url": "https://open.spotify.com/artist/69KFcmVlDtVC26Mrfql5z0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262679,
+      "name": "I'm Okay but I'm Not",
+      "url": "https://open.spotify.com/track/0SRB6yM5DSZsVe5moI63bH"
+    },
+    {
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -5344,7 +5384,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 257177,
       "name": "Inaam",
       "url": "https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl"
@@ -6018,7 +6058,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 312378,
       "name": "Kaarkuzhal Kadavaiye",
       "url": "https://open.spotify.com/track/0VUpJnr5VJtuPNx00YXP1g"
@@ -6224,7 +6264,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 194584,
       "name": "Kanavukalil (from \"Philips & The Monkey Pen\")",
       "url": "https://open.spotify.com/track/5TPqA5Ro6Dw4meQy60euxp"
@@ -7748,7 +7788,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 249534,
       "name": "Mazhamegham",
       "url": "https://open.spotify.com/track/4uY3rCTpHlq1enEiFMDrNf"
@@ -7848,7 +7888,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 259919,
       "name": "Mazhathullikal - Version, 1",
       "url": "https://open.spotify.com/track/2uRo33fBwWmnQAjFW2ukoK"
@@ -7878,7 +7918,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 254000,
       "name": "Mazhaye Mazhaye - From \"James and Alice\"",
       "url": "https://open.spotify.com/track/58xV6xHtyei6lyTQcw3Hvl"
@@ -7908,7 +7948,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 291991,
       "name": "Mazhaye Thoomazhaye",
       "url": "https://open.spotify.com/track/28vMvTr88sI6XQgGgFHJ8r"
@@ -7978,7 +8018,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 319993,
       "name": "Mellaga",
       "url": "https://open.spotify.com/track/4F0uq09fKad99msF2x3BQm"
@@ -8054,7 +8094,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/6IJXxWAHTVORSyl7lT5pkY"
@@ -8718,7 +8758,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 276250,
       "name": "Nee Kavithaigala",
       "url": "https://open.spotify.com/track/6R0FwF48PO2BrdZpLeWi42"
@@ -8748,7 +8788,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 264506,
       "name": "Nee Paartha Vizhigal - The Touch of Love",
       "url": "https://open.spotify.com/track/0xttqqTj7ZAGyVkfOYxQ4F"
@@ -8874,7 +8914,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 81990,
       "name": "Neeti Mullai (Bit)",
       "url": "https://open.spotify.com/track/4DbzMAzoRmNP6LQ1AyJ5MV"
@@ -8940,7 +8980,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 275976,
       "name": "Neeyen Vennila (From \"Cousins\")",
       "url": "https://open.spotify.com/track/1dK7GLnnuFEgHOhlsgZ3zI"
@@ -9244,7 +9284,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 254119,
       "name": "Nilaamalare",
       "url": "https://open.spotify.com/track/3KHZLNuUkmV6m7KgJbHxFv"
@@ -9266,7 +9306,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 197314,
       "name": "Nilaavil Ellaame",
       "url": "https://open.spotify.com/track/2Ro2GzcCjPcwrR5lFk9PsY"
@@ -9646,7 +9686,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/14AyWf6y7KlWWLfAjdKMKI"
@@ -9840,7 +9880,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 357720,
       "name": "Oru Vetkam Varudhe",
       "url": "https://open.spotify.com/track/4KC4Dhf24a8mcLERLzQTdP"
@@ -10120,7 +10160,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 216504,
       "name": "Parimitha Neram - From \"Madhuram\"",
       "url": "https://open.spotify.com/track/6BpvuH6BxCUmkd5nWImt8M"
@@ -10208,7 +10248,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 232909,
       "name": "Pavizha Mazha (From \"Athiran\") (from \"Pavizha Mazha (From \"Athiran\")\")",
       "url": "https://open.spotify.com/track/6Ld1CyOSWEbAdpPMUZ1sit"
@@ -10550,7 +10590,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 275500,
       "name": "Puthumazhayai (Shreya Ghoshal) - From \"Charlie\"",
       "url": "https://open.spotify.com/track/1uHxfi9DfCZte3ferCe65k"
@@ -10694,7 +10734,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 241946,
       "name": "Rain",
       "url": "https://open.spotify.com/track/6HiHiMtbBC7IfacvcyK0Kw"
@@ -11008,7 +11048,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 218400,
       "name": "Rubber Band Man (with Hozier)",
       "url": "https://open.spotify.com/track/5GwJBXIQOJ6ARh3sFt9dBZ"
@@ -11264,7 +11304,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 192288,
       "name": "Same Questions",
       "url": "https://open.spotify.com/track/0To6muig0PdccsPEezAhB8"
@@ -11402,7 +11442,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 230213,
       "name": "Say",
       "url": "https://open.spotify.com/track/6wZI4mdT8JwXgkGURnBQiq"
@@ -11438,7 +11478,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 224693,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1NhPKVLsHhFUHIOZ32QnS2"
@@ -11676,7 +11716,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 220662,
       "name": "Siste f\u00f8rste dans",
       "url": "https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9"
@@ -11976,7 +12016,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 223874,
       "name": "Somewhere in the Middle",
       "url": "https://open.spotify.com/track/06bk8pTWrV6pndstxEUKFP"
@@ -12708,7 +12748,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 299154,
       "name": "Thaniye",
       "url": "https://open.spotify.com/track/34rRV7ynqXCwhUceYStKFZ"
@@ -12904,7 +12944,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
@@ -12944,7 +12984,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 176048,
       "name": "The Hardest Part (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD"
@@ -13056,7 +13096,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 241373,
       "name": "The Man Who Can't Be Moved",
       "url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf"
@@ -13350,7 +13390,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 143653,
       "name": "There Till The End",
       "url": "https://open.spotify.com/track/5amjX6dNhRCa2CMJzV2xAG"
@@ -13544,7 +13584,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 283346,
       "name": "Thuli Thuli",
       "url": "https://open.spotify.com/track/7fUS9gftrrgtaHJUwFnbEt"
@@ -13758,7 +13798,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -13990,7 +14030,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 282776,
       "name": "Vaanam",
       "url": "https://open.spotify.com/track/6Z2mcjkCZ8HYy6LuSDGfDK"
@@ -14812,7 +14852,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 224740,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0IVHlst3XMgzXUJbIyZ8oO"
@@ -15050,7 +15090,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
@@ -15210,7 +15250,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 246863,
       "name": "\u96e8\u304c\u964d\u308b\u306a\u3089\u8e0a\u308c\u3070\u3044\u3044\u3058\u3083\u306a\u3044",
       "url": "https://open.spotify.com/track/4Pi0YHQv4XSzI0IHOWgS8X"

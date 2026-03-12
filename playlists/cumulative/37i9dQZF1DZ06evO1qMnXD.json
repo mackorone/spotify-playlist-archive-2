@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 155506,
       "name": "Drunk Walk Home",
       "url": "https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO"
@@ -614,10 +614,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 174760,
       "name": "I Will",
       "url": "https://open.spotify.com/track/2yYP6zjOBqGKqI6s2lZyer"
+    },
+    {
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR"
     },
     {
       "album": {
@@ -632,7 +650,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 196426,
       "name": "I'll Change for You",
       "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 191413,
       "name": "That White Cat",
       "url": "https://open.spotify.com/track/4ECTsM0K6zXUiF0pYlRFBq"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 184549,
       "name": "The Only Heartbreaker",
       "url": "https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc"

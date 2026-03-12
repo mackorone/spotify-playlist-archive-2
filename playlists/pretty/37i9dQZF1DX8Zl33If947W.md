@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 
 > Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,913 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,963 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 7 | [Vielleicht Vielleicht](https://open.spotify.com/track/17lu3VOOdnuf6fvtj6TDL5) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Schlagschatten](https://open.spotify.com/album/3zhOW5DedpxAxddYJ18qiI) | 3:27 |
 | 8 | [Liebe](https://open.spotify.com/track/5cBx2v7XJSErfesDmgNtr2) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [30\-11\-80](https://open.spotify.com/album/5SyLIeBzGDJ4YzGDNqVVB2) | 3:15 |
 | 9 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/030dULvYNT5n8vYpIak51w) | [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy) | 3:33 |
-| 10 | [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 |
-| 11 | [Was du Liebe nennst](https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Powerbausa](https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa) | 3:23 |
+| 10 | [Was du Liebe nennst](https://open.spotify.com/track/2hIY4sjfMeKwXXh2LvhrMo) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Powerbausa](https://open.spotify.com/album/5VJCtm8ZQuCiOfiiZqjEJa) | 3:23 |
+| 11 | [Weißes Haus](https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Schwarzes Herz](https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws) | 2:48 |
 | 12 | [Wie schön du bist](https://open.spotify.com/track/2xtnnO9bHKXEmsfetO3ldK) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Muttersprache \(Deluxe Version\)](https://open.spotify.com/album/3ZpOEFd7RgKIcdWOqrzOAc) | 3:38 |
 | 13 | [Ich lass für dich das Licht an](https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG) | [Revolverheld](https://open.spotify.com/artist/5FYfIAuN8mV5KgVtugwfc0) | [Immer in Bewegung](https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0) | 3:32 |
 | 14 | [Alles aus Liebe](https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Kauf mich! \(Deluxe\-Edition mit Bonus\-Tracks\)](https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc) | 4:32 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Zl33If947W.md) - [plain]
 | 19 | [Kein Liebeslied](https://open.spotify.com/track/6yIUWcSPpZX7ftkHqe0Lii) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Mit K](https://open.spotify.com/album/3f48kV1gGqmwGYae1bYgU9) | 4:18 |
 | 20 | [Jeden Tag mehr](https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [LIEBE IN GEFAHR](https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe) | 2:44 |
 | 21 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 |
-| 22 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
-| 23 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
+| 22 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
+| 23 | [Er gehört zu mir](https://open.spotify.com/track/6COzABVCHQzyvc3rTMtrXn) | [Marianne Rosenberg](https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ) | [Er gehört zu mir](https://open.spotify.com/album/6Gm59zyhmpW3mDvxZEZgth) | 3:00 |
 | 24 | [Schönste Zeit](https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Kraniche \(plus Track by Track\)](https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP) | 3:53 |
 | 25 | [WIE LIEBE GEHT](https://open.spotify.com/track/7pk0TzbdVwQRrnrLenPme1) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt), [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU) | [WIE LIEBE GEHT](https://open.spotify.com/album/3O6GezOQBYoVUm6fX9wW8k) | 2:26 |
 | 26 | [Märchen aus Hollywood](https://open.spotify.com/track/2V7MwHRxzmImYP3HeGOY1a) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K), [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Märchen aus Hollywood](https://open.spotify.com/album/4uioPKee37JpLak8Dyhy6Z) | 4:39 |

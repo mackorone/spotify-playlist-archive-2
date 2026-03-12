@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Sreeleela
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,943 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,988 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 49 | [Yentha Sakkagunnave](https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Rangasthalam](https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF) | 4:22 |
 | 50 | [Ekkada Ekkada](https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Murari](https://open.spotify.com/album/5JedwC5U716Hg3pUANEtVu) | 6:11 |
 
-Snapshot ID: `AAAAAK5/AcOx6wwDRG6kFK/YqHMw4Z42`
+Snapshot ID: `AAAAAFGZj5Lj87shWDkSv6N3JX1kaN0Z`

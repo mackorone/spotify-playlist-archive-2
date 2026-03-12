@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 939395,
+  "num_followers": 939445,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABpQH1saO4OjBOLv/zTArRK",
+  "snapshot_id": "aa9fAAAAAAAQX1vb29BSnySYQNZnld6v",
   "tracks": [
     {
       "added_at": null,
@@ -376,13 +376,13 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Legacy (with PJ)",
-      "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
+      "duration_ms": 202253,
+      "name": "Old Dog (with Petey Pablo)",
+      "url": "https://open.spotify.com/track/6WGJ7hPYHXu3aQ6x8GzigX"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 255440,
-      "name": "Trae The Truth in Ibiza",
-      "url": "https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "cLOUDs",
         "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 242086,
       "name": "cLOUDs",
       "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 255440,
+      "name": "Trae The Truth in Ibiza",
+      "url": "https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa"
     },
     {
       "added_at": null,

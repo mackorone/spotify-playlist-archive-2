@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Molotov,  MC Davo y EMJAY en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978,697 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,648 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 15 | [Vasos Vacíos \- Remasterizado 2008](https://open.spotify.com/track/198qSChSMQFuSimdeeY9gK) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El Ritmo Mundial](https://open.spotify.com/album/4jrl8361FYPSK2gdEEKATh) | 4:39 |
 | 16 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 17 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
-| 18 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
+| 18 | [Frijolero](https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 3:30 |
 | 19 | [Frances Limon](https://open.spotify.com/track/2BPmAFsiy6vwDceybqIAjw) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Amores Lejanos](https://open.spotify.com/album/6JlMb03WAKr2QcilmUzRkC) | 5:17 |
-| 20 | [Frijolero](https://open.spotify.com/track/5YyetAy34sgROhslaW3BZc) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Dance And Dense Denso](https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft) | 3:30 |
+| 20 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
 | 21 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 |
 | 22 | [Vía Láctea](https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Memo Rex Commander y el Corazón Atómico de la Vía Láctea](https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG) | 4:08 |
 | 23 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 48 | [Tu Volverás](https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 4:43 |
 | 49 | [Veneno Vil](https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Amor Chiquito](https://open.spotify.com/album/1oNccmu6KxWyQnGi9P7g5u) | 4:57 |
 | 50 | [Angustias](https://open.spotify.com/track/50oUpA33hNEsaZl9AiLXRL) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Angustias](https://open.spotify.com/album/5TtZKTOJE5RcFKNRwrbBjh) | 3:02 |
-| 51 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |
-| 52 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
+| 51 | [A.D.O.](https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [40 Años Vol\. 1](https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1) | 4:54 |
+| 52 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |
 | 53 | [Como Un Sol](https://open.spotify.com/track/3TDJAqSeDZheVTrPU7Ruui) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:17 |
 | 54 | [Espiral](https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Donde los Ponys Pastan](https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx) | 5:22 |
 | 55 | [Tornasol \(Vuelves a Ser\)](https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [La Gusana Ciega](https://open.spotify.com/album/5cc54VNiVL3mwUZxKCELNJ) | 3:44 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 81 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/71h8iMqAN3aETovkKf1IV0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Vivir Así Es Morir de Amor](https://open.spotify.com/album/0oFLZcoAUZe4FKvi9XjN1g) | 3:40 |
 | 82 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 |
 | 83 | [De vuelta a casa](https://open.spotify.com/track/4ifNbWxNqrVlvkj7r4HWqB) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [De vuelta a casa](https://open.spotify.com/album/2vKUZNXh08ctZ9ItoKSQ30) | 4:26 |
-| 84 | [Nunca Quise Irme](https://open.spotify.com/track/3Y0yXYmL1WJvswbvXmE1vv) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [Nunca Quise Irme](https://open.spotify.com/album/0Xut58PnY49fWYwiuA5XU0) | 3:28 |
-| 85 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 84 | [Ojos Claros, Labios Rosas](https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Sweet & Sour \- Hot & Spicy](https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7) | 4:22 |
+| 85 | [Nunca Quise Irme](https://open.spotify.com/track/3Y0yXYmL1WJvswbvXmE1vv) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [Nunca Quise Irme](https://open.spotify.com/album/0Xut58PnY49fWYwiuA5XU0) | 3:28 |
 | 86 | [Solamente](https://open.spotify.com/track/1Dg29EgoDnKx3FXxTz2Adz) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Solamente](https://open.spotify.com/album/5dO3wpokgv43lw96nQBvzG) | 3:01 |
 | 87 | [Incendio de Amor/Carmelita](https://open.spotify.com/track/7kSNQV7OsOLVskKKmcXR4I) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [PRISMARAMA](https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst) | 4:47 |
 | 88 | [Ella Es Azul](https://open.spotify.com/track/3FEOiLNmS51wlq4ZcouLj6) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Volovan](https://open.spotify.com/album/7jSqVU6kH01jgroHwYXBSr) | 3:29 |

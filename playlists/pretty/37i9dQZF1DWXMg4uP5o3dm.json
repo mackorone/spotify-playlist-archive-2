@@ -1,6 +1,6 @@
 {
   "description": "alternative meets electronic.",
-  "num_followers": 494689,
+  "num_followers": 494729,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-02-06 17:06:41",
       "album": {
-        "name": "MY DEMONS",
-        "url": "https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp"
-      },
-      "artists": [
-        {
-          "name": "GLU",
-          "url": "https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N"
-        },
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "MY DEMONS",
-      "url": "https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII"
-    },
-    {
-      "added_at": "2026-02-06 17:06:41",
-      "album": {
         "name": "Palm Reader",
         "url": "https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 180667,
       "name": "Palm Reader",
       "url": "https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU"
+    },
+    {
+      "added_at": "2026-02-06 17:06:41",
+      "album": {
+        "name": "MY DEMONS",
+        "url": "https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp"
+      },
+      "artists": [
+        {
+          "name": "GLU",
+          "url": "https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "MY DEMONS",
+      "url": "https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII"
     },
     {
       "added_at": "2026-02-06 17:06:41",

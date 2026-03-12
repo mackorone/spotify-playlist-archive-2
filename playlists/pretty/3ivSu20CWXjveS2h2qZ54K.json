@@ -1,13 +1,349 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6872,
+  "num_followers": 6873,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AADVtYtOh1xdgrmB97if2005/Ihb0Uc2",
+  "snapshot_id": "AADV1t4Zf75+C47ilERRMY0z4m7khwVF",
   "tracks": [
+    {
+      "added_at": "2026-03-11 07:52:37",
+      "album": {
+        "name": "Like a Spark",
+        "url": "https://open.spotify.com/album/1lFVkOTyJRDaCr2olULZ0U"
+      },
+      "artists": [
+        {
+          "name": "Rostam",
+          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Like a Spark",
+      "url": "https://open.spotify.com/track/36qsB3wB11lQUqOs47kJRu"
+    },
+    {
+      "added_at": "2026-03-11 07:52:49",
+      "album": {
+        "name": "Get Go",
+        "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 202196,
+      "name": "Get Go",
+      "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
+    },
+    {
+      "added_at": "2026-03-11 08:30:51",
+      "album": {
+        "name": "T\u00fa a mi vera (yo a tu verita)",
+        "url": "https://open.spotify.com/album/4FnS1QL8lxNZS7AVUwubpt"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3mo vivir en el campo",
+          "url": "https://open.spotify.com/artist/0tiHDVtZN924sEDRTC3d2J"
+        }
+      ],
+      "duration_ms": 277522,
+      "name": "T\u00fa a mi vera (yo a tu verita)",
+      "url": "https://open.spotify.com/track/0f61H9MIdlb53aXeUBn6Lc"
+    },
+    {
+      "added_at": "2026-03-11 07:53:20",
+      "album": {
+        "name": "dirty wedding dress",
+        "url": "https://open.spotify.com/album/7BQpzzWLy9yszbY5k6790w"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 289424,
+      "name": "dirty wedding dress",
+      "url": "https://open.spotify.com/track/75GyGLjB9yFLTVltUlDVKI"
+    },
+    {
+      "added_at": "2026-03-11 08:06:26",
+      "album": {
+        "name": "Sentimentaloides",
+        "url": "https://open.spotify.com/album/51baFISFWRTjs77T77kcAe"
+      },
+      "artists": [
+        {
+          "name": "Los Invaders",
+          "url": "https://open.spotify.com/artist/73CTlCt5B0aDArBivwUA5O"
+        }
+      ],
+      "duration_ms": 188625,
+      "name": "Sentimentaloides",
+      "url": "https://open.spotify.com/track/6PErWfxnRoCEGZOcVXTppb"
+    },
+    {
+      "added_at": "2026-03-11 07:57:05",
+      "album": {
+        "name": "HOUSE",
+        "url": "https://open.spotify.com/album/0C91lSjGtEnDbtBwyIiVJt"
+      },
+      "artists": [
+        {
+          "name": "The Sophs",
+          "url": "https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE"
+        }
+      ],
+      "duration_ms": 259257,
+      "name": "HOUSE",
+      "url": "https://open.spotify.com/track/50hBwOAvTw01fUF5xsYNvt"
+    },
+    {
+      "added_at": "2026-03-11 07:56:41",
+      "album": {
+        "name": "DESCUAJARINGAO",
+        "url": "https://open.spotify.com/album/1pIr63y4VJLWFUCYpiWspW"
+      },
+      "artists": [
+        {
+          "name": "Rosin de Palo",
+          "url": "https://open.spotify.com/artist/3OimW1ow649DWYjso4bGc0"
+        },
+        {
+          "name": "CORTE!",
+          "url": "https://open.spotify.com/artist/63TI51KRa1nPKmh0xF9ydT"
+        }
+      ],
+      "duration_ms": 134023,
+      "name": "DESCUAJARINGAO",
+      "url": "https://open.spotify.com/track/5MRSsz5QEqOUqu4BpjKfhF"
+    },
+    {
+      "added_at": "2026-03-11 07:54:03",
+      "album": {
+        "name": "ThunderWave",
+        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "ThunderWave",
+      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+    },
+    {
+      "added_at": "2026-03-11 07:59:26",
+      "album": {
+        "name": "La Crisis",
+        "url": "https://open.spotify.com/album/1RTyJkhTviTiOPgh69yFHf"
+      },
+      "artists": [
+        {
+          "name": "Los Ps\u00edquicos",
+          "url": "https://open.spotify.com/artist/2rxbIWPoLIPHs0fnGJ4Wix"
+        },
+        {
+          "name": "Fakir",
+          "url": "https://open.spotify.com/artist/5SlyFDs8zLf7aDgFIFzq4p"
+        }
+      ],
+      "duration_ms": 201095,
+      "name": "La Crisis",
+      "url": "https://open.spotify.com/track/0NuzfZgYhgtUomgfHdSRWA"
+    },
+    {
+      "added_at": "2026-03-11 07:53:37",
+      "album": {
+        "name": "Look How Far...",
+        "url": "https://open.spotify.com/album/34LkLoSNqA6mfajqBcsthm"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 115744,
+      "name": "Look How Far...",
+      "url": "https://open.spotify.com/track/4ZwsQGsqUGewXIjNBXfrXr"
+    },
+    {
+      "added_at": "2026-03-11 07:59:03",
+      "album": {
+        "name": "Sol de Invierno",
+        "url": "https://open.spotify.com/album/3Uwpd7m6UZ76hsmlUzWmH0"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Koi",
+          "url": "https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2"
+        }
+      ],
+      "duration_ms": 134443,
+      "name": "Mesita de noche",
+      "url": "https://open.spotify.com/track/3nybXPuzZ1nIHv5pimta3A"
+    },
+    {
+      "added_at": "2026-03-11 07:54:45",
+      "album": {
+        "name": "Minty",
+        "url": "https://open.spotify.com/album/4ep3T753Rhypn7EVN5NXeE"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "SURF GANG",
+          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
+        }
+      ],
+      "duration_ms": 97109,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/7xBNU6Bp2Wvebc66R4Qqg8"
+    },
+    {
+      "added_at": "2026-03-11 07:54:58",
+      "album": {
+        "name": "the ineptitude for mutual discernment",
+        "url": "https://open.spotify.com/album/2PaGp9NrvKzytJPutzz6l6"
+      },
+      "artists": [
+        {
+          "name": "BIG|BRAVE",
+          "url": "https://open.spotify.com/artist/5nlpqhz47LYv7KvarJdh44"
+        }
+      ],
+      "duration_ms": 304859,
+      "name": "the ineptitude for mutual discernment",
+      "url": "https://open.spotify.com/track/7yHcCdkSJaw4eRDeZY2uVK"
+    },
+    {
+      "added_at": "2026-03-11 07:57:39",
+      "album": {
+        "name": "Receive",
+        "url": "https://open.spotify.com/album/0YFi4LYMktyKtNYtPL4gkz"
+      },
+      "artists": [
+        {
+          "name": "youbet",
+          "url": "https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI"
+        }
+      ],
+      "duration_ms": 166866,
+      "name": "Receive",
+      "url": "https://open.spotify.com/track/4egnOyXh0OVgWmDiWOTHGM"
+    },
+    {
+      "added_at": "2026-03-11 07:58:08",
+      "album": {
+        "name": "Under the Silver Moon",
+        "url": "https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Under the Silver Moon",
+      "url": "https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X"
+    },
+    {
+      "added_at": "2026-03-11 09:22:12",
+      "album": {
+        "name": "Gran Muralla",
+        "url": "https://open.spotify.com/album/6bRiPT9yMOoh4Vtx31i2HS"
+      },
+      "artists": [
+        {
+          "name": "Roko Banana",
+          "url": "https://open.spotify.com/artist/1NLmdiLmGXAmUFALmYqLWO"
+        }
+      ],
+      "duration_ms": 164771,
+      "name": "Tothom vol semblar genial i jo nom\u00e9s vull estar amb els meus amics",
+      "url": "https://open.spotify.com/track/5X4BkR7h5ndY7lttpUmpJU"
+    },
+    {
+      "added_at": "2026-03-11 08:03:20",
+      "album": {
+        "name": "Dozen Roses",
+        "url": "https://open.spotify.com/album/2YGwE3CKKQpNL3ADImE1Lk"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "duration_ms": 324160,
+      "name": "Dozen Roses",
+      "url": "https://open.spotify.com/track/6ZlDmMfjUiQbeINRIhFEJr"
+    },
+    {
+      "added_at": "2026-03-11 07:54:20",
+      "album": {
+        "name": "Bringing Up the Nakba",
+        "url": "https://open.spotify.com/album/1AtMVSAOlMgZ8n4AIeRATQ"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "duration_ms": 337546,
+      "name": "Bringing Up The Nakba",
+      "url": "https://open.spotify.com/track/2bCds1dagCeH6jGywLg5nD"
+    },
+    {
+      "added_at": "2026-03-11 07:55:16",
+      "album": {
+        "name": "Rust & Wire",
+        "url": "https://open.spotify.com/album/4fHXnGLM5xGiLuKp8QKvrj"
+      },
+      "artists": [
+        {
+          "name": "Anjimile",
+          "url": "https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Rust & Wire",
+      "url": "https://open.spotify.com/track/4bqN0ipnuiiGvJdhsSQWeM"
+    },
+    {
+      "added_at": "2026-03-11 07:59:52",
+      "album": {
+        "name": "like home",
+        "url": "https://open.spotify.com/album/7H19Sj4ofTzO0CYA0ag9Pq"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 182055,
+      "name": "like home",
+      "url": "https://open.spotify.com/track/3i7W9o2isj3qOgy093fixn"
+    },
     {
       "added_at": "2026-03-05 18:41:21",
       "album": {
@@ -1319,6 +1655,22 @@
       "duration_ms": 219043,
       "name": "Good Friend",
       "url": "https://open.spotify.com/track/02oDklRhWaRhstP9qPrwHg"
+    },
+    {
+      "added_at": "2026-03-11 08:00:25",
+      "album": {
+        "name": "Tell Me How You Really Feel",
+        "url": "https://open.spotify.com/album/68VnJqtwbk7vmAuyYYsiZa"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "duration_ms": 141361,
+      "name": "Double Edged Sword",
+      "url": "https://open.spotify.com/track/13yRgP0JI4wSkRZQua9hhC"
     }
   ],
   "unique_name": "Ready for the Weekend (JNSP)",

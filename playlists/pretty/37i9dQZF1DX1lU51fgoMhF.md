@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: DAYOUNG\(다영\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,332 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,344 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 78 | [Mixtape : Time Out](https://open.spotify.com/track/0OCDOcvQvozjsivREMojzx) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : Time Out](https://open.spotify.com/album/6Sr3My17NKn1g1zIFclPoS) | 2:55 |
 | 79 | [Talkin’ About It \(Feat\. 24kGoldn\)](https://open.spotify.com/track/28mFFxAwJ9cx9j7z9yu64R) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 2:50 |
 | 80 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 |
-| 81 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
-| 82 | [F Girl](https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [F Girl](https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP) | 2:33 |
+| 81 | [F Girl](https://open.spotify.com/track/5HaVN6uKNnLu3GVEmbrSBd) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [F Girl](https://open.spotify.com/album/6z3A3qvpEVKsG1pvIqEyqP) | 2:33 |
+| 82 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
 | 83 | [After LIKE](https://open.spotify.com/track/6CV6j2xz54thzlrWML3kAW) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb) | 2:56 |
 | 84 | [FANCY](https://open.spotify.com/track/2IZ6fFOq5d8lT0CxLDcxKz) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/1GRocMBU2hYD29hexD5UVF) | 3:33 |
 | 85 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 92 | [Be My Lover](https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:02 |
 | 93 | [Blue Lemonade](https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:16 |
 | 94 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 |
-| 95 | [SLAM DUNK](https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm) | 2:57 |
-| 96 | [MOONLIGHT](https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [MOONLIGHT](https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch) | 2:41 |
+| 95 | [MOONLIGHT](https://open.spotify.com/track/2T23r4De9TGsNRF4u7tU8p) | [HENRY](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt) | [MOONLIGHT](https://open.spotify.com/album/0ymC3LS9iRfz8GntIXHuch) | 2:41 |
+| 96 | [SLAM DUNK](https://open.spotify.com/track/4kZHkv3q9zWEazkRJXJ5UN) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/2SG1eu7Mayczz9708mhbYm) | 2:57 |
 | 97 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 |
 | 98 | [One of Those Nights](https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:10 |
 | 99 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 |

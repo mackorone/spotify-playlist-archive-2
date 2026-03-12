@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 ### [Los 80 México](https://open.spotify.com/playlist/37i9dQZF1DX8idxeA9K8sJ)
 
-> Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Luis Miguel en portada.
+> Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,058,379 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058,545 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 5 | [En algún lugar](https://open.spotify.com/track/3UIENhLRdFIOuRan92cAQu) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [El Grito Del Tiempo](https://open.spotify.com/album/53ysLjWIelVJ47Si7ouHB3) | 3:55 |
 | 6 | [Querida](https://open.spotify.com/track/5ySxlyvySBhIEvoO2xx7uT) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos II](https://open.spotify.com/album/1xrQ48Vvnvm3SmAbnIukGt) | 5:28 |
 | 7 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
-| 8 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 |
-| 9 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
+| 8 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 |
+| 9 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 |
 | 10 | [Lobo](https://open.spotify.com/track/1wUQK1O1tL1UdFNw2j9Y34) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Lobo](https://open.spotify.com/album/1dvU37IRV0mwL3uYn7CBgL) | 3:06 |
 | 11 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:42 |
 | 12 | [Viento](https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 3:56 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 51 | [A quién le importa](https://open.spotify.com/track/7Eb5AYiiGWItBNddlmxvnh) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [No Es Pecado \-Remasters](https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh) | 3:25 |
 | 52 | [Corazón de Poeta](https://open.spotify.com/track/5t6GyhawtK5itjpDdvGGx0) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 4:33 |
 | 53 | [Guitarras Blancas](https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 4:26 |
-| 54 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
-| 55 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
+| 54 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
+| 55 | [Sueños Compartidos](https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [El Angel Del Rock Vol\. 2](https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x) | 4:14 |
 | 56 | [Payaso](https://open.spotify.com/track/29XaS3POtNrgCl8sewWM0v) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 2:58 |
 | 57 | [Yo No Nací para Amar](https://open.spotify.com/track/5x45XdMQ6rgqIUVadroUvS) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:26 |
 | 58 | [Toda la Vida](https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:49 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 68 | [Luna mágica](https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:13 |
 | 69 | [Ámame Hasta Con Los Dientes](https://open.spotify.com/track/5DUwHccvudaVW3Fq6pQIvm) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 8](https://open.spotify.com/album/5MlF6ZpIIpoNYY7S9SKKxU) | 2:54 |
 | 70 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 |
-| 71 | [No Huyas De Mi](https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:47 |
+| 71 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
 | 72 | [Cómo Han Pasado los Años](https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Hay Amores Y Amores](https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd) | 3:34 |
-| 73 | [Aire soy](https://open.spotify.com/track/1EDRDh387ZBbDZus6t1QxP) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Salamandra](https://open.spotify.com/album/6hQut73nd7j8LseXocrFHF) | 4:16 |
+| 73 | [No Huyas De Mi](https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:47 |
 | 74 | [No Se Murió El Amor](https://open.spotify.com/track/6SgL4u341uV0EkVWQNLDRA) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Amor Y Rock 'N' Roll](https://open.spotify.com/album/7fgyyg4HgaOsvd0j1adJbt) | 3:53 |
 | 75 | [Isabel](https://open.spotify.com/track/4cDNMGoDFdjXgxpZEyP6wH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 2:37 |
 | 76 | [Celos](https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:41 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 89 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 | 90 | [Toda La Vida \- MTV Unplugged](https://open.spotify.com/track/3ldtYU2YTeuwWYkMFicLxW) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:41 |
 | 91 | [Enamorandonos \(Just Like Starting Over\)](https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [La Más Completa Colección \(CD2\)](https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5) | 4:02 |
-| 92 | [Orgullosa Nena](https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:10 |
-| 93 | [Yo No Me Llamo Javier](https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 4:23 |
+| 92 | [Yo No Me Llamo Javier](https://open.spotify.com/track/4bus2q9CQeh0c4qboNWJTz) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 4:23 |
+| 93 | [Orgullosa Nena](https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:10 |
 | 94 | [Quién piensa en ti \- 2015 Remastered Version](https://open.spotify.com/track/5dzhWgvobFV8CrKkUuz0RR) | [Gonzalo](https://open.spotify.com/artist/0FsYddqHUXQ0DvMWJL3ci0) | [Sus dos LP's en Hispavox \(2015 Remastered\)](https://open.spotify.com/album/6XBLf1YGU6qWRJySAtCQBP) | 3:31 |
 | 95 | [Princesa Tibetana](https://open.spotify.com/track/3ixFLKbMYQbw6sK1k78Zae) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 10](https://open.spotify.com/album/0AKeEzQyc4FRDqgXE3wiRw) | 6:41 |
 | 96 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 |

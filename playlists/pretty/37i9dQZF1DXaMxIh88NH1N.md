@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 
 > Al mil para entrenar sin parar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,800 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,864 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMxIh88NH1N.md) - [plain]
 | 87 | [El Mismo](https://open.spotify.com/track/1K3idamkSc1wHPTRsX3tVt) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [El Mismo](https://open.spotify.com/album/1uTIkX6XGkkb0fAK9Bj8DU) | 2:27 |
 | 88 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 |
 | 89 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 |
-| 90 | [Oveja O Lobo](https://open.spotify.com/track/6TJllRhfOe6cDW3NvDLMiJ) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Origen](https://open.spotify.com/album/6NQdbpGfCxBW7Qw9pfHT3R) | 2:46 |
-| 91 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
+| 90 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
+| 91 | [Oveja O Lobo](https://open.spotify.com/track/6TJllRhfOe6cDW3NvDLMiJ) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Origen](https://open.spotify.com/album/6NQdbpGfCxBW7Qw9pfHT3R) | 2:46 |
 | 92 | [INMORTAL \- En Vivo](https://open.spotify.com/track/4jyvlg5WP1JRzXQBkETVrB) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [INMORTAL \(En Vivo\)](https://open.spotify.com/album/488FdtTshAR8k9JKztMmue) | 2:08 |
 | 93 | [Lo Pude Lograr](https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [EP](https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl) | 2:57 |
-| 94 | [tu favorito](https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:25 |
-| 95 | [Cosas De La Clika](https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:16 |
+| 94 | [Cosas De La Clika](https://open.spotify.com/track/6ZyRBFspc4a4seZam5Hi8Z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:16 |
+| 95 | [tu favorito](https://open.spotify.com/track/3pRGHJs44yC68rQU9hAWa9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [LO QUE ME FALTA POR LLORAR](https://open.spotify.com/album/1rQaw35QueiDUvAhvTOWZi) | 3:25 |
 | 96 | [CUANDO SE ACABE EL TIEMPO](https://open.spotify.com/track/7wHVwHUYy2IPQjele1yTV8) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [CUANDO SE ACABE EL TIEMPO](https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4) | 3:32 |
 | 97 | [M.L.P.](https://open.spotify.com/track/6weS1JeUTudTUo8u8f0VgU) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [M.L.P.](https://open.spotify.com/album/3qdQh781JDgFBmWn9Wa69H) | 3:31 |
 | 98 | [La Yoguriza](https://open.spotify.com/track/6Eezs4B0SeNyYJT5Y7bDUz) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Corridos Premium](https://open.spotify.com/album/1LncFLBzeDfYJ2uxSdbEVI) | 2:52 |
-| 99 | [Me Llamas](https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Así O Más Vega Vol\. 2](https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG) | 4:46 |
-| 100 | [La Vida Ruina](https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:33 |
+| 99 | [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 |
+| 100 | [Me Llamas](https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Así O Más Vega Vol\. 2](https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG) | 4:46 |
 
 Snapshot ID: `AAAAADu8oEe7iMjRmdLh6IW9gQipfxUS`

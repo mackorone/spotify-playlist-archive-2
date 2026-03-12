@@ -552,7 +552,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 56000,
       "name": "i",
       "url": "https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "ix",
       "url": "https://open.spotify.com/track/0YBPjEDmouQZsaYeVsborr"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 69697,
       "name": "kitchen duet",
       "url": "https://open.spotify.com/track/6NWjdGPxASVhccpJl8c9w9"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 118286,
       "name": "Sad Gondola",
       "url": "https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 173497,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/6IiykhtRMTSvCl2fWAZVV1"
@@ -942,6 +942,28 @@
       "duration_ms": 201500,
       "name": "spiral branches",
       "url": "https://open.spotify.com/track/6WWDUkgLxrd3bIaJB1fqZo"
+    },
+    {
+      "album": {
+        "name": "quilted lament",
+        "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "Gretchen Korsmo",
+          "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338428,
+      "name": "sunday morning",
+      "url": "https://open.spotify.com/track/1y3ncUHQxY9lldcVALuald"
     },
     {
       "album": {

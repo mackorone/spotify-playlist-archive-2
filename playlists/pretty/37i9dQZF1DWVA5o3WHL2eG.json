@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mary Middlefield",
-  "num_followers": 46300,
+  "num_followers": 46288,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "effy stonem",
-        "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
-      },
-      "artists": [
-        {
-          "name": "liska",
-          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
-        }
-      ],
-      "duration_ms": 191373,
-      "name": "effy stonem",
-      "url": "https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "ALPHA FEMINIST",
         "url": "https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 154082,
       "name": "ALPHA FEMINIST",
       "url": "https://open.spotify.com/track/3v652Tj4Adys47C76CVON2"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "effy stonem",
+        "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "duration_ms": 191373,
+      "name": "effy stonem",
+      "url": "https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "3/10",
-        "url": "https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA"
-      },
-      "artists": [
-        {
-          "name": "Emma Rose",
-          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
-        }
-      ],
-      "duration_ms": 142101,
-      "name": "3/10",
-      "url": "https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "Nein sagen",
         "url": "https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 144545,
       "name": "Nein sagen",
       "url": "https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "3/10",
+        "url": "https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA"
+      },
+      "artists": [
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "duration_ms": 142101,
+      "name": "3/10",
+      "url": "https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl"
     },
     {
       "added_at": "2026-03-06 09:09:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,114 likes - 45 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,112 likes - 45 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 24 | [Te Voy a Complacer](https://open.spotify.com/track/01b9QR2gAFqNBaIKFkUxYA) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:46 |
 | 25 | [Mi Talismán](https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramón Ayala y Cornelio Reyna](https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq) | 1:53 |
 | 26 | [Tu Desconfianza](https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 3:07 |
-| 27 | [Ahnelo](https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Relampagazos](https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE) | 2:53 |
-| 28 | [Prieta Mojina \- Live](https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 2:38 |
+| 27 | [Prieta Mojina \- Live](https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 2:38 |
+| 28 | [Ahnelo](https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Relampagazos](https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE) | 2:53 |
 | 29 | [Pobre de Ti](https://open.spotify.com/track/2SdeCCCwRMGmQx3XQdOVj9) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramón Ayala y Cornelio Reyna](https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq) | 2:20 |
 | 30 | [Ay Chatita](https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:47 |
 | 31 | [Ausencia](https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:30 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 35 | [Cruel Dolor](https://open.spotify.com/track/2Jtbo4ClBvVEPuRFzG9SIu) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 2:49 |
 | 36 | [Falsa Ilusion](https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT) | 3:16 |
 | 37 | [Capullito de Rosa](https://open.spotify.com/track/0kZORMFZARYAScvlFfkz3h) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos del Norte, Ramón Ayala y Cornelio Reyna](https://open.spotify.com/album/06nd7OnRZIbLuoTIFRkpkq) | 3:04 |
-| 38 | [Allá en el Baile Grande](https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:14 |
+| 38 | [Vagando Voy](https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:07 |
 | 39 | [El Espejo](https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 3:31 |
 | 40 | [Quiero besarte a la noche](https://open.spotify.com/track/5peQlcnDpOFw2INz1lYA82) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos de los Relámpagos del Norte](https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF) | 2:48 |
 | 41 | [Ya No Llores](https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Superexitos \(Idolos Norteños y Texanos\)](https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi) | 2:05 |
-| 42 | [Vagando Voy](https://open.spotify.com/track/5TV0CzAeiTbKY2mcsdDmkJ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:07 |
+| 42 | [Allá en el Baile Grande](https://open.spotify.com/track/1KPRfGMjsgNIHns4IBqOlm) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF) | 2:14 |
 | 43 | [Mujer de Cabaret](https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Boleros Inolvidables Con Los Relampagos Del Norte](https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz) | 2:53 |
 | 44 | [Gabino Barrera](https://open.spotify.com/track/0O2Xy6fraAVq3q841IYH9T) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 2:44 |
 | 45 | [Estamos en Algo](https://open.spotify.com/track/28vScXkXuYhpouyfkh0IGU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Estamos en Algo](https://open.spotify.com/album/3wy4ebe9sMxj32C69Dmch3) | 2:53 |
 
-Snapshot ID: `aa4NgAAAAAAv5fvICLE4MBKk1mLNdPxw`
+Snapshot ID: `aa9fAAAAAADJS1sg1TPTHoQzHXPki6ox`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Bruno Mars",
+  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Harry Styles",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 172909,
       "name": "17 To 70",
       "url": "https://open.spotify.com/track/7zqEJIcaQoOjnH7aO7N86w"
@@ -1286,6 +1286,42 @@
       "duration_ms": 196640,
       "name": "AMERICAN BEAUTY",
       "url": "https://open.spotify.com/track/5SnjJmCcuHkkWHMTLQTjkP"
+    },
+    {
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/4LZ608Psrp8ih2PzJc6V32"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147505,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV"
     },
     {
       "album": {
@@ -6098,7 +6134,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 188253,
       "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
@@ -8762,7 +8798,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 197098,
       "name": "golden boy",
       "url": "https://open.spotify.com/track/2RlNVAciIcppSI1Iu10RDh"
@@ -11378,7 +11414,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 194652,
       "name": "i told chatgpt about you",
       "url": "https://open.spotify.com/track/0bFhKx00u59mp57ICYhwCM"
@@ -11680,6 +11716,24 @@
       "duration_ms": 167403,
       "name": "Illegal + SEVENTEEN",
       "url": "https://open.spotify.com/track/2c6uK2BQ9ccN9KOgQPfrop"
+    },
+    {
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "album": {
@@ -13178,7 +13232,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 260879,
       "name": "Lights Burn Dimmer",
       "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
@@ -15031,6 +15085,28 @@
     },
     {
       "album": {
+        "name": "moonboy",
+        "url": "https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173207,
+      "name": "moonboy",
+      "url": "https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT"
+    },
+    {
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ"
       },
@@ -15796,6 +15872,28 @@
       "duration_ms": 219488,
       "name": "New Look",
       "url": "https://open.spotify.com/track/1SoPCWnI2PSKWSvyL0Dp9Y"
+    },
+    {
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
       "album": {
@@ -18823,6 +18921,28 @@
     },
     {
       "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196003,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
+    },
+    {
+      "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
       },
@@ -21414,7 +21534,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 198620,
       "name": "sweet like caramel",
       "url": "https://open.spotify.com/track/5IEHGuhBC2KcZd8QowluO7"

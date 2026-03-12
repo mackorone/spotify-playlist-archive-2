@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,282,450 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,282,311 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 29 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 |
 | 30 | [I Forget Where We Were](https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 4:41 |
 | 31 | [Earthstar](https://open.spotify.com/track/73pJ9jnsBhDIyXrIxlBKyZ) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 4:03 |
-| 32 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
-| 33 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
+| 32 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 |
+| 33 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
 | 34 | [Crying Over U](https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:54 |
-| 35 | [Even If It's a Lie \- Demo](https://open.spotify.com/track/0MVeLASrPyBrC6hwwhIMwu) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Even If It's a Lie \(Demo\)](https://open.spotify.com/album/2wSZEUpAFUNx5bpY5RjUHs) | 3:57 |
-| 36 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
+| 35 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
+| 36 | [Even If It's a Lie \- Demo](https://open.spotify.com/track/0MVeLASrPyBrC6hwwhIMwu) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Even If It's a Lie \(Demo\)](https://open.spotify.com/album/2wSZEUpAFUNx5bpY5RjUHs) | 3:57 |
 | 37 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 38 | [Movie Star](https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:32 |
 | 39 | [Jesus Christ 2005 God Bless America](https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:24 |
 | 40 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
-| 41 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
-| 42 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
+| 41 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
+| 42 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
 | 43 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 |
 | 44 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 45 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |

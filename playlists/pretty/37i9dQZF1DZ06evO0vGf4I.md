@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 
 > This is Travis Scott\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633,083 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633,111 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 |
 | 2 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 |
 | 3 | [4X4](https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [4X4](https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe) | 3:10 |
-| 4 | [Rosary \(feat\. Travis Scott\)](https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:14 |
-| 5 | [You \(feat\. Travis Scott\)](https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:33 |
+| 4 | [You \(feat\. Travis Scott\)](https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:33 |
+| 5 | [Rosary \(feat\. Travis Scott\)](https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:14 |
 | 6 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 |
 | 7 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 |
 | 8 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 16 | [90210 \(feat\. Kacy Hill\)](https://open.spotify.com/track/51EC3I1nQXpec4gDk0mQyP) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:39 |
 | 17 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 |
 | 18 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 |
-| 19 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 |
-| 20 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 |
+| 19 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 |
+| 20 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 |
 | 21 | [ASTROTHUNDER](https://open.spotify.com/track/4MXhiYIRDMGAuvZc5IFTwC) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:22 |
 | 22 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
 | 23 | [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vGf4I.md) - [plain]
 | 49 | [Antidote](https://open.spotify.com/track/1wHZx0LgzFHyeIZkUydNXq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 4:22 |
 | 50 | [DA WIZARD](https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:36 |
 
-Snapshot ID: `aa4NgAAAAAChaFclal0kD2UtG/yjz3QR`
+Snapshot ID: `aa9fAAAAAABeMTpyfwX7O336CeRd0Uvl`

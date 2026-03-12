@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 474667,
+  "num_followers": 474845,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Spiritual Driveby",
-        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Shl\u00f8mo",
-          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
-        }
-      ],
-      "duration_ms": 218882,
-      "name": "Play With Me",
-      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
         "name": "A Prayer for the Dancefloor",
         "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 152519,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Spiritual Driveby",
+        "url": "https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Shl\u00f8mo",
+          "url": "https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF"
+        }
+      ],
+      "duration_ms": 218882,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
+        "name": "Holy Place",
+        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Holy Place",
+      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
+    },
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
         "name": "Bombacid",
         "url": "https://open.spotify.com/album/2wuhp5q5agJgqllJdBpJdN"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 204000,
       "name": "Bombacid",
       "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
-    },
-    {
-      "added_at": "2026-03-06 05:00:01",
-      "album": {
-        "name": "Holy Place",
-        "url": "https://open.spotify.com/album/21ri3TvMHbRdPNmVE8gF8l"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Holy Place",
-      "url": "https://open.spotify.com/track/12bBKcfrR64kVkcxpoa0sL"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -627,18 +627,22 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
       "artists": [
         {
           "name": "Sara Landry",
           "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Alt8",
+          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+      "duration_ms": 238270,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -715,22 +719,18 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
       },
       "artists": [
         {
           "name": "Sara Landry",
           "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        },
-        {
-          "name": "Alt8",
-          "url": "https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9"
         }
       ],
-      "duration_ms": 238270,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2026-03-06 05:00:01",
@@ -935,34 +935,38 @@
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+        "name": "Bigger Than Techno",
+        "url": "https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 408669,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+      "duration_ms": 168706,
+      "name": "Bigger Than Techno",
+      "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
     },
     {
       "added_at": "2026-03-06 05:00:01",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "LEGZDINA",
+          "url": "https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N"
         }
       ],
-      "duration_ms": 169950,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
+      "duration_ms": 259023,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
     }
   ],
   "unique_name": "Techno Workout",

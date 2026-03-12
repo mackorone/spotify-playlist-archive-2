@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,989 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,994 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 50 | [Promenade](https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Our Universe \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7) | 3:31 |
 | 51 | [PERSONAL COLOR](https://open.spotify.com/track/5bOabVZOZKfdzquXN6VSQF) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [LOVE MAZE II](https://open.spotify.com/album/4lN709Gy6d6f8Mkp2EZSm4) | 3:24 |
 | 52 | [Can i love u?](https://open.spotify.com/track/0dSwwQO6nZk1uMbn0aV7Ud) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Law and The City, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3kCelYZb943ElkmLIctqol) | 3:26 |
-| 53 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
+| 53 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 54 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
-| 55 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
+| 55 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 56 | [What Love Is](https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [What Love Is \(Positively Yours X Huh Gak\) \[Original Soundtrack\]](https://open.spotify.com/album/0vNd9d5KtDFOOQN0nGJB4F) | 3:04 |
 | 57 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
 | 58 | [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 |

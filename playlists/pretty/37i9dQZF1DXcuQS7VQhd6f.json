@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P. Kee",
-  "num_followers": 49558,
+  "num_followers": 49648,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 297960,
+      "name": "Can't Give Up Now",
+      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "Purpose By Design",
         "url": "https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 327386,
       "name": "You Are The Living Word (Live)",
       "url": "https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
-      },
-      "artists": [
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
-        }
-      ],
-      "duration_ms": 297960,
-      "name": "Can't Give Up Now",
-      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "I'm Glad About It",
-        "url": "https://open.spotify.com/album/3yq9qBSLq7ixK74RinyjLg"
-      },
-      "artists": [
-        {
-          "name": "Rev. Timothy Wright",
-          "url": "https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2"
-        }
-      ],
-      "duration_ms": 384800,
-      "name": "Trouble Don't Last Always",
-      "url": "https://open.spotify.com/track/515MCqErErWXBz8h35i3uj"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers",
         "url": "https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 368760,
       "name": "In the Sanctuary - Live",
       "url": "https://open.spotify.com/track/7okZiRqgL1K0lKTKDJe9OT"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "I'm Glad About It",
+        "url": "https://open.spotify.com/album/3yq9qBSLq7ixK74RinyjLg"
+      },
+      "artists": [
+        {
+          "name": "Rev. Timothy Wright",
+          "url": "https://open.spotify.com/artist/5R76YG5aRtZcXohk9NUju2"
+        }
+      ],
+      "duration_ms": 384800,
+      "name": "Trouble Don't Last Always",
+      "url": "https://open.spotify.com/track/515MCqErErWXBz8h35i3uj"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/6q5ikyHI40C7Pf7mbSP6Wi"
-      },
-      "artists": [
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Praise Is What I Do - Live",
-      "url": "https://open.spotify.com/track/2a8ymUDscRaVAVSMSY2URd"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Your Great Name",
         "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 384466,
       "name": "Your Great Name",
       "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/6q5ikyHI40C7Pf7mbSP6Wi"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Praise Is What I Do - Live",
+      "url": "https://open.spotify.com/track/2a8ymUDscRaVAVSMSY2URd"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "It Remains To Be Seen",
-        "url": "https://open.spotify.com/album/2DPLUc63MOb9Ij4PIltlWM"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Your Grace And Mercy",
-      "url": "https://open.spotify.com/track/2h4UqKYYFqSYMVoOX5wgy6"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 293560,
       "name": "We Fall Down - Live",
       "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "It Remains To Be Seen",
+        "url": "https://open.spotify.com/album/2DPLUc63MOb9Ij4PIltlWM"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Your Grace And Mercy",
+      "url": "https://open.spotify.com/track/2h4UqKYYFqSYMVoOX5wgy6"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "I'll See You In The Rapture",
-        "url": "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Mass Choir",
-          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
-        }
-      ],
-      "duration_ms": 406160,
-      "name": "When I Rose This Morning",
-      "url": "https://open.spotify.com/track/11dkIaVR8Mx27Polm9U8wE"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/5eu45onKTIAP1MUGyDwmvq"
       },
@@ -1531,18 +1515,34 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Victory Live",
-        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
+        "name": "I'll See You In The Rapture",
+        "url": "https://open.spotify.com/album/7ilTFnzPNBzMKL5kloYGzG"
       },
       "artists": [
         {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+          "name": "Mississippi Mass Choir",
+          "url": "https://open.spotify.com/artist/30aMh21vdYVIjdVgIgHaqW"
         }
       ],
-      "duration_ms": 249880,
-      "name": "Victory - Live",
-      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
+      "duration_ms": 406160,
+      "name": "When I Rose This Morning",
+      "url": "https://open.spotify.com/track/11dkIaVR8Mx27Polm9U8wE"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Embracing The Next Dimension",
+        "url": "https://open.spotify.com/album/0grLsMflubqWUr7Q8VZvI4"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        }
+      ],
+      "duration_ms": 357213,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/5xfXawPA7zHr4OvadVfj4h"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Embracing The Next Dimension",
-        "url": "https://open.spotify.com/album/0grLsMflubqWUr7Q8VZvI4"
+        "name": "Victory Live",
+        "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
       "artists": [
         {
-          "name": "Bishop Paul S. Morton, Sr.",
-          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 357213,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/5xfXawPA7zHr4OvadVfj4h"
+      "duration_ms": 249880,
+      "name": "Victory - Live",
+      "url": "https://open.spotify.com/track/7olcSsRz6L8Tl4TmjOwxTu"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Stand",
-      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Favorite Song of All",
         "url": "https://open.spotify.com/album/5NzZSnJNyLDUDeedjR1I01"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 369840,
       "name": "Order My Steps (feat. Syndee Mayes & Kevin Lewis)",
       "url": "https://open.spotify.com/track/6ESHT7vZN5jFrmCNfjcFno"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.",
         "url": "https://open.spotify.com/album/7vbdNHLadnywl3ofFp0nIE"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 257279,
       "name": "Take My Hand Precious Lord",
       "url": "https://open.spotify.com/track/5rTeB5roClzItVdGeYDDla"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 322973,
-      "name": "Speak to My Heart",
-      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "The Best Of Willie Neal Johnson & The Gospel Keynotes",
         "url": "https://open.spotify.com/album/26JqVwrJ8NUvFuvPfB5VoK"
       },
@@ -2099,18 +2083,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "I Am (Radio Edit)",
-        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
       },
       "artists": [
         {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
         }
       ],
-      "duration_ms": 287674,
-      "name": "I Am - Radio Edit",
-      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
+      "duration_ms": 322973,
+      "name": "Speak to My Heart",
+      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2127,6 +2111,22 @@
       "duration_ms": 153853,
       "name": "Winning",
       "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "I Am (Radio Edit)",
+        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "duration_ms": 287674,
+      "name": "I Am - Radio Edit",
+      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
     },
     {
       "added_at": "2026-02-13 12:47:48",

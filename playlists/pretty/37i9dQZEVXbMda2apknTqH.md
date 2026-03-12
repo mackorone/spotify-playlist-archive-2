@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,158 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,164 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMda2apknTqH.md) - [plain]
 | 49 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
 | 50 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
 
-Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUTRQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

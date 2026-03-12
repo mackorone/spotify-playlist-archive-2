@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haïti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,378 likes - 40 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,383 likes - 40 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 4 | [Ou Banm Lanmou](https://open.spotify.com/track/2M5C5JTgevNU408qBVhjqv) | [Teddy Hashtag](https://open.spotify.com/artist/08IitAuzTfomRsaSf8YLnh), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [READY](https://open.spotify.com/album/1TskesOI4LMVMQAxzEvdpu) | 4:07 |
 | 5 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
 | 6 | [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 |
-| 7 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
+| 7 | [C'est toi](https://open.spotify.com/track/7nHGMX1tgemCoNTwuEnYm5) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 2:41 |
 | 8 | [Pa Pale](https://open.spotify.com/track/14Q49d7zbzJsbC7wqRU7D4) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Pa Pale](https://open.spotify.com/album/6Na7VpDH9ICIOlfYBRByHH) | 3:12 |
-| 9 | [C'est toi](https://open.spotify.com/track/7nHGMX1tgemCoNTwuEnYm5) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Calypso : Winter Edition](https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y) | 2:41 |
+| 9 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
 | 10 | [On Ti Bagay](https://open.spotify.com/track/2WLwk1pnmQsKh3Uouui6ul) | [MGCK](https://open.spotify.com/artist/62PiFjHFoS4diKaSiu8K08) | [On Ti Bagay](https://open.spotify.com/album/6yNeWmjmMrfyvawGafDx9Y) | 3:10 |
 | 11 | [Pedi kontwol](https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 3:29 |
 | 12 | [Ti manmi](https://open.spotify.com/track/74PII6iDa5Rn7dY5eS2mx2) | [L Won](https://open.spotify.com/artist/1kRfVuceSK92E3iO5uT4dT) | [Welcome](https://open.spotify.com/album/5V1uYLqtA3oVcAyRg58WaD) | 2:32 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 20 | [DIS MOI](https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [DIS MOI](https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy) | 3:50 |
 | 21 | [Spicy](https://open.spotify.com/track/3bLv5xvPDnSlIebugPc7sQ) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Spicy](https://open.spotify.com/album/2MHBqVE1knQkujPWYKBVWh) | 2:58 |
 | 22 | [LanmoU Pa PoU MweN](https://open.spotify.com/track/5ojRfwelVOjdphr7Tp6jUo) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM) | [LanmoU Pa PoU MweN](https://open.spotify.com/album/7iKnNCA9m3CIA4uB2OaGbs) | 4:24 |
-| 23 | [Douce Tankou Sirop](https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Dj Son](https://open.spotify.com/artist/4CcCHfqnROkTsWA85BZ0BS), [Dj Excel](https://open.spotify.com/artist/6CWTh5dOTapfp6pJS0z98l) | [Douce Tankou Sirop](https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm) | 5:15 |
+| 23 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
 | 24 | [Tout Sa K Pral Manke W](https://open.spotify.com/track/2nKiK90Dgcqi0HzAeZkya3) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tout Sa K Pral Manke W](https://open.spotify.com/album/5PoSRRATlKVrSbdzSifixz) | 4:00 |
-| 25 | [Pitit deyo](https://open.spotify.com/track/5z3agFibmtJ068Mjh1tbnC) | [Klass](https://open.spotify.com/artist/5SXlv0JnAn32FcXUP7Ib2n) | [Fè'l Vini Avan](https://open.spotify.com/album/6ljgsTdIoi7olYYtyn0IOQ) | 6:00 |
+| 25 | [Douce Tankou Sirop](https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr), [Dj Son](https://open.spotify.com/artist/4CcCHfqnROkTsWA85BZ0BS), [Dj Excel](https://open.spotify.com/artist/6CWTh5dOTapfp6pJS0z98l) | [Douce Tankou Sirop](https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm) | 5:15 |
 | 26 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
 | 27 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
 | 28 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 36 | [Bif](https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d) | [Kenny Haiti](https://open.spotify.com/artist/3bIZpSYfHzYPsXb37hlHhM), [Mickael Guirand](https://open.spotify.com/artist/43vOXEBUxefgXGncnaeYUn) | [Time To Shine](https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK) | 4:45 |
 | 37 | [Grev Bèbè](https://open.spotify.com/track/6tsLuq6GUSaoMLScuuAL8I) | [Zenglen](https://open.spotify.com/artist/2yxotUcQyVGm6LGYfPW8Mj) | [No Dead End](https://open.spotify.com/album/7sUJTtv1O1MbTD31ykgqlT) | 5:16 |
 | 38 | [KOUPAB](https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Bedjine](https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv) | [JIJE'M](https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc) | 5:16 |
-| 39 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
-| 40 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
+| 39 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
+| 40 | [Libre D'aimer](https://open.spotify.com/track/2QOvq1Td1czIqJ6Qz0RvW6) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Lòd Nan Dezòd](https://open.spotify.com/album/5G8D5EtkzoxMH8RYllNoxT) | 6:35 |
 
 Snapshot ID: `AAAAAL3NMLv+W1BkDfO/7cIOZoJrYjlH`

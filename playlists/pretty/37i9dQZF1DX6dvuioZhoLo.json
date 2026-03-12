@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Chaparelle",
-  "num_followers": 313044,
+  "num_followers": 313042,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Tequila or Whiskey",
-        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 133695,
-      "name": "Tequila or Whiskey",
-      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Rustin' In The Rain",
         "url": "https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 216226,
       "name": "Rustin' In The Rain",
       "url": "https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Tequila or Whiskey",
+        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 133695,
+      "name": "Tequila or Whiskey",
+      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Tom Turkey (Alternate Version)",
-        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 234656,
-      "name": "Tom Turkey - Alternate Version",
-      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 207826,
       "name": "Warning",
       "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Tom Turkey (Alternate Version)",
+        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 234656,
+      "name": "Tom Turkey - Alternate Version",
+      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Field Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Diamond Joe",
-      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Cherie Vico",
         "url": "https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 316440,
       "name": "Cherie Vico",
       "url": "https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Field Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Diamond Joe",
+      "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 199991,
-      "name": "Nothing Wrong with Texas",
-      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "True Love's Face",
         "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 199991,
+      "name": "Nothing Wrong with Texas",
+      "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Margo",
         "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
       },
@@ -1259,6 +1259,26 @@
       "duration_ms": 220866,
       "name": "Margo",
       "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "For When It Hurts",
+        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 182993,
+      "name": "BROKEN PIECES",
+      "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1291,26 +1311,6 @@
       "duration_ms": 163906,
       "name": "That's How I Feel",
       "url": "https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "For When It Hurts",
-        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 182993,
-      "name": "BROKEN PIECES",
-      "url": "https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Half a Heart Keychain",
-        "url": "https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j"
-      },
-      "artists": [
-        {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Half a Heart Keychain",
-      "url": "https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 220571,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Half a Heart Keychain",
+        "url": "https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j"
+      },
+      "artists": [
+        {
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Half a Heart Keychain",
+      "url": "https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5"
     },
     {
       "added_at": "2026-03-06 05:00:13",

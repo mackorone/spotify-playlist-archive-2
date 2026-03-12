@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sarah Black",
-  "num_followers": 18605,
+  "num_followers": 18619,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8TVxGC/+o0WuGqV0qYsMqHMkpy",
+  "snapshot_id": "AAAAAJHiHQYJ1Ik6/8xFVvW/NEPXiVcr",
   "tracks": [
     {
       "added_at": "2026-03-02 06:00:24",
@@ -199,6 +199,30 @@
       "duration_ms": 260182,
       "name": "Thaedi Thaedi",
       "url": "https://open.spotify.com/track/1OWpOGAVRdx5uIslR8Y7no"
+    },
+    {
+      "added_at": "2026-03-11 11:06:32",
+      "album": {
+        "name": "Mudhal Kadhal",
+        "url": "https://open.spotify.com/album/3gpvFgze1RE552JFyIqt9v"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "Ijas",
+          "url": "https://open.spotify.com/artist/6DX3zVZ7llwG8vkdCRMdVA"
+        }
+      ],
+      "duration_ms": 278117,
+      "name": "Mudhal Kadhal",
+      "url": "https://open.spotify.com/track/2Xc5tsdj047m83rVvWRM9p"
     },
     {
       "added_at": "2026-03-09 10:54:39",

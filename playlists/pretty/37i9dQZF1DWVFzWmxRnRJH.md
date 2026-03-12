@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,796 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,876 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,13 +73,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 63 | [You're Gonna Miss This](https://open.spotify.com/track/7Efs0OIW6zgQyH7ehKZYpN) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [American Man: Greatest Hits Vol\. II](https://open.spotify.com/album/3Ayxk9tKhpAE9gffRUWfDi) | 3:44 |
 | 64 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
 | 65 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
-| 66 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
-| 67 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
+| 66 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
+| 67 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
 | 68 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
 | 69 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 |
 | 70 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
-| 71 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
-| 72 | [Teach Your Children](https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:53 |
+| 71 | [Teach Your Children](https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:53 |
+| 72 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [It's All About to Change](https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW) | 2:32 |
 | 73 | [Mud on the Tires](https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Mud On The Tires](https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS) | 3:28 |
 | 74 | [Stuck Like Glue](https://open.spotify.com/track/0JcKdUGNR7zI4jJDLyYXbi) | [Sugarland](https://open.spotify.com/artist/0hYxQe3AK5jBPCr5MumLHD) | [The Incredible Machine](https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf) | 4:07 |
 | 75 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 89 | [I Believe In You](https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [I Believe In You](https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG) | 4:06 |
 | 90 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:57 |
 | 91 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
-| 92 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Major Moves](https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn) | 2:58 |
-| 93 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:15 |
+| 92 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:15 |
+| 93 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/7h7XMOl4r8WzehsUlHyuO1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Major Moves](https://open.spotify.com/album/4BLeM6ZK9bj8WbXln2JZRn) | 2:58 |
 | 94 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
 | 95 | [Wink](https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [No Doubt About It](https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON) | 2:42 |
 | 96 | [Elvira](https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Fancy Free](https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J) | 3:45 |
 | 97 | [Something to Be Proud Of](https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [You Do Your Thing](https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG) | 4:16 |
-| 98 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
-| 99 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
+| 98 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
+| 99 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
 | 100 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
 
 Snapshot ID: `AAAAACKBAd61z77fSo29PKDVHDGypAAF`

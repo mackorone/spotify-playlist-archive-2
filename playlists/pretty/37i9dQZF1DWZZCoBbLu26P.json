@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98190,
+  "num_followers": 98194,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Unapologetically",
-        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
-      },
-      "artists": [
-        {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
-        }
-      ],
-      "duration_ms": 176643,
-      "name": "Beyonc\u00e9",
-      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Werqin' Girl (Professional)",
         "url": "https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 222642,
       "name": "Werqin' Girl (Professional)",
       "url": "https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Unapologetically",
+        "url": "https://open.spotify.com/album/7C2zKok0wu806UhS2qC8R8"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+        }
+      ],
+      "duration_ms": 176643,
+      "name": "Beyonc\u00e9",
+      "url": "https://open.spotify.com/track/6AJwO8TbYoWaFDhA48qRbu"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Gimme What I Want",
         "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 150500,
       "name": "Gimme What I Want",
       "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -851,8 +851,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -947,8 +947,8 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -995,38 +995,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Zubi Zubi Zubi",
-        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
-      },
-      "artists": [
-        {
-          "name": "Raja",
-          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "Zubi Zubi Zubi",
-      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/0PO3NILLdCxgYYpGzHs76F"
       },
@@ -1047,6 +1015,38 @@
       "duration_ms": 225810,
       "name": "Finish Her!",
       "url": "https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Zubi Zubi Zubi",
+        "url": "https://open.spotify.com/album/51E6rNk6uEdo7Xt0AryxXF"
+      },
+      "artists": [
+        {
+          "name": "Raja",
+          "url": "https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "Zubi Zubi Zubi",
+      "url": "https://open.spotify.com/track/1cNC5C5krCrOZSKlbPZEuY"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
+      },
+      "artists": [
+        {
+          "name": "Blair St. Clair",
+          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
+        }
+      ],
+      "duration_ms": 204245,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
         "name": "Bitch On Heels (Kelvin Wood Remix)",
         "url": "https://open.spotify.com/album/58lIoVrWA0UovP6TYCDfZA"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 178064,
       "name": "Bitch On Heels - Kelvin Wood Radio Mix",
       "url": "https://open.spotify.com/track/7ElOeuVWhiPAFHJxBfdzmN"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5lp2ITlU2HpUV7kKmgQtRd"
-      },
-      "artists": [
-        {
-          "name": "Blair St. Clair",
-          "url": "https://open.spotify.com/artist/5l1BwcEGGLpX6Y9668D8sd"
-        }
-      ],
-      "duration_ms": 204245,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3F5AWtlYtCmyU1isDrvceJ"
     },
     {
       "added_at": "2025-01-14 16:17:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,021 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,009 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 40 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
 | 41 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 |
 | 42 | [23](https://open.spotify.com/track/1ZpPaBDswjV3VSUKqLDXPE) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2LTt0pFwjPS5Zdc7tlmwyl) | 3:48 |
-| 43 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 |
-| 44 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 |
+| 43 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 |
+| 44 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 |
 | 45 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
 | 46 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 |
 | 47 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
-| 48 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
-| 49 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
+| 48 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
+| 49 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 |
 | 50 | [Wind Up Missin’ You](https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin’ You](https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj) | 2:46 |
 | 51 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
 | 52 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/1SviOIgEA8sEPVgYEdCpnh) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6WWmYtlj6smtLFnfUf0Xny) | 2:51 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 87 | [Leave Me Too](https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Leave Me Too](https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD) | 3:11 |
 | 88 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 |
 | 89 | [Some Whiskey](https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg) | 3:03 |
-| 90 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 |
-| 91 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 |
+| 90 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 |
+| 91 | [Standing Room Only](https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw) | 3:46 |
 | 92 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 |
 | 93 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 |
 | 94 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
 | 95 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
-| 96 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 |
+| 96 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
 | 97 | [Later Tonight](https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx) | 2:42 |
-| 98 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
-| 99 | [Casino](https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Casino](https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f) | 2:38 |
+| 98 | [Casino](https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Casino](https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f) | 2:38 |
+| 99 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 |
 | 100 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
 
 Snapshot ID: `AAAAANX/Hdd35uY5oPS6dQLgs0Ppj5iB`

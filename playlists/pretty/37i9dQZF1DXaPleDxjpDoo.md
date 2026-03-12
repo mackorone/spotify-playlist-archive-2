@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,106 likes - 140 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,214 likes - 140 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 139 | [Rain Therapy](https://open.spotify.com/track/05i3bG4mz8nD21c2roVStX) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Rain Therapy](https://open.spotify.com/album/6Q2V4aSZrco28N0df5OMe7) | 2:23 |
 | 140 | [Forest Healing](https://open.spotify.com/track/0wjq5TtW5Jhu51pOUhrtws) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Forest Healing](https://open.spotify.com/album/50AvolQYUeaklEvFcWfJAS) | 3:19 |
 
-Snapshot ID: `AAAAAHBDOmVm+yynALSFsx16b6ZJBihR`
+Snapshot ID: `AAAAAAvwdkgnNGVhJ8GOqQN4EJ0fffFY`

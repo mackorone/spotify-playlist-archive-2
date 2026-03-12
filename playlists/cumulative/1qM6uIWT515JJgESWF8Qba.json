@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "This Is Hell",
+        "url": "https://open.spotify.com/album/6tsPIINj19lRpwY8vrMfVB"
+      },
+      "artists": [
+        {
+          "name": "Social Dissonance",
+          "url": "https://open.spotify.com/artist/3QdyYCm24rYz2bE45nLZQr"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Dissociate",
+      "url": "https://open.spotify.com/track/6c7JznrRYkqJzGKLVg5eYa"
+    },
+    {
+      "album": {
         "name": "Don't Stop At The Top",
         "url": "https://open.spotify.com/album/6ziIXzZ8WHJvm9NLQP15Ck"
       },
@@ -1014,6 +1032,24 @@
       "duration_ms": 225880,
       "name": "Everything Explode",
       "url": "https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf"
+    },
+    {
+      "album": {
+        "name": "Falling Ashes",
+        "url": "https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9"
+      },
+      "artists": [
+        {
+          "name": "DOJOKUN",
+          "url": "https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259008,
+      "name": "Falling Ashes",
+      "url": "https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl"
     },
     {
       "album": {
@@ -1446,6 +1482,24 @@
       "duration_ms": 154376,
       "name": "Just A Good Time 80s Jam",
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
+    },
+    {
+      "album": {
+        "name": "In Our Nature",
+        "url": "https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3"
+      },
+      "artists": [
+        {
+          "name": "Touch of Red",
+          "url": "https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Just a Little",
+      "url": "https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB"
     },
     {
       "album": {
@@ -2898,6 +2952,24 @@
       "duration_ms": 214090,
       "name": "The Price of Not Being Me",
       "url": "https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV"
+    },
+    {
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M"
+      },
+      "artists": [
+        {
+          "name": "Pink Cliffs",
+          "url": "https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm"
     },
     {
       "album": {

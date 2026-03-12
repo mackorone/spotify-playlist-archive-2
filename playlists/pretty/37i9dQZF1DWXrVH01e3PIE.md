@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Lil Troca, Lucho SSJ & C.R.O en la casa del Trap Argentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,850 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,825 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

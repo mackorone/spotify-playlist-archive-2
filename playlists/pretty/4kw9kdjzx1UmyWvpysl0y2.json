@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124233,
+  "num_followers": 124225,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVNQAqM3kCgYonD4L9U4Gtyd3IQSbz",
+  "snapshot_id": "AAAVNsLVgVzqpcV38gSFnddkpcBGn7db",
   "tracks": [
+    {
+      "added_at": "2026-03-11 14:52:12",
+      "album": {
+        "name": "ALLDAWAY / MAYHEM",
+        "url": "https://open.spotify.com/album/4VyavpxbU4IZbVWzgdwGp9"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "duration_ms": 86315,
+      "name": "ALLDAWAY",
+      "url": "https://open.spotify.com/track/1RdDzHxnBXT9h5VmWFh3tO"
+    },
     {
       "added_at": "2026-03-09 14:53:42",
       "album": {

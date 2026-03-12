@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1040025,
+  "num_followers": 1040066,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2026-03-06 18:07:45",
       "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 216149,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
+    },
+    {
+      "added_at": "2026-03-06 18:07:45",
+      "album": {
         "name": "ESTA ES TU CASA NENA",
         "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 191825,
       "name": "Hora Loca",
       "url": "https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry"
-    },
-    {
-      "added_at": "2026-03-06 18:07:45",
-      "album": {
-        "name": "Tu C\u00e1rcel",
-        "url": "https://open.spotify.com/album/614rbDLa3xPz4aeZCqfTzv"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 216149,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/0b55EHxWx8ylntHOJwPZrC"
     },
     {
       "added_at": "2026-03-06 18:07:45",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2026-03-06 18:07:45",
       "album": {
-        "name": "Carteras Chinas",
-        "url": "https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 187119,
-      "name": "Carteras Chinas",
-      "url": "https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh"
-    },
-    {
-      "added_at": "2026-03-06 18:07:45",
-      "album": {
         "name": "Algo de m\u00ed",
         "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
       },
@@ -1267,22 +1243,26 @@
     {
       "added_at": "2026-03-06 18:07:45",
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
+        "name": "Carteras Chinas",
+        "url": "https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         },
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 202285,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+      "duration_ms": 187119,
+      "name": "Carteras Chinas",
+      "url": "https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh"
     },
     {
       "added_at": "2026-03-06 18:07:45",
@@ -1303,6 +1283,26 @@
       "duration_ms": 196600,
       "name": "Hey Mor",
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
+    },
+    {
+      "added_at": "2026-03-06 18:07:45",
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
     },
     {
       "added_at": "2026-03-06 18:07:45",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-03-06 18:07:45",
       "album": {
-        "name": "Fantasi",
-        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Fantasi",
-      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
-    },
-    {
-      "added_at": "2026-03-06 18:07:45",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 199880,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2026-03-06 18:07:45",
+      "album": {
+        "name": "Fantasi",
+        "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158080,
+      "name": "Fantasi",
+      "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
     },
     {
       "added_at": "2026-03-06 18:07:45",

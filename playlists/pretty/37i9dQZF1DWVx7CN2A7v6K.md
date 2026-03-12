@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,654 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,756 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,16 +81,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 71 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
 | 72 | [トーキョーレギー](https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [SEYCHELLES](https://open.spotify.com/album/7BQPfd39YTObQGamGhDF7g) | 4:20 |
 | 73 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
-| 74 | [恋風](https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [恋風](https://open.spotify.com/album/2YnF0m9IK3ZEApvRVb7tqo) | 3:02 |
+| 74 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
 | 75 | [好きだから。](https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [好きだから。](https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS) | 4:58 |
-| 76 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
+| 76 | [恋風](https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [恋風](https://open.spotify.com/album/2YnF0m9IK3ZEApvRVb7tqo) | 3:02 |
 | 77 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
 | 78 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
 | 79 | [花に亡霊](https://open.spotify.com/track/3FUqp10RhCmMjyyB9extmo) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [盗作](https://open.spotify.com/album/6pZ0SrZCP8Bm28L6JhMtBy) | 4:01 |
 | 80 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 81 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
-| 82 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:37 |
-| 83 | [Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 4:54 |
+| 82 | [Plastic Love](https://open.spotify.com/track/7rU6Iebxzlvqy5t857bKFq) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Expressions](https://open.spotify.com/album/3lBX7AtzE4JoZaAIBLptRx) | 4:54 |
+| 83 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/075HUD50Nuea3rNaABIsNZ) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 3:37 |
 | 84 | [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 |
 | 85 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
 | 86 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 89 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 90 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
 | 91 | [忘れてください](https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [忘れてください](https://open.spotify.com/album/4XrhbakQbPTttIIBdAKBIb) | 3:38 |
-| 92 | [Blue Jeans \- From THE FIRST TAKE](https://open.spotify.com/track/4PzCXqlsT7AVEb0hBHe93y) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans \- From THE FIRST TAKE](https://open.spotify.com/album/5MTCYtnrDMTLRWct08LuFn) | 4:04 |
-| 93 | [まちがいさがし](https://open.spotify.com/track/55Ww4Pa1iIQMhh0MLMetjo) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 3:43 |
-| 94 | [breakfast](https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [breakfast](https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX) | 3:48 |
+| 92 | [まちがいさがし](https://open.spotify.com/track/55Ww4Pa1iIQMhh0MLMetjo) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [LOVE](https://open.spotify.com/album/6P7vdw5AEZECkX8dwZAt6B) | 3:43 |
+| 93 | [breakfast](https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [breakfast](https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX) | 3:48 |
+| 94 | [Blue Jeans \- From THE FIRST TAKE](https://open.spotify.com/track/4PzCXqlsT7AVEb0hBHe93y) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans \- From THE FIRST TAKE](https://open.spotify.com/album/5MTCYtnrDMTLRWct08LuFn) | 4:04 |
 | 95 | [打上花火](https://open.spotify.com/track/4IouQaO9GkaHC7AtMErdSa) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [THANK YOU BLUE](https://open.spotify.com/album/7202ZrUyEoOv4xwbbBEfql) | 4:49 |
 | 96 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 |
 | 97 | [ひまわりの約束](https://open.spotify.com/track/45jGOHwYKgsRYbAJ8DR61d) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [青の光景](https://open.spotify.com/album/35HzEGeHwTNMiZIVXCOlPc) | 5:08 |

@@ -4,7 +4,7 @@
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-133 songs - 6 hr 22 min
+134 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [An Affair To Remember](https://open.spotify.com/track/2Iu8YgkRJNQgqkYnYJ46nv) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable Nat King Cole Sings The Great Songs](https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ) | 3:02 | 2024-06-15 | 2024-07-23 |
 | [Ansiedad](https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 3:27 | 2024-06-16 |  |
 | [Answer Me, My Love](https://open.spotify.com/track/4i7bU18iUPKxPMrld9W48M) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:55 | 2024-06-13 | 2026-02-22 |
-| [Aquellos Ojos Verdes](https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:13 | 2024-06-14 |  |
+| [Aquellos Ojos Verdes](https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:13 | 2024-06-14 | 2026-03-12 |
 | [Aqui Se Habla En Amor](https://open.spotify.com/track/53nnrTen3vrTQ3Qm88TwOV) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [More Cole Español](https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr) | 1:58 | 2024-06-16 | 2024-07-23 |
 | [Around The World \- Remastered](https://open.spotify.com/track/3ps7CQq1zNxAvbXMgHfypY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable Nat King Cole Sings The Great Songs](https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ) | 2:34 | 2024-06-13 |  |
 | [Arrivederci Roma](https://open.spotify.com/track/0MOHEhz9GzKd5kMZxtfH4C) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:46 | 2024-06-15 | 2024-07-14 |
@@ -133,6 +133,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/42p5zI23jUWahgQnCJoFkF) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Stardust](https://open.spotify.com/album/1hr7C22EvqhtyoS4fnsOVE) | 4:09 | 2024-06-13 | 2024-07-24 |
 | [When I Grow Too Old To Dream \- Remastered 1999](https://open.spotify.com/track/1CANiqTKDkdkLklQnvGjvf) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 3:34 | 2024-06-13 | 2024-06-28 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 2:46 | 2024-06-20 |  |
+| [When You're Smiling \(The Whole World Smiles With You\) \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/44hUubH8Om6qIYVJN7pyFU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Ramblin Rose](https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP) | 2:44 | 2026-03-12 |  |
 | [Wine, Women And Song](https://open.spotify.com/track/4zOS0pvzKPLBqhrHiIOH5F) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [From The Capitol Vaults \(Vol\. 5\)](https://open.spotify.com/album/7ukWwALcdnZPMmvAx0AilR) | 2:25 | 2024-06-13 | 2024-07-24 |
 | [Yo Vendo Unos Ojos Negros](https://open.spotify.com/track/3LeNzetyINNwZLOR7O5lNR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:22 | 2024-06-17 | 2024-07-24 |
 | [You Made Me Love You \(I Didn't Want To Do It\) \- Remastered](https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Thank You, Pretty Baby](https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2) | 2:52 | 2024-06-14 |  |

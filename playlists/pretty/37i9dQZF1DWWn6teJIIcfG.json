@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 220880,
+  "num_followers": 220921,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,30 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
+        "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Sophie Kauer",
+          "url": "https://open.spotify.com/artist/2H0eY9F0H2rzMWn6JBFyQO"
+        },
+        {
+          "name": "Kunal Lahiry",
+          "url": "https://open.spotify.com/artist/3vArgOb02B95jlv2WianoI"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "J.S. Bach: Come, Sweet Death (Arr. for 5 Cellos)",
         "url": "https://open.spotify.com/album/7DuFXiU4QVs2ZNXPPGvNXD"
       },
@@ -655,30 +679,6 @@
       "duration_ms": 197200,
       "name": "Come, Sweet Death, BWV 478 (Arr. for 5 Cellos)",
       "url": "https://open.spotify.com/track/4zdyJk5NEGXiWIZ87zfRVQ"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
-        "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
-      },
-      "artists": [
-        {
-          "name": "Clara Schumann",
-          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
-        },
-        {
-          "name": "Sophie Kauer",
-          "url": "https://open.spotify.com/artist/2H0eY9F0H2rzMWn6JBFyQO"
-        },
-        {
-          "name": "Kunal Lahiry",
-          "url": "https://open.spotify.com/artist/3vArgOb02B95jlv2WianoI"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1W6ZSpMRXgeM9iSJxA1xus"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -939,18 +939,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "The Sound Of Snow",
-        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
+        "name": "Chill With Chopin",
+        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
       },
       "artists": [
         {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Idil Biret",
+          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
         }
       ],
-      "duration_ms": 155680,
-      "name": "The Sound of Snow",
-      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
+      "duration_ms": 294120,
+      "name": "Andante spiniato in G: Allegro maestoso",
+      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -975,22 +979,18 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Chill With Chopin",
-        "url": "https://open.spotify.com/album/3pm9sILf4Xo0ISzqUaNgdV"
+        "name": "The Sound Of Snow",
+        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Idil Biret",
-          "url": "https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr"
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
         }
       ],
-      "duration_ms": 294120,
-      "name": "Andante spiniato in G: Allegro maestoso",
-      "url": "https://open.spotify.com/track/5ol0EvR9aNThftRoereISI"
+      "duration_ms": 155680,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
+        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nikolai Lugansky",
+          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
+        }
+      ],
+      "duration_ms": 54520,
+      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
+      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Works for Solo Piano",
         "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 139974,
       "name": "La Muse-Plantine: 19\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/5NAa3BITxg2xss1vIBXF4p"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes",
-        "url": "https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nikolai Lugansky",
-          "url": "https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud"
-        }
-      ],
-      "duration_ms": 54520,
-      "name": "Chopin: 24 Preludes, Op. 28: No. 7 in A Major",
-      "url": "https://open.spotify.com/track/7xrs7lNCLYp4j6O4Vv4Kgz"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Aaron Pilsan",
+          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
+        }
+      ],
+      "duration_ms": 241720,
+      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
+      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Sinfonie Napolitane",
         "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
       },
@@ -1239,30 +1263,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Schubert: Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-        "url": "https://open.spotify.com/album/0UyNc6IFSqY9zL64xdixBj"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Kian Soltani",
-          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
-        },
-        {
-          "name": "Aaron Pilsan",
-          "url": "https://open.spotify.com/artist/2eI6Cks4QJJYwIxqx9W7Mt"
-        }
-      ],
-      "duration_ms": 241720,
-      "name": "Schwanengesang, D. 957: No. 4, St\u00e4ndchen (Transcr. for Cello and Piano)",
-      "url": "https://open.spotify.com/track/1ZXpmSQ4FVAiLbCaYvGD2f"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1283,26 +1283,6 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 71262,
-      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 71262,
+      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
+        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Luiz de Moura Castro",
+          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "Valsinha",
+      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Mozart: Piano Concertos Nos. 23 & 14",
         "url": "https://open.spotify.com/album/0cELjDo3vmobZZ1GNexBOB"
       },
@@ -1419,26 +1439,6 @@
       "duration_ms": 391480,
       "name": "Piano Concerto No. 23 in A Major, K. 488: II. Adagio - Cadenza by Dejan Lazi\u0107",
       "url": "https://open.spotify.com/track/3RhdzDEdatnpY2hocjxrj5"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Cl\u00e1sicos Inolvidables Vol. 5, M\u00fasica Iberoamericana",
-        "url": "https://open.spotify.com/album/27ZQVAnijk89wbWZ8BQMmy"
-      },
-      "artists": [
-        {
-          "name": "Francisco Mignone",
-          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
-        },
-        {
-          "name": "Luiz de Moura Castro",
-          "url": "https://open.spotify.com/artist/5nB8PPyIEwqeWh4NQIIIKK"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "Valsinha",
-      "url": "https://open.spotify.com/track/3MUR1Ku2OcQFcel5ECeR1s"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1899,26 +1919,6 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 152849,
-      "name": "Tempora",
-      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Chopin",
         "url": "https://open.spotify.com/album/3pWpDvscBL8ThRxctgtoF1"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 313200,
       "name": "Grande valse brillante, Op. 34 No. 2",
       "url": "https://open.spotify.com/track/49MgBvaoQoWMkdBigI2scZ"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 152849,
+      "name": "Tempora",
+      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -2203,30 +2203,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Variations concertantes, Op. 17/MWV Q 19/I. Thema",
-        "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Sol Gabetta",
-          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 65560,
-      "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
-      "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Rachmaninoff: Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) [Musical Moments]",
         "url": "https://open.spotify.com/album/4faodWUUkGAJQrtN5fJKBV"
       },
@@ -2247,6 +2223,30 @@
       "duration_ms": 386066,
       "name": "Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) - Musical Moments",
       "url": "https://open.spotify.com/track/3Se2RfDlXgkVP3fgLpF2z4"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Variations concertantes, Op. 17/MWV Q 19/I. Thema",
+        "url": "https://open.spotify.com/album/3h4QI2qTDymFjAd6sR47WG"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Sol Gabetta",
+          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 65560,
+      "name": "Variations concertantes, Op. 17/MWV Q 19: I. Thema",
+      "url": "https://open.spotify.com/track/6niR0Jo6cYUMeNpcRGsIt3"
     },
     {
       "added_at": "2025-12-23 11:21:37",

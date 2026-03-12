@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SZWVrotKn1.md) - [plain]
 
 > Tú me dejaste caer pero el perreo me levantó.
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,895 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,979 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SZWVrotKn1.md) - [plain]
 | 51 | [Si No Le Contesto](https://open.spotify.com/track/3XaWuYsTtnkzCSBr0RmROc) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:40 |
 | 52 | [No Es Culpa Mía](https://open.spotify.com/track/4YAcCjGlRfpcFLyxiI54K7) | [DY](https://open.spotify.com/artist/1zqpsQPgYJM5lYlaaoIL7h) | [No Es Culpa Mía](https://open.spotify.com/album/6pa7ftXvhHJWLvuE4A5mLI) | 1:47 |
 | 53 | [Aparentemente](https://open.spotify.com/track/1XJWsjiN9fD6AVBBBJ0sfg) | [Mackieaveliko](https://open.spotify.com/artist/3VZI23oHnP38poDBYPb046), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mis Favoritas Vol\. 1](https://open.spotify.com/album/2hUic00wq6dn7s5kJjggc3) | 5:02 |
-| 54 | [La Locura Automática \- Reggaeton](https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4) | [La Secta](https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW), [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Reggaeton Viejo](https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An) | 4:05 |
+| 54 | [La Locura Automática \- Reggaeton](https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4) | [La Secta AllStar](https://open.spotify.com/artist/5WTJgmKTxGTi6N9KpGH9Yr), [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR) | [Reggaeton Viejo](https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An) | 4:05 |
 | 55 | [Yo Te Lo Dije](https://open.spotify.com/track/4Qup5wrYCm9I4dJHxmoRJY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr) | 3:40 |
 | 56 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 |
 | 57 | [Quizas \- Remix](https://open.spotify.com/track/5lSASgj3h5dWTK7pr4vkBq) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn) | 4:00 |

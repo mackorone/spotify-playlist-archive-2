@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30179,
+  "num_followers": 30180,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABp/Sd3V/SsHjIdzAAW1r68",
+  "snapshot_id": "aa9fAAAAAAD3U+Obw1NrJ43Iqnr2qI9g",
   "tracks": [
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 247077,
-      "name": "Easy Love Pt. 1",
-      "url": "https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj"
+      "duration_ms": 246351,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 246351,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb"
+      "duration_ms": 247077,
+      "name": "Easy Love Pt. 1",
+      "url": "https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Harmony",
-        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 195832,
-      "name": "Bolt Cutters & The Family Name",
-      "url": "https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY"
+      "duration_ms": 164106,
+      "name": "Black Betty",
+      "url": "https://open.spotify.com/track/4wju5onPL5k2pORII0t2W1"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+        "name": "Blood Harmony",
+        "url": "https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 164106,
-      "name": "Black Betty",
-      "url": "https://open.spotify.com/track/4wju5onPL5k2pORII0t2W1"
+      "duration_ms": 195832,
+      "name": "Bolt Cutters & The Family Name",
+      "url": "https://open.spotify.com/track/1RCqVVgPQNfUT1LCEwGJnY"
     },
     {
       "added_at": null,
@@ -379,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
         }
       ],
-      "duration_ms": 199826,
-      "name": "John The Revelator",
-      "url": "https://open.spotify.com/track/08rDWs842pEffjE4kSYIf1"
+      "duration_ms": 219637,
+      "name": "Mississippi (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
         }
       ],
-      "duration_ms": 219637,
-      "name": "Mississippi (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y"
+      "duration_ms": 199826,
+      "name": "John The Revelator",
+      "url": "https://open.spotify.com/track/08rDWs842pEffjE4kSYIf1"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloom + An Acoustic Companion Vol. 2",
-        "url": "https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 244399,
-      "name": "You Are the River - Unplugged",
-      "url": "https://open.spotify.com/track/18cIqZB3aW2uibIqGPf1MS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Venom & Faith",
         "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+        "name": "Bloom + An Acoustic Companion Vol. 2",
+        "url": "https://open.spotify.com/album/0L0XzJmgfnbWySSgLcRet4"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 131052,
-      "name": "Come on in My Kitchen",
-      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
+      "duration_ms": 244399,
+      "name": "You Are the River - Unplugged",
+      "url": "https://open.spotify.com/track/18cIqZB3aW2uibIqGPf1MS"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 201526,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 131052,
+      "name": "Come on in My Kitchen",
+      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
     },
     {
       "added_at": null,
@@ -743,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Co-Starring",
-        "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
       },
       "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 271678,
-      "name": "Rattlesnake Shakin\u2019 Woman",
-      "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
+      "duration_ms": 193063,
+      "name": "Hard Time Killing Floor Blues",
+      "url": "https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV"
     },
     {
       "added_at": null,
@@ -775,22 +771,6 @@
       "duration_ms": 193389,
       "name": "Keep Diggin'",
       "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 171256,
-      "name": "Blue Ridge Mountains",
-      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "added_at": null,
@@ -819,22 +799,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rainy Day Sessions EP",
-        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
+        "name": "Co-Starring",
+        "url": "https://open.spotify.com/album/4vRwOE5KE82xb6n9uQi8ET"
       },
       "artists": [
         {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 233066,
-      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
-      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
+      "duration_ms": 271678,
+      "name": "Rattlesnake Shakin\u2019 Woman",
+      "url": "https://open.spotify.com/track/4dfRbmnFnT5yjjqHJ4mcdM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
+        "name": "The Rainy Day Sessions EP",
+        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
       },
       "artists": [
+        {
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+        },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 193063,
-      "name": "Hard Time Killing Floor Blues",
-      "url": "https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV"
+      "duration_ms": 233066,
+      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
+      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
     }
   ],
   "unique_name": "This Is Larkin Poe",

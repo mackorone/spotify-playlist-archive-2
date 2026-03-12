@@ -1175,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "ALLDAWAY / MAYHEM",
+        "url": "https://open.spotify.com/album/4VyavpxbU4IZbVWzgdwGp9"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86315,
+      "name": "ALLDAWAY",
+      "url": "https://open.spotify.com/track/1RdDzHxnBXT9h5VmWFh3tO"
+    },
+    {
+      "album": {
         "name": "ALLNIGHT",
         "url": "https://open.spotify.com/album/1Hb96CttJEa2Il3LVUw7by"
       },

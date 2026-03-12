@@ -4,11 +4,11 @@
 
 > This is Sleater\-Kinney\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 37 min
+52 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#1 Must Have](https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 3:03 | 2026-03-08 |  |
+| [\#1 Must Have](https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 3:03 | 2026-03-08 | 2026-03-12 |
 | [A New Wave](https://open.spotify.com/track/3tRiDTK0QTP0IfwbxG4jus) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [No Cities to Love](https://open.spotify.com/album/7HDcY3h70X3zLjceUO874A) | 3:38 | 2026-03-07 |  |
 | [A Quarter to Three](https://open.spotify.com/track/4r5Z9l5cZE1qVSj3j4Hv8G) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Hot Rock \(Remastered\)](https://open.spotify.com/album/3vQgWAY8c5ObfngAR3z32s) | 4:01 | 2026-03-07 |  |
 | [A Real Man](https://open.spotify.com/track/4FCIFhOjmtRDed5F95X5jl) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 1:04 | 2026-03-07 |  |
@@ -31,6 +31,7 @@
 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 | 2026-03-07 |  |
 | [Ironclad](https://open.spotify.com/track/2TZyIB2eXDtRTNfMj3TrE9) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 2:34 | 2026-03-07 |  |
 | [Jumpers](https://open.spotify.com/track/1YFUVWqrfXKJtRchH3kMAt) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [The Woods](https://open.spotify.com/album/73ctstwnbNifu5U902X2zL) | 4:24 | 2026-03-07 |  |
+| [Leave You Behind](https://open.spotify.com/track/1S7uDUtdL3zyazhkL6RDZM) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [All Hands on the Bad One \(Remastered\)](https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s) | 3:27 | 2026-03-12 |  |
 | [Light Rail Coyote](https://open.spotify.com/track/64TJvG2yQQJTUSWHHDsiHt) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [One Beat \(Remastered\)](https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD) | 3:08 | 2026-03-07 |  |
 | [Little Babies](https://open.spotify.com/track/4U9Va0fTTbMdN80z2NZFDL) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 2:23 | 2026-03-07 |  |
 | [Little Mouth](https://open.spotify.com/track/2B7K4LGtXxZdc4BRg6rWhV) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 1:44 | 2026-03-07 |  |

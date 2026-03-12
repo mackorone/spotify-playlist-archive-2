@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,819 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,874 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Friday \(Alone Right Now\)](https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI II \(Mixtape\)](https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR) | 2:31 |
 | 50 | [mr useless](https://open.spotify.com/track/1HogDCzANgKv9mE8MgeYKg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [mr useless](https://open.spotify.com/album/2nORxS6P2LcQHuTHbH8rgZ) | 2:29 |
 
-Snapshot ID: `AAAAAL96R2N9D1pWbIJRLLRH70khuLUX`
+Snapshot ID: `AAAAAAHVocjhRvmN0Y+SxouhdHcF7sSV`

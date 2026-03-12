@@ -1,6 +1,6 @@
 {
   "description": "Here it is, the playlist for the ultimate throwback bash!",
-  "num_followers": 574199,
+  "num_followers": 574577,
   "original_name": "Throwback Party",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 251244,
       "name": "Gimme More",
       "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 182306,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
       "artists": [
         {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
         }
       ],
-      "duration_ms": 320357,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1663,30 +1663,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        },
-        {
-          "name": "Molella",
-          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
-        },
-        {
-          "name": "Phil Jay",
-          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -1719,26 +1695,26 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Blurred Lines (Deluxe)",
-        "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
       "artists": [
         {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
         },
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
         },
         {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
         }
       ],
-      "duration_ms": 263826,
-      "name": "Blurred Lines",
-      "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -1759,6 +1735,30 @@
       "duration_ms": 208133,
       "name": "Without You (feat. Usher)",
       "url": "https://open.spotify.com/track/3UN6cIn3VIyg0z1LCuFSum"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Blurred Lines (Deluxe)",
+        "url": "https://open.spotify.com/album/1eHyfkrIOVLGVnt5E4MD2j"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 263826,
+      "name": "Blurred Lines",
+      "url": "https://open.spotify.com/track/0n4bITAu0Y0nigrz3MFJMb"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 166749,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Born to Be Alive (The Original)",
         "url": "https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 188133,
       "name": "Born to Be Alive - The Original",
       "url": "https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Born This Way (International Special Edition Version)",
-        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Born This Way",
-      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Please Hammer Don't Hurt 'Em",
         "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
     },
     {
       "added_at": "2023-09-08 11:09:25",
@@ -2559,22 +2559,6 @@
     {
       "added_at": "2023-09-08 11:09:25",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
-    },
-    {
-      "added_at": "2023-09-08 11:09:25",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -2587,6 +2571,22 @@
       "duration_ms": 197560,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2023-09-08 11:09:25",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2023-09-08 11:09:25",

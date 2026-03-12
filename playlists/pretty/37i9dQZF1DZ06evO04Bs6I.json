@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116795,
+  "num_followers": 116802,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADf+cKsH9CyBJfvT480m/gh",
+  "snapshot_id": "aa9fAAAAAADIQFvKcZTD/WVL64zgGNPF",
   "tracks": [
     {
       "added_at": null,
@@ -419,46 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/4iES52Byxso34updxU3z1s"
-        }
-      ],
-      "duration_ms": 773437,
-      "name": "Tu \u00c9s Tudo",
-      "url": "https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Faz Viver",
         "url": "https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN"
       },
@@ -483,6 +443,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/4iES52Byxso34updxU3z1s"
+        }
+      ],
+      "duration_ms": 773437,
+      "name": "Tu \u00c9s Tudo",
+      "url": "https://open.spotify.com/track/674Ta2OaFPdY3dTJpTsZz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vou Me Humilhar",
         "url": "https://open.spotify.com/album/3nAXxJENtLPyNVLJL2pV2B"
       },
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
       "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 259862,
-      "name": "Assume A Responsa",
-      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
       },
       "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
+      "duration_ms": 259862,
+      "name": "Assume A Responsa",
+      "url": "https://open.spotify.com/track/3VTOIGYgtzpZRDMQugP22h"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
       "duration_ms": 192402,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
-      },
-      "artists": [
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 487384,
-      "name": "A Casa \u00e9 Sua + Labareda",
-      "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
     },
     {
       "added_at": null,
@@ -627,6 +607,26 @@
       "duration_ms": 265906,
       "name": "Processo",
       "url": "https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6"
+      },
+      "artists": [
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 487384,
+      "name": "A Casa \u00e9 Sua + Labareda",
+      "url": "https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r"
     },
     {
       "added_at": null,

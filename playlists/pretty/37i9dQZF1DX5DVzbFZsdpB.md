@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > What's the Go? with Ibby Akbar and Daniel Olaniran is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,441 likes - 8 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,440 likes - 8 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

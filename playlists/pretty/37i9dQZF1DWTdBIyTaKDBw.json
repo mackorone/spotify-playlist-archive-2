@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 25600,
+  "num_followers": 25632,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
-        "name": "Memory Within A Dream",
-        "url": "https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc"
-      },
-      "artists": [
-        {
-          "name": "Ky akasha",
-          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "In The End",
-      "url": "https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 160000,
       "name": "Away",
       "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
+        "name": "Memory Within A Dream",
+        "url": "https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc"
+      },
+      "artists": [
+        {
+          "name": "Ky akasha",
+          "url": "https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU"
     },
     {
       "added_at": "2026-03-06 05:26:35",
@@ -467,8 +467,8 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
-        "name": "Legends of the Past",
-        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Torii Road",
-      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
+      "duration_ms": 169714,
+      "name": "Journey",
+      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
     },
     {
       "added_at": "2026-03-06 05:26:35",
@@ -551,8 +551,8 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/5NyRXPU0MbwycaSqq75IlV"
+        "name": "Legends of the Past",
+        "url": "https://open.spotify.com/album/7ezKJVdp9kzLZZfpzPZ8w3"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
         }
       ],
-      "duration_ms": 169714,
-      "name": "Journey",
-      "url": "https://open.spotify.com/track/2pAPo7r9woX5AwLDNzAgaV"
+      "duration_ms": 128571,
+      "name": "Torii Road",
+      "url": "https://open.spotify.com/track/6U4InR48CmnV8jhCCx9JNN"
     },
     {
       "added_at": "2026-03-06 05:26:35",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
+      },
+      "artists": [
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "duration_ms": 156482,
+      "name": "Cherry Tree",
+      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1"
       },
@@ -887,38 +903,6 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
-        "name": "Chinese Morning",
-        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
-      },
-      "artists": [
-        {
-          "name": "The Geek x Vrv",
-          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Chinese Morning",
-      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
-        "name": "Soothing Breeze",
-        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
-      },
-      "artists": [
-        {
-          "name": "Tibeauthetraveler",
-          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
-        }
-      ],
-      "duration_ms": 156482,
-      "name": "Cherry Tree",
-      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
         "name": "Ghosts of the Floating World",
         "url": "https://open.spotify.com/album/3eZvLeVJrxO4eA8CUogkZS"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 214343,
       "name": "Streetlight Reverie",
       "url": "https://open.spotify.com/track/074zpK5Xw0yeNdi0kVCXhG"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
+        "name": "Chinese Morning",
+        "url": "https://open.spotify.com/album/1BNdhMopFVqmfxUjbBHtoh"
+      },
+      "artists": [
+        {
+          "name": "The Geek x Vrv",
+          "url": "https://open.spotify.com/artist/4JhjlqgMbd4RlrT81VoTIF"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Chinese Morning",
+      "url": "https://open.spotify.com/track/7xRJpOn1TVd8uwzziaKQYU"
     },
     {
       "added_at": "2026-03-06 05:26:35",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
         "name": "Kintsukuroi",
         "url": "https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 77946,
       "name": "Gold Powder",
       "url": "https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2026-03-06 05:26:35",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+      },
+      "artists": [
+        {
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+        }
+      ],
+      "duration_ms": 139095,
+      "name": "Anata",
+      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
         "name": "The Last Journey Of The Crane",
         "url": "https://open.spotify.com/album/4Ri0yp2ryJoua2es00SSvL"
       },
@@ -1435,38 +1451,6 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
-      },
-      "artists": [
-        {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
-        }
-      ],
-      "duration_ms": 139095,
-      "name": "Anata",
-      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
-        "name": "Distant Worlds 4",
-        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
-      },
-      "artists": [
-        {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        }
-      ],
-      "duration_ms": 146144,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
         "name": "Blood Oath",
         "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 195829,
       "name": "Yamete",
       "url": "https://open.spotify.com/track/42xuMGQNL4hCTQHBzkZVU1"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
+        "name": "Distant Worlds 4",
+        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
     },
     {
       "added_at": "2026-03-06 05:26:35",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
-        "name": "Flying Petals",
-        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
-      },
-      "artists": [
-        {
-          "name": "Tido Kang",
-          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "Inevitability",
-      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
-        "name": "Meditation",
-        "url": "https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg"
-      },
-      "artists": [
-        {
-          "name": "Jinsang",
-          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
-        }
-      ],
-      "duration_ms": 130677,
-      "name": "Egyptian Pools",
-      "url": "https://open.spotify.com/track/0apbliJUvsg6R6l126454r"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
         "name": "Daichi",
         "url": "https://open.spotify.com/album/2UIUb5zqUqtHZS1HDz0I3y"
       },
@@ -1627,18 +1595,18 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
-        "name": "FANTASTIC JOURNEY",
-        "url": "https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N"
+        "name": "Flying Petals",
+        "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
       },
       "artists": [
         {
-          "name": "Tsunenori",
-          "url": "https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh"
+          "name": "Tido Kang",
+          "url": "https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Umbrella",
-      "url": "https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ"
+      "duration_ms": 184600,
+      "name": "Inevitability",
+      "url": "https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R"
     },
     {
       "added_at": "2026-03-06 05:26:35",
@@ -1659,6 +1627,54 @@
     {
       "added_at": "2026-03-06 05:26:35",
       "album": {
+        "name": "FANTASTIC JOURNEY",
+        "url": "https://open.spotify.com/album/6Lh0xGoCfTBb7sJNMDSi7N"
+      },
+      "artists": [
+        {
+          "name": "Tsunenori",
+          "url": "https://open.spotify.com/artist/52qynuMTYKuf4JtacGbQxh"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/73O4WMI3CNFs6lK9SaBZpQ"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/45vmwHPfY2GXUo098coEyg"
+      },
+      "artists": [
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "duration_ms": 130677,
+      "name": "Egyptian Pools",
+      "url": "https://open.spotify.com/track/0apbliJUvsg6R6l126454r"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
+        "name": "Maiko",
+        "url": "https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0"
+      },
+      "artists": [
+        {
+          "name": "JazzyCal",
+          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Ren'ai",
+      "url": "https://open.spotify.com/track/2Vs4mAQUclWvqJWCwZNx8R"
+    },
+    {
+      "added_at": "2026-03-06 05:26:35",
+      "album": {
         "name": "Flying Petals",
         "url": "https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A"
       },
@@ -1671,26 +1687,6 @@
       "duration_ms": 167102,
       "name": "Miss Each Other Because of Love",
       "url": "https://open.spotify.com/track/0J2YOcFgqGHQawWpwvOhdR"
-    },
-    {
-      "added_at": "2026-03-06 05:26:35",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        },
-        {
-          "name": "DaniSogen",
-          "url": "https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
     }
   ],
   "unique_name": "oriental lofi",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,935 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,931 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 39 | [メトロシティ](https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メトロシティ](https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd) | 3:20 |
 | 40 | [BIG BUG BEAR](https://open.spotify.com/track/7fw70aWMuI2zr9EukkGmuF) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [BIG BUG BEAR](https://open.spotify.com/album/7jorTd8yPqVUjLzJbtuv51) | 3:46 |
 | 41 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
-| 42 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
-| 43 | [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 |
-| 44 | [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 |
-| 45 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
+| 42 | [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 |
+| 43 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
+| 44 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
+| 45 | [99 Steps](https://open.spotify.com/track/7iy5CzNNrpJD3i0hx8t83n) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [99 Steps](https://open.spotify.com/album/1B57GqqYDv7nSHsiymJzv0) | 3:17 |
 | 46 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 |
 | 47 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 48 | [ファーストキス](https://open.spotify.com/track/4VI45tdu3hZw5eugs9c6AX) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ファーストキス](https://open.spotify.com/album/5BAI5YNxwWN8HgIy3iN6f6) | 4:11 |
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 51 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
 | 52 | [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 |
 | 53 | [FLIP FLAP](https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FLIP FLAP](https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5) | 2:29 |
-| 54 | [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 |
-| 55 | [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 |
+| 54 | [MASCARA](https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [MASCARA](https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC) | 3:35 |
+| 55 | [修羅](https://open.spotify.com/track/3ZDeWNiSmXUFr98iTQKf0p) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [修羅](https://open.spotify.com/album/19ZpB6am7neMPrehzujnrU) | 3:56 |
 | 56 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 |
 | 57 | [Feelin’ Go\(o\)d](https://open.spotify.com/track/1C22EnQawXuIsqgnnWcrMR) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Feelin’ Go\(o\)d](https://open.spotify.com/album/72gjpz7C6dBlOULoVjzGzR) | 4:19 |
 | 58 | [WORK HARD](https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORK HARD](https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ) | 2:53 |
-| 59 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
-| 60 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
+| 59 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
+| 60 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 61 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 62 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 63 | [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 78 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
 | 79 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
 | 80 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
-| 81 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 |
+| 81 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
 | 82 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 |
-| 83 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
+| 83 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 |
 | 84 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 |
 | 85 | [月面着陸計画 \- Moon Landing Plan](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 |
 | 86 | [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 97 | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 |
 | 98 | [恋愛後遺症](https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [恋愛後遺症](https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr) | 2:47 |
 | 99 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
-| 100 | [hikari](https://open.spotify.com/track/15WwIDmvJi1f4CRdduBbrr) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [hikari](https://open.spotify.com/album/2Md8hYlmgPWzNBR051fKkP) | 3:09 |
+| 100 | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/track/0gcTaw7aYWnAKsgIYJsvAt) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Don't go \(feat\. ASH ISLAND\)](https://open.spotify.com/album/041Fafxf0D4t5MDi24KvEP) | 2:37 |
 
 Snapshot ID: `AAAAAHgB1dJLVnT/WwyHs+vMrhJwOLQg`

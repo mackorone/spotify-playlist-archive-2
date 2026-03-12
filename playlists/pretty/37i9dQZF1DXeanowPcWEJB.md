@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 
 > Viaja al México tradicional con la expresión de sus guitarras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,718 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,745 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 38 | [Somos Novios](https://open.spotify.com/track/4mhgSi52rApm5FOOykFmKF) | [Gilberto Puente](https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR) | [Historia de Amor](https://open.spotify.com/album/7qrDWAbGTj4qbf3hVexQxJ) | 3:46 |
 | 39 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 |
 | 40 | [Cielo Rojo \- Cruz de Olvido](https://open.spotify.com/track/1yROJSRPzpxb40eketUs99) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB) | [Los Poetas de la Guitarra](https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A) | 2:55 |
-| 41 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
-| 42 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
+| 41 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
+| 42 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
 | 43 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
 | 44 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 |
 | 45 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
-| 46 | [Cielito Lindo \- Guitar Version](https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ) | [Manuel Granada](https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV) | [Spanish Guitar Latin Hits](https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U) | 2:39 |
-| 47 | [La Luz](https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:46 |
+| 46 | [La Luz](https://open.spotify.com/track/4uXV0bR99BzZBlaz8rhX4J) | [Stefan](https://open.spotify.com/artist/7lAyVgqdNJDgOcno8i62ZU) | [Guitarra Mexicana, Vol\. 1](https://open.spotify.com/album/3tQyY3bDlVSJBnXlQzqK7l) | 2:46 |
+| 47 | [Cielito Lindo \- Guitar Version](https://open.spotify.com/track/6Rb3aBYBruXdLDmcDmsnRQ) | [Manuel Granada](https://open.spotify.com/artist/0hBBzgIZteyQLiAh6v3AjV) | [Spanish Guitar Latin Hits](https://open.spotify.com/album/7t9FXqxz2X4tveYgxLBb1U) | 2:39 |
 | 48 | [La Bikina](https://open.spotify.com/track/4uzsdjd5zer4uurbqIuEu6) | [Juan Veronico](https://open.spotify.com/artist/6srSERU4ay3tUEK8XbA2Rp) | [Lo Mejor en Guitarras](https://open.spotify.com/album/7nl5EG8xfTaQ4WVyB9dsc3) | 2:27 |
 | 49 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
 | 50 | [Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / Vámonos](https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4tJogcL5p5AL0etHNAsxbU) | [Los Poetas de la Guitarra Popurris Inolvidables](https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT) | 5:09 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeanowPcWEJB.md) - [plain]
 | 60 | [Estrellita](https://open.spotify.com/track/6umRoceuzdE9HFGAuXNLu0) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Estrellita](https://open.spotify.com/album/46d09XEe1Pvxdoo2qKfUWz) | 2:11 |
 | 61 | [Tan Enamorados](https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs) | [Silvertre Pinedo](https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw) | [Tan Enamorados](https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV) | 2:21 |
 | 62 | [Me Vuelves Loco](https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [Me Vuelves Loco](https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX) | 2:26 |
-| 63 | [Canción Mixteca \- Qué Lejos Estoy](https://open.spotify.com/track/467faSTmWsVJh2CpvZzNYt) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:26 |
-| 64 | [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 |
+| 63 | [Llorando Estoy Por Ti](https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Llorando Estoy Por Ti](https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1) | 2:44 |
+| 64 | [Canción Mixteca \- Qué Lejos Estoy](https://open.spotify.com/track/467faSTmWsVJh2CpvZzNYt) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:26 |
 | 65 | [Piensa en Mi](https://open.spotify.com/track/05sLGr0JXu4Ika7jXcilYJ) | [Los Poetas De La Guitarra](https://open.spotify.com/artist/4NB5mQYY9bs1LgNx91BXqB) | [Los Poetas de la Guitarra](https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A) | 2:45 |
 | 66 | [El Andariego](https://open.spotify.com/track/6oArIL3tzZnmipt3NyrsQ2) | [Romanticos De La Guitarra](https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz) | [Nostalgia](https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6) | 3:25 |
 | 67 | [La Consentida](https://open.spotify.com/track/5gVHtoux61H8WpJHS8lIP1) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [La Consentida](https://open.spotify.com/album/6DXALbPNgKm6YOUYeksMkL) | 2:05 |

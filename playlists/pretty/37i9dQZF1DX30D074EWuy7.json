@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 33943,
+  "num_followers": 33956,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-05 23:01:26",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
-    },
-    {
-      "added_at": "2026-03-05 23:01:26",
-      "album": {
         "name": "Fidate Correnti",
         "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 231920,
       "name": "Vola lontano",
       "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2026-03-05 23:01:26",
+      "album": {
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 209285,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
     },
     {
       "added_at": "2026-03-05 23:01:26",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-03-05 23:01:26",
       "album": {
-        "name": "Mister Magic",
-        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 221660,
-      "name": "Mister Magic",
-      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
-    },
-    {
-      "added_at": "2026-03-05 23:01:26",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2026-03-05 23:01:26",
       "album": {
+        "name": "Mister Magic",
+        "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 221660,
+      "name": "Mister Magic",
+      "url": "https://open.spotify.com/track/4rpPAx8ukinniDROqa7GGG"
+    },
+    {
+      "added_at": "2026-03-05 23:01:26",
+      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2026-03-05 23:01:26",
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-03-05 23:01:26",
@@ -1371,22 +1387,6 @@
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
-    },
-    {
-      "added_at": "2026-03-05 23:01:26",
-      "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-03-05 23:01:26",
@@ -1523,6 +1523,30 @@
     {
       "added_at": "2026-03-05 23:01:26",
       "album": {
+        "name": "Nidi di Note",
+        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        },
+        {
+          "name": "Sonia Peana",
+          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
+        }
+      ],
+      "duration_ms": 194638,
+      "name": "Inizi\u00f2",
+      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
+    },
+    {
+      "added_at": "2026-03-05 23:01:26",
+      "album": {
         "name": "Ma Gnossienne",
         "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
@@ -1555,30 +1579,6 @@
       "duration_ms": 241966,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
-    },
-    {
-      "added_at": "2026-03-05 23:01:26",
-      "album": {
-        "name": "Nidi di Note",
-        "url": "https://open.spotify.com/album/0p97eqhSf6ELxHJW37tbqK"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        },
-        {
-          "name": "Sonia Peana",
-          "url": "https://open.spotify.com/artist/2rOegNhB7nuLzLis8vWQhK"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "Inizi\u00f2",
-      "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
     },
     {
       "added_at": "2026-03-05 23:01:26",
@@ -1683,6 +1683,38 @@
     {
       "added_at": "2026-03-05 23:01:26",
       "album": {
+        "name": "Tempo al Tempo",
+        "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
+      },
+      "artists": [
+        {
+          "name": "Collettivo Immaginario",
+          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
+        },
+        {
+          "name": "Tommaso Cappellato",
+          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
+        },
+        {
+          "name": "Alberto Lincetto",
+          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
+        },
+        {
+          "name": "Nicol\u00f2 Masetto",
+          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
+        },
+        {
+          "name": "Danilo Plessow",
+          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
+        }
+      ],
+      "duration_ms": 377930,
+      "name": "Tempo al Tempo",
+      "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
+    },
+    {
+      "added_at": "2026-03-05 23:01:26",
+      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1715,38 +1747,6 @@
       "duration_ms": 124613,
       "name": "Harlem Nocturne",
       "url": "https://open.spotify.com/track/6Mho4z2FAGpMKcpZTeNbdw"
-    },
-    {
-      "added_at": "2026-03-05 23:01:26",
-      "album": {
-        "name": "Tempo al Tempo",
-        "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
-      },
-      "artists": [
-        {
-          "name": "Collettivo Immaginario",
-          "url": "https://open.spotify.com/artist/2t5W9mdX4tCfJwUMgRLJaM"
-        },
-        {
-          "name": "Tommaso Cappellato",
-          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
-        },
-        {
-          "name": "Alberto Lincetto",
-          "url": "https://open.spotify.com/artist/41WwoISWXs9IrlyQM2oM62"
-        },
-        {
-          "name": "Nicol\u00f2 Masetto",
-          "url": "https://open.spotify.com/artist/6RxoPk24rnMUwWvlFSnjiq"
-        },
-        {
-          "name": "Danilo Plessow",
-          "url": "https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle"
-        }
-      ],
-      "duration_ms": 377930,
-      "name": "Tempo al Tempo",
-      "url": "https://open.spotify.com/track/5fJPhL4bpFTElmkDwjaOME"
     },
     {
       "added_at": "2026-03-05 23:01:26",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-03-05 23:01:26",
       "album": {
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+      },
+      "artists": [
+        {
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+        }
+      ],
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+    },
+    {
+      "added_at": "2026-03-05 23:01:26",
+      "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 342447,
       "name": "Night Shift",
       "url": "https://open.spotify.com/track/5zbZtQukFdYtsxuxdFUUlv"
-    },
-    {
-      "added_at": "2026-03-05 23:01:26",
-      "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
-      },
-      "artists": [
-        {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
-        }
-      ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2026-03-05 23:01:26",

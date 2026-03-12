@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 
 > Walk the bridge between indie and folk\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,118 likes - 125 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,120 likes - 125 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 66 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
 | 67 | [Early to the Party](https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 4:05 |
 | 68 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
-| 69 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
-| 70 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 69 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 70 | [90 to 99](https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [What's The Point](https://open.spotify.com/album/1vNeZt4KL1fVTU92ZLkJkD) | 2:49 |
 | 71 | [Shell](https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Shell](https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL) | 2:20 |
 | 72 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 73 | [Salt Circle](https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Salt Circle](https://open.spotify.com/album/19zt4VuiJgNK3pT6AiU7cs) | 4:20 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 82 | [Ohio](https://open.spotify.com/track/65bXG3VVzAENiy94R9EYBF) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [Ohio](https://open.spotify.com/album/4h2UocP75iuRvii50UPdmF) | 3:22 |
 | 83 | [tap](https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [tap](https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np) | 4:31 |
 | 84 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
-| 85 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
-| 86 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
+| 85 | [Forever](https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Hovvdy](https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0) | 3:28 |
+| 86 | [glacier meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [glacier meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
 | 87 | [The Solitude](https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:46 |
 | 88 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
 | 89 | [no fun/party](https://open.spotify.com/track/0nO20EfPxZgFRKkHeCzYOv) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [no fun/party](https://open.spotify.com/album/0kPStlyKgoKEhq7WToX2se) | 5:56 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9XEOPDgFX3.md) - [plain]
 | 95 | [Sink;Swim](https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Ultrapure](https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9) | 2:57 |
 | 96 | [Send It To Oslo](https://open.spotify.com/track/5vVma4c4Yr5kBj9C3UtmU0) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [Tear Jerky](https://open.spotify.com/album/1AfHTpAigqkGzSGwu9avlm) | 2:59 |
 | 97 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
-| 98 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
-| 99 | [Rumble Strip](https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Rumble Strip](https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf) | 3:00 |
+| 98 | [Rumble Strip](https://open.spotify.com/track/1FSS2KFXMpXYmfWga8gDxZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Rumble Strip](https://open.spotify.com/album/0DCZGmIVHuc7p33ECSayvf) | 3:00 |
+| 99 | [Kansas](https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Kansas](https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx) | 3:31 |
 | 100 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 |
 | 101 | [I'm In Love](https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [I'm In Love](https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7) | 3:22 |
 | 102 | [Sunshine](https://open.spotify.com/track/7jUitZww3URFitXC32ezRd) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunshine](https://open.spotify.com/album/5IjgL0lZlvCBrkXwvK2NrE) | 3:37 |

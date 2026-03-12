@@ -9561,6 +9561,24 @@
     },
     {
       "album": {
+        "name": "En Las Buenas y en las malas",
+        "url": "https://open.spotify.com/album/0wviHdHw9IDyv8PR9PSWQv"
+      },
+      "artists": [
+        {
+          "name": "Dany.Love",
+          "url": "https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172319,
+      "name": "En Las Buenas y en las malas",
+      "url": "https://open.spotify.com/track/3LqXn1KRXCLQcXQuC2oj21"
+    },
+    {
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/3NvGRhHHSZBtCqEkdSBvYm"
       },

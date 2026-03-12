@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a> and <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 217253,
       "name": "Assistant To The Regional Manager",
       "url": "https://open.spotify.com/track/1ZS0Lgc8Esdg0Bf1JO6KF0"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 218200,
       "name": "Daylight Slaving",
       "url": "https://open.spotify.com/track/577v6fjOvbwcOtT64H3t8R"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 297517,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/3k3gtsfxkTAldjiDxfS807"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 275120,
       "name": "False Profit",
       "url": "https://open.spotify.com/track/3aahZWSGhy07rsli5H94Jr"
@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 155306,
       "name": "Giants Among Common Men",
       "url": "https://open.spotify.com/track/1liJO1TUfFgfLGFJ8YMiCj"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 188723,
       "name": "Moths and Rust",
       "url": "https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 217133,
       "name": "My Will Be Done",
       "url": "https://open.spotify.com/track/76u2aab2a33Ohs7dOKoUOa"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 238499,
       "name": "Neo Seoul",
       "url": "https://open.spotify.com/track/7zgWVGm8ULzGbJE52qAdMy"
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 321880,
       "name": "The Failsafe",
       "url": "https://open.spotify.com/track/351zpwVFbFPnauP3OSmq3e"
@@ -4654,7 +4654,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 236893,
       "name": "Tithemi",
       "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 252080,
       "name": "Truth of a Liar",
       "url": "https://open.spotify.com/track/6dFnYSNPNIq5l0zXf229dT"
@@ -5014,7 +5014,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 268093,
       "name": "White Walls",
       "url": "https://open.spotify.com/track/1Fxdmk9xFeUxChpHNohE2w"

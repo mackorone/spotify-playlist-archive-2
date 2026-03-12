@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: RAMMA & Cindy Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,591 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,606 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 47 | [No Entiendo Si Es Amor](https://open.spotify.com/track/7wAkMxOFYWDhIfisoNJiUy) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:49 |
 | 48 | [LA NIEBLA](https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:31 |
 | 49 | [Basta de Llamarme Así](https://open.spotify.com/track/2uHzhOP2cyjkWR52u7Z6O0) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:14 |
-| 50 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
-| 51 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
+| 50 | [Oxidado](https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [La Paciencia De La Araña](https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41) | 5:17 |
+| 51 | [Fue Amor](https://open.spotify.com/track/7c7e0Gr9AOzmJ8rDvOknI1) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:12 |
 | 52 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 |
 | 53 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
 | 54 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 |

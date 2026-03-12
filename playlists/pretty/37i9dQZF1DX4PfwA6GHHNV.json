@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22918,
+  "num_followers": 22921,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-03-06 13:34:57",
       "album": {
+        "name": "PELE ESCURA",
+        "url": "https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Leonok",
+          "url": "https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta"
+        }
+      ],
+      "duration_ms": 188615,
+      "name": "PELE ESCURA",
+      "url": "https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO"
+    },
+    {
+      "added_at": "2026-03-06 13:34:57",
+      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 230580,
       "name": "AYE O",
       "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
-    },
-    {
-      "added_at": "2026-03-06 13:34:57",
-      "album": {
-        "name": "PELE ESCURA",
-        "url": "https://open.spotify.com/album/4wkmiVQFi3CRV1nXEHWVEH"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Leonok",
-          "url": "https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta"
-        }
-      ],
-      "duration_ms": 188615,
-      "name": "PELE ESCURA",
-      "url": "https://open.spotify.com/track/1Z99gpCrrTm7BW3Mwns9zO"
     },
     {
       "added_at": "2026-03-06 13:34:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 
 > Noi e il tuo specchio non ti giudicheremo mai, promesso 🤞🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,661 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,684 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 14 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 |
 | 15 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 |
 | 16 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
-| 17 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
-| 18 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
+| 17 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
+| 18 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 19 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 |
 | 20 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 |
 | 21 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPKP49DU8tu.md) - [plain]
 | 84 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:55 |
 | 85 | [Because of You](https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:39 |
 | 86 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
-| 87 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 |
-| 88 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
+| 87 | [Leave a Light On](https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Leave a Light On](https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8) | 3:05 |
+| 88 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 |
 | 89 | [Born To Be Yours](https://open.spotify.com/track/0kHyKhJMukHEPfeh8s7rdM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/31J0UqxAkl9utyC0L59Mae) | 3:13 |
-| 90 | [La Nuova Stella Di Broadway](https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [La Teoria Dei Colori](https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz) | 4:27 |
-| 91 | [Anche Stasera](https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:37 |
+| 90 | [Anche Stasera](https://open.spotify.com/track/5WssaPhjCCUFBMk9PpnHYj) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:37 |
+| 91 | [La Nuova Stella Di Broadway](https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [La Teoria Dei Colori](https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz) | 4:27 |
 | 92 | [Superclassico](https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 2:52 |
 | 93 | [I Want It That Way](https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [The Hits\-\-Chapter One](https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r) | 3:33 |
 | 94 | [Se Piovesse Il Tuo Nome \- con Calcutta](https://open.spotify.com/track/3PYYiqmhooCNCGiiPTM5zS) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Diari Aperti](https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae) | 3:14 |

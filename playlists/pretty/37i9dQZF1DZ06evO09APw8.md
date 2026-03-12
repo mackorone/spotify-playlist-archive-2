@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,040 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,081 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 21 | [Just How You Are](https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Just How You Are](https://open.spotify.com/album/72kXsZAoCVweVue3PPZ7hw) | 3:14 |
 | 22 | [I USED TO \(feat\. Baby Rose\)](https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 3:27 |
 | 23 | [5MoreMinutes](https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:10 |
-| 24 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
-| 25 | [Until The End Of Time](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 |
+| 24 | [Until The End Of Time](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 |
+| 25 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
 | 26 | [Crash & Burn](https://open.spotify.com/track/2fHKzcFXMme56EJMgFsudr) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:27 |
 | 27 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR) | 3:15 |
 | 28 | [Blessing](https://open.spotify.com/track/45zrnAiNUXD7MgDoKgfG8V) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Genesis](https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B) | 1:51 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 45 | [PRIZE](https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:52 |
 | 46 | [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 |
 
-Snapshot ID: `aa4NgAAAAACIz7RKEKvajyi12s/nss1l`
+Snapshot ID: `aa9fAAAAAAC4zOVTbvVddVLCOAHvt7iD`

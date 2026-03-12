@@ -1,13 +1,221 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: After Louise. Artwork by Paola Saliby",
-  "num_followers": 237441,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Sade Olutola. Artwork by Paola Saliby",
+  "num_followers": 237447,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOpxPHe+jLhaXbjSvki1jyh9v3QY",
+  "snapshot_id": "AAAAAA4yuAbkU//OS1HrLS3C2adVu1MW",
   "tracks": [
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Arrow Heart",
+        "url": "https://open.spotify.com/album/6qS5D90JVQEZpBHccB577c"
+      },
+      "artists": [
+        {
+          "name": "Sade Olutola",
+          "url": "https://open.spotify.com/artist/3RnVqL6k23iwhe1uYh1JSm"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "2099",
+      "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Coasting",
+        "url": "https://open.spotify.com/album/32t0ImhVhPJY8BQf3GpJUR"
+      },
+      "artists": [
+        {
+          "name": "Hutch",
+          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/3gW6hS14LkeCAoUzvtjokf"
+      },
+      "artists": [
+        {
+          "name": "Haylie Davis",
+          "url": "https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Wandering Star",
+      "url": "https://open.spotify.com/track/2S7iFa8MX5f9CgDxGoxzzy"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Tears Ago",
+        "url": "https://open.spotify.com/album/3FcduBIdAeYXLTBmHl7iId"
+      },
+      "artists": [
+        {
+          "name": "ili",
+          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "Tears Ago",
+      "url": "https://open.spotify.com/track/5E0SRWQIVOpPBWfOB4F1DA"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/5x8ghkdsw5hs8RvPoHSGbd"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 190410,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/601V6Cr1UYkR8qaRtrSDzl"
+    },
+    {
+      "added_at": "2026-03-11 13:57:39",
+      "album": {
+        "name": "How Cruel",
+        "url": "https://open.spotify.com/album/4t6Zs4yKAO90Edd9b6HDU4"
+      },
+      "artists": [
+        {
+          "name": "Sarah Lola",
+          "url": "https://open.spotify.com/artist/1BLuDhATwVggi6ciHsgNNe"
+        }
+      ],
+      "duration_ms": 296628,
+      "name": "How Cruel",
+      "url": "https://open.spotify.com/track/2mo9hZxNhmnNmYejBFUnie"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "overkill",
+        "url": "https://open.spotify.com/album/6OzNoiGMlUWmO82LKRByck"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "overkill",
+      "url": "https://open.spotify.com/track/1XvxQuBL7HgmrZlWxHqwlA"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Babyface",
+        "url": "https://open.spotify.com/album/35D1U5fSg6cq8eSK1N9SJg"
+      },
+      "artists": [
+        {
+          "name": "GRESLEY",
+          "url": "https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf"
+        }
+      ],
+      "duration_ms": 175870,
+      "name": "Babyface",
+      "url": "https://open.spotify.com/track/6MhtEgjlNy4QK41DwhHyVn"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "isn't it?",
+        "url": "https://open.spotify.com/album/1O8Hu7FFw8ZeNqEUbb6BZH"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "isn't it?",
+      "url": "https://open.spotify.com/track/0cIp3Gc6SxLDUzBTx5tPNk"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "duration_ms": 193236,
+      "name": "I'll come back to you",
+      "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "There's a Bridge",
+        "url": "https://open.spotify.com/album/346sFMjZ1DUCWrRDMsYMgg"
+      },
+      "artists": [
+        {
+          "name": "Alpha Maria",
+          "url": "https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm"
+        }
+      ],
+      "duration_ms": 168312,
+      "name": "There's a Bridge",
+      "url": "https://open.spotify.com/track/5oY98SqmKXxz1fE4cu1REt"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/6hdw9sZF3fYwWo9BCEXFpT"
+      },
+      "artists": [
+        {
+          "name": "Gracen Wynn",
+          "url": "https://open.spotify.com/artist/3NCmH47qjEsBarjmxGcyvR"
+        }
+      ],
+      "duration_ms": 246381,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/08CqKcpOvCSQ4PZsS9OJwG"
+    },
+    {
+      "added_at": "2026-03-11 04:00:22",
+      "album": {
+        "name": "Touch and Go",
+        "url": "https://open.spotify.com/album/7K1xooUllD7hhNb3GrzwQJ"
+      },
+      "artists": [
+        {
+          "name": "Maeve",
+          "url": "https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI"
+        }
+      ],
+      "duration_ms": 134505,
+      "name": "Touch and Go",
+      "url": "https://open.spotify.com/track/6aflRG0cCmnoHzrtrz4w85"
+    },
     {
       "added_at": "2026-02-25 05:00:10",
       "album": {
@@ -621,22 +829,6 @@
       "url": "https://open.spotify.com/track/5GIGmsyaCRehvGAsuIa4Pr"
     },
     {
-      "added_at": "2026-01-16 05:00:46",
-      "album": {
-        "name": "Super Elastic",
-        "url": "https://open.spotify.com/album/2RwVWxOYQYL8cwVfFVfEJd"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 138950,
-      "name": "Super Elastic",
-      "url": "https://open.spotify.com/track/4EXreHEQvGiM6BlXbATMZm"
-    },
-    {
       "added_at": "2026-01-21 15:37:08",
       "album": {
         "name": "Bruises on the Peach",
@@ -1087,26 +1279,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "Find My Way",
-        "url": "https://open.spotify.com/album/4bKr3tiH2v0ugyKJMi2ape"
-      },
-      "artists": [
-        {
-          "name": "Edwina Van Kuyk",
-          "url": "https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7"
-        },
-        {
-          "name": "Martello",
-          "url": "https://open.spotify.com/artist/6afaitzeANsz4WoEj8BkAW"
-        }
-      ],
-      "duration_ms": 239875,
-      "name": "Find My Way",
-      "url": "https://open.spotify.com/track/3rW6I80VjSCBMVsPRA64Sn"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "Navel",
         "url": "https://open.spotify.com/album/721hRxKYhqJnIT4iBzdJox"
       },
@@ -1119,22 +1291,6 @@
       "duration_ms": 153700,
       "name": "Navel",
       "url": "https://open.spotify.com/track/5gbsQy66jCC97jlSQqN7CL"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "HOW LONG HAS IT BEEN",
-        "url": "https://open.spotify.com/album/1YYDxb3ocB2qvMr9L34oDu"
-      },
-      "artists": [
-        {
-          "name": "Raffi Maxwell",
-          "url": "https://open.spotify.com/artist/7p08F3lgkPW56dlhSY4XFB"
-        }
-      ],
-      "duration_ms": 188774,
-      "name": "SOMEWHERE NEW",
-      "url": "https://open.spotify.com/track/5ZLmCLrXfaK537kBH1RGbJ"
     }
   ],
   "unique_name": "Fresh Finds Pop",

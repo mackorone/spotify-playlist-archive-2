@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Sugar 'N Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,570 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,573 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
 | 2 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
 | 3 | [Sun\-Kissed](https://open.spotify.com/track/5zKu2kbKSpzr5QvINZswOy) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [Sun\-Kissed](https://open.spotify.com/album/5UzL6zf0GmyjtKuqlGoJNT) | 2:51 |
-| 4 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
-| 5 | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 |
-| 6 | [guilty pleasure](https://open.spotify.com/track/6NX2cVq78nBb6YWYkfr2BW) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [guilty pleasure](https://open.spotify.com/album/7MDOYH1n73qdrT1T6Ns7eI) | 3:13 |
-| 7 | [อกหัก \(Misery\)](https://open.spotify.com/track/2W71B3are6DesCiziawEH9) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [อกหัก \(Misery\)](https://open.spotify.com/album/2vb6W3E6LcTWGx1lymr3ZS) | 3:57 |
-| 8 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 |
-| 9 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 4 | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 |
+| 5 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
+| 6 | [อกหัก \(Misery\)](https://open.spotify.com/track/2W71B3are6DesCiziawEH9) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [อกหัก \(Misery\)](https://open.spotify.com/album/2vb6W3E6LcTWGx1lymr3ZS) | 3:57 |
+| 7 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 |
+| 8 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
+| 9 | [guilty pleasure](https://open.spotify.com/track/6NX2cVq78nBb6YWYkfr2BW) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [guilty pleasure](https://open.spotify.com/album/7MDOYH1n73qdrT1T6Ns7eI) | 3:13 |
 | 10 | [YOOM](https://open.spotify.com/track/6OrckhDU7Q8ZMDdRAKNCY7) | [QVINT](https://open.spotify.com/artist/1Tjk3sUtF6JhurRrOqasJL) | [YOOM](https://open.spotify.com/album/0lIKjnWiH2Y7Emsoymuix3) | 3:06 |
 | 11 | [แสนวิเศษ \(Gifted\) \(feat\. BLVCKHEART\)](https://open.spotify.com/track/3Xm4DmLWJ2M8btMdcW1mIJ) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [แสนวิเศษ \(Gifted\) \(feat\. BLVCKHEART\)](https://open.spotify.com/album/3b6QBlJNSCAf3MR5jEX9Wj) | 3:46 |
 | 12 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 |
 | 50 | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei), [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ) | 3:06 |
 
-Snapshot ID: `AAAAAP22NRq/b9HnXbgsvOUVGbtpblVR`
+Snapshot ID: `AAAAAK4xUkLZkZrRH3JYrgw2bCEPnHea`

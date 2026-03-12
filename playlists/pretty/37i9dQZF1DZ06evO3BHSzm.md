@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,216 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,223 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 5 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 6 | [The Seeker \- Original Single A\-Side Mix](https://open.spotify.com/track/788cNfvhhitTb5T8GORmqj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 3:12 |
 | 7 | [Behind Blue Eyes](https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 3:41 |
-| 8 | [Love Reign O'er Me](https://open.spotify.com/track/4Mqs0h95KAeNiGp7u4udlt) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:49 |
-| 9 | [Squeeze Box](https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:41 |
+| 8 | [Squeeze Box](https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:41 |
+| 9 | [Love Reign O'er Me](https://open.spotify.com/track/4Mqs0h95KAeNiGp7u4udlt) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:49 |
 | 10 | [Join Together \- Original Single A\-Side Mix](https://open.spotify.com/track/3L59mpFyXjfEOefwBfDKkj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 4:22 |
 | 11 | [Won't Get Fooled Again \- Original Album Version](https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 8:31 |
 | 12 | [You Better You Bet](https://open.spotify.com/track/58RWYT5MGo8e4Y3WAZHh9g) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 5:37 |
 | 13 | [I Can See For Miles \- Mono Version](https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 4:07 |
-| 14 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 |
-| 15 | [The Real Me](https://open.spotify.com/track/4rVvheUQ2wQpn5uXX5l0gS) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 3:20 |
-| 16 | [Substitute](https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:47 |
-| 17 | [Magic Bus \- Mono Edit](https://open.spotify.com/track/5PKnZzkjs2y3WTbIYtv5Fq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:22 |
+| 14 | [The Real Me](https://open.spotify.com/track/4rVvheUQ2wQpn5uXX5l0gS) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 3:20 |
+| 15 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 |
+| 16 | [Magic Bus \- Mono Edit](https://open.spotify.com/track/5PKnZzkjs2y3WTbIYtv5Fq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:22 |
+| 17 | [Substitute](https://open.spotify.com/track/6Ht0wBgRgLQPjIQKks766b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 3:47 |
 | 18 | [Love Ain't For Keeping](https://open.spotify.com/track/1zdmeAd3wE2VlrrxpAAEgr) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 2:10 |
 | 19 | [I'm Free](https://open.spotify.com/track/7tbp39GZvDA0cItgHynVnG) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:39 |
 | 20 | [See Me, Feel Me \- Single Version](https://open.spotify.com/track/7HVLE4CWBQjQi3Vyiz0fbe) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Hits 50 \(Deluxe\)](https://open.spotify.com/album/0FVnJBGOQD3Kx2x87Er2Az) | 3:36 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 25 | [The Kids Are Alright](https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 3:07 |
 | 26 | [Getting In Tune](https://open.spotify.com/track/0M7tdKXvtrEk26j8nXFtvC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 4:48 |
 | 27 | [I'm One](https://open.spotify.com/track/6TRQUflD06zYvNijwb2HNH) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:37 |
-| 28 | [It's A Boy](https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 0:38 |
+| 28 | [1921](https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:49 |
 | 29 | [Long Live Rock \- Single Mix](https://open.spotify.com/track/1Pq1ySROrhPJ1ljTcZPy83) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:56 |
 | 30 | [Athena](https://open.spotify.com/track/255k7GWdOau9yOsewX85lg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [It's Hard](https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A) | 3:47 |
 | 31 | [Batman \- Mono Version](https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One](https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM) | 1:34 |
-| 32 | [1921](https://open.spotify.com/track/2EJo2k8xmQsA3E5VwTta7I) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 2:49 |
+| 32 | [It's A Boy](https://open.spotify.com/track/0gH9pmlL8dGiXb1DyC08SC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 0:38 |
 | 33 | [Slip Kid](https://open.spotify.com/track/5u4ux8qOKS4fZiCoA0LcG9) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:29 |
 | 34 | [Another Tricky Day](https://open.spotify.com/track/4OOl1HrB8mN89arE62V3sX) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Face Dances](https://open.spotify.com/album/2zLGQD3h1VG2tKzJCdAAyR) | 4:56 |
 | 35 | [The Punk And The Godfather](https://open.spotify.com/track/2O1tCUkthqO7SWpXdDnp2T) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 5:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BHSzm.md) - [plain]
 | 49 | [I Am The Sea](https://open.spotify.com/track/1HKbWgJm1kYJvuU1yl7Aoy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 2:09 |
 | 50 | [Summertime Blues \- Live](https://open.spotify.com/track/1fBcUV1S7FdHcB8aSINFsB) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Live At Leeds \(Expanded Edition\)](https://open.spotify.com/album/6W3aTLI4B5UsPpWMvhT2W4) | 3:22 |
 
-Snapshot ID: `aa4NgAAAAACmKEkYqfvuNnQa4y16Jy3D`
+Snapshot ID: `aa9fAAAAAAC+nY7tlKjbwH+9Q8KDisbP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MD19TXm0aV.md) - [plain]
 
 > Switzerland's biggest hits right now\. Cover: Harry Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,362 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,367 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

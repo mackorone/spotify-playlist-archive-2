@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 
 > Jelly, arcades and a man on the moon, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,981 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,998 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 22 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:19 |
 | 23 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 24 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
-| 25 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
-| 26 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |
+| 25 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 |
+| 26 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
 | 27 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 28 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 | 29 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 34 | [Holiday](https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 6:10 |
 | 35 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 36 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
-| 37 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
-| 38 | [Ring My Bell](https://open.spotify.com/track/2BEArHIJsI5fxYEpCZv2sF) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo) | 3:32 |
+| 37 | [Ring My Bell](https://open.spotify.com/track/2BEArHIJsI5fxYEpCZv2sF) | [Anita Ward](https://open.spotify.com/artist/3Dd6jD1AApgtNoU6SJWR7P) | [Ring My Bell](https://open.spotify.com/album/5iGr1ahzViyPqmOUxSzYWo) | 3:32 |
+| 38 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 39 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 | 40 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |
 | 41 | [Too Shy](https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [White Feathers](https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z) | 3:41 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKGowYB4WMF.md) - [plain]
 | 72 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 |
 | 73 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/6S7OQQ19MSi5Fo2PQ6LL1u) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/album/6NXNYQ0pjEeqwBEU3yaKSf) | 4:05 |
 | 74 | [Brass in Pocket](https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Original Album Series](https://open.spotify.com/album/73yNa10jc7Ad4wbM3wVO81) | 3:04 |
-| 75 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
-| 76 | [Controversy](https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA) | 7:15 |
+| 75 | [Controversy](https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA) | 7:15 |
+| 76 | [My Sweet Lord \- Remastered 2014](https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:41 |
 | 77 | [Dead Ringer for Love \(with Cher\)](https://open.spotify.com/track/6LR5yuN6XStHDZiusCxqYe) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Dead Ringer](https://open.spotify.com/album/2Y9CaNn1xUX2EJWIiBG45i) | 4:20 |
 | 78 | [A Woman Needs Love \(Just Like You Do\)](https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 4:09 |
 | 79 | [Living in America](https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Living In America](https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec) | 4:08 |

@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148522,
+  "num_followers": 148527,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Acha que Eu N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "Mixtape Supernova Vol.1",
         "url": "https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 162634,
       "name": "Chicago (feat. Veigh)",
       "url": "https://open.spotify.com/track/2yipsqLP0A846JLTnYNIuG"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "Acha que Eu N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
     },
     {
       "added_at": "2026-02-27 18:07:57",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
+        "name": "Uen Uen Uen",
+        "url": "https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv"
+      },
+      "artists": [
+        {
+          "name": "Suiky",
+          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "Uen Uen Uen",
+      "url": "https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
         "name": "GET RICH",
         "url": "https://open.spotify.com/album/6Ju8WvKcYuBLWrC3AGDlzm"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 139281,
       "name": "GET RICH",
       "url": "https://open.spotify.com/track/02n0kRA0M2Gs83V9QtWw0v"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
-        "name": "Uen Uen Uen",
-        "url": "https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv"
-      },
-      "artists": [
-        {
-          "name": "Suiky",
-          "url": "https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "Uen Uen Uen",
-      "url": "https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC"
     },
     {
       "added_at": "2026-02-27 18:07:57",

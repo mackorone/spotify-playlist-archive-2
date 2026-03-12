@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Calle 24 en portada ",
-  "num_followers": 831532,
+  "num_followers": 831565,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 203357,
-      "name": "Perlas Negras",
-      "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 172682,
       "name": "Aguas",
       "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 203357,
+      "name": "Perlas Negras",
+      "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
-        "name": "Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Al\u00e9gale Al Umpire",
-      "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
         "name": "Chula Vente",
         "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Al\u00e9gale Al Umpire",
+      "url": "https://open.spotify.com/track/3KQwuuHarLTIZIUXtwDmPN"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 172157,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
-        "name": "Sin Fin",
-        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 172157,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
-        "name": "Conmigo Sin Ti",
-        "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Conmigo Sin Ti",
-      "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
-    },
-    {
-      "added_at": "2026-02-27 19:47:28",
-      "album": {
         "name": "IMU",
         "url": "https://open.spotify.com/album/1UlPDOw93Ja26s9aEvba7i"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 139734,
       "name": "IMU",
       "url": "https://open.spotify.com/track/5RGqgYKLBrLMgE2zPI600I"
+    },
+    {
+      "added_at": "2026-02-27 19:47:28",
+      "album": {
+        "name": "Conmigo Sin Ti",
+        "url": "https://open.spotify.com/album/1gLgrO1UFZ5rIM8My0r6bC"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "Conmigo Sin Ti",
+      "url": "https://open.spotify.com/track/2PJdRCB4XEwXUBZUMeC34Z"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -839,18 +839,22 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
-        "name": "OTRO DESMADRE",
-        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
+        "name": "Ctrl + Z (En Vivo)",
+        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
       },
       "artists": [
         {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 182061,
-      "name": "OTRO DESMADRE",
-      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
+      "duration_ms": 161480,
+      "name": "Ctrl + Z (En Vivo)",
+      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
     },
     {
       "added_at": "2026-02-27 19:47:28",
@@ -875,22 +879,18 @@
     {
       "added_at": "2026-02-27 19:47:28",
       "album": {
-        "name": "Ctrl + Z (En Vivo)",
-        "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
+        "name": "OTRO DESMADRE",
+        "url": "https://open.spotify.com/album/7dJxUcebpGJnaDJdXoYCIO"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
         }
       ],
-      "duration_ms": 161480,
-      "name": "Ctrl + Z (En Vivo)",
-      "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
+      "duration_ms": 182061,
+      "name": "OTRO DESMADRE",
+      "url": "https://open.spotify.com/track/4nrdgjTiyuDhT7oCWr2YKg"
     },
     {
       "added_at": "2026-02-27 19:47:28",

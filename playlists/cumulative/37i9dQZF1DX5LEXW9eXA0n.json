@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Traces of Love",
+        "url": "https://open.spotify.com/album/6yMQf9EAJBzgTjWMi8KdRt"
+      },
+      "artists": [
+        {
+          "name": "Sogaksogak",
+          "url": "https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "A Trace of Us",
+      "url": "https://open.spotify.com/track/7IzG2H3oVCeOdgQnLc93mY"
+    },
+    {
+      "album": {
         "name": "A very personal story",
         "url": "https://open.spotify.com/album/3oO0sPdkc17C9QsrvsUrxR"
       },
@@ -9768,7 +9786,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 320000,
       "name": "How Love Is",
       "url": "https://open.spotify.com/track/0mTLpIpw9Ynqwrx35cZydH"

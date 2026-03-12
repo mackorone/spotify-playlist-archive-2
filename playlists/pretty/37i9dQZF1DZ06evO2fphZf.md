@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,563 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,564 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,22 +25,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 15 | [so into you \- Spotify Singles](https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 2:53 |
 | 16 | [whatcha gotta say \(with Blxst\)](https://open.spotify.com/track/4MGD9rpRJlRj8jSfuFh4B9) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:51 |
 | 17 | [Two Truths And A Lie](https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Two Truths And A Lie](https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb) | 2:13 |
-| 18 | [trippin'](https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
-| 19 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
-| 20 | [D8](https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:41 |
-| 21 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/0di9gsacxf22J1oeTAB8Gv) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 3:33 |
+| 18 | [hair down \(with CHUNG HA\)](https://open.spotify.com/track/0J6uaKir7FzzTvnQcpg0MJ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [hair down \(with CHUNG HA\)](https://open.spotify.com/album/5pViClRtFnnMBoRwfGS2rh) | 3:29 |
+| 19 | [trippin'](https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
+| 20 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/0di9gsacxf22J1oeTAB8Gv) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 3:33 |
+| 21 | [D8](https://open.spotify.com/track/1Iki8u1ZqffZTODbvFrotd) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:41 |
 | 22 | [u should feel special](https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:37 |
 | 23 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
-| 24 | [fairy godmother](https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:43 |
-| 25 | [in my head](https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:08 |
+| 24 | [in my head](https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:08 |
+| 25 | [fairy godmother](https://open.spotify.com/track/7zstoq2sK1AKvlnzJNVEol) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:43 |
 | 26 | [trust \(feat\. RINI\)](https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:17 |
 | 27 | [Newly](https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Newly](https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK) | 2:57 |
-| 28 | [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 |
-| 29 | [in my bag](https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
-| 30 | [don't miss me too much](https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 3:17 |
-| 31 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 |
-| 32 | [shy boy](https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:39 |
-| 33 | [x's & o's \(feat\. DCMBR\)](https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:48 |
+| 28 | [in my bag](https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
+| 29 | [crash & burn](https://open.spotify.com/track/4xZ2DCv0AhOg7NUuqjRbCl) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 3:11 |
+| 30 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 |
+| 31 | [don't miss me too much](https://open.spotify.com/track/3CpvvoudcR6LJtChWIOzTo) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 3:17 |
+| 32 | [x's & o's \(feat\. DCMBR\)](https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [DCMBR](https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:48 |
+| 33 | [shy boy](https://open.spotify.com/track/2fSrOUvQT2NjGA1pheHVQH) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [wings](https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF) | 2:39 |
 | 34 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
 | 35 | [Slide](https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Slide](https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc) | 3:41 |
 | 36 | [no ties](https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [don't miss me too much](https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 49 | [Real](https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Real](https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt) | 2:56 |
 | 50 | [Love Songs](https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Love Songs](https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR) | 3:38 |
 
-Snapshot ID: `aa4NgAAAAAC97dy5vEr7/RlDzN3UxOAF`
+Snapshot ID: `aa9fAAAAAADgAgDJwVikeUf+Z+jo+WmS`

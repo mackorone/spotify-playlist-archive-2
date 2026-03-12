@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Confessions: An Unexpected Turn of Events",
+        "url": "https://open.spotify.com/album/3FvYnph2PkFCVoUkjUpMCE"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145872,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5io1H6YxPsFS7wxwHMrVCr"
+    },
+    {
+      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc"

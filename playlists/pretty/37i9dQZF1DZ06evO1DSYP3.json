@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5737,
+  "num_followers": 5738,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAARN69vk0JSqgDb5WX4ExnD",
+  "snapshot_id": "aa9fAAAAAACXgtKTSxOIcuWBaS8/lhm0",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S/O Alysa Liu",
+        "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 137019,
+      "name": "S/O Alysa Liu",
+      "url": "https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Going Off",
         "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 220058,
       "name": "WHAT WE DOIN!?",
       "url": "https://open.spotify.com/track/3OxJ4MJpDQbexNu6egTTcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S/O Alysa Liu",
-        "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 137019,
-      "name": "S/O Alysa Liu",
-      "url": "https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw"
     },
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newly",
-        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 177828,
-      "name": "Newly",
-      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 155571,
       "name": "Sneeze",
       "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newly",
+        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 177828,
+      "name": "Newly",
+      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
     },
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love Myself",
-        "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
-      },
-      "artists": [
-        {
-          "name": "Lyrics Born",
-          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Trackademicks",
-          "url": "https://open.spotify.com/artist/0qddlJTWKhAUTYYVdFEwyz"
-        }
-      ],
-      "duration_ms": 160384,
-      "name": "I Love Myself",
-      "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Vault",
         "url": "https://open.spotify.com/album/2SWrHEcHbsRIFhnuA7addE"
       },
@@ -647,6 +623,46 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Love Myself",
+        "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
+      },
+      "artists": [
+        {
+          "name": "Lyrics Born",
+          "url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Trackademicks",
+          "url": "https://open.spotify.com/artist/0qddlJTWKhAUTYYVdFEwyz"
+        }
+      ],
+      "duration_ms": 160384,
+      "name": "I Love Myself",
+      "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -1091,22 +1091,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
       },
       "artists": [
         {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
         },
         {
-          "name": "Bosko",
-          "url": "https://open.spotify.com/artist/520s2qSqvmjVMEW31EHmYJ"
+          "name": "Hollywood Cole",
+          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 182926,
-      "name": "Luh U",
-      "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
+      "duration_ms": 177000,
+      "name": "Mack",
+      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
     }
   ],
   "unique_name": "This Is P-Lo",

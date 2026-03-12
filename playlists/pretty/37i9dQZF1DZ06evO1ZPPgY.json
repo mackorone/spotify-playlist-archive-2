@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 233494,
+  "num_followers": 233501,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADh2OK8O1hgf/ZgLrYjYhga",
+  "snapshot_id": "aa9fAAAAAABqBsbGtmwHOtlII/zfZkTe",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 344600,
+      "name": "Anything You Want Me To",
+      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pavarotti - The Greatest Hits",
         "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
@@ -619,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
       },
       "artists": [
         {
@@ -628,9 +644,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 344600,
-      "name": "Anything You Want Me To",
-      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
       "duration_ms": 194173,
       "name": "Honey Please, Can't Ya See",
       "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love To Sing The Songs I Sing",
-        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 170600,
-      "name": "I Love To Sing The Songs I Sing",
-      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 305600,
-      "name": "If You Know, Won't You Tell Me",
-      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 452306,
       "name": "Sha La La Means I Love You",
       "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 305600,
+      "name": "If You Know, Won't You Tell Me",
+      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
     },
     {
       "added_at": null,

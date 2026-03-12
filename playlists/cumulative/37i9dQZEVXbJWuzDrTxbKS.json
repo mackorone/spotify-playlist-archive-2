@@ -706,7 +706,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -2571,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0HDvC5z6VwWB8oX2vr9F9C"
+      },
+      "artists": [
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        },
+        {
+          "name": "Wiesulis",
+          "url": "https://open.spotify.com/artist/7u9HzYQPhBC92mdvpzGqu8"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255083,
+      "name": "Amb\u012bcijas",
+      "url": "https://open.spotify.com/track/2KB865AEOeCRtx0bIYVO17"
+    },
+    {
+      "album": {
         "name": "PEEKABOO",
         "url": "https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi"
       },
@@ -3354,7 +3376,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 192400,
       "name": "Are You Listening Yet?",
       "url": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
@@ -3710,6 +3732,28 @@
       "duration_ms": 189002,
       "name": "Atpaka\u013c Pie Sakn\u0113m",
       "url": "https://open.spotify.com/track/4pcdLBZPVcsT4hag3NKuWw"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0HDvC5z6VwWB8oX2vr9F9C"
+      },
+      "artists": [
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        },
+        {
+          "name": "go\u010da",
+          "url": "https://open.spotify.com/artist/58Lv2hHl4JlN4wkwGmrceH"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282796,
+      "name": "Atpaka\u013c uz 1005",
+      "url": "https://open.spotify.com/track/6p2MQNzWlivLJgB2zmu1nG"
     },
     {
       "album": {
@@ -12478,7 +12522,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -15212,7 +15256,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
@@ -17134,7 +17178,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
@@ -19382,7 +19426,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -24284,6 +24328,28 @@
       "duration_ms": 281000,
       "name": "Kust\u012bba",
       "url": "https://open.spotify.com/track/5dQa7qeNV7WMV833QDCZ1Q"
+    },
+    {
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0HDvC5z6VwWB8oX2vr9F9C"
+      },
+      "artists": [
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        },
+        {
+          "name": "Kjuumanis",
+          "url": "https://open.spotify.com/artist/602h3Rd1mXFnbOASfz971e"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167399,
+      "name": "K\u0101 (Neko par visu)",
+      "url": "https://open.spotify.com/track/5G41Qe0uuDmFvozj91s4iA"
     },
     {
       "album": {
@@ -29238,7 +29304,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 209226,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"
@@ -32687,6 +32753,28 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0HDvC5z6VwWB8oX2vr9F9C"
+      },
+      "artists": [
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        },
+        {
+          "name": "Steps",
+          "url": "https://open.spotify.com/artist/6RqVzuPaClLObg598kQEn7"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264635,
+      "name": "Nodev\u012bba",
+      "url": "https://open.spotify.com/track/1tDiUZqs9s5noGfpZMbAxZ"
+    },
+    {
+      "album": {
         "name": "P\u016b\u0137a Lieto\u0161anas Instrukcija",
         "url": "https://open.spotify.com/album/4hdkDjUjMdx81s3S7dKTXG"
       },
@@ -33344,7 +33432,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 169680,
       "name": "N\u0101rnija",
       "url": "https://open.spotify.com/track/6tbEF9YpayX9uqAA5ezx1j"
@@ -33802,7 +33890,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -36439,6 +36527,28 @@
     },
     {
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/0HDvC5z6VwWB8oX2vr9F9C"
+      },
+      "artists": [
+        {
+          "name": "ansis",
+          "url": "https://open.spotify.com/artist/7tkMUE1aCZQssaTYKdgmry"
+        },
+        {
+          "name": "Marko",
+          "url": "https://open.spotify.com/artist/3ZgKjRocEczVCcOiWKDkOZ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271279,
+      "name": "Pirm\u0101s rindas",
+      "url": "https://open.spotify.com/track/22canFEwRRpLPDFsvlyW9Z"
+    },
+    {
+      "album": {
         "name": "PIXELATED KISSES",
         "url": "https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w"
       },
@@ -38844,7 +38954,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -41330,7 +41440,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -45536,7 +45646,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -46250,7 +46360,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 221653,
       "name": "Taste Back",
       "url": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"
@@ -51698,7 +51808,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 264545,
       "name": "V\u0113lvienreiz",
       "url": "https://open.spotify.com/track/5DzO7UTlmA6O6J0GLsTxGy"
@@ -53094,7 +53204,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

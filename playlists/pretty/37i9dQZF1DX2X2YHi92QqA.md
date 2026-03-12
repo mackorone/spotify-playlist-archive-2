@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Прощавай, зимо! 🌞👗🌺
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,313 likes - 60 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,312 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 37 | [Останні дні літа](https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL) | [Spiv Brativ](https://open.spotify.com/artist/1R7CiJX2ZHVowGfQ3GZW6b) | [Останні дні літа](https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam) | 3:30 |
 | 38 | [десь так двічі](https://open.spotify.com/track/0y92ecGtqkj26sUMQuKChn) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd), [Feviane](https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14) | [десь так двічі](https://open.spotify.com/album/0UKUZpOXurfrbMsjzgbkh2) | 3:17 |
 | 39 | [Місто](https://open.spotify.com/track/7bF2K3W2oBO7WHlWHwDJ7h) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Місто](https://open.spotify.com/album/2WYvnOaNKWahvHvgYqgDbl) | 2:18 |
-| 40 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
-| 41 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
+| 40 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
+| 41 | [Останній день літа](https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Останній день літа](https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8) | 3:18 |
 | 42 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
 | 43 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 |
 | 44 | [Гість](https://open.spotify.com/track/4QkqXbUMVAvsuZjTzw3dqr) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [HEARTBEAT](https://open.spotify.com/album/6Ep6BXKMZjgmrumX1ntPiY) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,818 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,833 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 16 | [Black Jack](https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:05 |
 | 17 | [Pase De Pescado \(En Vivo\)](https://open.spotify.com/track/6clvlKxsgxbMsDcBK3lvQv) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II \(En Vivo\)](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 3:20 |
 | 18 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
-| 19 | [Amo](https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Amo](https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1) | 3:39 |
-| 20 | [El Michoacano](https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Michoacano](https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw) | 3:47 |
+| 19 | [El Michoacano](https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Michoacano](https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw) | 3:47 |
+| 20 | [Amo](https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Amo](https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1) | 3:39 |
 | 21 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 22 | [JOHNNIE WALKER](https://open.spotify.com/track/3GUjBw5ded9CUXI664L3tl) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:15 |
 | 23 | [Una Chevy](https://open.spotify.com/track/7xxQJetweF4orA784Bfae2) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Una Chevy](https://open.spotify.com/album/6Yt4FwoiLC7XebognYM5fx) | 2:21 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 29 | [La Vida Recia](https://open.spotify.com/track/5GswRJyyhV5shlbJzBG4Os) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:08 |
 | 30 | [130](https://open.spotify.com/track/4xcXkTpCv3rcD3LVPnPdX4) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/5DDZQEz6e4efFscgAiocQe) | 3:03 |
 | 31 | [Contigo Hasta La Muerte](https://open.spotify.com/track/76E5MUWqzxtO3YLuTAonlM) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Bendecido](https://open.spotify.com/album/0PlnseVfDizWtVGxy0aG21) | 2:32 |
-| 32 | [POR TU CULPA](https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:49 |
-| 33 | [En El Este](https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:11 |
+| 32 | [En El Este](https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Agradecido](https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH) | 2:11 |
+| 33 | [POR TU CULPA](https://open.spotify.com/track/0EugWUjWRCMnWLIXEAIejI) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:49 |
 | 34 | [Aqui Nadie Va Llorar](https://open.spotify.com/track/3GsyP1fVOdYIOMnDdHqqK3) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Aqui Nadie Va Llorar](https://open.spotify.com/album/7jE1VwGCyweX4rWukicMVq) | 3:15 |
 | 35 | [El Muchachon](https://open.spotify.com/track/5AJ76ymr2po9eU3z9Kks1O) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Muchachon](https://open.spotify.com/album/16oNWUo02F6vehFx1VVfLN) | 3:21 |
 | 36 | [Todo Gracias Al Señor](https://open.spotify.com/track/5uVPqmFDUeveJ1bQFtWTyY) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Todo Gracias Al Señor](https://open.spotify.com/album/7AJ5n8CY216ToSbc9MhICq) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [Dinero Voy Ganado](https://open.spotify.com/track/4VGJUzHyzJjT91oVBc1b1U) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos](https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH) | 3:04 |
 | 50 | [FUIMOS CASI ALGO](https://open.spotify.com/track/5juswOHyQNEBSC5b9WQWXn) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [AMARTE ME HIZO ODIARTE](https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H) | 2:41 |
 
-Snapshot ID: `aa4NgAAAAABQTjpyv+KTaNc/LXg60OTA`
+Snapshot ID: `aa9fAAAAAABmIYIrZdbsheuXL4JOs7ap`

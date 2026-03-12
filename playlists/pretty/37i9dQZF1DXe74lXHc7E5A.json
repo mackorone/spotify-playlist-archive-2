@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Baby Keem",
-  "num_followers": 43915,
+  "num_followers": 43930,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,30 @@
     {
       "added_at": "2026-03-05 21:10:26",
       "album": {
+        "name": "Cry No More (feat. Stormzy & Tay Keith)",
+        "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 204170,
+      "name": "Cry No More (feat. Stormzy & Tay Keith)",
+      "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
+    },
+    {
+      "added_at": "2026-03-05 21:10:26",
+      "album": {
         "name": "Try To Love",
         "url": "https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 211717,
       "name": "No Sharing (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
-    },
-    {
-      "added_at": "2026-03-05 21:10:26",
-      "album": {
-        "name": "Cry No More (feat. Stormzy & Tay Keith)",
-        "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
-      },
-      "artists": [
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 204170,
-      "name": "Cry No More (feat. Stormzy & Tay Keith)",
-      "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
     },
     {
       "added_at": "2026-03-05 21:10:26",

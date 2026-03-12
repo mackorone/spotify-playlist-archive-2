@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u690e\u540d\u6797\u6a8e *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344477\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u690e\u540d\u6797\u6a8e *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/344652\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -3796,6 +3796,24 @@
       "duration_ms": 1602827,
       "name": "2026/2/4 MISAMO\u304c\u30ab\u30d0\u30fc\uff01\u3061\u3083\u3093\u307f\u306a\u306e\u65b0\u66f2\u3001CHAI\u306eMANA\u30fbKANA\u306b\u3088\u308b\u65b0\u30d7\u30ed\u30b8\u30a7\u30af\u30c8OKAME\u306e1st\u30a2\u30eb\u30d0\u30e0\u3001KID FRESINO\u00d7YONCE\u306e\u30b3\u30e9\u30dc\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01Early Noise\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8luv\u306e\u65b0\u66f2\u3082\uff01ONE OR EIGHT\u304b\u3089\u30e1\u30c3\u30bb\u30fc\u30b8\u3082\u5230\u7740\uff01\uff01",
       "url": "https://open.spotify.com/episode/5FYvVOAdls9Dv6MirODBMc"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3675533,
+      "name": "2026/3/11 \u690e\u540d\u6797\u6a8e\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01\u3086\u305a\u306e\u30ed\u30f3\u30b0\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\uff01\u3044\u304d\u3082\u306e\u304c\u304b\u308a\u306e\u65b0\u89e3\u91c8\u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3\u30a2\u30eb\u30d0\u30e0\u3001\u3061\u3083\u3093\u307f\u306a\u3068INI\u897f\u6d38\u4eba\u306e\u30b3\u30e9\u30dc\u3001Daichi Yamamoto\u3001MIKADO\u3001NENE\u306b\u3088\u308b\u300ePOP YOURS\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01",
+      "url": "https://open.spotify.com/episode/6wQ0JZoFhxZVDXT9fbcW4l"
     },
     {
       "album": {
@@ -26119,6 +26137,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Doors",
+        "url": "https://open.spotify.com/album/6sF0p3FrNTeCy2S7TeM8Cw"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Butterfly Doors",
+      "url": "https://open.spotify.com/track/0oCeMmzRhlreWtTvxs11XS"
+    },
+    {
+      "album": {
         "name": "BUTTERFLY EFFECT",
         "url": "https://open.spotify.com/album/2Tlb8Amtn45Rrife1VRUn4"
       },
@@ -28156,6 +28192,24 @@
       "duration_ms": 213786,
       "name": "Catch a Wave",
       "url": "https://open.spotify.com/track/2MbxU95EQZbdRo0biiC6M2"
+    },
+    {
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
       "album": {
@@ -137283,6 +137337,24 @@
     },
     {
       "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/7bfN3FS1X4bbrsbj7OWQQM"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/3bLIGrwGTdupBvjcujZEmc"
+    },
+    {
+      "album": {
         "name": "Virgin",
         "url": "https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ"
       },
@@ -190494,8 +190566,8 @@
       },
       "artists": [
         {
-          "name": "Miliyah",
-          "url": "https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND"
+          "name": "MILIYAH",
+          "url": "https://open.spotify.com/artist/5BuSmo5epEbM7Mt0KzLO2Q"
         }
       ],
       "date_added": "2026-03-10",

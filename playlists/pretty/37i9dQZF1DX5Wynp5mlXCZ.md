@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Kler
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,011 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,020 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 57 | [Хто якщо не ми](https://open.spotify.com/track/191XHBxla6n4hyz7x3NssJ) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Хто якщо не ми](https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3) | 2:43 |
 | 58 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 59 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
-| 60 | [Reborn](https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 5:42 |
-| 61 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
+| 60 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
+| 61 | [Reborn](https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 5:42 |
 | 62 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 |
 | 63 | [TYT](https://open.spotify.com/track/6qj3K4gUD0vALscsTgMUpV) | [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF) | [TYT](https://open.spotify.com/album/5e5IyjB6CJTrEh8TD5YzhR) | 2:46 |
 | 64 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Romcom](https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d) | 3:13 |

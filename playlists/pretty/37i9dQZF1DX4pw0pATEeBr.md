@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 
 > Versos y barras de alto poder
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,055 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,174 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pw0pATEeBr.md) - [plain]
 | 43 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 |
 | 44 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 |
 | 45 | [Volando](https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volando](https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp) | 3:38 |
-| 46 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 |
-| 47 | [Pesao](https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 3:28 |
+| 46 | [Pesao](https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG), [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 3:28 |
+| 47 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 |
 | 48 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 |
 | 49 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 50 | [Por Mi México](https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:38 |

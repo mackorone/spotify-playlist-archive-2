@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 
 > O balanço é certo: a sua festa de brasilidades tá aqui!
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,855 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,891 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 33 | [Pintura íntima \- Compacto](https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru) | [Kid Abelha](https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H) | [2 é Demais](https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG) | 4:27 |
 | 34 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
 | 35 | [Esperar Pra Ver](https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99) | [Brazilian Compilation Series, Vol\. 2](https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o) | 5:00 |
-| 36 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
-| 37 | [À Francesa](https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Rock Lima](https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF) | 4:08 |
+| 36 | [À Francesa](https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Rock Lima](https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF) | 4:08 |
+| 37 | [Swing da Cor \- Ao Vivo](https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:35 |
 | 38 | [Agora só falta você](https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 3:24 |
 | 39 | [Bananeira \(Remastered\)](https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8) | [Emílio Santiago](https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt) | [Emilio Santiago \(Remastered\)](https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU) | 2:53 |
 | 40 | [Festa de Umbanda](https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 3:54 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOhsna07Pvz.md) - [plain]
 | 63 | [Pé do Meu Samba \- Ao Vivo](https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Mart'nália em Berlim \(Ao Vivo\)](https://open.spotify.com/album/4kHfyQk8e7Nqkd3B4Np8cG) | 4:16 |
 | 64 | [Meu Sangue Ferve Por Você](https://open.spotify.com/track/7DFmmRFl6ms2E9FNCVyM0T) | [Sidney Magal](https://open.spotify.com/artist/5rTeMryHu78OcG49ySDHU1) | [Chacrinha \- O Musical](https://open.spotify.com/album/0BA8MBSI22zv5YhFeAUEHe) | 3:14 |
 | 65 | [Canta Sabiá](https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8) | [Mateus Aleluia](https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8), [Thiago França](https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O) | [Olorum](https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O) | 4:18 |
-| 66 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
-| 67 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
-| 68 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 |
-| 69 | [Danada](https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk) | [Banda Eddie](https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO) | [Metropolitano](https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M) | 4:46 |
+| 66 | [Vou Festejar](https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 3:10 |
+| 67 | [Funk\-se quem puder](https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Extra](https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD) | 3:11 |
+| 68 | [Danada](https://open.spotify.com/track/2k14GJCIjWUuOJ39cloaGk) | [Banda Eddie](https://open.spotify.com/artist/60nL5yXKnZlC4wheEmmBoO) | [Metropolitano](https://open.spotify.com/album/2tvKHtzmcqpONO2EQfhL8M) | 4:46 |
+| 69 | [16 Toneladas](https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe) | [Funk Como Le Gusta](https://open.spotify.com/artist/4EdK5PbxoQyOAJFWpc8xLg), [BiD](https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm) | [Roda de Funk](https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S) | 3:11 |
 | 70 | [Emoriô](https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn) | [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Welcome To The ORISHAS HOMELAND \- In The Rhythm Of Nature And Faith](https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q) | 2:42 |
 
 Snapshot ID: `AAAAADd59DAOpNmSfaS2MFpv/6CPzhvc`

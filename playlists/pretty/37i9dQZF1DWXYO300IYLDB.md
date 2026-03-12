@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,299 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,300 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 42 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 |
 | 43 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 44 | [Soft Spot \- Acoustic](https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot \(Alternate Versions\)](https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe) | 3:28 |
-| 45 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
-| 46 | [Save Tonight](https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI) | 4:30 |
+| 45 | [Save Tonight](https://open.spotify.com/track/110YC8JMSnxlr5dFrtEdiP) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Save Tonight](https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI) | 4:30 |
+| 46 | [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 |
 | 47 | [Linger](https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Linger](https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx) | 3:21 |
 | 48 | [Dreams \- Piano Version](https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [When I'm Alone: The Piano Retrospective](https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA) | 4:34 |
 | 49 | [My Maker](https://open.spotify.com/track/0CytapqefuNILUq2YdFw78) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [My Maker](https://open.spotify.com/album/47wcmMq8SaCVM5R7wOW8e4) | 4:19 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 58 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 59 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 |
 | 60 | [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 |
-| 61 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
-| 62 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
+| 61 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
+| 62 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
 | 63 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 64 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
 | 65 | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Simply the Best \(From "Schitt's Creek"\)](https://open.spotify.com/album/3fXVr1gH016lXMwp2skLDu) | 2:57 |
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 74 | [そっけない](https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Dear Jubilee \-RADWIMPS TRIBUTE\-](https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I) | 6:49 |
 | 75 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 |
 | 76 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 |
-| 77 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 |
-| 78 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
+| 77 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
+| 78 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 |
 | 79 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
-| 80 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
-| 81 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
+| 80 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
+| 81 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
 | 82 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 83 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
 | 84 | [Goodbye \(Don’t Tell Me\)](https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 4:17 |

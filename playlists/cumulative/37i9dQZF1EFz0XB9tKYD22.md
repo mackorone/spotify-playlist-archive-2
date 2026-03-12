@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-436 songs - 1 day 1 hr 43 min
+437 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [Mess With Missing You \(with Carly Pearce\)](https://open.spotify.com/track/2eL9xMNYl1R36f7eZavDpg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Learn The Hard Way](https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp) | 3:38 | 2025-11-13 |  |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2024-02-27 |  |
 | [Million Reasons \- Andrelli Remix](https://open.spotify.com/track/0zf56ykB0pVddnwcQkWSlK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC) | [Million Reasons \(Andrelli Remix\)](https://open.spotify.com/album/5hm4Q0TO8mEbJCBLYMzhse) | 4:04 | 2025-01-09 | 2025-04-12 |
-| [Mine](https://open.spotify.com/track/6dTUPa2ZRof39DUB0pDrBf) | [Homegrown Peaches](https://open.spotify.com/artist/0MgubPtKQlxp3TkaDGGlPg) | [All American Girls](https://open.spotify.com/album/2i6pJv5v5VAKNuNQoG3LNB) | 3:54 | 2026-02-19 |  |
+| [Mine](https://open.spotify.com/track/6dTUPa2ZRof39DUB0pDrBf) | [Homegrown Peaches](https://open.spotify.com/artist/0MgubPtKQlxp3TkaDGGlPg) | [All American Girls](https://open.spotify.com/album/2i6pJv5v5VAKNuNQoG3LNB) | 3:54 | 2026-02-19 | 2026-03-12 |
+| [Mine](https://open.spotify.com/track/1cCs7Wvv4EZ88lHjN1FbWz) | [SingLike](https://open.spotify.com/artist/0BBdrDvbZmjZykvWZwIuL6) | [Mine \- Single](https://open.spotify.com/album/6G35RpfTGXJMde1BRuoY82) | 3:52 | 2026-03-11 |  |
 | [Mine](https://open.spotify.com/track/6LxvSVIXjn7Qy8vIW5E5S0) | [Swordbelt's Band](https://open.spotify.com/artist/3iB2MxQhPEr7ShkGKH29bk) | [Top Hits\-Country](https://open.spotify.com/album/7wVFWTUWTVIf8Qp4z0ON1w) | 3:56 | 2024-02-27 | 2026-02-20 |
 | [Monsters](https://open.spotify.com/track/3kLChd6atCWKPz1WzufHQo) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Honeymind](https://open.spotify.com/album/4m6z4j8iS3wqv0kY9lmsDC) | 4:00 | 2024-06-02 |  |
 | [My Weakness](https://open.spotify.com/track/5F9sYyKHnLshRcwXOWmY1w) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [GEORGIA](https://open.spotify.com/album/3DmTwDlyCJ4zEFM6qmquL4) | 3:55 | 2024-02-27 |  |

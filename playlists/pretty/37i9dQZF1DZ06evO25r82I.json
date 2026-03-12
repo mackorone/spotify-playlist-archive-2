@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 49316,
+  "num_followers": 49325,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAATuMNIqwkpvG3YVFVcqJzK",
+  "snapshot_id": "aa9fAAAAAADHMinDRBfaO/DLY83S9Ekj",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Integrity Blues",
         "url": "https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 318382,
       "name": "You With Me",
       "url": "https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-569 songs - 1 day 9 hr 58 min
+570 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [On brûlera \- Session live montréalaise](https://open.spotify.com/track/4wSRWH4P7tp6bRXxWRA3Rs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [À peu près \(Deluxe\)](https://open.spotify.com/album/7BZrBzCAehFjU6mP3JCnmc) | 3:49 | 2021-10-04 | 2022-02-08 |
 | [On brûlera \- Spotify Singles](https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Spotify Singles](https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp) | 3:28 | 2022-08-22 | 2024-09-21 |
 | [On lui doit notre sang](https://open.spotify.com/track/0exEszTvulIT0w8W5sSdoC) | [Manahel](https://open.spotify.com/artist/202NYrsgt4o5JUJIVGpKCI) | [On lui doit notre sang](https://open.spotify.com/album/2tuQ4V6oMvfxuAanXSOliP) | 2:26 | 2021-01-03\* | 2021-01-15 |
+| [On Time](https://open.spotify.com/track/5VIHl6ClOREraq2WXR4EEK) | [Alex Mick](https://open.spotify.com/artist/0WoFoQAvv1ul6lQKQaGu0b) | [Never Really Enough](https://open.spotify.com/album/0LXaVDXe6vWukFLbVPQyBL) | 3:23 | 2026-03-06 |  |
 | [Ovni \(C\-132\)](https://open.spotify.com/track/6ATlxhYNWlz0nAUJoeoyry) | [Matt Boudreau](https://open.spotify.com/artist/6r5xvxemxhGGIjDOqmO4wV) | [Ovni \(C\-132\)](https://open.spotify.com/album/40SV2LYDGopKziBbqHPljR) | 3:13 | 2022-01-28 | 2022-07-29 |
 | [Où va ce chagrin](https://open.spotify.com/track/3hylbaK7bxwEvlrH9eUIZG) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Airs païens](https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD) | 3:34 | 2021-03-14 | 2021-11-13 |
 | [Où va la vie](https://open.spotify.com/track/1sQhOsKwdPTyXpLHEz104D) | [Charles Landry](https://open.spotify.com/artist/5VxekmRCYtMt6YUrPBblUj) | [Où va la vie](https://open.spotify.com/album/7fq8W6tJKt3aNtRHSBcB11) | 3:02 | 2021-01-03\* | 2022-07-06 |
@@ -478,7 +479,7 @@
 | [Stains](https://open.spotify.com/track/3oSF0S8651gOA0EF8gKhjk) | [Anna Justen](https://open.spotify.com/artist/5I7Lr9ifQWQv9UdzU9BZr7) | [Stains](https://open.spotify.com/album/5g7kYBupmobmzu8J7ExUjR) | 3:56 | 2022-03-25 | 2023-01-17 |
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 | 2025-02-17 |
 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 | 2022-01-21 | 2026-03-09 |
-| [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 |  |
+| [Swimmer](https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Swimmer](https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N) | 3:33 | 2022-02-11 | 2026-03-12 |
 | [Sycomore](https://open.spotify.com/track/6fu86kCRpRGMPSgaDrWh8J) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Bras solaires](https://open.spotify.com/album/1TXUlko1ECf7npkQfsgZCo) | 2:37 | 2025-11-14 | 2025-12-20 |
 | [T'aimer est si beau](https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [T'aimer est si beau](https://open.spotify.com/album/4TTXE3ooJbF4BucR3bCaet) | 7:33 | 2021-06-20 | 2022-01-29 |
 | [Ta robe](https://open.spotify.com/track/0dHKe4bAv3HsL4hVLSzUOH) | [Lynda Lemay](https://open.spotify.com/artist/6rVJyC8TepqtRRPeEFZfi0) | [Ta robe](https://open.spotify.com/album/3xYtKjDMC9AbC3A2BtE6mt) | 3:29 | 2021-01-03\* | 2021-09-29 |

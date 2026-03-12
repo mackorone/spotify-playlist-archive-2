@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,612 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,654 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 47 | [Sanctified Lady](https://open.spotify.com/track/4qGgCG44YaybkBZtVJZ2bo) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Dream Of A Lifetime](https://open.spotify.com/album/3R77KUZFEdUDsPcOCTRkPf) | 5:25 |
 | 48 | [How Much Can You Take?](https://open.spotify.com/track/52MBGU6vfC5szW3ASgliPT) | [M.C\. A.D.E.](https://open.spotify.com/artist/0jveTQoUhhYD72xp3iGoQT) | [How Much Can You Take](https://open.spotify.com/album/2tcn2YqXFYVMFC1iNwC5Lu) | 3:22 |
 | 49 | [Problèmes d'Amour](https://open.spotify.com/track/5BCD68l2CC8BdJB0ZGA3N9) | [Alexander Robotnick](https://open.spotify.com/artist/4ssHihhGpCx4eftfzAI3jq), [Martine Michellod](https://open.spotify.com/artist/7pIXHr4dSVcJmi6a4LOIZE) | [Ce n'est q'un début \(Remastered\)](https://open.spotify.com/album/4LIUpkPUBnNGUYkgNuCHAs) | 4:30 |
-| 50 | [Boyz\-N\-The\-Hood \- Remastered 2002](https://open.spotify.com/track/3MOaCYx0basuKRolaLeYlM) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Eternal E: Gangsta Memorial Edition](https://open.spotify.com/album/6IoHB4CnCpbZBowrf1qySr) | 6:18 |
+| 50 | [Rock the Box](https://open.spotify.com/track/6gzUi6an8slC9kR2A2GLiE) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Rock the Box](https://open.spotify.com/album/7v0FikRO5HniiN7NV5Ciem) | 5:00 |
 
 Snapshot ID: `AAAAAH7aUVCsJLn9nrVAkmtL+q+saJgl`

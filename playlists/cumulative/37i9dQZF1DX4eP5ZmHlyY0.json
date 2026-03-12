@@ -4006,7 +4006,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 173334,
       "name": "EX",
       "url": "https://open.spotify.com/track/50ARYbP5bKUn4YVKZIEfbS"
@@ -4140,7 +4140,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 187000,
       "name": "Falling (Feat. Young K (DAY6))",
       "url": "https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw"
@@ -6022,7 +6022,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 182013,
       "name": "How Can I Do",
       "url": "https://open.spotify.com/track/2e9IAFsDNri6u0t4Sf9iZ2"
@@ -6948,6 +6948,28 @@
       "duration_ms": 195000,
       "name": "Just Say Yes",
       "url": "https://open.spotify.com/track/5BxqNSdRok2AaGSYVFXdmY"
+    },
+    {
+      "album": {
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
     },
     {
       "album": {
@@ -12432,7 +12454,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 222000,
       "name": "Still Love You",
       "url": "https://open.spotify.com/track/1iTD1cezCFJgVsTQ9shCnI"
@@ -14876,7 +14898,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 168000,
       "name": "WONDERING",
       "url": "https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01"
@@ -16596,6 +16618,24 @@
       "duration_ms": 221400,
       "name": "\u62dd\u5553\u3001\u4ffa\u305f\u3061\u3078",
       "url": "https://open.spotify.com/track/3qWHp0OmRVLJ1BumXjg03A"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u4e16\u754c (SHINSEKAI)",
+        "url": "https://open.spotify.com/album/0DBB1psohZhdqHYZwnkbfA"
+      },
+      "artists": [
+        {
+          "name": "PRODUCE 101 JAPAN \u65b0\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/17Tf7xytmDacGJe4LMTTlz"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "\u65b0\u4e16\u754c (SHINSEKAI)",
+      "url": "https://open.spotify.com/track/1RKxgExJrU3UM7jM8TcL2G"
     },
     {
       "album": {

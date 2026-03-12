@@ -4,7 +4,7 @@
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-57 songs - 4 hr 22 min
+58 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Fire on Babylon](https://open.spotify.com/track/3epM2ku3Ltw2v1gaZ5KWUO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 5:11 | 2025-10-28 |  |
 | [GMF](https://open.spotify.com/track/0uul4WzezEwTELfdrWuh3d) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Pale Green Ghosts](https://open.spotify.com/album/23jVGTd2ouvUNmoWPDkthH) | 5:13 | 2025-10-28 |  |
 | [Harbour \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/5R5cPSgvNPmGv3YmlWfhds) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [18](https://open.spotify.com/album/200xhXQBPc2OWPsZ3koxTc) | 6:27 | 2025-10-28 |  |
+| [Haunted](https://open.spotify.com/track/4zr5Huevk5ji2MCRnxp7vu) | [Shane MacGowan](https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Haunted](https://open.spotify.com/album/4T9R0uORv15JXYVI0sLG4c) | 4:12 | 2026-03-12 |  |
 | [He Moved Through the Fair](https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 4:22 | 2025-10-28 |  |
 | [Heroine](https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Steve Lillywhite](https://open.spotify.com/artist/7fGW0xHsS8qa4W9KeHOQqN) | [Captive Original Soundtrack](https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT) | 4:27 | 2025-10-28 |  |
 | [Hold Back the Night](https://open.spotify.com/track/68zWa6LL9JDkj7erokMETN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 4:10 | 2025-12-12 | 2025-12-19 |
@@ -51,7 +52,7 @@
 | [Scorn Not His Simplicity](https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 4:26 | 2025-10-28 |  |
 | [Special Cases](https://open.spotify.com/track/0l1eE11aDKxc8ZOYUSXWP9) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 5:09 | 2025-10-28 |  |
 | [Streets of London](https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 4:12 | 2025-10-28 |  |
-| [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 | 2025-10-28 |  |
+| [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 | 2025-10-28 | 2026-03-12 |
 | [Sweet Soul Dream](https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Goodbye Jumbo](https://open.spotify.com/album/0NHOAAAuzEglpm88igZi1a) | 4:39 | 2025-10-31 | 2026-02-25 |
 | [Take Me to Church](https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:01 | 2025-10-28 |  |
 | [Tears From The Moon](https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Conjure One](https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB) | 4:17 | 2025-10-28 |  |

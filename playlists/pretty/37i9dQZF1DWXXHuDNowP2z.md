@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 
 > ¡A levantar polvadera!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,444 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,508 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 77 | [El Son de la Rabia](https://open.spotify.com/track/43RsJKvBwxrseYFwUqkroO) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3) | [10 Pa' Huapanguear](https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di) | 3:39 |
 | 78 | [Es Parte Del Show](https://open.spotify.com/track/4AlLi2xehkaTJmQSI3ISvW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Es Parte Del Show](https://open.spotify.com/album/5bCWc6JMufwJSVjwLwYlwx) | 2:53 |
 | 79 | [Por Una Lagrima](https://open.spotify.com/track/5XBtCDWEbrNMNYPl73SGu5) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:58 |
-| 80 | [Mujer Interesada](https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:40 |
-| 81 | [El Pistolero \- El Chinelito Borracho \- Popurrí / En Vivo](https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:53 |
+| 80 | [El Pistolero \- El Chinelito Borracho \- Popurrí / En Vivo](https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:53 |
+| 81 | [Mujer Interesada](https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Mujer Interesada](https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a) | 2:40 |
 | 82 | [La Cara Sucia](https://open.spotify.com/track/5ztf8zS3mOOibAOEc6jhuA) | [Adan Romero](https://open.spotify.com/artist/1gkGKzeXQYnVPI76yDlOqz) | [Solo Un Dia…](https://open.spotify.com/album/6CpCo3owrPMEiQjREEFuk0) | 4:10 |
 | 83 | [Me Pierdo \(En Vivo\)](https://open.spotify.com/track/4q3vxXsDiZbdAv1wOr6gU5) | [Su Majestad La Brissa](https://open.spotify.com/artist/7a3iMWZsFMqrVItxwFVo5L), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Me Pierdo \(En Vivo\)](https://open.spotify.com/album/1Prj4dQS9QKnhZdlyBhqOn) | 3:05 |
 | 84 | [Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana](https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD) | [Banda La Fregona](https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7) | [Una No Es Ninguna](https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw) | 4:11 |
@@ -125,12 +125,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXHuDNowP2z.md) - [plain]
 | 115 | [SC\-9](https://open.spotify.com/track/2y3TKxJAaIauybiS3GKHon) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [SC\-9](https://open.spotify.com/album/74LgaGQ9jTfnBlew28NHj2) | 2:45 |
 | 116 | [La Boda Del Huitlacoche \- Live](https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Borrachera Con Los Honorables \(Live\)](https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv) | 3:08 |
 | 117 | [Tan Bella y Tan Presumida](https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Tan Bella y Tan Presumida](https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici) | 3:01 |
-| 118 | [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 |
-| 119 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 |
+| 118 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
+| 119 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/435g6uM0Atz3MyYwafHEss) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:45 |
 | 120 | [LA CUMBIA DEL CASTOR](https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L) | [Yahir Saldivar](https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ) | [LA CUMBIA DEL CASTOR](https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy) | 4:10 |
-| 121 | [No Bailes De Caballito](https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar De Caballito](https://open.spotify.com/album/2rXbAorimO8C06RkqS2oq5) | 4:01 |
-| 122 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 |
-| 123 | [Jambalaya](https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 2:37 |
+| 121 | [Jambalaya](https://open.spotify.com/track/1MDa6p9XrN9IMvKqS4PEm3) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359) | [Serie 33](https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C) | 2:37 |
+| 122 | [La Picare](https://open.spotify.com/track/3ymkBiqugciORjivytO221) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [El Tropezon](https://open.spotify.com/album/3kksc8gfXJXjJ43YGlYwcQ) | 4:20 |
+| 123 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 |
 | 124 | [Celoso](https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Celoso](https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj) | 3:21 |
 | 125 | [Sangoloteadito](https://open.spotify.com/track/42D6y1VGayuix2t3XRMz1u) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 3:00 |
 | 126 | [El Son Del Tlacololero](https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [El Son Del Tlacololero](https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o) | 5:15 |

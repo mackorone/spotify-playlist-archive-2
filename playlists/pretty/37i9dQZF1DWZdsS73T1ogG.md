@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Victor Mendivil & Hades66
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,894 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,935 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 19 | [LO LOGRASTE](https://open.spotify.com/track/2zLYbq2qwbxxhdUvA0vHjY) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LO LOGRASTE](https://open.spotify.com/album/05CqESbsneLMu5LyRWyVBb) | 3:42 |
 | 20 | [Champan](https://open.spotify.com/track/0jOpQfWdbUVyTctLFMOyvr) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Trapeando Vol\. 1](https://open.spotify.com/album/4wUR7kiP4BD6XZmqnhg35R) | 3:00 |
 | 21 | ["EMHDM"](https://open.spotify.com/track/5NbIHx26LyFkW2oSNSCYBV) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | ["EMHDM"](https://open.spotify.com/album/3biFY6bFZVVEqy9DPYu5KI) | 3:03 |
-| 22 | [Toda La Vida \- HGM 002](https://open.spotify.com/track/267NFRuqaLqq1qt9DVuwvE) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Toda La Vida \(HGM 002\)](https://open.spotify.com/album/2OkZ9E0w6eXfql1oBqTI7q) | 5:09 |
+| 22 | [Toda La Vida \- HGM 002](https://open.spotify.com/track/267NFRuqaLqq1qt9DVuwvE) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Toda La Vida \(HGM 002\)](https://open.spotify.com/album/2OkZ9E0w6eXfql1oBqTI7q) | 5:09 |
 | 23 | [FLAITEERA](https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Kennat](https://open.spotify.com/artist/638YptdwVSImAVaR5aUagq), [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP) | [FLAITEERA](https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8) | 4:04 |
 | 24 | [Las Muñequitas](https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas](https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu) | 3:13 |
 | 25 | [Ca$hi](https://open.spotify.com/track/6QCW6T5ulRVBW5Ng2ZaK4G) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Ca$hi](https://open.spotify.com/album/16sEGKLeULIFxgugeQRUmc) | 3:08 |

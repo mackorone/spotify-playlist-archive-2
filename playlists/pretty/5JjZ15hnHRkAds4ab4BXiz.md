@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 630 songs - 1 day 15 hr 51 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 660 songs - 1 day 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -638,5 +638,35 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 628 | [Why Don't You Adore Me?](https://open.spotify.com/track/3DNId7JC9CTVFe8vLeFPxd) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:34 |
 | 629 | [Some Things Are Never Gonna Change](https://open.spotify.com/track/0fmelRPNuTV1eq12ZqSNm7) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Some Things Are Never Gonna Change](https://open.spotify.com/album/6FKnrHUYRu7os6t2aTf1jH) | 4:19 |
 | 630 | [I Wanna Go Home](https://open.spotify.com/track/432pxOWhtTH7cifGokcHyq) | [Orange Dog Club](https://open.spotify.com/artist/7bU64wIvBElELVsQabM3VG) | [Summer is Dying](https://open.spotify.com/album/2eQ0M17EsxSwdotuKIR2uu) | 4:29 |
+| 631 | [From Above](https://open.spotify.com/track/0FrBrHZXpdGbMd9oHRaCxq) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:32 |
+| 632 | [Now In Two](https://open.spotify.com/track/6Amu3WpsHR99daQe8xCVsK) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:50 |
+| 633 | [Blue Sweater](https://open.spotify.com/track/7kusxZ0WcGI1XXvQsudlCy) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:48 |
+| 634 | [Ya No Te Quiero Ver](https://open.spotify.com/track/7gPjShqrmZrpU2y1cDH5Hv) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Black Diamonds](https://open.spotify.com/album/5yj0mUwo19vW5cKkGj6E70) | 1:49 |
+| 635 | [Pictures//](https://open.spotify.com/track/3CWTwqrY9DDeMuiemXakOp) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 3:46 |
+| 636 | [I want to dance with you but i don't know how to](https://open.spotify.com/track/12RZgKxhlP5CEFJ9FStQTd) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:02 |
+| 637 | [Deja Vu](https://open.spotify.com/track/3rHRacrfCVhtzrvgYSA8WJ) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:27 |
+| 638 | [Tear U Out](https://open.spotify.com/track/2hFIcp0BpT3YfR3StLsBzX) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Tear U Out](https://open.spotify.com/album/2QQM0HEvCgMVPefLsOJbxy) | 2:07 |
+| 639 | [Trouble](https://open.spotify.com/track/3W6JzDgeoJZQwBi2kChdZF) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:39 |
+| 640 | [Theory](https://open.spotify.com/track/6cudSxxDsUYgqRE0IkV0UZ) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 3:35 |
+| 641 | [Telepathy](https://open.spotify.com/track/0dH5YviQd8RBOQxmOeu9cV) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:09 |
+| 642 | [Ghost](https://open.spotify.com/track/4Z8ArpcRlCauMFOTZqQMCS) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:23 |
+| 643 | [Rocket](https://open.spotify.com/track/7q7v2NHWn5pr5lEQv6m5Al) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 3:06 |
+| 644 | [Night Light](https://open.spotify.com/track/0JXoRFuGMvM4ONAGrn4OoD) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 2:15 |
+| 645 | [Color](https://open.spotify.com/track/5V8lLeKit1JuKNBoT7luZz) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Bed's Self Titled](https://open.spotify.com/album/3diGGcIaO9StmTXMVBejIe) | 3:36 |
+| 646 | [Spaceboy](https://open.spotify.com/track/29b0cUKdGGi2DsNHDLQQtC) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 2:51 |
+| 647 | [Bullet](https://open.spotify.com/track/48ux4l3d0nLKma2kHQAz8z) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 2:43 |
+| 648 | [Yum Yum](https://open.spotify.com/track/021d2sLQVQM8iXR4gA8rDh) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 2:41 |
+| 649 | [Spell](https://open.spotify.com/track/6EFZfj7WHBGdZ2UJvfCuLB) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 3:46 |
+| 650 | [Rewind](https://open.spotify.com/track/2tfsIUVAcwO8ITB5ZN2yYp) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 2:18 |
+| 651 | [Getaway](https://open.spotify.com/track/5xMKiQqw60RZqgVG7ULTSn) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Into Vastness](https://open.spotify.com/album/52p7pRiQmXD92QG6m4v8CM) | 3:28 |
+| 652 | [Chasing U](https://open.spotify.com/track/3NaoMOi0lpzrKFX8X1NOXD) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Gems](https://open.spotify.com/album/09KZ7RoMDcUYIWgJJE7a3u) | 2:30 |
+| 653 | [Not Over U](https://open.spotify.com/track/2YCdFtFS8DwyjPFFR5qT3L) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Gems](https://open.spotify.com/album/09KZ7RoMDcUYIWgJJE7a3u) | 5:24 |
+| 654 | [Ill Be Okay](https://open.spotify.com/track/10coUZtOCqlUjy3EzrWbyw) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Gems](https://open.spotify.com/album/09KZ7RoMDcUYIWgJJE7a3u) | 2:01 |
+| 655 | [I Don't Know](https://open.spotify.com/track/4Jptv9w06h9rHkjA13MsNu) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Gems](https://open.spotify.com/album/09KZ7RoMDcUYIWgJJE7a3u) | 3:13 |
+| 656 | [T.O.S](https://open.spotify.com/track/4asMD67hItqZKFz9xV6oS8) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Gems](https://open.spotify.com/album/09KZ7RoMDcUYIWgJJE7a3u) | 5:01 |
+| 657 | [Mesmerized](https://open.spotify.com/track/1ZvjUPujeSa62R3qVVqMQG) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Gems](https://open.spotify.com/album/09KZ7RoMDcUYIWgJJE7a3u) | 3:27 |
+| 658 | [Black Diamonds](https://open.spotify.com/track/7tKu0xEdcUQtRc30DOHojh) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Gems](https://open.spotify.com/album/09KZ7RoMDcUYIWgJJE7a3u) | 4:41 |
+| 659 | [Waves](https://open.spotify.com/track/7L3QmMRCPBgtt4hZADdyGt) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Waves](https://open.spotify.com/album/46FsQJ2hS4vzoAtKn4gDdy) | 2:18 |
+| 660 | [Nostalgic Love Rock](https://open.spotify.com/track/0qnixPSm1JnG0ZVUhBFh6t) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 4:04 |
 
-Snapshot ID: `AAAhwD4OP/YuTbToNEArUFfhxZbds9j1`
+Snapshot ID: `AAAh3qITu776TdaYsw1R03iA2BcVUZ9w`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,018 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,065 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 66 | [Beachboy](https://open.spotify.com/track/70uQzsAyJ1vmloywhrO0ss) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Beachboy](https://open.spotify.com/album/5HYTNHcx16osD8MCWucKxu) | 3:19 |
 | 67 | [Please Please Please Let Me Get What I Want \- 2005 Remaster](https://open.spotify.com/track/42gzADgUU7e2yu5Qn8WfeC) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5) | 2:04 |
 | 68 | [Absolutely \(Story of a Girl\) \- Radio Mix](https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP) | [Nine Days](https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO) | [The Madding Crowd](https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD) | 3:09 |
-| 69 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
-| 70 | [Sarcasm](https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Best Kind Of Mess](https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj) | 3:18 |
+| 69 | [Sarcasm](https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC) | [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Best Kind Of Mess](https://open.spotify.com/album/3xkOfH5nqIMm4b8qDWlzLj) | 3:18 |
+| 70 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
 | 71 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 |
 | 72 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
 | 73 | [Tonight \(demo\)](https://open.spotify.com/track/6p5duPGjAdVYLq2kOGXYUD) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Tonight \(demo\)](https://open.spotify.com/album/4xqKuomusHqZlIfH7Ys1ag) | 3:14 |
 | 74 | [i hope ur miserable until ur dead](https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [i hope ur miserable until ur dead](https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d) | 2:57 |
 | 75 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 |
-| 76 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
-| 77 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
+| 76 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
+| 77 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 78 | [Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [You're Gonna Miss It All](https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA) | 2:43 |
 | 79 | [People I Don't Like](https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [People I Don't Like](https://open.spotify.com/album/56c9o6LVrsm995xmDpAZrA) | 2:22 |
 | 80 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |

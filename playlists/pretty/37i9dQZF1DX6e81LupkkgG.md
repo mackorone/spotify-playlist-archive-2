@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,296 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,292 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 37 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 |
 | 38 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
 | 39 | [Lonely \(with benny blanco\)](https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lonely \(with benny blanco\)](https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk) | 2:29 |
-| 40 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 |
-| 41 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 40 | [Te Amar Demais](https://open.spotify.com/track/70maGr0lQYDj0tcpcA2ORM) | [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Te Amar Demais](https://open.spotify.com/album/1mZhSh8FpeL2ZE9dcexXWR) | 2:11 |
+| 41 | [this is what winter feels like](https://open.spotify.com/track/1TbxAY9cb9MbvTifjcvSkJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what winter feels like](https://open.spotify.com/album/1tGXG1vh00TcvgvFR2j8Dh) | 3:14 |
 | 42 | [Take Me Home, Country Roads](https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Take Me Home, Country Roads](https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT) | 2:46 |
 | 43 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
 | 44 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |

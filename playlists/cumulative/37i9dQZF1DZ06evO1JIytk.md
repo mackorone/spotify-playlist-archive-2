@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-128 songs - 5 hr 53 min
+129 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,11 +74,12 @@
 | [Operation Iraqi Liberation \(O.I.L.\)](https://open.spotify.com/track/562GAKPuDKUwDlL48VUGAp) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 2:21 | 2022-09-16 | 2022-10-27 |
 | [Racists](https://open.spotify.com/track/0JkYtPkStJkOyMbSaVEFB1) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/2zcRMvP3i0me9zZqp61JF9) | 3:20 | 2022-09-16 | 2023-05-18 |
 | [Racists](https://open.spotify.com/track/3Y24Ja1ZRzfFsGEOJ7nnHt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 3:20 | 2023-05-17 |  |
+| [Rank\-N\-File](https://open.spotify.com/track/1cp15PNImIgZXiBURTqS16) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/0TLPBodu3hDPeudOo37sZA) | 3:46 | 2026-03-12 |  |
 | [Rank\-n\-File](https://open.spotify.com/track/1lcSbWCkd56TB7NPedWPDs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 3:46 | 2022-09-18 | 2023-09-16 |
 | [Red, White & Brainwashed](https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:51 | 2023-09-15 |  |
 | [Resist](https://open.spotify.com/track/5SDBuRLFSNLozSze4a9c0G) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 1:02 | 2024-02-24 | 2024-09-12 |
 | [Right On](https://open.spotify.com/track/0GsnorDMZ6mbINFtcHHZbY) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 1:22 | 2024-05-24 | 2024-07-20 |
-| [Rotten Future](https://open.spotify.com/track/77QXaDMVbxeLA9PpfqHmHs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:58 | 2025-02-16 |  |
+| [Rotten Future](https://open.spotify.com/track/77QXaDMVbxeLA9PpfqHmHs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:58 | 2025-02-16 | 2026-03-12 |
 | [SHALLOW GRAVES \(feat\. Tré Burt\)](https://open.spotify.com/track/3l1jIZoo78aare2oxn8OjI) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:30 | 2023-04-10 | 2023-05-17 |
 | [SHALLOW GRAVES \(feat\. Tré Burt\)](https://open.spotify.com/track/73cjHHahioDVocCvdDcre2) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 2:30 | 2023-01-07 | 2023-04-10 |
 | [Should I Stay or Should I Go \- Live Version](https://open.spotify.com/track/6RUQBnoaTvJWmeKWonkJwB) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Complete Control Sessions](https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si) | 2:43 | 2022-09-16 |  |

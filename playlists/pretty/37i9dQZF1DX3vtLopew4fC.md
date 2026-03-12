@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Canadian women at full volume! Cover: Cat Clyde
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,999 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,059 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [Stimulated](https://open.spotify.com/track/4YbOnkvXUMHh2Mm0zSdtD9) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Stimulated](https://open.spotify.com/album/0Xo8Bp20KFSp5gRB7Za1YQ) | 3:16 |
 | 40 | [Thoughts Are Magic](https://open.spotify.com/track/1sKhJg2jq19b7T4lIFqcx9) | [Witch Prophet](https://open.spotify.com/artist/5AkXlAsYDGWVZIYOhboeSM) | [Thoughts Are Magic](https://open.spotify.com/album/5etg23TqJg6gMZunDjTLtK) | 3:12 |
 
-Snapshot ID: `AAAAAN4u7w/Zc50OteoPkWAAQDCqDPPH`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

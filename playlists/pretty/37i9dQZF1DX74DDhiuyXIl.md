@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上、獨步的時刻，心情腳下難免沈重，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,809 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,819 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,18 +56,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 46 | [別說再見](https://open.spotify.com/track/1cGAAxaOFdBCxDtOeTkaCA) | [晨悠 CHENYO](https://open.spotify.com/artist/69HAncV59CvB16M51q77AI) | [別說再見](https://open.spotify.com/album/0mbf32Kb2naP1gDMiieqjc) | 3:43 |
 | 47 | [黑夜狂奔](https://open.spotify.com/track/4rCpwGXcaoNejahMl7BbFQ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我們就像那些要命的傻瓜](https://open.spotify.com/album/3ZswervhsAwTbWS8Z1c4WB) | 5:20 |
 | 48 | [你要幸福啊 \(《风过留痕》影视剧插曲\)](https://open.spotify.com/track/1mamLpkge19ydKzytZF8dj) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [你要幸福啊 \(《风过留痕》影视剧插曲\)](https://open.spotify.com/album/7fzdWNyTmUaI1ltWll5Bjc) | 5:10 |
-| 49 | [忠孝東路走九遍](https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [忠孝東路走九遍](https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw) | 4:52 |
-| 50 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
+| 49 | [最會裝沒事的人](https://open.spotify.com/track/3rsHzGmkNxgw65ywJRvaWy) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8), [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [最會裝沒事的人](https://open.spotify.com/album/4iAKZJD5Wl2NqYqXI98ueX) | 4:12 |
+| 50 | [忠孝東路走九遍](https://open.spotify.com/track/5vdLbWLiR9dH7uWoFQH6cf) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [忠孝東路走九遍](https://open.spotify.com/album/4QFQFIpq2drStUz2yPphHw) | 4:52 |
 | 51 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 |
 | 52 | [雨天](https://open.spotify.com/track/4HfjKPmWKQtMJedOAqVoTr) | [en王翊恩](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [雨天](https://open.spotify.com/album/4FAPsfP1rwb9lRci8pxOfl) | 3:40 |
-| 53 | [都是浪漫害的](https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [都是浪漫害的](https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np) | 4:08 |
-| 54 | [曾經如今](https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [《愛了100萬次的我》新歌經典自選輯](https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa) | 4:05 |
+| 53 | [曾經如今](https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [《愛了100萬次的我》新歌經典自選輯](https://open.spotify.com/album/2wylLEXuNZqCmhleC9UoUa) | 4:05 |
+| 54 | [都是浪漫害的](https://open.spotify.com/track/7lw5s901joNKsEZsRWXzu5) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [都是浪漫害的](https://open.spotify.com/album/6k3Aj8q27ETWzwpb9jG3Np) | 4:08 |
 | 55 | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/track/7EzeNbQHT6DHxQty56qsbN) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/album/7Kb83jUcj0vHErIIascKw6) | 4:43 |
 | 56 | [一起寂寞 Lonely Duet](https://open.spotify.com/track/4f62bZPnqVJycmFJQVsAA9) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [艾薇 Ivy](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [一起寂寞 Lonely Duet](https://open.spotify.com/album/4G3e7irPXOurk3SQHkq3a9) | 3:41 |
-| 57 | [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 |
-| 58 | [隔著螢幕想念你](https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC) | 3:04 |
+| 57 | [沉默那麼的痛](https://open.spotify.com/track/4ATiLlS7SwjHQfq9RMDDMM) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [沉默那麼的痛](https://open.spotify.com/album/2HfDCPG9U0BzOoENaf7aT0) | 3:12 |
+| 58 | [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 |
 | 59 | [想念你想我](https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想念你想我](https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0) | 4:00 |
-| 60 | [沉默那麼的痛](https://open.spotify.com/track/4ATiLlS7SwjHQfq9RMDDMM) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [沉默那麼的痛](https://open.spotify.com/album/2HfDCPG9U0BzOoENaf7aT0) | 3:12 |
+| 60 | [隔著螢幕想念你](https://open.spotify.com/track/2UG57mASKdND4iQaS8EH1y) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [隔著螢幕想念你](https://open.spotify.com/album/14X0jLPKuLpJUa3YH8wpeC) | 3:04 |
 | 61 | [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 |
 | 62 | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/track/5HGAEdNPg1y5CesBg6ZNCR) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [瞬間的瞬間 \(電影《他年她日》主題曲\)](https://open.spotify.com/album/796MxC3IVgtFKuhrC5Fo0S) | 5:00 |
 | 63 | [那女孩對我說](https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [\#2019還在聽](https://open.spotify.com/album/0687JPYolanYGONrSkOZtK) | 4:28 |

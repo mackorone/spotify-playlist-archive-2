@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover:  Njerae
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,743 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,783 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 13 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
 | 14 | [One Condition](https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [One Condition](https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD) | 3:54 |
 | 15 | [Morocco \- Remix](https://open.spotify.com/track/6K0yyDL8HIakuunhcTAttS) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Morocco \(Remix\)](https://open.spotify.com/album/2GXg4xtgD1GvFRatolULXX) | 2:38 |
-| 16 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |
-| 17 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
+| 16 | [Waist](https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Waist](https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil) | 2:45 |
+| 17 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 |
 | 18 | [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 |
 | 19 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 |
 | 20 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 31 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
 | 32 | [Slow \(feat\. Anaïs Cardot\)](https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:25 |
 | 33 | [Fall On Me \(feat\. PJ Morton\)](https://open.spotify.com/track/6upPGWLB6MTN290nSqVF1v) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Fall On Me \(feat\. PJ Morton\)](https://open.spotify.com/album/64LbD54PL2khnJfFDm6kjE) | 3:07 |
-| 34 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 |
-| 35 | [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 |
+| 34 | [Wickedest](https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:36 |
+| 35 | [Billionaires Club](https://open.spotify.com/track/65cRt4uGMzo51AzXqptVsX) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:46 |
 | 36 | [DON'T LOVE ME](https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [DON'T LOVE ME](https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9) | 3:01 |
 | 37 | [Bad Girl \(feat\. Asake\)](https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 38 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |

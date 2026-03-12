@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,303 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,311 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 18 | [Love Me Again](https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Tribute](https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk) | 3:59 |
 | 19 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 |
 | 20 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
-| 21 | [Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 3:34 |
-| 22 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
+| 21 | [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 |
+| 22 | [Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 3:34 |
 | 23 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
 | 24 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
 | 25 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 40 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
 | 41 | [No Problem](https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 4:10 |
 | 42 | [The Rockafeller Skank](https://open.spotify.com/track/7mCQK9YB25WZw1saUjfL4e) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/7G7cCHgQKbDD6zvwDQZyJu) | 6:53 |
-| 43 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
+| 43 | [Welcome To Jamrock](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 3:33 |
 | 44 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
-| 45 | [Welcome To Jamrock](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 3:33 |
+| 45 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
 | 46 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
 | 47 | [Found What I've Been Looking For](https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:10 |
 | 48 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 87 | [Send Them Off!](https://open.spotify.com/track/5AAU5Ov1CEesKwWS2uzQji) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Send Them Off!](https://open.spotify.com/album/0sm6aqm1zr6rkROVIKICJd) | 3:20 |
 | 88 | [Cocoon](https://open.spotify.com/track/2W1NDIRXfBnIxBcnTIxE7p) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/2RySzAMRGrSnXYDf1lY5Ay) | 3:56 |
 | 89 | [Gold Guns Girls](https://open.spotify.com/track/7y6yueMgmCFLAdUg7Eq1N2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/2wx95OdyKPntJDvEQkjtq5) | 4:05 |
-| 90 | [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 |
-| 91 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
+| 90 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
+| 91 | [Offence](https://open.spotify.com/track/4cakdyTV2GRb9ktqBNMChH) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [GREY Area](https://open.spotify.com/album/4Wwm4xg2748zhYuzDRFTgY) | 2:48 |
 | 92 | [Town Called Malice](https://open.spotify.com/track/73RGpQg8Cxtly4QuHtNiOd) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Jam Story](https://open.spotify.com/album/50d9Hx8o4z7XooQItBG9nH) | 2:52 |
 | 93 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
 | 94 | [Levanta e Anda](https://open.spotify.com/track/7d8sqXhIwIJltlGHL47ASh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/3NOxGBXC0ZvKaH7ZybX7Cp) | 2:30 |

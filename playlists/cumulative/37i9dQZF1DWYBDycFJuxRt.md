@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/344477">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 椎名林檎 \*👉 <a href="https://spice.eplus.jp/articles/344652">連動記事</a>をSPICEでチェック!
 
-13,924 songs - 36 day 21 hr 2 min
+13,928 songs - 36 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [2026/2/18 藤原さくらがニューアルバムをリリース！m\-floのインタビューも！中島健人のニューアルバム、OddRe:のメジャーデビュー曲もピックアップ！](https://open.spotify.com/episode/0VxKGfnUf0i5fH2Hgutxu7) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:06:05 | 2026-02-18 | 2026-02-25 |
 | [2026/2/25 HANAが待望の1stアルバムをリリース！Mrs\. GREEN APPLEの大森元貴がリリースしたソロ1stミニアルバム も！Watsonのニューアルバム、Kan Sanoと関口シンゴのコラボ、Early Noiseアーティストkurayamisakaのライブアルバムもピックアップ！](https://open.spotify.com/episode/5gJsKUM1msewxrbhql86vm) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 22:23 | 2026-02-25 | 2026-03-04 |
 | [2026/2/4 MISAMOがカバー！ちゃんみなの新曲、CHAIのMANA・KANAによる新プロジェクトOKAMEの1stアルバム、KID FRESINO×YONCEのコラボもピックアップ！Early Noiseアーティストluvの新曲も！ONE OR EIGHTからメッセージも到着！！](https://open.spotify.com/episode/5FYvVOAdls9Dv6MirODBMc) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:42 | 2026-02-04 | 2026-02-11 |
+| [2026/3/11 椎名林檎がニューアルバムをリリース！ゆずのロングインタビューも！いきものがかりの新解釈コラボレーションアルバム、ちゃんみなとINI西洸人のコラボ、Daichi Yamamoto、MIKADO、NENEによる『POP YOURS』オリジナル曲もピックアップ！](https://open.spotify.com/episode/6wQ0JZoFhxZVDXT9fbcW4l) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:01:15 | 2026-03-11 |  |
 | [2026/3/4 嵐が新曲をリリース！ Furui Rihoロングインタビュー&Mitskiからのメッセージが到着！ヨルシカのニューアルバム、Kianna、Harka、AOTO、Sieroによる『POP YOURS』オリジナル楽曲もピックアップ！](https://open.spotify.com/episode/7sXiU57lFFpFRfc0oHkWGR) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 1:08:51 | 2026-03-04 | 2026-03-11 |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
@@ -1359,6 +1360,7 @@
 | [But ノーラヴ](https://open.spotify.com/track/0jBdWTj0GAuhwrst4RWdSr) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [But ノーラヴ](https://open.spotify.com/album/6VDYYeJJrZ0EJj0whdQkTY) | 3:53 | 2025-01-07 | 2025-01-15 |
 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 | 2023-09-05 | 2023-09-13 |
 | [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 | 2025-03-19 |
+| [Butterfly Doors](https://open.spotify.com/track/0oCeMmzRhlreWtTvxs11XS) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Butterfly Doors](https://open.spotify.com/album/6sF0p3FrNTeCy2S7TeM8Cw) | 2:51 | 2026-03-10 |  |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2zrHUJLfOilgYWG5UWVoQK) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2Tlb8Amtn45Rrife1VRUn4) | 3:40 | 2025-12-23 | 2026-01-15 |
 | [BUTTERFLY TATTOO](https://open.spotify.com/track/0T7CTxbjaGj57xMrKNWqj5) | [Broken Kangaroo](https://open.spotify.com/artist/2x88RJdG7aCmPZQAzlGUeo) | [BUTTERFLY TATTOO](https://open.spotify.com/album/0q9re6owALL4WA0O6k6wrh) | 3:20 | 2024-09-11 | 2024-09-18 |
 | [BUTTOBASHIT](https://open.spotify.com/track/3g5yCta0AoVrVYxqE37qQG) | [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4) | [BUTTOBASHIT](https://open.spotify.com/album/4IpFJdDzrqsdF2GZvjghFr) | 3:12 | 2025-10-28 | 2025-11-05 |
@@ -1463,6 +1465,7 @@
 | [cat walk](https://open.spotify.com/track/1SqL81HR5hbhJvhgbwBa6p) | [PULPS](https://open.spotify.com/artist/5k3G1AW1KVwYu59I9AyYOk) | [cat walk](https://open.spotify.com/album/6y0aK8dKKrPjFA7LJbsFkT) | 4:24 | 2024-09-11 | 2024-09-18 |
 | [Catch a Wave](https://open.spotify.com/track/65N0K4xrPDFDN0FoYrTuH9) | [Kenta Ebara](https://open.spotify.com/artist/4KEKd88P1nvU9TQALcEWFS) | [Unforgettable Memories](https://open.spotify.com/album/70Bnm757VymEFOEb3SAyp4) | 3:05 | 2023-12-26 | 2024-01-10 |
 | [Catch a Wave](https://open.spotify.com/track/2MbxU95EQZbdRo0biiC6M2) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/7hF6oiU4zaIQIGjLhje1eG) | 3:33 | 2023-05-30 | 2023-06-07 |
+| [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-03-10 |  |
 | [Catch me when I fall](https://open.spotify.com/track/33LDbIdCNl9ppEdDJ0Vwee) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Catch me when I fall](https://open.spotify.com/album/5E0sDzjtAUQAkdCPSJn92Z) | 3:45 | 2026-01-27 | 2026-02-04 |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-01 | 2025-04-09 |
 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 | 2024-02-20 | 2024-02-28 |
@@ -7059,6 +7062,7 @@
 | [Shangri\-La \-絶景\-](https://open.spotify.com/track/31wDlag4xxw2u8YwgpL2m8) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [絶](https://open.spotify.com/album/1PRyKO4DjTfuTqXAHehrA7) | 3:19 | 2026-02-24 | 2026-03-04 |
 | [Shangri\-Ra](https://open.spotify.com/track/5EbXeDHm7LEZwo995W8Uty) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6) | [Shangri\-Ra](https://open.spotify.com/album/1lfI8BKatDabAwkQLbe0Ot) | 4:25 | 2023-07-25 | 2023-08-02 |
 | [Shapes Of Happiness](https://open.spotify.com/track/6d6iKcKMl87NMHakoJfwyl) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [Shapes Of Happiness](https://open.spotify.com/album/46cgNFNcDV01LBc3ty5vR0) | 4:09 | 2025-04-01 | 2025-04-09 |
+| [Shapeshifter](https://open.spotify.com/track/3bLIGrwGTdupBvjcujZEmc) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [Shapeshifter](https://open.spotify.com/album/7bfN3FS1X4bbrsbj7OWQQM) | 3:04 | 2026-03-10 |  |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-07-01 | 2025-07-09 |
 | [Share](https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Share](https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE) | 3:57 | 2025-12-17 | 2025-12-24 |
 | [Sharon](https://open.spotify.com/track/1Yt3MmQ1BtUS0CAeL0LxZp) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sharon](https://open.spotify.com/album/2ScpmNXA1FoVIkUoScsvvO) | 4:41 | 2024-07-02 | 2024-07-10 |
@@ -9824,7 +9828,7 @@
 | [どんな小さな](https://open.spotify.com/track/6R09XAikgyKemgjTJhoxaW) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [どんな小さな](https://open.spotify.com/album/7tAoCh9OWDmQddSDVCWvxj) | 4:47 | 2024-10-15 | 2024-10-23 |
 | [どんな過去でも未来でも](https://open.spotify.com/track/2B0Q0SXevhEam3q6Fl1tua) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [最終回](https://open.spotify.com/album/6FmiGxEsTqqOLg5OUJky4H) | 3:14 | 2025-03-19 | 2025-03-26 |
 | [ないものねだり](https://open.spotify.com/track/3ZSFHKTl8dLGLioGaWkYJj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム 記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:05 | 2023-05-30 | 2023-06-01 |
-| [ないものねだり](https://open.spotify.com/track/7zSDLqpefQ3gFmuTxWNctj) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [ないものねだり](https://open.spotify.com/album/519cWr859qwXnLvCZbDD7w) | 3:19 | 2026-03-10 |  |
+| [ないものねだり](https://open.spotify.com/track/7zSDLqpefQ3gFmuTxWNctj) | [MILIYAH](https://open.spotify.com/artist/5BuSmo5epEbM7Mt0KzLO2Q) | [ないものねだり](https://open.spotify.com/album/519cWr859qwXnLvCZbDD7w) | 3:19 | 2026-03-10 |  |
 | [ななしのごちそう](https://open.spotify.com/track/1JBPFtrUINCfSK5VDSmLwl) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [ななしのごちそう](https://open.spotify.com/album/3nKo7mS6Myw1DF0oBi4fyd) | 5:40 | 2026-02-24 | 2026-03-04 |
 | [ななななナッ!!!!!!!](https://open.spotify.com/track/5UoJsALvoEKgqN8YAbMWG3) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ななななナッ!!!!!!!](https://open.spotify.com/album/6vOhKoXdTJ0sctlDAwxKKV) | 2:36 | 2025-06-17 | 2025-06-25 |
 | [なりたいスター](https://open.spotify.com/track/5A7Ct9xnEP1gadsCYHYbem) | [LAYRUS LOOP](https://open.spotify.com/artist/3EO554jUf79NLR9mBuD2vk) | [なりたいスター](https://open.spotify.com/album/6CFmSJqmnpFw7kwKl3rCW6) | 1:51 | 2023-06-13 | 2023-06-21 |

@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-116 songs - 7 hr 31 min
+117 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-11-04 | 2025-12-08 |
 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 | 2025-12-17 | 2026-02-07 |
 | [One More Second](https://open.spotify.com/track/7GMHFVwsXtccxFVa90ORkY) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Alice Gerschpacher](https://open.spotify.com/artist/5S2264Wy4QpAv1NEXn2Boy) | [One More Second](https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk) | 5:20 | 2025-05-04 |  |
+| [Open Mind \- Radio Edit](https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY) | [Pol Sembrano](https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00) | [Open Mind \(Radio Edit\)](https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh) | 3:40 | 2026-03-11 |  |
 | [Out The Zip](https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [A Million and A Half Ways](https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc) | 2:55 | 2025-12-11 | 2026-02-07 |
 | [P](https://open.spotify.com/track/0amoXRUE2zKK8BkogS7oDX) | [NoFap](https://open.spotify.com/artist/7iP0M2miLscLy2PCughele) | [P](https://open.spotify.com/album/2iKytyfl8SOZlCk73EMTAa) | 3:22 | 2026-01-04 | 2026-02-07 |
 | [Peace Defined](https://open.spotify.com/track/0EpdxqFRCUeyVMF60GEBx3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Peace Defined](https://open.spotify.com/album/6u34BdHbyeNXY9tD8H93KN) | 4:21 | 2025-09-10 |  |

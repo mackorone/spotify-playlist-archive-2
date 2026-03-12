@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,470 likes - 184 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,469 likes - 184 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 46 | [Perfect](https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:32 |
 | 47 | [Satisfied \(feat\. MAX\)](https://open.spotify.com/track/57QXXEBy5apjgxsyXSb8YE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Satisfied \(feat\. MAX\) / Mama Look at Me Now](https://open.spotify.com/album/7sYMi1QPQnCL99k1VCaWTZ) | 2:35 |
 | 48 | [The Reaper](https://open.spotify.com/track/0g8Dq6OpSmWengqtLrVr77) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:02 |
-| 49 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
-| 50 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
+| 49 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 |
+| 50 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 51 | [Break a Sweat](https://open.spotify.com/track/28r9sD2b6FluK7YHjTJ0fl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Break a Sweat](https://open.spotify.com/album/2nWxnJlsL1bzC2wHtouEvZ) | 3:28 |
 | 52 | [Girl on a Train](https://open.spotify.com/track/6M1nfYPKy7DRk3IrhFVViQ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J) | [Alone Together](https://open.spotify.com/album/7JC2Lep2FwtvMDoLZMEZZT) | 3:02 |
 | 53 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 133 | [Leave It Beautiful](https://open.spotify.com/track/466pvheuy2AO0SFEFgTpZ9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful](https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X) | 3:04 |
 | 134 | [Plastic Therapy](https://open.spotify.com/track/5GLjjwjiMBoDIn0Dx0uDos) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Don’t Call Me](https://open.spotify.com/album/6G5ugL75bG2m85RA6d4g5V) | 2:32 |
 | 135 | [Into The Blue](https://open.spotify.com/track/2xYZtNV1Mn9pPc6nYSzg1Z) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Rationale](https://open.spotify.com/album/6H9qymov6q3LpGwjhaSLsn) | 3:21 |
-| 136 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
-| 137 | [Bread](https://open.spotify.com/track/7uEbRqAcg5EX3Y8k1rH1Jp) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:08 |
+| 136 | [Bread](https://open.spotify.com/track/7uEbRqAcg5EX3Y8k1rH1Jp) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:08 |
+| 137 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
 | 138 | [Pass the Love Around](https://open.spotify.com/track/4CgWKazo7xiS2DYURJt3Cg) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm) | 3:18 |
 | 139 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
 | 140 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 183 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 | 184 | [Paper Cuts](https://open.spotify.com/track/25oDwHzFC3coKT3jcPAbJC) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Paper Cuts](https://open.spotify.com/album/6KhZJNPMnHT7ypOhgNAekF) | 2:53 |
 
-Snapshot ID: `AcLyqAAAAACh/HDx0BBWKIbEYRjMvj3x`
+Snapshot ID: `AcL4DAAAAAAtPMZ34F8K9/OX4vt2lMTd`

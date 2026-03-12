@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nuestros amados 90 los recordamos as\u00ed! Caf\u00e9 Tacvba en portada.",
-  "num_followers": 1236520,
+  "num_followers": 1236694,
   "original_name": "Los 90 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -607,8 +607,8 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+        "name": "El Nervio Del Volcan",
+        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 282133,
-      "name": "Los Dioses Ocultos",
-      "url": "https://open.spotify.com/track/3aYLIO4htUZCAygXUbbc3Q"
+      "duration_ms": 294266,
+      "name": "Aqu\u00ed No Es As\u00ed",
+      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -687,8 +687,8 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "El Nervio Del Volcan",
-        "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
         }
       ],
-      "duration_ms": 294266,
-      "name": "Aqu\u00ed No Es As\u00ed",
-      "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+      "duration_ms": 282133,
+      "name": "Los Dioses Ocultos",
+      "url": "https://open.spotify.com/track/3aYLIO4htUZCAygXUbbc3Q"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "La soledad",
-      "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Viviendo deprisa",
         "url": "https://open.spotify.com/album/2yfm8Icbo9F9BDrsGamjBd"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Adicion",
-        "url": "https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq"
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
       },
       "artists": [
         {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 253000,
-      "name": "Manto Estelar",
-      "url": "https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im"
+      "duration_ms": 239866,
+      "name": "La soledad",
+      "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1003,6 +987,22 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Adicion",
+        "url": "https://open.spotify.com/album/5J5Ips2LzDrTUaCVB7KZSq"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Manto Estelar",
+      "url": "https://open.spotify.com/track/58HfaJinOwdtvIusPS04Im"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 281173,
-      "name": "Bella Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
+      "duration_ms": 262573,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Bella Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Amor Amarillo",
         "url": "https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Livin' la Vida Loca - Spanish Version",
-      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "Lo Mejor de Los Fantasmas del caribe",
         "url": "https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 244506,
       "name": "Muchacha Triste",
       "url": "https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Livin' la Vida Loca - Spanish Version",
+      "url": "https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1583,8 +1583,24 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Lo Har\u00e9 Por Ti",
+      "url": "https://open.spotify.com/track/2j0vCRV8XySsYHDYasQwbi"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
       "artists": [
         {
@@ -1592,25 +1608,9 @@
           "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Las batallas",
-      "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Comfort Y Musica Para Volar",
-        "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 522000,
-      "name": "En la Ciudad de la Furia - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0"
+      "duration_ms": 206373,
+      "name": "Esa noche",
+      "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
     }
   ],
   "unique_name": "Los 90 M\u00e9xico",

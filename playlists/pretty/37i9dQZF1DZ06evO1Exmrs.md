@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,654 likes - 44 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,858 likes - 44 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 28 | [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 |
 | 29 | [Anyway](https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 5:12 |
 | 30 | [Your Needs, My Needs](https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:27 |
-| 31 | [Passenger](https://open.spotify.com/track/7BS6Xfx1NOJbEy4TE9TPAM) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:58 |
-| 32 | [Hurt Somebody](https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 2:47 |
+| 31 | [Hurt Somebody](https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 2:47 |
+| 32 | [Passenger](https://open.spotify.com/track/7BS6Xfx1NOJbEy4TE9TPAM) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:58 |
 | 33 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 |
 | 34 | [Howling](https://open.spotify.com/track/07Bf6NNEWHOgivLQbb1Akg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:45 |
-| 35 | [Please](https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 4:12 |
-| 36 | [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 |
+| 35 | [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 |
+| 36 | [Please](https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 4:12 |
 | 37 | [Crazier Things \(with Noah Kahan\)](https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Crazier Things](https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7) | 4:24 |
 | 38 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 |
 | 39 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 43 | [Hold It Down](https://open.spotify.com/track/6xNaObGQT8V8OM5OEm6p3G) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hold It Down](https://open.spotify.com/album/61c9HH26RwgWbUyK6oSMRt) | 3:16 |
 | 44 | [Caves](https://open.spotify.com/track/1Pcz3lqppUM5OROz81qRAa) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:21 |
 
-Snapshot ID: `aa4NgAAAAABQ43NlElvJEie8IUVFbNgJ`
+Snapshot ID: `aa9fAAAAAACLLbvsIiKglYs2yrmWhYpE`

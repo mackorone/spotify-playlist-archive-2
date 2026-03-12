@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,817 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,876 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 71 | [my little tony](https://open.spotify.com/track/08PgEBgGK65DZpxudS1J73) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:59 |
 | 72 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
 | 73 | [marble arch](https://open.spotify.com/track/3gIC7qzRoxiDpYo0ymjZS0) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [marble arch](https://open.spotify.com/album/2aWNuYIUpxgS5ybXek6d0a) | 4:56 |
-| 74 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
-| 75 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
+| 74 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
+| 75 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
 | 76 | [Jesse](https://open.spotify.com/track/27hPDHjoiRbLU3lS5Js4Tc) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Real Life](https://open.spotify.com/album/6aFmpWv1BgzBpJ358C86zc) | 2:09 |
 | 77 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
 | 78 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |

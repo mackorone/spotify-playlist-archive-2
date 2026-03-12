@@ -12177,6 +12177,28 @@
     },
     {
       "album": {
+        "name": "Historias de Aquella Ni\u00f1a",
+        "url": "https://open.spotify.com/album/4RXLf8KuQeXTONnsqerj33"
+      },
+      "artists": [
+        {
+          "name": "Leire Martinez",
+          "url": "https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199135,
+      "name": "El ruido",
+      "url": "https://open.spotify.com/track/30zue0oMbXsu91PXf6iVaJ"
+    },
+    {
+      "album": {
         "name": "El sonido que retumba",
         "url": "https://open.spotify.com/album/27THwCYU41VM14Rl3ph21n"
       },
@@ -18324,7 +18346,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -22580,7 +22602,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -29514,7 +29536,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 128966,
       "name": "Ojos de Angel",
       "url": "https://open.spotify.com/track/0q7oVQaFMPONqpPPWNT4pb"
@@ -32486,7 +32508,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 181846,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/2d5NqqSUMGciDO0FdArbBf"
@@ -34570,10 +34592,28 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {
@@ -43348,7 +43388,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 131579,
       "name": "Vero Buffone (SALAS)",
       "url": "https://open.spotify.com/track/5kgzcbURp9qugQBTfh3PSq"

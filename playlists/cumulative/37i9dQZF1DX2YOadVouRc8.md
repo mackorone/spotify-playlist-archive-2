@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-722 songs - 1 day 11 hr 0 min
+723 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-25 |  |
 | [Mr Man](https://open.spotify.com/track/5aq1iP7AN5pwlhrDLR3n12) | [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Mr Man](https://open.spotify.com/album/5uNhlQ3rHyBtol9FNG8nSd) | 2:40 | 2024-05-10 | 2024-05-17 |
 | [Mukulu](https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:47 | 2023-08-10 | 2023-09-29 |
-| [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 | 2025-04-11 |  |
+| [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 | 2025-04-11 | 2026-03-12 |
 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 | 2025-03-07 |  |
 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 |  |
 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 | 2024-05-17 | 2024-11-22 |
@@ -698,6 +698,7 @@
 | [Wicked City](https://open.spotify.com/track/7m3ENcp0gz3FXZ6eVApM5f) | [Swizay](https://open.spotify.com/artist/09r28l9wuFV346fMTLTnJA) | [Wicked City](https://open.spotify.com/album/1GtCYGqIbMDBMA6Q5xB5aI) | 2:31 | 2023-02-10 | 2023-03-04 |
 | [Wicked Jazz](https://open.spotify.com/track/5OfBwAgbfsPb6dvPLFvrfH) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Wicked Jazz](https://open.spotify.com/album/3rrsLPWZr2ZXXcDmDtbqwQ) | 2:29 | 2025-01-16 | 2025-06-26 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-27 | 2024-05-24 |
+| [WILL I EVER](https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [WILL I EVER](https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi) | 2:54 | 2026-03-06 |  |
 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 | 2024-08-25 | 2025-06-07 |
 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 | 2022-06-09 | 2024-11-22 |
 | [Witness](https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Dues](https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr) | 3:16 | 2023-06-16 | 2023-08-04 |

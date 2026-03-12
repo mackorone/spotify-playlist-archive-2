@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4276469,
+  "num_followers": 4277210,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAAnbUyK3qZEabm/WofX91N9",
+  "snapshot_id": "aa9fAAAAAAD2h7tS2+UtrltKyfzd7IOg",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
       "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+      "duration_ms": 211063,
+      "name": "God Was Showing Off",
+      "url": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
     },
     {
       "added_at": null,
@@ -163,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
       "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 211063,
-      "name": "God Was Showing Off",
-      "url": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 174676,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
     },
     {
       "added_at": null,
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 174676,
-      "name": "On My Soul",
-      "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B.o.B Presents: The Adventures of Bobby Ray",
         "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
@@ -267,6 +267,22 @@
       "duration_ms": 268320,
       "name": "Nothin' on You (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 219287,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK"
     },
     {
       "added_at": null,
@@ -307,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Why You Wanna Fight?",
-      "url": "https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 178560,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Why You Wanna Fight?",
+      "url": "https://open.spotify.com/track/3Ac4AjYkqsvop2ydbSAhTX"
     },
     {
       "added_at": null,
@@ -371,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 132640,
+      "name": "If I Knew",
+      "url": "https://open.spotify.com/track/7lXOqE38eCr979gp27O5wr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
@@ -380,33 +412,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 219287,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 203122,
-      "name": "Skate",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
+      "duration_ms": 236559,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
     },
     {
       "added_at": null,
@@ -443,6 +451,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 203122,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
@@ -452,25 +484,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 236559,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 132640,
-      "name": "If I Knew",
-      "url": "https://open.spotify.com/track/7lXOqE38eCr979gp27O5wr"
+      "duration_ms": 166458,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
     },
     {
       "added_at": null,
@@ -487,6 +503,26 @@
       "duration_ms": 222091,
       "name": "Grenade",
       "url": "https://open.spotify.com/track/4lLtanYk6tkMvooU0tWzG8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lazarus",
+        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
+      },
+      "artists": [
+        {
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Billionaire (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
     },
     {
       "added_at": null,
@@ -515,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
@@ -524,29 +560,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 166458,
-      "name": "Something Serious",
-      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lazarus",
-        "url": "https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg"
-      },
-      "artists": [
-        {
-          "name": "Travie McCoy",
-          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Billionaire (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig"
+      "duration_ms": 186973,
+      "name": "Chunky",
+      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
     },
     {
       "added_at": null,
@@ -567,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "AM I THE DRAMA? (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
       },
       "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Chunky",
-      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
+      "duration_ms": 200889,
+      "name": "Please Me",
+      "url": "https://open.spotify.com/track/1Ydy1j4ooUkDvQYSvwxjoy"
     },
     {
       "added_at": null,
@@ -603,26 +623,6 @@
       "duration_ms": 207346,
       "name": "Young, Wild & Free (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM I THE DRAMA? (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/0qJL6xmheW2HD1H0SWCxRh"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 200889,
-      "name": "Please Me",
-      "url": "https://open.spotify.com/track/1Ydy1j4ooUkDvQYSvwxjoy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 
 > Embrace all colours with your favourite anthems\. "Let's have a kiki!"
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,678 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,680 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 | 44 | [Bulletproof](https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J) | [Bulletproof](https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL) | 2:42 |
 | 45 | [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 |
 | 46 | [Talk \(feat\. Disclosure\)](https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:17 |
-| 47 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
-| 48 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
+| 47 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
+| 48 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 |
 | 49 | [Go West \- 2003 Remaster](https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl) | 5:04 |
 | 50 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
 | 51 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 | 71 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
 | 72 | [Conga](https://open.spotify.com/track/53pZ8y3yMYUNpclGwIufu0) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 4:15 |
 | 73 | [Ten Feet Tall](https://open.spotify.com/track/2ldAdghnrO34HPcZ0IWfTu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Forget The World \(Deluxe\)](https://open.spotify.com/album/7G1441qDQeERZDyMipQPE8) | 3:49 |
-| 74 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
-| 75 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 |
+| 74 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 |
+| 75 | [1999](https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 6:19 |
 | 76 | [Ray of Light](https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:22 |
 | 77 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 |
 | 78 | [Closer](https://open.spotify.com/track/4dTVgHZFPlaq9nPbLVVLSG) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Heartthrob](https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX) | 3:30 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lPnCj14MCY.md) - [plain]
 | 82 | [Holiday](https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF) | 6:10 |
 | 83 | [Best Friend \(feat\. NERVO, The Knocks & ALISA UENO\)](https://open.spotify.com/track/6twQJ2KMwNzODCY0HzXP2E) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [ALISA UENO](https://open.spotify.com/artist/0WuYfDB2hAYzybfAd75fvb) | [Treehouse](https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W) | 3:04 |
 | 84 | [Spinning Around](https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/7vPWwkCumK2sGsdADtBlwB) | 3:27 |
-| 85 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
-| 86 | [I Don't Need A Man](https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:39 |
+| 85 | [I Don't Need A Man](https://open.spotify.com/track/21avvmlLWna5CQMxSNDLL8) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:39 |
+| 86 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
 | 87 | [Baby \(feat\. MARINA & Luis Fonsi\)](https://open.spotify.com/track/5XWCc9wQes7X5uyYH9h5JR) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 |
 | 88 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
 | 89 | [La Vie en rose](https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 7:28 |

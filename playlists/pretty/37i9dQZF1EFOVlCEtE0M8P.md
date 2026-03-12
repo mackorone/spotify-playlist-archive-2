@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 287 songs - 16 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 287 songs - 16 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 98 | [Missing Posters](https://open.spotify.com/track/2vi4H9Vxel6bj6MrE8CqJf) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 2:52 |
 | 99 | [roses in the rain \(lullaby\)](https://open.spotify.com/track/6LYBomYZljvsHKV2rLA3Vs) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:26 |
 | 100 | [Fake Sugar](https://open.spotify.com/track/1WDVZNals95SINqXbGPHgs) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:29 |
-| 101 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
-| 102 | [12065](https://open.spotify.com/track/0wwA0ZXgJTcuIWZrBP6G96) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:06 |
+| 101 | [12065](https://open.spotify.com/track/0wwA0ZXgJTcuIWZrBP6G96) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:06 |
+| 102 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
 | 103 | [Boy](https://open.spotify.com/track/3BU2cF72H76xRFXOxKTI1Y) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:21 |
 | 104 | [Balsam Fir](https://open.spotify.com/track/231kALAtIK7ztIR1nDibsM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:54 |
 | 105 | [Hi, Everyone Leave Please](https://open.spotify.com/track/3biCjgjyi7vPA2ZvfB1Ds1) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 2:55 |
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 159 | [Kills Me To Be Kind](https://open.spotify.com/track/5iup3v0ACOZxhjmEa1Uc1z) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 4:40 |
 | 160 | [Go Baby Go](https://open.spotify.com/track/7caGhEAbbH6WXTjcXJFG3L) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:03 |
 | 161 | [Dreamland](https://open.spotify.com/track/1umUupybnbrgaNTrkFyxWI) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/3ukgoRejo9Q8pYkjID1M6b) | 5:05 |
-| 162 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 |
-| 163 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 162 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
+| 163 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 |
 | 164 | [That Time Of Year Always](https://open.spotify.com/track/1Uy0dtxpFBCt6uNcRnLudo) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/2T8UKnnH2VfNB2QwCQcq3o) | 3:34 |
 | 165 | [Good Girl / Gone Girl](https://open.spotify.com/track/7InSFBG0IUJRhjT7K8uSRq) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would You Still Love Me If You Really Knew Me?](https://open.spotify.com/album/7CrfDijJ4YRvLEjlOMkgZI) | 3:19 |
 | 166 | [Some People](https://open.spotify.com/track/32PhQGVwurZaoJrCvrh0nl) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Take Me To The Disco](https://open.spotify.com/album/1R5NwXzxNPMFcUQAeh0Tfn) | 3:56 |
@@ -192,8 +192,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 182 | [Do You Want Me To](https://open.spotify.com/track/6ygZkBHLbm0MkgDSgFED2i) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:07 |
 | 183 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 |
 | 184 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
-| 185 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
-| 186 | [Intro](https://open.spotify.com/track/2oWvt0oERpusVJDG6kQoUo) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 1:27 |
+| 185 | [Intro](https://open.spotify.com/track/2oWvt0oERpusVJDG6kQoUo) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 1:27 |
+| 186 | [Cry Baby](https://open.spotify.com/track/34CBLV8ypdoSsYZ5aMcbxc) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:23 |
 | 187 | [Interlude](https://open.spotify.com/track/5e8CJGh7vwV94l5csY2TIM) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Lover Of A Ghost](https://open.spotify.com/album/4HM2Cd3zXHgiRVrdpV1Kwr) | 1:43 |
 | 188 | [Party Trick](https://open.spotify.com/track/1IVf3ltB6zHIxMGBWpRnFn) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/7b0YvwnCJ456w3KWpmxlpi) | 3:26 |
 | 189 | [Temporary Feeling](https://open.spotify.com/track/7E77vE8shn8oqt3BNGF1tU) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:34 |
@@ -210,8 +210,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 200 | [Cool Kids](https://open.spotify.com/track/6T5Rkd2NoDGvnXePIuhUIM) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Cool Kids](https://open.spotify.com/album/10rY4reBXP4FoZqkfslzUg) | 2:59 |
 | 201 | [Mania](https://open.spotify.com/track/4O2YN5vvvpxHcZFRRuw4N6) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [S.I.D.E.S.](https://open.spotify.com/album/486groONGZO3VIRKvoy2Z9) | 2:57 |
 | 202 | [people like you](https://open.spotify.com/track/28bqKJ8P2akWe6Q1hf3x37) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:32 |
-| 203 | [White House](https://open.spotify.com/track/46ic6ADcmPA9mw1wKFLKEO) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [White House](https://open.spotify.com/album/2JUYm2GSrvmt6oiuvjpChg) | 3:30 |
-| 204 | [Something Better](https://open.spotify.com/track/4dhKiwTcdoM5itwNklLp00) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:55 |
+| 203 | [Something Better](https://open.spotify.com/track/4dhKiwTcdoM5itwNklLp00) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:55 |
+| 204 | [White House](https://open.spotify.com/track/46ic6ADcmPA9mw1wKFLKEO) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [White House](https://open.spotify.com/album/2JUYm2GSrvmt6oiuvjpChg) | 3:30 |
 | 205 | [Magic](https://open.spotify.com/track/0OinzPSjK2fSJwjRsAlJMn) | [Mark Owen](https://open.spotify.com/artist/1NCH3NhzIufLfHz32GLAzM) | [Land of Dreams](https://open.spotify.com/album/1M9ejv6LWxnhdioucmyaAn) | 3:40 |
 | 206 | [Infinite Roses](https://open.spotify.com/track/4cYD6UGs6vagGhyaWPChWF) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Sugar Water](https://open.spotify.com/album/3JSLVKZqrDVyeUSSVsvhYj) | 3:15 |
 | 207 | [Mississippi](https://open.spotify.com/track/6YLRLilsZL2fyuKyQD3kEq) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High & Low](https://open.spotify.com/album/3aHniWCq391zmVHUc7zBew) | 3:47 |
@@ -271,8 +271,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 261 | [Against The Time](https://open.spotify.com/track/6p2LimQV9g83taNMnafoxX) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 4:10 |
 | 262 | [Smoke \(Banished From Eden\)](https://open.spotify.com/track/7DKhjM95ViXjaA7zeoEQuM) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Blood On the Silver Screen](https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH) | 0:37 |
 | 263 | [Coasting](https://open.spotify.com/track/6sRQV4jXtujLq4Sh3KnnzA) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:24 |
-| 264 | [P.O.Y.F](https://open.spotify.com/track/4cQRnjPfvjMdykfI6adfma) | [Carlito Olivero](https://open.spotify.com/artist/6Nm6C6IBVGA2LahxuWn60h) | [D.D.B.R.W.S.](https://open.spotify.com/album/0Lv1HSVEt2X5iIgCmNkpJl) | 2:49 |
-| 265 | [Boogie Man](https://open.spotify.com/track/0wvoBwnumIL48MdAZ6Qv8G) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:18 |
+| 264 | [Boogie Man](https://open.spotify.com/track/0wvoBwnumIL48MdAZ6Qv8G) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:18 |
+| 265 | [P.O.Y.F](https://open.spotify.com/track/4cQRnjPfvjMdykfI6adfma) | [Carlito Olivero](https://open.spotify.com/artist/6Nm6C6IBVGA2LahxuWn60h) | [D.D.B.R.W.S.](https://open.spotify.com/album/0Lv1HSVEt2X5iIgCmNkpJl) | 2:49 |
 | 266 | [Wish You Well](https://open.spotify.com/track/1ftis05ic7yvD9X49F6rqh) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Who Wants to Talk About Love?](https://open.spotify.com/album/5jqRoaJWRJjiYTHWhBA6jE) | 2:22 |
 | 267 | [On The Wire](https://open.spotify.com/track/5dTHpZa8UDFruq9ThtYPEV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:37 |
 | 268 | [Joyriding](https://open.spotify.com/track/4byVQOoxzEKhIU9d10aWvm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Visions](https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka) | 3:05 |
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 286 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 | 287 | [You Don't Care](https://open.spotify.com/track/1mBTncvALjv971xEw6fBFK) | [Steven Wood](https://open.spotify.com/artist/4GU9C2rc9E6v3v2TpLzyfS), [Brandon Harms](https://open.spotify.com/artist/3yGwH9xSAbRwwvmIp09ZSW) | [You Don't Care](https://open.spotify.com/album/3K36b4gNevnCaCqmNntHMt) | 4:08 |
 
-Snapshot ID: `AcLyngAAAACNpsjA1M37cFj/W8kBJRE6`
+Snapshot ID: `AcL4AgAAAADhGGJGxZIsFv6AEKlJZsPk`

@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dan Sanchez y Kidd Keo en portada.",
-  "num_followers": 307933,
+  "num_followers": 307935,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
-        "name": "El Chamaquito",
-        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "El Chamaquito",
-      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
         "name": "SRT",
         "url": "https://open.spotify.com/album/0NK19kHjoL1Akoyo234nVt"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 174866,
       "name": "SRT",
       "url": "https://open.spotify.com/track/35Z5UYDKI5tyEfEsGMMRaz"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
+        "name": "El Chamaquito",
+        "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "duration_ms": 139863,
+      "name": "El Chamaquito",
+      "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
     },
     {
       "added_at": "2026-03-06 06:00:00",
@@ -1751,30 +1751,6 @@
     {
       "added_at": "2026-03-06 06:00:00",
       "album": {
-        "name": "Si ma\u00f1ana me muero",
-        "url": "https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        }
-      ],
-      "duration_ms": 198515,
-      "name": "Si ma\u00f1ana me muero",
-      "url": "https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT"
-    },
-    {
-      "added_at": "2026-03-06 06:00:00",
-      "album": {
         "name": "CINDERELLA",
         "url": "https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK"
       },
@@ -1803,6 +1779,30 @@
       "duration_ms": 215132,
       "name": "Es Mi Gusto",
       "url": "https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65"
+    },
+    {
+      "added_at": "2026-03-06 06:00:00",
+      "album": {
+        "name": "Si ma\u00f1ana me muero",
+        "url": "https://open.spotify.com/album/016VgxR6h6JOhTXTsWJsr1"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "duration_ms": 198515,
+      "name": "Si ma\u00f1ana me muero",
+      "url": "https://open.spotify.com/track/5bolIEjV7hih1tTB2FlrOT"
     },
     {
       "added_at": "2026-03-06 06:00:00",

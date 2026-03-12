@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Catchy pop music to keep those legs going.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,093 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,215 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

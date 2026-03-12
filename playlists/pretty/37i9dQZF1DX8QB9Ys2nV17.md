@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,300 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,361 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 34 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
 | 35 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
 | 36 | [She Just Wants To Dance](https://open.spotify.com/track/32jhfaxUgrYIAvhrYElR8R) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Bitter Sweet Blues](https://open.spotify.com/album/053qUnFHyBEyu3HrRq2xRY) | 4:52 |
-| 37 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:56 |
-| 38 | [You Need Love](https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs) | [Candye Kane](https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b), [Stephen Hodges](https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp) | [Superhero](https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C) | 4:06 |
+| 37 | [You Need Love](https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs) | [Candye Kane](https://open.spotify.com/artist/70svT4F0xhbyQ5lQx6UE4b), [Stephen Hodges](https://open.spotify.com/artist/1dEhcM1DuKdrIb3iudblIp) | [Superhero](https://open.spotify.com/album/3aEHMc4YNu1XKfFqboal8C) | 4:06 |
+| 38 | [Mother](https://open.spotify.com/track/1VIuh0pmfz3vGGrte8738e) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/7Emv4cUBw1Sjbpa1iq3Q8Y) | 2:56 |
 | 39 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
 | 40 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 |
 | 41 | [Ghost](https://open.spotify.com/track/4P8pay7zYJUbVhtbWFaxEW) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Ghost](https://open.spotify.com/album/7z5F3gDwpJ74b4lHSrJ9FX) | 3:30 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 48 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
 | 49 | [Earthshaker](https://open.spotify.com/track/55JA2ADUmJvPdIWpyqHTaJ) | [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Rise](https://open.spotify.com/album/0pC44Owu9L5cki0FGk9KuG) | 4:07 |
 | 50 | [Bad Woman Blues](https://open.spotify.com/track/0JSotxr4YFcp5e8c5yaMKv) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Bad Woman Blues](https://open.spotify.com/album/7GuWk4lYaF0r6i1cjepZlp) | 3:35 |
-| 51 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
-| 52 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
-| 53 | [Spare Some Love](https://open.spotify.com/track/7lYWr6C3mvaj8jMUPAhABP) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 5:11 |
+| 51 | [Spare Some Love](https://open.spotify.com/track/7lYWr6C3mvaj8jMUPAhABP) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 5:11 |
+| 52 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
+| 53 | [Sweet Feeling](https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Sweet Feeling](https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr) | 5:34 |
 | 54 | [Ghost](https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 4:03 |
 | 55 | [This Is My Will](https://open.spotify.com/track/6LOo0imVNkr9CFr6Cg6dkD) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 5:11 |
 | 56 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |

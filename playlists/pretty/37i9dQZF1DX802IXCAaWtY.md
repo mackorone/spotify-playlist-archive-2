@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,542 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487,836 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 8 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 |
 | 9 | [Scatman \(ski\-ba\-bop\-ba\-dop\-bop\)](https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Scatman's World](https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j) | 3:35 |
 | 10 | [Music Sounds Better With You \- Radio Edit](https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 4:20 |
-| 11 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
-| 12 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 |
+| 11 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 |
+| 12 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 13 | [Be My Lover](https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 4:00 |
 | 14 | [Another Night](https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0xHHJdnDNOUDmIKqBZnHV9) | 3:56 |
 | 15 | [Get A Way](https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 3:46 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 35 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
 | 36 | [Sweet Dreams](https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 3:24 |
 | 37 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [PLAVKA](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
-| 38 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
-| 39 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
+| 38 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
+| 39 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
 | 40 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
 | 41 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
 | 42 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 54 | [Show me colours](https://open.spotify.com/track/6xRRr4W5VQiQZOVhXzqtIr) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Colours](https://open.spotify.com/album/5dmEmXqf6kIJPhTcmhItRd) | 4:29 |
 | 55 | [Happy People \(feat\. Marky Mark\)](https://open.spotify.com/track/4RybvT8lyLLjkWXqmAuZnX) | [Prince Ital Joe](https://open.spotify.com/artist/564Zvn5Nh5FqjSYlmzplB9), [Marky Mark](https://open.spotify.com/artist/30RQEZf8rhlcRNQJ89me3P) | [Life In The Streets](https://open.spotify.com/album/3Vvt7b5z4GVIaK14CfKF88) | 3:58 |
 | 56 | [Heaven](https://open.spotify.com/track/3gpFz8oAnbKQz83jf17yco) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Heaven](https://open.spotify.com/album/3CmchxGaji4Tt4ro5JDIhZ) | 3:39 |
-| 57 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
-| 58 | [Superhero](https://open.spotify.com/track/5w24xZUicD68LjnZvtougC) | [Daze](https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV) | [Super Heroes](https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp) | 3:24 |
+| 57 | [Superhero](https://open.spotify.com/track/5w24xZUicD68LjnZvtougC) | [Daze](https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV) | [Super Heroes](https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp) | 3:24 |
+| 58 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
 | 59 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
 | 60 | [Dooh Dooh](https://open.spotify.com/track/06MaHjSGleJNvfsugH0mFi) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [Swipe Me](https://open.spotify.com/album/2gHDTP5A75V7oGRtwqIOWN) | 3:51 |
 | 61 | [Move On Baby](https://open.spotify.com/track/1PavRrF6Ydo0HSePmMt5tL) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [U got 2 know album](https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ) | 4:51 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 66 | [Drill Instructor \- Short Mix](https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [The Mission](https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB) | 4:14 |
 | 67 | [Tears Don't Lie \- Long Version](https://open.spotify.com/track/77DBnoXYTP9HNMunNaUqch) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [90s Charthits](https://open.spotify.com/album/070WMuqRUg4LdGqpzQzp1Q) | 3:39 |
 | 68 | [Das Boot](https://open.spotify.com/track/0yMIs70Fr4pd8f4KV6jmHC) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Das Boot](https://open.spotify.com/album/5geE4R8hMSYwkmJiUAAgCW) | 5:14 |
-| 69 | [Electric](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:36 |
-| 70 | [Fly High](https://open.spotify.com/track/29WTMnk0vsnapB0FaLDfGM) | [Me & My](https://open.spotify.com/artist/4FD9joiv6N5yWEnxxbyC59) | [Fly High](https://open.spotify.com/album/3T1n5qLTtMAsJofzJoZDNI) | 4:32 |
+| 69 | [Fly High](https://open.spotify.com/track/29WTMnk0vsnapB0FaLDfGM) | [Me & My](https://open.spotify.com/artist/4FD9joiv6N5yWEnxxbyC59) | [Fly High](https://open.spotify.com/album/3T1n5qLTtMAsJofzJoZDNI) | 4:32 |
+| 70 | [Electric](https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7) | [Leila K](https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6) | [Manic Panic](https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA) | 3:36 |
 
 Snapshot ID: `AAAAAFLv8x/3n4fmCeC1dUKNACDrvyLS`

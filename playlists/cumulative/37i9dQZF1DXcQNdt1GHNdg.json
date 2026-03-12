@@ -1919,6 +1919,32 @@
     },
     {
       "album": {
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/500ZX1Af0B65dJHBwRWJ8N"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Virk Andaaz",
+          "url": "https://open.spotify.com/artist/4jIIs4ktqKx3OJMbn7Xo7l"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110125,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG"
+    },
+    {
+      "album": {
         "name": "Defender",
         "url": "https://open.spotify.com/album/5bUNR8cU2YpcHTiXmIdflc"
       },
@@ -2062,7 +2088,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"

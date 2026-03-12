@@ -4,7 +4,7 @@
 
 > ang lalim
 
-323 songs - 19 hr 58 min
+324 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2023-10-18 |  |
 | [i know you know](https://open.spotify.com/track/61FGR56QJ94BHIkfh755s4) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/2nNQOtUsfNhwJguQorQmNK) | 4:24 | 2023-10-18 | 2024-04-19 |
 | [i know you know](https://open.spotify.com/track/7IU4F6KiGpjwy5cEBKof8L) | [CHSKA](https://open.spotify.com/artist/6d7pgUDWxX9NiHobwGg1NB) | [i know you know](https://open.spotify.com/album/4k74ZuiE1LHukoVXgOztv1) | 4:24 | 2024-03-04 | 2024-11-05 |
-| [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-09-17 |  |
+| [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-09-17 | 2026-03-12 |
 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-10-14 | 2025-10-31 |
 | [Ikaw ang Wakas](https://open.spotify.com/track/5PTUMeNI5CjMZ0qPy0DUcc) | [Ice Seguerra](https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9) | [Ikaw ang Wakas](https://open.spotify.com/album/0VK3UeX0KmN6TEnRpxoITn) | 3:46 | 2026-03-09 |  |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-07-17 | 2025-10-12 |
@@ -243,6 +243,7 @@
 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 | 2023-10-18 | 2024-04-19 |
 | [Promise](https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Promise](https://open.spotify.com/album/21QZu3y3ewBQfmehshqMmZ) | 3:54 | 2024-03-04 | 2024-11-05 |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-17 | 2025-10-10 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-03-11 |  |
 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 | 2026-01-13 |  |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-02 |  |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-10-14 | 2024-12-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Basement
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,044,604 likes - 84 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,539 likes - 84 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

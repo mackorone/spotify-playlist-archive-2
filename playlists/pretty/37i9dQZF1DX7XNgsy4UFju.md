@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Glitter, grit, and guitars: Metric leading the indie sleaze comeback.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,304 likes - 97 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,314 likes - 97 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,766 likes - 110 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,769 likes - 110 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 9 | [AY MAMA \(mi tiburón\)](https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [AY MAMA \(mi tiburón\)](https://open.spotify.com/album/4RafoSfihhy0heXBjcKjaa) | 2:18 |
 | 10 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
 | 11 | [Playita](https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Playita](https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ) | 2:30 |
-| 12 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
+| 12 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
 | 13 | [Babylon](https://open.spotify.com/track/274QOpK63LLyLPhDKDIkZ2) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Babylon](https://open.spotify.com/album/10evLNLrgCUrShWYttpITu) | 3:26 |
-| 14 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
+| 14 | [Wapa](https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Wapa](https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq) | 2:39 |
 | 15 | [11:11pm](https://open.spotify.com/track/07wQKLfoZcloCEfVfdQtA7) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [11:11pm](https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp) | 3:15 |
 | 16 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
 | 17 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 67 | [Cosas del Destino](https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE) | [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cosas del Destino](https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3) | 3:34 |
 | 68 | [Losken Roland](https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Losken Roland](https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6) | 2:20 |
 | 69 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
-| 70 | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp) | [Tostao](https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l) | 2:51 |
-| 71 | [Yo Quisiera](https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Yo Quisiera](https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09) | 2:57 |
+| 70 | [Yo Quisiera](https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Yo Quisiera](https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09) | 2:57 |
+| 71 | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp) | [Tostao](https://open.spotify.com/artist/5TncuIF5Ud9VOx2NYY4qfT), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [No Avanzan \(feat\. Luis Eduardo Acústico\)](https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l) | 2:51 |
 | 72 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
 | 73 | [Loco Playa](https://open.spotify.com/track/3xLMxECVQRoP91T0XJHgtw) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Los Playa Vol\. 1](https://open.spotify.com/album/61vafBpcTWyrolKZCND8lq) | 3:37 |
 | 74 | [Mi Reina](https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Mi Reina](https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd) | 3:02 |

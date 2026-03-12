@@ -18423,6 +18423,24 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/11koFUb2flCfP4dELQ388y"
+      },
+      "artists": [
+        {
+          "name": "Mulaa Joans",
+          "url": "https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176887,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
+    },
+    {
+      "album": {
         "name": "LOVE LOOKS PRETTY ON YOU",
         "url": "https://open.spotify.com/album/1pSTx7qVqjTypzJFZyEUxr"
       },
@@ -22536,7 +22554,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -24152,7 +24170,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -28020,7 +28038,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -33243,6 +33261,24 @@
     },
     {
       "album": {
+        "name": "VYZEE",
+        "url": "https://open.spotify.com/album/619AAL08eHbip6ce8Jixbe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202531,
+      "name": "VYZEE",
+      "url": "https://open.spotify.com/track/1LzvuqP3L5Q7G61kUBgfCJ"
+    },
+    {
+      "album": {
         "name": "W.I.T.C.H.",
         "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
       },
@@ -34608,6 +34644,24 @@
       "duration_ms": 223441,
       "name": "Who Said",
       "url": "https://open.spotify.com/track/62vwAuRxiRQ4EmoQZaqCHX"
+    },
+    {
+      "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "album": {

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/7or26qS3BfpTtWO3BFw5GE"
+    },
+    {
+      "album": {
         "name": "Frank",
         "url": "https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Katinka, Harry Styles, MØ og maaange flere  ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,746 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,733 likes - 102 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,16 +98,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 88 | [Fitness Bro](https://open.spotify.com/track/3qYoWn1uyDpGzA12ZxztDQ) | [Smag På Dig Selv](https://open.spotify.com/artist/23pTWRPhfqdtCB8N1FGIeC) | [This Is Why We Lost](https://open.spotify.com/album/0eeHpWSPNolqL0anDGagB3) | 3:03 |
 | 89 | [Siri](https://open.spotify.com/track/3d0xYIx0Qwl72HDRXjJPtU) | [Simon Littauer](https://open.spotify.com/artist/3d86nffQdBOsWeeCM03izv) | [Siri](https://open.spotify.com/album/2uDIbAt6U3aTTFkQWidvxg) | 2:21 |
 | 90 | [BEL GUFO](https://open.spotify.com/track/2UsjiS9rXoXE856prwo2v4) | [Ayce Bio](https://open.spotify.com/artist/1JJZyzSriYDxn3vp8piOWI) | [BEL GUFO](https://open.spotify.com/album/4GvoBe0jjPf4JzpIKSewCY) | 3:13 |
-| 91 | [Når Mørket Falder](https://open.spotify.com/track/5IiCyRJ7W9zUZh0Xp8HgLx) | [Uffe Lorenzen](https://open.spotify.com/artist/5iBm4JYV3HPZTo5FthZj2T) | [Når Mørket Falder](https://open.spotify.com/album/7K44eHaAApHIHTA4Sg1EPt) | 3:02 |
-| 92 | [Jeg savner dig](https://open.spotify.com/track/5vATXmKTGQKV1BEt3DrO2e) | [Isa Aia](https://open.spotify.com/artist/4llfWsubnbDfiNgWFE4yzf) | [Jeg savner dig](https://open.spotify.com/album/6YRJpYEjg9KgtkaK1HqWZZ) | 4:29 |
-| 93 | [Bare Dø](https://open.spotify.com/track/3g26UtrWamoXV9K5R6DMil) | [Modvind](https://open.spotify.com/artist/6GmD8n2tPz3suHrTH7r7qZ) | [Bare Dø](https://open.spotify.com/album/0IhVKw7xsdUZhDuF6LSjg4) | 3:42 |
-| 94 | [After Tokyo](https://open.spotify.com/track/02b5PmgFNkAGCVuvtz0ioX) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18), [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [After Tokyo](https://open.spotify.com/album/0XwhbVYOJNBDfEryDYmvT0) | 3:10 |
-| 95 | [OMG](https://open.spotify.com/track/2pLMx0n2rDlEdAwTSWwMQZ) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli) | [OMG](https://open.spotify.com/album/1cpt9fKmP3RMYoZfTHUArc) | 3:58 |
-| 96 | [I Can't Wait](https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [I Can't Wait](https://open.spotify.com/album/5BxB49zq4P3MiCEB4HokzF) | 2:28 |
-| 97 | [What's The Frequency, Kenneth?](https://open.spotify.com/track/0ABeFnrMFlJ3N2Mfyxq8Ak) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Le Bacoll](https://open.spotify.com/artist/0DPnzUnKDLwRlkVA8Fvhll) | [What's The Frequency, Kenneth?](https://open.spotify.com/album/2Inzn89OscmtQde0J1eiA4) | 5:38 |
-| 98 | [Leech](https://open.spotify.com/track/244k2d83RmmbcfXa6K6fgx) | [bleak.](https://open.spotify.com/artist/1aKavYmJVSNDrKAYFdx0yS), [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Leech](https://open.spotify.com/album/6G0bgtHb1dnfKwg2UZ6AJz) | 2:00 |
-| 99 | [all of me was you](https://open.spotify.com/track/3jd0nELFcCS31ly7VmeJ71) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [all of me was you](https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5) | 3:04 |
-| 100 | [jamie](https://open.spotify.com/track/24aaGiYyZmQv3E8GeswyV5) | [Marie April](https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo) | [jamie](https://open.spotify.com/album/2Gsvf58voRfAA29s4Dullf) | 3:28 |
-| 101 | [CAN I GET UR NUMBER](https://open.spotify.com/track/1jbjNL3QZ3ImdTzi9I3Dli) | [Charlie Cello](https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH) | [CAN I GET UR NUMBER](https://open.spotify.com/album/2Qul06ntaCVwwdAKBdknkM) | 1:54 |
+| 91 | [drown](https://open.spotify.com/track/4PUaUdhLeOyOjbfQ3bTZqK) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [drown](https://open.spotify.com/album/2oOTzS5MMF69VNdZvNhhHk) | 3:25 |
+| 92 | [Når Mørket Falder](https://open.spotify.com/track/5IiCyRJ7W9zUZh0Xp8HgLx) | [Uffe Lorenzen](https://open.spotify.com/artist/5iBm4JYV3HPZTo5FthZj2T) | [Når Mørket Falder](https://open.spotify.com/album/7K44eHaAApHIHTA4Sg1EPt) | 3:02 |
+| 93 | [Jeg savner dig](https://open.spotify.com/track/5vATXmKTGQKV1BEt3DrO2e) | [Isa Aia](https://open.spotify.com/artist/4llfWsubnbDfiNgWFE4yzf) | [Jeg savner dig](https://open.spotify.com/album/6YRJpYEjg9KgtkaK1HqWZZ) | 4:29 |
+| 94 | [Bare Dø](https://open.spotify.com/track/3g26UtrWamoXV9K5R6DMil) | [Modvind](https://open.spotify.com/artist/6GmD8n2tPz3suHrTH7r7qZ) | [Bare Dø](https://open.spotify.com/album/0IhVKw7xsdUZhDuF6LSjg4) | 3:42 |
+| 95 | [After Tokyo](https://open.spotify.com/track/02b5PmgFNkAGCVuvtz0ioX) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18), [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [After Tokyo](https://open.spotify.com/album/0XwhbVYOJNBDfEryDYmvT0) | 3:10 |
+| 96 | [OMG](https://open.spotify.com/track/2pLMx0n2rDlEdAwTSWwMQZ) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli) | [OMG](https://open.spotify.com/album/1cpt9fKmP3RMYoZfTHUArc) | 3:58 |
+| 97 | [I Can't Wait](https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [I Can't Wait](https://open.spotify.com/album/5BxB49zq4P3MiCEB4HokzF) | 2:28 |
+| 98 | [What's The Frequency, Kenneth?](https://open.spotify.com/track/0ABeFnrMFlJ3N2Mfyxq8Ak) | [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Le Bacoll](https://open.spotify.com/artist/0DPnzUnKDLwRlkVA8Fvhll) | [What's The Frequency, Kenneth?](https://open.spotify.com/album/2Inzn89OscmtQde0J1eiA4) | 5:38 |
+| 99 | [Leech](https://open.spotify.com/track/244k2d83RmmbcfXa6K6fgx) | [bleak.](https://open.spotify.com/artist/1aKavYmJVSNDrKAYFdx0yS), [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Leech](https://open.spotify.com/album/6G0bgtHb1dnfKwg2UZ6AJz) | 2:00 |
+| 100 | [all of me was you](https://open.spotify.com/track/3jd0nELFcCS31ly7VmeJ71) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [all of me was you](https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5) | 3:04 |
+| 101 | [jamie](https://open.spotify.com/track/24aaGiYyZmQv3E8GeswyV5) | [Marie April](https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo) | [jamie](https://open.spotify.com/album/2Gsvf58voRfAA29s4Dullf) | 3:28 |
+| 102 | [CAN I GET UR NUMBER](https://open.spotify.com/track/1jbjNL3QZ3ImdTzi9I3Dli) | [Charlie Cello](https://open.spotify.com/artist/1dXr00ZTDAbZXIyfrD82SH) | [CAN I GET UR NUMBER](https://open.spotify.com/album/2Qul06ntaCVwwdAKBdknkM) | 1:54 |
 
 Snapshot ID: `AAAAAJQpMUgPWHEAmMOa7Afu+b/sogN4`

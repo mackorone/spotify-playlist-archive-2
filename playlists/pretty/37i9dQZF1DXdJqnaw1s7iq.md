@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,877 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,900 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 30 | [Kingdom](https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:10 |
 | 31 | [Other People](https://open.spotify.com/track/6xaBHNTugbgWWzUwgye0vg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:24 |
 | 32 | [Feel Like I Do](https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Moog For Love](https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT) | 3:15 |
-| 33 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 |
-| 34 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 |
+| 33 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 |
+| 34 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 |
 | 35 | [Dissolve Me](https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:59 |
 | 36 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 |
 | 37 | [California Girls](https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [California Girls](https://open.spotify.com/album/4U5EFFFsaynpAmTG6DS2MQ) | 3:36 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 59 | [Babe](https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA) | [Evenings](https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y) | [Yore](https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB) | 2:52 |
 | 60 | [obedear](https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 61 | [Down the Line \- It Takes a Number](https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Meditations on Afrocentrism](https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv) | 4:14 |
-| 62 | [Let in the Light](https://open.spotify.com/track/0WxS9Vw4649veGUtOrOPO1) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:15 |
-| 63 | [New Theory](https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 2:48 |
+| 62 | [New Theory](https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 2:48 |
+| 63 | [Let in the Light](https://open.spotify.com/track/0WxS9Vw4649veGUtOrOPO1) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/1udCeAJjxGO8BuhDbpvVJv) | 4:15 |
 | 64 | [Julia](https://open.spotify.com/track/3naM0aExICteWgsNwcPBHh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 3:15 |
 | 65 | [Chasing Shadows](https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [99 Cents](https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk) | 3:15 |
 | 66 | [Warm Water \- Snakehips Remix](https://open.spotify.com/track/63Ly2sEzloc9s0yAXlMi6r) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Warm Water \(Snakehips Remix\)](https://open.spotify.com/album/41xJklJV7uqDzg9teggeR6) | 4:13 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 71 | [Affection](https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 2:36 |
 | 72 | [Be a Body](https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:20 |
 | 73 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 |
-| 74 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
-| 75 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
+| 74 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
+| 75 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
 | 76 | [Go Back Home](https://open.spotify.com/track/3KrTlYioYhUIvd8IoptcTN) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 3:55 |
 | 77 | [Hémisphère](https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Hémisphère / Je m'ennuie](https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0) | 7:13 |
 | 78 | [Swoon](https://open.spotify.com/track/4bCtpOkYWJAq4ONjrnuU1L) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5AWouw8qYspux6tH4epnMm) | 6:05 |

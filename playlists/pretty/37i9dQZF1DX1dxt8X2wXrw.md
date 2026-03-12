@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,451 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,456 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 10 | [I'M SO IN LOVE WITH YOU](https://open.spotify.com/track/5mSjVVGPv8zUsjfMuSxPRP) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:42 |
 | 11 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
 | 12 | [30 For 30 \(with Kendrick Lamar\)](https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 4:38 |
-| 13 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
+| 13 | [bad](https://open.spotify.com/track/6H67gFuycHyTOROX2M4bbs) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 4:23 |
 | 14 | [BACKSTREETS](https://open.spotify.com/track/3XzGb1aeUv1lu0u1Bozknw) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [BACKSTREETS](https://open.spotify.com/album/15SLKSZFLE7f2mMR84D1bK) | 3:31 |
-| 15 | [bad](https://open.spotify.com/track/6H67gFuycHyTOROX2M4bbs) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 4:23 |
+| 15 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 16 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 |
 | 17 | [After Hours](https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32) | 3:22 |
 | 18 | [Blame It On Me](https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Blame It On Me](https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY) | 2:51 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 44 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
 | 45 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
 | 46 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
-| 47 | [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 |
-| 48 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
+| 47 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
+| 48 | [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 |
 | 49 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 |
 | 50 | [Crushed Velvet](https://open.spotify.com/track/0ot8VA36fmxBlIqa5xbnf7) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [On The Lips](https://open.spotify.com/album/2EaFjK4isYVM689kcpyIAY) | 3:15 |
 | 51 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 61 | [HOT GIRL PROBLEMS](https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOT GIRL PROBLEMS](https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt) | 2:57 |
 | 62 | [ONE CALL](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [ONE CALL](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 | 63 | [Stateside](https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Stateside](https://open.spotify.com/album/5YDrgVxfvOkmp1OYjXB29z) | 2:48 |
-| 64 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 |
-| 65 | [Back, Baby](https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2) | 3:55 |
+| 64 | [Back, Baby](https://open.spotify.com/track/5Pm59vQU1KTcCkg4nZ3SZu) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [On Your Own Love Again](https://open.spotify.com/album/44iuWeTEtDDk9Ll3A7O8F2) | 3:55 |
+| 65 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 |
 | 66 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 |
 | 67 | [Be Mine](https://open.spotify.com/track/3dSZcr7SWwFdOmY0r3Ryih) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Midnight Request Line](https://open.spotify.com/album/6EjS2SQlbFfvqL0MGVNHbD) | 3:42 |
 | 68 | [Drown](https://open.spotify.com/track/0r3EjWduZ249mBlXAfcHyL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/22y4jRBJ3WK5plaTLg0Vn4) | 3:54 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 71 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 |
 | 72 | [Falling Down a Well](https://open.spotify.com/track/5MyTc8ST5a6BNyyRucZNlf) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Blue Desert](https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X) | 2:53 |
 | 73 | [Capable of love](https://open.spotify.com/track/4bqDgEc3V9o0gle8mvgCgN) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Capable of love](https://open.spotify.com/album/0v71HfYxKmyN4kGA96Iwn2) | 3:43 |
-| 74 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
-| 75 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
+| 74 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
+| 75 | [Crush](https://open.spotify.com/track/3aUviSdBVbsdmH406j5GZC) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Crush](https://open.spotify.com/album/1R9BIE7X0fzMrn3XHvetFO) | 2:15 |
 
 Snapshot ID: `AAAAADU7fH8YouwkQ1x8M8OsRdncKU25`

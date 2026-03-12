@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 194960,
       "name": "Achy Breaky Heart",
       "url": "https://open.spotify.com/track/6aKH2fJqFOW0pswQn2Y9l9"
@@ -4308,7 +4308,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -11398,7 +11398,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 96521,
       "name": "Crvena kola (Emil Zola)",
       "url": "https://open.spotify.com/track/2WVK7RTY54k9UpPSp6DOoE"
@@ -17216,7 +17216,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 177692,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP"
@@ -28259,6 +28259,28 @@
     },
     {
       "album": {
+        "name": "K\u00e2be'de Hac\u0131lar",
+        "url": "https://open.spotify.com/album/2OzCPenEZiSGFjVy9mkHP2"
+      },
+      "artists": [
+        {
+          "name": "Abdurrahman \u00d6n\u00fcl",
+          "url": "https://open.spotify.com/artist/4wfR2P1uLr5g3hgvcwkcjt"
+        },
+        {
+          "name": "Celal Karat\u00fcre",
+          "url": "https://open.spotify.com/artist/5Z11w19UZIbK8wuZwtHslL"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175902,
+      "name": "K\u00e2be'de Hac\u0131lar",
+      "url": "https://open.spotify.com/track/5tJysfpX3Q6KJ3W6M3LP0q"
+    },
+    {
+      "album": {
         "name": "K\u00f6nigin der Nacht",
         "url": "https://open.spotify.com/album/03pFzaRXlVcmKsLIDKfQid"
       },
@@ -29588,6 +29610,24 @@
       "duration_ms": 144596,
       "name": "Let Him Go",
       "url": "https://open.spotify.com/track/7fvDXNMwfIDnvhTyMDROOp"
+    },
+    {
+      "album": {
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/1s8YhJRqFAcpcA5DoF1cQg"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/5HJVMb4sCeGiiHOwQeYO3j"
     },
     {
       "album": {
@@ -36406,7 +36446,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 121570,
       "name": "Neoperreo",
       "url": "https://open.spotify.com/track/28DBPgLD7pUjGA561yzd8X"
@@ -41168,7 +41208,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 96989,
       "name": "Qseng",
       "url": "https://open.spotify.com/track/7IB0m2C9jsidV2EJpGql63"
@@ -42754,6 +42794,24 @@
     {
       "album": {
         "name": "RUDE!",
+        "url": "https://open.spotify.com/album/4teVVZHVxs4FgjPhT3lUKz"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
       },
       "artists": [
@@ -42764,7 +42822,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -43216,6 +43274,24 @@
       "duration_ms": 204833,
       "name": "Sana G\u00fcvenmiyorum - Dedub Sessions",
       "url": "https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ"
+    },
+    {
+      "album": {
+        "name": "Sana Ra\u011fmen",
+        "url": "https://open.spotify.com/album/1SG3xUjCDn7gndNJsIvIbv"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210275,
+      "name": "Sana Ra\u011fmen",
+      "url": "https://open.spotify.com/track/6p17lQApoPFY2vBGccMzFH"
     },
     {
       "album": {
@@ -51986,6 +52062,28 @@
       "duration_ms": 533786,
       "name": "T\u00f6rke T\u00f6rke",
       "url": "https://open.spotify.com/track/7jHQDnDwChyyY9mm4lLikS"
+    },
+    {
+      "album": {
+        "name": "U Da One",
+        "url": "https://open.spotify.com/album/4PvAM8YifakYFnEMbNM86v"
+      },
+      "artists": [
+        {
+          "name": "Velmar",
+          "url": "https://open.spotify.com/artist/37VVscYaocfWJfWjG5XCOB"
+        },
+        {
+          "name": "Misdemeanor",
+          "url": "https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194544,
+      "name": "U Da One",
+      "url": "https://open.spotify.com/track/5KBPDjFPi8kQdnsiTR1Nmy"
     },
     {
       "album": {

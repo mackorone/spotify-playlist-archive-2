@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,509,145 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,081 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 9 | [relicário](https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [N](https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0) | 4:05 |
 | 10 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |
 | 11 | [Cabelo De Anjo](https://open.spotify.com/track/4QWsMXZ60waQmBBduGM2ci) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Eu Feat\. Você](https://open.spotify.com/album/2miEOiHroQ1WgUPdS1TPk7) | 3:34 |
-| 12 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 |
-| 13 | [Por Onde Você Anda?](https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [VI](https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL) | 4:01 |
+| 12 | [Por Onde Você Anda?](https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [VI](https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL) | 4:01 |
+| 13 | [Fica Tudo Bem](https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 2:47 |
 | 14 | [Sei Lá](https://open.spotify.com/track/6l1PdE7lQbodewVQh16GCM) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Sei Lá](https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf) | 3:10 |
 | 15 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 |
 | 16 | [Se fosse tão fácil \- Acústico](https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Se fosse tão fácil \(Acústico\)](https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9) | 3:18 |

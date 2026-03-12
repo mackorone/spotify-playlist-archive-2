@@ -1,6 +1,6 @@
 {
   "description": "Leave no rock undiscovered and explore the essential foundations of Christian rock.",
-  "num_followers": 198784,
+  "num_followers": 198792,
   "original_name": "Cornerstones",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-12-14 00:22:52",
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0"
+      },
+      "artists": [
+        {
+          "name": "Spoken",
+          "url": "https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB"
+    },
+    {
+      "added_at": "2025-12-14 00:22:52",
+      "album": {
         "name": "DARKNESS BEFORE THE DAWN!",
         "url": "https://open.spotify.com/album/2ZwtqxX23LK900g6vu1p3H"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 191786,
       "name": "DARKNESS BEFORE THE DAWN!",
       "url": "https://open.spotify.com/track/7fYPGeh5sIKyH2LXTZBTP6"
-    },
-    {
-      "added_at": "2025-12-14 00:22:52",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0"
-      },
-      "artists": [
-        {
-          "name": "Spoken",
-          "url": "https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB"
     },
     {
       "added_at": "2025-12-14 00:22:52",

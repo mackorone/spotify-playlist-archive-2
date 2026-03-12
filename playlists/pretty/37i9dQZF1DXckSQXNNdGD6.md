@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Lapili.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,322 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,324 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 11 | [Me tiré a un Facha](https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY) | [Montedapena](https://open.spotify.com/artist/4mit7hjQhGPMJOj2zNQIyv), [PLATERÍAS](https://open.spotify.com/artist/421hInltWZcGKhEFnDbj5C) | [Me tiré a un Facha](https://open.spotify.com/album/20oYiyi0cfku7vjOnYbQRb) | 3:00 |
 | 12 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
 | 13 | [Algo me falta](https://open.spotify.com/track/1B6zVmn6jdStD6ZFRhn4rU) | [Lucia De la Puerta](https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa) | [Algo me falta](https://open.spotify.com/album/1suJSeK6upGYxxD1iMqIEE) | 3:01 |
-| 14 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
+| 14 | [la victoria](https://open.spotify.com/track/2nVZyNOFeTqPKHDk5NEAUC) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [la victoria](https://open.spotify.com/album/1f26pxJqxIsVABKGkg00yO) | 3:16 |
 | 15 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
-| 16 | [la victoria](https://open.spotify.com/track/2nVZyNOFeTqPKHDk5NEAUC) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [la victoria](https://open.spotify.com/album/1f26pxJqxIsVABKGkg00yO) | 3:16 |
+| 16 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
 | 17 | [Vogue](https://open.spotify.com/track/2ThAF4cOs9Jw5M0qHdqT93) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [Virtuzorrismo](https://open.spotify.com/album/5O7XvaC137QQ03SgAT3J9v) | 2:56 |
 | 18 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |
 | 19 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |

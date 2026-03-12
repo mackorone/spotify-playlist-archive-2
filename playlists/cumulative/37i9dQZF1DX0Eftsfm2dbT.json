@@ -50127,6 +50127,28 @@
     },
     {
       "album": {
+        "name": "Mother Tree",
+        "url": "https://open.spotify.com/album/5R3DJCQQ4HcIL2o7dDc5Au"
+      },
+      "artists": [
+        {
+          "name": "EMI MARIA",
+          "url": "https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246225,
+      "name": "\u6625\u590f\u79cb\u51ac",
+      "url": "https://open.spotify.com/track/6QfnWtaW5oerFQeIrjMGrr"
+    },
+    {
+      "album": {
         "name": "\u663c\u306f\u30ea\u30fc\u30de\u30f3\u591c\u306f\u30e9\u30c3\u30d1\u30fc",
         "url": "https://open.spotify.com/album/5Y4iKeU6ZVOolbK22u8yaN"
       },

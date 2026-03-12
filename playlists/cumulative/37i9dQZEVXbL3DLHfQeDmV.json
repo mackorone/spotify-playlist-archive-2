@@ -146,7 +146,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 179586,
       "name": "404 (New Era)",
       "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 172160,
       "name": "Aura Salad",
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "1972-1980: The Very Best Of",
+        "url": "https://open.spotify.com/album/0kALoLxSuyw7STQklgiWPo"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/1gaxE1VJlnRacd2gtcdf1Z"
+    },
+    {
+      "album": {
         "name": "The Chris Rainbow Anthology",
         "url": "https://open.spotify.com/album/3uJ0vJKjo6059nVpcQGpLC"
       },
@@ -884,7 +902,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 240773,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 165000,
       "name": "Better without you",
       "url": "https://open.spotify.com/track/10AY1BJcHxOmy3X5zb37Bb"
@@ -4144,10 +4162,32 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 191146,
       "name": "Here (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
     },
     {
       "album": {
@@ -4822,6 +4862,24 @@
     {
       "album": {
         "name": "No Dogs Allowed",
+        "url": "https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294260,
+      "name": "Impostor Syndrome",
+      "url": "https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2"
+    },
+    {
+      "album": {
+        "name": "No Dogs Allowed",
         "url": "https://open.spotify.com/album/1RbfvnXTISZJR42nZQSfb8"
       },
       "artists": [
@@ -4832,7 +4890,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/3fYHsokGq9RpDHzKjFfB5D"
@@ -4850,7 +4908,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
@@ -5288,7 +5346,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 181568,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/5HHc3LV7smkNpx9JcvqsZa"
@@ -5306,7 +5364,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -5564,10 +5622,32 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 260879,
       "name": "Lights Burn Dimmer",
       "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
+    },
+    {
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260879,
+      "name": "Lights Burn Dimmer",
+      "url": "https://open.spotify.com/track/4ugki9ppD2OmHok48sRJy8"
     },
     {
       "album": {
@@ -5658,6 +5738,28 @@
       "duration_ms": 138897,
       "name": "Loop",
       "url": "https://open.spotify.com/track/0OD0jZsRWsC8FwKektKyA4"
+    },
+    {
+      "album": {
+        "name": "Looping the Rooms / Lambent Aria",
+        "url": "https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM"
+      },
+      "artists": [
+        {
+          "name": "rusino",
+          "url": "https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134071,
+      "name": "Looping the Rooms (feat. HATSUNE MIKU)",
+      "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
     },
     {
       "album": {
@@ -7152,7 +7254,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 204737,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
@@ -8054,10 +8156,28 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {

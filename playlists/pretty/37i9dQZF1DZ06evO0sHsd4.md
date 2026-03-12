@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,002 likes - 36 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,024 likes - 36 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 29 | [Mas Alto Que El Everest](https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb) | 3:01 |
 | 30 | [Heisenberg](https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Lo Aprendí En La Lleca](https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI) | 2:58 |
 | 31 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
-| 32 | [Vibras](https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vibras](https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF) | 2:44 |
-| 33 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
+| 32 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
+| 33 | [Vibras](https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vibras](https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF) | 2:44 |
 | 34 | [Belicosa](https://open.spotify.com/track/4s7yfI7nh95h4xikmgcJYX) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Belicosa](https://open.spotify.com/album/1mgG5z2H6wKiY297LxllvD) | 2:58 |
 | 35 | [Traigo Una 40](https://open.spotify.com/track/7hDeIf4zAccZaGEaAALBDh) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 3:12 |
 | 36 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
 
-Snapshot ID: `aa4NgAAAAABzeaPObBPNG95Glm707q/e`
+Snapshot ID: `aa9fAAAAAADKQxD6+LPF3BBdwlFLNaed`

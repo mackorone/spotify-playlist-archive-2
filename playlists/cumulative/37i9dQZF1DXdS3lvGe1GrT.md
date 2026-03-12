@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Folk](https://open.spotify.com/playlist/37i9dQZF1DXdS3lvGe1GrT)
 
-> Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
+> Fresh folk and roots music from independent artists every Wednesday\. Cover: Alyssa Grace
 
-2,036 songs - 5 day 1 hr 42 min
+2,042 songs - 5 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,6 +500,7 @@
 | [Dog or Baby](https://open.spotify.com/track/2OxIWC9FjaZueYWAfA0YAF) | [Emma Frank](https://open.spotify.com/artist/6eFOhiuxsgDaOHIGJ6Sn1O) | [Dog or Baby](https://open.spotify.com/album/6RvD4WoxEhhhEEXPOyZu7J) | 3:21 | 2023-04-05 | 2023-05-18 |
 | [dog park](https://open.spotify.com/track/2N0scrG4sYYwWiwc9rShoI) | [Anna Kellam](https://open.spotify.com/artist/5kG2vfaHrnskPlXQXs7rHs) | [dog park](https://open.spotify.com/album/745NZnSvc0ziNbB1NN25OL) | 3:19 | 2023-02-08 | 2024-01-11 |
 | [Dog Tired](https://open.spotify.com/track/4ZkSiaNRfbvBxPNNPyltA6) | [Yours, Georgina](https://open.spotify.com/artist/4xylBacyZL1owzph0szYdP) | [Dog Tired](https://open.spotify.com/album/3MZhqC7E3dHIuXify0XXcv) | 3:30 | 2024-06-19 | 2024-08-29 |
+| [dog with a bone](https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [dog with a bone](https://open.spotify.com/album/3c14lJapQ31AQxcjn5k6pR) | 3:20 | 2026-03-11 |  |
 | [Dogshow](https://open.spotify.com/track/70FGw29iZZrbrsbRVWNFGt) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Dogshow](https://open.spotify.com/album/7mzYaHpIV3x2hUUgMWBLzV) | 3:06 | 2025-08-27 | 2025-12-04 |
 | [don't look down](https://open.spotify.com/track/1P5da0FlIWDvtMhwBArzRR) | [tarnisher](https://open.spotify.com/artist/3FocGF7xpQdjpjBTra4w1c) | [don't look down](https://open.spotify.com/album/1q1TdlpfyojD5MuWrY8IX4) | 3:54 | 2024-01-24 | 2024-04-04 |
 | [Don’t Feel Right](https://open.spotify.com/track/4AMpDSHuSid2bSn3EYUMX9) | [Steven OH](https://open.spotify.com/artist/0CaLV3kAYhNSWUmci7PGbQ) | [Don’t Feel Right](https://open.spotify.com/album/2wJhrSr43N9bjoT3bsr4bd) | 3:00 | 2022-06-29 | 2022-09-22 |
@@ -764,6 +765,7 @@
 | [Green Flash](https://open.spotify.com/track/6GdYR8gJxYQaYEJzZneeus) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Green Flash](https://open.spotify.com/album/5vt2WsClcKYoyY6Io4zrTH) | 4:29 | 2023-04-12 | 2023-05-24 |
 | [Green Girls](https://open.spotify.com/track/6V7OZGtBzzrEUzFQg5M7T2) | [Baby Wave](https://open.spotify.com/artist/2InWfiCopgR2razz9odY6K) | [Green Girls](https://open.spotify.com/album/46vKqTYvO8oNzvqtKVrMbe) | 3:46 | 2023-07-12 | 2023-09-15 |
 | [Green Morning](https://open.spotify.com/track/42VWxciaW70cNreVvpx368) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Green Morning](https://open.spotify.com/album/608J5tNM6Lt827kWtBRaMw) | 4:10 | 2024-05-22 | 2024-08-15 |
+| [Green Thing](https://open.spotify.com/track/3pMJ3RrBBILhy63Uds1BGd) | [Go Kurosawa](https://open.spotify.com/artist/7xosp4nmGQZhCc0rE9ILg5) | [soft shakes](https://open.spotify.com/album/1QsJMXQaX3JFWowpyC2Zwa) | 4:24 | 2026-03-11 |  |
 | [Greenbow Jenny](https://open.spotify.com/track/5gRScFypH5zMciid4EAQfM) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Greenbow Jenny](https://open.spotify.com/album/5NO0zrXTKKFYwO4k2bS2Jy) | 5:07 | 2024-01-10 | 2024-02-29 |
 | [grips](https://open.spotify.com/track/3OdyOQKTsqiUs25V1aXUsR) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [grips](https://open.spotify.com/album/71uZd2dScWHUmpKLV3QyWX) | 2:58 | 2024-05-01 | 2024-08-08 |
 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 | 2025-10-29 | 2026-01-15 |
@@ -1516,6 +1518,7 @@
 | [Running Out](https://open.spotify.com/track/79vfwvl6Ib6I59YATDXWgY) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Running Out](https://open.spotify.com/album/5ghX2yLwCp7X2PYlRtLqVE) | 3:08 | 2023-03-01 | 2023-04-13 |
 | [Runway](https://open.spotify.com/track/5kqMI0NlneZOjeN3RluxGK) | [The Artist Ren](https://open.spotify.com/artist/2hRgsNuAo7lhUqmrl25WD5) | [Runway](https://open.spotify.com/album/3VS81WgvgXM99ySFNtJgZY) | 3:25 | 2024-10-09 | 2024-12-05 |
 | [russian doll \- smaller](https://open.spotify.com/track/00iPwEqAow8PUdV73vvIsu) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [russian doll \(smaller\)](https://open.spotify.com/album/0YVvrkQ2UAKBI0svaDhXTe) | 1:01 | 2025-03-26 | 2026-01-15 |
+| [Rust & Wire](https://open.spotify.com/track/4bqN0ipnuiiGvJdhsSQWeM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Rust & Wire](https://open.spotify.com/album/4fHXnGLM5xGiLuKp8QKvrj) | 3:27 | 2026-03-11 |  |
 | [Ryman](https://open.spotify.com/track/6h1vlJFFNJ6hodC5kWq3Ki) | [Jack Hartman](https://open.spotify.com/artist/1ExL1FiD1BQjtaMK0LFA1l) | [Ryman](https://open.spotify.com/album/0M7bi0aVRlpQN8BmhWbYSm) | 4:24 | 2024-02-14 | 2024-04-19 |
 | [Sad Eyes](https://open.spotify.com/track/2uvQiHBOvU0WW0eSEOakbl) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 3:35 | 2023-06-14 | 2023-08-17 |
 | [Sad Song](https://open.spotify.com/track/7jehpZchGhVt4u65HPSTdm) | [Benedict Benjamin](https://open.spotify.com/artist/1U1l0zn1Ks7bwNrYtx1DGI) | [Sad Song](https://open.spotify.com/album/2rmP3SiGPJb7yyZMKX5O5a) | 2:43 | 2023-05-24 | 2023-07-27 |
@@ -1673,6 +1676,7 @@
 | [Stronger Than Most](https://open.spotify.com/track/2SK9RgBAU726NeZ75Cs7mE) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Stronger Than Most](https://open.spotify.com/album/6n6UJuV4KeuRRNPCAj02lu) | 3:22 | 2024-01-10 | 2024-02-22 |
 | [Stronger Than You Think](https://open.spotify.com/track/3XlsEFrtIC7dGLVQpO8EIa) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Stronger Than You Think](https://open.spotify.com/album/35rmpXN0vdeIfU56ZPwxbk) | 3:28 | 2024-06-26 | 2024-10-10 |
 | [Stroom](https://open.spotify.com/track/2c2x2KQdf8vTi0WlENNHXQ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Stroom](https://open.spotify.com/album/2n2FkT870hnN8lryVswMyK) | 1:57 | 2025-06-04 | 2025-09-04 |
+| [Stuck \(here\)](https://open.spotify.com/track/67UGNAsxTDki453lkJUagJ) | [beaming](https://open.spotify.com/artist/3CXe43s6Cq1U4ycpcxFvui) | [Stuck \(here\)](https://open.spotify.com/album/4kyMNDFqQM6tvfTZtc7w2K) | 3:42 | 2026-03-11 |  |
 | [Stuck At Home](https://open.spotify.com/track/46VMVKEHGpwSd0IDwQHbQv) | [Ryland](https://open.spotify.com/artist/3Ekf9P1XRqjP3MBwl6iFVT) | [I'm Gonna Be Fine](https://open.spotify.com/album/5Wsxv4b0DcdJwxWQhJoslz) | 4:02 | 2025-02-19 | 2025-05-15 |
 | [Style](https://open.spotify.com/track/0LPGus2Cs9oIDbcAob3GMj) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Style](https://open.spotify.com/album/1fJtEbOyFvVHAo1vuVARRm) | 3:43 | 2024-02-14 | 2024-04-19 |
 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 | 2023-10-25 | 2023-12-11 |
@@ -1774,6 +1778,7 @@
 | [The Haunter and The Hunter](https://open.spotify.com/track/7kBmj68f0zxPhnEUXRLpQZ) | [Julie Grace](https://open.spotify.com/artist/5HaTyE0zI1ZhZGV0d0wqST) | [The Haunter and The Hunter](https://open.spotify.com/album/2kjVK2yPrYCIk04IbywWiI) | 3:17 | 2024-05-08 | 2024-07-11 |
 | [The Hierophant](https://open.spotify.com/track/7yBev3sjAPXaUdOf1gZB4K) | [Long Neck](https://open.spotify.com/artist/6uLaqNlADRk1E28QrczF5T) | [The Hierophant](https://open.spotify.com/album/4xLXx02qcNyqeLHsNnbTGg) | 4:52 | 2023-09-13 | 2023-11-11 |
 | [The It Girl](https://open.spotify.com/track/3v2Zzn2Dh5QpVCiV2jkHsa) | [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Woman in Color](https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg) | 2:42 | 2022-11-30 | 2023-01-12 |
+| [The King of Soda](https://open.spotify.com/track/41ppoasp0Iu2aLVA9eReas) | [Star 80](https://open.spotify.com/artist/0DHlIT2F8hcRfWLGvzne4d) | [The King of Soda](https://open.spotify.com/album/58XRWxquOE5EU4UYR2pcx5) | 3:39 | 2026-03-11 |  |
 | [The King Of Western Swing](https://open.spotify.com/track/4bnQLzOF7YE7zW9OXI1A61) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [The King of Western Swing](https://open.spotify.com/album/2GluYKA1cJzfbkjWjwkmuX) | 8:09 | 2023-09-13 | 2023-11-11 |
 | [The Line](https://open.spotify.com/track/1wsNmskiu7lf8ZsPDM6igR) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [The Line](https://open.spotify.com/album/3j7UYZyOwvcAeuH4MnkM50) | 3:38 | 2025-03-06 | 2025-06-05 |
 | [the machine](https://open.spotify.com/track/4AhZ3OCy7lG0aMoEztWVGR) | [Son of the Challenger](https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG) | [the machine](https://open.spotify.com/album/2WBSe1gcZOCGSreDKc8rCA) | 3:05 | 2024-03-20 | 2024-05-23 |
@@ -1923,6 +1928,7 @@
 | [Walk Away](https://open.spotify.com/track/72SxbJ4G1EZvVwQUqLT96X) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Walk Away](https://open.spotify.com/album/2rjxMMrjeTFgorZ1F4wCnd) | 3:52 | 2023-07-19 | 2023-09-21 |
 | [Walk The Streets On Sunrise](https://open.spotify.com/track/4ntU4sdYYE3j0I8qLeEHAx) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Impermanence](https://open.spotify.com/album/43KzRiTjzUvIGSbmSx1J3C) | 3:55 | 2022-07-20 | 2022-10-27 |
 | [Wandering Souls](https://open.spotify.com/track/2V3Ru7gXqHTskwvV281kzy) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Wandering Souls](https://open.spotify.com/album/3ypI1dsbQu9TLlTaJHGYZ2) | 3:35 | 2024-01-31 | 2024-03-28 |
+| [Wandering Star](https://open.spotify.com/track/2S7iFa8MX5f9CgDxGoxzzy) | [Haylie Davis](https://open.spotify.com/artist/0Q2pP2uTgpT8UsuGvB3wH3) | [Wandering Star](https://open.spotify.com/album/3gW6hS14LkeCAoUzvtjokf) | 3:54 | 2026-03-11 |  |
 | [Want](https://open.spotify.com/track/4j5Eu90OYhNnvZRB0lVWjM) | [Esther Rose](https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs) | [Want](https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW) | 4:58 | 2025-05-07 | 2025-07-10 |
 | [Want To Know](https://open.spotify.com/track/6Zg0lQPovC1vkrLJtjWdQf) | [Free Range](https://open.spotify.com/artist/2aPB7TI5mAleSnK0Fm0YVP) | [Want To Know](https://open.spotify.com/album/1IKQlrJmB7a37dWDFWO0Ii) | 4:20 | 2023-01-11 | 2023-02-23 |
 | [Wash you clean](https://open.spotify.com/track/0QWL0vlLGJ4aI2HZHyqBJd) | [Lucia](https://open.spotify.com/artist/35DeBpQFb1aenGL7YfiGmL) | [Wash you clean](https://open.spotify.com/album/3lXQCVFMbiNgJuOu8n6xlT) | 2:57 | 2025-09-17 | 2025-12-04 |

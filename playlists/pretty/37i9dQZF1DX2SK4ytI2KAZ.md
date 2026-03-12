@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,485,667 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,485,633 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 47 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
 | 48 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
 | 49 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 |
-| 50 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 |
-| 51 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
+| 50 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
+| 51 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 |
 | 52 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 |
 | 53 | [High On My Lows](https://open.spotify.com/track/1kCJ1s8wtiXF3OK3dwQIcG) | [Sawyer Hill](https://open.spotify.com/artist/3CwWzT9t3z7DARyhDIzwIG) | [High On My Lows](https://open.spotify.com/album/0hMq2OW2LKUNWGcM1p5VeP) | 2:58 |
 | 54 | [Stella Brown](https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I've Got Some Living To Do](https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX) | 3:06 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 78 | [Barely on My Mind](https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:17 |
 | 79 | [Conceited](https://open.spotify.com/track/2Iv1yhxAH7m9SpohnJMs9B) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Conceited](https://open.spotify.com/album/4QdyZdZcC8MYKBmOsCnIbp) | 3:59 |
 | 80 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 |
-| 81 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
-| 82 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
+| 81 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:06 |
+| 82 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
 | 83 | [Coming of Age](https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4qPv6QTcXY9nIMn5rjF1Ka) | 4:08 |
 | 84 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 85 | [Your Apartment](https://open.spotify.com/track/2F8GiqfSE1JSjLGHlHMmQa) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Your Apartment](https://open.spotify.com/album/4bchmgK2VJWV9fHapF5nms) | 3:18 |

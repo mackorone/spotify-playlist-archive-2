@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,187 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,218 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 39 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
 | 40 | [Ana Mesheet](https://open.spotify.com/track/7CpgYXxN83eFYmuMvWKm9R) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Habebna](https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR) | 3:42 |
 | 41 | [Taali](https://open.spotify.com/track/5BKXPpXwLKccrXb9pyweOQ) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Agmal Layaly Omry](https://open.spotify.com/album/7DFycaqMjOZVNMjfW7pC8V) | 3:55 |
-| 42 | [ياما ليالى وانت مش معايا](https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [ياما ليالى وانت مش معايا](https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3) | 3:36 |
-| 43 | [Kalam](https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Hazi Men El Sama](https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o) | 3:59 |
+| 42 | [Kalam](https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Hazi Men El Sama](https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o) | 3:59 |
+| 43 | [ياما ليالى وانت مش معايا](https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [ياما ليالى وانت مش معايا](https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3) | 3:36 |
 | 44 | [Ew3a](https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ew3a](https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS) | 3:13 |
 | 45 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 |
 | 46 | [Oyouno Lama Ablony](https://open.spotify.com/track/63SfVFcA5kGYX1qJKRHhXR) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Oyouno Lama Ablony](https://open.spotify.com/album/4b1AMevNzVNAyTMzO8mbPu) | 3:17 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 70 | [مخزون السعادة](https://open.spotify.com/track/2hUeDTrPK1CoYt954u4TQF) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مخزون السعادة](https://open.spotify.com/album/2HosZ208SfTstQtPXfccAC) | 3:52 |
 | 71 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 |
 | 72 | [Hena Hena](https://open.spotify.com/track/1ld76Cgeeyf9onz2AdmhTJ) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Hena Hena](https://open.spotify.com/album/6CjxysxsDyVNHP9v3WesPq) | 3:21 |
-| 73 | [Sha2lebty Routiny](https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Sha2lebty Routiny](https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6) | 2:41 |
-| 74 | [Kol El Habiba](https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Kol El Habiba](https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA) | 4:47 |
+| 73 | [Kol El Habiba](https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Kol El Habiba](https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA) | 4:47 |
+| 74 | [Sha2lebty Routiny](https://open.spotify.com/track/0vTX33ZSAyGOrIcmp3Fa9x) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Sha2lebty Routiny](https://open.spotify.com/album/705AMg1ZwX2b3XENnfqKh6) | 2:41 |
 | 75 | [Ma Kefaya](https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn) | [Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Ma Kefaya](https://open.spotify.com/album/31DLm4kGbvpJyBNN72M5F6) | 3:20 |
 | 76 | [Fe Keda](https://open.spotify.com/track/3J2v3X92FYxq5vCK9gs7oq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Fe Keda](https://open.spotify.com/album/2AvAE36IYscAmnOMUjHhX9) | 5:05 |
 | 77 | [طمنها](https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [طمنها](https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh) | 4:04 |

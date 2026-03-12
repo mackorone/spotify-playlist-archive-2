@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 
 > This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,926 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,928 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 27 | [Pineapple Kryptonite](https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Pineapple Kryptonite](https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF) | 3:15 |
 | 28 | [Quesera sera](https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Quesera sera](https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd) | 3:33 |
 | 29 | [HANAKO](https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [HANAKO](https://open.spotify.com/album/2MXf1qZI37A3nfCt9VFyhV) | 3:41 |
-| 30 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 |
-| 31 | [Maji Yoroshiku](https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:13 |
+| 30 | [Maji Yoroshiku](https://open.spotify.com/track/6Wymz2GOKcsAkLF9eBC6lE) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 2:13 |
+| 31 | [Fantastico](https://open.spotify.com/track/2yjVMbXE0IICkdxSeBXvfR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [SNACKTIME](https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb) | 2:53 |
 | 32 | [Miyao \- 10th Anniversary Version](https://open.spotify.com/track/0nrGBAKiFYqvPgEvlyEIDI) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Go Wild / Miyao](https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W) | 4:11 |
 | 33 | [kimiwaina'17](https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:08 |
 | 34 | [okami no uta](https://open.spotify.com/track/58RpaRl4kdj9LAGA93ERcT) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [wakage ga itaru](https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi) | 3:47 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZck1.md) - [plain]
 | 48 | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr) | 3:33 |
 | 49 | [toumeigirl\(H ZETT M edit ver.\)](https://open.spotify.com/track/3sDxPtEjs8pIuAecinyCjN) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [maenarawanai](https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb) | 4:19 |
 
-Snapshot ID: `aa4NgAAAAAA21XgrfJ+THbCIgjIkyZkR`
+Snapshot ID: `aa9fAAAAAAB/V/iSccGogcvNoaQHqUhm`

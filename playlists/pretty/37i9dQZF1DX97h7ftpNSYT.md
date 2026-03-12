@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > Taking it back to the 2010s\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,498 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,553 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 84 | [Juicy](https://open.spotify.com/track/7f5trao56t7sB7f14QDTmp) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:23 |
 | 85 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 86 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 |
-| 87 | [Panda](https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [New English](https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl) | 4:06 |
-| 88 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 |
-| 89 | [Beez In The Trap](https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 4:28 |
-| 90 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
+| 87 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 |
+| 88 | [Panda](https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [New English](https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl) | 4:06 |
+| 89 | [100 Shots](https://open.spotify.com/track/3TXy6nchgKeYlVwOKNk9lE) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Bulletproof](https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W) | 4:24 |
+| 90 | [Beez In The Trap](https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 4:28 |
 | 91 | [Who Do You Love?](https://open.spotify.com/track/7ngdkrVQPgP3AoIxUrTpHT) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [My Krazy Life](https://open.spotify.com/album/6HzHon4QSFPGPFIjjlZN0n) | 3:53 |
-| 92 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
-| 93 | [Studio](https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:38 |
+| 92 | [Studio](https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:38 |
+| 93 | [Plain Jane](https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Still Striving](https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT) | 2:53 |
 | 94 | [Hot \(feat\. Gunna\)](https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:13 |
 | 95 | [Suge](https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:43 |
 | 96 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Taste \(feat\. Offset\)](https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR) | 3:52 |
 | 97 | [X \(feat\. Future\)](https://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Savage Mode](https://open.spotify.com/album/4I3EcXD4e3KcEoDJfFEZ5b) | 4:18 |
 | 98 | [No Limit](https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [The Beautiful & Damned](https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b) | 4:05 |
-| 99 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
-| 100 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 |
+| 99 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 |
+| 100 | [Dior](https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo](https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf) | 3:36 |
 
 Snapshot ID: `AAAAAA7rlecLYTox60gRtjPQxsdbi5eq`

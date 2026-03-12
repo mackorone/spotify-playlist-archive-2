@@ -4,7 +4,7 @@
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-99 songs - 5 hr 10 min
+100 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [La Huella de Mis Besos](https://open.spotify.com/track/0I6sTG0nOH92inb6TmXqgw) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:02 | 2022-06-01 | 2024-11-25 |
 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 | 2022-06-01 | 2024-01-08 |
 | [Le Doblamos La Edad](https://open.spotify.com/track/3TGRjmDrlWAvaDumXQCqeB) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Invencibles](https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c) | 3:51 | 2024-01-01 | 2024-09-24 |
-| [Los Tiranos Del Norte](https://open.spotify.com/track/0xKZlpYcBrlH878vhS4DtD) | [Mario Salseo](https://open.spotify.com/artist/4thj5F1XL1SqU3hvXo24l3), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Los Tiranos Del Norte](https://open.spotify.com/album/1FUfP29aoqXqWxYHFeYJ0w) | 2:16 | 2026-02-19 |  |
+| [Los Tiranos Del Norte](https://open.spotify.com/track/0xKZlpYcBrlH878vhS4DtD) | [Mario Salseo](https://open.spotify.com/artist/4thj5F1XL1SqU3hvXo24l3), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Los Tiranos Del Norte](https://open.spotify.com/album/1FUfP29aoqXqWxYHFeYJ0w) | 2:16 | 2026-02-19 | 2026-03-12 |
 | [Mares de Licor \- En Vivo](https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Grandes Éxitos \(En Vivo\)](https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0) | 2:26 | 2022-06-01 | 2025-10-27 |
 | [Matame a Besos](https://open.spotify.com/track/0om9GXGwk5d7VNyp0nOSuW) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tiranos del Norte](https://open.spotify.com/album/2N2PsW32lWDtPq1wM8EGKf) | 3:17 | 2022-06-01 |  |
 | [Matame A Besos](https://open.spotify.com/track/0BdCLsiewfRhp0E9PItOQz) | [Norteños De La Sierra](https://open.spotify.com/artist/5cWIrTdL2LFbxVIKrEsr7s), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Matame A Besos](https://open.spotify.com/album/4B3ALhy4BquOag7ByzASBd) | 3:12 | 2024-08-09 | 2024-12-03 |
@@ -81,6 +81,7 @@
 | [Nocturnal](https://open.spotify.com/track/4wq5fJyiELwSnRnufoLrIz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 2:58 | 2022-06-13 | 2022-10-05 |
 | [Nosotros Tambien Podemos](https://open.spotify.com/track/1umXWFEvEOfwwRcMixe71l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:30 | 2022-06-01 |  |
 | [Nuestro Amor Es Grande](https://open.spotify.com/track/4vLBtIwx14pBMasSo7DTNc) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [De la Tierra al Cielo VII](https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh) | 3:07 | 2022-06-01 |  |
+| [Pa Que Son Pasiones](https://open.spotify.com/track/0PmXgjgZy8Frdn8jR7X3bA) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Coleccion de Oro 15 Exitos](https://open.spotify.com/album/3jXVXkRUuiAcw4KuRi36ca) | 3:23 | 2026-03-12 |  |
 | [Para la Reina](https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Para Mi Reina](https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM) | 3:20 | 2022-06-01 |  |
 | [Para Morir Iguales](https://open.spotify.com/track/4toc0zrnlmaPUTeo9YKD5w) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:14 | 2022-06-01 |  |
 | [Pedro Aviles](https://open.spotify.com/track/4EhH2po4Y3ljEBIGZit5Qv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:31 | 2022-06-15 | 2022-07-21 |

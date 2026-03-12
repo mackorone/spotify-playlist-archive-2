@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 154817,
+  "num_followers": 154858,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Un Gran Dia",
         "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 139428,
       "name": "Un Gran Dia",
       "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "Eiem",
+          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
         }
       ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
+      "duration_ms": 158666,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -887,18 +887,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
       },
       "artists": [
         {
-          "name": "Eiem",
-          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "The Comeback",
-        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "Pasa La Pagina",
-      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Siempre y Nunca",
         "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 203368,
       "name": "Yo Soy Cristiano",
       "url": "https://open.spotify.com/track/3bVfrPbeyFvNtpxDRCevEM"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
+      },
+      "artists": [
+        {
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "Pasa La Pagina",
+      "url": "https://open.spotify.com/track/4uEjtzySgNys9SE5zsjnYC"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "closefriend",
-        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
-      },
-      "artists": [
-        {
-          "name": "Calejandro",
-          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "closefriend",
-      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 238695,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "closefriend",
+        "url": "https://open.spotify.com/album/2EBh6PRsSVmVxRmlRCdpDa"
+      },
+      "artists": [
+        {
+          "name": "Calejandro",
+          "url": "https://open.spotify.com/artist/59qZZ7RuILeDLzHNcBt0Ye"
+        }
+      ],
+      "duration_ms": 188108,
+      "name": "closefriend",
+      "url": "https://open.spotify.com/track/26e0AKJGdXBGlznLTYW1SA"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Sin Ti No Me Imagino",
-        "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
-      },
-      "artists": [
-        {
-          "name": "Propiedad De Dios",
-          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
-        }
-      ],
-      "duration_ms": 137547,
-      "name": "Sin Ti No Me Imagino",
-      "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Poderoso De Israel",
         "url": "https://open.spotify.com/album/32KgLASqrbxqMGIxaQBp0x"
       },
@@ -1643,42 +1627,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+        "name": "Sin Ti No Me Imagino",
+        "url": "https://open.spotify.com/album/7qtn1EGKZa8qtumLco1RPN"
       },
       "artists": [
         {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+          "name": "Propiedad De Dios",
+          "url": "https://open.spotify.com/artist/4sx4kT4GCXYSw6Cs8Bf9t4"
         }
       ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "\u00a1C\u00f3mo no Hablar!",
-        "url": "https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB"
-      },
-      "artists": [
-        {
-          "name": "Familia Emanuel Worship",
-          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
-        },
-        {
-          "name": "Hern\u00e1n De Arco",
-          "url": "https://open.spotify.com/artist/1Wgt3tScbP5NBX7hQhBJOr"
-        },
-        {
-          "name": "Travy Joe",
-          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "\u00a1C\u00f3mo no Hablar!",
-      "url": "https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ"
+      "duration_ms": 137547,
+      "name": "Sin Ti No Me Imagino",
+      "url": "https://open.spotify.com/track/4VjHP3HrCj4CHqkdA7g9n0"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1707,6 +1667,46 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "\u00a1C\u00f3mo no Hablar!",
+        "url": "https://open.spotify.com/album/0wgi4e3pNkO9fXcmWNHELB"
+      },
+      "artists": [
+        {
+          "name": "Familia Emanuel Worship",
+          "url": "https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak"
+        },
+        {
+          "name": "Hern\u00e1n De Arco",
+          "url": "https://open.spotify.com/artist/1Wgt3tScbP5NBX7hQhBJOr"
+        },
+        {
+          "name": "Travy Joe",
+          "url": "https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5"
+        }
+      ],
+      "duration_ms": 208760,
+      "name": "\u00a1C\u00f3mo no Hablar!",
+      "url": "https://open.spotify.com/track/1meqrG2mSGdLX3RBweHorZ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Todito",
         "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
       },
@@ -1723,22 +1723,6 @@
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
-      },
-      "artists": [
-        {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
-        }
-      ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1763,26 +1747,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Mi Mirada",
-        "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
-      },
-      "artists": [
-        {
-          "name": "Toda la Vida",
-          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
-        },
-        {
-          "name": "Jullie",
-          "url": "https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Mi Mirada",
-      "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Volver\u00e1",
         "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
       },
@@ -1803,6 +1767,42 @@
       "duration_ms": 168000,
       "name": "Volver\u00e1",
       "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+      },
+      "artists": [
+        {
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+        }
+      ],
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Mi Mirada",
+        "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
+      },
+      "artists": [
+        {
+          "name": "Toda la Vida",
+          "url": "https://open.spotify.com/artist/53jbiFLW9kVxcklTZKZ1oy"
+        },
+        {
+          "name": "Jullie",
+          "url": "https://open.spotify.com/artist/2kisz88bBiRVsdaIEKcdjb"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Mi Mirada",
+      "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
     },
     {
       "added_at": "2025-12-12 22:35:42",

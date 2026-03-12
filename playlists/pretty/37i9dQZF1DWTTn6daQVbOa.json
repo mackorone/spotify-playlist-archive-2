@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1970s. Cover: Elton John",
-  "num_followers": 1141264,
+  "num_followers": 1141505,
   "original_name": "Soft 70s",
   "owner": {
     "name": "Spotify",
@@ -159,8 +159,8 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -239,8 +239,8 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Elton John",
-        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 241786,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -351,18 +351,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
       "artists": [
         {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 203613,
       "name": "Fire and Rain - 2019 Remaster",
       "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Across The Universe - Remastered 2009",
-      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Life Beyond L.A.",
         "url": "https://open.spotify.com/album/5CyhDBUqDk2XMptRFsj7c2"
       },
@@ -879,22 +863,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Desperado (2013 Remaster)",
         "url": "https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM"
       },
@@ -907,6 +875,38 @@
       "duration_ms": 213712,
       "name": "Desperado - 2013 Remaster",
       "url": "https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Across The Universe - Remastered 2009",
+      "url": "https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 285797,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Let's Keep It That Way",
-        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        }
-      ],
-      "duration_ms": 220266,
-      "name": "You Needed Me",
-      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Where There's Smoke... (Expanded Edition)",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Let's Keep It That Way",
+        "url": "https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "You Needed Me",
+      "url": "https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Blue Lights in the Basement",
         "url": "https://open.spotify.com/album/4n3wZOUmVSSkxXvSeu94AN"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/1UdoFJDUHWu4oWH5JlwmDP"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2249,22 +2249,6 @@
       "url": "https://open.spotify.com/track/3ILLSvTYvFjjEdbxvQumOb"
     },
     {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/1JEFsHZxUy24AvyC49GKVj"
-    },
-    {
       "added_at": "2024-12-27 17:35:00",
       "album": {
         "name": "I Am Woman",
@@ -2283,18 +2267,18 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
+      "duration_ms": 237066,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/1JEFsHZxUy24AvyC49GKVj"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2311,6 +2295,22 @@
       "duration_ms": 207413,
       "name": "Touch Me In The Morning",
       "url": "https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
     },
     {
       "added_at": "2022-09-23 05:26:33",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2022-09-23 05:26:33",
       "album": {
-        "name": "American Pie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cKcMgO1UmhVk3ZfPIJhi0"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "Vincent",
-      "url": "https://open.spotify.com/track/3VAIny0fsmbiZCwt3817Ay"
-    },
-    {
-      "added_at": "2022-09-23 05:26:33",
-      "album": {
         "name": "Sealed With A Kiss",
         "url": "https://open.spotify.com/album/5q8NaDLTXTNHtAmROLoQeF"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 169066,
       "name": "Sealed with a Kiss",
       "url": "https://open.spotify.com/track/26mlDJoh5bQiC7efK7xq9z"
+    },
+    {
+      "added_at": "2022-09-23 05:26:33",
+      "album": {
+        "name": "American Pie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cKcMgO1UmhVk3ZfPIJhi0"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "Vincent",
+      "url": "https://open.spotify.com/track/3VAIny0fsmbiZCwt3817Ay"
     }
   ],
   "unique_name": "Soft 70s",

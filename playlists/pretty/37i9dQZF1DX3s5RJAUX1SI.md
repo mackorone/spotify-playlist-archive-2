@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,879 likes - 125 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,944 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 65 | [Dos Botellas De Mezcal](https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Millas Y Millas](https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM) | 3:16 |
 | 66 | [Prefiero Partir](https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Yo Vendo Unos Ojos Verdes](https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ) | 3:17 |
 | 67 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
-| 68 | [Caminos de Michoacán](https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Coleccion Del Siglo \- Federico Villa](https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL) | 3:30 |
-| 69 | [No Importa Tu Madre](https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Forjando una Historia](https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo) | 3:06 |
+| 68 | [No Importa Tu Madre](https://open.spotify.com/track/2aCrEvIR8thExGbWJiwcrE) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Forjando una Historia](https://open.spotify.com/album/4cuJk8bQyqPBuTom3C16uo) | 3:06 |
+| 69 | [Caminos de Michoacán](https://open.spotify.com/track/2fvisKVcmhGrZdf9FPEhl4) | [Federico Villa](https://open.spotify.com/artist/79LwwKFdbXN9RoZAKefN7u) | [La Coleccion Del Siglo \- Federico Villa](https://open.spotify.com/album/5XyB8cBTMDoLaO2XqVf6BL) | 3:30 |
 | 70 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
 | 71 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
 | 72 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 122 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
 | 123 | [La Muerte del Palomo](https://open.spotify.com/track/4ZWX1RT3h9Ng6subnhQYRk) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 3:28 |
 | 124 | [Pienso En Ella](https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC) | 2:39 |
-| 125 | [La Cuichi](https://open.spotify.com/track/25LBX0hecJR9Ph9tuiO1hT) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Rancheras & Adictivas](https://open.spotify.com/album/3yTfG82CulQc6ShTGD1j0m) | 2:09 |
+| 125 | [Prueba De Fuego](https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Prueba De Fuego](https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx) | 3:51 |
 
 Snapshot ID: `AAAAACLvvP5XtfGxaBMNtV5j8sKHfau8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,194 likes - 59 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,536 likes - 59 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 54 | [Braba No Chá](https://open.spotify.com/track/0zjFoEgApePlXu5vHP8Lcn) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw), [DJ TS](https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON), [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Braba No Chá](https://open.spotify.com/album/7mkkF6IiN5qJ1jNdMjJrwJ) | 2:09 |
 | 55 | [Olha pra Cara de Quem Te...](https://open.spotify.com/track/1VpOT1TfTivUmFjSGSRt1U) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Olha pra Cara de Quem Te...](https://open.spotify.com/album/4IYivmehBNGJVG2S9q8V41) | 2:00 |
 | 56 | [Fui Mlk](https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [FamousKyo](https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw) | [Fui Mlk](https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r) | 2:54 |
-| 57 | [MTG Perna Bamba X Piranhas do Helipa](https://open.spotify.com/track/07YFNeWYEuQ4XQfDd8571k) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [Detagaz](https://open.spotify.com/artist/1ZzvFAjHtIjUr5CDZKKZf7), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS) | [MTG Perna Bamba X Piranhas do Helipa](https://open.spotify.com/album/2P4AoEPzMnw2OummgOopE0) | 1:48 |
+| 57 | [MTG Perna Bamba X Piranhas do Helipa](https://open.spotify.com/track/07YFNeWYEuQ4XQfDd8571k) | [MC Guh SR](https://open.spotify.com/artist/1jt8MU2um5rIprsn87sDtR), [Detagaz](https://open.spotify.com/artist/1ZzvFAjHtIjUr5CDZKKZf7), [Dj Pikeno Mpc](https://open.spotify.com/artist/1X842P1hBNRnwsuy0e3DLS), [DJ Silvério](https://open.spotify.com/artist/7iJXeEE5LMQXYD3MIZLJ8q) | [MTG Perna Bamba X Piranhas do Helipa](https://open.spotify.com/album/2P4AoEPzMnw2OummgOopE0) | 1:48 |
 | 58 | [MTG NA IMAGINAÇÃO \- TOPO SESSIONS VOL\. 1](https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [MTG NA IMAGINAÇÃO \(TOPO SESSIONS VOL\. 1\)](https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk) | 2:24 |
 | 59 | [MEC MEC MTG](https://open.spotify.com/track/0xzi8vNqlHPU0crfB8jLCg) | [Zairon](https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MEC MEC MTG](https://open.spotify.com/album/3GW4o5DEdCx2AcO6heMW9h) | 4:16 |
 

@@ -2,7 +2,7 @@
 
 ### [Black Britain: Soul Sisters](https://open.spotify.com/playlist/37i9dQZF1DX673Mh4M9yQJ)
 
-> The British sisters who paved the way for today's young stars to shine.
+> The British artists who paved the way for today's young stars to shine.
 
 70 songs - 4 hr 44 min
 

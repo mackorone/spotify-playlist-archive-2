@@ -396,7 +396,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 184930,
       "name": "$ex Appeal (feat. Too $hort)",
       "url": "https://open.spotify.com/track/2N1D5t5zkvlNElbH9q0vBv"
@@ -35442,7 +35442,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 240158,
       "name": "HEAVENLY FATHER - Mediolanum, Milan, IT. Nov 05 2022",
       "url": "https://open.spotify.com/track/4XyteovQUzWDoQsx07M2en"
@@ -47932,7 +47932,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 179924,
       "name": "LET 'EM KNOW",
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
@@ -78552,6 +78552,24 @@
       "duration_ms": 199874,
       "name": "Straight and Narrow",
       "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
+    },
+    {
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "album": {

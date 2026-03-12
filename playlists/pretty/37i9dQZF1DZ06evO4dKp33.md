@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 
 > This is PinkPantheress\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,222 likes - 45 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,366 likes - 45 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 22 | [True romance](https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:16 |
 | 23 | [Last Valentines](https://open.spotify.com/track/5aX9ocVkS6HqK5orEbsOoe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:13 |
 | 24 | [Romeo](https://open.spotify.com/track/6POxiQbr5dFg2gU68yh4NK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:34 |
-| 25 | [Wild And Alone \(feat\. PinkPantheress\)](https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 4:05 |
+| 25 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 |
 | 26 | [Feel complete](https://open.spotify.com/track/2bBh5UwbVLkA3WB44iXBye) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:43 |
-| 27 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 |
+| 27 | [Wild And Alone \(feat\. PinkPantheress\)](https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 4:05 |
 | 28 | [Still Sincere](https://open.spotify.com/track/5fWkhoVosVf0sRlGS4P9y5) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Still Sincere](https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d) | 3:08 |
 | 29 | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL) | 2:48 |
 | 30 | [Blue](https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 3:01 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dKp33.md) - [plain]
 | 44 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 |
 | 45 | [Romeo + Rachel Chinouriri](https://open.spotify.com/track/1RXvponMOTq9sp8sKKXp7H) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:46 |
 
-Snapshot ID: `aa4NgAAAAAANYbVE9JZRrFknApFCkqEy`
+Snapshot ID: `aa9fAAAAAAAOYTkoNdg5+mbhIV5dwSry`

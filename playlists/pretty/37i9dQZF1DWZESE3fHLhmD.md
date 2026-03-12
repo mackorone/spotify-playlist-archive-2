@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > 🦋 Musik, die sich anfühlt, wie alles kann, nichts muss 🦋
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,851 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315,772 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 29 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
 | 30 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
 | 31 | [Bad At Love](https://open.spotify.com/track/3OzCF9i6Ey7EkkAYJztmKp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe Plus\)](https://open.spotify.com/album/5ZvnIKEq0HAwDHNR8f2yIx) | 3:01 |
-| 32 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
-| 33 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
+| 32 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
+| 33 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 |
 | 34 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 |
 | 35 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 36 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 37 | [Casual](https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:52 |
-| 38 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 |
-| 39 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 38 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 39 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 |
 | 40 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 |
 | 41 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 42 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 79 | [Unsicher](https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ich lieb mich, ich lieb mich nicht](https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf) | 2:18 |
 | 80 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
 | 81 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
-| 82 | [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 |
-| 83 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 |
+| 82 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 |
+| 83 | [frieden](https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [frieden](https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku) | 2:45 |
 | 84 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 |
 | 85 | [Gegenteil von Glück](https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B) | 2:39 |
 | 86 | [See Her Out \(Thats Just Life\)](https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 3:30 |
@@ -101,11 +101,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 91 | [Zimmer](https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Zu spät um umzudrehen \- EP](https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP) | 2:57 |
 | 92 | [The Night We Met](https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Night We Met](https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO) | 3:29 |
 | 93 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 |
-| 94 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 |
-| 95 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
-| 96 | [valentino](https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [valentino](https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P) | 2:08 |
-| 97 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
-| 98 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
+| 94 | [Sommerregen](https://open.spotify.com/track/3Eesfjqw0uwnOVr2HelCsX) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Hoffnungslos Hoffnungsvoll](https://open.spotify.com/album/6MHuwIyJMv2VsaBqzICOlc) | 3:26 |
+| 95 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 |
+| 96 | [Heatstroke](https://open.spotify.com/track/5zjS49hh8KF7mnbvgUtiJa) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Sincere](https://open.spotify.com/album/0Tu7Vpu49X7oduL2AVbKZq) | 3:54 |
+| 97 | [valentino](https://open.spotify.com/track/5YsbCR2KjUvxFqS4dpy6aT) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [valentino](https://open.spotify.com/album/317Xp1LCF1ESzsEDV4Gi5P) | 2:08 |
+| 98 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 |
 | 99 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 100 | [Moonlight](https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Just The Beginning](https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex) | 2:52 |
 

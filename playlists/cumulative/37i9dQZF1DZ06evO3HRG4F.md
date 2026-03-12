@@ -4,7 +4,7 @@
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 7 min
+78 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [La Última Carta](https://open.spotify.com/track/5YBgsFJou4PLqaBSuO9YSJ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 5:13 | 2023-09-15 |  |
 | [Las Encueradas](https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:26 | 2023-01-14 |  |
 | [Llévatela pa Tu Casa](https://open.spotify.com/track/2r4bXPcsTPTrPeFqaSVM5r) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Montamorfosis](https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT) | 3:27 | 2023-01-14 |  |
-| [Maquina de Rock \- En Vivo](https://open.spotify.com/track/5CryDBaiDYWLskoJ16zUMX) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 3:32 | 2026-03-10 |  |
+| [Maquina de Rock \- En Vivo](https://open.spotify.com/track/5CryDBaiDYWLskoJ16zUMX) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 3:32 | 2026-03-10 | 2026-03-12 |
 | [Me Gusta Tu Chava](https://open.spotify.com/track/3WG2OHf4oB8eyuVEnyaD6K) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Presente: Mi Legado](https://open.spotify.com/album/3s3Dr7yuFo8ogmJ8If3uN5) | 3:26 | 2023-01-14 |  |
 | [Me Vuelves Loco](https://open.spotify.com/track/4hwNgohVFTNCvXUdWLVmOM) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Montamorfosis](https://open.spotify.com/album/7ALgl4x4459Wn1yFaotbkT) | 4:21 | 2023-01-14 |  |
 | [Menor de Edad](https://open.spotify.com/track/1grfsGcGQq3Unosd0KIvDY) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:06 | 2024-08-27 | 2026-02-26 |
@@ -58,6 +58,7 @@
 | [Pobre de Ti](https://open.spotify.com/track/4ZrmPfaz063MTSfCd0PhmK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 4:42 | 2023-01-14 |  |
 | [Por No Tener a Quien Amar](https://open.spotify.com/track/3LephrgrP9s47JW97NA3UK) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 2:59 | 2023-01-14 |  |
 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 | 2023-01-14 |  |
+| [Que Me Tienes Así](https://open.spotify.com/track/7leIDHAScNxl7PiTFtBnxc) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 3:33 | 2026-03-12 |  |
 | [Ramillete de Piernas](https://open.spotify.com/track/1yk3xlOeP5rOY4dRxTuvra) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 5:44 | 2023-01-14 |  |
 | [Recuerdos \(En Vivo\)](https://open.spotify.com/track/2OvWNqEgX2avknXMNiJcRM) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Teatro Metropolitan 2018 \(En Vivo\)](https://open.spotify.com/album/3jjZeLI5yIcstu7qFIDgeU) | 5:43 | 2023-01-14 |  |
 | [Si Se Acuerda la Banda \- En Vivo](https://open.spotify.com/track/0Zqjsu8XkzpjELsNHVZ4nB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 3:42 | 2023-05-09 | 2026-01-15 |

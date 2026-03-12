@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 57291,
+  "num_followers": 57351,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
       },
       "artists": [
         {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+      "duration_ms": 130285,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -199,22 +199,42 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
         },
         {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -239,26 +259,6 @@
       "duration_ms": 155753,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "Awilo",
+        "url": "https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS"
+      },
+      "artists": [
+        {
+          "name": "Patomant",
+          "url": "https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Awilo",
+      "url": "https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "High Spirit",
         "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 169678,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "Awilo",
-        "url": "https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS"
-      },
-      "artists": [
-        {
-          "name": "Patomant",
-          "url": "https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Awilo",
-      "url": "https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "Anini (Thief)",
+        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "Anini (Thief)",
+      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "A1 (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Anini (Thief)",
-        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "Anini (Thief)",
-      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
         "name": "SAILOR (with Oxlade)",
         "url": "https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB"
       },
@@ -1271,30 +1271,6 @@
       "duration_ms": 184583,
       "name": "SAILOR (with Oxlade)",
       "url": "https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "A Street Kid's Diary",
-        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
-      },
-      "artists": [
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Efosa",
-          "url": "https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3"
-        }
-      ],
-      "duration_ms": 223020,
-      "name": "OTS",
-      "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1319,6 +1295,30 @@
       "duration_ms": 166286,
       "name": "Police",
       "url": "https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
+        "name": "A Street Kid's Diary",
+        "url": "https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
+        {
+          "name": "Efosa",
+          "url": "https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3"
+        }
+      ],
+      "duration_ms": 223020,
+      "name": "OTS",
+      "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Ifeoma II",
-        "url": "https://open.spotify.com/album/3omsRcXGM3GKAdbg7ZVEX7"
-      },
-      "artists": [
-        {
-          "name": "Coblaze",
-          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 151724,
-      "name": "Ifeoma II",
-      "url": "https://open.spotify.com/track/1nuIJutSpeXaPHkfpCc3iB"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
         "name": "US III",
         "url": "https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 156190,
       "name": "US III",
       "url": "https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
+        "name": "Ifeoma II",
+        "url": "https://open.spotify.com/album/3omsRcXGM3GKAdbg7ZVEX7"
+      },
+      "artists": [
+        {
+          "name": "Coblaze",
+          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 151724,
+      "name": "Ifeoma II",
+      "url": "https://open.spotify.com/track/1nuIJutSpeXaPHkfpCc3iB"
     },
     {
       "added_at": "2026-03-06 00:01:15",

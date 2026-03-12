@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,126 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,235 likes - 80 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,19 +45,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 35 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
 | 36 | [Love Is A Battlefield](https://open.spotify.com/track/41CoPVBGQyaO9edYV2BKnp) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [The Very Best Of Pat Benatar](https://open.spotify.com/album/4nMJ8gow0SfX2rfWzDfrE9) | 4:04 |
 | 37 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [The Best Of Cutting Crew](https://open.spotify.com/album/6P6YSjfWz53suf41Bqt9BH) | 4:38 |
-| 38 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
-| 39 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
+| 38 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
+| 39 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 |
 | 40 | [Wild Thing](https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto) | [Tone\-Loc](https://open.spotify.com/artist/5Y8EphH8Vdqu5SLj6K5vjj) | [Loc\-ed After Dark](https://open.spotify.com/album/6xE6A0Vwd2LmopR6Mn8UFG) | 4:23 |
 | 41 | [Girls Just Want to Have Fun](https://open.spotify.com/track/2zjt2hHBbiv5SuxYg8Z7eP) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 3:58 |
 | 42 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 |
-| 43 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |
-| 44 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
+| 43 | [My Prerogative](https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4) | [Bobby Brown](https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE) | [Don't Be Cruel](https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK) | 4:51 |
+| 44 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |
 | 45 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
 | 46 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
 | 47 | [Sunglasses At Night](https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [The Singles](https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp) | 5:20 |
 | 48 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |
-| 49 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
-| 50 | [Big in Japan \- 2019 Remaster](https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:44 |
+| 49 | [Big in Japan \- 2019 Remaster](https://open.spotify.com/track/7wnagOAqma4Sg6JOGjWr5R) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 4:44 |
+| 50 | [It's Raining Men](https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:32 |
 | 51 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [Platinum & Gold Collection](https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc) | 4:49 |
 | 52 | [Our Lips Are Sealed \- Single Version](https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:47 |
 | 53 | [You Dropped A Bomb On Me](https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 5:12 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 75 | [Abracadabra \- Remastered 2017](https://open.spotify.com/track/58bTw40is1J6A67eejMdLn) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Ultimate Hits \(Deluxe Edition\)](https://open.spotify.com/album/55BRnR7WmsGAd6qX184A0R) | 5:11 |
 | 76 | [Swing The Mood](https://open.spotify.com/track/3Aimpqxpvmz7jhJlNnEd5c) | [Jive Bunny and the Mastermixers](https://open.spotify.com/artist/4GzIiGnHYrOnq2LUiD6zdo) | [Jive Bunny And The Mastermixers The Biggest Party On The Planet](https://open.spotify.com/album/0ZtoKNv75D3PvB2i0vPrIP) | 4:19 |
 | 77 | [Tell It to My Heart](https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Platinum & Gold Collection](https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP) | 3:40 |
-| 78 | [Part\-Time Lover](https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:12 |
-| 79 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 |
+| 78 | [Rhythm Nation](https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 5:30 |
+| 79 | [Part\-Time Lover](https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:12 |
 | 80 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 
 Snapshot ID: `AAAAAAiWAriS1gFDYwE9mySe94FT7/yd`

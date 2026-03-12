@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee",
-  "num_followers": 2125424,
+  "num_followers": 2125458,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        },
-        {
-          "name": "Magic Juan",
-          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
-    },
-    {
-      "added_at": "2024-12-17 17:19:22",
-      "album": {
         "name": "Music is the Weapon",
         "url": "https://open.spotify.com/album/0xJyM0DFwty067hIBH5fql"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 169997,
       "name": "Que Calor",
       "url": "https://open.spotify.com/track/2jozk0z8f2VISmr83Leyqh"
+    },
+    {
+      "added_at": "2024-12-17 17:19:22",
+      "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2024-12-17 17:19:22",

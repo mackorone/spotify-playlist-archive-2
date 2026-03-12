@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466,190 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,167 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 38 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 |
 | 39 | [Shape of You \- Acoustic](https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shape of You \(Acoustic\)](https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw) | 3:43 |
 | 40 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
-| 41 | [This Town](https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town](https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG) | 3:52 |
-| 42 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
+| 41 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
+| 42 | [This Town](https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town](https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG) | 3:52 |
 | 43 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
 | 44 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 |
 | 45 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 116 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
 | 117 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 118 | [Blindside \- Acoustic](https://open.spotify.com/track/3r5x5Y6xj4WQ8b6ig63VvS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside \(Acoustic\)](https://open.spotify.com/album/2T1VAV84jseAzOnK6l48PY) | 3:53 |
-| 119 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 |
-| 120 | [Black & Blue](https://open.spotify.com/track/05TtxghZSGczxqdRQrAf0C) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Black & Blue](https://open.spotify.com/album/2wpdDNc2aTK6VoNHhH5b42) | 2:54 |
+| 119 | [Black & Blue](https://open.spotify.com/track/05TtxghZSGczxqdRQrAf0C) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Black & Blue](https://open.spotify.com/album/2wpdDNc2aTK6VoNHhH5b42) | 2:54 |
+| 120 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 |
 | 121 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |
 | 122 | [German Cars](https://open.spotify.com/track/64ymwIGgOLjM1ckgnOcBUX) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Boston Accent](https://open.spotify.com/album/3Eiafb9pwTkgnOxjRz3QVb) | 3:21 |
 | 123 | [Brother \- Acoustic](https://open.spotify.com/track/2tjb7JbJj7sl4ykpIeAMoA) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Brother](https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV) | 3:36 |

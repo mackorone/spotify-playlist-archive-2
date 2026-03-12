@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stevenvictor/">Steven Victor</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,458 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,464 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 29 | [On The Radio](https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 4:01 |
 | 30 | [Best Friend \- Remix](https://open.spotify.com/track/1wI3UvluGGKUeFeVFsP9do) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Olivia](https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf) | [Best Friend \(Remix\)](https://open.spotify.com/album/27GrIQPCPtPyEUxONxAcRe) | 4:14 |
 | 31 | [Spaceship](https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [GLC](https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7), [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:24 |
-| 32 | [Hello \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:10 |
-| 33 | [Mojo So Dope](https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:30 |
+| 32 | [Mojo So Dope](https://open.spotify.com/track/6hPSal3ragmfUt1I5mKZjn) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:30 |
+| 33 | [Hello \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:10 |
 | 34 | [Heart Of The City \(Ain't No Love\)](https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 3:43 |
 | 35 | [Perkys Calling](https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 4:06 |
 | 36 | [All I Ever Wanted](https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Double Up](https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW) | 4:02 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U2Tf3iUany.md) - [plain]
 | 46 | [The Games We Play](https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [DAYTONA](https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp) | 2:46 |
 | 47 | [Just How It Is](https://open.spotify.com/track/5KYhIFNTp4VQUqlsbLWTTu) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:27 |
 | 48 | [Marijuana](https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:20 |
-| 49 | [Get Back](https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 1:48 |
-| 50 | [I Got A Shot](https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:18 |
+| 49 | [I Got A Shot](https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:18 |
+| 50 | [Get Back](https://open.spotify.com/track/3DWjFSDEQ9IWz1mj449fB7) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 1:48 |
 
 Snapshot ID: `AAAAAOt2n0BocWAC4Z/tvoSDkYyaGN+O`

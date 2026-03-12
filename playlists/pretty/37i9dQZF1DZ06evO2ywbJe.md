@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,552 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,561 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 47 | [Alubarika](https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:14 |
 | 48 | [Agege](https://open.spotify.com/track/20ZRyanoIsmZaIb8LvzUud) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Agege](https://open.spotify.com/album/59wNw140yRT4OQAxRKCjSR) | 3:16 |
 | 49 | [Elon Musk \(Remix\)](https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd) | 3:24 |
-| 50 | [Only Fan](https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Greatness 2.0](https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT) | 3:20 |
+| 50 | [Get Out](https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Drey Spencer](https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12) | [Marleba The EP](https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ) | 2:24 |
 
-Snapshot ID: `aa4NgAAAAABYZznyAFn/uBMHMFwVDJ1J`
+Snapshot ID: `aa9fAAAAAADdlSjScl/zzckMYaGbx5u0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your bias K\-Pop boy group? \(Cover: WOODZ\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,133 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,110 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,29 +33,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 23 | [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 |
 | 24 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 25 | [CHILLER](https://open.spotify.com/track/0PNOA20FfXz8c1KVaon1ei) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Go Back To The Future](https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM) | 3:04 |
-| 26 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
-| 27 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
+| 26 | [Walkin On Water](https://open.spotify.com/track/5emQyqYHyUOcuS3nsuC0sm) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [HOP](https://open.spotify.com/album/3IGZmUJql41Q2FSIBweSsz) | 2:28 |
+| 27 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
 | 28 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 |
 | 29 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
 | 30 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
-| 31 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
-| 32 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
+| 31 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
+| 32 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 |
 | 33 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 |
 | 34 | [FEVER](https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 2:52 |
 | 35 | [Love Language](https://open.spotify.com/track/3wBeIjb0vtiTwIQPce2stZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Love Language](https://open.spotify.com/album/5BeSpFkdJkSc9phzT3bJSs) | 2:57 |
-| 36 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
-| 37 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 |
+| 36 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 |
+| 37 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 |
 | 38 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
 | 39 | [Monster](https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EX'ACT](https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc) | 3:41 |
 | 40 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 |
-| 41 | [Rizz](https://open.spotify.com/track/1Wr3KJN8y31KSsfi3WjVgv) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [UXLXVE](https://open.spotify.com/album/06fkAvfJw3XKoHoUxdRwQ4) | 2:21 |
-| 42 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 |
+| 41 | [ESCAPE \(Bang Chan & Hyunjin\)](https://open.spotify.com/track/5v6c5XtD3zKPvgUknF7h9K) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:11 |
+| 42 | [Rizz](https://open.spotify.com/track/1Wr3KJN8y31KSsfi3WjVgv) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [UXLXVE](https://open.spotify.com/album/06fkAvfJw3XKoHoUxdRwQ4) | 2:21 |
 | 43 | [WONDERING](https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ) | 2:48 |
 | 44 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
 | 45 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 46 | [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [DxS 1st Mini Album 'Serenade'](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 |
-| 47 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 |
-| 48 | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
+| 47 | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 |
+| 48 | [Back to Life](https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Back to Life](https://open.spotify.com/album/7g35iam7Zn7Kwc1ZpkWD8c) | 3:19 |
 | 49 | [VERY NICE](https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Love&Letter repackage album](https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB) | 3:12 |
 | 50 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
 

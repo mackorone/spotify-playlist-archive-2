@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 
 > The whole truth\. Cover: Yeat, EsDeeKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,944 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,934 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 30 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 |
 | 31 | [at my purest \(feat\. Offset\)](https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:13 |
 | 32 | [What She Like](https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:07 |
-| 33 | [FINE SHIT](https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:46 |
-| 34 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
+| 33 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
+| 34 | [FINE SHIT](https://open.spotify.com/track/79mFFAOYcG8ZF6AN1JecAL) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:46 |
 | 35 | [Outside](https://open.spotify.com/track/139nLHDFZNr3anx8CpUy7u) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Outside](https://open.spotify.com/album/3yFZYSdLY7V209cDXPEeae) | 3:26 |
 | 36 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 |
 | 37 | [Carried Away](https://open.spotify.com/track/1IWDzlzjmhKZQp3dqXfv6W) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 3:43 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSq3HVpgrk0E.md) - [plain]
 | 44 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 3:45 |
 | 45 | [DPMO](https://open.spotify.com/track/6rf4KX0dLAeA9YOLf2kPR0) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [DPMO](https://open.spotify.com/album/3xufC9z1KXYbBVWO66rG2Y) | 1:51 |
 | 46 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
-| 47 | [BEEP BEEP](https://open.spotify.com/track/3LjZ6PqqXfwkcnLOkgLGKI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:54 |
-| 48 | [You've Changed](https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [You've Changed](https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr) | 3:15 |
+| 47 | [You've Changed](https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [You've Changed](https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr) | 3:15 |
+| 48 | [BEEP BEEP](https://open.spotify.com/track/3LjZ6PqqXfwkcnLOkgLGKI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:54 |
 | 49 | [Whenever](https://open.spotify.com/track/4oVUfLx1BVgXbPXc0MlPkr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Whenever](https://open.spotify.com/album/72PmiHAfjlwVxpWWgiHowx) | 2:45 |
 | 50 | [Outside](https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Half Clip](https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor) | 2:47 |
 

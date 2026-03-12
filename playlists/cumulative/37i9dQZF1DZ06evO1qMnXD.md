@@ -4,7 +4,7 @@
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 30 min
+73 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-14 | 2026-02-12 |
 | [Crack Baby](https://open.spotify.com/track/0I0MPzbmzsjpttpkqWgNyx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 4:52 | 2023-05-02 |  |
 | [Dead Women](https://open.spotify.com/track/6fn7Fdrf5VxQg2Df8zDBpb) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:09 | 2026-03-01 |  |
-| [Drunk Walk Home](https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:35 | 2023-05-02 |  |
+| [Drunk Walk Home](https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:35 | 2023-05-02 | 2026-03-12 |
 | [Eric](https://open.spotify.com/track/6xsoxv6FtJSjAOBVwuZSGf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 3:17 | 2023-05-02 | 2023-12-23 |
 | [Fireworks](https://open.spotify.com/track/17o747C5ZZ3UnAg0zNBjOW) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 2:37 | 2023-05-02 | 2024-10-28 |
 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2023-05-02 |  |
@@ -41,8 +41,9 @@
 | [I Don't Smoke](https://open.spotify.com/track/5Qk72xAbHXMzOWL6gS5Gcp) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 3:18 | 2024-02-08 |  |
 | [I Guess](https://open.spotify.com/track/39K4dMGtlkHv5lWlLajAQh) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:15 | 2024-11-17 |  |
 | [I Want You](https://open.spotify.com/track/7FHj19QQigvMH1onMYRNLn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:03 | 2023-05-02 |  |
-| [I Will](https://open.spotify.com/track/2yYP6zjOBqGKqI6s2lZyer) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:54 | 2023-05-02 | 2024-02-09 |
-| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 |  |
+| [I Will](https://open.spotify.com/track/2yYP6zjOBqGKqI6s2lZyer) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:54 | 2023-05-02 |  |
+| [I'll Change for You](https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:16 | 2026-03-12 |  |
+| [I'll Change for You](https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [I'll Change for You](https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL) | 3:16 | 2026-02-06 | 2026-03-12 |
 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 | 2023-09-18 |  |
 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 | 2026-03-01 |  |
 | [In a Lake](https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:04 | 2026-03-01 |  |
@@ -68,10 +69,10 @@
 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 | 2023-05-02 |  |
 | [Strawberry Blond](https://open.spotify.com/track/1EO9dn7V0ufwPHJngZThO5) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 1:54 | 2023-05-02 |  |
 | [Susie Save Your Love](https://open.spotify.com/track/5jYkyOIoEeWZobedmHM50N) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 3:58 | 2023-05-02 | 2023-09-19 |
-| [That White Cat](https://open.spotify.com/track/4ECTsM0K6zXUiF0pYlRFBq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:11 | 2026-03-01 |  |
+| [That White Cat](https://open.spotify.com/track/4ECTsM0K6zXUiF0pYlRFBq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:11 | 2026-03-01 | 2026-03-12 |
 | [The Deal](https://open.spotify.com/track/0CNJcM33kvWE8v26wBy9wB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:52 | 2023-09-18 | 2023-11-11 |
 | [The Frost](https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:48 | 2023-09-18 |  |
-| [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2023-05-02 | 2026-03-01 |
+| [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 | 2023-05-02 |  |
 | [This Is A Life](https://open.spotify.com/track/20UK2eUwlRzNuW60gzITuj) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 2:41 | 2023-05-02 | 2024-02-04 |
 | [Valentine, Texas](https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:35 | 2023-05-02 | 2026-01-22 |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2023-05-02 |  |

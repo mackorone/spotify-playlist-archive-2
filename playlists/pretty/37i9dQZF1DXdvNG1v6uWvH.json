@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of Harry Styles, M\u00d8 og m\u00f6rgum fleiri!",
-  "num_followers": 9600,
+  "num_followers": 9599,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Jean",
-        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 184481,
-      "name": "Earth, Wind & California",
-      "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "This is Real (Disappear)",
         "url": "https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 297187,
       "name": "This is Real (Disappear)",
       "url": "https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 184481,
+      "name": "Earth, Wind & California",
+      "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Torn",
         "url": "https://open.spotify.com/album/7Cdd128AeI1AD6oqE8uVVp"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 157556,
       "name": "Dog",
       "url": "https://open.spotify.com/track/7ESSAGx96yIcYmYXFXRPeC"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Go Fuck Yourself",
-        "url": "https://open.spotify.com/album/5LSoCVjvwI8bfkZlVGYBhu"
-      },
-      "artists": [
-        {
-          "name": "Dutch Interior",
-          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Go Fuck Yourself",
-      "url": "https://open.spotify.com/track/4JLAkZz7Dld1XzAs1Q9f4m"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "all of me was you",
         "url": "https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Turn It Around",
-        "url": "https://open.spotify.com/album/01SHVwmFX05g57hArB14RW"
+        "name": "Go Fuck Yourself",
+        "url": "https://open.spotify.com/album/5LSoCVjvwI8bfkZlVGYBhu"
       },
       "artists": [
         {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+          "name": "Dutch Interior",
+          "url": "https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn"
         }
       ],
-      "duration_ms": 205096,
-      "name": "Turn It Around",
-      "url": "https://open.spotify.com/track/7c2GfylG2F77Ujwtt8hj4c"
+      "duration_ms": 222080,
+      "name": "Go Fuck Yourself",
+      "url": "https://open.spotify.com/track/4JLAkZz7Dld1XzAs1Q9f4m"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -619,6 +603,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "Turn It Around",
+        "url": "https://open.spotify.com/album/01SHVwmFX05g57hArB14RW"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "duration_ms": 205096,
+      "name": "Turn It Around",
+      "url": "https://open.spotify.com/track/7c2GfylG2F77Ujwtt8hj4c"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "Gosh I Luv It !!!",
         "url": "https://open.spotify.com/album/2KbKLg1yhMvFq0LdrjdPdH"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 203763,
       "name": "Gosh I Luv It !!!",
       "url": "https://open.spotify.com/track/3I7uEyg1QhIdl6msbxpieX"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "ALL THE D0GS ARE BARKING",
-        "url": "https://open.spotify.com/album/3eXfS9eDIZfosNdiLR9Hsh"
-      },
-      "artists": [
-        {
-          "name": "2D0GS",
-          "url": "https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6"
-        },
-        {
-          "name": "Black Noi$e",
-          "url": "https://open.spotify.com/artist/647PD9VO8BRYqib1oRPDfA"
-        }
-      ],
-      "duration_ms": 287771,
-      "name": "GOT1 (ft. Black Noi$e)",
-      "url": "https://open.spotify.com/track/3VYobIkstO77VrxWaatrCQ"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -679,6 +659,26 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "ALL THE D0GS ARE BARKING",
+        "url": "https://open.spotify.com/album/3eXfS9eDIZfosNdiLR9Hsh"
+      },
+      "artists": [
+        {
+          "name": "2D0GS",
+          "url": "https://open.spotify.com/artist/2zSFRgwHiN61lvxYJWcpw6"
+        },
+        {
+          "name": "Black Noi$e",
+          "url": "https://open.spotify.com/artist/647PD9VO8BRYqib1oRPDfA"
+        }
+      ],
+      "duration_ms": 287771,
+      "name": "GOT1 (ft. Black Noi$e)",
+      "url": "https://open.spotify.com/track/3VYobIkstO77VrxWaatrCQ"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "better without me.",
         "url": "https://open.spotify.com/album/36yJOEUq5FtaO6ArH1LyuM"
       },
@@ -695,6 +695,38 @@
       "duration_ms": 188160,
       "name": "better without me.",
       "url": "https://open.spotify.com/track/5EngqDwTf0sZ9v70mueRdI"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Big Deal",
+        "url": "https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu"
+      },
+      "artists": [
+        {
+          "name": "YAZ",
+          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
+        }
+      ],
+      "duration_ms": 150264,
+      "name": "Big Deal",
+      "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "It's A Shame You Swim So Well",
+        "url": "https://open.spotify.com/album/60BujIdoaJj1QfhLGbDu58"
+      },
+      "artists": [
+        {
+          "name": "Edwin Raphael",
+          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
+        }
+      ],
+      "duration_ms": 260226,
+      "name": "It's A Shame You Swim So Well",
+      "url": "https://open.spotify.com/track/68R5SgLmvLpX5F6SMmgRIn"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -719,38 +751,6 @@
       "duration_ms": 251373,
       "name": "SOMEWHERE ELSE",
       "url": "https://open.spotify.com/track/3qqMHc4tToV5jil0nVonm9"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "It's A Shame You Swim So Well",
-        "url": "https://open.spotify.com/album/60BujIdoaJj1QfhLGbDu58"
-      },
-      "artists": [
-        {
-          "name": "Edwin Raphael",
-          "url": "https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB"
-        }
-      ],
-      "duration_ms": 260226,
-      "name": "It's A Shame You Swim So Well",
-      "url": "https://open.spotify.com/track/68R5SgLmvLpX5F6SMmgRIn"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "Big Deal",
-        "url": "https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu"
-      },
-      "artists": [
-        {
-          "name": "YAZ",
-          "url": "https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk"
-        }
-      ],
-      "duration_ms": 150264,
-      "name": "Big Deal",
-      "url": "https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "nicklas",
-        "url": "https://open.spotify.com/album/0XXKkvyxFLYFxykDEn2UkP"
-      },
-      "artists": [
-        {
-          "name": "Nicklas Sahl",
-          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
-        }
-      ],
-      "duration_ms": 158856,
-      "name": "Can't Live Without You",
-      "url": "https://open.spotify.com/track/5pATNHw5VBr1ob7soroXdi"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "The Cost of Freedom",
         "url": "https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 210681,
       "name": "The Cost of Freedom",
       "url": "https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "nicklas",
+        "url": "https://open.spotify.com/album/0XXKkvyxFLYFxykDEn2UkP"
+      },
+      "artists": [
+        {
+          "name": "Nicklas Sahl",
+          "url": "https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA"
+        }
+      ],
+      "duration_ms": 158856,
+      "name": "Can't Live Without You",
+      "url": "https://open.spotify.com/track/5pATNHw5VBr1ob7soroXdi"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -871,26 +871,6 @@
       "duration_ms": 284146,
       "name": "Going Out",
       "url": "https://open.spotify.com/track/1N4z5lvwP0UPbOAAe6kuWk"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "lighthouse",
-        "url": "https://open.spotify.com/album/2dFt7UbMmIh0xKyOMvp1JW"
-      },
-      "artists": [
-        {
-          "name": "boerd",
-          "url": "https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff"
-        },
-        {
-          "name": "ABY iO",
-          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "lighthouse",
-      "url": "https://open.spotify.com/track/6hiCPVvCIxq6K47DCN6IHR"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -955,6 +935,26 @@
       "duration_ms": 139710,
       "name": "SOS XOX (ft. vi0let)",
       "url": "https://open.spotify.com/track/1reCHfsIleI81FSbGvcHBN"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "lighthouse",
+        "url": "https://open.spotify.com/album/2dFt7UbMmIh0xKyOMvp1JW"
+      },
+      "artists": [
+        {
+          "name": "boerd",
+          "url": "https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff"
+        },
+        {
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/6hiCPVvCIxq6K47DCN6IHR"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/7tS6zq9Yhykj9RLDbzs4a9"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 153778,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/5jk3zSKZomRjhQPzpb1nIn"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "After Tokyo",
         "url": "https://open.spotify.com/album/0XwhbVYOJNBDfEryDYmvT0"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 190250,
       "name": "After Tokyo",
       "url": "https://open.spotify.com/track/02b5PmgFNkAGCVuvtz0ioX"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/7tS6zq9Yhykj9RLDbzs4a9"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 153778,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/5jk3zSKZomRjhQPzpb1nIn"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Dear Mr. Trump",
-        "url": "https://open.spotify.com/album/1pgsEDx8KVdpelUU4ET2Ae"
-      },
-      "artists": [
-        {
-          "name": "Mattias Kolstrup",
-          "url": "https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG"
-        }
-      ],
-      "duration_ms": 125964,
-      "name": "Dear Mr. Trump",
-      "url": "https://open.spotify.com/track/0iS0N35d333w0prPR8dgq1"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "jamie",
         "url": "https://open.spotify.com/album/2Gsvf58voRfAA29s4Dullf"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 208680,
       "name": "jamie",
       "url": "https://open.spotify.com/track/24aaGiYyZmQv3E8GeswyV5"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Dear Mr. Trump",
+        "url": "https://open.spotify.com/album/1pgsEDx8KVdpelUU4ET2Ae"
+      },
+      "artists": [
+        {
+          "name": "Mattias Kolstrup",
+          "url": "https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG"
+        }
+      ],
+      "duration_ms": 125964,
+      "name": "Dear Mr. Trump",
+      "url": "https://open.spotify.com/track/0iS0N35d333w0prPR8dgq1"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "dark blue night",
+        "url": "https://open.spotify.com/album/00ouVcovzzdVeEtQJLP5Ym"
+      },
+      "artists": [
+        {
+          "name": "arfi",
+          "url": "https://open.spotify.com/artist/0TnKzHXqPX7u6QDKvO9d6E"
+        },
+        {
+          "name": "S\u00f3ley",
+          "url": "https://open.spotify.com/artist/7DtlawO7T5bsgq81EeHxwh"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "dark blue night",
+      "url": "https://open.spotify.com/track/1jsvqaMxElY7fJ3b1hYkSt"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "gold",
         "url": "https://open.spotify.com/album/1kCmyeZ59N5vsIexf3wuP5"
       },
@@ -1403,26 +1423,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "dark blue night",
-        "url": "https://open.spotify.com/album/00ouVcovzzdVeEtQJLP5Ym"
-      },
-      "artists": [
-        {
-          "name": "arfi",
-          "url": "https://open.spotify.com/artist/0TnKzHXqPX7u6QDKvO9d6E"
-        },
-        {
-          "name": "S\u00f3ley",
-          "url": "https://open.spotify.com/artist/7DtlawO7T5bsgq81EeHxwh"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "dark blue night",
-      "url": "https://open.spotify.com/track/1jsvqaMxElY7fJ3b1hYkSt"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "takumiminamino.",
         "url": "https://open.spotify.com/album/4oEmakg4AdEYv4mEg8jPC9"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 102857,
       "name": "Fuh That Mean?",
       "url": "https://open.spotify.com/track/4bN2OpS7hkxRSzHSw20ip5"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "drown",
+        "url": "https://open.spotify.com/album/2oOTzS5MMF69VNdZvNhhHk"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 205713,
+      "name": "drown",
+      "url": "https://open.spotify.com/track/4PUaUdhLeOyOjbfQ3bTZqK"
     }
   ],
   "unique_name": "New Music Friday Iceland",

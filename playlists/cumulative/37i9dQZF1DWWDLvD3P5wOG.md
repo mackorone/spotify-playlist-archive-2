@@ -2,7 +2,7 @@
 
 ### [Dancehall Throwback](https://open.spotify.com/playlist/37i9dQZF1DWWDLvD3P5wOG)
 
-> Throwbacks you can catch a wine to.
+> Throwbacks you can catch a whine to.
 
 187 songs - 10 hr 24 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,406 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,535 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 17 | [Genesis, pt\. ii](https://open.spotify.com/track/1qvgsMTiNL4WwUnQ9yMz2m) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 3:28 |
 | 18 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
 | 19 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
-| 20 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
-| 21 | [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 |
+| 20 | [Grandma Calls The Boy Bad News \- From F1® The Movie](https://open.spotify.com/track/5VWBztPOLe4D00pV01lXcF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Grandma Calls The Boy Bad News \(From F1® The Movie\)](https://open.spotify.com/album/2yH6KW9z9oDdAJ8b8wcEfI) | 3:26 |
+| 21 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 22 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 |
 | 23 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
 | 24 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 49 | [Worth It Prelude\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/21Iu5XUOsp1Yq90ZTE51rz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 1:11 |
 | 50 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 |
 
-Snapshot ID: `aa4NgAAAAABhJNrJW0N8lA1o4TcFnHpx`
+Snapshot ID: `aa9fAAAAAAC7gMkpMyOTxAJ+A9fEFX4X`

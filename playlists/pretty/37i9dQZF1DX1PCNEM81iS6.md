@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 
 > Music from "That Time I Got Reincarnated as a Slime"! ©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,327 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,343 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PCNEM81iS6.md) - [plain]
 | 51 | [友情](https://open.spotify.com/track/2ggxbwmmlHKm1Tswjygyrs) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 2:18 |
 | 52 | [繁栄](https://open.spotify.com/track/0bcn7voVf6K5EwN0sRMmyZ) | [藤間 仁](https://open.spotify.com/artist/4o8SvmSDGw2Q6MpAMuU2e7) | [『劇場版 転生したらスライムだった件 紅蓮の絆編』オリジナルサウンドトラック「転生したら映画の音楽だった件」](https://open.spotify.com/album/01XRPjbStf9YhzSfXVsCi1) | 1:26 |
 
-Snapshot ID: `AAAAACoHjeMbrcQjYuotZi1GpR5XDxIK`
+Snapshot ID: `AAAAAMRTdEdn47hqvFOQ27MV5tFcU0rI`

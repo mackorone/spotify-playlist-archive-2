@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 133066,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/35uu4l4jYnCLMh88URXqoX"
@@ -2344,6 +2344,24 @@
       "duration_ms": 166160,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
+    },
+    {
+      "album": {
+        "name": "Ramblin Rose",
+        "url": "https://open.spotify.com/album/0E6nzXbvyyVzZls1TtEmRP"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "When You're Smiling (The Whole World Smiles With You) - As Heard on \u201cFallout\u201d (Series)",
+      "url": "https://open.spotify.com/track/44hUubH8Om6qIYVJN7pyFU"
     },
     {
       "album": {

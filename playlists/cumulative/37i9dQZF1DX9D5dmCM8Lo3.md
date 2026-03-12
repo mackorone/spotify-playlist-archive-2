@@ -86,7 +86,7 @@
 | [Nice Boys](https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 3:00 | 2022-03-02 | 2026-02-19 |
 | [Nightmare Fuel](https://open.spotify.com/track/1MzlJISHbDjR5Yp4PZHjBR) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [View\-Monster](https://open.spotify.com/album/2iKe0QhSWxNuyiUlzmJpTs) | 1:48 | 2022-03-02 |  |
 | [Nowhere To Run](https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA) | [Stegosaurus Rex](https://open.spotify.com/artist/2D5kO95AWEXMHRvqvCKb7K) | [The Dino Soars](https://open.spotify.com/album/78X1D2vooZVMQdPY581dNg) | 5:00 | 2022-03-02 |  |
-| [Numbers](https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Numbers](https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL) | 2:07 | 2022-03-02 |  |
+| [Numbers](https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Numbers](https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL) | 2:07 | 2022-03-02 | 2026-03-12 |
 | [paranoia](https://open.spotify.com/track/3EMaNLX6Ho5ouuA0vUDGq6) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/74Mf6OAdhGDZWegLrJdYh1) | 1:57 | 2023-06-12 |  |
 | [paranoia](https://open.spotify.com/track/3WBy9a9yRLJc87p0kxlWBx) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/1BAT0nvR5OhUCOkZZ134J6) | 1:57 | 2023-07-18 | 2023-08-10 |
 | [paranoia](https://open.spotify.com/track/3lHABS6GtT0XHRFHgapEcE) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/5moiY6FDwB19qyRGg8LEAG) | 1:57 | 2023-07-18 | 2023-08-01 |
@@ -130,7 +130,7 @@
 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 | 2022-04-01 |  |
 | [Zero Day](https://open.spotify.com/track/084WJhjzcITo45JEgbA40S) | [Colloboh](https://open.spotify.com/artist/0o0jvQAplepjQaJYbXCEVl) | [Zero Day](https://open.spotify.com/album/11L9PcFGchTCKRIfjAl1X2) | 4:49 | 2022-03-11 | 2023-02-17 |
 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ㅇ△₊⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ¨.·\*:･✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 | 2022-03-02 |  |
-| [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 | 2022-03-03 | 2023-06-13 |
+| [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 | 2022-03-03 |  |
 | [あなぐらぐらし](https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク６](https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE) | 6:05 | 2022-03-02 |  |
 
 \*This playlist was first scraped on 2022-03-19. Prior content cannot be recovered.

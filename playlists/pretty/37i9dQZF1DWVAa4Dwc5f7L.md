@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Rawayana & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,535 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,545 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 18 | [Me Mataron](https://open.spotify.com/track/2cPx2KVe8WZw3A3xaWhk8e) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [El Blachy](https://open.spotify.com/artist/7eUSP77ZhnXleSue48JWiT) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 3:33 |
 | 19 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 20 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
-| 21 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
-| 22 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
+| 21 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
+| 22 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
 | 23 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
 | 24 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 25 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu), [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 68 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
 | 69 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
 | 70 | [El Bote](https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 2:51 |
-| 71 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
-| 72 | [Por Ti Amor](https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb) | [Por Ti Amor](https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5) | 4:17 |
+| 71 | [Por Ti Amor](https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb) | [Por Ti Amor](https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5) | 4:17 |
+| 72 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
 | 73 | [Sin Rumbo](https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Imparable](https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K) | 3:31 |
 | 74 | [Cara de Idiota](https://open.spotify.com/track/2nSi0Nq0eD6MGBDcmMYUdw) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Cara de Idiota](https://open.spotify.com/album/01fD6I1VVKV6ZR6UqA7ojE) | 3:11 |
 | 75 | [El Hombre Divertido](https://open.spotify.com/track/75ngzYAvEAuc8YvQgo76iA) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Coleccion Diamante](https://open.spotify.com/album/05ICn9Npd5HZJgKDnaMByf) | 4:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Moliy and Bee&Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,531 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,549 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 3 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/4N7AXHRMQYh9GHQd5hE6NP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:39 |
 | 4 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 |
 | 5 | [Right Now](https://open.spotify.com/track/13HwOA5rfBYsrWEj4fW4wy) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Right Now](https://open.spotify.com/album/6hgf2eJZJ86AOTdJjZ2a1K) | 2:50 |
-| 6 | [Ancient Seed](https://open.spotify.com/track/68ecoJITGB8aJzb02krL8n) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Ancient Seed](https://open.spotify.com/album/4SP8alHSsTAwom8blEF6iY) | 3:32 |
+| 6 | [Ancient Seed \(\#SaveSoil\)](https://open.spotify.com/track/68ecoJITGB8aJzb02krL8n) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [WondaGurl](https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0) | [Ancient Seed \(\#SaveSoil\)](https://open.spotify.com/album/4SP8alHSsTAwom8blEF6iY) | 3:32 |
 | 7 | [Getting Paid ​\(f​eat​\. Asake, Wizkid, Skillibeng​\)](https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Protect Sarz At All Costs](https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h) | 2:28 |
 | 8 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 |
 | 9 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 |

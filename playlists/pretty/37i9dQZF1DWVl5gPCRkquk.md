@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,979,305 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,979,130 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 22 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 |
 | 23 | [Opaline](https://open.spotify.com/track/732Zsh1L5ixRNgAmiPyvrp) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 3:12 |
 | 24 | [Asshole](https://open.spotify.com/track/6ZrwhNlrmg63J21UDdNcnH) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 3:03 |
-| 25 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 |
-| 26 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:14 |
-| 27 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 |
-| 28 | [Better Distractions](https://open.spotify.com/track/3CmcswzHOACDjooV1KLULN) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 4:09 |
+| 25 | [I Was Born To Love You](https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 4:14 |
+| 26 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 |
+| 27 | [Better Distractions](https://open.spotify.com/track/3CmcswzHOACDjooV1KLULN) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 4:09 |
+| 28 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 |
 | 29 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 30 | [I Lied \(with August Ponthier\)](https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [I Lied](https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq) | 3:54 |
 | 31 | [Face Down In The Moment](https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:39 |
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 54 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 55 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 |
 | 56 | [All the Ways \(feat\. Ray LaMontagne\)](https://open.spotify.com/track/5X7YV3w0f8wvbK58fupk0P) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [All the Ways](https://open.spotify.com/album/5KnKkghYRhhK3wfuNiLC6c) | 3:38 |
-| 57 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
-| 58 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
+| 57 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
+| 58 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
 | 59 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 60 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 |
 | 61 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
-| 62 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
-| 63 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
+| 62 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
+| 63 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [\(watch my moves\)](https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo) | 5:32 |
 | 64 | [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 |
 | 65 | [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 |
 | 66 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Die Oberherren, Locus Noir and more",
+  "description": "With Die Oberherren, AlligatorX, Locus Noir and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 188082,
       "name": "Beat The Stone",
       "url": "https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 223573,
       "name": "Devil Woman",
       "url": "https://open.spotify.com/track/1MIstxVylUc5uEpr8DZRsa"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 235706,
       "name": "Helleluia",
       "url": "https://open.spotify.com/track/3FFLHI0Vj4To1spoXCnDv3"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -3362,6 +3362,24 @@
       "duration_ms": 270000,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6xFjDwRy50q7CoWgXLWvDV"
+    },
+    {
+      "album": {
+        "name": "Irre Schatten",
+        "url": "https://open.spotify.com/album/0b629g4qI5X7FoheUWk56Y"
+      },
+      "artists": [
+        {
+          "name": "Stillste Stund",
+          "url": "https://open.spotify.com/artist/7tS7sWsy7ZNWDyzS5ZgmTn"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379975,
+      "name": "Irre Schatten",
+      "url": "https://open.spotify.com/track/6o3Br5aFXsbfsiH9rq8kOD"
     },
     {
       "album": {
@@ -3398,6 +3416,28 @@
       "duration_ms": 289893,
       "name": "JESSE JAMES",
       "url": "https://open.spotify.com/track/4d4m1Z0iDTnwx6EtO8nN0p"
+    },
+    {
+      "album": {
+        "name": "Jetzt gehts los (EM Version)",
+        "url": "https://open.spotify.com/album/0l09NTRs6EkcEkFZSLcRTp"
+      },
+      "artists": [
+        {
+          "name": "DERBYSIEGERZ",
+          "url": "https://open.spotify.com/artist/1GfPlLbCVZ7rOH6tsZgAWx"
+        },
+        {
+          "name": "Marcus Sommer",
+          "url": "https://open.spotify.com/artist/0WCvMJuxXxWUVhWrL1q4P4"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Jetzt gehts los - EM Version",
+      "url": "https://open.spotify.com/track/2XZYcrcxmj1Ohz4iAhBatL"
     },
     {
       "album": {
@@ -3452,7 +3492,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -4268,7 +4308,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 174111,
       "name": "Mieli sairastaa",
       "url": "https://open.spotify.com/track/3V2LNmfhqFL6W0G8kWVMus"
@@ -4860,7 +4900,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -5080,7 +5120,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 246088,
       "name": "Old Heart Falls",
       "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
@@ -5116,7 +5156,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -5434,6 +5474,24 @@
       "duration_ms": 147278,
       "name": "Power Trip",
       "url": "https://open.spotify.com/track/7hund5bivOghcZsQu1PdNp"
+    },
+    {
+      "album": {
+        "name": "Goliath (Remastered 2023)",
+        "url": "https://open.spotify.com/album/0iDIKM3Bc78oBWUrfGyMWq"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "Prettyache",
+      "url": "https://open.spotify.com/track/7vnOGAR7bAujocgwE9cfFH"
     },
     {
       "album": {
@@ -5990,7 +6048,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 185227,
       "name": "Shadows Across The South",
       "url": "https://open.spotify.com/track/56pes0DLQlEbp95SgFapku"
@@ -6026,7 +6084,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 209933,
       "name": "She Haunts the Night",
       "url": "https://open.spotify.com/track/0CBfmGzrW3mEeW3CqIJM5w"
@@ -6812,7 +6870,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 230886,
       "name": "The Deconstruction",
       "url": "https://open.spotify.com/track/21TefxsykO1qS3PjEshnVO"
@@ -6848,7 +6906,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -6992,7 +7050,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -7166,7 +7224,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -7296,7 +7354,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 239040,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2S6ibnlpUUWEp2Ws0ZvQlH"
@@ -7448,7 +7506,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -7528,6 +7586,24 @@
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/4dz2I13MPmF0Q1HN5cxTSd"
+    },
+    {
+      "album": {
+        "name": "TOMORROW IS GONE",
+        "url": "https://open.spotify.com/album/58o8r2xvBEHozoyjxzwyaS"
+      },
+      "artists": [
+        {
+          "name": "VERTTIGO",
+          "url": "https://open.spotify.com/artist/7eLn91iQ7lCk8ZJqxYfYzk"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184590,
+      "name": "TOMORROW.IS.GONE",
+      "url": "https://open.spotify.com/track/537TVAdzHv7vesffJkXR1x"
     },
     {
       "album": {
@@ -7650,7 +7726,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 201617,
       "name": "Trick of Escaping Death",
       "url": "https://open.spotify.com/track/7xi2jjyS16aMJRL9GpVMI5"
@@ -7722,7 +7798,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -8162,7 +8238,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 249640,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/7HhUyysH2pxR1vMJeSrIgE"
@@ -8270,7 +8346,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"
@@ -8354,7 +8430,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 305000,
       "name": "Withered",
       "url": "https://open.spotify.com/track/4rXXkuEOyspu8wqlhd47z7"
@@ -8694,7 +8770,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,894,726 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,894,896 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 45 | [Cute Without The 'E' \(Cut From The Team\)](https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 3:31 |
 | 46 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
 | 47 | [Vindicated](https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Dusk And Summer](https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U) | 3:21 |
-| 48 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
-| 49 | [A Boy Brushed Red Living In Black And White](https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:28 |
+| 48 | [A Boy Brushed Red Living In Black And White](https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:28 |
+| 49 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
 | 50 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
 | 51 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
 | 52 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 84 | [The Mixed Tape \- 2015 Remastered](https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit](https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM) | 3:14 |
 | 85 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 86 | [L.G\. FUAD](https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:06 |
-| 87 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
+| 87 | [Polar Opposites](https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 3:29 |
 | 88 | [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 |
-| 89 | [Polar Opposites](https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 3:29 |
+| 89 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
 | 90 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
 | 91 | [My Favorite Accident](https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [I Am The Movie](https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i) | 3:20 |
 | 92 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 |

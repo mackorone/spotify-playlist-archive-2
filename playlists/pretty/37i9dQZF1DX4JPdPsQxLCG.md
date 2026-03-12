@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,059 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,057 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 35 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 36 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
 | 37 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 |
-| 38 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
-| 39 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
+| 38 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
+| 39 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 |
 | 40 | [Watch Me Go](https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [The Cosmic Selector Vol\. 1](https://open.spotify.com/album/6lpG635tVIMn2WAN2QG9Sp) | 3:06 |
 | 41 | [Ride](https://open.spotify.com/track/3l2S2RkGG4lbh7WqmCV3NB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:49 |
 | 42 | [Something In The Way](https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Something In The Way](https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy) | 5:02 |

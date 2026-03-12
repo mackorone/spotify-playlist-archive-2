@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8114,
+  "num_followers": 8123,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACowevqg6t7RH49y5CYOnfF",
+  "snapshot_id": "aa9fAAAAAAAsxNo0iE1a0uvGhymyQ9wu",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUKU GOOGLE AM",
-        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210250,
-      "name": "KUKU GOOGLE AM",
-      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
       },
@@ -659,30 +659,6 @@
       "duration_ms": 258506,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/1Jumeazvmns8NKaqs2aCfS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worry Me",
-        "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
-      },
-      "artists": [
-        {
-          "name": "DJ Jimmy Jatt",
-          "url": "https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 193044,
-      "name": "Worry Me",
-      "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
     },
     {
       "added_at": null,
@@ -731,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worry Me",
+        "url": "https://open.spotify.com/album/6XUaZvaQMG42gPY1KqVP9p"
+      },
+      "artists": [
+        {
+          "name": "DJ Jimmy Jatt",
+          "url": "https://open.spotify.com/artist/1ZwLoNSj1T8R4D303zVVMp"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 193044,
+      "name": "Worry Me",
+      "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Iworiwo",
         "url": "https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel"
       },
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realness Over Hype",
-        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
-      },
-      "artists": [
-        {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "See God",
-      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 267240,
       "name": "Thank U Lord",
       "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Realness Over Hype",
+        "url": "https://open.spotify.com/album/5Lr8uyHyEVzyHj4yTUF6JW"
+      },
+      "artists": [
+        {
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "See God",
+      "url": "https://open.spotify.com/track/4tCeALAdETzi8VXAgn4nun"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Chairman",
         "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 347085,
       "name": "Human Being (feat. 2Face & Sound Sultan)",
       "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 
 > This is Ana Bárbara\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,207 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,205 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 23 | [El Consejo](https://open.spotify.com/track/2KwhQzFa2ZqvexBdALeAJo) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 3:59 |
 | 24 | [Mentiras Bonitas](https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mentiras Bonitas](https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj) | 3:08 |
 | 25 | [Capullo Y Sorullo](https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:41 |
-| 26 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
-| 27 | [Te Metiste](https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37) | 3:44 |
+| 26 | [Te Metiste](https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Metiste](https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37) | 3:44 |
+| 27 | [Eso No Es De Hombres](https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Te Regalo La Lluvia](https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg) | 3:11 |
 | 28 | [Reza y Reza](https://open.spotify.com/track/6Z6FqnImFvNvxg9aHW2HKz) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Las Que Más Amo](https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3) | 2:52 |
 | 29 | [Nada de Ti](https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Nada de Ti](https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q) | 3:43 |
 | 30 | [Besos Robados](https://open.spotify.com/track/4NuxmtOILyAJARALn4jkY7) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Besos Robados](https://open.spotify.com/album/2JeR32SGEMdyK2G7q8hCXn) | 2:37 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 32 | [Engañada](https://open.spotify.com/track/4FJD2QyCnn7BfU0jQsgWMF) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Tu Decisión](https://open.spotify.com/album/3hLv1eT4pM0Lv0F97ZyWG1) | 3:06 |
 | 33 | [Nadie Me Vera Llorar \- \(Versión Acústica\)](https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Nadie Me Vera Llorar \(Versión Acústica\)](https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn) | 3:03 |
 | 34 | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/track/7HEztOmJiiJhpykhjoUtWc) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 3:44 |
-| 35 | [No Me Amenaces](https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:31 |
-| 36 | [Rompiendo Cadenas \- Original mix](https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Rompiendo Cadenas](https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p) | 4:55 |
+| 35 | [Rompiendo Cadenas \- Original mix](https://open.spotify.com/track/4Xg0S0G1Lk2EIu90z2d9Fi) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Rompiendo Cadenas](https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p) | 4:55 |
+| 36 | [No Me Amenaces](https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 2:31 |
 | 37 | [No Sé Qué Voy A Hacer](https://open.spotify.com/track/4cskZ7EXgVW4Pwbd6vAr7L) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [La Trampa](https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN) | 3:31 |
 | 38 | [Para No Extrañarte Tanto](https://open.spotify.com/track/2lsFm8tmLVE0Nb2qutdA4z) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Para No Extrañarte Tanto](https://open.spotify.com/album/0ROzsdO9UMSDVh1AOHHEi6) | 3:53 |
 | 39 | [Tu Ingratitud](https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Yo Soy La Mujer](https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mOf7x.md) - [plain]
 | 49 | [Los Caminos de la Vida](https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Caminos de la Vida](https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA) | 3:48 |
 | 50 | [Te Llevaste \- Original mix](https://open.spotify.com/track/3t4BuAW1W5Va37ef4WVTRC) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Rompiendo Cadenas](https://open.spotify.com/album/4M4XNTi992X3cGrjhWeM4p) | 3:23 |
 
-Snapshot ID: `aa4NgAAAAAAAw58Gs7ijuBCM2nidib7b`
+Snapshot ID: `aa9fAAAAAADJhO641zWp0XBxz75ojQ80`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
+  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
   "name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "tracks": [
     {
@@ -460,6 +460,24 @@
       "duration_ms": 336255,
       "name": "Chuy\u1ebfn t\u00e0u ho\u00e0ng h\u00f4n",
       "url": "https://open.spotify.com/track/1Cx6Fu7TJGFUlly9wLGgwN"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00eam T\u00e2m S\u1ef1 (Kh\u00fac T\u00ecnh X\u01b0a 3)",
+        "url": "https://open.spotify.com/album/1u3z4jXHWQlbn6as6GECjV"
+      },
+      "artists": [
+        {
+          "name": "L\u1ec7 Quy\u00ean",
+          "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
+        }
+      ],
+      "date_added": "2026-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305133,
+      "name": "Chuy\u1ebfn T\u00e0u Ho\u00e0ng H\u00f4n",
+      "url": "https://open.spotify.com/track/68MQeS7SL9bIe3BMZ9NKow"
     },
     {
       "album": {
@@ -5808,7 +5826,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 303850,
       "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/1uyjScv0NWtjXuktSjEFKr"

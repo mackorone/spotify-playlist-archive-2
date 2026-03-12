@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 277776,
+  "num_followers": 277844,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-03-06 00:00:29",
       "album": {
+        "name": "somebody else (Denon Reed Remix)",
+        "url": "https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF"
+      },
+      "artists": [
+        {
+          "name": "e.motion",
+          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
+        },
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        }
+      ],
+      "duration_ms": 140704,
+      "name": "somebody else - Denon Reed Remix",
+      "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
+    },
+    {
+      "added_at": "2026-03-06 00:00:29",
+      "album": {
         "name": "Head's Gone",
         "url": "https://open.spotify.com/album/5DSYVYwmhBUHTfoe4CyBnc"
       },
@@ -1107,22 +1127,18 @@
     {
       "added_at": "2026-03-06 00:00:29",
       "album": {
-        "name": "somebody else (Denon Reed Remix)",
-        "url": "https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF"
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
       },
       "artists": [
         {
-          "name": "e.motion",
-          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
-        },
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 140704,
-      "name": "somebody else - Denon Reed Remix",
-      "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
+      "duration_ms": 196521,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
     },
     {
       "added_at": "2026-03-06 00:00:29",
@@ -1239,22 +1255,6 @@
       "duration_ms": 208596,
       "name": "Oh My Gosh",
       "url": "https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB"
-    },
-    {
-      "added_at": "2026-03-06 00:00:29",
-      "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 196521,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
     },
     {
       "added_at": "2026-03-06 00:00:29",

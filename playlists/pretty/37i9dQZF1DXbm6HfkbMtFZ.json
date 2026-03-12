@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 836751,
+  "num_followers": 836804,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqNNjxlZbJ9GyajCXBohrRrmUJV",
+  "snapshot_id": "AAAAAPooXA/zUZtQX7LMIsDkX0jTNN1m",
   "tracks": [
     {
       "added_at": "2026-01-28 21:43:36",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
-      },
-      "artists": [
-        {
-          "name": "The Whitest Boy Alive",
-          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
-        }
-      ],
-      "duration_ms": 242440,
-      "name": "Golden Cage",
-      "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "The Best of George Benson",
         "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 219560,
       "name": "Give Me the Night - Edit",
       "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
+      },
+      "artists": [
+        {
+          "name": "The Whitest Boy Alive",
+          "url": "https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "Golden Cage",
+      "url": "https://open.spotify.com/track/4Pz7iN649aBn2TwcxBRF8Z"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "If My Wife New I'd Be Dead (Deluxe)",
+        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "If My Wife New I'd Be Dead (Deluxe)",
-        "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Homegrown",
         "url": "https://open.spotify.com/album/4vAakYtJWrer6lENSAP19l"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 143606,
       "name": "Groceries",
       "url": "https://open.spotify.com/track/5KXNgbRYbqwEFIFM0AMakg"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
-      },
-      "artists": [
-        {
-          "name": "Dojo Cuts",
-          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
+      },
+      "artists": [
+        {
+          "name": "Dojo Cuts",
+          "url": "https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
-      },
-      "artists": [
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "I Don't",
-      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Boonie Town",
         "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "I Don't",
+      "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1883,38 +1883,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 176718,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 268179,
-      "name": "Off to the Side",
-      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Picture Frame",
         "url": "https://open.spotify.com/album/6LaTToJMRmCo1Wtxb2NyhU"
       },
@@ -1931,6 +1899,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/1DSAC5ZkIWBUDX6OrSPccT"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 191560,
       "name": "You're A Song (That I Can't Sing)",
       "url": "https://open.spotify.com/track/5ZXxJ5AWzZ6Td3MZKbwwdt"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 268179,
+      "name": "Off to the Side",
+      "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
     },
     {
       "added_at": "2026-01-28 21:43:36",

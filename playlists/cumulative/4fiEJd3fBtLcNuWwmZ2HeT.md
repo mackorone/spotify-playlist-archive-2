@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-455 songs - 1 day 2 hr 27 min
+457 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 | 2025-05-20 |  |
 | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp), [PARK BYEONG HOON](https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2) | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe) | 4:07 | 2025-07-24 |  |
 | [curtain call](https://open.spotify.com/track/24NKOHv5J6YUXfYbHUEEhg) | [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [yowanecity](https://open.spotify.com/artist/7tZujezUi8x3PLTW0E0nyr) | [curtain call](https://open.spotify.com/album/4KKlVYEQF5TqfhPQHA9bAR) | 3:19 | 2024-07-01 |  |
+| [cutlery](https://open.spotify.com/track/4iLrubzZy5aHfnvwjO7LI3) | [uki3](https://open.spotify.com/artist/6G1uy0nAElYhcS94PecPw1) | [cutlery](https://open.spotify.com/album/6q2Uzkl1X4UrFOK5ikIrQi) | 3:58 | 2026-03-12 |  |
 | [DAI DAI DAI KIRAI](https://open.spotify.com/track/5IHJVTiUEkaTQYH1tibQVu) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [DENNOSTALGIA](https://open.spotify.com/album/1wWe5h0pGEdpybC4sqri4Z) | 3:14 | 2025-11-24 |  |
 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2023-11-20 |  |
 | [Dance In The Game](https://open.spotify.com/track/7kSYwyMv5dnc5aORNwZb15) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ZAQPOT](https://open.spotify.com/album/623vd5so8U7NFy7tFWmTgV) | 3:28 | 2023-10-07 |  |
@@ -261,6 +262,7 @@
 | [The Lovely Life](https://open.spotify.com/track/1QAarw72bgyVa9EJne2Iio) | [DenkiQujira](https://open.spotify.com/artist/6xUZkU9AXpZMJF4gLzUUyx) | [Dull\-Gray Metropolis](https://open.spotify.com/album/5tF2jSTk8sG2HMJSwGaP4w) | 3:15 | 2026-02-23 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2024-01-17 |  |
 | [Therefor you and me](https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll) | [si\-o](https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x) | [Tadano Best](https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE) | 3:00 | 2025-10-01 |  |
+| [Theseus](https://open.spotify.com/track/0sgN6Kxs3qqbTXkNDguzRm) | [髥莏](https://open.spotify.com/artist/6tOzIqlpQBKAFIqdhmTfiW) | [Theseus](https://open.spotify.com/album/7nISltBDHRMbfzk4jFSV6R) | 3:11 | 2026-03-12 |  |
 | [Thirst](https://open.spotify.com/track/50oR1TzouOhmvKsI5JSkyA) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:00 | 2026-01-17 |  |
 | [This Close](https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Memento Mori \(Expanded\)](https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg) | 3:19 | 2024-08-19 |  |
 | [Toge](https://open.spotify.com/track/11SRHDplDfjSEYgisBy6bp) | [Shinra\-Bansho](https://open.spotify.com/artist/0hvH9m3WODkzWWyW2gktx6) | [ARMAGEDDON](https://open.spotify.com/album/5UD8Yl63ARC5bAX2JXSLvN) | 4:01 | 2023-12-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,532 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,621 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 67 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
 | 68 | [INERTIA](https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Rei](https://open.spotify.com/artist/4CVs8ZjthgN0YuzXz7yXZ6) | [INERTIA](https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb) | 3:19 |
 | 69 | [アポリア](https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アポリア](https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo) | 3:50 |
-| 70 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
-| 71 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
+| 70 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
+| 71 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
 | 72 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 |
 | 73 | [まなざしは光](https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [まなざしは光](https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC) | 3:27 |
 | 74 | [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 |
@@ -86,25 +86,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 76 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 77 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
 | 78 | [VIVID VICE](https://open.spotify.com/track/4R6yPy83vDEZtwJsBavUfo) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [VIVID VICE](https://open.spotify.com/album/7fjE2Zl2tNBBidhNGlo7AS) | 3:05 |
-| 79 | [いらないもの](https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [いらないもの](https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl) | 3:05 |
+| 79 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 |
 | 80 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 |
-| 81 | [残酷な天使のテーゼ](https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/FLY ME TO THE MOON](https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9) | 4:05 |
+| 81 | [いらないもの](https://open.spotify.com/track/4CTkQljbP19RftsQVJ8oxv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [いらないもの](https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl) | 3:05 |
 | 82 | [LET'S JUST CRASH](https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [LET'S JUST CRASH](https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD) | 3:15 |
-| 83 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
-| 84 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
-| 85 | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 |
-| 86 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 |
+| 83 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
+| 84 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 |
+| 85 | [CHAINSAW BLOOD](https://open.spotify.com/track/3lUOzabhWYyRImRszpJGOU) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [CHAINSAW BLOOD](https://open.spotify.com/album/6vuTbUMzsnI0ThfnXc4Cjg) | 3:20 |
+| 86 | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか \(Acoustic ver.\)](https://open.spotify.com/album/1KUQXjdwhIHQGiV40UkILg) | 3:23 |
 | 87 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 |
-| 88 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
-| 89 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
+| 88 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
+| 89 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
 | 90 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 |
 | 91 | [HOWL](https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [HOWL](https://open.spotify.com/album/3srKYd89n0gITowdlh268j) | 3:11 |
 | 92 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 |
 | 93 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 |
 | 94 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 |
-| 95 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
+| 95 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
 | 96 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
-| 97 | [喜劇](https://open.spotify.com/track/6pllZAdgBf4QTcFUrF3DzL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [喜劇](https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB) | 3:50 |
+| 97 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 |
 | 98 | [CASANOVA POSSE](https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [CASANOVA POSSE](https://open.spotify.com/album/2xfq9tUp4QOlCGT6j4k0g9) | 4:00 |
 | 99 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 | 100 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: UNISON SQUARE GARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,571 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,573 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 14 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
 | 15 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 |
 | 16 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 |
-| 17 | [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 |
+| 17 | [Mountain Top](https://open.spotify.com/track/2tr9sMMnxzgqn8Nx7ccP8U) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Mountain Top](https://open.spotify.com/album/5AsGzzgbONQXNHwx8C8SA8) | 3:08 |
 | 18 | [It's Going Down Now](https://open.spotify.com/track/7ANv9zA5z0Nssv7GedrvV6) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [ペルソナ3 リロード オリジナル・サウンドトラック](https://open.spotify.com/album/61yqhb1UqGVI2TV7pO4Tb6) | 3:06 |
 | 19 | [灯を護る](https://open.spotify.com/track/0tu73VStd4PNxbF37Y6YSD) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [灯を護る](https://open.spotify.com/album/5kh25KxBQdiqOPOr05rxM3) | 3:33 |
 | 20 | [アダルトチックチルドレン](https://open.spotify.com/track/4szCibdelqTfe8XzGlBT8u) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/7yTWJUaWIAU0ERYbbTZXwr) | 3:02 |
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 26 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 27 | [スターダスト](https://open.spotify.com/track/6M410WEW7eCsU7z1BE3BJO) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [スターダスト](https://open.spotify.com/album/1r3xpfEzgqu4bXgeTfLwby) | 3:29 |
 | 28 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
-| 29 | [Rookies](https://open.spotify.com/track/3a6OZDaosgpHJaKDn5fBJU) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Rookies](https://open.spotify.com/album/1yS8JPw8shuUuc1hTMeB8u) | 3:26 |
+| 29 | [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 |
 | 30 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 |
-| 31 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
-| 32 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
+| 31 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 |
+| 32 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
 | 33 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 34 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 |
 | 35 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 38 | [FLASHBACK SYNDROME](https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [FLASHBACK SYNDROME](https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv) | 3:37 |
 | 39 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 | 40 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
-| 41 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
-| 42 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 |
+| 41 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 |
+| 42 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
 | 43 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
 | 44 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 |
 | 45 | [Harukamirai](https://open.spotify.com/track/2vDPSojrX4aL7aiCPD7kja) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Iroirotoiro](https://open.spotify.com/album/79V1HfDMIGhRzw4waum5cm) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 49 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 50 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
 
-Snapshot ID: `AAAAACS2tOB+aweNnBX2Xq6g1BI8dJOM`
+Snapshot ID: `AAAAAEG7RKIvVgasVCsXsxI64viZgw5n`

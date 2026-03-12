@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 295282,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
@@ -11722,7 +11722,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 253653,
       "name": "Carla's Song",
       "url": "https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo"
@@ -14364,7 +14364,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 194880,
       "name": "Dance No More",
       "url": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
@@ -28571,6 +28571,24 @@
     },
     {
       "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6"
       },
@@ -29302,7 +29320,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -49234,7 +49252,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -49486,7 +49504,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -56472,7 +56490,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -57810,7 +57828,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -59666,7 +59684,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -60957,6 +60975,24 @@
     },
     {
       "album": {
+        "name": "VISION (INTRO)",
+        "url": "https://open.spotify.com/album/0OPzdA2emA2UbB5FJGUmxz"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109441,
+      "name": "VISION (INTRO)",
+      "url": "https://open.spotify.com/track/1A6oUBSDedhEHOQ5500Sd7"
+    },
+    {
+      "album": {
         "name": "Visiting Hours",
         "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
@@ -61422,7 +61458,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/51tf2J1gGNLG0IIvLquE64"

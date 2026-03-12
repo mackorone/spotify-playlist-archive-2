@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  Yebba, Lloyiso,  Harry Styles, Mas Musiq, Ayra Starr and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,458 likes - 84 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,473 likes - 84 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

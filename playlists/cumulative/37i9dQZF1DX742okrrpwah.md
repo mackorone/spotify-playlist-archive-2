@@ -4,7 +4,7 @@
 
 > Harry Styles, Ayra Starr et Jennifer Lopez x David Guetta au top des nouveautés de la semaine !
 
-8,437 songs - 18 day 5 hr 25 min
+8,438 songs - 18 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7266,6 +7266,7 @@
 | [Terrible menteuse](https://open.spotify.com/track/1B40kNe9s7iLbXh43xAuCE) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Terrible menteuse](https://open.spotify.com/album/0fQFFJh9gtMSIoYB5libWM) | 3:33 | 2026-02-19 | 2026-02-27 |
 | [Terrou\-Bi](https://open.spotify.com/track/5WIxPUyr1aXo0vaMzJuYDQ) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M), [Iss 814](https://open.spotify.com/artist/5jjWuqXWea7SmWxUpEWC22) | [Terrou\-Bi](https://open.spotify.com/album/4gBWh8qRUimFfuZfuMHtVE) | 2:22 | 2025-08-28 | 2025-09-05 |
 | [Tes mots](https://open.spotify.com/track/0CuDpL8gbXGClUkuNq5sJl) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Tes mots](https://open.spotify.com/album/3T6j3blJvzvcWMjEHmAiDV) | 2:44 | 2026-01-23 | 2026-01-30 |
+| [Tes yeux](https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Tes yeux](https://open.spotify.com/album/2e7oEqkFUprlaBjtw6LC6l) | 2:59 | 2026-03-05 |  |
 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 | 2025-08-07 | 2025-08-15 |
 | [Tete](https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Tete](https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2) | 2:43 | 2024-08-15 | 2024-08-23 |
 | [Texas](https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Texas](https://open.spotify.com/album/17VJHcUZKAcfT2xyrlSbJQ) | 3:08 | 2024-09-05 | 2024-09-13 |

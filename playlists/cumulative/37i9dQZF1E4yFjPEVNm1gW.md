@@ -2,7 +2,7 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Autumn!, Cuo Zay and more
+> With Yeat, Cuo Zay, Autumn! and more
 
 166 songs - 6 hr 38 min
 
@@ -109,7 +109,7 @@
 | [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 | 2026-02-10 |
 | [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
 | [No Luv](https://open.spotify.com/track/3DmSkzTtzNisgROnoIbw4I) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [No Luv](https://open.spotify.com/album/35HuNLOzxkWe7rtw8xu4Ur) | 2:17 | 2026-02-24 |  |
-| [NORTHSTAR88](https://open.spotify.com/track/14WHP0aGz1OimYzRJ2yHIJ) | [MEMPHISDAYTONA](https://open.spotify.com/artist/6NTHeTG08biHfIqVIsXMSl) | [NORTHSTAR88](https://open.spotify.com/album/07dckUO6rUCV3uw24WoHC8) | 3:17 | 2026-03-09 |  |
+| [NORTHSTAR88](https://open.spotify.com/track/14WHP0aGz1OimYzRJ2yHIJ) | [MEMPHISDAYTONA](https://open.spotify.com/artist/6NTHeTG08biHfIqVIsXMSl) | [NORTHSTAR88](https://open.spotify.com/album/07dckUO6rUCV3uw24WoHC8) | 3:17 | 2026-03-09 | 2026-03-12 |
 | [not enn a diss](https://open.spotify.com/track/3uqA4hsYPKP5uOWlHYBGBO) | [Taewitdak](https://open.spotify.com/artist/11hMddoHgub1AGz7APSTjF) | [not enn a diss](https://open.spotify.com/album/5dtJIvqX2O1XBbH3kRSFQL) | 1:21 | 2025-11-29 |  |
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 | 2025-12-20 |
 | [Off my Radar! \(2024\)](https://open.spotify.com/track/78Jy6aPmkDvJ3M7UnfJmnS) | [NV Man Man!](https://open.spotify.com/artist/24qegvIfxNIoImWf2iofdz) | [Off my Radar! \(2024\)](https://open.spotify.com/album/4YrRGajyPGemucDVQigEFD) | 1:51 | 2026-03-07 |  |
@@ -157,7 +157,7 @@
 | [Timing](https://open.spotify.com/track/4lYvUdBoCb9noVftU1IYHa) | [YTN Savvo](https://open.spotify.com/artist/4R2a8PfYkxkwNmu0JwJwXv) | [In My Element](https://open.spotify.com/album/3E5PptuEVqgDTGNJPsJtqk) | 2:50 | 2026-01-23 | 2026-01-25 |
 | [tinker](https://open.spotify.com/track/00c3RBneon5Py9uh2vytp1) | [Blackedy](https://open.spotify.com/artist/1KUAXExkHPbU9dtaqKwkK2), [Yeahitis](https://open.spotify.com/artist/3YPX8lFuokDe4HTZgkkiW5) | [tinker](https://open.spotify.com/album/0PzTmuHHOxLuBchuEjiNmf) | 1:56 | 2026-03-07 | 2026-03-10 |
 | [Tokyo Drift](https://open.spotify.com/track/6av4npT3aqya3VdgSsgarJ) | [Ronnie Caine](https://open.spotify.com/artist/4WVnDsM7TEE05xMG0D5gUn) | [I Cant Lose](https://open.spotify.com/album/0SpaqDTVmSq6idNQac0I5X) | 2:19 | 2026-01-06 | 2026-02-03 |
-| [Trifling](https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4) | [acleast](https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn) | [Trifling](https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e) | 3:31 | 2026-01-15 | 2026-03-05 |
+| [Trifling](https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4) | [acleast](https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn) | [Trifling](https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e) | 3:31 | 2026-01-15 |  |
 | [U A JOKE](https://open.spotify.com/track/6WzU2cE9u9m4PSCYIBIwPd) | [nnickyp](https://open.spotify.com/artist/2Tny36sUxlxvzw0mtwiHr7) | [The Blueprint](https://open.spotify.com/album/2Lf4vt3hubKi2Cc5E7zVXI) | 1:32 | 2026-02-18 | 2026-02-21 |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |
 | [vetements jeans](https://open.spotify.com/track/3BQZLM6vMQWWZwMcx3kWeu) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [Denizlpsevv](https://open.spotify.com/artist/4pgSIfKXAJIobPChLgCBC2), [lznvrse](https://open.spotify.com/artist/7sVaqWeaXYCptHiY4fflgD) | [vetements jeans](https://open.spotify.com/album/0fVUcJ8RZDBxRFQqNR9qJ9) | 2:30 | 2025-11-29 | 2025-12-11 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACYMGDyR9oc5CpqYfErQsGs",
+  "snapshot_id": "aa9fAAAAAAAKMOYi+m3SkinJpmd6q9k4",
   "tracks": [
     {
       "added_at": null,
@@ -327,42 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no floor",
-        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
-      },
-      "artists": [
-        {
-          "name": "More Eaze",
-          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "limelight, illegally",
-      "url": "https://open.spotify.com/track/3RCPWiYeYt9M5BNe2vfh0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sentiment",
-        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 283509,
-      "name": "head",
-      "url": "https://open.spotify.com/track/1DyaeKJkMmcbZvD4jvb603"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/0MbPCtAJZVJmqGne38mQdF"
       },
@@ -383,6 +347,42 @@
       "duration_ms": 173000,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/37oNvv3Qqse1Hpj0MeSiDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sentiment",
+        "url": "https://open.spotify.com/album/0QhdOeubTOElMLAVK52uQu"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 283509,
+      "name": "head",
+      "url": "https://open.spotify.com/track/1DyaeKJkMmcbZvD4jvb603"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no floor",
+        "url": "https://open.spotify.com/album/4LRwW5laUnoamagLHKENzG"
+      },
+      "artists": [
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "limelight, illegally",
+      "url": "https://open.spotify.com/track/3RCPWiYeYt9M5BNe2vfh0t"
     },
     {
       "added_at": null,
@@ -459,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 104544,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Even The Horizon Knows Its Bounds",
         "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 521681,
       "name": "Even The Horizon Knows Its Bounds V",
       "url": "https://open.spotify.com/track/6BKq93fqzBDl0HrLRysn9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
-      },
-      "artists": [
-        {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 104544,
-      "name": "DOG",
-      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
+        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 360725,
+      "name": "Hacia el Vac\u00edo",
+      "url": "https://open.spotify.com/track/6bko8o63cURyCv6IE27Ela"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Even The Horizon Knows Its Bounds",
         "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 414113,
       "name": "Even The Horizon Knows Its Bounds VII",
       "url": "https://open.spotify.com/track/4XcaMtaGxeicOxCcoZSYSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ser\u00e1 Que Ahora Podremos Entendernos",
-        "url": "https://open.spotify.com/album/0wNC9N8RpCvzCo8I3YQ8K4"
-      },
-      "artists": [
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 360725,
-      "name": "Hacia el Vac\u00edo",
-      "url": "https://open.spotify.com/track/6bko8o63cURyCv6IE27Ela"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "a softer focus",
-        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 394386,
-      "name": "discrete (the market)",
-      "url": "https://open.spotify.com/track/6VbGoPL0B6BaR1FMjqkTdr"
+      "duration_ms": 210000,
+      "name": "viii",
+      "url": "https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+        "name": "a softer focus",
+        "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 54000,
-      "name": "iv",
-      "url": "https://open.spotify.com/track/6QPvrBOSfoKtPV9q2tNsbu"
+      "duration_ms": 394386,
+      "name": "discrete (the market)",
+      "url": "https://open.spotify.com/track/6VbGoPL0B6BaR1FMjqkTdr"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
       "duration_ms": 225765,
       "name": "nothing to dread",
       "url": "https://open.spotify.com/track/75LCHnJsoQmdO2FjDzLzZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 54000,
+      "name": "iv",
+      "url": "https://open.spotify.com/track/6QPvrBOSfoKtPV9q2tNsbu"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "viii",
-      "url": "https://open.spotify.com/track/2MU8lq5k3Rebay4tvQtlX6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "quilted lament",
         "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 201500,
       "name": "spiral branches",
       "url": "https://open.spotify.com/track/6WWDUkgLxrd3bIaJB1fqZo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "vi",
+      "url": "https://open.spotify.com/track/2qpPcILan5cv1ql3739g3c"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "vii",
-      "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "quilted lament",
         "url": "https://open.spotify.com/album/2ogzCBbtEUE7oR23z7RAwa"
       },
@@ -856,9 +856,25 @@
           "url": "https://open.spotify.com/artist/2uTkkIkIpbQu3JT0UF1K5C"
         }
       ],
-      "duration_ms": 69697,
-      "name": "kitchen duet",
-      "url": "https://open.spotify.com/track/6NWjdGPxASVhccpJl8c9w9"
+      "duration_ms": 338428,
+      "name": "sunday morning",
+      "url": "https://open.spotify.com/track/1y3ncUHQxY9lldcVALuald"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bloody Lady",
+        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "vii",
+      "url": "https://open.spotify.com/track/7xhdQtOMre3IOkKpPJF7Ga"
     },
     {
       "added_at": null,
@@ -912,9 +928,9 @@
           "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 144000,
-      "name": "vi",
-      "url": "https://open.spotify.com/track/2qpPcILan5cv1ql3739g3c"
+      "duration_ms": 198000,
+      "name": "ix",
+      "url": "https://open.spotify.com/track/0YBPjEDmouQZsaYeVsborr"
     },
     {
       "added_at": null,
@@ -936,25 +952,9 @@
           "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
         }
       ],
-      "duration_ms": 173497,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/6IiykhtRMTSvCl2fWAZVV1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bloody Lady",
-        "url": "https://open.spotify.com/album/679IsrVRhtAtuVh5E64CU4"
-      },
-      "artists": [
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 56000,
-      "name": "i",
-      "url": "https://open.spotify.com/track/7vF0dmVV28qC0zv4vqc4k1"
+      "duration_ms": 118286,
+      "name": "Sad Gondola",
+      "url": "https://open.spotify.com/track/7iqfr6tzyzTl1KKrrAk5MQ"
     }
   ],
   "unique_name": "This Is claire rousay",

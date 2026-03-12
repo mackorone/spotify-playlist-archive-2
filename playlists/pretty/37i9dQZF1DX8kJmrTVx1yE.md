@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 
 > Dale play, y que los temazos no paren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,565 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,580 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 | 10 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 |
 | 11 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 |
 | 12 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 |
-| 13 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
-| 14 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
+| 13 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
+| 14 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 | 15 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 |
 | 16 | [Quiénes Son?](https://open.spotify.com/track/52zunI6NmQaPyvgMpakfga) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 2:42 |
 | 17 | [Si Te Vas](https://open.spotify.com/track/7BiERLxbhwF9CZbuV8I62J) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Si Te Vas](https://open.spotify.com/album/5jVtPMqd1MJUuJyhcRKMQj) | 2:52 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 | 70 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
 | 71 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 72 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 73 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
-| 74 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
-| 75 | [Te regalo](https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Baute](https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp) | 2:49 |
+| 73 | [Te regalo](https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Baute](https://open.spotify.com/album/6IPD0w0Nlo5JE0A54GQEMp) | 2:49 |
+| 74 | [BICHOTA](https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [BICHOTA](https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y) | 2:58 |
+| 75 | [La Quiero A Morir](https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif) | [DLG](https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p) | [Lo Esencial](https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3) | 5:02 |
 | 76 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 77 | [Pasos de Gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
 | 78 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 |

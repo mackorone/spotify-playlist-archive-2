@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,265 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,297 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 44 | [Moments Of Pleasure \- 2011 Remastered Version](https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes](https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i) | 5:17 |
 | 45 | [Experiment IV \- Remastered 2025](https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:54 |
 | 46 | [Prelude \- 2018 Remaster](https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:25 |
-| 47 | [Snowflake](https://open.spotify.com/track/7o53vC5HqQpTBDzGTMNMzW) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 9:46 |
-| 48 | [Deeper Understanding \- 2018 Remaster](https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:45 |
+| 47 | [Deeper Understanding \- 2018 Remaster](https://open.spotify.com/track/0IYowUndxZq0g05YBz2f7H) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 4:45 |
+| 48 | [Snowflake](https://open.spotify.com/track/7o53vC5HqQpTBDzGTMNMzW) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 9:46 |
 | 49 | [Mná na hÉireann](https://open.spotify.com/track/0FceQXr3vhS0J3KnGwuBcp) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 2:56 |
 | 50 | [Aerial Tal \- 2018 Remaster](https://open.spotify.com/track/2n2D35EgoIHB2SCXOzlIjL) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:01 |
 
-Snapshot ID: `aa4NgAAAAABIF+aOy6ZBAch5m8An3Lez`
+Snapshot ID: `aa9fAAAAAAD7GymDOpcgG3LlfyqRwqbo`

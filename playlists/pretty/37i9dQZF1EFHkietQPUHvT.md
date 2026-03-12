@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 20 | [Perfect on Me](https://open.spotify.com/track/3aABZMfYArSNlD1muV1wsK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Perfect on Me](https://open.spotify.com/album/6y79bH31Bg9wxSeNRTl5WL) | 2:44 |
 | 21 | [Shalalala](https://open.spotify.com/track/3VcxdxVYcWvzvEXY9H3sht) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6eWcI671vlYco6sFjNGWJS) | 4:06 |
 | 22 | [Short Ride](https://open.spotify.com/track/12BQS3wg7tkb6HySjhxDHX) | [Lewis Fitzgerald](https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Short Ride](https://open.spotify.com/album/5GTjzOsKk8R250oKqgvmEg) | 2:49 |
-| 23 | [Love U in the Morning](https://open.spotify.com/track/7BpW1HOQwPaGhgWvb5pCuo) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/260wOGFQmUPEAALaIhvt0Q) | 2:44 |
-| 24 | [Somebody's Everything](https://open.spotify.com/track/30JDj5f2NPomuGZiUpn0jx) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Early Twenties Torture](https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8) | 3:23 |
+| 23 | [Somebody's Everything](https://open.spotify.com/track/30JDj5f2NPomuGZiUpn0jx) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Early Twenties Torture](https://open.spotify.com/album/6HNDL6my8XFprSf8KRwaf8) | 3:23 |
+| 24 | [Love U in the Morning](https://open.spotify.com/track/7BpW1HOQwPaGhgWvb5pCuo) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [Love U in the Morning](https://open.spotify.com/album/260wOGFQmUPEAALaIhvt0Q) | 2:44 |
 | 25 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 |
 | 26 | [Favourite Song](https://open.spotify.com/track/51Gpkl6MSosRyZD1OQPrmF) | [Tim Chadwick](https://open.spotify.com/artist/01xLuKvTWah7tIPATY3MfL) | [Favourite Song](https://open.spotify.com/album/1TWDDWs0gQV3YKnQSCbOgh) | 3:39 |
 | 27 | [Cherry Gum](https://open.spotify.com/track/1cUG4UvqGEWSMtSt2TvK1m) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Cherry Gum](https://open.spotify.com/album/4NC5vzI0hgh3c9t0bcr4KV) | 2:48 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHkietQPUHvT.md) - [plain]
 | 84 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 |
 | 85 | [Pieces](https://open.spotify.com/track/58pdFtaryYVwyHsjYDGw4W) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [Plimsoll Road](https://open.spotify.com/album/6S5eFUOBD9mToIr9iIW32u) | 3:56 |
 
-Snapshot ID: `AcLyngAAAAAZII8Ky21OLLEsapApHLL9`
+Snapshot ID: `AcL4AgAAAACVk2mA/xFIBsOOXw3deQlp`

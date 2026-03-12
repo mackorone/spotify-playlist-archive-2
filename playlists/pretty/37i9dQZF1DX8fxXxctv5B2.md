@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,669 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,708 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 64 | [Greyhound](https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Greyhound](https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx) | 3:46 |
 | 65 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 66 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
-| 67 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
-| 68 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
+| 67 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
+| 68 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 |
 | 69 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 |
 | 70 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
 | 71 | [Ready To Ride](https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh), [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Ready To Ride](https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB) | 3:41 |

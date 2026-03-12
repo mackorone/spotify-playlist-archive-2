@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,254 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,269 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 26 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
 | 27 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 28 | [Keep On](https://open.spotify.com/track/7fZTnNUEZSWecuu1iYlobG) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Keep On / Operation](https://open.spotify.com/album/51pDBwHrfZ62Dq8XVjgXFF) | 4:08 |
-| 29 | [Solo](https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [Solo](https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX) | 3:06 |
-| 30 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
+| 29 | [Lovestruck](https://open.spotify.com/track/1pfleon3jOOvP1IPWOtt31) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv), [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [Lovestruck](https://open.spotify.com/album/5oEp7owVjPRCTKc4xBOr3H) | 3:30 |
+| 30 | [Solo](https://open.spotify.com/track/1YXp3qxCTdW2sw7xKjeGvG) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [Solo](https://open.spotify.com/album/1IMVxyvpjNg5hWCv7DU8KX) | 3:06 |
 | 31 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 32 | [imissthetimes](https://open.spotify.com/track/24fIb3TQ2uhY23caHh5Zi5) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [imissthetimes](https://open.spotify.com/album/6soiQc7YLffUhmPHzWbz7q) | 2:24 |
 | 33 | [Plain Sailing](https://open.spotify.com/track/5qZMdIYFvMPRw4Q0Z05zbL) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Plain Sailing](https://open.spotify.com/album/0NLuydOJrzo3WKoIgELNGu) | 4:05 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 36 | [Stop the time](https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Selfreflection](https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog) | 3:14 |
 | 37 | [ineedu](https://open.spotify.com/track/5v35hxyNPToBxF5vx737U8) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [ineedu](https://open.spotify.com/album/4CSGs0uGFhhmXsXOa4s2ms) | 2:25 |
 | 38 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
-| 39 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 |
-| 40 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
+| 39 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 |
+| 40 | [Devices](https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Devices / Green](https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm) | 5:10 |
 | 41 | [After](https://open.spotify.com/track/4Durwjt1E9NXXrpC29GPj6) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [After](https://open.spotify.com/album/0pHOZW4Q0dR7bexbUolLqk) | 4:01 |
 | 42 | [relieve the pressure](https://open.spotify.com/track/3sXyr8lIoQ71uk3Ns64epM) | [april27](https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi) | [The Electric Chair](https://open.spotify.com/album/68JvXdYlBGf73sxO35kQsC) | 3:52 |
 | 43 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 |

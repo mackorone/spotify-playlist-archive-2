@@ -2,7 +2,7 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Aarya
+> English songs from Indian artists<br/>Cover: Temsu Clover
 
 384 songs - 21 hr 56 min
 

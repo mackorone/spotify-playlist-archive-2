@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > The latest and greatest! Revive los éxitos latinos de los últimos meses.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,292 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,771 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 28 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 |
 | 29 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 30 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 |
-| 31 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |
-| 32 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 |
-| 33 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
-| 34 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 |
+| 31 | [TUCHAT](https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [TUCHAT](https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe) | 3:41 |
+| 32 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |
+| 33 | [AY MAMÁ](https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:43 |
+| 34 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 |
 | 35 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
 | 36 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 | 37 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 |

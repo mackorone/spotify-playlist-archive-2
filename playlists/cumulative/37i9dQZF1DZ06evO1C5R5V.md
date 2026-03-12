@@ -4,13 +4,13 @@
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 24 min
+87 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Esa Gran Velocidad](https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 5:35 | 2023-01-14 |  |
 | [A Esa Gran Velocidad](https://open.spotify.com/track/5uPFqmkyDLPqAUgzEWlfGm) | [Vista Point](https://open.spotify.com/artist/6GcedqINdaO2unhQdd81lL), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Esa Gran Velocidad](https://open.spotify.com/album/6aCHw9uQXaadhfe7TmTZL6) | 4:11 | 2023-03-28 | 2023-05-31 |
-| [A la Basura Se Va](https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:18 | 2023-01-14 |  |
+| [A la Basura Se Va](https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:18 | 2023-01-14 | 2026-03-12 |
 | [Aburrida la Vida](https://open.spotify.com/track/1DGuT7RBkhf2umc7YArWkM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 4:15 | 2023-05-30 |  |
 | [Aburrida la Vida](https://open.spotify.com/track/4BDHirGB8v0tcVWlNpiVvg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Aburrida la Vida](https://open.spotify.com/album/6tRNUlurd30gT4GrCFGhBj) | 6:03 | 2023-01-14 | 2023-05-31 |
 | [Acapulco Rock](https://open.spotify.com/track/6bZ7FtpxiN3gGUBw5f7ZKN) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acapulco Rock](https://open.spotify.com/album/4kKdCpKunuITYaZAMneEgW) | 3:02 | 2025-05-07 | 2025-05-31 |
@@ -69,6 +69,7 @@
 | [Presentación, Pt\. 2 \- En Vivo](https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 1:00 | 2023-01-14 | 2024-05-07 |
 | [Puedes Decir](https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu) | 3:09 | 2024-01-06 | 2025-05-07 |
 | [Puedes Decir](https://open.spotify.com/track/5vnDhoFEOXK3UKbyBn7PLK) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Volviendo a Casa](https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf) | 3:09 | 2023-01-14 | 2024-01-07 |
+| [Purgante \- Reprise](https://open.spotify.com/track/2Uly9utUf2DhbA9zTZJIMq) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 0:42 | 2026-03-12 |  |
 | [Purgante de Amor](https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 2:37 | 2023-01-14 |  |
 | [Rebel Blues](https://open.spotify.com/track/3fWnWeIoR1WDqh1ZjxTnbf) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 3:16 | 2023-01-14 | 2023-05-31 |
 | [Saber Amar](https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capela, Vol\. 1 \(Canciones para Escuchar\)](https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE) | 3:14 | 2023-01-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 265179,
+  "num_followers": 265189,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAC50u2qqEAfFyEhW9s4Gm5q",
+  "snapshot_id": "aa9fAAAAAABY8kbFxH3SHXgHHs8JTrWz",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "USB",
         "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 226666,
       "name": "scared",
       "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Season 3",
-        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "Digits",
-      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
       "added_at": null,
@@ -771,30 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Slam the Door",
-      "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
@@ -815,6 +791,30 @@
       "duration_ms": 212658,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Language 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Slam the Door",
+      "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
     },
     {
       "added_at": null,

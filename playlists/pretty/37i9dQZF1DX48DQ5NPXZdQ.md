@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 
 > Su música, como ellos, es eterna\. José José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,688 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,716 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 8 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 9 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
 | 10 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
-| 11 | [Hopelessly Devoted To You \- From “Grease”](https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:05 |
-| 12 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
+| 11 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
+| 12 | [Hopelessly Devoted To You \- From “Grease”](https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:05 |
 | 13 | [Angie \- Remastered 2009](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 |
 | 14 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
 | 15 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 |
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48DQ5NPXZdQ.md) - [plain]
 | 41 | [No Discutamos](https://open.spotify.com/track/3kkkjHun0BfnpBZfiQJgfd) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 2:15 |
 | 42 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 43 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 |
-| 44 | [Oye Como Va](https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Anthology](https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3) | 4:32 |
-| 45 | [Eso Y Mas](https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:39 |
+| 44 | [Eso Y Mas](https://open.spotify.com/track/2KWQgEXc3ZzX6npPgIEqSB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Mas Alla Del Sol](https://open.spotify.com/album/1wRhBK4ubZMPanXtjFIi6V) | 2:39 |
+| 45 | [Oye Como Va](https://open.spotify.com/track/0rsmlyJFeb3qiGxmD3jjEw) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Anthology](https://open.spotify.com/album/0rgVSkoF34MLJkdtUdHLx3) | 4:32 |
 | 46 | [Nuestro Juramento](https://open.spotify.com/track/2dOF2NUuOkuxskCqYfKbUt) | [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [15 Años De Exitos](https://open.spotify.com/album/28b76Z4InvP9h1s0vnp9fL) | 3:15 |
-| 47 | [Si Nos Dejan](https://open.spotify.com/track/4QgdJycTYnqJCWEH4R4H1v) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Serie 20 Exitos](https://open.spotify.com/album/3EZFkmrWUcuu2DJHYSZN9e) | 2:24 |
-| 48 | [El Cantante](https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [A Man and His Music](https://open.spotify.com/album/4APSTYkAov6ukQr1ENEluP) | 10:23 |
+| 47 | [El Cantante](https://open.spotify.com/track/71zIC87s9J28LZZkg9e3T5) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [A Man and His Music](https://open.spotify.com/album/4APSTYkAov6ukQr1ENEluP) | 10:23 |
+| 48 | [Si Nos Dejan](https://open.spotify.com/track/4QgdJycTYnqJCWEH4R4H1v) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Serie 20 Exitos](https://open.spotify.com/album/3EZFkmrWUcuu2DJHYSZN9e) | 2:24 |
 | 49 | [Amor Chiquito](https://open.spotify.com/track/3UBu1v5SiusUctK44s3sLL) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [El Payasito de la Tele "Cepillin"](https://open.spotify.com/album/1jAFxGIOlZmcirweEwRkJW) | 2:32 |
 | 50 | [María Bonita](https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Serie Platino](https://open.spotify.com/album/3a3julBZ8GV0rUf7JYWOt1) | 3:20 |
 

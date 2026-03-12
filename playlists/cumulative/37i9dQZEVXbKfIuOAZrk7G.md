@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,807 songs - 10 day 14 hr 49 min
+4,809 songs - 10 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1979,7 +1979,7 @@
 | [I'll Be There](https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay) | 3:01 | 2024-11-16 | 2024-11-20 |
 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 | 2023-01-10 | 2023-01-17 |
 | [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting](https://open.spotify.com/album/4oCwYpB91xHHFEVlbcVOaR) | 2:52 | 2022-12-07 | 2023-01-11 |
-| [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 | 2025-12-22 |  |
+| [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 | 2025-12-22 | 2026-03-12 |
 | [I'll Change for You](https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:16 | 2026-03-01 | 2026-03-08 |
 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 | 2025-01-16 | 2025-01-26 |
 | [I'll Set The Table](https://open.spotify.com/track/2o9D6JJyb3oPuVkGdQj87I) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [For Amanda](https://open.spotify.com/album/41RBzKkpV4FNf6vRyZYUYi) | 2:49 | 2025-03-13 | 2025-03-25 |
@@ -2626,6 +2626,7 @@
 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-05-13 | 2024-06-05 |
 | [Massive](https://open.spotify.com/track/0oiv4E896TUTTeQU0cmIui) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 5:36 | 2022-07-13 | 2022-07-20 |
 | [Master Of Puppets](https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:35 | 2022-07-05 | 2022-07-26 |
+| [Mata Zyklek](https://open.spotify.com/track/5vAwtTz0syQ1Q86R1B3faz) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Mata Zyklek](https://open.spotify.com/album/2p9Yi27N32hFMo1IfTEQMo) | 6:09 | 2026-03-11 |  |
 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 | 2021-12-31 | 2022-02-16 |
 | [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 | 2023-05-30 | 2023-06-22 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-06-14 | 2022-06-22 |
@@ -3390,7 +3391,7 @@
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-11-12 | 2024-11-18 |
 | [Rain](https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52) | 3:28 | 2026-02-25 | 2026-03-04 |
 | [Rain](https://open.spotify.com/track/4nB3PH4337Y0ijVDUAgdPe) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Rain](https://open.spotify.com/album/5bulA2BytiRGenxeCYJGAb) | 3:28 | 2026-02-24 | 2026-02-26 |
-| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-11-11 |  |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-11-11 | 2026-03-12 |
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-07-20 | 2023-08-26 |
 | [Rainy Day People](https://open.spotify.com/track/1TZteKaf5z3P3i87jyB8jc) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 2:48 | 2023-05-04 | 2023-05-11 |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-09-09 | 2023-09-18 |
@@ -4006,6 +4007,7 @@
 | [Talk of the Town](https://open.spotify.com/track/26vIeRYFA2Nh56W4jfkjp5) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [USB](https://open.spotify.com/album/1Lhv9Fe2KRk0NW3I14HsVY) | 3:13 | 2025-12-13 | 2025-12-19 |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-10-01 | 2024-10-08 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-09-20 | 2022-09-28 |
+| [Tamebsz](https://open.spotify.com/track/04Ue04iTcYkmOBuJydnveM) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Vol.1](https://open.spotify.com/album/67AYhGt60AoJa1TVcn5lCn) | 7:56 | 2026-03-11 |  |
 | [Tangerine](https://open.spotify.com/track/1OowIk5KiP8vTOR1vVzCLG) | [Noah Richardson](https://open.spotify.com/artist/360NtdnCpSL0T7eyEphdWW) | [Tangerine](https://open.spotify.com/album/1We5ID5Mwq2AByT2kstXql) | 3:30 | 2024-01-23 | 2024-02-14 |
 | [Tant qu'on aura de l'amour](https://open.spotify.com/track/1guIrh1itHNqNZsnwkWz08) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [L'expédition](https://open.spotify.com/album/0c6jwYPgbVD2kuSQruxX6b) | 2:45 | 2023-11-20 | 2023-11-25 |
 | [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 | 2025-07-02 | 2025-07-09 |

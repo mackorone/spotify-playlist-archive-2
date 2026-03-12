@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,047 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,046 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 25 | [No Honour Among Thieves](https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:44 |
 | 26 | [Lazarus \(In the Wilderness\)](https://open.spotify.com/track/0QKkv1YGBqWAw4VzjzC1X0) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Streetcar](https://open.spotify.com/album/5lKrUDYLVWkzPxeDs48x5o) | 2:49 |
 | 27 | [Serpents in Solitude](https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:25 |
-| 28 | [Sunday Bloody Sunday](https://open.spotify.com/track/686ZsEtJzTwS9cDcrQkoBQ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Monsters](https://open.spotify.com/album/4pZcafB8p6eH2p5cs8ZaW4) | 4:24 |
+| 28 | [1% \- Live](https://open.spotify.com/track/5SSUh05MjQ3Us7I2pbleJF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours \(Live at Islington Academy, London, 2014\)](https://open.spotify.com/album/7jJa4Nv3fCxNb9vUv3cbnV) | 3:57 |
 | 29 | [Wrench](https://open.spotify.com/track/3pMrnjdNTIcT5thhMVazS5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Your History Is Mine: 2002\-2009](https://open.spotify.com/album/7eLjvOgusZTUPHeg35TUwe) | 2:31 |
-| 30 | [1% \- Live](https://open.spotify.com/track/5SSUh05MjQ3Us7I2pbleJF) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours \(Live at Islington Academy, London, 2014\)](https://open.spotify.com/album/7jJa4Nv3fCxNb9vUv3cbnV) | 3:57 |
+| 30 | [Sunday Bloody Sunday](https://open.spotify.com/track/686ZsEtJzTwS9cDcrQkoBQ) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Monsters](https://open.spotify.com/album/4pZcafB8p6eH2p5cs8ZaW4) | 4:24 |
 | 31 | [10 Scene Points to the Winner](https://open.spotify.com/track/0xZ6LaCRWAs3IZiLEmR1c5) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Escape Artists Never Die \(EW283CD\)](https://open.spotify.com/album/0hIICy37k8CO37mIuPbDkH) | 2:38 |
 | 32 | [Rules and Games](https://open.spotify.com/track/23YYBsifiIFoW4ifveAd2m) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:50 |
 | 33 | [Damned If You Do, Dead If You Don't](https://open.spotify.com/track/2vqvoXou424cxTKKpAGhTx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [The Young And Defenceless EP](https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89) | 3:29 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 45 | [Medicated](https://open.spotify.com/track/5YzLBe3IOcWlZLcqLFh5MM) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR) | 3:36 |
 | 46 | [Constant Illuminations](https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 2:58 |
 
-Snapshot ID: `aa4NgAAAAABMHW29haxh/xmZGEMeenxP`
+Snapshot ID: `aa9fAAAAAACeW9TxSfdBnez+nPlZGPvJ`

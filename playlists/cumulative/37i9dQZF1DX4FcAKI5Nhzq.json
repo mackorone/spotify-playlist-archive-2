@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: \uc6b0\uc8fc\uc18c\ub140 (WJSN))",
+  "description": "Future K-Pop hits! (Cover: AtHeart (\uc573\ud558\ud2b8))",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -3652,7 +3652,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 197000,
       "name": "BRUISE",
       "url": "https://open.spotify.com/track/5eYhUukI5PVCqSLOmO8Idq"
@@ -3982,6 +3982,24 @@
       "duration_ms": 194146,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/62PaY0S6h9UofRsMiesevo"
+    },
+    {
+      "album": {
+        "name": "Butterfly Doors",
+        "url": "https://open.spotify.com/album/0cE9QJeRkNDanugLRjX9d7"
+      },
+      "artists": [
+        {
+          "name": "AtHeart",
+          "url": "https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Butterfly Doors",
+      "url": "https://open.spotify.com/track/1U7iwruAyuD1lnsTzuYfY3"
     },
     {
       "album": {
@@ -4464,6 +4482,24 @@
       "duration_ms": 233666,
       "name": "Care for you",
       "url": "https://open.spotify.com/track/1e0WrO4w1FXr1n6wH71IlS"
+    },
+    {
+      "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
       "album": {
@@ -9276,7 +9312,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 209250,
       "name": "FOOL FOR YOU",
       "url": "https://open.spotify.com/track/7JyBsepDr7NTZsAjgQ2Cvc"
@@ -13628,7 +13664,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 184000,
       "name": "It Was Love",
       "url": "https://open.spotify.com/track/0unXYualX4sq5hwTXd6mFD"
@@ -20199,6 +20235,24 @@
     },
     {
       "album": {
+        "name": "SKINZ 1st Mini Album [SKINZ IS SKINZ]",
+        "url": "https://open.spotify.com/album/7FxJEXRrfsX80s8E3Tf3TW"
+      },
+      "artists": [
+        {
+          "name": "SKINZ (\uc2a4\ud0a8\uc988)",
+          "url": "https://open.spotify.com/artist/2cAsfUrYw6wZqLjQ0JBQW6"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Poison Ivy",
+      "url": "https://open.spotify.com/track/4p3WTsxsKj27mMwjooeypG"
+    },
+    {
+      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -22898,6 +22952,24 @@
       "duration_ms": 180484,
       "name": "ShaLala",
       "url": "https://open.spotify.com/track/7JSBM7BSHafBx7RwV5waxR"
+    },
+    {
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/1NXmaFakmg1i7vOpSH7ZwS"
+      },
+      "artists": [
+        {
+          "name": "Baby DONT Cry",
+          "url": "https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0kkqkpgbkLFpopZqPAH1CO"
     },
     {
       "album": {
@@ -25766,7 +25838,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 180000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/4Por0pRb3LvDDlLuQxXEfM"
@@ -29590,7 +29662,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 202000,
       "name": "XO, My Cyberlove",
       "url": "https://open.spotify.com/track/4fr8jAAeEw8CehOFoBdjqL"
@@ -29896,7 +29968,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 227000,
       "name": "You Are Spring",
       "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,546 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,545 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 38 | [Naiwna ja](https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Naiwna ja](https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz) | 2:20 |
 | 39 | [Angels' Share](https://open.spotify.com/track/1UNVWbwbIEnxElW8b0PTFL) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Angels' Share](https://open.spotify.com/album/2iTs57ox6KJn1IjuH3IMWl) | 2:40 |
 | 40 | [Nie mówię tak, nie mówię nie](https://open.spotify.com/track/35zrCdjDsVSuTvqjz1wrzA) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs), [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Nie mówię tak, nie mówię nie](https://open.spotify.com/album/3p5a6AcHEnFJS9Fl0EQMRd) | 2:39 |
-| 41 | [Póki Mam Ciebie](https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Póki Mam Ciebie](https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy) | 2:20 |
-| 42 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
+| 41 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
+| 42 | [Póki Mam Ciebie](https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Póki Mam Ciebie](https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy) | 2:20 |
 | 43 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 |
 | 44 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
 | 45 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 54 | [mario](https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [mario](https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID) | 2:45 |
 | 55 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
 | 56 | [Miłość](https://open.spotify.com/track/2YnL8a427pWbqpD0MaDqN8) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Miłość](https://open.spotify.com/album/0MJEPm7El9dzvZ6pbgGojG) | 2:56 |
-| 57 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
-| 58 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
-| 59 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
-| 60 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
+| 57 | [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 |
+| 58 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
+| 59 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
+| 60 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
 
 Snapshot ID: `AAAAAC8plM/0wy92xudwUZaOegY3jfKX`

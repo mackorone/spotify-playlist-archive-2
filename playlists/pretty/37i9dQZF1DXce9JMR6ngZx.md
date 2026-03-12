@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,895 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,919 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 34 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
 | 35 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 36 | [Tempo Perdido](https://open.spotify.com/track/7MnT7msJZg3XBAS0OTfGrB) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 5:02 |
-| 37 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
-| 38 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 |
+| 37 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 |
+| 38 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 39 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 40 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 |
 | 41 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 64 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
 | 65 | [New Sensation](https://open.spotify.com/track/2xcrseImDFEf8Urommws03) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 3:40 |
 | 66 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 |
-| 67 | [Eduardo E Mônica](https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:31 |
-| 68 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 |
+| 67 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 |
+| 68 | [Eduardo E Mônica](https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Dois](https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn) | 4:31 |
 | 69 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 |
 | 70 | [Heart Of Glass \- Special Mix](https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:35 |
 | 71 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 92 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |
 | 93 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
 | 94 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
-| 95 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
-| 96 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 95 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
+| 96 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
 | 97 | [Que Pais É Este](https://open.spotify.com/track/1bqRtNOcT1QiV1j87IoATA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 2:58 |
 | 98 | [Tempos modernos \- Remasterizado em 2001](https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Tempos modernos \(2001 Remasterizado\)](https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp) | 4:17 |
 | 99 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 |

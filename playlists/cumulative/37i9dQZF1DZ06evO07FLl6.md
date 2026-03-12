@@ -4,7 +4,7 @@
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-60 songs - 4 hr 52 min
+61 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue](https://open.spotify.com/album/1weenld61qoidwYuZ1GESA) | 9:48 | 2025-07-20 |  |
 | [Get On \- Sentient Version](https://open.spotify.com/track/2CFOwoetNMZ83IN8oJIatO) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Paolo Rustichelli](https://open.spotify.com/artist/7wYQ8tcOhI6j5UxejVnOuD) | [Sentient](https://open.spotify.com/album/5S2j2NLZrW2MzY5bj7YvZY) | 4:05 | 2025-07-20 | 2025-08-31 |
 | [Générique \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:48 | 2025-07-20 |  |
-| [How Deep Is The Ocean](https://open.spotify.com/track/6sVmEdKCRYZUtJWUlPFF5x) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 4:40 | 2025-12-02 |  |
+| [How Deep Is The Ocean](https://open.spotify.com/track/6sVmEdKCRYZUtJWUlPFF5x) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 4:40 | 2025-12-02 | 2026-03-12 |
 | [Human Nature \(2022 Remaster\)](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 | 2025-07-20 | 2025-11-04 |
 | [I Fall In Love Too Easily](https://open.spotify.com/track/32YZWXNhOd70F19BZSU73w) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Seven Steps To Heaven \(Expanded Edition\)](https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO) | 6:43 | 2025-07-20 |  |
 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 | 2025-07-20 |  |
@@ -67,6 +67,7 @@
 | [Venus De Milo](https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Birth Of The Cool](https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf) | 3:12 | 2025-07-20 |  |
 | [Violets \(feat\. Phonte\)](https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:23 | 2025-07-20 |  |
 | [What's New](https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [A Day In Paris](https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU) | 3:39 | 2025-07-20 | 2025-11-10 |
+| [Will O' the Wisp](https://open.spotify.com/track/3lpRlIEa9gnUXFHjDgI97p) | [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ), [Manuel de Falla](https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Sketches of Spain](https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD) | 3:49 | 2026-03-12 |  |
 | [Yesterdays](https://open.spotify.com/track/5OQzdZpyPlkADNSDMUEr2U) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Blue Note And Capitol Recordings](https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz) | 3:46 | 2025-07-20 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

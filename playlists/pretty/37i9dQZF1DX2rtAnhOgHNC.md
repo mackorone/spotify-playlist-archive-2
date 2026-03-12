@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 
 > Los grandes éxitos de la década pasada, en México\. Carla Morrison en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,970 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,031 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2rtAnhOgHNC.md) - [plain]
 | 47 | [Amigos No por Favor \(Primera Fila\) \- En Vivo](https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 3:45 |
 | 48 | [Mi Persona Favorita](https://open.spotify.com/track/70fVcEP5pRrxaIICY3DcPe) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Otra Vida](https://open.spotify.com/album/3rpgokRsH2ZRK0yqrfOrSi) | 3:10 |
 | 49 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 |
-| 50 | [No Me Voy A Morir](https://open.spotify.com/track/5qTWewFdT4gI0hJet8HKJW) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Sueño Electro I](https://open.spotify.com/album/35O4GLVm6F2fa7uRjYdzK5) | 4:03 |
+| 50 | [Afortunadamente No Eres Tu](https://open.spotify.com/track/4Nsa9NZJweWZGU3VKUZmIU) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Afortunadamente No Eres Tu](https://open.spotify.com/album/74G5glSkk6ej2DAr2bmFl1) | 3:08 |
 
 Snapshot ID: `AAAAALhpfA+IYrQOB8aF1mnqiw/VflDY`

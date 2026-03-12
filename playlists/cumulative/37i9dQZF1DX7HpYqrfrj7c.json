@@ -1567,6 +1567,24 @@
     },
     {
       "album": {
+        "name": "Collateral / Sunset",
+        "url": "https://open.spotify.com/album/2EJVPFHib2E8BFgvKMTfCm"
+      },
+      "artists": [
+        {
+          "name": "Scientific",
+          "url": "https://open.spotify.com/artist/3e8OpWlbKBsKycsOzmoek1"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152328,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/1m6F75WGkBn4bXP8gLzui8"
+    },
+    {
+      "album": {
         "name": "Teekup",
         "url": "https://open.spotify.com/album/5UKLOWUIr7WXBmKHuq10yb"
       },

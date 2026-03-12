@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 137176,
+  "num_followers": 137175,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
+        "name": "\u00c1cido Sabor",
+        "url": "https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 210913,
+      "name": "\u00c1cido Sabor",
+      "url": "https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
         "name": "Malegr\u00eda",
         "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "\u00c1cido Sabor",
-        "url": "https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 210913,
-      "name": "\u00c1cido Sabor",
-      "url": "https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "Bellakosa",
         "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 173333,
       "name": "Bellakosa",
       "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -847,26 +847,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "La Respuesta",
         "url": "https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 168015,
       "name": "La Respuesta",
       "url": "https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU"
-      },
-      "artists": [
-        {
-          "name": "La Divaza",
-          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
         "name": "OJALA",
         "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
-        "name": "A La Playa",
-        "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "La Divaza",
+          "url": "https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM"
         }
       ],
-      "duration_ms": 193870,
-      "name": "A La Playa",
-      "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
+      "duration_ms": 163902,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2026-02-13 05:00:43",
       "album": {
+        "name": "A La Playa",
+        "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 193870,
+      "name": "A La Playa",
+      "url": "https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
         "name": "Todos Miran",
         "url": "https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx"
       },
@@ -1487,6 +1487,22 @@
       "duration_ms": 147222,
       "name": "Todos Miran",
       "url": "https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M"
+    },
+    {
+      "added_at": "2026-02-13 05:00:43",
+      "album": {
+        "name": "BELAMOR",
+        "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
+      },
+      "artists": [
+        {
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr"
     },
     {
       "added_at": "2026-02-13 05:00:43",
@@ -1507,22 +1523,6 @@
       "duration_ms": 184800,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB"
-    },
-    {
-      "added_at": "2026-02-13 05:00:43",
-      "album": {
-        "name": "BELAMOR",
-        "url": "https://open.spotify.com/album/6hdJeHwpdYLEZpMPLSKV22"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/2sD6GDoVsa55ZN58dwKhrr"
     },
     {
       "added_at": "2026-02-13 05:00:43",

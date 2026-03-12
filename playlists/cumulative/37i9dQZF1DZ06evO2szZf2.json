@@ -911,6 +911,36 @@
     },
     {
       "album": {
+        "name": "USB002 REMIXES",
+        "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        },
+        {
+          "name": "Menor Teteu",
+          "url": "https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Facilita - Mc Dricka remix",
+      "url": "https://open.spotify.com/track/4qSTJG11XjQKE6DSL0e2SS"
+    },
+    {
+      "album": {
         "name": "Faixa Rosa (feat. Mc Carol)",
         "url": "https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz"
       },
@@ -3960,7 +3990,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 166153,
       "name": "T\u00e1 Jogando Demais",
       "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"

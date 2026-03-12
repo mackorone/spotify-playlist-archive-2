@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 432739,
+  "num_followers": 432807,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAB8xWATTSZ6hRsfXM2jZgCw",
+  "snapshot_id": "aa9fAAAAAABIED+2XRQXM2nDNaqyHkRK",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+        "name": "High Times: Singles 1992-2006",
+        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
+      "duration_ms": 226613,
+      "name": "Runaway - Remastered 2006",
+      "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Times: Singles 1992-2006",
-        "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 226613,
-      "name": "Runaway - Remastered 2006",
-      "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
+      "duration_ms": 268800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 245573,
-      "name": "Goodbye To My Dancer",
-      "url": "https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK"
+      "duration_ms": 269946,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 269946,
-      "name": "Smoke and Mirrors",
-      "url": "https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt"
+      "duration_ms": 245573,
+      "name": "Goodbye To My Dancer",
+      "url": "https://open.spotify.com/track/4GkcuPPvU15cGnI6JDToZK"
     },
     {
       "added_at": null,

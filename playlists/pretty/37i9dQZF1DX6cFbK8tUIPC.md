@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,743 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,700 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 28 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 |
 | 29 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 |
 | 30 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 |
-| 31 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
-| 32 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
+| 31 | [Next to You](https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 4:16 |
+| 32 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
 | 33 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 |
 | 34 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
 | 35 | [Tonnta](https://open.spotify.com/track/3P9AM7Sm5DwwzGlTOwwCVl) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Reverie](https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8) | 2:44 |
 | 36 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
-| 37 | [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 |
-| 38 | [The Little Mess You Made](https://open.spotify.com/track/7m6v28coJpF6mr6LEHbmce) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:21 |
+| 37 | [The Little Mess You Made](https://open.spotify.com/track/7m6v28coJpF6mr6LEHbmce) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:21 |
+| 38 | [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 |
 | 39 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
 | 40 | [Georgia](https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 4:07 |
 | 41 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,498 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,534 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [No Me Pregunten](https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [No Me Pregunten](https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu) | 4:10 |
 | 50 | [Acá Entre Nos](https://open.spotify.com/track/4O6R59QSJoQlROItXrZcCe) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:55 |
 
-Snapshot ID: `aa4NgAAAAADOawYMoMogW9sRTleSovtN`
+Snapshot ID: `aa9fAAAAAADXcYN7bliFtiVLJJEBgC6a`

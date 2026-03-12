@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 > This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,316 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,325 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 44 | [Love Never](https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 2:54 |
 | 45 | [Heart Is Hard To Find](https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:18 |
 | 46 | [Claire](https://open.spotify.com/track/1bCXKWb5TTlhRgdrF3CUzW) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 3:39 |
-| 47 | [Damage](https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:07 |
-| 48 | [You With Me](https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 5:18 |
+| 47 | [You With Me](https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 5:18 |
+| 48 | [Damage](https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:07 |
 | 49 | [Beautiful Day With My Best Friend](https://open.spotify.com/track/39KqmdLSxGk7vcrR1oKB43) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/3LbmwW3awdE7P4wJillCEA) | 1:41 |
 | 50 | [Call It In The Air](https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 3:00 |
 
-Snapshot ID: `aa4NgAAAAAATuMNIqwkpvG3YVFVcqJzK`
+Snapshot ID: `aa9fAAAAAADHMinDRBfaO/DLY83S9Ekj`

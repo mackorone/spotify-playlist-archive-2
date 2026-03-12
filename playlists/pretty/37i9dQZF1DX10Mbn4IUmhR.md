@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Lloyiso
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,445 likes - 64 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,447 likes - 64 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 54 | [I want you to be happy](https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn) | [Ida Fiona](https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm) | [I want you to be happy](https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu) | 2:45 |
 | 55 | [Late Adolescence](https://open.spotify.com/track/5gewN6F0jBrEkvwVz8C2ac) | [Rhedi](https://open.spotify.com/artist/6i90MGejsqG2b8XgqDlTUI), [Chiddy Bang](https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU), [Young Chux](https://open.spotify.com/artist/0Wb7p2SqDf9Efet2UUhvjb) | [Elementary 2](https://open.spotify.com/album/0EfX9usYFZFjFP0c6vW50y) | 2:44 |
 | 56 | [Same Old](https://open.spotify.com/track/51oVvelyF8dLbqLjRWFqUS) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Same Old](https://open.spotify.com/album/7M3UFrc2dAvisOoCWCb0wp) | 3:30 |
-| 57 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
-| 58 | [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 |
+| 57 | [Don't Call Me Up](https://open.spotify.com/track/6aVIwFUO8Ntmsr7Qt90Dca) | [Mieke Chapman](https://open.spotify.com/artist/7HPKblSu4ldDmPoqeueCDw) | [Don't Call Me Up](https://open.spotify.com/album/50Q7z29qN7csmFqx3cu3Cg) | 3:05 |
+| 58 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
 | 59 | [WHAT'S THE RUSH?!](https://open.spotify.com/track/5Jo9RFIQWZXY682HvFWfm8) | [Ben Reid](https://open.spotify.com/artist/6wUYOcYx5JgoO2vXxEkD3J) | [WHAT'S THE RUSH?!](https://open.spotify.com/album/1BHfQrNy4CylV4MwZsWJxR) | 3:20 |
 | 60 | [THE GOOD LIFE](https://open.spotify.com/track/7hnNvjDcXTTf7Jx2Z9bB2S) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [THE GOOD LIFE](https://open.spotify.com/album/2H59dpijPa8ulFwZKquwRQ) | 2:46 |
 | 61 | [Late Beginnings](https://open.spotify.com/track/1xSF1rA2bnMl5z9MexHUfH) | [theNairobiNomad](https://open.spotify.com/artist/2tWbNgLqq5FAIN29T1v3k6), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP) | [Late Beginnings](https://open.spotify.com/album/6IumfasKisZ3fluUI79a3r) | 3:03 |

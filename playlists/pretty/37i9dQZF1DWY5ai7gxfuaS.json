@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 765,
+  "num_followers": 795,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "An Investigation Into Perceived Heaviness",
-        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
-      },
-      "artists": [
-        {
-          "name": "LIONFIGHT",
-          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heaviness",
-      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Oportunista",
         "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 188235,
       "name": "Oportunista",
       "url": "https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "An Investigation Into Perceived Heaviness",
+        "url": "https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt"
+      },
+      "artists": [
+        {
+          "name": "LIONFIGHT",
+          "url": "https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heaviness",
+      "url": "https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Fear Network II",
-        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
-      },
-      "artists": [
-        {
-          "name": "Ghostemane",
-          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
-        }
-      ],
-      "duration_ms": 87774,
-      "name": "Crash 'n Learn",
-      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "BLOODSUCKERS",
         "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 202693,
       "name": "Bloodsuckers",
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Fear Network II",
+        "url": "https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS"
+      },
+      "artists": [
+        {
+          "name": "Ghostemane",
+          "url": "https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW"
+        }
+      ],
+      "duration_ms": 87774,
+      "name": "Crash 'n Learn",
+      "url": "https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Salma Hayek",
-        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
-      },
-      "artists": [
-        {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
-        }
-      ],
-      "duration_ms": 219630,
-      "name": "Salma Hayek",
-      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "saw BONES",
         "url": "https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 147200,
       "name": "saw BONES",
       "url": "https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Salma Hayek",
+        "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 219630,
+      "name": "Salma Hayek",
+      "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
-      },
-      "artists": [
-        {
-          "name": "King Yosef",
-          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
-        }
-      ],
-      "duration_ms": 269265,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Demon Supreme",
         "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 211759,
       "name": "Demon Supreme",
       "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
+      },
+      "artists": [
+        {
+          "name": "King Yosef",
+          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
+        }
+      ],
+      "duration_ms": 269265,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Angel of History",
-        "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
-      },
-      "artists": [
-        {
-          "name": "Cryptodira",
-          "url": "https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Dante's Inspiration",
-      "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 386552,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "The Angel of History",
+        "url": "https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT"
+      },
+      "artists": [
+        {
+          "name": "Cryptodira",
+          "url": "https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Dante's Inspiration",
+      "url": "https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu"
     },
     {
       "added_at": "2024-07-19 10:51:43",

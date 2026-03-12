@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,683 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,698 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 2 | [House of Memories](https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:28 |
 | 3 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 |
 | 4 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 |
-| 5 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
+| 5 | [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 |
 | 6 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 |
 | 7 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off](https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:20 |
-| 8 | [New Perspective](https://open.spotify.com/track/5psEUJWeJU2BiOYyWdjgxZ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Jennifer's Body Music From The Original Motion Picture Soundtrack](https://open.spotify.com/album/6Fv4th1zIsXMvXDR5nvoox) | 3:47 |
+| 8 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
 | 9 | [The Greatest Show](https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [The Greatest Show](https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs) | 2:54 |
 | 10 | [LA Devotee](https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:16 |
 | 11 | [Nine in the Afternoon \- Single Mix](https://open.spotify.com/track/1S30kHvkkdMkcuCTGSgS41) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:11 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 44 | [Tonight, Tonight \- Live In Denver](https://open.spotify.com/track/3EUriaLkbmjzgedgY133T5) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live In Denver](https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL) | 4:06 |
 | 45 | [When the Day Met the Night](https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:53 |
 
-Snapshot ID: `aa4NgAAAAADJNf0tNwlfzwaZhXVv1nYx`
+Snapshot ID: `aa9fAAAAAADhcuQhPpdKp/udXAXBf8JG`

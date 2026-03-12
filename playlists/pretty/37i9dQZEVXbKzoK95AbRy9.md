@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,173 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,206 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [É Tudo Sobre Você / Ser Mudado \- Ao Vivo](https://open.spotify.com/track/1h0yBDChztCJRTqmI5U6ou) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Uma Só Voz \- Vol\. 01 \(Ao Vivo\)](https://open.spotify.com/album/1nvgIwTyHcYpxu5Xk6o0ZY) | 7:22 |
 | 50 | [Vagabundo](https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Vagabundo](https://open.spotify.com/album/2DsQiOZyalrytAD9Xi0IO8) | 3:27 |
 
-Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUTO6AAAAAAAAAAAAAAAAAAAAAAAAGVu`

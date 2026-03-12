@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 147197,
+  "num_followers": 147210,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 242584,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "C\u00e9u Azul",
         "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 208219,
       "name": "C\u00e9u Azul",
       "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 242584,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
-        "url": "https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 276870,
-      "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
-      "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+        "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
+        "url": "https://open.spotify.com/album/7Kj71cQBVCcqQtoJo1lce1"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+      "duration_ms": 276870,
+      "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
+      "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -559,6 +543,22 @@
       "duration_ms": 188863,
       "name": "Leve",
       "url": "https://open.spotify.com/track/0vARspjQ7NZqbFsbI2NqeI"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -819,8 +819,8 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -903,8 +903,8 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2025-10-25 00:54:25",

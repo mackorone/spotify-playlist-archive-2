@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Moln\u00e1r Tam\u00e1s",
-  "num_followers": 16321,
+  "num_followers": 16320,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
-        "name": "mindig szomor\u00fa",
-        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        },
-        {
-          "name": "Bark\u00f3czi No\u00e9mi",
-          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "mindig szomor\u00fa",
-      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
         "name": "\u00c9n is f\u00e9lek",
         "url": "https://open.spotify.com/album/6D8HS6hsngOhnI57IpEs8N"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 182307,
       "name": "\u00c9n is f\u00e9lek",
       "url": "https://open.spotify.com/track/7dKqTGA3UDcNvZjmGygjjB"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
+        "name": "mindig szomor\u00fa",
+        "url": "https://open.spotify.com/album/55JbMGfwZBDXVTU73vA2V7"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        },
+        {
+          "name": "Bark\u00f3czi No\u00e9mi",
+          "url": "https://open.spotify.com/artist/5adSMdxhX0VhydAkpiaOSc"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "mindig szomor\u00fa",
+      "url": "https://open.spotify.com/track/1SiknHrLImQSDrI8wskLva"
     },
     {
       "added_at": "2026-02-27 14:49:38",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
-        "name": "Hirtelen m\u00e9ly\u00fcl",
-        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
-      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
         "name": "Az a szerelem",
         "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 293888,
       "name": "Az a szerelem",
       "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
+        "name": "Hirtelen m\u00e9ly\u00fcl",
+        "url": "https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "S\u00d6RSEGG\u0170 L\u00c1NY",
+      "url": "https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s"
     },
     {
       "added_at": "2026-02-27 14:49:38",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
         "name": "LIQUORICE",
         "url": "https://open.spotify.com/album/2LlpJqTFPHAcUBNxC0rT1K"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 163124,
       "name": "LIQUORICE",
       "url": "https://open.spotify.com/track/6idjDMMV9TbJ1GdNLlvbn0"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2026-02-27 14:49:38",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
+        "name": "Any\u00e1.dal",
+        "url": "https://open.spotify.com/album/32lAY8wxj42G8x2eWgDgAk"
+      },
+      "artists": [
+        {
+          "name": "Mengyelejev",
+          "url": "https://open.spotify.com/artist/0gVykwcIxpAbirdqDPGpB5"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Any\u00e1.dal",
+      "url": "https://open.spotify.com/track/2T6Xy7ksxCL22GHKPJKjF1"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
         "name": "Dorodango",
         "url": "https://open.spotify.com/album/3SndELrZ85zlgPOJ0E69b0"
       },
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
-        "name": "Any\u00e1.dal",
-        "url": "https://open.spotify.com/album/32lAY8wxj42G8x2eWgDgAk"
-      },
-      "artists": [
-        {
-          "name": "Mengyelejev",
-          "url": "https://open.spotify.com/artist/0gVykwcIxpAbirdqDPGpB5"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Any\u00e1.dal",
-      "url": "https://open.spotify.com/track/2T6Xy7ksxCL22GHKPJKjF1"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
         "name": "B\u00e1natszalonna",
         "url": "https://open.spotify.com/album/25JxKgwNHEoyBApMyKEeWq"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
-        "name": "sz\u00f3lj (aranyh\u00edd)",
-        "url": "https://open.spotify.com/album/39kGCLUoKVFcmeiSjOoun4"
-      },
-      "artists": [
-        {
-          "name": "kristoaf",
-          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "sz\u00f3lj (aranyh\u00edd)",
-      "url": "https://open.spotify.com/track/7yDW67RLU93TVsXv177s8I"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
         "name": "\u00c1tv\u00e1ltoz\u00e1s",
         "url": "https://open.spotify.com/album/6hsZfiC88IGsjbFDVvJLM4"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 249660,
       "name": "\u00c1tv\u00e1ltoz\u00e1s",
       "url": "https://open.spotify.com/track/4TXdciIVbdeFwUxLC51bPs"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
+        "name": "sz\u00f3lj (aranyh\u00edd)",
+        "url": "https://open.spotify.com/album/39kGCLUoKVFcmeiSjOoun4"
+      },
+      "artists": [
+        {
+          "name": "kristoaf",
+          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "sz\u00f3lj (aranyh\u00edd)",
+      "url": "https://open.spotify.com/track/7yDW67RLU93TVsXv177s8I"
     },
     {
       "added_at": "2026-02-27 14:49:38",
@@ -1327,54 +1327,6 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
-        "name": "Porcel\u00e1n",
-        "url": "https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ"
-      },
-      "artists": [
-        {
-          "name": "Loophia",
-          "url": "https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Porcel\u00e1n",
-      "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
-        "name": "Ahogy szeretn\u00e9m",
-        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
-      },
-      "artists": [
-        {
-          "name": "KACAJ",
-          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
-        }
-      ],
-      "duration_ms": 214857,
-      "name": "Ahogy szeretn\u00e9m",
-      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
-        "name": "H\u00e9jan\u00e1sz",
-        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 188230,
-      "name": "H\u00e9jan\u00e1sz",
-      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
-    },
-    {
-      "added_at": "2026-02-27 14:49:38",
-      "album": {
         "name": "Aludn\u00e9k (de nem lehet)",
         "url": "https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl"
       },
@@ -1395,26 +1347,66 @@
     {
       "added_at": "2026-02-27 14:49:38",
       "album": {
-        "name": "Bankrabl\u00e1s",
-        "url": "https://open.spotify.com/album/4OXl5TYwHqNwdch4brmBHC"
+        "name": "Ahogy szeretn\u00e9m",
+        "url": "https://open.spotify.com/album/47j1yyZE2sG0zA3e8acnBX"
       },
       "artists": [
         {
-          "name": "Szabikeyz",
-          "url": "https://open.spotify.com/artist/7cyFxt9SpkC7aQb8yULboZ"
-        },
-        {
-          "name": "Juh\u00e1sz Zoli",
-          "url": "https://open.spotify.com/artist/07aNeZApbFflKJYHiRZLGS"
-        },
-        {
-          "name": "4ma",
-          "url": "https://open.spotify.com/artist/61NzhhZc18XgC6318Da9dX"
+          "name": "KACAJ",
+          "url": "https://open.spotify.com/artist/22wQeUstQZ5bIcKicI153D"
         }
       ],
-      "duration_ms": 235636,
-      "name": "Bankrabl\u00e1s",
-      "url": "https://open.spotify.com/track/2ZcDOGrbHZZrbD3JtbtpGt"
+      "duration_ms": 214857,
+      "name": "Ahogy szeretn\u00e9m",
+      "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
+        "name": "Porcel\u00e1n",
+        "url": "https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ"
+      },
+      "artists": [
+        {
+          "name": "Loophia",
+          "url": "https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Porcel\u00e1n",
+      "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+    },
+    {
+      "added_at": "2026-02-27 14:49:38",
+      "album": {
+        "name": "Senki m\u00e1s",
+        "url": "https://open.spotify.com/album/65buXPxydHN1dE0bYUlfFC"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Senki m\u00e1s",
+      "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
     }
   ],
   "unique_name": "Nemazapop",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 126695,
+  "num_followers": 126702,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "Voy Pa All\u00e1",
+        "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
+      },
+      "artists": [
+        {
+          "name": "Semblanzas del Rio Guapi",
+          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Bogando",
+      "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Ac\u00fastico en Paraguay (En Vivo)",
         "url": "https://open.spotify.com/album/4yspRKo0YaXP6MwxK1OaFV"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 248164,
       "name": "Si T\u00fa Te Vas - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/4OTFNviyg8qHuASnJX0O9S"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "Voy Pa All\u00e1",
-        "url": "https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4"
-      },
-      "artists": [
-        {
-          "name": "Semblanzas del Rio Guapi",
-          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Bogando",
-      "url": "https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo"
     },
     {
       "added_at": "2025-03-14 20:46:39",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "UNA CUMBITA",
+        "url": "https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Base",
+          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
+        }
+      ],
+      "duration_ms": 135157,
+      "name": "UNA CUMBITA",
+      "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Viernes De Pe\u00f1a",
         "url": "https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 203911,
       "name": "Viernes De Pe\u00f1a",
       "url": "https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
-        "name": "UNA CUMBITA",
-        "url": "https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az"
-      },
-      "artists": [
-        {
-          "name": "Qmbia Base",
-          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
-        }
-      ],
-      "duration_ms": 135157,
-      "name": "UNA CUMBITA",
-      "url": "https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ"
     },
     {
       "added_at": "2025-03-14 20:46:39",

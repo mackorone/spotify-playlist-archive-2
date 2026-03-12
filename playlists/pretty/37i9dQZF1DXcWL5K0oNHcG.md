@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Yetii\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,638 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,663 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 29 | [no fui yo](https://open.spotify.com/track/7asOvkIjiglWJJjKb8ATE4) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Anticuada](https://open.spotify.com/album/0vpGrf7OtmgtCOvxWjcyEv) | 1:42 |
 | 30 | [The Teacher \- Revisited](https://open.spotify.com/track/5LdWK4c9Zu5R5VI8yAK14x) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Teacher \(Revisited\)](https://open.spotify.com/album/18ITbuxyCg2telbJt4f7uG) | 6:07 |
 | 31 | [The Drumbledrone](https://open.spotify.com/track/563LFrcKou0FiKUaZ5nR0C) | [Emma Rawicz](https://open.spotify.com/artist/1lnfMuTAKnEVC5dLB4N0wl), [Gwilym Simcock](https://open.spotify.com/artist/6oXieOD3dHfCCmmy96W2eR) | [Big Visit](https://open.spotify.com/album/1rHjReNt80DP3nZGgsgrSn) | 6:39 |
-| 32 | [Bonds](https://open.spotify.com/track/4HJOa7TWVCO0T9zrB4TUDO) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Obey](https://open.spotify.com/artist/3LfwSfIGvAU8IsST3mEl7S), [Milye](https://open.spotify.com/artist/27KnUptbEwPYfjC1KMKK9P), [Fo1006](https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f), [Woojinee](https://open.spotify.com/artist/5VrBgtUUMPP1yGE6mIPUNu) | [Bonds](https://open.spotify.com/album/2GXIMdZn8jv2AHB9Ocb7Ad) | 3:32 |
+| 32 | [Bonds](https://open.spotify.com/track/4HJOa7TWVCO0T9zrB4TUDO) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Milye](https://open.spotify.com/artist/27KnUptbEwPYfjC1KMKK9P), [Fel Mont](https://open.spotify.com/artist/2u9EuWRv2cyDO5L3T5SuCO), [Fo1006](https://open.spotify.com/artist/6vG6QTcQ8olC5WZr41Bw0f), [Woojinee](https://open.spotify.com/artist/5VrBgtUUMPP1yGE6mIPUNu) | [Bonds](https://open.spotify.com/album/2GXIMdZn8jv2AHB9Ocb7Ad) | 3:32 |
 | 33 | [2 AM](https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9) | [magikAAAAArp](https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq) | [New Game Plus](https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd) | 3:42 |
 | 34 | [Sunbeam](https://open.spotify.com/track/5vSuRAa0BvbytTLeSJzKx2) | [Nitecap](https://open.spotify.com/artist/53GLdZwW98q3178jrRHogu), [Collin Miller & the Brother Nature](https://open.spotify.com/artist/5zbwJxPIe7maUt0t8LTUB6) | [Things of That Nature](https://open.spotify.com/album/2ibeABnUwOAxI8zNBp07xn) | 4:21 |
 | 35 | [Drive](https://open.spotify.com/track/3XeppK1Ja55D2FdyRKJgVG) | [Ofri Nehemya](https://open.spotify.com/artist/4OEpOrFsl6bCoXEPbF0rYX) | [Drive](https://open.spotify.com/album/5PFa6NUTgHV64U712umZq9) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Beauty Doesn't Know What It Looks Like](https://open.spotify.com/track/6F5He29YI85e8MLXVca4JO) | [Sarathy Korwar](https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk) | [Beauty Doesn't Know What It Looks Like / We Won't Go Searching](https://open.spotify.com/album/4aeK30hlYgkGq3cro2UR8x) | 2:56 |
 | 50 | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/track/7E7p8WNzhxaf3KKR3X8CKk) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy), [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/album/5TXFOOyKn1U79BRipgjurq) | 3:54 |
 
-Snapshot ID: `AAAAAPJQwCD0eSOaxuexz5e030YLNI9E`
+Snapshot ID: `AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0`

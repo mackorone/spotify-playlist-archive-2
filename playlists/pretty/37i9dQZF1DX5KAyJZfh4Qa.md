@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,358 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,381 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 39 | [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 |
 | 40 | [Weekend Fever](https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA) | [Nihilistic Easyrider](https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq) | [DELUXE EDITION](https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw) | 3:26 |
 | 41 | [Medina Ohio](https://open.spotify.com/track/3bpiG12mjNR0KGZZhtWjnP) | [McCafferty](https://open.spotify.com/artist/7s3OoIocX1gTOnEvCg2VV8) | [Medina Ohio](https://open.spotify.com/album/5Tz7YUNbcQr7F5KUxequvN) | 3:38 |
-| 42 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
-| 43 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
+| 42 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 |
+| 43 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
 | 44 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 |
 | 45 | [Dusty](https://open.spotify.com/track/6ixVpkrFvgd7EPVTLVXwwn) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Dusty](https://open.spotify.com/album/0aQlTOObqjOaKo7FYopRi5) | 2:33 |
 | 46 | [Because I Am My Own Dog](https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Lullabies for Dogs](https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk) | 3:43 |
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 57 | [Wisteria](https://open.spotify.com/track/00U358cDNH2xS9B1YTcE0b) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 4:52 |
 | 58 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
 | 59 | [Gardeners Rest](https://open.spotify.com/track/2TZHu7OhhJOIGgbhmy07Jd) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI) | [Gardeners Rest](https://open.spotify.com/album/4TnueZBqcDAUHRzLXcAEWN) | 2:56 |
-| 60 | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m) | 4:15 |
-| 61 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
-| 62 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
+| 60 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
+| 61 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
+| 62 | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/track/10dYa9nzrib15HF4Z0dMu0) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [winning the high school talent show didnt make me more confident like i thought it would](https://open.spotify.com/album/0YsUvXxQwssOCVqNS7007m) | 4:15 |
 | 63 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 64 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 65 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |

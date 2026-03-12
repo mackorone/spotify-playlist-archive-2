@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,681 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,755 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 55 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
 | 56 | [Mi Potrillo](https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw) | [Banda Alta Potencia](https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2) | [Mi Potrillo](https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT) | 3:30 |
 | 57 | [Caballo Patas Blancas](https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb) | [Los Donneños](https://open.spotify.com/artist/7b8TcyHOg1IKmDduDx3nmT) | [Corridos de Caballos Famosos](https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH) | 4:01 |
-| 58 | [Ranchero Y Gallardo](https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0) | 2:14 |
-| 59 | [El Caballo de Mi Padre](https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Caballo de Mi Padre](https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI) | 3:21 |
+| 58 | [El Caballo de Mi Padre](https://open.spotify.com/track/34mSoUrzLEASYlAphqLdoe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Caballo de Mi Padre](https://open.spotify.com/album/3F8eGBvmfsMQ9659Ju5uWI) | 3:21 |
+| 59 | [Ranchero Y Gallardo](https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0) | 2:14 |
 | 60 | [Manuel Juarez](https://open.spotify.com/track/42RbwgUrgljhwMM3ZWMYJn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora \(Vol\. 3\)](https://open.spotify.com/album/7L7ikrl8D5MM1xfi76KI2q) | 4:38 |
 | 61 | [El Muchacho y el Potro](https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Dos Coronas a Mi Madre](https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1) | 3:13 |
 | 62 | [Potro Lobo Gateado](https://open.spotify.com/track/1Ks8NK7LDMjOMEc26rithO) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/7mDCXj1j5QoxnJxK6Bk6MJ) | 4:38 |

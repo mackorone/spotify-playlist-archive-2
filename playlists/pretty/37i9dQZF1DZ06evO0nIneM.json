@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93419,
+  "num_followers": 93422,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAAADJ6A7mbjyGy88iqhFk0C",
+  "snapshot_id": "aa9fAAAAAABhCa0+MI7i+bCUss70TZst",
   "tracks": [
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+        "name": "Alles Is Liefde",
+        "url": "https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 225266,
-      "name": "Ze Is Er Niet",
-      "url": "https://open.spotify.com/track/6V6Q7mwxQ5j1MryBuoJ8FJ"
+      "duration_ms": 209755,
+      "name": "Alles Is Liefde",
+      "url": "https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alles Is Liefde",
-        "url": "https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ"
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 209755,
-      "name": "Alles Is Liefde",
-      "url": "https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A"
+      "duration_ms": 225266,
+      "name": "Ze Is Er Niet",
+      "url": "https://open.spotify.com/track/6V6Q7mwxQ5j1MryBuoJ8FJ"
     },
     {
       "added_at": null,
@@ -587,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Berlijn",
-        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
+        "name": "Omarm Me",
+        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
       },
       "artists": [
         {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         },
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 277053,
-      "name": "Meer Kan Het Niet Zijn",
-      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
+      "duration_ms": 232425,
+      "name": "Omarm Me",
+      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
     },
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm Me",
-        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
+        "name": "Radio Berlijn",
+        "url": "https://open.spotify.com/album/5QjzQDyPWc4R9vM5L6Reqq"
       },
       "artists": [
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 232425,
-      "name": "Omarm Me",
-      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
+      "duration_ms": 277053,
+      "name": "Meer Kan Het Niet Zijn",
+      "url": "https://open.spotify.com/track/0MJHuOJOkiNIGSXmch1z0l"
     },
     {
       "added_at": null,

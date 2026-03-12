@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 ### [Dancehall Throwback](https://open.spotify.com/playlist/37i9dQZF1DWWDLvD3P5wOG)
 
-> Throwbacks you can catch a wine to.
+> Throwbacks you can catch a whine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,813 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,986 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,22 +71,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 61 | [Dude](https://open.spotify.com/track/5XWjx5tHMsOI7BZh8wjeSu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [From Kingston To King Of The Dancehall: A Collection Of Dancehall Favorites](https://open.spotify.com/album/3DFVychHEHSGoVtzuFP2cQ) | 4:14 |
 | 62 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 |
 | 63 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
-| 64 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
+| 64 | [Things Mi Love](https://open.spotify.com/track/7ngQpwjJbosWoSd1S44Jbb) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Things Mi Love](https://open.spotify.com/album/6ZgEelUaADj0mfsJ8YoclI) | 3:26 |
 | 65 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
-| 66 | [Pon De River Pon De Bank](https://open.spotify.com/track/639uHIRkzBvJIb9MlXabh1) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Energy God \- The Very Best Of Elephant Man](https://open.spotify.com/album/5mGkSwbPSfYcrV6cxGAUcX) | 4:05 |
-| 67 | [Frenzy](https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Stays On My Mind](https://open.spotify.com/album/4SpMwzXhjDtumADkYXJvSd) | 3:37 |
-| 68 | [Summer Time](https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Vybz Kartel \- Colouring Book EP](https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh) | 2:44 |
-| 69 | [Settle Down \(Destiny\)](https://open.spotify.com/track/7v3cWjR0s7OGMwFUKNGxhy) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/7EtA6cQCbAhsPDN6eqp01J) | 3:09 |
+| 66 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
+| 67 | [Pon De River Pon De Bank](https://open.spotify.com/track/639uHIRkzBvJIb9MlXabh1) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Energy God \- The Very Best Of Elephant Man](https://open.spotify.com/album/5mGkSwbPSfYcrV6cxGAUcX) | 4:05 |
+| 68 | [Frenzy](https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Stays On My Mind](https://open.spotify.com/album/4SpMwzXhjDtumADkYXJvSd) | 3:37 |
+| 69 | [Summer Time](https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Vybz Kartel \- Colouring Book EP](https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh) | 2:44 |
 | 70 | [Get Busy](https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2003](https://open.spotify.com/album/76Ln6U1PHLVU8Zc10xXAnF) | 3:30 |
-| 71 | [Bedroom Bully](https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [IT \(Incomparable Talent\)](https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd) | 2:45 |
-| 72 | [Things Mi Love](https://open.spotify.com/track/7ngQpwjJbosWoSd1S44Jbb) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Things Mi Love](https://open.spotify.com/album/6ZgEelUaADj0mfsJ8YoclI) | 3:26 |
-| 73 | [Go Go Wine](https://open.spotify.com/track/0Ng68zezg2IpkGAKw7bRpw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Kingston Story: Deluxe Edition](https://open.spotify.com/album/5MGxvegnXOgkRlaAb7i0TZ) | 3:23 |
-| 74 | [Call Mi A Yardie](https://open.spotify.com/track/0U7sde9uRaGat6ZBtplHF6) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/7ufL2iHy3KiLPTpzqEXeLF) | 3:05 |
+| 71 | [Settle Down \(Destiny\)](https://open.spotify.com/track/7v3cWjR0s7OGMwFUKNGxhy) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/7EtA6cQCbAhsPDN6eqp01J) | 3:09 |
+| 72 | [Bedroom Bully](https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [IT \(Incomparable Talent\)](https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd) | 2:45 |
+| 73 | [Call Mi A Yardie](https://open.spotify.com/track/0U7sde9uRaGat6ZBtplHF6) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/7ufL2iHy3KiLPTpzqEXeLF) | 3:05 |
+| 74 | [Go Go Wine](https://open.spotify.com/track/0Ng68zezg2IpkGAKw7bRpw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Kingston Story: Deluxe Edition](https://open.spotify.com/album/5MGxvegnXOgkRlaAb7i0TZ) | 3:23 |
 | 75 | [Dutty Wine](https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Wine](https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv) | 3:03 |
-| 76 | [Ganja Farmer](https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX) | 3:56 |
-| 77 | [Gyal Bruk Out](https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [123 EP](https://open.spotify.com/album/483JiX4ZWY8w1TS2EyaaFM) | 2:41 |
+| 76 | [Gyal Bruk Out](https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [123 EP](https://open.spotify.com/album/483JiX4ZWY8w1TS2EyaaFM) | 2:41 |
+| 77 | [Ganja Farmer](https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX) | 3:56 |
 | 78 | [Kotch](https://open.spotify.com/track/3iUVSvuZ5LDJNztVjsOKiV) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch \- Single](https://open.spotify.com/album/32sdKebjCUVWU89Vz1E0VO) | 3:15 |
 | 79 | [Gal a Bubble \- Raw](https://open.spotify.com/track/2bvFZtQc3JbD5ZSA6cwvjq) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Gal a Bubble](https://open.spotify.com/album/78ye6DakWA48XtSsBDD86O) | 3:30 |
 | 80 | [Worthless Bwoy](https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Nah No Mercy \- The Warlord Scrolls](https://open.spotify.com/album/61skmM7sbrVaMEfyAYqVMG) | 2:42 |
 
-Snapshot ID: `AAAAAA55+FtoU7fz72bXO6udsn6AG09u`
+Snapshot ID: `AAAAADT0weFk7hei47i+D0mbwlXtGE3u`

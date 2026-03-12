@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 767,
+  "num_followers": 772,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFQ0ZE0T4pNA2SRaFl5tF2oWF+qF4E",
+  "snapshot_id": "AAAFSDBRtBmAvD11b7Gp/EHwI0ynXRxn",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1051,6 +1051,90 @@
       "duration_ms": 229879,
       "name": "Different Ways.",
       "url": "https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL"
+    },
+    {
+      "added_at": "2026-03-11 01:37:57",
+      "album": {
+        "name": "Mud Music",
+        "url": "https://open.spotify.com/album/5mXJWvL4cMaYobl6K0YUh2"
+      },
+      "artists": [
+        {
+          "name": "Until They Burn Me",
+          "url": "https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "The Artist",
+      "url": "https://open.spotify.com/track/7JYLpQZPFzAsWH0vKoDoAJ"
+    },
+    {
+      "added_at": "2026-03-11 01:41:52",
+      "album": {
+        "name": "Nerves of Steel",
+        "url": "https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j"
+      },
+      "artists": [
+        {
+          "name": "StainTown",
+          "url": "https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o"
+        }
+      ],
+      "duration_ms": 196304,
+      "name": "Nerves of Steel",
+      "url": "https://open.spotify.com/track/21heBobd16ggH4cfDKll9A"
+    },
+    {
+      "added_at": "2026-03-12 00:13:42",
+      "album": {
+        "name": "The Winter Sloths",
+        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "duration_ms": 217370,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ"
+    },
+    {
+      "added_at": "2026-03-12 00:47:32",
+      "album": {
+        "name": "Nada De Vos",
+        "url": "https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "duration_ms": 184438,
+      "name": "Nada De Vos",
+      "url": "https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO"
+    },
+    {
+      "added_at": "2026-03-12 00:54:01",
+      "album": {
+        "name": "Captured Live",
+        "url": "https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr"
+      },
+      "artists": [
+        {
+          "name": "The Steel",
+          "url": "https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY"
+        },
+        {
+          "name": "Wizard",
+          "url": "https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8"
+        }
+      ],
+      "duration_ms": 209136,
+      "name": "Take My Love - Live",
+      "url": "https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao"
     }
   ],
   "unique_name": "Unsigned Rock",

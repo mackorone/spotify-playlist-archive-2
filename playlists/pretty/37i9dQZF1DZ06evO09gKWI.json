@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABJdyQLT4fmbFY513+rbgpB",
+  "snapshot_id": "aa9fAAAAAAAhHZwLhWvkKdNWINC9Vw7m",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+        "name": "Origens",
+        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
       },
       "artists": [
         {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 163300,
-      "name": "Se Quiser S\u00f3 Vai",
-      "url": "https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U"
+      "duration_ms": 195097,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
     },
     {
       "added_at": null,
@@ -539,22 +535,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origens",
-        "url": "https://open.spotify.com/album/5HZSxTHV1Okqedi83jpnbG"
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
       "artists": [
         {
-          "name": "Edi Rock",
-          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
-        },
-        {
           "name": "Bivolt",
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 195097,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/0LjgRlaDaXcdinRJyGkpIS"
+      "duration_ms": 163300,
+      "name": "Se Quiser S\u00f3 Vai",
+      "url": "https://open.spotify.com/track/6EuqZJcP7TWPxEUDRavQ0U"
     },
     {
       "added_at": null,
@@ -876,13 +876,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 188437,
-      "name": "Essa Onda",
-      "url": "https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ"
+      "duration_ms": 166336,
+      "name": "Chef, Chef, Chef",
+      "url": "https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz"
     },
     {
       "added_at": null,
@@ -980,53 +980,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "Chef, Chef, Chef",
-      "url": "https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/3Oyr3gs5oIolpIoZW0TQVi"
-      },
-      "artists": [
-        {
-          "name": "Mr Break",
-          "url": "https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 269871,
-      "name": "Condi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3uNLAshZcg9ybuceymIln0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
           "name": "Nave",
           "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 156183,
-      "name": "Luiza Mel",
-      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
+      "duration_ms": 188437,
+      "name": "Essa Onda",
+      "url": "https://open.spotify.com/track/5JHDM8gvSfHRxVlGXTN8gJ"
     },
     {
       "added_at": null,
@@ -1051,6 +1011,26 @@
       "duration_ms": 160687,
       "name": "Ela",
       "url": "https://open.spotify.com/track/1xFt2EA1GMkU4vJfac124M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 156183,
+      "name": "Luiza Mel",
+      "url": "https://open.spotify.com/track/5GYUVMxUKKgPBBR18iFFci"
     },
     {
       "added_at": null,
@@ -1095,6 +1075,26 @@
       "duration_ms": 338274,
       "name": "SET DO ECOLOGYK 1.0",
       "url": "https://open.spotify.com/track/3IcsmbNAb1ez7a7hUc7XZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/3Oyr3gs5oIolpIoZW0TQVi"
+      },
+      "artists": [
+        {
+          "name": "Mr Break",
+          "url": "https://open.spotify.com/artist/1HhYGWmoTgSneUI79Z5gRf"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 269871,
+      "name": "Condi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3uNLAshZcg9ybuceymIln0"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Miyu Hansen Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: BENNET, Artwork: Isu Kim
 
-1,615 songs - 3 day 18 hr 1 min
+1,618 songs - 3 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,7 +641,7 @@
 | [Hide and Peak](https://open.spotify.com/track/10pnX71sFeDJZpBQvD83CW) | [MATONDO](https://open.spotify.com/artist/4wLcJ0gkSmc381jcHAEjxt) | [COMPLEX I](https://open.spotify.com/album/0VyoeAVms2S9Z2DTQlkntt) | 1:40 | 2023-06-28 | 2024-01-04 |
 | [Hide And Seek](https://open.spotify.com/track/3O7p4Q0e63OjkpD4dU7sjp) | [DIMILA](https://open.spotify.com/artist/1X7kdGnTbsIDXSDMYYpXI7) | [Hide And Seek](https://open.spotify.com/album/1KHPuMuMIVVXtJalNjkaVi) | 3:17 | 2023-04-05 | 2023-06-29 |
 | [Hide And Seek](https://open.spotify.com/track/3dmroJ1MVOD4JzVOzf1oxe) | [Josh Byrd](https://open.spotify.com/artist/03xvSzcyf45LgRL1j7ldBJ) | [Hide And Seek](https://open.spotify.com/album/0N20M3CmqLdf1ohsDJriWn) | 3:28 | 2023-03-08 | 2024-01-04 |
-| [Hier mit dir](https://open.spotify.com/track/5pC41zL2OyU6ajPbT5Cja4) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [Hier mit dir](https://open.spotify.com/album/6YB6YVneRmgx2zzAtXz5FB) | 2:58 | 2025-11-12 |  |
+| [Hier mit dir](https://open.spotify.com/track/5pC41zL2OyU6ajPbT5Cja4) | [ELA](https://open.spotify.com/artist/4L3QRSecSDcMsyJ6AuDcqb) | [Hier mit dir](https://open.spotify.com/album/6YB6YVneRmgx2zzAtXz5FB) | 2:58 | 2025-11-12 | 2026-03-12 |
 | [High Again](https://open.spotify.com/track/6suMLfjKlzmYgPb5SiV0Rs) | [Coucou Babe](https://open.spotify.com/artist/64oYZ9wab5dkE4IrGVwPz0) | [High Again](https://open.spotify.com/album/4eLCLiwRIQGAqMUk1VRafi) | 3:29 | 2023-01-04 | 2024-01-04 |
 | [High Expectations](https://open.spotify.com/track/6Itg1Mx1mNAUVaSS7Q3LmS) | [Mimi](https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif) | [High Expectations](https://open.spotify.com/album/22du9HwMI8OBYb30fGFiRJ) | 2:49 | 2023-11-22 | 2024-02-15 |
 | [High Performer](https://open.spotify.com/track/15EcrhVEc5zpWPgG5m7u5k) | [Vogrin](https://open.spotify.com/artist/0xiO7Unki26zr9EWVezyj3) | [High Performer](https://open.spotify.com/album/11DV7zpC4KNuUVm7qKHl5s) | 2:58 | 2025-11-05 | 2026-02-13 |
@@ -755,6 +755,7 @@
 | [Jeden Tag](https://open.spotify.com/track/1XglgN350hjk3Ermt2RElS) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Jeden Tag](https://open.spotify.com/album/2eleZ2TnP62ssipTw6PXQ5) | 2:17 | 2022-04-20 | 2022-05-12 |
 | [Jemand der vermisst](https://open.spotify.com/track/4jEU06FcMNZO89VxE7FDGa) | [SHIMMER.](https://open.spotify.com/artist/1z0aR4prJcIq4u9AyYRuBL) | [Jemand der vermisst](https://open.spotify.com/album/5yKlA0FfXHMUbSnmqQXTSf) | 3:23 | 2023-10-25 | 2024-02-08 |
 | [Jessiwhat](https://open.spotify.com/track/0tUwFlK44pv6GDwXCmK0DD) | [Jessiquoi](https://open.spotify.com/artist/3vwTFXjZQqcFhvwefeFaSB) | [Jessiwhat](https://open.spotify.com/album/1WoYKgdRneKdUxSVggUhbx) | 3:06 | 2023-05-24 | 2023-06-08 |
+| [jetzt und hier](https://open.spotify.com/track/3P8JqGTeBAdEmYmE2tYZy3) | [ENYA BOBAN](https://open.spotify.com/artist/6coyoepdk8cngGloJADii6) | [jetzt und hier](https://open.spotify.com/album/4uMyXcbnc9FzDHNeLjTJOG) | 3:16 | 2026-03-11 |  |
 | [John Stamos](https://open.spotify.com/track/1zCvb6GfVWu8yITp0eUN8v) | [Carl Schilde](https://open.spotify.com/artist/5Q8NqHhDLpbrTxyIrbNhFb) | [Europop](https://open.spotify.com/album/6OTKBvjeHGtlSHzWaPk73m) | 3:48 | 2022-02-09 | 2022-02-24 |
 | [Jona](https://open.spotify.com/track/4jbP7IHZ4v6BnpVz6i4GT1) | [Penny Arcade](https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe) | [Backwater Collage](https://open.spotify.com/album/461MmPwDWg1kCu9MR2opz3) | 3:13 | 2024-12-04 | 2025-01-10 |
 | [Jona](https://open.spotify.com/track/7dJ4WXrjst71fFyaAysbD5) | [Penny Arcade](https://open.spotify.com/artist/2LccQibLSite2i1EB1QRxe) | [Jona](https://open.spotify.com/album/2DVNB1JixiCfPYV5UCMFdb) | 3:13 | 2024-01-24 | 2024-06-27 |
@@ -1403,7 +1404,7 @@
 | [The Trap](https://open.spotify.com/track/42x6wBHYjVFcU3a8VJK718) | [AFAR](https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ), [Laut & Luise](https://open.spotify.com/artist/2AfR24rIhReKAoUrxR8Bea) | [The Trap](https://open.spotify.com/album/5k2P49yhcKqYSEYnKd3C7H) | 5:02 | 2023-07-26 | 2023-09-28 |
 | [The unreliable narrator](https://open.spotify.com/track/2SjWx4liuk1SAedgDMgZ0i) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [The unreliable narrator](https://open.spotify.com/album/6XgKlldxx6RYENrcPzNR1r) | 2:29 | 2023-10-11 | 2024-04-11 |
 | [The Weatherman](https://open.spotify.com/track/48slNMBWmhIdfuCUJm0SFN) | [Lorenz Ambeek](https://open.spotify.com/artist/46GDLDhFOJGtLNk9kR2v4t) | [The Weatherman](https://open.spotify.com/album/7mrpT7LGdiABOJ56j35G3y) | 4:01 | 2022-01-05 | 2022-02-24 |
-| [The Whole Shebang](https://open.spotify.com/track/5lO5ZvtMUbOObborKik1aO) | [Agassi](https://open.spotify.com/artist/4hwyUVEeFkzvnGJXyU0Qti) | [The Whole Shebang](https://open.spotify.com/album/5uF8ngdgJGwXssjHifQ27c) | 2:45 | 2025-09-10 |  |
+| [The Whole Shebang](https://open.spotify.com/track/5lO5ZvtMUbOObborKik1aO) | [Agassi](https://open.spotify.com/artist/4hwyUVEeFkzvnGJXyU0Qti) | [The Whole Shebang](https://open.spotify.com/album/5uF8ngdgJGwXssjHifQ27c) | 2:45 | 2025-09-10 | 2026-03-12 |
 | [The Whole Shebang](https://open.spotify.com/track/7hFj9T4Yaohgvm5GTCtYMs) | [Agassi](https://open.spotify.com/artist/4hwyUVEeFkzvnGJXyU0Qti) | [The Whole Shebang](https://open.spotify.com/album/0P1bCZ8WG56NDromEsr5va) | 2:45 | 2025-12-03 | 2026-01-15 |
 | [The Wiper](https://open.spotify.com/track/6S0eZIhC88aWtepgAzo5sI) | [Harvey Rushmore & the Octopus](https://open.spotify.com/artist/7mrAXYivr97fQvPoROjUGm) | [Freedomspacecake](https://open.spotify.com/album/06QP0yI5lEp7BkpNBUiV2E) | 2:57 | 2022-09-14 | 2023-01-12 |
 | [Theme](https://open.spotify.com/track/072WESirySllVZwIpbtNTY) | [Minju](https://open.spotify.com/artist/7LuJRgbeA8VCUqO0i6VlK6) | [Theme](https://open.spotify.com/album/54LHsjAXVvwCps17wOMGf1) | 7:00 | 2023-02-01 | 2023-03-23 |
@@ -1487,6 +1488,7 @@
 | [Verloren in Berlin](https://open.spotify.com/track/05Eo6hYyw9nwe0Z04avdfS) | [POLA](https://open.spotify.com/artist/0uykiUx30wWeZy2CnhfF4C) | [Verloren in Berlin](https://open.spotify.com/album/7jO9aznJamwUM9yks0xgV1) | 2:33 | 2025-11-19 |  |
 | [vermis](https://open.spotify.com/track/7LlnGj6eWF37IaJKOuZmfH) | [westermann](https://open.spotify.com/artist/3CpxEgAzIvRyjyzRM8pWAc) | [vermis](https://open.spotify.com/album/4bHNkhRUd2Mu5yc0UxeWlE) | 7:25 | 2024-06-05 | 2025-07-24 |
 | [Vermiss mich](https://open.spotify.com/track/6zx9I912i7PLQ4TIAlHkoZ) | [YAGUT](https://open.spotify.com/artist/3CLI0sgdbmUjLZ2GmrbnN6) | [Vermiss mich](https://open.spotify.com/album/4vbOK1LYHKPzWblVWGDWpA) | 2:30 | 2022-08-31 | 2022-09-15 |
+| [VERRÜCKT](https://open.spotify.com/track/13kk2zXspuafWXdH9v8it9) | [BENNET](https://open.spotify.com/artist/17TdNLofzzzDydX8ZjfLqq) | [VERRÜCKT](https://open.spotify.com/album/4cMIBvoDRoXG1DT6sFhJom) | 2:20 | 2026-03-11 |  |
 | [Verschwendete Jugend](https://open.spotify.com/track/2fLOGZGzzq6zWzeEuFvzKu) | [Rosenrausch](https://open.spotify.com/artist/6LLYzhQh2x8UvS6V0zoSAz) | [Verschwendete Jugend](https://open.spotify.com/album/6nQYDeIsx4ok45NVqWQ8Wl) | 2:07 | 2024-11-13 | 2025-04-03 |
 | [VERY SAD OPFERTYP](https://open.spotify.com/track/78E7hEa5130fVJMwQYCiO3) | [AUGN](https://open.spotify.com/artist/1kgwADR31NnmIwAfqffBo4) | [VERY SAD OPFERTYP](https://open.spotify.com/album/054y1HNR796eDAZsXbEMAn) | 2:47 | 2022-10-12 | 2023-03-09 |
 | [Viel zu Viel](https://open.spotify.com/track/15Il9jXN0LaUaRcmxh8fsL) | [Kopfkind](https://open.spotify.com/artist/0cQBSOHGJNRsengmet9HPc) | [Viel zu Viel](https://open.spotify.com/album/4jDkK1Jx9FOxB7gsZb224v) | 2:08 | 2025-09-10 | 2025-10-16 |
@@ -1529,7 +1531,7 @@
 | [Weaponized Ideas](https://open.spotify.com/track/3Ej4Noio8YNpBvSPKxJhhI) | [Vide Obscur](https://open.spotify.com/artist/6W0zjQHDYZkU1rbvzhe8AM) | [Weaponized Ideas](https://open.spotify.com/album/1aXb1g8t1SkJdaH5fLVjfH) | 4:14 | 2023-11-22 | 2024-02-08 |
 | [weg von dir](https://open.spotify.com/track/4VFxmehDknJ2DSBvPhEwHO) | [JALN](https://open.spotify.com/artist/6om7C5Mt7b0PtJPkTSbV3F) | [weg von dir](https://open.spotify.com/album/6WKosrHSSZztBw1pJCp0Io) | 2:51 | 2025-02-05 | 2025-02-20 |
 | [Wegen gestern](https://open.spotify.com/track/6rEiBWaTaFXMLowpAKQG1Z) | [tani](https://open.spotify.com/artist/3lleD7QBsjxoBNXDZ9EWkx) | [Wegen gestern](https://open.spotify.com/album/38tN9TQD2roMyWffZrmVPH) | 2:33 | 2025-07-23 | 2025-11-06 |
-| [wegfahren?](https://open.spotify.com/track/1ojHQEs8o48dutAuQ5ct1Z) | [SCHWERT](https://open.spotify.com/artist/6JZqHfaAdBke6x6vIeZlyC), [ARISTOMANE](https://open.spotify.com/artist/6kNLTIIrnEyDAIG6tABgso) | [wegfahren?](https://open.spotify.com/album/5umwwaDPEbQ44M64CgNlPj) | 2:33 | 2025-09-10 |  |
+| [wegfahren?](https://open.spotify.com/track/1ojHQEs8o48dutAuQ5ct1Z) | [SCHWERT](https://open.spotify.com/artist/6JZqHfaAdBke6x6vIeZlyC), [ARISTOMANE](https://open.spotify.com/artist/6kNLTIIrnEyDAIG6tABgso) | [wegfahren?](https://open.spotify.com/album/5umwwaDPEbQ44M64CgNlPj) | 2:33 | 2025-09-10 | 2026-03-12 |
 | [Weightless](https://open.spotify.com/track/3p1OaMB89QZTgO7UcVHblg) | [Emina Sonnad](https://open.spotify.com/artist/42x2L7eaYJd1j2nqyVzWmz), [Stephan Winter](https://open.spotify.com/artist/64C7BP8YbawFzAQz7GeLLv) | [Weightless](https://open.spotify.com/album/3biQ3VIzH8p3HirpaSKdlZ) | 3:00 | 2024-04-24 | 2024-10-24 |
 | [weinen im sommer](https://open.spotify.com/track/00ZHtUmnK5fgQLoKJivMTf) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu) | [weinen im sommer](https://open.spotify.com/album/0owCxv0zONKGPJKvIrtcdf) | 2:14 | 2025-09-10 | 2025-11-06 |
 | [Weit Weg](https://open.spotify.com/track/2le1MBo0VxHCa9kDM8fmrp) | [Haschio](https://open.spotify.com/artist/1W4OfRVHLJ4HoERvQrUmmM) | [Bitte Nicht / Weit Weg](https://open.spotify.com/album/7mt9KpxCtZj3YRNAcEBSJH) | 2:42 | 2023-03-08 | 2023-03-23 |
@@ -1591,6 +1593,7 @@
 | [Worth It](https://open.spotify.com/track/48g5nJtoHS4nwoJAXJYN5Q) | [Miss Sophy](https://open.spotify.com/artist/0eWBXmmeiJ0Z2Ue7HPmk1d) | [Naked](https://open.spotify.com/album/4jBzQ1FPyCESGbjygOnHer) | 3:16 | 2022-07-06 | 2022-07-28 |
 | [wozu](https://open.spotify.com/track/0IotItWNpsM4iuKqxPcJBo) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [wozu](https://open.spotify.com/album/6xLt2KL3QAY3gn92kpswz2) | 3:22 | 2023-07-05 | 2023-11-30 |
 | [Wrong With It](https://open.spotify.com/track/6OgIq8VLvlv9lJlu8eK8ug) | [Kirmont](https://open.spotify.com/artist/0ksAJkCLiR6U4wVFTAnUqn) | [Wrong With It](https://open.spotify.com/album/1JDHCXjrCfge13QEWmW720) | 3:26 | 2023-07-19 | 2023-09-14 |
+| [Wunsch im All](https://open.spotify.com/track/21ju4u7fJbdzRXDSfO9F21) | [Kresse 3](https://open.spotify.com/artist/57GQk5c7JIa9ABP097bOiZ) | [Wunsch im All](https://open.spotify.com/album/7hTu5KUsu0Zx6GPUgEcg21) | 4:13 | 2026-03-11 |  |
 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 | 2023-09-13 | 2024-01-04 |
 | [Xari](https://open.spotify.com/track/5qaqvD5nZtGxtny6qOVIbz) | [Sumo](https://open.spotify.com/artist/0kXNezohhv8UjG1hIzAPmr), [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Xari](https://open.spotify.com/album/5os47ea7Ti24JiWWKx2f3x) | 2:35 | 2022-09-21 | 2023-01-26 |
 | [Yellow Day](https://open.spotify.com/track/4dNJSviHhgKm24XieDLb8Z) | [Osta Love](https://open.spotify.com/artist/5CFXAItA9r3FHci6SsFFGf) | [Yellow Day](https://open.spotify.com/album/0iHYEKMtVnenb5vNjlBFNi) | 3:52 | 2024-05-08 | 2024-11-14 |

@@ -670,7 +670,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 278416,
       "name": "Afraid Of The Dark",
       "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
@@ -1669,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "1972-1980: The Very Best Of",
+        "url": "https://open.spotify.com/album/0kALoLxSuyw7STQklgiWPo"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/1gaxE1VJlnRacd2gtcdf1Z"
+    },
+    {
+      "album": {
         "name": "The Chris Rainbow Anthology",
         "url": "https://open.spotify.com/album/3uJ0vJKjo6059nVpcQGpLC"
       },
@@ -1698,7 +1716,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 240773,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 165000,
       "name": "Better without you",
       "url": "https://open.spotify.com/track/10AY1BJcHxOmy3X5zb37Bb"
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 138468,
       "name": "DON'T GO",
       "url": "https://open.spotify.com/track/5orSO1B3QM4WSKVSe47XwH"
@@ -4824,7 +4842,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -7140,7 +7158,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -8474,7 +8492,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 163753,
       "name": "JAAHAA",
       "url": "https://open.spotify.com/track/5BaBYz1YNroBj3V0v0oAb3"
@@ -9018,7 +9036,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 152195,
       "name": "Koffiepauze",
       "url": "https://open.spotify.com/track/5ej15hOxeeiwS542eGEfVY"
@@ -9492,6 +9510,24 @@
       "duration_ms": 144596,
       "name": "Let Him Go",
       "url": "https://open.spotify.com/track/7fvDXNMwfIDnvhTyMDROOp"
+    },
+    {
+      "album": {
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/1s8YhJRqFAcpcA5DoF1cQg"
+      },
+      "artists": [
+        {
+          "name": "The Second Voice",
+          "url": "https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "LET ME BE",
+      "url": "https://open.spotify.com/track/5HJVMb4sCeGiiHOwQeYO3j"
     },
     {
       "album": {
@@ -19458,7 +19494,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

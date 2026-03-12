@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: UNISON SQUARE GARDEN
 
-235 songs - 14 hr 40 min
+236 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2023-08-03 | 2024-04-19 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-05 |  |
 | [more than words \- English ver.](https://open.spotify.com/track/5zFmY6wFs4CeGJb5P5Wv5A) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words \(English ver.\)](https://open.spotify.com/album/4OTaUWzn1fMSvqSaH4LBSw) | 4:46 | 2023-11-21 | 2023-12-30 |
+| [Mountain Top](https://open.spotify.com/track/2tr9sMMnxzgqn8Nx7ccP8U) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Mountain Top](https://open.spotify.com/album/5AsGzzgbONQXNHwx8C8SA8) | 3:08 | 2026-03-11 |  |
 | [PARAGON <MODv>](https://open.spotify.com/track/6LuEZKaqyrQNlG9KWLcMOu) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K) | [INERTIA](https://open.spotify.com/album/34GmsyuS83U4p1YQMROfs3) | 2:46 | 2025-06-13 | 2025-07-23 |
 | [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 | 2026-01-13 |  |
 | [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 | 2026-02-05 |  |
@@ -94,7 +95,7 @@
 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 | 2023-08-15 |  |
 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 | 2023-08-03 | 2024-04-19 |
 | [Ride on shooting star](https://open.spotify.com/track/40noxDIF8DGi3m7dBeikzo) | [the pillows](https://open.spotify.com/artist/6ilYV5oF8whllOnm4VZlYR) | [Fool on the planet](https://open.spotify.com/album/430pNVzkDDNcen9TRYPEGL) | 2:22 | 2025-02-03 | 2025-02-16 |
-| [Rookies](https://open.spotify.com/track/3a6OZDaosgpHJaKDn5fBJU) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Rookies](https://open.spotify.com/album/1yS8JPw8shuUuc1hTMeB8u) | 3:26 | 2026-02-05 |  |
+| [Rookies](https://open.spotify.com/track/3a6OZDaosgpHJaKDn5fBJU) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Rookies](https://open.spotify.com/album/1yS8JPw8shuUuc1hTMeB8u) | 3:26 | 2026-02-05 | 2026-03-12 |
 | [SCOPE](https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp) | 2:55 | 2025-01-14 | 2025-03-14 |
 | [SHADOWBORN](https://open.spotify.com/track/0QnjcR3CzjZAibq74RW02x) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Benjamin](https://open.spotify.com/artist/3hUQrVzWSjbHu7USOygIaz), [mpi](https://open.spotify.com/artist/0udboBeiQhCskhYBLMbx9K) | [SHADOWBORN](https://open.spotify.com/album/54kydss0Fz9B7dKNMuwGKs) | 3:11 | 2025-01-14 | 2025-08-02 |
 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2024-04-16 | 2026-02-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs from the last decade that will make you sing and dance all summer long!",
-  "num_followers": 1412295,
+  "num_followers": 1412270,
   "original_name": "Summer Hits of the 10s",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "What Do You Mean?",
-      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 177000,
       "name": "HUMBLE.",
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 258266,
       "name": "Hymn for the Weekend",
       "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Starships",
-      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 201000,
       "name": "Play Hard (feat. Ne-Yo & Akon)",
       "url": "https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
+        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Starships",
+      "url": "https://open.spotify.com/track/2EBCVPNAG46nbgs6jXPGvv"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Ain't It Fun",
+      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3cG32DOXJoYlOHMmJIaQsm"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-05-26 16:29:14",
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Ain't It Fun",
-      "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 252359,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2024-05-26 16:29:14",
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2024-05-26 16:29:14",
@@ -1587,22 +1603,6 @@
       "duration_ms": 217288,
       "name": "Finesse - Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
-    },
-    {
-      "added_at": "2024-05-26 16:29:14",
-      "album": {
-        "name": "Nevermind",
-        "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Nevermind",
-      "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
     },
     {
       "added_at": "2024-05-26 16:29:14",

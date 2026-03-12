@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Yör
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,055 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,057 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 20 | [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 |
 | 21 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 |
 | 22 | [Mandag Til Fredag](https://open.spotify.com/track/2LA30t2wNFyjgvbyms415y) | [Asger](https://open.spotify.com/artist/63ROoz2PyporZ9RAkffc1d) | [Mandag Til Fredag](https://open.spotify.com/album/4RXOrQQ1XUGZkn4klKcIem) | 3:17 |
-| 23 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 |
-| 24 | [Hvis jeg ku'](https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Hvis jeg ku'](https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c) | 3:49 |
-| 25 | [En Stor Lykkelig Familie](https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [En Stor Lykkelig Familie](https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh) | 3:15 |
+| 23 | [En Stor Lykkelig Familie](https://open.spotify.com/track/4djG0CzBPUSugXvokqz3mr) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [En Stor Lykkelig Familie](https://open.spotify.com/album/2EwuPoBKkcHDwIx6xTH4Vh) | 3:15 |
+| 24 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 |
+| 25 | [Hvis jeg ku'](https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM) | [Mona Moroni](https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS) | [Hvis jeg ku'](https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c) | 3:49 |
 | 26 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 |
 | 27 | [Folk Forsvinder](https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr) | [Chris Burton](https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo) | [Folk Forsvinder](https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc) | 2:53 |
 | 28 | [Sætter Sig Fast](https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Sætter Sig Fast](https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4) | 2:56 |
@@ -60,17 +60,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 50 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
 | 51 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
 | 52 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
-| 53 | [Play The Part](https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/1056qytYUijsTICJ4VIItC) | 2:50 |
-| 54 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
-| 55 | [STEMMER](https://open.spotify.com/track/2ITRqKiP7QTCWir4Y26rLp) | [BLÅ](https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N) | [STEMMER](https://open.spotify.com/album/2yXUtoUSVUmDwF5GxrwMYN) | 2:56 |
+| 53 | [Upgrade](https://open.spotify.com/track/3ogJQFKXZconuA2XeTYo90) | [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ) | [Upgrade](https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy) | 2:18 |
+| 54 | [Play The Part](https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [Watershed](https://open.spotify.com/album/1056qytYUijsTICJ4VIItC) | 2:50 |
+| 55 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 56 | [ung og elske](https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy) | [KARLA](https://open.spotify.com/artist/1CEg4ddOkDrZnyNlIdhjNC) | [ung og elske](https://open.spotify.com/album/0fAuHlYjFcvs2Yd52DlnDH) | 2:32 |
-| 57 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
-| 58 | [Upgrade](https://open.spotify.com/track/3ogJQFKXZconuA2XeTYo90) | [marius](https://open.spotify.com/artist/0DxnhmBH9QUcVojeyZROdZ) | [Upgrade](https://open.spotify.com/album/5W2Ey9dqhjwkG4zxSynNjy) | 2:18 |
-| 59 | [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 |
-| 60 | [SIDDER FAST](https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK) | [BLÅ](https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N) | [SIDDER FAST](https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe) | 2:51 |
+| 57 | [STEMMER](https://open.spotify.com/track/2ITRqKiP7QTCWir4Y26rLp) | [BLÅ](https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N) | [STEMMER](https://open.spotify.com/album/2yXUtoUSVUmDwF5GxrwMYN) | 2:56 |
+| 58 | [KUN FOR HENDE](https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [KUN FOR HENDE](https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW) | 2:32 |
+| 59 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
+| 60 | [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 |
 | 61 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 |
-| 62 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
-| 63 | [KUN FOR HENDE](https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [KUN FOR HENDE](https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW) | 2:32 |
+| 62 | [SIDDER FAST](https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK) | [BLÅ](https://open.spotify.com/artist/0Cuk5kJqUBt9humq6ryL5N) | [SIDDER FAST](https://open.spotify.com/album/1AzZUHmbgs54ifcIe6muYe) | 2:51 |
+| 63 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
 | 64 | [februar](https://open.spotify.com/track/4SJ75m1GZW7mCvUIZ3D7QT) | [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [februar](https://open.spotify.com/album/4bJ3n95X0KM9lSuOx2CN1j) | 3:28 |
 | 65 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
 | 66 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |

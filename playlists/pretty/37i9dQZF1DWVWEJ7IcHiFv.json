@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 155924,
+  "num_followers": 155949,
   "original_name": "Los 80s",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228853,
       "name": "Cuando Pase el Temblor",
       "url": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2024-05-14 17:26:04",

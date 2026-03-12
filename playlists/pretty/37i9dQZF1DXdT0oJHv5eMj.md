@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT0oJHv5eMj.md) - [plain]
 
 > Today's hit country music videos! Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,997 likes - 22 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,061 likes - 22 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

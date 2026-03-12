@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > The Indie highlights of 2010\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,280 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,344 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 13 | [Tighten Up](https://open.spotify.com/track/3C542UknrX76XSRXTyQ1Qg) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:31 |
 | 14 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 15 | [Empire Ants \(feat\. Little Dragon\)](https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:43 |
-| 16 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
-| 17 | [Something Good Can Work](https://open.spotify.com/track/67SrO8B3O8iUq0AmEh0VzJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:42 |
+| 16 | [Something Good Can Work](https://open.spotify.com/track/67SrO8B3O8iUq0AmEh0VzJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:42 |
+| 17 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 18 | [Riverside](https://open.spotify.com/track/7iHl6LcHD94l5VpmfrBUmG) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:48 |
 | 19 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
 | 20 | [Superfast Jellyfish \(feat\. Gruff Rhys and De La Soul\)](https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 2:54 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 48 | [We Used to Wait](https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:01 |
 | 49 | [Desire Lines](https://open.spotify.com/track/34OYZJDVLJC0HS401190FN) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 6:44 |
 | 50 | [Little Girl \(feat\. Julian Casablancas\)](https://open.spotify.com/track/0Ih55K62jZIbeTysGHJkW0) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Dark Night of The Soul](https://open.spotify.com/album/0DmKQGWmKXQ3zmjTIQQzK1) | 4:32 |
-| 51 | [Girls Like You](https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 6:04 |
+| 51 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 52 | [She's Long Gone](https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:06 |
-| 53 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
+| 53 | [Girls Like You](https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 6:04 |
 | 54 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 |
 | 55 | [Laredo](https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:12 |
 | 56 | [Holiday](https://open.spotify.com/track/4cYZRebfwTsVNERxTm29Rb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:18 |

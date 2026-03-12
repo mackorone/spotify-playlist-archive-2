@@ -4,11 +4,12 @@
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 43 min
+46 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(There Is\) No Greater Love](https://open.spotify.com/track/1jLNxsmGsEQAM4CUkHemfS) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 2:08 | 2025-10-28 |  |
+| [Addicted](https://open.spotify.com/track/7or26qS3BfpTtWO3BFw5GE) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:45 | 2026-03-12 |  |
 | [Amy Amy Amy](https://open.spotify.com/track/6lX3i8dl8gsWMfaUIgcOl6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 4:14 | 2025-10-28 |  |
 | [Back To Black](https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:01 | 2025-10-28 |  |
 | [Best Friends, Right?](https://open.spotify.com/track/7BizTaPDXSWVi8vdGeFg0W) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:56 | 2025-10-28 |  |

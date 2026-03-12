@@ -1,12 +1,12 @@
 {
   "description": "Pub &amp; karaoke drinking classics from 70s, 80s, 90s, 00s, 10s &amp; beyond - right through to closing time in the local.",
-  "num_followers": 49656,
+  "num_followers": 49661,
   "original_name": "Pub Songs \ud83c\udf7a",
   "owner": {
     "name": "Filtr Ireland",
     "url": "https://open.spotify.com/user/filtr.ie"
   },
-  "snapshot_id": "AAAKHl4qmTbgw+PtPMTMweUSCAIYcX90",
+  "snapshot_id": "AAAKH7FsJqeWpTLWonSL/5CM3PXXf1Ke",
   "tracks": [
     {
       "added_at": "2026-02-27 14:08:13",
@@ -1903,6 +1903,22 @@
       "duration_ms": 590000,
       "name": "Bat Out of Hell",
       "url": "https://open.spotify.com/track/0VafPclbphrwh36WraHWws"
+    },
+    {
+      "added_at": "2026-03-11 15:20:48",
+      "album": {
+        "name": "Can't Hold Back",
+        "url": "https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Take Me Home Tonight",
+      "url": "https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2"
     }
   ],
   "unique_name": "Pub Songs \ud83c\udf7a",

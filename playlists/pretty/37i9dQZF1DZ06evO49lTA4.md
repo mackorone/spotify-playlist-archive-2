@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 919,438 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,612 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 14 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:43 |
 | 15 | [She Got the Best of Me](https://open.spotify.com/track/698eQRku24PIYPQPHItKlA) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:03 |
 | 16 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:33 |
-| 17 | [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 |
+| 17 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
 | 18 | [One Number Away](https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 |
-| 19 | [Different 'Round Here](https://open.spotify.com/track/7HRW1XRyOITRJWrygoKL9u) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:56 |
+| 19 | [Going, Going, Gone](https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 2:57 |
 | 20 | [Must've Never Met You](https://open.spotify.com/track/6ojicjDYUUoeE1tdSvfFo4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:19 |
 | 21 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 |
 | 22 | [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 |
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 29 | [Even Though I'm Leaving](https://open.spotify.com/track/5Fhe63YOMZsGdB3CgCDuBi) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:45 |
 | 30 | [My Kinda Saturday Night](https://open.spotify.com/track/68BUz8H5H1mHb4o7VrJccb) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 2:45 |
 | 31 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 |
-| 32 | [5 Leaf Clover](https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:30 |
+| 32 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:06 |
 | 33 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:37 |
-| 34 | [Pray Hard \(feat\. Luke Combs\)](https://open.spotify.com/track/1SFWLN2UHw5N7RdkEHGoSD) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:06 |
+| 34 | [5 Leaf Clover](https://open.spotify.com/track/52ChYmfu792MW2Ezv0whpk) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:30 |
 | 35 | [Houston, We Got a Problem](https://open.spotify.com/track/6guWjUuNYziyNXgjFo1IpF) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:12 |
-| 36 | [You Found Yours](https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:11 |
+| 36 | [15 Minutes](https://open.spotify.com/track/1f1pdF5fWMXbyNZHX2jDiJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 3:35 |
 | 37 | [Lovin' On You](https://open.spotify.com/track/0nYvjcSlCgjcwogQAwIwNp) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:15 |
-| 38 | [15 Minutes](https://open.spotify.com/track/1f1pdF5fWMXbyNZHX2jDiJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Prequel](https://open.spotify.com/album/40xQAz7RDjeznOtTYeEMLs) | 3:35 |
+| 38 | [You Found Yours](https://open.spotify.com/track/5OGCd9NL8XcwpkTmSxL5YI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:11 |
 | 39 | [In Case I Ain't Around](https://open.spotify.com/track/52lejmjP4o5bcZSAWKtXR3) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:30 |
 | 40 | [Brand New Man \- with Luke Combs](https://open.spotify.com/track/001UkMQHw4zXfFNdKpwXAF) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 3:11 |
 | 41 | [Does To Me \(feat\. Eric Church\)](https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Sheriff You Want To](https://open.spotify.com/track/1NBJoYCz83qtBFGGPgfTkQ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Can I Get an Outlaw](https://open.spotify.com/album/7ENhewQQ9Hp8mdEAyIsWvW) | 3:41 |
 | 50 | [Beyond \(feat\. Luke Combs\) \- Live](https://open.spotify.com/track/05zt3H2jdG0MA1V6Q2t2Et) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Beyond \(feat\. Luke Combs\) \[Live\]](https://open.spotify.com/album/4hhm2iJ6yhnMnlTaa5hjNo) | 4:06 |
 
-Snapshot ID: `aa4NgAAAAADshy6ybZvp19PX52Rhdzsf`
+Snapshot ID: `aa9fAAAAAAASYC0BvGGTV0eQLQSEN9M0`

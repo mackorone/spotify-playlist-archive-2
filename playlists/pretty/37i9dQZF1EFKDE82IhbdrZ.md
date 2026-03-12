@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545 likes - 317 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546 likes - 317 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 217 | [All Out](https://open.spotify.com/track/6DcLRmx2GiBJq5kuK8J9XY) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [All Out](https://open.spotify.com/album/37YlmIvYa3QbBShPifmp2h) | 4:22 |
 | 218 | [Another Life](https://open.spotify.com/track/66x2BjfIuvRV96EoFYxBDs) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 5:53 |
 | 219 | [Blue Jeans](https://open.spotify.com/track/6tnMSQvPJVJvyCsgOIYpr9) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Jessie James](https://open.spotify.com/album/30xG0AwSqAlBjlx8vPFzkX) | 3:54 |
-| 220 | [Electrical](https://open.spotify.com/track/7klpihDYkaynlP0fcmFz0E) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:48 |
-| 221 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 220 | [LOS NARCOS](https://open.spotify.com/track/1lG27QZJVXbVieXyi8gHKl) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [How To Make A Master Peace](https://open.spotify.com/album/38xPmv2HPLLjE8mzZR8wDY) | 1:54 |
+| 221 | [Electrical](https://open.spotify.com/track/7klpihDYkaynlP0fcmFz0E) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:48 |
 | 222 | [Shut up.](https://open.spotify.com/track/0yZk3VXzmx1PY9FNbW6e8l) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 3:10 |
 | 223 | [Blackbox](https://open.spotify.com/track/0qzSuPaidsA4ynGtddJbkC) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 2:55 |
 | 224 | [Cosmic](https://open.spotify.com/track/2Mf5invtZli9zbBfVQAzre) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:35 |
@@ -321,9 +321,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 311 | [Love Me 2](https://open.spotify.com/track/7wmrpFlw6bRlLf9i3XAPRJ) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
 | 312 | [Inspiration](https://open.spotify.com/track/1h7yMzWftbnh510LicmyLY) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:19 |
 | 313 | [Timber](https://open.spotify.com/track/63uhHdBTWeqDWTMvvL9WGy) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:58 |
-| 314 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
-| 315 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
+| 314 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
+| 315 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 316 | [Ballerina](https://open.spotify.com/track/2HeIrXWLqBvBHMBMMQ3Zhv) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 2:28 |
 | 317 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcLyngAAAADFrOJASaeiF9Tj8eL5/ZN+`
+Snapshot ID: `AcL4AgAAAABSshOeVMUbUWsX0rlHddSl`

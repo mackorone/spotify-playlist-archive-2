@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Aldous Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,428 likes - 175 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,386 likes - 175 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

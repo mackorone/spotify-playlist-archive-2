@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,707 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 774,916 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 23 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 |
 | 24 | [Veracruz](https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:22 |
 | 25 | [El Diablo](https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:03 |
-| 26 | [Asilo \(feat\. Mon Laferte\)](https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:03 |
-| 27 | [Vuelve por Favor](https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tornasol](https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H) | 4:16 |
+| 26 | [Vuelve por Favor](https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tornasol](https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H) | 4:16 |
+| 27 | [Asilo \(feat\. Mon Laferte\)](https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:03 |
 | 28 | [Que Sí](https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:23 |
 | 29 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 |
 | 30 | [Callejón de los Secretos](https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cosa Nuestra: Capítulo 0](https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR) | 3:44 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 35 | [El Beso](https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 2:58 |
 | 36 | [Bonita \- Bonus Track](https://open.spotify.com/track/3w7MScOk9yCOS1T6wJfZWa) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 3:39 |
 | 37 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
-| 38 | [Zombie](https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:35 |
+| 38 | [La Danza de las Libélulas](https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Caminante](https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw) | 3:40 |
 | 39 | [Caderas Blancas](https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:45 |
 | 40 | [Tu Falta De Querer \- En Vivo](https://open.spotify.com/track/1zBpoBt0ss3onvb5wwFETQ) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1/ Edicion Especial\)](https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk) | 4:38 |
-| 41 | [La Danza de las Libélulas](https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Caminante](https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw) | 3:40 |
+| 41 | [Zombie](https://open.spotify.com/track/171EYIdP4psxhF44HtjlLk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:35 |
 | 42 | [Hoy No](https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 4:02 |
 | 43 | [Por Qué Me Fui A Enamorar de Ti \- En Vivo, Desde El Lunario del Auditorio Nacional](https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Sola Con Mis Monstruos \(En Vivo, Desde El Lunario del Auditorio Nacional\)](https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q) | 4:33 |
 | 44 | [Vendaval](https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza \(Deluxe\)](https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 |
 | 50 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
 
-Snapshot ID: `aa4NgAAAAACbK1pxHpO3QZ7fQ1FGursE`
+Snapshot ID: `aa9fAAAAAACIYvsgxU/eF1T28W8MXZTQ`

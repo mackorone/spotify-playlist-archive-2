@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,551 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,570 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 48 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
 | 49 | [Rich Little Bitch](https://open.spotify.com/track/12680M4NXeEB27oywHfCxg) | [Melrose](https://open.spotify.com/artist/7wEF4N6aICDlkHnCy3PLan) | [Melrose](https://open.spotify.com/album/4RE5Q4pm0CqEXpfva5NoXz) | 3:51 |
 | 50 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
-| 51 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
-| 52 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
+| 51 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
+| 52 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |
 | 53 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
 | 54 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |
 | 55 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 |

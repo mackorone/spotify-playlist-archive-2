@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e2\u05d3\u05df \u05d7\u05e1\u05d5\u05df ",
-  "num_followers": 25790,
+  "num_followers": 25788,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+        "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        },
+        {
+          "name": "Haim Moshe",
+          "url": "https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L"
         }
       ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+      "duration_ms": 209890,
+      "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
+      "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
     },
     {
       "added_at": "2026-01-16 15:38:53",
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2026-01-16 15:38:53",
       "album": {
-        "name": "\u05e8\u05d5\u05d1\u05d9\u05dd \u05d5\u05ea\u05dc\u05ea\u05dc\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW"
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
       },
       "artists": [
         {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        },
-        {
-          "name": "Haim Moshe",
-          "url": "https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 209890,
-      "name": "\u05e7\u05e9\u05e8 \u05d1\u05ea\u05e7\u05e6\u05d5\u05e8\u05ea",
-      "url": "https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC"
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2026-01-16 15:38:53",

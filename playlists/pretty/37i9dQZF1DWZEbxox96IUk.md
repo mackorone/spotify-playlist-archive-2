@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 
 > C'est parti pour une nuit de folie ! Photo : Gilbert Montagné
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,558 likes - 60 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,563 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEbxox96IUk.md) - [plain]
 | 16 | [Boule de flipper](https://open.spotify.com/track/1S0SNWFuMJOnruRgIklPRg) | [Corynne CHARBY](https://open.spotify.com/artist/0g3UZ5TKLKBB9m35O8KAm3) | [Boule de flipper](https://open.spotify.com/album/0lzuBZIhhzpooxF2dR9sPk) | 3:26 |
 | 17 | [Le banana split](https://open.spotify.com/track/67IqnuAkobMaPub7lGGcN5) | [Lio](https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI) | [Je garde quelques images..\. pour mes vies postérieures](https://open.spotify.com/album/11LefkOl8xHR2L8MQj2vJe) | 2:33 |
 | 18 | [C'est comme ça](https://open.spotify.com/track/3y9FzflARxBDRuARWGDWmq) | [Les Rita Mitsouko](https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM) | [The No Comprendo](https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY) | 4:54 |
-| 19 | [Dès que le vent soufflera](https://open.spotify.com/track/66oUD4UVvC2DsPaKzw8sJy) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(Remastered\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 4:27 |
+| 19 | [Dès que le vent soufflera \- 2013 Remaster](https://open.spotify.com/track/66oUD4UVvC2DsPaKzw8sJy) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(2013 Remaster\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 4:27 |
 | 20 | [Africa](https://open.spotify.com/track/1YXH5a44usvJyNKeMt8NMo) | [Rose Laurens](https://open.spotify.com/artist/5yHrAQeiQbwIqGHInzdYWM) | [Africa \- EP](https://open.spotify.com/album/4NR83WiSh5Zs9jL1VtkpRr) | 3:36 |
 | 21 | [Le coup de folie](https://open.spotify.com/track/5fw1wjQHkVFiCho7bkh8dI) | [Thierry Pastor](https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH) | [Le classement de tous les tubes années 80, Vol\. 3](https://open.spotify.com/album/29Zmduxn5L2ib7tFnQRUs2) | 3:37 |
 | 22 | [On va s'aimer](https://open.spotify.com/track/41YGJ1rejzU6kfzOCf8hSn) | [Gilbert Montagné](https://open.spotify.com/artist/4qJ1NPJIburUjxcucKOhvu) | [Best Of](https://open.spotify.com/album/27jNV4OnvkzyaJJw3fATRb) | 4:06 |

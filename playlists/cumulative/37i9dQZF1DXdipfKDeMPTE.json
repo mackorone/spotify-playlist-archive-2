@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Abstract",
+        "url": "https://open.spotify.com/album/2wbh0mXpqZE65sHoo4Ltrn"
+      },
+      "artists": [
+        {
+          "name": "MyceliumBug",
+          "url": "https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Abstract",
+      "url": "https://open.spotify.com/track/6Curu4yls4TfvynqNTnrfp"
+    },
+    {
+      "album": {
         "name": "Adieu",
         "url": "https://open.spotify.com/album/5AgHqMTk7p0VdNy1dHco5r"
       },
@@ -4134,7 +4152,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 117000,
       "name": "Glum Look",
       "url": "https://open.spotify.com/track/4ZbgM8IdNDQ1G9atMLvKBf"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 139591,
       "name": "LEVITATE",
       "url": "https://open.spotify.com/track/6Rs5lwpEVM3GN2h6XTItgZ"
@@ -8752,6 +8770,24 @@
       "duration_ms": 120000,
       "name": "Quiet Pulse",
       "url": "https://open.spotify.com/track/7F3aYjhN3tF2s9d57s6IiC"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/3by4lnFvTBeC5bdEs9Mx2m"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111818,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/32deihOe13SUyY9oRfwVM8"
     },
     {
       "album": {

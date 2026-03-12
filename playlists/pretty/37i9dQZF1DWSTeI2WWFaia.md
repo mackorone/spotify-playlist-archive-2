@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Curren$y, The Alchemist & Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,569,917 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,569,870 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 36 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 |
 | 37 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 |
 | 38 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 |
-| 39 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
-| 40 | [Like Biggie Did](https://open.spotify.com/track/09j7r4RINFFmmWxQMCaVIC) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Manhunt](https://open.spotify.com/album/5OAT54oeB6x3VFbcbGwkbX) | 3:48 |
+| 39 | [Like Biggie Did](https://open.spotify.com/track/09j7r4RINFFmmWxQMCaVIC) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Manhunt](https://open.spotify.com/album/5OAT54oeB6x3VFbcbGwkbX) | 3:48 |
+| 40 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
 | 41 | [SOS](https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SOS](https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp) | 3:56 |
 | 42 | [For Keeps](https://open.spotify.com/track/2XXyUvdXTomMQleoui097l) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 3:45 |
 | 43 | [Parisian Nights](https://open.spotify.com/track/3NI8cI2ZPZA9ruFj6O2LXS) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [KNDRX](https://open.spotify.com/artist/3w3sVV7gANjfBWFb4cMSXT) | [You Can't Kill God With Bullets](https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG) | 3:49 |

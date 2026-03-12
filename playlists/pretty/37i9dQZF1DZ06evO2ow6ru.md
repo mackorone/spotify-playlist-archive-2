@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 
 > This is All Time Low\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,012 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,023 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ow6ru.md) - [plain]
 | 49 | [Getaway Green](https://open.spotify.com/track/6lMPUipRF49L8AxLW3F40B) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:47 |
 | 50 | [Last Young Renegade](https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Last Young Renegade](https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH) | 3:34 |
 
-Snapshot ID: `aa4NgAAAAAAzf0UADozcCcGCUiyo7uLf`
+Snapshot ID: `aa9fAAAAAACipqcq5ZDF7JcE0rrV6KKJ`

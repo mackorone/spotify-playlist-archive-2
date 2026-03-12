@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-215 songs - 10 hr 14 min
+216 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Ocean Dreaming](https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6) | [Semaphore](https://open.spotify.com/artist/6DrUO7tFv2WDlPuibMoNcV) | [Ocean Dreaming](https://open.spotify.com/album/37kg8PQ3t5MY09QWHPRCU8) | 2:51 | 2024-02-06 | 2025-01-16 |
 | [Ocean Healing](https://open.spotify.com/track/49nZSk6EBugEBSfNQlkr0y) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Ocean Healing](https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM) | 3:32 | 2024-03-01 |  |
 | [Ocean Horizon](https://open.spotify.com/track/24uFq1QlocI7wGKWA2ynSJ) | [Satori Bloom](https://open.spotify.com/artist/7i9wtx5GMP70LKJE1Qa2qR) | [Ocean Horizon](https://open.spotify.com/album/3wLvtPkDiAb9tRt09KSFoK) | 3:17 | 2025-12-17 |  |
+| [Ocean in a Drop](https://open.spotify.com/track/5yxqIaxcAWpcxcX95a6QYt) | [Gaiasphere](https://open.spotify.com/artist/39LUEKMNXRlQBUDMwwK14q) | [Ocean in a Drop](https://open.spotify.com/album/6xF8SMoiAmYx8VSrzdbja2) | 3:12 | 2026-02-27 |  |
 | [Ocean Light](https://open.spotify.com/track/5IwVSLVaXXZt9tk9YO93oN) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Ocean Light](https://open.spotify.com/album/3gPJrfsuA47xcNVhOiYivj) | 2:47 | 2025-04-01 |  |
 | [Ocean Mindfulness](https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Ocean Mindfulness](https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh) | 3:27 | 2023-10-23 | 2025-10-27 |
 | [Ocean Miracle](https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Ocean Dynamics](https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo) | 2:56 | 2024-05-01 |  |
@@ -208,7 +209,7 @@
 | [Träumend \(Sound Bath\)](https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo) | [Kaspar Hahn](https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX) | [Träumend \(Sound Bath\)](https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS) | 2:17 | 2023-11-24 | 2025-04-14 |
 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 | 2023-10-23 | 2025-12-22 |
 | [Ventoria](https://open.spotify.com/track/1pHMechTWV7HkPb1Qc5KxH) | [Deep Enormo](https://open.spotify.com/artist/5WPDgFz2Kcisbx0Esczaf5) | [Ventoria](https://open.spotify.com/album/7IF0BTagV3BKYmUX3TRx4W) | 2:40 | 2025-12-17 |  |
-| [Venus Beach](https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Venus](https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ) | 2:43 | 2023-11-24 |  |
+| [Venus Beach](https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Venus](https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ) | 2:43 | 2023-11-24 | 2026-03-12 |
 | [Walk Along The Ocean](https://open.spotify.com/track/5ABusCPxzgAShqK5wkInOo) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [Walk Along The Ocean](https://open.spotify.com/album/28ODbPuwRuIQr5RZOL3GFp) | 2:52 | 2023-10-23 |  |
 | [Warm Sandy Beaches](https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Warm Sandy Beaches](https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU) | 3:02 | 2023-10-26 |  |
 | [Warm Wind](https://open.spotify.com/track/2vVWDG7IxZPmInVMbEr9Su) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Warm Wind](https://open.spotify.com/album/5Rx7auDEDHNCEGVdNB5Hi4) | 2:58 | 2025-02-18 |  |

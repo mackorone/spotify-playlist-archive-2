@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3x99VxtGkA6KaeWlu6zeOQ\">Umarell</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7mw9gGWm4SBXadBNhW1OMX\">marsea</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -3822,6 +3822,24 @@
       "duration_ms": 190492,
       "name": "B3",
       "url": "https://open.spotify.com/track/2yVeUXSlgKSngMIqwB1aYx"
+    },
+    {
+      "album": {
+        "name": "Finalmente, musica!",
+        "url": "https://open.spotify.com/album/0rbWu5BUf8P1RbythuROE9"
+      },
+      "artists": [
+        {
+          "name": "Livrea",
+          "url": "https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147775,
+      "name": "Babilonia",
+      "url": "https://open.spotify.com/track/2vJvbnqyitMFw5NCGBMer4"
     },
     {
       "album": {
@@ -14832,7 +14850,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 165000,
       "name": "GUARIRE",
       "url": "https://open.spotify.com/track/62ST7EI9kRnzy7CMyBWXR7"
@@ -18117,6 +18135,28 @@
     },
     {
       "album": {
+        "name": "la guerra e le bombe",
+        "url": "https://open.spotify.com/album/3J5XNwp6Sv3ELMlwiOUl1c"
+      },
+      "artists": [
+        {
+          "name": "Schianta",
+          "url": "https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB"
+        },
+        {
+          "name": "Dacota",
+          "url": "https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "la guerra e le bombe",
+      "url": "https://open.spotify.com/track/5hwKCeWMOpSK0vRocTXpGC"
+    },
+    {
+      "album": {
         "name": "Stella | La Luna e Saturno",
         "url": "https://open.spotify.com/album/1Opi9oTsKLVZi4Svo4S4yE"
       },
@@ -18128,7 +18168,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 196987,
       "name": "La Luna e Saturno",
       "url": "https://open.spotify.com/track/3VG7q4z6Ou7AR1hK1FTzta"
@@ -25341,6 +25381,24 @@
     },
     {
       "album": {
+        "name": "L'autostrada del sole",
+        "url": "https://open.spotify.com/album/5OwIrAeFsZyYeh4rszxoPF"
+      },
+      "artists": [
+        {
+          "name": "ZEROTTANTUNO",
+          "url": "https://open.spotify.com/artist/4idMReT07Hyknfr9if9Etm"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321993,
+      "name": "Nun ce 'a faccio chi\u00f9",
+      "url": "https://open.spotify.com/track/3eC8DHH4lwTFdGboLmHKtk"
+    },
+    {
+      "album": {
         "name": "nun \u00e8 over",
         "url": "https://open.spotify.com/album/05WdWqMPkr36iHOVmvcv4B"
       },
@@ -25946,6 +26004,24 @@
       "duration_ms": 181158,
       "name": "Olodramma",
       "url": "https://open.spotify.com/track/1BMi2QIyIWYxGHh2eWadiT"
+    },
+    {
+      "album": {
+        "name": "Ora Sono Un Lago",
+        "url": "https://open.spotify.com/album/5yZorRS4UGWbRu2a3Hq6Z0"
+      },
+      "artists": [
+        {
+          "name": "Bono / Burattini",
+          "url": "https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217221,
+      "name": "Oltre le palpebre",
+      "url": "https://open.spotify.com/track/5qKDw2a4TuyfsyrEnUIm48"
     },
     {
       "album": {
@@ -28318,7 +28394,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 275394,
       "name": "PI\u016e IN L\u1eae",
       "url": "https://open.spotify.com/track/7qVtvVH8lL3b8quOy7cyWg"
@@ -29390,6 +29466,24 @@
       "duration_ms": 150785,
       "name": "quando ci sar\u00e0 il sole",
       "url": "https://open.spotify.com/track/4Cyo9YFjvKOpfM14gw1GEY"
+    },
+    {
+      "album": {
+        "name": "QUANDO DICO CERTE COSE",
+        "url": "https://open.spotify.com/album/7ATLQMgyBXWDhNEv8XpH4l"
+      },
+      "artists": [
+        {
+          "name": "Nyno",
+          "url": "https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144298,
+      "name": "QUANDO DICO CERTE COSE",
+      "url": "https://open.spotify.com/track/7GW4tvAgvulZVORYyCwP7i"
     },
     {
       "album": {
@@ -31056,7 +31150,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 151368,
       "name": "Samba Distrutta",
       "url": "https://open.spotify.com/track/3857YkuUSAKDQgIh2hKowM"
@@ -31824,7 +31918,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 159183,
       "name": "se ancora / come fai",
       "url": "https://open.spotify.com/track/5HBp01dVDnDZs7QvnhgDdp"

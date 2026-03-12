@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > "Si mañana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal" Valentin Elizalde en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,544 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,560 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 34 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 |
 | 35 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 36 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 |
-| 37 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
-| 38 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 |
+| 37 | [Te Irá Mejor Sin Mí](https://open.spotify.com/track/3d7uS6KzdacpUccKpjXr7x) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Pegadito Al Corazón](https://open.spotify.com/album/1uMyEZYWXHuAToVZSoRIY7) | 2:56 |
+| 38 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
 | 39 | [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 |
 | 40 | [En el Último Trago](https://open.spotify.com/track/6i6tTUmg1i9PDwETgb5v7J) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Gracias \(with Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH) | 2:17 |
 | 41 | [Esclavo y Amo](https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Los Boleros Morunos Solis](https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq) | 2:57 |

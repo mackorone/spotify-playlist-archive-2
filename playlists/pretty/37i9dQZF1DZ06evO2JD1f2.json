@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13369,
+  "num_followers": 13374,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAAfe8O5WUSIjtUxKh1ncpt+",
+  "snapshot_id": "aa9fAAAAAAC0FrHgpPLyz3+BcJgeI3na",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real As It Gets (feat. EST Gee)",
-        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 192804,
-      "name": "Real As It Gets (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 184833,
       "name": "5500 Degrees (feat. Lil Baby, 42 Dugg & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/6uTID2glulLOXYhcwMETS1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real As It Gets (feat. EST Gee)",
+        "url": "https://open.spotify.com/album/0SO86DCFiwaTqchBpujace"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 192804,
+      "name": "Real As It Gets (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD"
     },
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 93799,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -219,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
       },
       "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 93799,
-      "name": "Lick Back",
-      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+      "duration_ms": 151421,
+      "name": "Ice Talk",
+      "url": "https://open.spotify.com/track/4YeoYDiM7MHUb6Gb9sKYz9"
     },
     {
       "added_at": null,
@@ -255,22 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         }
       ],
-      "duration_ms": 151421,
-      "name": "Ice Talk",
-      "url": "https://open.spotify.com/track/4YeoYDiM7MHUb6Gb9sKYz9"
+      "duration_ms": 195298,
+      "name": "The Realest (feat. Jeezy)",
+      "url": "https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc"
     },
     {
       "added_at": null,
@@ -319,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 195298,
-      "name": "The Realest (feat. Jeezy)",
-      "url": "https://open.spotify.com/track/4NMsGNHtpsNJVmKVCkKrnc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
@@ -351,6 +351,22 @@
       "duration_ms": 146959,
       "name": "Opinion Base",
       "url": "https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thug Club",
+        "url": "https://open.spotify.com/album/0E5OJv9IwZ7bFdpsWmnZY2"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 136622,
+      "name": "Thug Club",
+      "url": "https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v"
     },
     {
       "added_at": null,
@@ -371,22 +387,6 @@
       "duration_ms": 116363,
       "name": "STILL AIN'T PUT MY PISTOL DOWN",
       "url": "https://open.spotify.com/track/09KefauMAYSo6uwJq4ezTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thug Club",
-        "url": "https://open.spotify.com/album/0E5OJv9IwZ7bFdpsWmnZY2"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 136622,
-      "name": "Thug Club",
-      "url": "https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v"
     },
     {
       "added_at": null,
@@ -418,35 +418,11 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 151956,
-      "name": "Members Only (feat. 42 Dugg)",
-      "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOT A CHANCE IN HELL",
-        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "NOT ME",
-      "url": "https://open.spotify.com/track/5SZ4q71Sfy2GbrqMoglJr1"
+      "duration_ms": 155413,
+      "name": "Young Shiners",
+      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
     },
     {
       "added_at": null,
@@ -467,6 +443,26 @@
       "duration_ms": 106843,
       "name": "Can't Be Fucked With",
       "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOT A CHANCE IN HELL",
+        "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "NOT ME",
+      "url": "https://open.spotify.com/track/5SZ4q71Sfy2GbrqMoglJr1"
     },
     {
       "added_at": null,
@@ -502,11 +498,31 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 155413,
-      "name": "Young Shiners",
-      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
+      "duration_ms": 151956,
+      "name": "Members Only (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 157354,
+      "name": "Tug of War March17",
+      "url": "https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx"
     },
     {
       "added_at": null,
@@ -527,22 +543,6 @@
       "duration_ms": 149333,
       "name": "LOTTA SHOTS",
       "url": "https://open.spotify.com/track/7IMvLAEQJpRNsLZAN53JF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 157354,
-      "name": "Tug of War March17",
-      "url": "https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supreme Sanders",
+        "url": "https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 142506,
+      "name": "Supreme Sanders",
+      "url": "https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT A CHANCE IN HELL",
         "url": "https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 176842,
       "name": "NUN LIKE MINE",
       "url": "https://open.spotify.com/track/3tGXypM4uCqwXpgBjSy4hp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Supreme Sanders",
-        "url": "https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 142506,
-      "name": "Supreme Sanders",
-      "url": "https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Toro",
+        "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 164495,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 212331,
       "name": "7.62 God (Reloaded) [feat. EST Gee & BIG30]",
       "url": "https://open.spotify.com/track/3vtDYruaEKSuep0ZgfAsHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Toro",
-        "url": "https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 164495,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB"
     },
     {
       "added_at": null,

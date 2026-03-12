@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 179999,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -12589,6 +12589,36 @@
     },
     {
       "album": {
+        "name": "FENDI",
+        "url": "https://open.spotify.com/album/1qW5s7J0rWd1T6nvPOiVuj"
+      },
+      "artists": [
+        {
+          "name": "Nasyo Chernia",
+          "url": "https://open.spotify.com/artist/14hRjnPyJXRdg38ghjQA9H"
+        },
+        {
+          "name": "Fury",
+          "url": "https://open.spotify.com/artist/1NoJcqjaeEWed9cu8s55e5"
+        },
+        {
+          "name": "Bobo Armani",
+          "url": "https://open.spotify.com/artist/1qlcFQMEzCTkYb6TsvirQg"
+        },
+        {
+          "name": "N.A.S.I",
+          "url": "https://open.spotify.com/artist/60nMDENsokaNkQsaZtk8Va"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218357,
+      "name": "FENDI",
+      "url": "https://open.spotify.com/track/4jgrdY2Uw9nuDYYZXZV401"
+    },
+    {
+      "album": {
         "name": "Fendi 2",
         "url": "https://open.spotify.com/album/65K3PJuqDDFu40Tk93vvxU"
       },
@@ -12820,7 +12850,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 313638,
       "name": "Fire In My Heart",
       "url": "https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z"
@@ -19780,7 +19810,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 181500,
       "name": "Kraj mene",
       "url": "https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu"
@@ -27122,7 +27152,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 189700,
       "name": "N\u00e2n",
       "url": "https://open.spotify.com/track/40vsOMljwhHCibpToRULGo"
@@ -27828,7 +27858,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -30936,10 +30966,28 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {
@@ -31092,7 +31140,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 199400,
       "name": "Ruwa",
       "url": "https://open.spotify.com/track/4zJu3WrABlBD23qunrjWov"
@@ -38572,7 +38620,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 166666,
       "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"

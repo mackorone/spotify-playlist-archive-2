@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,339 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,326 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 35 | [One \(Your Name\) \- Radio Edit](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [One \(Your Name\)](https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C) | 2:43 |
 | 36 | [What Is Love \- 7" Mix](https://open.spotify.com/track/7JkZ2hQdDonRURJjlMuh8q) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love](https://open.spotify.com/album/5IrMfIT621GidGPuOSRTB4) | 4:30 |
 | 37 | [You Don't Know Me](https://open.spotify.com/track/1rFMYAZxBoAKSzXI54brMu) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me](https://open.spotify.com/album/3gdmWRWWJmkp5uMBXf755B) | 3:33 |
-| 38 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
-| 39 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
+| 38 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
+| 39 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 40 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
 | 41 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
 | 42 | [Stereo Love](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
 | 43 | [Don't Be so Shy \- Filatov & Karas Remix](https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf) | [Imany](https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [The Wrong Kind of War](https://open.spotify.com/album/12ViHXhXTAxPEDM1TYCxvF) | 3:11 |
 | 44 | [Get on Your Knees](https://open.spotify.com/track/7xAi7yZ9uuKSac9H87Cc8i) | [MC Pat Flynn](https://open.spotify.com/artist/2chcxXpKxoQAwyqymdmbz9) | [Get on Your Knees](https://open.spotify.com/album/4QTOdgFKEStZd71l115bSk) | 4:47 |
 | 45 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 |
-| 46 | [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 |
-| 47 | [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 |
+| 46 | [Miss Decibel](https://open.spotify.com/track/1DLgyG3oqFB1pZacMOsdLB) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Sista minuten](https://open.spotify.com/album/6HkiZ3xdqbDcHiWYtyR3mN) | 3:14 |
+| 47 | [High Life](https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 3:21 |
 | 48 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/0CzJlMusD7CyBa7H9VyxC6) | [Doctor Y](https://open.spotify.com/artist/5Tfn0mwTWAvYUacFDhBWXr) | [Show Me Love \(Radio Edit\)](https://open.spotify.com/album/0ZV2JwBqsURM7b17a6DIZl) | 3:38 |
-| 49 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
-| 50 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
+| 49 | [Sommarkatt](https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Sommarkatt](https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD) | 3:28 |
+| 50 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
 
 Snapshot ID: `AAAAANu0K5IuuArwVI6QQ3EAOavEX849`

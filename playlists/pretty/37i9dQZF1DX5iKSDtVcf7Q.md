@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,702 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,722 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 55 | [My Church](https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:17 |
 | 56 | [Kick It In The Sticks](https://open.spotify.com/track/01ZepwW5W3Z4fwl4bzaHyY) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:45 |
 | 57 | [Small Town USA](https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Justin Moore](https://open.spotify.com/album/7yI8ppmq1tmqF09Qbi1tcj) | 3:38 |
-| 58 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 |
-| 59 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
+| 58 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
+| 59 | [I Drive Your Truck](https://open.spotify.com/track/6aPc6SSWgTsiXrrUpJCPlj) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:54 |
 | 60 | [Where Corn Don't Grow](https://open.spotify.com/track/6KFGzQWTcemjtFgjN9yCBf) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Restless Kind](https://open.spotify.com/album/4DAKrRaNrLQvATy0UO4SUJ) | 3:28 |
 | 61 | [Country Must Be Country Wide](https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Halfway To Heaven \(Deluxe Edition\)](https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p) | 3:34 |
 | 62 | [What Makes You Country](https://open.spotify.com/track/3bDXhWsPiFTHtrsMg5faL2) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What Makes You Country](https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy) | 3:55 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 82 | [Bigger Houses](https://open.spotify.com/track/021oE3KXSweagIO0HsgzcI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:17 |
 | 83 | [Red Dirt Road](https://open.spotify.com/track/5QHElgktygMkgRdpPhXfn2) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:20 |
 | 84 | [One Hell Of An Amen](https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
-| 85 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
+| 85 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 |
 | 86 | [My Town](https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:45 |
-| 87 | [Country On](https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country On](https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm) | 3:56 |
+| 87 | [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 |
 | 88 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
 | 89 | [Buy Me a Boat](https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Buy Me a Boat](https://open.spotify.com/album/6sAHtElvOhT0UQzTII618a) | 2:59 |
 | 90 | [Temporary Home](https://open.spotify.com/track/0d0tJF80562KcMndcBcSfM) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 4:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Найвизначніші жіночі колаби крізь роки та жанри\. Обкладинка: Христина Соловій та Ірина Білик
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,440 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,441 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 39 | [Мій кіт і я](https://open.spotify.com/track/3v9aS2vn55mwU8i7Eabufr) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y), [Настя Гонцул](https://open.spotify.com/artist/3HFo8jLzABeRjbns3XAUFt) | [Мій кіт і я](https://open.spotify.com/album/68b1aUd1DwGRhX7FMYCHMH) | 2:53 |
 | 40 | [На межі](https://open.spotify.com/track/3cv3MMcojDldlHeKBtClsg) | [ULIANA ROYCE](https://open.spotify.com/artist/4PZcy5sJnOBC85FxlsbzYh), [RI$HA](https://open.spotify.com/artist/3UDRHETDImjciPRBhzyzN6) | [На межі](https://open.spotify.com/album/535RXKVr5XPe9BeTOCq9tM) | 2:35 |
 
-Snapshot ID: `AAAAAFA0ufV8lx/l8bu/1Y+WqkJCLqGe`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

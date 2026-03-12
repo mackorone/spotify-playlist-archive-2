@@ -1,6 +1,6 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 314925,
+  "num_followers": 314939,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-02-03 18:46:39",
       "album": {
+        "name": "Good 'N' Country",
+        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139466,
+      "name": "Don't Let Me Cross Over",
+      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
+    },
+    {
+      "added_at": "2026-02-03 18:46:39",
+      "album": {
         "name": "Every Time Two Fools Collide",
         "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 180906,
       "name": "Every Time Two Fools Collide",
       "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
-    },
-    {
-      "added_at": "2026-02-03 18:46:39",
-      "album": {
-        "name": "Good 'N' Country",
-        "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 139466,
-      "name": "Don't Let Me Cross Over",
-      "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
     },
     {
       "added_at": "2026-02-03 18:46:39",

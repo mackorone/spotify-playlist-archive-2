@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 183053,
       "name": "Prenda Querida",
       "url": "https://open.spotify.com/track/3bTaTy217RmxD0uJHQWcI2"
@@ -1424,6 +1424,24 @@
       "duration_ms": 183053,
       "name": "Prenda Querida",
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
+    },
+    {
+      "album": {
+        "name": "20 Norte\u00f1as Los Cadetes De Linares",
+        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185063,
+      "name": "Prenda Querida",
+      "url": "https://open.spotify.com/track/67eIwOIw2JGNbWSS0Gjqmz"
     },
     {
       "album": {

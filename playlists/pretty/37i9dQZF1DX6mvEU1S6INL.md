@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,142,463 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,142,455 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 24 | [Wildflower](https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 3:39 |
 | 25 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 |
 | 26 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
-| 27 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
-| 28 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
+| 27 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
+| 28 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
 | 29 | [Echo](https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 3:34 |
 | 30 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
 | 31 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 34 | [Liar](https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 4:21 |
 | 35 | [Particles](https://open.spotify.com/track/1W2TYUenzUdOOuATtQIWS2) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 3:55 |
 | 36 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 |
-| 37 | [Call Me Lover](https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:21 |
-| 38 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
+| 37 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
+| 38 | [Call Me Lover](https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:21 |
 | 39 | [Honest \- From The Amazing Spider\-Man 2 Soundtrack](https://open.spotify.com/track/1xJ8RjDucztPOKB0ek95tf) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [The Amazing Spider\-Man 2 \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11c2pVVBENFMufPqJMIC3R) | 3:57 |
 | 40 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 |
 | 41 | [If I Get High](https://open.spotify.com/track/3O2pB9JHreUZ9F83qSNmu8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:26 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 46 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 47 | [Luna \- 2011 Remaster](https://open.spotify.com/track/20Y0ZANdyEI52MfQs6DddK) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/3YDm8Vu6IOjjVdLNHlJtj0) | 3:22 |
 | 48 | [Indigo Puff](https://open.spotify.com/track/3pJQY7UuX0DcE8pgLZhCjf) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Indigo Puff](https://open.spotify.com/album/3U87oNqyChE7Akx3b52x2w) | 3:51 |
-| 49 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
-| 50 | [Lover, Please Stay](https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 4:07 |
+| 49 | [Lover, Please Stay](https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 4:07 |
+| 50 | [Adore](https://open.spotify.com/track/1rPCgtaIF0CyKRgAwhtpbF) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Adore](https://open.spotify.com/album/4XW4uoRtDulaUs4Qb81UDx) | 3:04 |
 | 51 | [Make It Wit Chu](https://open.spotify.com/track/0Cgd3CK6D2hhbwmLRvtscH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Era Vulgaris](https://open.spotify.com/album/64SL0QEXxulD2QgwJmJbUL) | 4:50 |
 | 52 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 53 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 94 | [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 |
 | 95 | [Don't Move](https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Nightlife](https://open.spotify.com/album/76MThARuTPq59l5oseVCJT) | 4:18 |
 | 96 | [Crystals](https://open.spotify.com/track/59yvXUFVjsaZQsDs09T7eA) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Crystals](https://open.spotify.com/album/1t5eMcZmuPuL28AYU7zQSA) | 4:03 |
-| 97 | [Guru](https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Guru](https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR) | 3:24 |
-| 98 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
-| 99 | [Flowers in Your Hair](https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 1:49 |
-| 100 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
+| 97 | [Flowers in Your Hair](https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 1:49 |
+| 98 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
+| 99 | [Guru](https://open.spotify.com/track/7ygO2E3yfwZVYbzaPdGzed) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Guru](https://open.spotify.com/album/3rgAzv3ZIHp9ENbiUJYuIR) | 3:24 |
+| 100 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 
 Snapshot ID: `AAAAADjUxP7HYQgqRhPeQ35ytn/iP0qU`

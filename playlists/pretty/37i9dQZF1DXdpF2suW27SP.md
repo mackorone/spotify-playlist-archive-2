@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Piruka entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,461 likes - 74 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,463 likes - 74 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 23 | [Offline](https://open.spotify.com/track/3dXtvTPF6BzNaiHvS7Nnrh) | [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Elixir](https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3) | 4:06 |
 | 24 | [Hoje](https://open.spotify.com/track/6MDcpI3jbYdG7nkieRyAKC) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Hoje](https://open.spotify.com/album/77G9r1x1JEgNPdfI6IQoX5) | 1:53 |
 | 25 | [Hallelujah](https://open.spotify.com/track/1AbamG1qCxNvLphUBh2p5x) | [Monsta](https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS), [DJ Liu One](https://open.spotify.com/artist/5D5vBgRfIJwhMPGT5uIngY) | [Hallelujah](https://open.spotify.com/album/7oKjf413pSVGzkZ600pER1) | 3:28 |
-| 26 | [Sac 2660](https://open.spotify.com/track/2JhekrzSS6kInDeZOT7XXy) | [PMBRUTOZ](https://open.spotify.com/artist/0Q5k1FJfDShLuYFDQje0P5), [Stevão NDM](https://open.spotify.com/artist/5JpEb19393qOrYgRniHY6h) | [Sac 2660](https://open.spotify.com/album/2z5HDH4X78AEeXJsL5AMAI) | 3:13 |
+| 26 | [Sac 2660](https://open.spotify.com/track/2JhekrzSS6kInDeZOT7XXy) | [PMBRUTOZ](https://open.spotify.com/artist/0Q5k1FJfDShLuYFDQje0P5), [Stevão NDM](https://open.spotify.com/artist/5JpEb19393qOrYgRniHY6h), [Traficante D'Arte](https://open.spotify.com/artist/06MFQ7wtovNj0lEUJoIeyF) | [Sac 2660](https://open.spotify.com/album/2z5HDH4X78AEeXJsL5AMAI) | 3:13 |
 | 27 | [Alta Cultura \- A Sós](https://open.spotify.com/track/1X4How3b1rNIcCcxh37jzd) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Alta Cultura \- A Sós](https://open.spotify.com/album/5uLZRPLRLBHqb8952M6wO5) | 2:57 |
 | 28 | [MAGIA](https://open.spotify.com/track/0lQN7zckOfl2j0ror5i4lo) | [CBG Oficial](https://open.spotify.com/artist/3zJRDGbXRFrghnrvEpPyhi), [Wiz F](https://open.spotify.com/artist/5hzRTQXOs3cdROGIPGBSKt), [Abu Dhabii](https://open.spotify.com/artist/3xnls1th8xmJyZhnU5zCEj), [Lil Janne](https://open.spotify.com/artist/6VufL93AChGuSVXiu2natZ), [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn) | [TRAP NO AP II](https://open.spotify.com/album/2vK2hS9g9i7uor0pxzcOWK) | 4:43 |
 | 29 | [Vivara](https://open.spotify.com/track/61u2LJOnd76zIPwPl0UT4p) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Zara G](https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb), [Tizi Kilates](https://open.spotify.com/artist/0hYV01PWntsGM94roH6CdE), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Vivara](https://open.spotify.com/album/5ccufuQwQSPkTnxUysjZMT) | 3:34 |

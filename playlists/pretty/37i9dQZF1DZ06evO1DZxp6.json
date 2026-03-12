@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 241490,
+  "num_followers": 241530,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABjuPJpQtUt9c+Lxe7FkbQo",
+  "snapshot_id": "aa9fAAAAAACbxtzx5Kxs0fqS10vkSPM6",
   "tracks": [
     {
       "added_at": null,
@@ -535,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Dorados",
-        "url": "https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193015,
-      "name": "Tiempos Dorados",
-      "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otra Cosa",
-        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Amores Plat\u00f3nicos",
-      "url": "https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuentito",
         "url": "https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ"
       },
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
       },
       "artists": [
         {
@@ -596,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 172306,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+      "duration_ms": 154666,
+      "name": "Amores Plat\u00f3nicos",
+      "url": "https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ"
     },
     {
       "added_at": null,
@@ -615,6 +583,38 @@
       "duration_ms": 200706,
       "name": "Tu Calor",
       "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 193015,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
     },
     {
       "added_at": null,

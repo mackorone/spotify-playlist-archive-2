@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,032 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,051 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 37 | [Antimatter Man](https://open.spotify.com/track/6pLfrcn8DfDLW0tV3UYFjE) | [Man Or Astro\-Man?](https://open.spotify.com/artist/3z3lEz2qH5h6qJa8DYukxY) | [Defcon 5...4...3...2...1](https://open.spotify.com/album/5b59CWlbRYqdAJkoj1gQKe) | 2:35 |
 | 38 | [Pintor](https://open.spotify.com/track/41APmx0ZZyNS9ARvS2R0ad) | [Hawaii Samurai](https://open.spotify.com/artist/76vLOyUJh88z0lsVAV6PgK) | [The Octopus Incident? \(This Was the Day That Engulfed the Space in Terror\)](https://open.spotify.com/album/1YwgzJrFjMNnCedQPETpE0) | 2:38 |
 | 39 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
-| 40 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 |
+| 40 | [Return Of The Death Ray](https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Organ Grinder](https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR) | 2:00 |
 | 41 | [Shooby Doo Wop](https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Daniel Gutierrez](https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:28 |
-| 42 | [Return Of The Death Ray](https://open.spotify.com/track/1gGHDAJNzivn9ZJCTVULFe) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Organ Grinder](https://open.spotify.com/album/3vLdrulP4lBz0hT6TyGmsR) | 2:00 |
+| 42 | [Bocanegra](https://open.spotify.com/track/6tz2mMoLyvbpjZglG1WqYp) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Cañonazo Electrocumbiero](https://open.spotify.com/album/0j4xaPrlXNtLIpC9gUILju) | 4:24 |
 | 43 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
 | 44 | [El Garage de Gina Monster](https://open.spotify.com/track/6L6npzAT4Cd8cD0U2n8Fgk) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Tequila Connection 3](https://open.spotify.com/album/1jzDxQ0X1yNxjcg7mKEhlC) | 3:03 |
 | 45 | [Qué Divertido](https://open.spotify.com/track/6WKzHKnJhlD5aNAxfRLsER) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [El Jugador](https://open.spotify.com/album/6smHJpUz67QCkxAgtUAkP2) | 3:03 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 56 | [Acapulco Rock](https://open.spotify.com/track/6bZ7FtpxiN3gGUBw5f7ZKN) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acapulco Rock](https://open.spotify.com/album/4kKdCpKunuITYaZAMneEgW) | 3:02 |
 | 57 | [Goths In A Graveyard](https://open.spotify.com/track/5Mx9iMvKCeGy97fz07mB6C) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD), [Jess\-O\-Lantern](https://open.spotify.com/artist/75aavfZl69BZ7OU30f5APl) | [Summerween Surf](https://open.spotify.com/album/1g9thBnLoWTelLc6Yls2BC) | 4:22 |
 | 58 | [Fiesta Inolvidable \(Estamos bien\)](https://open.spotify.com/track/42uenM4LIuu6DiSLGH11cV) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Fiesta inolvidable \(Estamos bien\)](https://open.spotify.com/album/4RHwnRFgdxKWmAW2beG9pW) | 3:14 |
-| 59 | [Nación Apache](https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:08 |
-| 60 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
+| 59 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
+| 60 | [Nación Apache](https://open.spotify.com/track/2VDdNo02QCA2nChBQKMqp3) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:08 |
 | 61 | [Fathom This!](https://open.spotify.com/track/7fiTe4XWrQbJpAhnxqmM4U) | [The Fathoms](https://open.spotify.com/artist/0doqn5jnYAYSpkhmafrmkl) | [Fathom This!](https://open.spotify.com/album/2o0iSopA79scEHq1vvNasA) | 3:15 |
 | 62 | [Blue Demon Jr.](https://open.spotify.com/track/5xMxiKym9ruYX1VkP55IO0) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Dr\. Malicia / 10 Años Elásticos](https://open.spotify.com/album/0JiiIU9cYqCKB821qpySss) | 2:14 |
 | 63 | [Twist Del Elefante](https://open.spotify.com/track/58kYjQzf6V58d4j2gQH2yN) | [The Cavernarios](https://open.spotify.com/artist/6fsKu7O1tqv4la4xy0fIOZ) | [Sangre en el Atlántico](https://open.spotify.com/album/0dGcnozdWfdgdPez34CCbp) | 2:47 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 69 | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 |
 | 70 | [Surf Vs\. The Flying Saucers](https://open.spotify.com/track/2M9DsKdenidJeWP1mqcfNq) | [Urban Surf Kings](https://open.spotify.com/artist/2PibVUaJBzKOmP872xVQ02) | [Surf Vs The Flying Saucers](https://open.spotify.com/album/1gwqaSqAt3klyYmbATSDNu) | 2:39 |
 | 71 | [Lord Hunt Surf Party](https://open.spotify.com/track/7hApbsEUHchioCqgmbVafD) | [The Bomboras](https://open.spotify.com/artist/3yoSVQdO70gyHa8hfpoJwD) | [Savage Island!](https://open.spotify.com/album/6rYOpRv7EjECzIvQIoV6rN) | 2:10 |
-| 72 | [Chicas Kamikaze](https://open.spotify.com/track/72kbuWvm36guCtSreHM203) | [Matorralman](https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB) | [Guateque Estelar](https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj) | 5:11 |
-| 73 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
-| 74 | [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 |
+| 72 | [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 |
+| 73 | [Chicas Kamikaze](https://open.spotify.com/track/72kbuWvm36guCtSreHM203) | [Matorralman](https://open.spotify.com/artist/4FAxuKuqbciGKSsTS5AgaB) | [Guateque Estelar](https://open.spotify.com/album/5fLy3qmhRpmV4DPtqw4DGj) | 5:11 |
+| 74 | [Soy Pandillero](https://open.spotify.com/track/5xeZDsYEOaBWAAFexDACba) | [Los Pandilleros](https://open.spotify.com/artist/5FwgeguYu3pQhvJY9gqaSA) | [Soy Pandillero](https://open.spotify.com/album/2qxHcI06mYcsuvybw0JJ84) | 3:44 |
 | 75 | [El Solitario](https://open.spotify.com/track/530yFOZtT2e2dYySwLUiuZ) | [Los Elasticos](https://open.spotify.com/artist/6c4NKR57VVR6AjaoZB6q9Z) | [Entre Leyendas y Villanos](https://open.spotify.com/album/28me1dL1B09hWNPrajSIOh) | 2:21 |
 
 Snapshot ID: `AAAAAApN3FS7jMYa0vU2Pcth3VwUNZxI`

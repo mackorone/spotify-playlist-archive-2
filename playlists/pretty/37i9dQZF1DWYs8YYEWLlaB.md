@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,094 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,170 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 29 | [MA CHÉRIE](https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Aksan](https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 2:35 |
 | 30 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 31 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 |
-| 32 | [BURADA SOKAKLAR](https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BURADA SOKAKLAR](https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2) | 2:19 |
-| 33 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
+| 32 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
+| 33 | [BURADA SOKAKLAR](https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BURADA SOKAKLAR](https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2) | 2:19 |
 | 34 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 |
 | 35 | [SENUN CANUN SAĞ OLSUN](https://open.spotify.com/track/33dy9GFQniX4FzBUeLXBz0) | [Yüksel Baltacı](https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw) | [SENUN CANUN SAĞ OLSUN](https://open.spotify.com/album/1GmK9l23dFdXVDopreBFCe) | 4:11 |
 | 36 | [DUY BENİ](https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT) | [Göksel İpekçi](https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr) | [DUY BENİ](https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI) | 2:31 |
 | 37 | [STOP SMOKING](https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [STOP SMOKING](https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf) | 1:37 |
-| 38 | [Sigara](https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Perdeler](https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y) | 4:54 |
-| 39 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
+| 38 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
+| 39 | [Sigara](https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Perdeler](https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y) | 4:54 |
 | 40 | [Beni Unutma](https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Beni Unutma](https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM) | 3:10 |
-| 41 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
-| 42 | [Bir Taraf Seç](https://open.spotify.com/track/6o9js86rcF8IXhFKJmrKnb) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Önsöz](https://open.spotify.com/album/24MwD4s7ScUSlSREViF2eR) | 4:37 |
+| 41 | [Bir Taraf Seç](https://open.spotify.com/track/6o9js86rcF8IXhFKJmrKnb) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Önsöz](https://open.spotify.com/album/24MwD4s7ScUSlSREViF2eR) | 4:37 |
+| 42 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
 | 43 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 |
 | 44 | [Kendine Dünya](https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Kendine Dünya](https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp) | 3:21 |
 | 45 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |

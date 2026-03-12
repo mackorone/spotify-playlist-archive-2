@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 
 > Temas inolvidables del baúl de los recuerdos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,032,123 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,032,049 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,11 +64,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 54 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 |
 | 55 | [1+1=2 Enamorados](https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [1 + 1 = 2 Enamorados](https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK) | 3:25 |
 | 56 | [Quien Eres Tu?](https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU) | [Nelson Ned](https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s) | [Selecao De Ouro Vol.2](https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX) | 4:17 |
-| 57 | [Soy rebelde](https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:13 |
-| 58 | [Mi soledad y yo](https://open.spotify.com/track/7nY8fkDi2zmlQQHGSN9U9m) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 4:59 |
-| 59 | [Popurri Juan Gabriel Medley](https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Solo Lo Mejor \- 20 Exitos](https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb) | 4:55 |
-| 60 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
-| 61 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
+| 57 | [Mi soledad y yo](https://open.spotify.com/track/7nY8fkDi2zmlQQHGSN9U9m) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 4:59 |
+| 58 | [Soy rebelde](https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:13 |
+| 59 | [No Me Enseñaste](https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt) | 4:29 |
+| 60 | [Popurri Juan Gabriel Medley](https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Solo Lo Mejor \- 20 Exitos](https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb) | 4:55 |
+| 61 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 62 | [Como Han Pasado los Años \(with Julio Iglesias\)](https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:30 |
 | 63 | [Dímelo Delante de Ella](https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 2:36 |
 | 64 | [Canción de Otoño](https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Entre El Agua Y El Fuego](https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI) | 4:31 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20VDU4OIBfS.md) - [plain]
 | 90 | [Amandote](https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2) | [Laureano Brizuela](https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv) | [Solo](https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58) | 3:54 |
 | 91 | [Esta Cobardía](https://open.spotify.com/track/7xT0YNKaOkvntYehrbRWen) | [Chiquetete](https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z) | [Grandes Exitos](https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn) | 3:40 |
 | 92 | [Sombras \- Versión Trío](https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Exitos Con Trio](https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD) | 3:27 |
-| 93 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
-| 94 | [Me Enamoro De Ti](https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:11 |
-| 95 | [Echame A Mi La Culpa](https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [My Spanish Album](https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu) | 2:57 |
+| 93 | [Me Enamoro De Ti](https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:11 |
+| 94 | [Echame A Mi La Culpa](https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [My Spanish Album](https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu) | 2:57 |
+| 95 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
 | 96 | [Heridas](https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 3:33 |
 | 97 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 |
 | 98 | [My Way \(with Paul Anka\)](https://open.spotify.com/track/2komT9UQNsUDo7qvTDAZKn) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [My Life: The Greatest Hits](https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U) | 4:23 |

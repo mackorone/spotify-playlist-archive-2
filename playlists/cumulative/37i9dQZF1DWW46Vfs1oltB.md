@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Sik\-K\)
 
-1,793 songs - 4 day 0 hr 5 min
+1,794 songs - 4 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,6 +702,7 @@
 | [I BE LIKE \(Feat\. SOLE\)](https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [UNSTEADY](https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz) | 3:04 | 2023-03-27 | 2023-07-19 |
 | [I can do it too! \(feat\. Don Mills\)](https://open.spotify.com/track/5bAHegvxvk1w2MDI0fxEpa) | [HWANG JI SANG](https://open.spotify.com/artist/3dQdwIvG10kKFroCxUjcp8), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [I can do it too! \(feat\. Don Mills\)](https://open.spotify.com/album/3Jvm7AGzDclwJDo8W9WeQ3) | 2:48 | 2022-03-03 | 2022-07-06 |
 | [I can’t be cool \(with Leellamarz\)](https://open.spotify.com/track/1GnC5Vv0iJ3eTnsWtMFG4X) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Sick of Love](https://open.spotify.com/album/3G1eFv8dHnjuXXTT1sMqIs) | 2:54 | 2024-01-31 | 2024-06-05 |
+| [I DON'T BARGAIN](https://open.spotify.com/track/2aTs07BHIgEoelYtdYONw7) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/62Jpd59HqdZiKEu0aewPtY) | 2:50 | 2026-03-11 |  |
 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-03-29 | 2024-06-29 |
 | [I Don't Love You \(Feat\. Coogie\)](https://open.spotify.com/track/3U7bYD9n4QP0P3LITLgLkc) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [I Don't Love You](https://open.spotify.com/album/1WHtJ18aMLsWdxak99t7Bh) | 3:17 | 2021-12-18 | 2022-07-08 |
 | [I don't wanna be your hero](https://open.spotify.com/track/0cgMaaaOwqcpkPhknIOQcr) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [I don't wanna be your hero](https://open.spotify.com/album/2SJ4aGleIw90KGxk0ymaw9) | 2:40 | 2024-12-02 | 2025-04-02 |

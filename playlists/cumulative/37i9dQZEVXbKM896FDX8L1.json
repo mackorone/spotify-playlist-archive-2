@@ -19412,7 +19412,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -22578,7 +22578,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -31694,7 +31694,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 189527,
       "name": "Schoolyard Days",
       "url": "https://open.spotify.com/track/5IEDBUuXMagCcYQZARFvrJ"
@@ -33170,7 +33170,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 187467,
       "name": "Socrates Smiled",
       "url": "https://open.spotify.com/track/7KnPqZ12WBmU8GJUy3ljAM"
@@ -38037,6 +38037,24 @@
     },
     {
       "album": {
+        "name": "The Sick",
+        "url": "https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195434,
+      "name": "The Sick",
+      "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -38384,7 +38402,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 140586,
       "name": "Thinking 'bout You",
       "url": "https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s"

@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 54273,
+  "num_followers": 54300,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACkG6rSi4zLX0Qi/d1Z8xjy",
+  "snapshot_id": "aa9fAAAAAAAEDNL8YUNXsX7tYTtByBy7",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183311,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Que Color Es La Suerte",
         "url": "https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 221617,
       "name": "De Que Color Es La Suerte",
       "url": "https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
     },
     {
       "added_at": null,
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pongase Bien Chula",
-        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Adrian Chaparro",
+          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Pongase Bien Chula",
-      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
+      "duration_ms": 245738,
+      "name": "Los 5 Pesos",
+      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
     },
     {
       "added_at": null,
@@ -751,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+        "name": "Pongase Bien Chula",
+        "url": "https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         },
         {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 245738,
-      "name": "Los 5 Pesos",
-      "url": "https://open.spotify.com/track/5FsULCWGefpCSSxufIH4lw"
+      "duration_ms": 164000,
+      "name": "Pongase Bien Chula",
+      "url": "https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Banderas",
-        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158405,
-      "name": "Dos Banderas",
-      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/63XdgF882pL2ryGEM8jPSR"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 206271,
       "name": "La Envidia Se Dio Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/46WJUGGILoo7R7GwheR1wh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Banderas",
+        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158405,
+      "name": "Dos Banderas",
+      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
     },
     {
       "added_at": null,

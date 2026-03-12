@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-175 songs - 10 hr 55 min
+179 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-25 | 2025-12-28 |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2026-01-22 | 2026-02-23 |
 | [Diane \- Demo Version](https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Diane \(Demo Version\)](https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc) | 4:11 | 2025-10-17 |  |
+| [Dissociate](https://open.spotify.com/track/6c7JznrRYkqJzGKLVg5eYa) | [Social Dissonance](https://open.spotify.com/artist/3QdyYCm24rYz2bE45nLZQr) | [This Is Hell](https://open.spotify.com/album/6tsPIINj19lRpwY8vrMfVB) | 4:59 | 2026-03-11 |  |
 | [Don't Stop At The Top](https://open.spotify.com/track/5RqZlbMgesvJ9K3aTZjxBA) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Don't Stop At The Top](https://open.spotify.com/album/6ziIXzZ8WHJvm9NLQP15Ck) | 4:01 | 2026-01-16 | 2026-02-23 |
 | [Down \- '25](https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 4:39 | 2026-02-11 |  |
 | [Dr\. Hammer](https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 3:48 | 2026-02-04 | 2026-02-23 |
@@ -64,6 +65,7 @@
 | [Espérame](https://open.spotify.com/track/02MC4VLfrsNdMcS4gwjph1) | [Forte](https://open.spotify.com/artist/0KGiPwvoreglthW7aq0R3V) | [Espérame](https://open.spotify.com/album/3FyiS5bBxKl6zhAQi0lVZA) | 3:26 | 2025-10-11 |  |
 | [Eva sin nombre](https://open.spotify.com/track/4o3uIjspoGtA5aTokB9tsT) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 3:09 | 2025-11-04 | 2025-12-28 |
 | [Everything Explode](https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf) | [Permanent Risk](https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa) | [Everything Explode](https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B) | 3:45 | 2025-11-26 | 2025-12-28 |
+| [Falling Ashes](https://open.spotify.com/track/2qtTj2YxabvM10StglYGLl) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Falling Ashes](https://open.spotify.com/album/5nQNdBbRmACdZa3WWWy2B9) | 4:19 | 2026-03-12 |  |
 | [FMU Make Me Cry](https://open.spotify.com/track/5hsVJlvCBvfwtSdL7IS8A4) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2) | [Scattered Memories](https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1) | 2:00 | 2025-11-04 | 2025-12-28 |
 | [Fugaz](https://open.spotify.com/track/3dzGcbIkdeQqwbHCOnv4h5) | [Lirium](https://open.spotify.com/artist/0A5pTrUZAtZ9tl2TSySp3d) | [Fugaz](https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S) | 5:19 | 2025-11-06 | 2025-12-28 |
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 | 2025-12-28 |
@@ -88,6 +90,7 @@
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [It's Hard To Break Me](https://open.spotify.com/track/7GFlX4gXxCoRjpO8p7bMyy) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:11 | 2025-09-30 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-12 |  |
+| [Just a Little](https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:34 | 2026-03-12 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2026-01-07 | 2026-02-02 |
 | [Just Another Sun Going Down](https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons in Exile](https://open.spotify.com/album/2JpF6zKefRMIsMZIWEjk0c) | 3:42 | 2025-11-04 | 2025-12-28 |
 | [KARMA](https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi) | [James Ec](https://open.spotify.com/artist/3WausLWOfDcxxAr2Bm7Ly9) | [KARMA](https://open.spotify.com/album/5Bq8ujUGlIipkRlVi8Erwt) | 2:52 | 2026-02-07 |  |
@@ -168,6 +171,7 @@
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-02-19 |  |
 | [The Last On the List](https://open.spotify.com/track/68s4TaClnKwrtGW9A8Rcvt) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:49 | 2025-10-13 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 | 2025-12-28 |
+| [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 | 2026-03-11 |  |
 | [This is under control.](https://open.spotify.com/track/600eSAScJN873sbh9virWp) | [Twist & Writhe](https://open.spotify.com/artist/4zRz9OrERKG1EJriVM7U0s) | [This is under control.](https://open.spotify.com/album/6sSQkIGAZJR1QiYMCtHQds) | 3:48 | 2025-12-03 | 2025-12-28 |
 | [thought ya do](https://open.spotify.com/track/7gvfCu73H2PTccxVNK6Xtn) | [Dylan Sherry](https://open.spotify.com/artist/47SpsruvmDVLTAuRZqAEMH) | [Infrequencies](https://open.spotify.com/album/4UocYoi60pviXOv5jwzuOX) | 3:20 | 2025-11-11 | 2025-12-28 |
 | [tried](https://open.spotify.com/track/4tpbidJIGZLC0aAEC6odzb) | [Shunk](https://open.spotify.com/artist/359TdwOBcq9EK1vT8IuQ5J) | [tried](https://open.spotify.com/album/462ANaG1kidEM2E9L9JbzK) | 4:17 | 2025-11-11 | 2025-12-28 |

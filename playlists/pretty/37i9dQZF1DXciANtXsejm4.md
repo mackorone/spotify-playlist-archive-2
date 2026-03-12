@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,623 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,706 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 19 | [Tu Mujer En Mi Cama](https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Más Románticos Que Nunca](https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M) | 3:31 |
 | 20 | [Te Tengo que Olvidar](https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7) | [Los Del Maranaho](https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs) | [20 Grandes Exitos](https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n) | 3:13 |
 | 21 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
-| 22 | [Ella Dijo](https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 3:57 |
-| 23 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
+| 22 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 |
+| 23 | [Ella Dijo](https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Ritmo, Pasión y Sentimiento](https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd) | 3:57 |
 | 24 | [El Chancho Come Caviar](https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Sólo Dios Puede Juzgarme](https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h) | 2:35 |
 | 25 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
 | 26 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 41 | [Si Tu No Estas](https://open.spotify.com/track/6cZ1wwLjxLgLqLlX6zuVkl) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 4:54 |
 | 42 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
 | 43 | [Una Calle Nos Separa](https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:24 |
-| 44 | [Los Amigos Que Yo Tengo](https://open.spotify.com/track/09bn42Fj5RN9J9Z63f1S7A) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Los Amigos Que Yo Tengo](https://open.spotify.com/album/63q9qE8lgsdMWdjucU23SO) | 2:57 |
+| 44 | [Perra](https://open.spotify.com/track/5HgNYJmYucAPD2UpuQfL3t) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Filarmónica de Santa Fe](https://open.spotify.com/artist/3hNlZvzmCEeSSLBTvwJ7E6) | [Sinfónico 45 Años \- En Vivo](https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH) | 4:11 |
 | 45 | [Culpable o No](https://open.spotify.com/track/0Rhk4sjBOHXpkQuxMOFwic) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Culpable o No](https://open.spotify.com/album/7zd7EMzDmnT1vwxCzIjAKj) | 3:05 |
 | 46 | [Tu Cómo Estás](https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx) | [Sergio Torres y Los Dueños Del Swing](https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [A Pura Sangre](https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz) | 3:38 |
 | 47 | [Esta Noche Quiero Brandy](https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Respetando un Estilo](https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC) | 4:01 |

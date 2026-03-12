@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 642,
+  "num_followers": 645,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABlPpDuhw8pOCdUjwf432fUYvuDNHK",
+  "snapshot_id": "AAABmZgpR/XBA1mKoKkUJTw86ocbHLan",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8999,6 +8999,86 @@
       "duration_ms": 160000,
       "name": "Cycles",
       "url": "https://open.spotify.com/track/38bi05yCUFyHLU08QEMc50"
+    },
+    {
+      "added_at": "2026-03-11 20:34:19",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/3vXhIxQevrJhppiLRMh94F"
+      },
+      "artists": [
+        {
+          "name": "Nayyar",
+          "url": "https://open.spotify.com/artist/1txzMXuzAsFb8f3IUtgBUh"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "PEINE",
+      "url": "https://open.spotify.com/track/4KMb5my1t67v1yC3JAIF5v"
+    },
+    {
+      "added_at": "2026-03-11 20:34:30",
+      "album": {
+        "name": "Feeling Down",
+        "url": "https://open.spotify.com/album/5VFTtHwMuFTkqwiz2v2qFm"
+      },
+      "artists": [
+        {
+          "name": "JkashMurkum",
+          "url": "https://open.spotify.com/artist/1Epa5JZno4Jbr9sJTykp5C"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Feeling Down",
+      "url": "https://open.spotify.com/track/0B85RhpXbAe90r3wSSsw5u"
+    },
+    {
+      "added_at": "2026-03-11 20:35:01",
+      "album": {
+        "name": "Clean My Cuts II",
+        "url": "https://open.spotify.com/album/0BjotdDyebDkiFoo6AUQOw"
+      },
+      "artists": [
+        {
+          "name": "Frvrmars",
+          "url": "https://open.spotify.com/artist/4rR3lkqLfQpS4UO6fFnWri"
+        }
+      ],
+      "duration_ms": 103491,
+      "name": "Clean My Cuts II",
+      "url": "https://open.spotify.com/track/1rLeYqrwDshfgsi6SYmkem"
+    },
+    {
+      "added_at": "2026-03-11 20:35:04",
+      "album": {
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/2jSszvlN2bOYctf59rUShe"
+      },
+      "artists": [
+        {
+          "name": "MAXZY",
+          "url": "https://open.spotify.com/artist/0Q7IxVepXapwhfsHtHZdPo"
+        }
+      ],
+      "duration_ms": 138572,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/2z0GmPAHek5JOcXH1ANfpH"
+    },
+    {
+      "added_at": "2026-03-11 20:36:25",
+      "album": {
+        "name": "Vodka Gimlet",
+        "url": "https://open.spotify.com/album/1GZehL05fyv9OicjDwCWaW"
+      },
+      "artists": [
+        {
+          "name": "TheJesterFeste",
+          "url": "https://open.spotify.com/artist/6vz1X4moDOarYoxIVdZDvY"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Vodka Gimlet",
+      "url": "https://open.spotify.com/track/4SAUPzFcpA73GE1oYsFgyy"
     }
   ],
   "unique_name": "New Music Daily",

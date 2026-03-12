@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAD/JvRNCV2CPfHqsmfVjdC9",
+  "snapshot_id": "aa9fAAAAAADOqC34Q4lyjR2EYRT7DcXr",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 208287,
+      "name": "No Features - feat. Kodak Black",
+      "url": "https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jugg King",
         "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 247066,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/5jc0Ksd56qSw6zZwVsvEtg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 208287,
-      "name": "No Features - feat. Kodak Black",
-      "url": "https://open.spotify.com/track/0jxJiq2bVLGlqLoqhdGZqz"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugg King",
-        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "TK Kravitz",
-          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
-        }
-      ],
-      "duration_ms": 185835,
-      "name": "Used to Ballin'",
-      "url": "https://open.spotify.com/track/5l0VBKnxoohSAd8RPH4AhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 233725,
       "name": "Do It Big (feat. Future)",
       "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jugg King",
+        "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "TK Kravitz",
+          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
+        }
+      ],
+      "duration_ms": 185835,
+      "name": "Used to Ballin'",
+      "url": "https://open.spotify.com/track/5l0VBKnxoohSAd8RPH4AhK"
     },
     {
       "added_at": null,
@@ -455,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap House 3",
-        "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Muddy (feat. Young Dolph & Young Scooter)",
-      "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Bricks 2 \u2013 Mixtape",
         "url": "https://open.spotify.com/album/3JNEc9m9mgHGvomUSXa295"
       },
@@ -503,6 +479,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap House 3",
+        "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Muddy (feat. Young Dolph & Young Scooter)",
+      "url": "https://open.spotify.com/track/282NTCv9r0PUgcS9c1b3iK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jugg King",
         "url": "https://open.spotify.com/album/2HdY21WQYtn5KYO2GyDjgk"
       },
@@ -515,6 +515,26 @@
       "duration_ms": 184293,
       "name": "Life",
       "url": "https://open.spotify.com/track/0OTGBE7VJnIAXvgYw7E1t4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Pledge Allegiance to the Trap, Vol. 5",
+        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 185077,
+      "name": "Imma Ball Forever",
+      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
     },
     {
       "added_at": null,
@@ -543,42 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Pledge Allegiance to the Trap, Vol. 5",
-        "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
       },
       "artists": [
         {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
         },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "Imma Ball Forever",
-      "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Recipe",
-        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
-      },
-      "artists": [
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 176007,
-      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
-      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
+      "duration_ms": 213026,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
     },
     {
       "added_at": null,
@@ -603,22 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+        "name": "The Recipe",
+        "url": "https://open.spotify.com/album/2vPJKv6wLnRQongOt3WSTE"
       },
       "artists": [
         {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 213026,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
+      "duration_ms": 176007,
+      "name": "Never Broke Again - feat. YoungBoy Never Broken Again",
+      "url": "https://open.spotify.com/track/2hnEuuck5qMvTOCNgqlwiu"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 176901,
+      "name": "Come Eat Wit Us",
+      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Bank",
         "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 248926,
       "name": "Dope Talk (feat. 2 Chainz & Young Scooter)",
       "url": "https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 176901,
-      "name": "Come Eat Wit Us",
-      "url": "https://open.spotify.com/track/7loTO2VOr9KxJRL7cJPkw4"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 187063,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Free Bricks 2",
         "url": "https://open.spotify.com/album/0u1zuwdz8PmbNBMpR8jAx2"
       },
@@ -935,38 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
       },
       "artists": [
         {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 187063,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Young Jefe",
-        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 213773,
-      "name": "Medellin (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+        "name": "Young Jefe",
+        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
+      "duration_ms": 213773,
+      "name": "Medellin (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
     },
     {
       "added_at": null,

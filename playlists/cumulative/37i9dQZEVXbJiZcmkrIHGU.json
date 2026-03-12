@@ -17714,7 +17714,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -31906,7 +31906,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 155555,
       "name": "Haus mit Boot",
       "url": "https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ"
@@ -37074,7 +37074,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -48288,7 +48288,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 139065,
       "name": "Miami",
       "url": "https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh"
@@ -49086,7 +49086,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 179106,
       "name": "Mittelmeer",
       "url": "https://open.spotify.com/track/6leQi7NakJQS1vHRtZsroe"
@@ -58446,7 +58446,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 216026,
       "name": "Pop",
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
@@ -64594,7 +64594,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 229560,
       "name": "Season 2 Weight Loss",
       "url": "https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe"
@@ -69327,6 +69327,28 @@
     },
     {
       "album": {
+        "name": "Superhelden",
+        "url": "https://open.spotify.com/album/6pmcoFuGUefVjIKPSil3rg"
+      },
+      "artists": [
+        {
+          "name": "YBRE",
+          "url": "https://open.spotify.com/artist/7qdBCGakEd1aUD8noTmsfs"
+        },
+        {
+          "name": "CAMO23",
+          "url": "https://open.spotify.com/artist/2BdRV1FwKGgoa4c9iusJ2C"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93235,
+      "name": "Superhelden",
+      "url": "https://open.spotify.com/track/2atD9qfo7yZKfT70Iv2Jxn"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -69752,7 +69774,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -71990,7 +72012,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 169960,
       "name": "The Waiting Game",
       "url": "https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN"
@@ -77374,7 +77396,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/51tf2J1gGNLG0IIvLquE64"
@@ -78308,7 +78330,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"

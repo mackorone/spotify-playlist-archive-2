@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 7630,
+  "num_followers": 7633,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAArAfgJt6lwsP0a4ZApRTMk",
+  "snapshot_id": "aa9fAAAAAABLw6f8Aa7LmZKIDW34Y4yP",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enko Den",
-        "url": "https://open.spotify.com/album/1ZapwPfnuJ8U2o8dwlHVC7"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 294680,
-      "name": "Enko Den",
-      "url": "https://open.spotify.com/track/0LBECuTjYgvP3jwdv07Yet"
+      "duration_ms": 349013,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/37SDSDaWZtD3KmNHPjHQkC"
+        "name": "Enko Den",
+        "url": "https://open.spotify.com/album/1ZapwPfnuJ8U2o8dwlHVC7"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 349013,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6R665j6sltbo8FGZ3NIHmk"
+      "duration_ms": 294680,
+      "name": "Enko Den",
+      "url": "https://open.spotify.com/track/0LBECuTjYgvP3jwdv07Yet"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma To Odo Mu",
-        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 339453,
-      "name": "Bla Bla Bla",
-      "url": "https://open.spotify.com/track/0Tii7GjTjBIf8e4cRllMy3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 369160,
       "name": "Ahenfo Kyiniye",
       "url": "https://open.spotify.com/track/2I56btX31wtV1gSAvZJXXl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma To Odo Mu",
+        "url": "https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 339453,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/0Tii7GjTjBIf8e4cRllMy3"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Tasso Eburo",
-      "url": "https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 276560,
       "name": "Emere Pa Beba",
       "url": "https://open.spotify.com/track/4MvzOnaUIoQp28H9BAZMLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Tasso Eburo",
+      "url": "https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 384773,
-      "name": "Tokrom",
-      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahenfo Kyiniye",
         "url": "https://open.spotify.com/album/1pp1UCMS5bibfJioxWGlw7"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 265186,
       "name": "Gyabi Wu a Gyabi Te Ase",
       "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 384773,
+      "name": "Tokrom",
+      "url": "https://open.spotify.com/track/0TIrrKrlkSThne6AZq4Z90"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/everything\-comes\-back\-around\-and">read our substack 🫧  </a>   Cover: waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,828 likes - 174 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,809 likes - 174 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

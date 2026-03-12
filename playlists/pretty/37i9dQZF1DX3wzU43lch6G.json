@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114333,
+  "num_followers": 114325,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Aacayipsin",
-        "url": "https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 249475,
-      "name": "G\u00fcl D\u00f6kt\u00fcm Yollar\u0131na",
-      "url": "https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Yineleme",
         "url": "https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 192250,
       "name": "Cesaretsizce Olmuyor",
       "url": "https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Aacayipsin",
+        "url": "https://open.spotify.com/album/06EBiLh3V0q2dOUdXnic7e"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 249475,
+      "name": "G\u00fcl D\u00f6kt\u00fcm Yollar\u0131na",
+      "url": "https://open.spotify.com/track/2v57dbjigdKRh7MY6ME3WB"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
-      },
-      "artists": [
-        {
-          "name": "Tarkan",
-          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
-        }
-      ],
-      "duration_ms": 262246,
-      "name": "A\u015fk",
-      "url": "https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Unuttum Derdimi",
         "url": "https://open.spotify.com/album/6nOITqRFI6CBNpFzmoDD5s"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 229787,
       "name": "Unuttum Derdimi",
       "url": "https://open.spotify.com/track/62QJlc5UNrMSl8sgIr6BYM"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/11KfFiHZxXiBoEq52HAsJi"
+      },
+      "artists": [
+        {
+          "name": "Tarkan",
+          "url": "https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k"
+        }
+      ],
+      "duration_ms": 262246,
+      "name": "A\u015fk",
+      "url": "https://open.spotify.com/track/02AO4xUN8MszyC1j4UpNkr"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -691,30 +691,18 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
-        "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
+        "name": "FIRTINAYT",
+        "url": "https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS"
       },
       "artists": [
         {
-          "name": "K\u00d6FN",
-          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
-        },
-        {
-          "name": "Salman Tin",
-          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
-        },
-        {
-          "name": "BKE",
-          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
-        },
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+          "name": "B\u00fcy\u00fck Ev Ablukada",
+          "url": "https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi"
         }
       ],
-      "duration_ms": 150000,
-      "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
-      "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
+      "duration_ms": 180147,
+      "name": "BO\u015eLUK",
+      "url": "https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX"
     },
     {
       "added_at": "2025-07-10 21:06:57",
@@ -739,18 +727,30 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "FIRTINAYT",
-        "url": "https://open.spotify.com/album/2SNhVRSfq609FJVJqcq4zS"
+        "name": "G\u00fcne\u015fe Dokundum (Deep Mix)",
+        "url": "https://open.spotify.com/album/7LMXsVF5q3oBE7Pw2uBk1o"
       },
       "artists": [
         {
-          "name": "B\u00fcy\u00fck Ev Ablukada",
-          "url": "https://open.spotify.com/artist/7pUjWNH0hKYpRzWDdNLzAi"
+          "name": "K\u00d6FN",
+          "url": "https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd"
+        },
+        {
+          "name": "Salman Tin",
+          "url": "https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m"
+        },
+        {
+          "name": "BKE",
+          "url": "https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C"
+        },
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
         }
       ],
-      "duration_ms": 180147,
-      "name": "BO\u015eLUK",
-      "url": "https://open.spotify.com/track/7nnW9qKcLQi98ghW42lsAX"
+      "duration_ms": 150000,
+      "name": "G\u00fcne\u015fe Dokundum - Deep Mix",
+      "url": "https://open.spotify.com/track/72AXtr3qhn2LKrNURTzdAQ"
     },
     {
       "added_at": "2025-07-10 21:06:57",

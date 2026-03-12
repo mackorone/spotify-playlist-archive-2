@@ -434,7 +434,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -564,6 +564,24 @@
       "duration_ms": 168853,
       "name": "Better This Way",
       "url": "https://open.spotify.com/track/7brQyMRAa0J1VfQUAauNhy"
+    },
+    {
+      "album": {
+        "name": "Give Me the Keys/Big Name on Campus",
+        "url": "https://open.spotify.com/album/6pC1wlngwnK4kGtOMIGhze"
+      },
+      "artists": [
+        {
+          "name": "Bitter Lemons",
+          "url": "https://open.spotify.com/artist/3dNufEq5AisVuSRyFl8xe9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182240,
+      "name": "Big Name On Campus (B.N.O.C)",
+      "url": "https://open.spotify.com/track/1QZsLk8fACAfu4cSvhAX9H"
     },
     {
       "album": {
@@ -726,6 +744,24 @@
       "duration_ms": 209839,
       "name": "Born to Howl (Forced to Work)",
       "url": "https://open.spotify.com/track/6l51Ge3qMuz16GEZStVDYq"
+    },
+    {
+      "album": {
+        "name": "Boulevard of broken dreams",
+        "url": "https://open.spotify.com/album/1Den8LRqJSpIafxXY4p7QY"
+      },
+      "artists": [
+        {
+          "name": "22 Horizons",
+          "url": "https://open.spotify.com/artist/3bc5OCvwNCF3DHoyNmVv2V"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261586,
+      "name": "Boulevard of broken dreams",
+      "url": "https://open.spotify.com/track/1AOsmTrrWtHpJl8xqW6YS8"
     },
     {
       "album": {
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 121718,
       "name": "Drip Drop Revolt",
       "url": "https://open.spotify.com/track/4cPrWWnGnQdBHu486PpK8d"
@@ -1648,6 +1684,24 @@
       "duration_ms": 182765,
       "name": "Finer Things",
       "url": "https://open.spotify.com/track/7ejc0lyJNODAzVysncQIxw"
+    },
+    {
+      "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/2wIWvrYybBGoBTQZcrdDDP"
+      },
+      "artists": [
+        {
+          "name": "Fate's Bounty",
+          "url": "https://open.spotify.com/artist/7EGMkIIoJ8HY6FajAxjm0c"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140610,
+      "name": "Fire Off The Chain",
+      "url": "https://open.spotify.com/track/4dtuTts3hP9HXlgdf2w4a6"
     },
     {
       "album": {
@@ -2008,7 +2062,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 215481,
       "name": "Gods",
       "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
@@ -2170,7 +2224,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 146885,
       "name": "Hell in a Halter Top",
       "url": "https://open.spotify.com/track/0B11lioXlVVDbTs3PbVBXY"
@@ -2260,7 +2314,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 215481,
       "name": "Hollow Bone",
       "url": "https://open.spotify.com/track/61PSIaS8qIBNJvSJUCjsMv"
@@ -2372,7 +2426,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 90861,
       "name": "Hustle Mode Engage",
       "url": "https://open.spotify.com/track/6EQhfBZe5fXiVa8CRjvxsf"
@@ -3662,7 +3716,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -3770,7 +3824,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 159433,
       "name": "Neon Blaze Riot",
       "url": "https://open.spotify.com/track/5XbuRcQaqwFGbCvXLxn9v9"
@@ -4598,7 +4652,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -4796,7 +4850,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -5452,7 +5506,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 234640,
       "name": "Upside Down Cross",
       "url": "https://open.spotify.com/track/0lM3X9CdTPbL5B7wnFsBs8"
@@ -5524,7 +5578,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 152856,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/12P1gmpczRb9Q3WqxnC515"
@@ -5758,7 +5812,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 265264,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/0bRvJhHWsQX8YCh1nqkWYG"

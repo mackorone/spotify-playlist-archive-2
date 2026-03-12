@@ -1,6 +1,6 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 101914,
+  "num_followers": 101974,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
@@ -541,6 +541,26 @@
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
     },
     {
+      "added_at": "2026-02-20 08:00:30",
+      "album": {
+        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 244010,
+      "name": "Nee Kanti Lo Na - From \"Hey Balwanth\"",
+      "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
+    },
+    {
       "added_at": "2024-08-28 12:46:30",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
@@ -563,26 +583,6 @@
       "duration_ms": 261314,
       "name": "Laalijo Raagam",
       "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
-    },
-    {
-      "added_at": "2026-02-20 08:00:30",
-      "album": {
-        "name": "Hey Balwanth (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0lyksNMXknBV48hX1Copok"
-      },
-      "artists": [
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 244010,
-      "name": "Nee Kanti Lo Na - From \"Hey Balwanth\"",
-      "url": "https://open.spotify.com/track/2CMAiXfdBTGKNXHSmdhGUm"
     },
     {
       "added_at": "2025-02-14 14:01:52",

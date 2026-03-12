@@ -1,6 +1,6 @@
 {
   "description": "take the road less traveled ",
-  "num_followers": 41917,
+  "num_followers": 41924,
   "original_name": "Americana Drive ",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-11-26 17:08:34",
       "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+    },
+    {
+      "added_at": "2025-11-26 17:08:34",
+      "album": {
         "name": "Paranoid Cocoon",
         "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 357160,
       "name": "Impossible Germany",
       "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
-    },
-    {
-      "added_at": "2025-11-26 17:08:34",
-      "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2025-11-26 17:08:34",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2025-11-26 17:08:34",
       "album": {
-        "name": "Watch Out for the Wolf",
-        "url": "https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY"
+        "name": "Purple Gas",
+        "url": "https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk"
       },
       "artists": [
         {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
         }
       ],
-      "duration_ms": 231837,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7"
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr"
     }
   ],
   "unique_name": "Americana Drive ",

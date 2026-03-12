@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,437 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,446 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 88 | [Damelo](https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Mr\. Juve](https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8) | [Damelo](https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW) | 2:37 |
 | 89 | [Picătura De Cerneală](https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Cristian Porcari](https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7) | [Picătura De Cerneală](https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI) | 2:49 |
 | 90 | [E Mult, E Greu!](https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj) | [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [E Mult, E Greu!](https://open.spotify.com/album/2MO3K0AD3WGrjgL3Knfql2) | 2:21 |
-| 91 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
+| 91 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
 | 92 | [Ponte Pa Mi](https://open.spotify.com/track/78uC56WFICXVzko7aBUXHJ) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Ponte Pa Mi](https://open.spotify.com/album/4wWK09bmpWvpfA2Fe2vcFV) | 2:05 |
 | 93 | [Tu blondina,eu brunet](https://open.spotify.com/track/3Xu2k2FS97eGmK7OOTfPHH) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Tu blondina,eu brunet](https://open.spotify.com/album/4FwzoL4kOfxLNH1Bb3o29g) | 2:25 |
-| 94 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
+| 94 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
 | 95 | [Regele \- From Buzz House: The Movie 2](https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW), [rares bebelusul](https://open.spotify.com/artist/3eCAhRYvSFzfMpPeSgbxvw) | [Regele \(From Buzz House: The Movie 2\)](https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk) | 2:40 |
 | 96 | [Cometa](https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Cometa](https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa) | 3:00 |
 | 97 | [Hai tu Maria](https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Hai tu Maria](https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k) | 2:19 |

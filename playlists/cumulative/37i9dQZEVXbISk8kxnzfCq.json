@@ -7328,7 +7328,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -7372,7 +7372,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -8084,7 +8084,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8156,7 +8156,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-10",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -12578,6 +12578,28 @@
       "duration_ms": 222226,
       "name": "Lamento Boliviano",
       "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
+    },
+    {
+      "album": {
+        "name": "Las Mu\u00f1equitas",
+        "url": "https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Las Mu\u00f1equitas",
+      "url": "https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f"
     },
     {
       "album": {
@@ -17796,7 +17818,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
@@ -19078,7 +19100,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -25252,7 +25274,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 172426,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"

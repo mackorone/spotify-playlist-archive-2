@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CwbNGNKurt.md) - [plain]
 
 > Throw it back to the biggest, best hits of the 90s and 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490,752 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,490,830 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CwbNGNKurt.md) - [plain]
 | 14 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:36 |
 | 15 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 16 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 |
-| 17 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
-| 18 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 |
+| 17 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 |
+| 18 | [Ms\. Jackson](https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 4:30 |
 | 19 | [Replay](https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8) | 3:02 |
 | 20 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
 | 21 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CwbNGNKurt.md) - [plain]
 | 43 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 |
 | 44 | [Crank That \(Soulja Boy\)](https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:41 |
 | 45 | [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 |
-| 46 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
-| 47 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
+| 46 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
+| 47 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 48 | [What's Luv? \(feat\. Ja\-Rule & Ashanti\)](https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Jealous Ones Still Envy \(J.O.S.E\)](https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI) | 4:27 |
 | 49 | [1, 2 Step \(feat\. Missy Elliott\)](https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:23 |
 | 50 | [Dynamite](https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:22 |

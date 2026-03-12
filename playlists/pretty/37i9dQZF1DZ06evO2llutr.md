@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 
 > This is Zach Bryan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 646,985 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 647,141 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 18 | [Revival](https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Elisabeth](https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn) | 3:41 |
 | 19 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 |
 | 20 | [Dry Deserts](https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 2:31 |
-| 21 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 |
-| 22 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 |
+| 21 | [Open the Gate](https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:54 |
+| 22 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 |
 | 23 | [Hey Driver \(feat\. The War and Treaty\)](https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
 | 24 | [Skin](https://open.spotify.com/track/61rfO3U360zRDDjFW6ajrx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 2:55 |
 | 25 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 |
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2llutr.md) - [plain]
 | 37 | [From Austin](https://open.spotify.com/track/6k07Z7rd9og1FvRJD2n9E8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:27 |
 | 38 | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Boys Of Faith \(feat\. Bon Iver\)](https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q) | 2:50 |
 | 39 | [Jamie \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 |
+| 40 | [Fifth of May](https://open.spotify.com/track/1wLNEMiUzwvRZz9XHCXhAE) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Greatest Day of My Life](https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7) | 2:58 |
 
-Snapshot ID: `aa4NgAAAAABioqj8LTAbzGOUvj0cwkcl`
+Snapshot ID: `aa9fAAAAAACV8MDc8qR2KaxYAhF/ykvZ`

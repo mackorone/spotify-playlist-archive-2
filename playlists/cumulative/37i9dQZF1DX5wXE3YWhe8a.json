@@ -288,7 +288,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 128059,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/6ZgY3qsLYw1CfEqIuBjNPG"
@@ -932,6 +932,24 @@
       "duration_ms": 144000,
       "name": "warm hands, cold air",
       "url": "https://open.spotify.com/track/39I5c7yp1BrboSCjYYQ7o7"
+    },
+    {
+      "album": {
+        "name": "When Flowers Bloom",
+        "url": "https://open.spotify.com/album/6Sx7x8DqIb6W7fmwPTRXDS"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "When Flowers Bloom",
+      "url": "https://open.spotify.com/track/4c69F0hbshPqbkQEKAZcTq"
     },
     {
       "album": {

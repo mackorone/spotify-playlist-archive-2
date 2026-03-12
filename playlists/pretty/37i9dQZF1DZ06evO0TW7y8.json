@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 323903,
+  "num_followers": 323919,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABJNTdnHjNDyXljSMmIbqYI",
+  "snapshot_id": "aa9fAAAAAADl7T0xsVyX3t97k64bAFq/",
   "tracks": [
     {
       "added_at": null,
@@ -187,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Tyrant (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Tyrant (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 166424,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 166424,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "By Any Means",
         "url": "https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 225631,
       "name": "By Any Means",
       "url": "https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 132213,
+      "name": "Broken is the man",
+      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 282329,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 132213,
-      "name": "Broken is the man",
-      "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Falling or flying",
+      "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beautiful And Brutal Yard",
         "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 214266,
       "name": "Nice Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/7IWJTrZvS11K1ziaS3JvYT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Falling or flying",
-      "url": "https://open.spotify.com/track/4CNZbr3dSioXNk5bJE46XQ"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 691761,
+  "num_followers": 691809,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABWEZL/0UxPERSyah7l8ML3",
+  "snapshot_id": "aa9fAAAAAAANdvxwqSu7lu8QyP4+OfRi",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 209811,
-      "name": "Tomorrow 2 (with Cardi B)",
-      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 255506,
       "name": "La Modelo",
       "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
     },
     {
       "added_at": null,
@@ -582,15 +582,11 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 177893,
-      "name": "Safe (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
+      "duration_ms": 146560,
+      "name": "ErrTime",
+      "url": "https://open.spotify.com/track/2cBtsB7Pi89q9yWk59a2sX"
     },
     {
       "added_at": null,
@@ -682,11 +678,15 @@
         {
           "name": "Cardi B",
           "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 146560,
-      "name": "ErrTime",
-      "url": "https://open.spotify.com/track/2cBtsB7Pi89q9yWk59a2sX"
+      "duration_ms": 177893,
+      "name": "Safe (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Put It On Da Floor Again (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 185748,
-      "name": "Put It On Da Floor Again (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rumors (feat. Cardi B)",
         "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 172832,
       "name": "Rumors (feat. Cardi B)",
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
     },
     {
       "added_at": null,

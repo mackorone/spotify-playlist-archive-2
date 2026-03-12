@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,609 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343,618 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 56 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 |
 | 57 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 |
 | 58 | [Upside Down](https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Upside Down](https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro) | 2:05 |
-| 59 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
-| 60 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
+| 59 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
+| 60 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
 
 Snapshot ID: `AAAAAI7x5EJFcK8HzQCuZkUqDsWt2DDI`

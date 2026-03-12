@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Raphaela Santos com LUDMILLA, Israel & Rodolffo, Harry Styles, MC Cabelinho com Tz da Coronel, Gilsons e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263,527 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263,355 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

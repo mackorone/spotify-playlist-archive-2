@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,628 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,629 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 43 | [El Doble R \- En Vivo](https://open.spotify.com/track/4Ppn8Gl4soeJ2VYfIfJZaC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Con Amigos y La Banda, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/4M2jqGzgekItHWGiE6nIPg) | 2:24 |
 | 44 | [En Un Día Como Hoy](https://open.spotify.com/track/2hhv6z6A9H9QHjfB8o9OIi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:21 |
 | 45 | [La Careada](https://open.spotify.com/track/6e4PEGCmSvAiAak4cDLisG) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Haciendo Memoria](https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC) | 2:32 |
-| 46 | [Mariposa Traicionera](https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mariposa Traicionera](https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ) | 4:04 |
-| 47 | [La Careada](https://open.spotify.com/track/4Pd3xEDmWKuUGf0aa6nxeK) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Careada](https://open.spotify.com/album/3NIvjlWLDeJ5L2IXuMgnsZ) | 3:11 |
+| 46 | [La Careada](https://open.spotify.com/track/4Pd3xEDmWKuUGf0aa6nxeK) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Careada](https://open.spotify.com/album/3NIvjlWLDeJ5L2IXuMgnsZ) | 3:11 |
+| 47 | [Mariposa Traicionera](https://open.spotify.com/track/60SG2OzJKIz1X2lEENBH16) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Mariposa Traicionera](https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ) | 4:04 |
 | 48 | [El Karma](https://open.spotify.com/track/6e1Kq7zm6Tu4XZrSTGxgqt) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/2w5x87DU6Bzd3kLqwHjzd6) | 3:30 |
 | 49 | [Alguien Como Tú](https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/09wUfoNd6G7TR1o5E9ezMQ) | 3:21 |
 | 50 | [Cuéntame Tus Penas](https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Rey del Corrido: Ayer, Hoy y Siempre, Vol\. 1](https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl) | 3:54 |
 
-Snapshot ID: `aa4NgAAAAABDIdh8GkDQl82J6hQaBe8a`
+Snapshot ID: `aa9fAAAAAAAAgHBiyhUbEcTdgTRDNWUH`

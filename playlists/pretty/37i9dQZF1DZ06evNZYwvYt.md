@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 
 > This is De Saloon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,858 likes - 46 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,859 likes - 46 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYwvYt.md) - [plain]
 | 45 | [Respeta el Flow](https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn), [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Respeta el Flow](https://open.spotify.com/album/5qab4uebsX0fXFM1byGBfw) | 2:41 |
 | 46 | [Lo Bueno De Morir De Amor](https://open.spotify.com/track/2DpYiGRJs5JG7FhUYdLbLL) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Lo Bueno De Morir De Amor](https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w) | 4:00 |
 
-Snapshot ID: `aa4NgAAAAABcqCPlgok/eL+EA6c01Hw5`
+Snapshot ID: `aa9fAAAAAAABNeQ5jnPWL8MTyKkOGA5F`

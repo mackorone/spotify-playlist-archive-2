@@ -4,7 +4,7 @@
 
 > Pub &amp; karaoke drinking classics from 70s, 80s, 90s, 00s, 10s &amp; beyond \- right through to closing time in the local.
 
-117 songs - 8 hr 9 min
+118 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Sunday Bloody Sunday \- Remastered 2008](https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:39 | 2025-10-08 |  |
 | [Suspicious Minds](https://open.spotify.com/track/6fgjU6IfBOXHI3OKtndEeE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 4:20 | 2025-10-08 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5) | 5:54 | 2025-10-08 |  |
+| [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 | 2026-03-11 |  |
 | [Take Me Home, Country Roads](https://open.spotify.com/track/5LV3AJZ7KOKCpoou8kny79) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The Essential John Denver](https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5) | 3:10 | 2025-10-08 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 | 2025-10-08 |  |
 | [The Bucket](https://open.spotify.com/track/6XocIDvgAlIC83ipC9bgUO) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Pub Songs](https://open.spotify.com/album/3iMFEXxylazdTrXHmGSTF3) | 2:55 | 2025-10-08 |  |

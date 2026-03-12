@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 
 > The hits that keep on rocking your world\. Cover: Foo Fighters
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,514 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,534 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 63 | [I Sat by the Ocean](https://open.spotify.com/track/1D3YGmST01Ba0WRiT7THPG) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj) | 3:55 |
 | 64 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
 | 65 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
-| 66 | [By a Monster’s Hand](https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:42 |
-| 67 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |
+| 66 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |
+| 67 | [By a Monster’s Hand](https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:42 |
 | 68 | [Trinidad](https://open.spotify.com/track/5WGr8oEBp2RBrorc5ZEx1K) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:44 |
 | 69 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 |
 | 70 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4HwNAFq2CF0.md) - [plain]
 | 95 | [Reckless Paradise](https://open.spotify.com/track/78RNxc9EMBSlv5yWIOjIzs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Crisis of Faith](https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN) | 3:24 |
 | 96 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
 | 97 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
-| 98 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 |
-| 99 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
-| 100 | [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 |
+| 98 | [Landmines](https://open.spotify.com/track/5Zq5HHYL8YX2U1S5hY5tRZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:55 |
+| 99 | [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 |
+| 100 | [T\-Shirt Weather](https://open.spotify.com/track/7MfNoHB8JRNbSQ8P3eAfMQ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Young Chasers \(Deluxe\)](https://open.spotify.com/album/4a5Kj8QND91bSnXTsLUetM) | 3:12 |
 
 Snapshot ID: `AAAAAAWo0TTodKu6Z/rvAWtc3T3IIbhj`

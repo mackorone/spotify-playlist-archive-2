@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-345 songs - 21 hr 32 min
+350 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ain't no story of love](https://open.spotify.com/track/3f0iRjjbwR4gBSqlSjAOwe) | [Fredrik Bernhardtz](https://open.spotify.com/artist/1KhYjWBOtFNMf0VaIyWnK9) | [Ain't no story of love](https://open.spotify.com/album/5P8mY5mb96uTL53ThfjKfQ) | 5:46 | 2026-01-29 | 2026-02-23 |
 | [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 | 2026-02-13 |  |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-23 | 2026-01-21 |
+| [All Along](https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:37 | 2026-03-12 |  |
 | [All I Know \- 2025 Remaster](https://open.spotify.com/track/2FZPTSFBfhy9rPtSDhtBDb) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [All I Know \(2025 Remaster\)](https://open.spotify.com/album/5HecYSQaBgRpgTfjsVGMal) | 5:02 | 2026-01-31 | 2026-03-04 |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-05 | 2025-12-28 |
 | [All Things End](https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW) | [Ethan William Bowers](https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6), [The Painted Strangers](https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX) | [Panic Tax](https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL) | 4:01 | 2026-01-06 | 2026-02-02 |
@@ -198,6 +199,8 @@
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-12-08 | 2025-12-28 |
 | [Más Dulce que Gris](https://open.spotify.com/track/2bvd7uARfmVQ1GDtuoQSlT) | [Delirio](https://open.spotify.com/artist/3Fpq6dElb8GooXoecLKM7G) | [VITRUM](https://open.spotify.com/album/056vQabi5S1twEzRiW8o2y) | 4:33 | 2026-01-22 | 2026-02-18 |
+| [Nada De Vos](https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Nada De Vos](https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6) | 3:04 | 2026-03-12 |  |
+| [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 | 2026-03-11 |  |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2025-11-21 | 2025-12-12 |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2025-11-04 | 2025-11-22 |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-02-10 | 2026-03-04 |
@@ -285,7 +288,9 @@
 | [Sun Shines Down](https://open.spotify.com/track/1LL9j1yd94svPseLWDKc8P) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sun Shines Down](https://open.spotify.com/album/4N92uYwtSzNA2P09jRqdpZ) | 3:52 | 2026-02-14 |  |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 | 2026-02-18 |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 | 2026-02-04 |
+| [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-12 |  |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-11-22 |
+| [The Artist](https://open.spotify.com/track/7JYLpQZPFzAsWH0vKoDoAJ) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [Mud Music](https://open.spotify.com/album/5mXJWvL4cMaYobl6K0YUh2) | 3:39 | 2026-03-11 |  |
 | [The Bee](https://open.spotify.com/track/6tT2Oh2O2pAgnlbu02DpOv) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy) | [Daisyland](https://open.spotify.com/album/7jDAk7n5r1qHQFNIFXGtM2) | 4:21 | 2026-01-07 | 2026-02-02 |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-02-13 | 2026-03-04 |
 | [The Day I'm Gone](https://open.spotify.com/track/6fOJUO7CRNIgSACqSZRIAa) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:05 | 2025-12-31 | 2026-01-21 |

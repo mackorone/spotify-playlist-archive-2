@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 189158,
+  "num_followers": 189228,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAC3U6yFPQp2eu2VKrKd5FRA",
+  "snapshot_id": "aa9fAAAAAABHRw8sFpkaMOl9rApPauDH",
   "tracks": [
     {
       "added_at": null,
@@ -720,13 +720,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Thiwe",
-          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
         }
       ],
-      "duration_ms": 460800,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r"
+      "duration_ms": 371613,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/2fSAzJ6LKW1Ausdmdd7mTK"
     },
     {
       "added_at": null,
@@ -804,13 +804,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Bucie",
-          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+          "name": "Thiwe",
+          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
         }
       ],
-      "duration_ms": 371613,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/2fSAzJ6LKW1Ausdmdd7mTK"
+      "duration_ms": 460800,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r"
     },
     {
       "added_at": null,

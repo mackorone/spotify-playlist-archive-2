@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Kapanga y Milo J en portada.",
-  "num_followers": 486837,
+  "num_followers": 486874,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "En La Tormenta",
-        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 181870,
-      "name": "Cuando Salga El Sol",
-      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "En La Tormenta",
+        "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 181870,
+      "name": "Cuando Salga El Sol",
+      "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "El Mosquito",
-        "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
+        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
       },
       "artists": [
         {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
         }
       ],
-      "duration_ms": 188772,
-      "name": "El Mosquito",
-      "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
+      "duration_ms": 214081,
+      "name": "La Ultima Carta - The Romaphonic Session",
+      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
+        "name": "El Mosquito",
+        "url": "https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr"
       },
       "artists": [
         {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
         }
       ],
-      "duration_ms": 214081,
-      "name": "La Ultima Carta - The Romaphonic Session",
-      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
+      "duration_ms": 188772,
+      "name": "El Mosquito",
+      "url": "https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1387,30 +1387,6 @@
       "duration_ms": 184666,
       "name": "Corrupci\u00f3n Ska",
       "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
-        "name": "Aqu\u00ed Estamos",
-        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 183771,
-      "name": "Aqu\u00ed Estamos",
-      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1455,6 +1431,30 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
+        "name": "Aqu\u00ed Estamos",
+        "url": "https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 183771,
+      "name": "Aqu\u00ed Estamos",
+      "url": "https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
         "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
         "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
@@ -1471,26 +1471,6 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
-        "name": "Un Amor Violento",
-        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
-        },
-        {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1515,6 +1495,26 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
         "name": "Quiero Bailar Ska!!!",
         "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Supersonico",
         "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 206933,
       "name": "Qu\u00e9 Vas a Hacer Conmigo",
       "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2026-02-06 06:00:21",

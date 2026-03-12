@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,941 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,004 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 32 | [Tell 'Em Why](https://open.spotify.com/track/4hnK6Q3JSfSxnYIpxmxoOj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Tell 'Em Why](https://open.spotify.com/album/1uFW87X8gFP4uAE7jWzkER) | 2:46 |
 | 33 | [Relapse](https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3) | 2:38 |
 | 34 | [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 |
-| 35 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
-| 36 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 |
+| 35 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 |
+| 36 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 37 | [2 Pair](https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [2 Pair](https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi) | 2:31 |
 | 38 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 39 | [People Talk](https://open.spotify.com/track/0ZHGYKgO3uim2g9JCIWU4U) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [People Talk](https://open.spotify.com/album/6cCWwahb1OUojXvaOVm9F4) | 3:11 |

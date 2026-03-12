@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,789 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,804 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 44 | [Ramiro Y Miguel](https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 3:03 |
 | 45 | [La Noria Escondida](https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros 15 Exitos](https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv) | 3:11 |
 | 46 | [Tengo a Mi Lupe](https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Primeros 20 Éxitos](https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op) | 3:23 |
-| 47 | [Las Tres Tumbas](https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tres Tumbas](https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0) | 2:48 |
-| 48 | [Jacinto Treviño](https://open.spotify.com/track/0qeTAiYnv4Zg78WdvBNo6J) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:23 |
-| 49 | [Canción Mixteca](https://open.spotify.com/track/7ewaV9utuWtFJKhK5P04GY) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tengo A Mi Lupe](https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD) | 3:19 |
-| 50 | [El Sauce Y La Palma](https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T) | 2:29 |
+| 47 | [Jacinto Treviño](https://open.spotify.com/track/0qeTAiYnv4Zg78WdvBNo6J) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:23 |
+| 48 | [Canción Mixteca](https://open.spotify.com/track/7ewaV9utuWtFJKhK5P04GY) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tengo A Mi Lupe](https://open.spotify.com/album/0KOgo5R72JpkGJb4XDF0WD) | 3:19 |
+| 49 | [Las Tres Tumbas](https://open.spotify.com/track/3YGzZ79OPpdMLMFQPgV8Zh) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tres Tumbas](https://open.spotify.com/album/1watZSuUenWvLyw2qVUCU0) | 2:48 |
+| 50 | [Corrido De Gabino](https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 2:36 |
 
-Snapshot ID: `aa4NgAAAAAAY4E4h1WpxfapjW4pWTnPK`
+Snapshot ID: `aa9fAAAAAAAZQmnJdsqg0akNUffzLOOf`

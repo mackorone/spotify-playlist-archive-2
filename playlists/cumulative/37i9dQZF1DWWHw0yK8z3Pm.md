@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Bella White
 
-684 songs - 1 day 17 hr 21 min
+685 songs - 1 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Love Letters](https://open.spotify.com/track/75vo08Xe1zfo5PNvzd663o) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Pathways](https://open.spotify.com/album/3K1pEVfbFF5QbmXUpTH1WS) | 3:04 | 2024-09-27 | 2024-10-12 |
 | [Love Thy Neighbor](https://open.spotify.com/track/3ArBCwHbrBaW8hTWF4CWdG) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Love Thy Neighbor](https://open.spotify.com/album/7aGhjHYKpPW7lciXUx5Hlz) | 3:06 | 2022-05-13 | 2022-06-25 |
 | [Love You Now](https://open.spotify.com/track/6Wh7Doli3WsaYihYXNVGiD) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Love You Now](https://open.spotify.com/album/0Z7KfTzLDJxxGRAQgjcjM6) | 2:49 | 2022-12-16 | 2023-02-25 |
+| [Lover I'm Gonna Miss You](https://open.spotify.com/track/1Nd24ZJSkqvVfYrq4Pytzw) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [May Erlewine](https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW) | [Lover I'm Gonna Miss You](https://open.spotify.com/album/05bwXm1KhTHhGc33Z8VHUF) | 3:51 | 2026-03-06 |  |
 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 | 2024-01-05 | 2024-06-08 |
 | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Gabriella Rose](https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj) | [Madeline \(feat\. Gabriella Rose\)](https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ) | 2:25 | 2025-07-25 |  |
 | [Maggie](https://open.spotify.com/track/6Zwrxz3uCj8Pbx9ohCRD7W) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Maggie](https://open.spotify.com/album/6qx5cnOifPpGkSu6jFLXZA) | 2:58 | 2023-01-20 | 2023-10-14 |
@@ -540,7 +541,7 @@
 | [She Calls Me](https://open.spotify.com/track/7M86EjRimOoo0BGWZckC4X) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Zhawenim](https://open.spotify.com/album/4cktud6ZSAorujL3Ft3Bnw) | 3:54 | 2022-06-24 | 2023-04-22 |
 | [She Got Away](https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [She Got Away](https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks) | 2:44 | 2025-11-07 |  |
 | [Shooting at the Moon](https://open.spotify.com/track/6BiT0rQrxNTbglW7jBPd5D) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Shooting at the Moon](https://open.spotify.com/album/1WoVKktys2ml21iQ7nPFum) | 3:19 | 2022-06-03 | 2022-07-09 |
-| [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 | 2025-10-06 |  |
+| [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 | 2025-10-06 | 2026-03-12 |
 | [Shreveport to L.A.](https://open.spotify.com/track/71HLRGiyMmw9G3dUeDDDJz) | [Mike Plume](https://open.spotify.com/artist/2bTUu34JOWSVnqOSeFmCcr) | [Shreveport to L.A.](https://open.spotify.com/album/0O6x0qmrGiS0FGYavcaCQH) | 3:59 | 2022-05-13 | 2022-08-13 |
 | [Shrine of Shirl](https://open.spotify.com/track/5pdjxSigGGj1ebWvZ1Josd) | [Mike Bern](https://open.spotify.com/artist/6NkiWoBFvHUxmksmpNOgdA) | [Shrine of Shirl](https://open.spotify.com/album/3eeyMTWLqi0egjXGj9aOCN) | 3:07 | 2022-10-07 | 2022-12-10 |
 | [Sink or Swim](https://open.spotify.com/track/6hyTFtcjGipSetWlZyGT2G) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 2:47 | 2025-11-07 |  |

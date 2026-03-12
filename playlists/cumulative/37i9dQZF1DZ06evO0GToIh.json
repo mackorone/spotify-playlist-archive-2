@@ -345,6 +345,28 @@
     },
     {
       "album": {
+        "name": "Coleccionando Heridas",
+        "url": "https://open.spotify.com/album/49FioVijez4ufouOFO0GOu"
+      },
+      "artists": [
+        {
+          "name": "Tony Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232692,
+      "name": "Coleccionando Heridas",
+      "url": "https://open.spotify.com/track/3A6JavykTX0AKvePIwxzaA"
+    },
+    {
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1504,7 +1526,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 293611,
       "name": "Procura",
       "url": "https://open.spotify.com/track/5yyiRmayiyuI7R9i7PNeca"

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 541,
+  "num_followers": 542,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAC7hvj2xcfz7vwgrhSSOc3Crarx0/K",
+  "snapshot_id": "AAAC8dajAUraYQFpmGDcGLRxjXsO/xlu",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -951,6 +951,54 @@
       "duration_ms": 201065,
       "name": "Tomorrow Is Here",
       "url": "https://open.spotify.com/track/5VMUskyWeRjMUnyHnpxNw2"
+    },
+    {
+      "added_at": "2026-03-12 00:13:51",
+      "album": {
+        "name": "The Winter Sloths",
+        "url": "https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "duration_ms": 217370,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ"
+    },
+    {
+      "added_at": "2026-03-12 00:47:39",
+      "album": {
+        "name": "Nada De Vos",
+        "url": "https://open.spotify.com/album/28aKwrTa6ZNr0trxvsXJg6"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "duration_ms": 184438,
+      "name": "Nada De Vos",
+      "url": "https://open.spotify.com/track/5X0t7iMScBSmaaneqz2cKO"
+    },
+    {
+      "added_at": "2026-03-12 01:13:36",
+      "album": {
+        "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
+        "url": "https://open.spotify.com/album/1uq5G5T9eEP9BKhkTRitBX"
+      },
+      "artists": [
+        {
+          "name": "genteel renegade",
+          "url": "https://open.spotify.com/artist/7AfX5ZMx0UP4ZouLe1HNEl"
+        }
+      ],
+      "duration_ms": 233239,
+      "name": "\u041b\u0430\u0432\u0438\u043d\u044b",
+      "url": "https://open.spotify.com/track/4yY60xQzkD3t5esainGo5F"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

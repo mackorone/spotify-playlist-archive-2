@@ -1,6 +1,6 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 423251,
+  "num_followers": 423622,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2025-02-21 06:00:14",
-      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "added_at": "2025-02-21 06:00:14",
+      "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2025-02-21 06:00:14",

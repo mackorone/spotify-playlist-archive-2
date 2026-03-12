@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mary Middlefield
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,300 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,288 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 |
 | 18 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
 | 19 | [Fotzen an die Macht](https://open.spotify.com/track/0OAuErdEzls6lPoA6x7sJz) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Fotzen an die Macht](https://open.spotify.com/album/37BxJppK4gPPYJjLNyhX6m) | 2:08 |
-| 20 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
-| 21 | [ALPHA FEMINIST](https://open.spotify.com/track/3v652Tj4Adys47C76CVON2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [ALPHA FEMINIST](https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s) | 2:34 |
+| 20 | [ALPHA FEMINIST](https://open.spotify.com/track/3v652Tj4Adys47C76CVON2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [ALPHA FEMINIST](https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s) | 2:34 |
+| 21 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
 | 22 | [FU In My Head \- Dirty Version](https://open.spotify.com/track/5Ps4Inshd22nlX3wbBsYiN) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head \(Dirty Version\)](https://open.spotify.com/album/2amIiVugmAdVVSv7NxgIXe) | 3:16 |
 | 23 | [Atlantis](https://open.spotify.com/track/0SHlGukB11djd2q27uBQkJ) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Heart's Desire](https://open.spotify.com/album/67FT3edp04m0M8CpPWZXuc) | 2:56 |
 | 24 | [Vertigo](https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Vertigo](https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho) | 2:19 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Labyrinth](https://open.spotify.com/track/7En6dZXLv38QMRsqIaJjW3) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Labyrinth](https://open.spotify.com/album/4JHhiQQpbBKu8iOjbuoh1p) | 2:26 |
 | 33 | [Band Aid](https://open.spotify.com/track/4E6CeKP3IPqUE6uIucYp2L) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Band Aid](https://open.spotify.com/album/2kRRn2FQLjiJdVKyApllQN) | 4:36 |
 | 34 | [venedig](https://open.spotify.com/track/6wtaikaFM89NrXfXvKYTYv) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [venedig](https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd) | 3:25 |
-| 35 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 |
-| 36 | [Nein sagen](https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Nein sagen](https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5) | 2:24 |
+| 35 | [Nein sagen](https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Nein sagen](https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5) | 2:24 |
+| 36 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 |
 | 37 | [ZICKZACK](https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [ZICKZACK](https://open.spotify.com/album/46vocArEiFAjtgffnrUp73) | 2:21 |
 | 38 | [Nike Shox](https://open.spotify.com/track/7snTBRoLMEtNVsIhrliPjO) | [AVY](https://open.spotify.com/artist/1QtJHKvmKyBtgZjAbhADM6) | [Nike Shox](https://open.spotify.com/album/1O4OQRbrXJxRM6Q8zb4lcL) | 2:51 |
 | 39 | [Schenke mir ein](https://open.spotify.com/track/1nh7tFgkfO0Q7B6EAdUaJ2) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Schenke mir ein / Musik ist kein Krieg](https://open.spotify.com/album/31R7dXKQ2RAX1JSdX3slWj) | 3:36 |

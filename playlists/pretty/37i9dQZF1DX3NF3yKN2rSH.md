@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,822 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,820 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 59 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
 | 60 | [He Lives](https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57) | [LaShun Pace](https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln) | [He Lives](https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH) | 7:37 |
 | 61 | [For the Love of the People](https://open.spotify.com/track/3UwrDAuZcSuc6QikZrYaeD) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Conqueror](https://open.spotify.com/album/2Ccx4LkjNZGjrascsldAs2) | 2:03 |
-| 62 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
-| 63 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Risen Powerful Gospel Resurrection Songs](https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg) | 6:57 |
+| 62 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Risen Powerful Gospel Resurrection Songs](https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg) | 6:57 |
+| 63 | [Calvary](https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Jo Deep](https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o) | [Revival Is In The Air \(RIITA\)](https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB) | 4:32 |
 | 64 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 | 65 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
 | 66 | [The Old Rugged Cross](https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 8:16 |

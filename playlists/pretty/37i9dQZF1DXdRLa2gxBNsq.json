@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia y Laura DSK.",
-  "num_followers": 114759,
+  "num_followers": 114779,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+      },
+      "artists": [
+        {
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+        }
+      ],
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Las Calles Tienen Memoria",
         "url": "https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 190344,
       "name": "Las Calles Tienen Memoria",
       "url": "https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
-      },
-      "artists": [
-        {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
-        }
-      ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Prohibido Prohibir",
-        "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        },
-        {
-          "name": "Fernando Reincidentes",
-          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
-        },
-        {
-          "name": "Reincidentes",
-          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
-        }
-      ],
-      "duration_ms": 221480,
-      "name": "Prohibido Prohibir",
-      "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Mr. Smith",
         "url": "https://open.spotify.com/album/1GPa67jyk9HWtUvthqMDrD"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 205696,
       "name": "Rico deprimido - XX5",
       "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Prohibido Prohibir",
+        "url": "https://open.spotify.com/album/3PvwXmZiRPAyYSq1IbBW12"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        },
+        {
+          "name": "Fernando Reincidentes",
+          "url": "https://open.spotify.com/artist/4189x5Md7w8lVuQPOFi1K5"
+        },
+        {
+          "name": "Reincidentes",
+          "url": "https://open.spotify.com/artist/6AZ89uxvjtR2Cpe1hE3kpX"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Prohibido Prohibir",
+      "url": "https://open.spotify.com/track/28EOznAk1sIbb1C82N52BQ"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "El Orden",
+        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "duration_ms": 220678,
+      "name": "El enemigo p\u00fablico",
+      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Una y Mil Veces",
         "url": "https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "El Orden",
-        "url": "https://open.spotify.com/album/4XZYPyToecrIUgXH0lXpzM"
+        "name": "M\u00fasica M\u00e1quina",
+        "url": "https://open.spotify.com/album/6I6dbNqrD5WISOWiXfuCU7"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+          "name": "Medalla",
+          "url": "https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet"
         }
       ],
-      "duration_ms": 220678,
-      "name": "El enemigo p\u00fablico",
-      "url": "https://open.spotify.com/track/3T8Qwtvj3v61PsGQef6oKk"
+      "duration_ms": 240840,
+      "name": "El Trabajo No Dignifica",
+      "url": "https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1355,22 +1371,6 @@
       "duration_ms": 221144,
       "name": "Control de Masas",
       "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "M\u00fasica M\u00e1quina",
-        "url": "https://open.spotify.com/album/6I6dbNqrD5WISOWiXfuCU7"
-      },
-      "artists": [
-        {
-          "name": "Medalla",
-          "url": "https://open.spotify.com/artist/7gF2UrWGq0htyQ1SeF7jet"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "El Trabajo No Dignifica",
-      "url": "https://open.spotify.com/track/7jbvJcawfq6S8dKY4WoMiP"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
-      },
-      "artists": [
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Corona de espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Vuelvo",
         "url": "https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 176481,
       "name": "Vuelvo",
       "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
+      },
+      "artists": [
+        {
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
+        },
+        {
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Corona de espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2026-02-09 12:00:06",

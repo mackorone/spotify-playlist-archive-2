@@ -2,9 +2,9 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Idhayam Murali
+> Check out the Latest Romance Tracks.<br/>Cover : Youth
 
-361 songs - 23 hr 21 min
+362 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/track/2fln1y4AGWnEclguilGaca) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Saara Kaattrae \(From "Annaatthe"\)](https://open.spotify.com/album/1eBXLAdEXKoXPYZiyQtcuD) | 4:07 | 2021-11-29 | 2023-02-22 |
 | [Salana \(From "LGM"\)](https://open.spotify.com/track/2kt8pqyFNZ1eAfx44GNLH2) | [Ramesh Thamilmani](https://open.spotify.com/artist/1DPRhvqBKE7SL5QJJmK08W), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Salana \(From "LGM"\)](https://open.spotify.com/album/7tlEW61tcGpEULjPf3l8gH) | 2:57 | 2023-06-15 | 2023-11-07 |
 | [Sandaaliye \- From "Yaanai"](https://open.spotify.com/track/0R7eQb7mnHqftgII5Ytzxp) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Velmurugan](https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U) | [Sandaaliye \(From "Yaanai"\)](https://open.spotify.com/album/6xgq0BWnhEoAc1SGA76PaJ) | 4:19 | 2022-06-18 | 2022-08-08 |
+| [Sattendru Maarudhu Vaanilai \(From "Sattendru Maarudhu Vaanilai"\)](https://open.spotify.com/track/1zoAGVMQ1QwHJq1NkcMX1u) | [Girishh G](https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [M.S Krsna](https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx), [Snehan](https://open.spotify.com/artist/4DPpMuArmlo0gwx2mnPwTL) | [Sattendru Maarudhu Vaanilai \(From "Sattendru Maarudhu Vaanilai"\)](https://open.spotify.com/album/4oc2M0UAQEfbnVJPsKQ4Qr) | 3:40 | 2026-03-11 |  |
 | [Seelay Seelay \(From "29"\)](https://open.spotify.com/track/0ckcTjwiL6Vwrn2jT3ZkaD) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Seelay Seelay \(From "29"\)](https://open.spotify.com/album/2gasTEpL4SwpFPvSIecF7l) | 5:07 | 2026-02-13 |  |
 | [Sella Kolarey](https://open.spotify.com/track/3Qp3mxYAeE1hi2UhhfkdKd) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kuruji](https://open.spotify.com/artist/3Kf5tlhWZLOBHe4BHtOX8k), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Thalaivan Thalaivii \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ITYAvMAZ9aadBxlm1cids) | 3:21 | 2025-07-14 |  |
 | [Senthamaraiye](https://open.spotify.com/track/4ChL9SvOK2k34GGZcdl39C) | [Aravind Gerald](https://open.spotify.com/artist/5TdTiPkKljkTDd2bXOmjhw), [A.K\. Sasidaran](https://open.spotify.com/artist/2lmnIXHYUQsYESeuptYie4), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Senthamaraiye](https://open.spotify.com/album/1T2eofe6BDiUgv5XIRA5Mg) | 3:27 | 2022-09-21 | 2024-01-05 |

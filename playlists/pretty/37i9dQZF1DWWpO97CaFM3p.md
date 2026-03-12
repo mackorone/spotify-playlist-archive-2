@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,951 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,950 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 118 | [It's You That Makes Me](https://open.spotify.com/track/591wWiv6D0i0NTlhvW5K0Q) | [Prince of Spain](https://open.spotify.com/artist/74VzIfFnhg12C4WnT6aLh1) | [It's You That Makes Me](https://open.spotify.com/album/3QVMLasdYIHAvypH7mMrGI) | 5:14 |
 | 119 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
 | 120 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
-| 121 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 |
-| 122 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 |
+| 121 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 |
+| 122 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 |
 | 123 | [C'mon Let's Go](https://open.spotify.com/track/0ywr83QNlqjfWukYZvaxaG) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Country](https://open.spotify.com/album/0tHfPZikpvAMB16u7A7HIf) | 5:06 |
 | 124 | [Tear Us Apart](https://open.spotify.com/track/34XV3jaAksvTR7jMWIvi7x) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:35 |
 | 125 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |

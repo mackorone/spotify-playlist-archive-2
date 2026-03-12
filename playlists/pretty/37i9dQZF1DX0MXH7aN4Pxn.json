@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 731355,
+  "num_followers": 731328,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 197549,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 206587,
       "name": "You Little Beauty",
       "url": "https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 184827,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Bittersweet Goodbye",
-        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 166778,
-      "name": "Bittersweet Goodbye",
-      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Get Out My Head",
+        "url": "https://open.spotify.com/album/6DwTQ5IU3Tp9YGIyzZwjNw"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Get Out My Head",
+      "url": "https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Mitsubishi (feat. Muki)",
         "url": "https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 176021,
       "name": "Mitsubishi (feat. Muki)",
       "url": "https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Get Out My Head",
-        "url": "https://open.spotify.com/album/6DwTQ5IU3Tp9YGIyzZwjNw"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Get Out My Head",
-      "url": "https://open.spotify.com/track/1LC6p9xSpZBogQMqlWZ5SZ"
     },
     {
       "added_at": "2026-01-23 00:00:40",

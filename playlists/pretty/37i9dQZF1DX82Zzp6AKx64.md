@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,775 likes - 100 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,855 likes - 100 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 37 | [I'd Do Anything For Love \(But I Won't Do That\) \- Single Edit](https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell II: Back Into Hell](https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z) | 5:16 |
 | 38 | [Love of a Lifetime \(2024 Remaster\)](https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE) | [Firehouse](https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I) | [Firehouse \(2024 Remaster\)](https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T) | 4:45 |
 | 39 | [Second Chance](https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Rock & Roll Strategy](https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX) | 5:04 |
-| 40 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
-| 41 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
-| 42 | [Love Walks In](https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 5:10 |
+| 40 | [Heaven](https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 3:56 |
+| 41 | [Love Walks In](https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 5:10 |
+| 42 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
 | 43 | [Honestly](https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN) | [Harem Scarem](https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va) | [Harem Scarem](https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c) | 4:02 |
 | 44 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 | 45 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 87 | [Blind Faith](https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie \(Expanded Edition\)](https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB) | 3:32 |
 | 88 | [Don't Walk Away](https://open.spotify.com/track/0g0WdBxrrOxOrowa9PDF9j) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Danger Danger](https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U) | 4:55 |
 | 89 | [Just Take My Heart](https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:25 |
-| 90 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
-| 91 | [What Keeps Me Loving You](https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [XYZ](https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65) | 4:42 |
+| 90 | [What Keeps Me Loving You](https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [XYZ](https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65) | 4:42 |
+| 91 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
 | 92 | [Possession](https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 5:08 |
 | 93 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
 | 94 | [Paradise](https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 4:58 |

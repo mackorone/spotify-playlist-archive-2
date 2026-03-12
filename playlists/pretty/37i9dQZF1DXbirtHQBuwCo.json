@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: Padi)",
-  "num_followers": 1093078,
+  "num_followers": 1093003,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-02-27 10:03:13",
       "album": {
-        "name": "Essence of Reverie",
-        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
-    },
-    {
-      "added_at": "2026-02-27 10:03:13",
-      "album": {
         "name": "Rush Hour",
         "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2026-02-27 10:03:13",
       "album": {
+        "name": "Essence of Reverie",
+        "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 186386,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0"
+    },
+    {
+      "added_at": "2026-02-27 10:03:13",
+      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 189946,
       "name": "Ballroom Extravaganza",
       "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
-    },
-    {
-      "added_at": "2026-02-27 10:03:13",
-      "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
-      },
-      "artists": [
-        {
-          "name": "JAEHYUN",
-          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
     },
     {
       "added_at": "2026-02-27 10:03:13",
@@ -1055,6 +1039,22 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/14XLUySagFhP9KoqOTg5ka"
+    },
+    {
+      "added_at": "2026-02-27 10:03:13",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX"
     },
     {
       "added_at": "2026-02-27 10:03:13",

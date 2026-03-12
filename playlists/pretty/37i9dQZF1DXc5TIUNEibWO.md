@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,083 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,092 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 23 | [Mmobrowa](https://open.spotify.com/track/1UX48v0WSkBkq11mVKGNLd) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 6:22 |
 | 24 | [Mawerekyekyere](https://open.spotify.com/track/2NuJo2kUwQUHmXtkou4anP) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj) | [Iron Boy](https://open.spotify.com/album/152zp4HJH6LJAKCccfOfOc) | 5:16 |
 | 25 | [Kabribi Kyere Me](https://open.spotify.com/track/24cfDtX6PVvheoS0Kb4n6W) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:32 |
-| 26 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
-| 27 | [I Go Pay You Tomorrow](https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [A\. B Crentsil, Vol\. 1](https://open.spotify.com/album/719C77dYPxQBhH90NddnAq) | 4:55 |
+| 26 | [I Go Pay You Tomorrow](https://open.spotify.com/track/5I9fC7NCMlk8V3BHJGpECz) | [A.B\. Crentsil](https://open.spotify.com/artist/1NocIilN5f2R0hYHAGcXGs) | [A\. B Crentsil, Vol\. 1](https://open.spotify.com/album/719C77dYPxQBhH90NddnAq) | 4:55 |
+| 27 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 28 | [Afia Donkor \(feat\. Bradez\)](https://open.spotify.com/track/7ofWueS4D4RHRR8uhdKqmL) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O), [Bradez](https://open.spotify.com/artist/43tnhN2d1a8ZTfSV8KImA3) | [Afia Donkor](https://open.spotify.com/album/52I8bvUNNV7N7N4ZpZKD3R) | 6:14 |
 | 29 | [Abeiku](https://open.spotify.com/track/0R55ud90TSQNXeqLeepXPq) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Abeiku](https://open.spotify.com/album/2oIwt5wf1BMRe3m386BrBT) | 5:42 |
 | 30 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 59 | [Menkoaa](https://open.spotify.com/track/7CPWYXyEHbELJCsa2rLp8n) | [2LOCK](https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn) | [The Best of Nana Fynn \(2LOCK\) Volume One](https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv) | 5:33 |
 | 60 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 | 61 | [Fre Me \(Call Me\)](https://open.spotify.com/track/4OzHHEYS58Afw2CUch9mAX) | [Charles Amoah](https://open.spotify.com/artist/6waDJroPCatiAwrSPCATkg) | [Ghana Special 2: Electronic Highlife & Afro Sounds in the Diaspora, 1980\-93](https://open.spotify.com/album/1LSTqJhdSVLvkxWpzwkYPv) | 6:21 |
-| 62 | [Maye Aketekyewa](https://open.spotify.com/track/1fclG6mBJRxoPDiUCFFLSN) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Genesis](https://open.spotify.com/album/62w8iROmmZVMVNGOSDHj1V) | 5:40 |
-| 63 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 62 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 63 | [Maye Aketekyewa](https://open.spotify.com/track/1fclG6mBJRxoPDiUCFFLSN) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Genesis](https://open.spotify.com/album/62w8iROmmZVMVNGOSDHj1V) | 5:40 |
 | 64 | [Osobro Kyee](https://open.spotify.com/track/5TP7GHvqG0XU9oMXrOZw20) | [Dr\. Paa Bobo](https://open.spotify.com/artist/1yofXmMXChlG0r3oNsqZx6) | [Osobro Kyee: The Greatest Mix of Dr\. Paa Bobo](https://open.spotify.com/album/4aPJjX5wc5UWe960uokVCw) | 7:37 |
 | 65 | [Rakia](https://open.spotify.com/track/2f7Vzsx9i4xJMxqg7X0axj) | [Kofi Nti](https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9), [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Rakia](https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T) | 5:38 |
 | 66 | [Mehia Odo](https://open.spotify.com/track/58lehu4YVaqzAv0PpyOIZU) | [Kwaisey Pee](https://open.spotify.com/artist/5HaP6tiU20J23qlcZy9GyT) | [Nyanime](https://open.spotify.com/album/3aFHKbqe0i0bLKySTdLUjn) | 4:57 |

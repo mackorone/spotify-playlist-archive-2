@@ -1,6 +1,6 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 499165,
+  "num_followers": 499209,
   "original_name": "Las 100 mejores baladas rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 295515,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 295515,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "Waking Up The Neighbours",
         "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 393640,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Coraz\u00f3n Latino",
-        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "D\u00edgale",
-      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
         "name": "Fantas\u00eda o realidad",
         "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 266666,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
+        "name": "Coraz\u00f3n Latino",
+        "url": "https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "D\u00edgale",
+      "url": "https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
+        "name": "El alma al aire",
+        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 308560,
+      "name": "Cuando nadie me ve",
+      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
+    },
+    {
+      "added_at": "2025-02-07 08:52:35",
+      "album": {
         "name": "The Essential Bangles",
         "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 238026,
       "name": "Eternal Flame",
       "url": "https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi"
-    },
-    {
-      "added_at": "2025-02-07 08:52:35",
-      "album": {
-        "name": "El alma al aire",
-        "url": "https://open.spotify.com/album/5H3nqNi9L3NaxPG45h3CjJ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 308560,
-      "name": "Cuando nadie me ve",
-      "url": "https://open.spotify.com/track/7sNpt6AvOvXXZVaqTCFVCu"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1519,18 +1519,22 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "The Essential Cyndi Lauper",
-        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
+        "name": "Radio la Colifata Presenta: El Canto del Loco",
+        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 241160,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
+      "duration_ms": 214853,
+      "name": "Contigo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
     },
     {
       "added_at": "2025-02-07 08:52:35",
@@ -1551,22 +1555,18 @@
     {
       "added_at": "2025-02-07 08:52:35",
       "album": {
-        "name": "Radio la Colifata Presenta: El Canto del Loco",
-        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
+        "name": "The Essential Cyndi Lauper",
+        "url": "https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2"
       },
       "artists": [
         {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Contigo (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
+      "duration_ms": 241160,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ"
     },
     {
       "added_at": "2025-02-07 08:52:35",

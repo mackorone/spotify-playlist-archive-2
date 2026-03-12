@@ -3547,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE"
+    },
+    {
+      "album": {
         "name": "Titliaan",
         "url": "https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku"
       },
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 275133,
       "name": "Tujhe Bhoolna Toh Chaaha",
       "url": "https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy"

@@ -15615,20 +15615,24 @@
     },
     {
       "album": {
-        "name": "Summertime",
+        "name": "Summertime (feat. High Season)",
         "url": "https://open.spotify.com/album/4pGRSYZWnZ4QHU376cYhLL"
       },
       "artists": [
         {
-          "name": "DJ ACE NYC & HIGH SEASON",
-          "url": "https://open.spotify.com/artist/7tjbJgm5t0urNLxAcSadHj"
+          "name": "DJ ACE NYC",
+          "url": "https://open.spotify.com/artist/3NggH17RWRTlazacK3wG0o"
+        },
+        {
+          "name": "High Season",
+          "url": "https://open.spotify.com/artist/3UI5HLvaA3hJWqN3qPu82n"
         }
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208457,
-      "name": "Summertime",
+      "name": "Summertime (feat. High Season)",
       "url": "https://open.spotify.com/track/5oLdNMbesH73Wmr2S2aKXD"
     },
     {

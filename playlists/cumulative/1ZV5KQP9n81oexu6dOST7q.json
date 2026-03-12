@@ -1233,6 +1233,28 @@
     },
     {
       "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
+    },
+    {
+      "album": {
         "name": "Kalabancoro",
         "url": "https://open.spotify.com/album/3EzEdhl8VSwHjUkVvlCAA6"
       },

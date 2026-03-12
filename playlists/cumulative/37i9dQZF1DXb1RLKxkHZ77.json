@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Dato' Sri Siti Nurhaliza, Ade Govinda",
+  "description": "Lagu-lagu yang wajib ada dalam playlist. Cover: Aufahanie",
   "name": "Carta Malaysia 50",
   "tracks": [
     {
@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 227415,
       "name": "Bahagia Lagi",
       "url": "https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5"
@@ -2744,7 +2744,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 178774,
       "name": "Binasa - From \"Sujud Terakhir En. Norman\"",
       "url": "https://open.spotify.com/track/13QkMUVoVWDZkjTJ6mqFi0"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 246153,
       "name": "Bintang 5",
       "url": "https://open.spotify.com/track/0HoWTALX2BktSIrSmflWSP"
@@ -7525,6 +7525,24 @@
     },
     {
       "album": {
+        "name": "Jodoh Lebaran",
+        "url": "https://open.spotify.com/album/1hDVBHpc3olc1owvjnqoyX"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Jodoh Lebaran",
+      "url": "https://open.spotify.com/track/3BcxLgdfM9wR2cyfMuyHL9"
+    },
+    {
+      "album": {
         "name": "Jom Raya",
         "url": "https://open.spotify.com/album/6fGUJAzJUy6KcU8Reu5gHf"
       },
@@ -7580,7 +7598,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 196434,
       "name": "Kacamata",
       "url": "https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm"
@@ -9894,6 +9912,28 @@
       "duration_ms": 227834,
       "name": "Malapetaka",
       "url": "https://open.spotify.com/track/42elvNonmDWGnpyxBpd9Mu"
+    },
+    {
+      "album": {
+        "name": "INI DIA",
+        "url": "https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR"
+      },
+      "artists": [
+        {
+          "name": "dia",
+          "url": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
+        },
+        {
+          "name": "INDAHKUS",
+          "url": "https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205555,
+      "name": "MALU MALU",
+      "url": "https://open.spotify.com/track/70mMQpJZwUuqardEybuaPP"
     },
     {
       "album": {
@@ -14395,6 +14435,24 @@
     },
     {
       "album": {
+        "name": "Sayang Orang Sama",
+        "url": "https://open.spotify.com/album/7ABh3r8ifZJGZLg0NYbTJL"
+      },
+      "artists": [
+        {
+          "name": "Adira Suhaimi",
+          "url": "https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202191,
+      "name": "Sayang Orang Sama",
+      "url": "https://open.spotify.com/track/1pkemoTIuhFJrX3GLKGf9y"
+    },
+    {
+      "album": {
         "name": "Sayang, do you love me?",
         "url": "https://open.spotify.com/album/40jsLRh5vc2PfWUV0IQWeF"
       },
@@ -15142,6 +15200,24 @@
       "duration_ms": 181565,
       "name": "Senyum",
       "url": "https://open.spotify.com/track/42U5uLkqHQ1qCPIB4FPFt1"
+    },
+    {
+      "album": {
+        "name": "Senyum Gugur Di Penghujung Doa",
+        "url": "https://open.spotify.com/album/6ESnmu2DNGy8WTKhVcHq72"
+      },
+      "artists": [
+        {
+          "name": "Dayang Nurfaizah",
+          "url": "https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205534,
+      "name": "Senyum Gugur Di Penghujung Doa",
+      "url": "https://open.spotify.com/track/5Xm4n43xPVyg3YqCogYw5X"
     },
     {
       "album": {

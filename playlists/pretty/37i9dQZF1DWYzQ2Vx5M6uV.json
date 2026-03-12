@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: ARIA VEGA & Ryan Castro",
-  "num_followers": 142860,
+  "num_followers": 142874,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Todav\u00eda",
-        "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "todav\u00edA",
-      "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Awolowo (Remix)",
         "url": "https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 152000,
       "name": "Awolowo - Remix",
       "url": "https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Todav\u00eda",
+        "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "todav\u00edA",
+      "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "S3NSACI\u00f3N",
+        "url": "https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV"
+      },
+      "artists": [
+        {
+          "name": "OM.VI",
+          "url": "https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh"
+        }
+      ],
+      "duration_ms": 134737,
+      "name": "Tu Boquita",
+      "url": "https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "Moviendo El Piso",
         "url": "https://open.spotify.com/album/0cdthXsqV8uzKH0Z3g3NJP"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 128362,
       "name": "Moviendo El Piso",
       "url": "https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "S3NSACI\u00f3N",
-        "url": "https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV"
-      },
-      "artists": [
-        {
-          "name": "OM.VI",
-          "url": "https://open.spotify.com/artist/0Oildy2gToPHUakKg0YSwh"
-        }
-      ],
-      "duration_ms": 134737,
-      "name": "Tu Boquita",
-      "url": "https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "X Siempre",
-        "url": "https://open.spotify.com/album/4503riheEdxWQTNSVZItgF"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "X Siempre",
-      "url": "https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "Un Trip",
         "url": "https://open.spotify.com/album/6yVVZiq5Ovj4PP3FnSDW63"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 158010,
       "name": "Un Trip",
       "url": "https://open.spotify.com/track/4IxAbO2TlNdylq7JPBHX41"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "X Siempre",
+        "url": "https://open.spotify.com/album/4503riheEdxWQTNSVZItgF"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "X Siempre",
+      "url": "https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi"
     },
     {
       "added_at": "2026-03-06 05:00:17",

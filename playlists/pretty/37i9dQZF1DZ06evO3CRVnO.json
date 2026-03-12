@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 324743,
+  "num_followers": 324761,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAADgK4m1hmy9a2Cwz7BOVVnh",
+  "snapshot_id": "aa9fAAAAAABEExYlgvKefPxDWp6/5QmN",
   "tracks": [
     {
       "added_at": null,
@@ -835,6 +835,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174100,
+      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
       },
@@ -875,34 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174100,
-      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MASA",
         "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
       },
@@ -919,6 +919,26 @@
       "duration_ms": 233142,
       "name": "Fire Your Manager (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
+      },
+      "artists": [
+        {
+          "name": "Ethereal",
+          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
     }
   ],
   "unique_name": "This Is Playboi Carti",

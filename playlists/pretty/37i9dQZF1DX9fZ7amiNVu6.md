@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 
 > Kick back and enjoy these classic summer songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,483 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,530 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 32 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 33 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
 | 34 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
-| 35 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
-| 36 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 |
+| 35 | [I've Got a Woman](https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 2:51 |
+| 36 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 37 | [Surfin' U.S.A\. \- Remastered 2001](https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfin' USA \(Remastered\)](https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI) | 2:29 |
 | 38 | [Jump in the Line](https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Jump Up Calypso](https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI) | 3:41 |
 | 39 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 69 | [Joy To The World](https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x) | [Three Dog Night](https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV) | [Naturally](https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM) | 3:40 |
 | 70 | [Dancing In The Street](https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 2:45 |
 | 71 | [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 |
-| 72 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 |
-| 73 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke..\. \(Expanded Edition\)](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
-| 74 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 |
+| 72 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 |
+| 73 | [Hungry Eyes \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 4:08 |
+| 74 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke..\. \(Expanded Edition\)](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 75 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
 | 76 | [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 |
 | 77 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |

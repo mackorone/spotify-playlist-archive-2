@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Upchuck",
-  "num_followers": 472180,
+  "num_followers": 472195,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "Smoke Screen",
+        "url": "https://open.spotify.com/album/7FpIlixttTpFhJkugBwzwl"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 171808,
+      "name": "Smoke Screen",
+      "url": "https://open.spotify.com/track/0www1z9xa39bNmz7fCmyaJ"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Afraid To Die",
         "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 182216,
       "name": "Afraid To Die",
       "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "Motel Du Cap",
-        "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 174634,
-      "name": "Rejects",
-      "url": "https://open.spotify.com/track/7e10ktiWNDxCZQKLRP2cm8"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Smoke Screen",
-        "url": "https://open.spotify.com/album/7FpIlixttTpFhJkugBwzwl"
+        "name": "Motel Du Cap",
+        "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
       },
       "artists": [
         {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Smoke Screen",
-      "url": "https://open.spotify.com/track/0www1z9xa39bNmz7fCmyaJ"
+      "duration_ms": 174634,
+      "name": "Rejects",
+      "url": "https://open.spotify.com/track/7e10ktiWNDxCZQKLRP2cm8"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -979,6 +979,38 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "Big-Box Store Heart",
+        "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
+      },
+      "artists": [
+        {
+          "name": "Prince Daddy & the Hyena",
+          "url": "https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49"
+        }
+      ],
+      "duration_ms": 215948,
+      "name": "Big-Box Store Heart",
+      "url": "https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "New Self",
+        "url": "https://open.spotify.com/album/0owImlgT3FJ7jG1LqYGS1V"
+      },
+      "artists": [
+        {
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "New Self",
+      "url": "https://open.spotify.com/track/7gKG7EJIW0fSUAHmOr4b3q"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Make It All Right",
         "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
       },
@@ -1011,22 +1043,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Big-Box Store Heart",
-        "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
-      },
-      "artists": [
-        {
-          "name": "Prince Daddy & the Hyena",
-          "url": "https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49"
-        }
-      ],
-      "duration_ms": 215948,
-      "name": "Big-Box Store Heart",
-      "url": "https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "Keep Planting Flowers",
         "url": "https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR"
       },
@@ -1039,54 +1055,6 @@
       "duration_ms": 203853,
       "name": "Spineless",
       "url": "https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "New Self",
-        "url": "https://open.spotify.com/album/0owImlgT3FJ7jG1LqYGS1V"
-      },
-      "artists": [
-        {
-          "name": "THE BOBBY LEES",
-          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "New Self",
-      "url": "https://open.spotify.com/track/7gKG7EJIW0fSUAHmOr4b3q"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "Nod",
-        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 182494,
-      "name": "Nod",
-      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "The Outlaw Star",
-        "url": "https://open.spotify.com/album/2ypUjJxlG4VJfNpI482ne8"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        }
-      ],
-      "duration_ms": 155393,
-      "name": "The Outlaw Star",
-      "url": "https://open.spotify.com/track/56xmpRMOJ2x2QgOE5tGo6u"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1107,18 +1075,18 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "TREK",
-        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+        "name": "The Outlaw Star",
+        "url": "https://open.spotify.com/album/2ypUjJxlG4VJfNpI482ne8"
       },
       "artists": [
         {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
         }
       ],
-      "duration_ms": 182666,
-      "name": "SCREWDRIVA",
-      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
+      "duration_ms": 155393,
+      "name": "The Outlaw Star",
+      "url": "https://open.spotify.com/track/56xmpRMOJ2x2QgOE5tGo6u"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1143,18 +1111,34 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Burnout (Deluxe)",
-        "url": "https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7"
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
       },
       "artists": [
         {
-          "name": "Good Terms",
-          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 216640,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA"
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+      },
+      "artists": [
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "SCREWDRIVA",
+      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1171,6 +1155,22 @@
       "duration_ms": 163315,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0TkAD1a7uXJkt7HqDbp6YT"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Burnout (Deluxe)",
+        "url": "https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7"
+      },
+      "artists": [
+        {
+          "name": "Good Terms",
+          "url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB"
+        }
+      ],
+      "duration_ms": 216640,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Straight Up (Needy)",
-        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 194273,
-      "name": "Straight Up (Needy)",
-      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "Detonate",
         "url": "https://open.spotify.com/album/3CAzERke4TJBatxOPrq99P"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Will",
-        "url": "https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe"
+        "name": "Straight Up (Needy)",
+        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
       },
       "artists": [
         {
-          "name": "Love Rarely",
-          "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 198983,
-      "name": "Will",
-      "url": "https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM"
+      "duration_ms": 194273,
+      "name": "Straight Up (Needy)",
+      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "Will",
+        "url": "https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe"
+      },
+      "artists": [
+        {
+          "name": "Love Rarely",
+          "url": "https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM"
+        }
+      ],
+      "duration_ms": 198983,
+      "name": "Will",
+      "url": "https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Burnout",
         "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Erasure",
-        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 189159,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "Pub Watch",
         "url": "https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 200314,
       "name": "Pub Watch",
       "url": "https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "Hymn From The Hills",
+        "url": "https://open.spotify.com/album/2GRydM8GnaMXnLZDQTxJfl"
+      },
+      "artists": [
+        {
+          "name": "Poison Ru\u00efn",
+          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
+        }
+      ],
+      "duration_ms": 278912,
+      "name": "Hymn From The Hills",
+      "url": "https://open.spotify.com/track/0iTVNYA62gvB7IaYY4Pm36"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Bite Harder Than You Bleed",
         "url": "https://open.spotify.com/album/0b2GduToVZmx1XjEsd8szn"
       },
@@ -1379,6 +1395,22 @@
       "duration_ms": 179562,
       "name": "Bite Harder Than You Bleed",
       "url": "https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "WIRED / Broken By Design",
+        "url": "https://open.spotify.com/album/1ZrrDRubcm6BnwzadNcJnP"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 153530,
+      "name": "WIRED",
+      "url": "https://open.spotify.com/track/0kS71QsF9XfcrV07J3KRmF"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1403,38 +1435,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Hymn From The Hills",
-        "url": "https://open.spotify.com/album/2GRydM8GnaMXnLZDQTxJfl"
-      },
-      "artists": [
-        {
-          "name": "Poison Ru\u00efn",
-          "url": "https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB"
-        }
-      ],
-      "duration_ms": 278912,
-      "name": "Hymn From The Hills",
-      "url": "https://open.spotify.com/track/0iTVNYA62gvB7IaYY4Pm36"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "WIRED / Broken By Design",
-        "url": "https://open.spotify.com/album/1ZrrDRubcm6BnwzadNcJnP"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 153530,
-      "name": "WIRED",
-      "url": "https://open.spotify.com/track/0kS71QsF9XfcrV07J3KRmF"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "No One Was Driving The Car",
         "url": "https://open.spotify.com/album/5OUlsu7mgYMtKykXbbwvnN"
       },
@@ -1447,6 +1447,22 @@
       "duration_ms": 199645,
       "name": "No One Was Driving The Car",
       "url": "https://open.spotify.com/track/4uRiAKVlF3WDlE8nCLGIlg"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 170362,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
       },
       "artists": [
         {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
         }
       ],
-      "duration_ms": 170362,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
+      "duration_ms": 219720,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1511,22 +1527,6 @@
       "duration_ms": 131079,
       "name": "Target Practice",
       "url": "https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
-      },
-      "artists": [
-        {
-          "name": "Kid Kapichi",
-          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "Trying Not to Have a Thought",
+        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+      },
+      "artists": [
+        {
+          "name": "Algernon Cadwallader",
+          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+        }
+      ],
+      "duration_ms": 249304,
+      "name": "noitanitsarcorP",
+      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Fairyland Codex",
         "url": "https://open.spotify.com/album/2SCljWoTOQQORfiWbtGL5j"
       },
@@ -1615,34 +1631,18 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Trying Not to Have a Thought",
-        "url": "https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM"
+        "name": "I really am feeling better",
+        "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
       },
       "artists": [
         {
-          "name": "Algernon Cadwallader",
-          "url": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
+          "name": "TRSH",
+          "url": "https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9"
         }
       ],
-      "duration_ms": 249304,
-      "name": "noitanitsarcorP",
-      "url": "https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd"
-    },
-    {
-      "added_at": "2026-03-10 01:43:25",
-      "album": {
-        "name": "Within Dreams",
-        "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
-      },
-      "artists": [
-        {
-          "name": "Feels Like Heaven",
-          "url": "https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO"
-        }
-      ],
-      "duration_ms": 145173,
-      "name": "Volvo (On The Road)",
-      "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+      "duration_ms": 124416,
+      "name": "I really am feeling better",
+      "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
     }
   ],
   "unique_name": "Today's Punk",

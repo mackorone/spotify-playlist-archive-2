@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk !
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,840 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,852 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 51 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
 | 52 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
 | 53 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 |
-| 54 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
-| 55 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
+| 54 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
+| 55 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
 | 56 | [The Boss](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Black Caesar](https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI) | 3:14 |
 | 57 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
 | 58 | [Love's Theme](https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White \(Reissue\)](https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc) | 4:06 |
 | 59 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
-| 60 | [Ma quale idea](https://open.spotify.com/track/50f0mt35cIwwu3Krk7nS7b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:22 |
+| 60 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 
 Snapshot ID: `AAAAAER+piW+93tNuYEK5/0ORPoFIUYb`

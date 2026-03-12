@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,264,661 likes - 167 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,989 likes - 167 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 124 | [Sofia](https://open.spotify.com/track/30uXgQ9zhjkYL0h5cqsaDz) | [vonce](https://open.spotify.com/artist/39ikAO5hhcTbDvGv2ndjbW) | [Sofia](https://open.spotify.com/album/6efJeGbPeyAkm2vXgq2nuw) | 2:33 |
 | 125 | [Magic In The Air](https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Chawki](https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt) | [Magic In The Air](https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu) | 2:47 |
 | 126 | [Hypnotized](https://open.spotify.com/track/4grVkAtmqIipynBu8D9v6G) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/0MVj6wzcoWjzmgecQZAK5d) | 3:15 |
-| 127 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
-| 128 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
+| 127 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 |
+| 128 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
 | 129 | [Jubel \- Radio Edit](https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza) | 3:21 |
 | 130 | [Blue Jeans \- RAC Mix](https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Blue Jeans Remixes](https://open.spotify.com/album/6IQC6W4qrTWIQmUmNGFyKo) | 3:38 |
 | 131 | [I CAN’T LOSE YOU](https://open.spotify.com/track/4LJOC3L3wmOqX7jxC7DNTb) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:35 |

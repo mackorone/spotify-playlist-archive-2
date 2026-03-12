@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Arima Ederra",
-  "num_followers": 1324698,
+  "num_followers": 1324628,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 207950,
-      "name": "Another Baby!",
-      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
-    },
-    {
       "added_at": "2025-08-22 10:33:51",
       "album": {
         "name": "To Dry a Tear",
@@ -1191,6 +1175,22 @@
       "duration_ms": 240263,
       "name": "Lord, Forgive Me",
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 207950,
+      "name": "Another Baby!",
+      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -1293,6 +1293,22 @@
       "url": "https://open.spotify.com/track/0s2C8FeHf0OBmphIk8jXsE"
     },
     {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "THAT'S MY...",
+        "url": "https://open.spotify.com/album/53tdq4fgJdOvP0FWV98Qom"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "THAT'S MY...",
+      "url": "https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP"
+    },
+    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "SMOKIN POTNA",
@@ -1311,22 +1327,6 @@
       "duration_ms": 153145,
       "name": "SMOKIN POTNA",
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
-    },
-    {
-      "added_at": "2025-10-25 02:54:19",
-      "album": {
-        "name": "THAT'S MY...",
-        "url": "https://open.spotify.com/album/53tdq4fgJdOvP0FWV98Qom"
-      },
-      "artists": [
-        {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "THAT'S MY...",
-      "url": "https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1461,22 +1461,6 @@
       "url": "https://open.spotify.com/track/4j11Dx8gHesYCe3yMazVpA"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
-      "album": {
-        "name": "Cumulus / Memory",
-        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 407765,
-      "name": "Cumulus / Memory",
-      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
-    },
-    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Pluto Baby",
@@ -1491,6 +1475,22 @@
       "duration_ms": 177440,
       "name": "Pluto Baby",
       "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "Cumulus / Memory",
+        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 407765,
+      "name": "Cumulus / Memory",
+      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Low End Love Songs",
-        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 210957,
-      "name": "Spend More Time With Your Friends",
-      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
-    },
-    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "brother and sister",
@@ -1555,6 +1539,22 @@
       "duration_ms": 175963,
       "name": "brother and sister",
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Low End Love Songs",
+        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 210957,
+      "name": "Spend More Time With Your Friends",
+      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
     },
     {
       "added_at": "2024-06-28 18:42:06",
@@ -1773,22 +1773,6 @@
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "Petty Pete",
-        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
-      },
-      "artists": [
-        {
-          "name": "Liim",
-          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
-        }
-      ],
-      "duration_ms": 160248,
-      "name": "Petty Pete",
-      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
-    },
-    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "a million faces",
@@ -1823,6 +1807,22 @@
       "duration_ms": 87301,
       "name": "Wasted Words (feat. Thundercat)",
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
+    },
+    {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "Petty Pete",
+        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        }
+      ],
+      "duration_ms": 160248,
+      "name": "Petty Pete",
+      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -1865,22 +1865,6 @@
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
     },
     {
-      "added_at": "2025-06-27 04:16:56",
-      "album": {
-        "name": "Homerun 2021",
-        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Homerun 2021",
-      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
-    },
-    {
       "added_at": "2025-05-23 04:00:52",
       "album": {
         "name": "pilot.",
@@ -1895,6 +1879,22 @@
       "duration_ms": 146669,
       "name": "pilot.",
       "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
+    },
+    {
+      "added_at": "2025-06-27 04:16:56",
+      "album": {
+        "name": "Homerun 2021",
+        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Homerun 2021",
+      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -1969,22 +1969,6 @@
       "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Honey Water",
-        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
-      },
-      "artists": [
-        {
-          "name": "Girlfriend",
-          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
-        }
-      ],
-      "duration_ms": 200382,
-      "name": "Touch & Go",
-      "url": "https://open.spotify.com/track/15kgnfDWqKEUXpe7bmBMaI"
-    },
-    {
       "added_at": "2024-10-20 00:14:41",
       "album": {
         "name": "Glimmer of God",
@@ -1999,6 +1983,22 @@
       "duration_ms": 140933,
       "name": "The Boy and The Swan",
       "url": "https://open.spotify.com/track/6N6SeSFTRdnu7ogCDnysby"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Honey Water",
+        "url": "https://open.spotify.com/album/71l7QcYNTXUjCwyFNy3emN"
+      },
+      "artists": [
+        {
+          "name": "Girlfriend",
+          "url": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY"
+        }
+      ],
+      "duration_ms": 200382,
+      "name": "Touch & Go",
+      "url": "https://open.spotify.com/track/15kgnfDWqKEUXpe7bmBMaI"
     },
     {
       "added_at": "2024-07-19 15:05:24",
@@ -2037,6 +2037,22 @@
       "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
     },
     {
+      "added_at": "2025-04-25 06:37:11",
+      "album": {
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 192279,
+      "name": "What I Used To Get Into",
+      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
+    },
+    {
       "added_at": "2025-02-07 08:30:49",
       "album": {
         "name": "Soft Spot (Deluxe Edition)",
@@ -2055,22 +2071,6 @@
       "duration_ms": 250248,
       "name": "Soft Spot - 955 remix",
       "url": "https://open.spotify.com/track/32B5Ht7NQoanL8WHiE6GMA"
-    },
-    {
-      "added_at": "2025-04-25 06:37:11",
-      "album": {
-        "name": "Dark Nights",
-        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 192279,
-      "name": "What I Used To Get Into",
-      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
       "added_at": "2024-09-13 09:09:19",
@@ -2103,22 +2103,6 @@
       "duration_ms": 228262,
       "name": "Your Ecstasy",
       "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
-    },
-    {
-      "added_at": "2025-09-26 19:38:36",
-      "album": {
-        "name": "Heard What You Said",
-        "url": "https://open.spotify.com/album/1f8o1x4jMdHdY5odB4xuTv"
-      },
-      "artists": [
-        {
-          "name": "Arima Ederra",
-          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Heard What You Said",
-      "url": "https://open.spotify.com/track/7CDchH4EG7QOmjTIK5Yakl"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -2157,6 +2141,22 @@
       "url": "https://open.spotify.com/track/6T9sFsgwlmID1PmK07hGhL"
     },
     {
+      "added_at": "2024-09-13 09:09:19",
+      "album": {
+        "name": "Pointy Heights",
+        "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 123466,
+      "name": "do you have a soul?",
+      "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
+    },
+    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "CHARLOTTE",
@@ -2173,20 +2173,20 @@
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
-      "added_at": "2024-09-13 09:09:19",
+      "added_at": "2025-09-26 19:38:36",
       "album": {
-        "name": "Pointy Heights",
-        "url": "https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2"
+        "name": "Heard What You Said",
+        "url": "https://open.spotify.com/album/1f8o1x4jMdHdY5odB4xuTv"
       },
       "artists": [
         {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
         }
       ],
-      "duration_ms": 123466,
-      "name": "do you have a soul?",
-      "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
+      "duration_ms": 186706,
+      "name": "Heard What You Said",
+      "url": "https://open.spotify.com/track/7CDchH4EG7QOmjTIK5Yakl"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2269,6 +2269,22 @@
       "url": "https://open.spotify.com/track/2bAVI1A5pTpfi6qloElMWa"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Always Time",
+        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Always Time",
+      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+    },
+    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "RUFF RIDE",
@@ -2303,22 +2319,6 @@
       "duration_ms": 177000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Always Time",
-        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Always Time",
-      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
     },
     {
       "added_at": "2024-09-13 09:09:19",
@@ -2517,26 +2517,6 @@
       "url": "https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ"
     },
     {
-      "added_at": "2024-08-16 04:08:50",
-      "album": {
-        "name": "Die For Me (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 206955,
-      "name": "Die For Me (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
-    },
-    {
       "added_at": "2024-05-10 06:08:33",
       "album": {
         "name": "Tell Her",
@@ -2555,6 +2535,26 @@
       "duration_ms": 231691,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"
+    },
+    {
+      "added_at": "2024-08-16 04:08:50",
+      "album": {
+        "name": "Die For Me (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 206955,
+      "name": "Die For Me (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
     }
   ],
   "unique_name": "Vanguard",

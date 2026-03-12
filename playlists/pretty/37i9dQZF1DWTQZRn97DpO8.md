@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Yasmeen
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,682 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,673 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

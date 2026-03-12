@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-392 songs - 22 hr 43 min
+393 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Carmesí](https://open.spotify.com/track/5VjpI5RsDja4HFsh8gW2bP) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Carmesí](https://open.spotify.com/album/6pK2ZkchdNLYjVZhcBzHRL) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 | 2021-12-09 |  |
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
-| [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 | 2023-06-16 |  |
+| [Casi Algo](https://open.spotify.com/track/1L7rHSD7MeEJc9hhNO4OY7) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Casi Algo](https://open.spotify.com/album/6xOQIgmaXLE1LyZtn5gYuw) | 3:12 | 2023-06-16 | 2026-03-12 |
 | [Celebration](https://open.spotify.com/track/25TsNPHlxwbF8e7vb0Ccim) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Ape in Pink Marble](https://open.spotify.com/album/4B1W5FeDz8Z1jsYAZV4MdU) | 2:56 | 2022-04-07 | 2022-04-21 |
 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-12-09 |  |
 | [Cha Cha Cha](https://open.spotify.com/track/1acq8b2Bxx9TXlxuw2uvA5) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [El Arcas](https://open.spotify.com/artist/2A8nxnQZ6rbT30DYgBiEKR) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 5:17 | 2024-03-14 |  |
@@ -206,6 +206,7 @@
 | [Libro Abierto](https://open.spotify.com/track/4NCxiDoRQGgBW5Ja0FHIiC) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Libro Abierto](https://open.spotify.com/album/3uA0bh0VM1Qu2dcwt2ZmsV) | 3:03 | 2021-12-09 |  |
 | [Life Is Everything](https://open.spotify.com/track/13YGtUizphOZtVnpeZskTk) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [All I Know](https://open.spotify.com/album/4mmotbe2IhNrsRt7dHLt9e) | 3:53 | 2021-12-09 | 2022-10-21 |
 | [Llegué hasta ti \(feat\. Juanito Makandé\)](https://open.spotify.com/track/1JnrSFltARbpAUX4kuJ36k) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Llegué hasta ti \(feat\. Juanito Makandé\)](https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW) | 3:14 | 2021-12-09 |  |
+| [Llévame](https://open.spotify.com/track/1LHOl30YAYVSK7DwdstsWR) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Llévame](https://open.spotify.com/album/5YncRReTggNAZ0wty0jXnI) | 2:29 | 2026-03-11 |  |
 | [Lo Haré](https://open.spotify.com/track/37gBnVxVHe0YBC3qy5sYkv) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Cosas Perdidas](https://open.spotify.com/album/0grUtWbFNyozTiCvBfgnh8) | 2:02 | 2022-04-07 | 2022-04-21 |
 | [Lo Que Perdimos](https://open.spotify.com/track/7CwxNqAafIALPb0F6Hcs6I) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lo Que Perdimos](https://open.spotify.com/album/6AnlGhkXysrFpv0yt8v3Yf) | 3:26 | 2021-12-09 | 2022-04-21 |
 | [Lo Que Perdimos](https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:27 | 2022-05-14 | 2022-10-28 |

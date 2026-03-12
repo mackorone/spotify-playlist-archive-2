@@ -4,7 +4,7 @@
 
 > Relaxed beats to game, vibe and stay unbothered
 
-371 songs - 19 hr 21 min
+372 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 | 2022-08-31 | 2023-06-28 |
 | [Moonraker](https://open.spotify.com/track/5arnfvbhWPuE4EE8jzoket) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Moonraker](https://open.spotify.com/album/4Z5PMf1Nw6xCAcnaTBKj6d) | 6:04 | 2019-12-16 | 2022-09-01 |
 | [Moonraker](https://open.spotify.com/track/6hJA3Nn6jBjuUxSoymBn9D) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Moonraker \(Remixes\)](https://open.spotify.com/album/7bfmgbE2iBZNVK85AqU95R) | 6:04 | 2019-12-16 | 2022-07-29 |
+| [Moonset Lagoon](https://open.spotify.com/track/2WkBM7FQAaaXIAm87pcqrR) | [Low Horizon](https://open.spotify.com/artist/3jHzfRqEY04Ye2Z7tntlVR) | [Moonset Lagoon](https://open.spotify.com/album/43A2TImzSPBFmN43qvJS8g) | 2:27 | 2026-03-11 |  |
 | [Mosaic](https://open.spotify.com/track/1kua6VM4K3jnxqKxliDVyx) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Across the Oceans](https://open.spotify.com/album/2ytkZoVgs5yKkFEP9oZiut) | 3:54 | 2019-12-16 | 2022-09-01 |
 | [my new love](https://open.spotify.com/track/1uPLrGFdfHtTPvqsDpdVsL) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 1:05 | 2024-05-08 | 2025-03-18 |
 | [My Only Swerving](https://open.spotify.com/track/1l0aqj8C1yDkdpksIDZZSr) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/0wKweXH1tHY04ONpa7Cphv) | 5:14 | 2019-12-16 | 2022-07-29 |
@@ -256,7 +257,7 @@
 | [Places](https://open.spotify.com/track/73CpjalV6Xq6we0qVUgoad) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Late Night Tales \- Bonobo](https://open.spotify.com/album/0y3ai6LH83qeeeCbmpaIvf) | 5:03 | 2019-12-16 | 2022-07-29 |
 | [playa](https://open.spotify.com/track/2WHfcEjm46Pjbviynt1jN8) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G), [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0), [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [playa](https://open.spotify.com/album/1Ilqrit4cHGAAZVfpLo2on) | 1:56 | 2022-08-31 | 2023-09-09 |
 | [Pleasure Centre](https://open.spotify.com/track/331tP1ALdrmjioH4RznvwC) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [On Vacation](https://open.spotify.com/album/5glo8zTL4koRq4BmOCdapU) | 5:47 | 2019-12-16 | 2022-09-01 |
-| [Powerhouse](https://open.spotify.com/track/0Ygqq5WvKENWa8BeM1gNqB) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [Powerhouse](https://open.spotify.com/album/1RDFTYNdYt9gi0TkFCaFRF) | 3:26 | 2026-01-27 |  |
+| [Powerhouse](https://open.spotify.com/track/0Ygqq5WvKENWa8BeM1gNqB) | [crayg](https://open.spotify.com/artist/2V6p3TuP6FqZBVpnbmfvHg) | [Powerhouse](https://open.spotify.com/album/1RDFTYNdYt9gi0TkFCaFRF) | 3:26 | 2026-01-27 | 2026-03-12 |
 | [Preferences](https://open.spotify.com/track/4RKdZ7eLRpbDaz1A3TUcWE) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [Preferences](https://open.spotify.com/album/7xEMGFzID9mX1TsyG4FOJA) | 2:19 | 2022-09-02 | 2023-06-02 |
 | [Present](https://open.spotify.com/track/6Zrs6gUUaSkM1Z7d0FxOlF) | [Lloyd Vaan](https://open.spotify.com/artist/3HFWqhd60hrJB8fpyjrTLu) | [Lens Flare](https://open.spotify.com/album/7Jgwg8nxsehAXjIYYsdanE) | 2:26 | 2025-03-17 | 2026-01-28 |
 | [Pueblo Man](https://open.spotify.com/track/6Hbnhac6poCnife9O5aCeZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 2:48 | 2024-05-08 | 2025-03-18 |

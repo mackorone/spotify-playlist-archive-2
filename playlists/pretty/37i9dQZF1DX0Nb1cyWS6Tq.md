@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Bela Lugosi's Dead..\. Bauhaus on cover.
+> Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,344 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,478 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 56 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 57 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
 | 58 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
-| 59 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
-| 60 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
+| 59 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
+| 60 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 61 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
 | 62 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
 | 63 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |

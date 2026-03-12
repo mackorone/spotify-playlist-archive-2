@@ -1,12 +1,12 @@
 {
   "description": "This is Murda Beatz. The essential tracks, all in one playlist.",
-  "num_followers": 3284,
+  "num_followers": 3283,
   "original_name": "This Is Murda Beatz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACVvSrWjlIeqwVK7pskX2Bn",
+  "snapshot_id": "aa9fAAAAAACuXZGw0CTU49nG1yo6UHI9",
   "tracks": [
     {
       "added_at": null,
@@ -527,6 +527,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 192968,
+      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culture Jam Presents: Legend In My Hood",
         "url": "https://open.spotify.com/album/4Bvbm845mhiltIsO6stBPc"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 153529,
       "name": "Eye Spy (feat. Nardo Wick, Key Glock, Tay Keith & Murda Beatz)",
       "url": "https://open.spotify.com/track/21DBRZQmH2RIkI7pZybCiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 192968,
-      "name": "Banana Split (with YNW Melly feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Tee",
-        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 113684,
-      "name": "White Tee",
-      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
         "url": "https://open.spotify.com/album/7dYqsPwOXNU2PXl00fkaAG"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 204804,
       "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
       "url": "https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Tee",
+        "url": "https://open.spotify.com/album/3e1abCpzlmDBV5LVSzC1jV"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 113684,
+      "name": "White Tee",
+      "url": "https://open.spotify.com/track/5afnaEFXDEnacDAzfUfSgu"
     },
     {
       "added_at": null,

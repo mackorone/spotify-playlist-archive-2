@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,418 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,441 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 99 | [丸ノ内サディスティック](https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:55 |
 | 100 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
 
-Snapshot ID: `AAAAAAscN3k5MVpIqSNjoYCDWw0y6bh5`
+Snapshot ID: `AAAAAA++F9HVUpfS5A65SaZryHgPdFAx`

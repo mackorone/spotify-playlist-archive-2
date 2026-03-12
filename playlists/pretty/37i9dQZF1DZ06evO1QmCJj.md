@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,378 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,381 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 24 | [DE PLASTILINA](https://open.spotify.com/track/6HyNrYrY8gegxrZQuQQ1GJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 3:29 |
 | 25 | [Q SOMOS?](https://open.spotify.com/track/3IR71S2uR3T6ZRoOqttO1W) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 3:29 |
 | 26 | [COMO ESTÁS BB](https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL TIBURÓN](https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t) | 3:02 |
-| 27 | [Caramello](https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Caramello](https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn) | 3:17 |
-| 28 | [LA SANTA](https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:45 |
+| 27 | [LA SANTA](https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:45 |
+| 28 | [Caramello](https://open.spotify.com/track/1laLs6CGimqWYgwnZelz8H) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Rivoluzione](https://open.spotify.com/album/1bFodetEZ0nZP3A7COgZ9x) | 3:17 |
 | 29 | [MI COLETA](https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 3:07 |
 | 30 | [LA TIRITA](https://open.spotify.com/track/63sYEorZidLgvYjQFpmDxL) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/4Qdq0j2UNhLId7hHVBPgSH) | 2:52 |
 | 31 | [4 besos](https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [4 besos](https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC) | 3:52 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 35 | [KOMBOLEWA \- Remix](https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [KOMBOLEWA \(Remix\)](https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST) | 2:51 |
 | 36 | [YO TE ESPERARÉ \- Live](https://open.spotify.com/track/1boYDONOQ8TVM3njEs6psa) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA BRUJA, LA NIÑA Y EL DRAGÓN](https://open.spotify.com/album/6cmOLNiylju3S0GhKG4s72) | 3:56 |
 | 37 | [MISSION005](https://open.spotify.com/track/2Jc9hT3qjmjGP65XrF1X1Y) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 3:09 |
-| 38 | [Me Quedo](https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 2:54 |
-| 39 | [Toy Story](https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:59 |
+| 38 | [Toy Story](https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:59 |
+| 39 | [Me Quedo](https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 2:54 |
 | 40 | [Romeo Y Julieta](https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Romeo Y Julieta](https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX) | 2:58 |
 | 41 | [MALA SUERTE](https://open.spotify.com/track/0s9CLbGKANcd5lCMoq38Ya) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [MALA SUERTE](https://open.spotify.com/album/7iaCkhpUJuRHD0QQ7qjCOS) | 3:35 |
 | 42 | [AN1MAL](https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 49 | [KILLA \(ring ring\)](https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:32 |
 | 50 | [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 |
 
-Snapshot ID: `aa4NgAAAAACxyVYjZPW2lF+61pp7Doxu`
+Snapshot ID: `aa9fAAAAAABntShvsbTtKEMZMYXQOn8/`

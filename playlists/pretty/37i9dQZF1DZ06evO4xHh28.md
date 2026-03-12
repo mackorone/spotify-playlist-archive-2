@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,827 likes - 38 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,907 likes - 38 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 8 | [Summertime](https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 |
 | 9 | [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 5:11 |
 | 10 | [The Ghost of You](https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:14 |
-| 11 | [Vampires Will Never Hurt You](https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:26 |
+| 11 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
 | 12 | [Planetary \(GO!\)](https://open.spotify.com/track/3iitOoZUtWEgwZOEYFITFo) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 |
 | 13 | [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 |
 | 14 | [Thank You for the Venom](https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:41 |
-| 15 | [Honey, This Mirror Isn't Big Enough for the Two of Us](https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 |
+| 15 | [Vampires Will Never Hurt You](https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:26 |
 | 16 | [Boy Division](https://open.spotify.com/track/7wzNovIu5urOjulGX4VzFo) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number One](https://open.spotify.com/album/2RCPu5qyaDPWIeWdy4WJCU) | 2:55 |
 | 17 | [Cancer](https://open.spotify.com/track/0GgN4MhR5GKn5IcKN0e0rG) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:22 |
 | 18 | [You Know What They Do to Guys Like Us in Prison](https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:53 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 37 | [Surrender the Night](https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 3:27 |
 | 38 | [Desert Song](https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 3:50 |
 
-Snapshot ID: `aa4NgAAAAAC7dPH514aFSkpSFtRvNGFE`
+Snapshot ID: `aa9fAAAAAABCjzHGVFfiu32KvoFk5oru`

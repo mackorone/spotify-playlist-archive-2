@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50476,
+  "num_followers": 50490,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAC7axntdjE79tVm4dnLDhBl",
+  "snapshot_id": "aa9fAAAAAAB6qbNnHsF9EoWgg/o1f2Ur",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 146657,
+      "name": "College",
+      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happier Alone",
         "url": "https://open.spotify.com/album/3AtxQNOTzdsCm9qUwJVX5j"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 146657,
-      "name": "College",
-      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noise Complaint",
         "url": "https://open.spotify.com/album/2c4NXT3nDspQTLujTdIJHT"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 244580,
       "name": "Song I Can Drink Too",
       "url": "https://open.spotify.com/track/6aqG6VFDGxrVkPJxumd9kG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 243152,
+      "name": "GTFO",
+      "url": "https://open.spotify.com/track/69yFW3GkClGTCXdOrZ8cSl"
     },
     {
       "added_at": null,
@@ -463,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Werewolf",
-        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 222578,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harold Saul High",
         "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
       },
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Werewolf",
+        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 222578,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
         "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 243152,
-      "name": "GTFO",
-      "url": "https://open.spotify.com/track/69yFW3GkClGTCXdOrZ8cSl"
+      "duration_ms": 239193,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2gAcxlvwhyHDxnKLBbWXAt"
     },
     {
       "added_at": null,
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 239193,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/2gAcxlvwhyHDxnKLBbWXAt"
+      "duration_ms": 287926,
+      "name": "Lonesome Dove",
+      "url": "https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9"
     },
     {
       "added_at": null,
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 287926,
-      "name": "Lonesome Dove",
-      "url": "https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9"
+      "duration_ms": 267715,
+      "name": "Sweet Texas Strange",
+      "url": "https://open.spotify.com/track/2eMDLqUwfIKwYpamHAzgEe"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
       "duration_ms": 204628,
       "name": "9 Lives (Black Cat)",
       "url": "https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 267715,
-      "name": "Sweet Texas Strange",
-      "url": "https://open.spotify.com/track/2eMDLqUwfIKwYpamHAzgEe"
     },
     {
       "added_at": null,

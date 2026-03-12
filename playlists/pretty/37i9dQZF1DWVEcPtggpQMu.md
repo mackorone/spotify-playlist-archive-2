@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Sastii
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,416 likes - 95 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,439 likes - 95 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

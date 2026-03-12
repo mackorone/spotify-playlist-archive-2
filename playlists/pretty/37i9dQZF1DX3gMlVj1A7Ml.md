@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România într\-o ediție specială  co\-curată  de Olivia Addams
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,779 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,785 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [What If](https://open.spotify.com/track/1nimM6xB8Wi03bT8BaK0jS) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy) | [What If](https://open.spotify.com/album/0iOqcYf1KBWPxgSioH7ehp) | 2:27 |
 | 50 | [Soare Și Pământ](https://open.spotify.com/track/1OHc8xwgXlYUKCYWqtru4r) | [Naomi Prie](https://open.spotify.com/artist/6zNRGomsiFmhEa19WlgAto), [What's Up](https://open.spotify.com/artist/0b9WsUtumqqaRg8uHn3dDm) | [Soare Și Pământ](https://open.spotify.com/album/2pJAxc2z18eH7DhDc5VHjP) | 2:55 |
 
-Snapshot ID: `AAAAAKk24zyAkySscrcdQVd2kTwq3onf`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

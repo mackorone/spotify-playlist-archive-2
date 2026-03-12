@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,597 likes - 156 songs - 9 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,596 likes - 156 songs - 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 12 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
 | 13 | [Knew Better / Forever Boy](https://open.spotify.com/track/212ecIiQ47VqrOLRTwXaMB) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 4:59 |
 | 14 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 |
-| 15 | [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 |
-| 16 | [Put On A Smile](https://open.spotify.com/track/5f7UJCMrA1VRLvbPrq1h0G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:15 |
+| 15 | [Put On A Smile](https://open.spotify.com/track/5f7UJCMrA1VRLvbPrq1h0G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:15 |
+| 16 | [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 |
 | 17 | [Silk Sonic Intro](https://open.spotify.com/track/7LK0IWXe2Yd0JGgSjJThex) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 1:03 |
 | 18 | [777](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 2:45 |
 | 19 | [Moment](https://open.spotify.com/track/6rSUrh8ErKSKfbH0t0IzCM) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 2:59 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 155 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 | 156 | [Falling In Love](https://open.spotify.com/track/0zzqjHe6CUudt5UzKgS95v) | [Juxtaposition](https://open.spotify.com/artist/4wFqotuEhWL1ERKyIVnU9F) | [Retrospect](https://open.spotify.com/album/3W28uUSJbOrzH3WDbgSWX3) | 3:02 |
 
-Snapshot ID: `AcLyngAAAAAnVdXAVWjOQMx9NUpyroI4`
+Snapshot ID: `AcL4AgAAAADi9ge/VRrS1OXCTaV86BVV`

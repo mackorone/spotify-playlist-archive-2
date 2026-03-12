@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095 likes - 130 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,097 likes - 130 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 57 | [3001](https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:37 |
 | 58 | [Broke](https://open.spotify.com/track/2RStoLVPxT2Z1OgXjhpUDf) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [All Things Work Together](https://open.spotify.com/album/436tJ7T4l2EXqFa4r8PT5r) | 2:59 |
 | 59 | [Two Cups \(feat\. Offset & Big Sean\)](https://open.spotify.com/track/7r62wx5N1cOQxYr6b0p2Bi) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [The World Is Yours 2](https://open.spotify.com/album/6GDXnx6AUDGH0tpxXQX0Kn) | 3:01 |
-| 60 | [Interlude](https://open.spotify.com/track/2NJu5JtZLPmmuZF7Lr4Arr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 1:39 |
-| 61 | [WHO TF IZ U](https://open.spotify.com/track/5ZfOg71oANMaKmswvSEF2r) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:37 |
+| 60 | [WHO TF IZ U](https://open.spotify.com/track/5ZfOg71oANMaKmswvSEF2r) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:37 |
+| 61 | [Interlude](https://open.spotify.com/track/2NJu5JtZLPmmuZF7Lr4Arr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 1:39 |
 | 62 | [WHISKEY \(RELEASE ME\) \(feat\. Gorillaz & Westside Gunn\)](https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 4:05 |
 | 63 | [Champion](https://open.spotify.com/track/2NMIcon70yj6ymGshnrjMI) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 4:56 |
 | 64 | [Offended](https://open.spotify.com/track/0SMpAbwLauaXOA3A0e4uUb) | [Juice Armani](https://open.spotify.com/artist/0TIPSD7AoFPGfB8JzWKMHC) | [Offended](https://open.spotify.com/album/3EAqn4s5o54zkDBy0zcm6n) | 2:13 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 129 | [Hard to Breathe](https://open.spotify.com/track/2h4Tn7GeqjoaecdelWzQg3) | [Nathan Hammah](https://open.spotify.com/artist/0VO2sPJm8C90oOPHjrEOtg), [Hooks](https://open.spotify.com/artist/2kz5a2KrH2NBXBv1TgEmz6), [Monique](https://open.spotify.com/artist/11IltqNFT9YGgvsGmE1TOr) | [Hard to Breathe](https://open.spotify.com/album/3m7SNrSb4xYrO8t4pF6zq8) | 3:23 |
 | 130 | [March 14th](https://open.spotify.com/track/4OBjDxHFi7Wx5mIyCbWOET) | [Nabil Muquit](https://open.spotify.com/artist/6KAQoxYIdufiIpIN9Hh97O) | [4u&u2](https://open.spotify.com/album/0e7J5hOtxyqg0UsNEJCbFH) | 3:31 |
 
-Snapshot ID: `AcLyngAAAACmQZr1SNOn7aoo8ZWznsFw`
+Snapshot ID: `AcL4AgAAAACmrz57mmLP6UhQrdRdDKOo`

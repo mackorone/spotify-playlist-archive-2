@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1807291,
+  "num_followers": 1807067,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "Quer\u00e1monos lento",
+        "url": "https://open.spotify.com/album/4Hnnvyr62Z0q2ksKjqHO4z"
+      },
+      "artists": [
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "duration_ms": 139852,
+      "name": "Quer\u00e1monos lento",
+      "url": "https://open.spotify.com/track/2GZvRXUFYY1EMJTP4nnVhW"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "DE SASTRE",
         "url": "https://open.spotify.com/album/4QWe6IxRC0jkG03pNdYmAp"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 250259,
       "name": "DE SASTRE",
       "url": "https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Quer\u00e1monos lento",
-        "url": "https://open.spotify.com/album/4Hnnvyr62Z0q2ksKjqHO4z"
-      },
-      "artists": [
-        {
-          "name": "Manuel Lizarazo",
-          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
-        }
-      ],
-      "duration_ms": 139852,
-      "name": "Quer\u00e1monos lento",
-      "url": "https://open.spotify.com/track/2GZvRXUFYY1EMJTP4nnVhW"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Agua Del Pozo",
-        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "De Camino",
-      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "SUBEME LA RADIO",
         "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 209826,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Agua Del Pozo",
+        "url": "https://open.spotify.com/album/08C8LxgyBqG84Xv8Wbrokd"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "De Camino",
+      "url": "https://open.spotify.com/track/0OnfT8ZB33ST5fRBzJjaIo"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 131999,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/45cWG4x30tpKp8bEF5RO0W"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 152533,
-      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
+      "duration_ms": 131999,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/1XeYBsNR22CI5AMEqgmkm3"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1263,6 +1247,22 @@
       "duration_ms": 175000,
       "name": "Preso (Grabado en ONErpm Studios)",
       "url": "https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
+      },
+      "artists": [
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 152533,
+      "name": "Juana Mecho - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "Underdog (Acoustic Version)",
+        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210848,
+      "name": "Underdog - Acoustic Version",
+      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Underdog (Acoustic Version)",
-        "url": "https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210848,
-      "name": "Underdog - Acoustic Version",
-      "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        }
-      ],
-      "duration_ms": 229693,
-      "name": "Amuleto",
-      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1727,22 +1727,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "enero (versi\u00f3n ac\u00fastica)",
-        "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
+        "name": "Como Antes (Remix Acustico)",
+        "url": "https://open.spotify.com/album/4kmeebwvosASgsi4bDHIIi"
       },
       "artists": [
         {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
         },
         {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+          "name": "Izma",
+          "url": "https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ"
         }
       ],
-      "duration_ms": 206143,
-      "name": "enero - versi\u00f3n ac\u00fastica",
-      "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+      "duration_ms": 207788,
+      "name": "Como Antes - Remix Acustico",
+      "url": "https://open.spotify.com/track/76MyowWwAS93Lj4R9apUeh"
     }
   ],
   "unique_name": "Ac\u00fasticas",

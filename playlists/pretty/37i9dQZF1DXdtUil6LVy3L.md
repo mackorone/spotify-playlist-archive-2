@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,408 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,401 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 30 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 |
 | 31 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |
 | 32 | [We Three Kings](https://open.spotify.com/track/220q8pjM8CL42cIGT1jSBj) | [Augustus Step](https://open.spotify.com/artist/6pLbnxGxHee8tyi6X1f44M) | [We Three Kings](https://open.spotify.com/album/1Q2yEQkTcFH0O7wp5tA1bH) | 2:59 |
-| 33 | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN) | 2:25 |
-| 34 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
+| 33 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 |
+| 34 | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/track/00zEutyWPkwIbwl50L1fop) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Rudolph the Red Nosed Rain Deer](https://open.spotify.com/album/1hMXOVW1GQ7qRqyZ4ffxFN) | 2:25 |
 | 35 | [Meet Me Under the Mistletoe](https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Meet Me Under the Mistletoe](https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc) | 3:24 |
 | 36 | [The Gift of Joy](https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [The Gift of Joy](https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna) | 2:57 |
 | 37 | [My Favourite Time of Year](https://open.spotify.com/track/61IXkIVYvfpKdjzEQeMU54) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [My Favourite Time of Year](https://open.spotify.com/album/5erwrkAgvvtsofeB64etXw) | 4:02 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 63 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS) | [N.B.H\-Trio](https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV) | 4:10 |
 | 64 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
 | 65 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
-| 66 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
-| 67 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
+| 66 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
+| 67 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
 | 68 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
 | 69 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 |
 | 70 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |

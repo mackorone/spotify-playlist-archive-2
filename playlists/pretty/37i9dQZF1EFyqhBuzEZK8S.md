@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,557 likes - 346 songs - 21 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,560 likes - 346 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 98 | [reincarnated](https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:35 |
 | 99 | [The greatest](https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
 | 100 | [Jealous Type](https://open.spotify.com/track/03JZr55j9bIj1d2RQJ7Yq9) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 2:43 |
-| 101 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
-| 102 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 |
+| 101 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 |
+| 102 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 103 | [Go Go Juice](https://open.spotify.com/track/1qyw5wSUkEvH8DtaCdx7Lg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:13 |
 | 104 | [Lie To Girls](https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:22 |
 | 105 | [Hard Feelings/Loveless](https://open.spotify.com/track/1Dp7JGFNjvg8Nk0CtMCcnr) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 6:07 |
@@ -323,8 +323,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 313 | [Behavior](https://open.spotify.com/track/7MtmLhbyAUEEdGZltsNQoh) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 4:03 |
 | 314 | [Dakota](https://open.spotify.com/track/4gqxRKKKIFqB95jo5VLG8y) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 3:55 |
 | 315 | [ODDWADD \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/track/34D78QnkBV42QouI2DE66p) | [Lace Manhattan](https://open.spotify.com/artist/0I7CZtEq5rPKtJewJvBjyJ) | [ODDWADD / In the Sun She Lies \(From the Original Motion Picture Soundtrack 'Honey Don’t!'\)](https://open.spotify.com/album/2PlNR6OhQJ6aAnQH0rEbyj) | 2:18 |
-| 316 | [Alone On The Sea](https://open.spotify.com/track/4g2AEQ5c0mCi1wg7eBfCRd) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 7:08 |
-| 317 | [Black Eye](https://open.spotify.com/track/6wiKclEuB8DfW4lc57mirg) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 4:22 |
+| 316 | [Black Eye](https://open.spotify.com/track/6wiKclEuB8DfW4lc57mirg) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 4:22 |
+| 317 | [Alone On The Sea](https://open.spotify.com/track/4g2AEQ5c0mCi1wg7eBfCRd) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Trampoline](https://open.spotify.com/album/1MuWxqgf3WC2Qr7F4uU47z) | 7:08 |
 | 318 | [\(RAP SH\*T\)](https://open.spotify.com/track/59VbLC5AZPKDn5HKRPkCpQ) | [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [MOONLIT FOOLS](https://open.spotify.com/album/1QeiSQx4kOgkncEVUM5Nud) | 2:57 |
 | 319 | [Bloody Lips](https://open.spotify.com/track/7yaCUpUQkpgKsPZRH2EgU9) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Steel Train](https://open.spotify.com/album/3XkTBYbtXxJ2HrII6sfgbI) | 2:44 |
 | 320 | [What the Fuck \- Live](https://open.spotify.com/track/57C1sRLazYPpOl9HAWuU7H) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Before Shane Went to Bangkok: FUN\. LIVE in the USA](https://open.spotify.com/album/5RXUNQwcgpWLFUqhvwoY8F) | 6:42 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 345 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 346 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AcLyqAAAAADp5Y7bPOi8fC+NGP7fDtU6`
+Snapshot ID: `AcL4DAAAAACnmulpBMJGOmAlpY5kHjk6`

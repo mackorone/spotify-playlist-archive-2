@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,514 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,520 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 45 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
 | 46 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
 | 47 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 |
-| 48 | [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 |
+| 48 | [In the End](https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory](https://open.spotify.com/album/2pKw6GERJVAD61449B1EEM) | 3:36 |
 | 49 | [Wackelkontakt](https://open.spotify.com/track/51tf2J1gGNLG0IIvLquE64) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Lampenfieber](https://open.spotify.com/album/5xS3XPXynqERqssuxx8Ttc) | 2:48 |
 | 50 | [Papaoutai \- Afro Soul](https://open.spotify.com/track/2pwED7E7gGr3UR7T3s3LSM) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [Chill77](https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s), [Unjaps](https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi) | [Papaoutai \(Afro Soul\)](https://open.spotify.com/album/1q3KLItnr8PU6zjuPiwMQL) | 4:40 |
 
-Snapshot ID: `MUN/wAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUTO6AAAAAAAAAAAAAAAAAAAAAAAAGVu`

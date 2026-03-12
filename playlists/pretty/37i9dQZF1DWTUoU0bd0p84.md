@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUoU0bd0p84.md) - [plain]
 
 > The songs from the 2000s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,027 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,481 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUoU0bd0p84.md) - [plain]
 | 14 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 |
 | 15 | [Poker Face](https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:57 |
 | 16 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:36 |
-| 17 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
-| 18 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 |
+| 17 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 |
+| 18 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
 | 19 | [Just A Lil Bit](https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:57 |
 | 20 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 |
 | 21 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUoU0bd0p84.md) - [plain]
 | 55 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 |
 | 56 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 |
 | 57 | [Let Me Blow Ya Mind](https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah) | [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Scorpion](https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw) | 3:50 |
-| 58 | [Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman](https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX) | 3:54 |
-| 59 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 58 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 59 | [Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman](https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX) | 3:54 |
 | 60 | [Hollaback Girl](https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:19 |
 | 61 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
 | 62 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop The Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |

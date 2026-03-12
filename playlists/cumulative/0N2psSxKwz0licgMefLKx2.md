@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-415 songs - 22 hr 37 min
+416 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [fault line](https://open.spotify.com/track/5UXEe9lASLQzbGapTZM7ID) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [fault line](https://open.spotify.com/album/1ZYo7uB8K9cvd8BotBNU2u) | 3:19 | 2024-05-10 | 2024-06-09 |
 | [Favorite Country Song](https://open.spotify.com/track/1ARmO8RudHPmloapraihD3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:13 | 2025-11-21 |  |
 | [Favorite Country Song](https://open.spotify.com/track/3roJNjr7zRlLyr1bTPq0AS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY!](https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0) | 3:13 | 2025-04-11 | 2025-11-22 |
+| [Feels Like Forever](https://open.spotify.com/track/7owsUFh4Oc4zwtq8uYCESH) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [Feels Like Forever](https://open.spotify.com/album/1O59CVuNp3WHcV7lgRnoHm) | 3:12 | 2026-03-11 |  |
 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 | 2025-04-04 | 2025-11-22 |
 | [First Love](https://open.spotify.com/track/295HBzNKk3Sbm3S3fGuKrT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [First Love](https://open.spotify.com/album/3kEv7COHiNjrvePO7qGS6L) | 3:07 | 2025-03-14 | 2025-08-09 |
 | [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 | 2023-11-03 | 2024-03-02 |

@@ -22110,7 +22110,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 274800,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/18KyJgSmfIPEsimWshBojB"
@@ -41880,7 +41880,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 173858,
       "name": "Lembrei de Tu",
       "url": "https://open.spotify.com/track/1lokGTw8YKDexcSPtQ8AQ3"
@@ -71650,7 +71650,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 159000,
       "name": "Sabor Cowboy",
       "url": "https://open.spotify.com/track/1JAVq5ortNzLG11K3VHPxa"
@@ -80814,7 +80814,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 195970,
       "name": "Te Encontrar na Lapa",
       "url": "https://open.spotify.com/track/1rkP1QTDKqKUNkBMqauUz7"
@@ -85535,6 +85535,24 @@
     },
     {
       "album": {
+        "name": "O Maior Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6QXJWHHtoOU2cU2a6ZwT9x"
+      },
+      "artists": [
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518138,
+      "name": "Tudo \u00c9 Perda - Ao Vivo",
+      "url": "https://open.spotify.com/track/69reWZKMmkwA7x27jBNK1Z"
+    },
+    {
+      "album": {
         "name": "\u00c9 Ele",
         "url": "https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h"
       },
@@ -86272,7 +86290,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 360143,
       "name": "Um Novo Dia - Ao Vivo",
       "url": "https://open.spotify.com/track/3kpWSH8AGR9MkGinPA4XDJ"

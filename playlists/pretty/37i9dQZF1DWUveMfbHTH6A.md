@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,734 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,738 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 28 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
 | 29 | [Stick Up](https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D) | [Stick Up](https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum) | 2:07 |
 | 30 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
-| 31 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
-| 32 | [Em Không Cần](https://open.spotify.com/track/3M8XPtbFW7xWyz2JmuDcce) | [Hannie](https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs) | [Em Không Cần](https://open.spotify.com/album/4b319VI4xcHsxbXZVQmRgy) | 4:10 |
+| 31 | [Em Không Cần](https://open.spotify.com/track/3M8XPtbFW7xWyz2JmuDcce) | [Hannie](https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs) | [Em Không Cần](https://open.spotify.com/album/4b319VI4xcHsxbXZVQmRgy) | 4:10 |
+| 32 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
 | 33 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |
 | 34 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |
 | 35 | [Onions](https://open.spotify.com/track/6R1NQXv3yXEMNmEoq3oV5w) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Onions](https://open.spotify.com/album/2QbGDADifKwU9DlKwQvK6I) | 3:08 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 37 | [System](https://open.spotify.com/track/3kPWyMLOMqigwl4p4aJZWa) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:54 |
 | 38 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
 | 39 | [Lukisan](https://open.spotify.com/track/4JCCxTFPJVyKScKv7AwZcl) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5) | [Lukisan](https://open.spotify.com/album/3qxSIjuljZrg7LEQ8RVema) | 4:15 |
-| 40 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
-| 41 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
+| 40 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
+| 41 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
 | 42 | [East Coast Summers](https://open.spotify.com/track/2bB8T6DWnjtaUaWkK2NbEx) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [East Coast Summers](https://open.spotify.com/album/4OEwrUAuTleop3VMyTzvFX) | 3:41 |
 | 43 | [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 |
 | 44 | [Perfect](https://open.spotify.com/track/1ZE95YrQTRP8zqMNWhySjP) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Perfect](https://open.spotify.com/album/5m1g4NScg6USxohPQIYpz2) | 3:25 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 71 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 |
 | 72 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
 | 73 | [Hotel TV](https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:37 |
-| 74 | [Selective](https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Selective](https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3) | 2:52 |
-| 75 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 |
+| 74 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 |
+| 75 | [Selective](https://open.spotify.com/track/5gjvHPLmOC2JMtSpountpV) | [Noah Baine](https://open.spotify.com/artist/6b31ELclyhNhTZH2plrLYI) | [Selective](https://open.spotify.com/album/4RiqKfbxSn56Ra4n84rcT3) | 2:52 |
 
 Snapshot ID: `AAAAAHNoEb26yzPClN6w/R3GzcdXUzzx`

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 252306,
+  "num_followers": 252311,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACOs/n4EgmmQdAo/hgs8pet",
+  "snapshot_id": "aa9fAAAAAADcUElDl9pXnHwgDr+PFATm",
   "tracks": [
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Pony",
-        "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        },
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Legends Never Die - with Shania Twain",
-      "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gray House (Original Soundtrack From the Amazon Series)",
         "url": "https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 222535,
       "name": "I'll Be Here With You - From The Gray House Original Soundtrack",
       "url": "https://open.spotify.com/track/6DGd7e4DMxG97vnoXMXZMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show Pony",
+        "url": "https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Legends Never Die - with Shania Twain",
+      "url": "https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb"
     }
   ],
   "unique_name": "This Is Shania Twain",

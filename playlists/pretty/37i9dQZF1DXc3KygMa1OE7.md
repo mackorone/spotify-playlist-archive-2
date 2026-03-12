@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,604,260 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,604,386 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 11 | [I Just Called To Say I Love You](https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 4:22 |
 | 12 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
 | 13 | [You're the Inspiration \- 2006 Remaster](https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded & Remastered\)](https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR) | 3:49 |
-| 14 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
-| 15 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
+| 14 | [Glory of Love](https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 4:18 |
+| 15 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 | 16 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 |
 | 17 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 |
 | 18 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 21 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
 | 22 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:57 |
 | 23 | [Making Love Out of Nothing at All](https://open.spotify.com/track/01MXkFA8sL7at6txavDErt) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 5:41 |
-| 24 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
+| 24 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
 | 25 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
-| 26 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
+| 26 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 |
 | 27 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 |
 | 28 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:48 |
 | 29 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 52 | [Woman \- Remastered 2010](https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 3:32 |
 | 53 | [The Power of Love](https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [The Power Of Love: The Best Of Jennifer Rush](https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG) | 4:28 |
 | 54 | [Lover's Moon](https://open.spotify.com/track/2QlVjJhaIWXoN6LfCIVfPi) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [The Allnighter](https://open.spotify.com/album/1XrMP6S74aDQjLvDpSFD9c) | 4:11 |
-| 55 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
-| 56 | [Foolish Beat](https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Out Of The Blue](https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b) | 4:22 |
+| 55 | [Foolish Beat](https://open.spotify.com/track/0KhiesN7gLBPEQhKsBmrI1) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Out Of The Blue](https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b) | 4:22 |
+| 56 | [All Out of Love](https://open.spotify.com/track/2lmcH6prYo3BlR8LfRUJc3) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 4:01 |
 | 57 | [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 |
 | 58 | [Suddenly](https://open.spotify.com/track/65h7Qhxl2WfW31Bl6sjWAI) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Suddenly \(Expanded Edition\)](https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo) | 3:54 |
 | 59 | [Turn Back The Clock](https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 4:30 |

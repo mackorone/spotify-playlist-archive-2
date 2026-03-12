@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 435 songs - 1 day 0 hr 56 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 437 songs - 1 day 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -443,5 +443,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 433 | [私の恋はヘルファイア \(feat\. MEIKO\)](https://open.spotify.com/track/1fqpUqtqVLbDZXrtmFK1eW) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR) | [私の恋はヘルファイア](https://open.spotify.com/album/1WyO7Ij2uvv5FDimlZTBbr) | 3:16 |
 | 434 | [るるちゃんの自殺配信](https://open.spotify.com/track/1ZBhrIxwuiDVB0NDkyekgN) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [児童カルテ](https://open.spotify.com/album/6lENS0EtwbvQiwEaHFbV3J) | 3:59 |
 | 435 | [赤ずきんの狼](https://open.spotify.com/track/6T2lJKZceH9Eic5Cp3EPDk) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:20 |
+| 436 | [Theseus](https://open.spotify.com/track/0sgN6Kxs3qqbTXkNDguzRm) | [髥莏](https://open.spotify.com/artist/6tOzIqlpQBKAFIqdhmTfiW) | [Theseus](https://open.spotify.com/album/7nISltBDHRMbfzk4jFSV6R) | 3:11 |
+| 437 | [cutlery](https://open.spotify.com/track/4iLrubzZy5aHfnvwjO7LI3) | [uki3](https://open.spotify.com/artist/6G1uy0nAElYhcS94PecPw1) | [cutlery](https://open.spotify.com/album/6q2Uzkl1X4UrFOK5ikIrQi) | 3:58 |
 
-Snapshot ID: `AAAJ7kkaFC1lS76liu7xT6EChgDFsN2d`
+Snapshot ID: `AAAJ8DjqwuahUi8WKw1djZGIBrTc/24F`

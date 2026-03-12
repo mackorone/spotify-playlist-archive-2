@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu pilihan yang cocok nemenin kamu menuju Bekasi",
-  "num_followers": 21606,
+  "num_followers": 21612,
   "original_name": "Bekasi Jauh, Semangat! ",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
+        "name": "Jalaran Sadrah",
+        "url": "https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC"
+      },
+      "artists": [
+        {
+          "name": "Barasuara",
+          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        }
+      ],
+      "duration_ms": 281173,
+      "name": "Terbuang Dalam Waktu",
+      "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
         "name": "Kasih Aba Aba",
         "url": "https://open.spotify.com/album/7epsFufhjXWBTRp8i4IkmM"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 176608,
       "name": "Kasih Aba Aba",
       "url": "https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
-        "name": "Jalaran Sadrah",
-        "url": "https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC"
-      },
-      "artists": [
-        {
-          "name": "Barasuara",
-          "url": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
-        }
-      ],
-      "duration_ms": 281173,
-      "name": "Terbuang Dalam Waktu",
-      "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
     },
     {
       "added_at": "2025-09-26 10:27:40",

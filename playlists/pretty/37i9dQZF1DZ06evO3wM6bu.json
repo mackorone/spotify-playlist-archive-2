@@ -1,12 +1,12 @@
 {
   "description": "This is Westlife. The essential tracks, all in one playlist.",
-  "num_followers": 495031,
+  "num_followers": 495042,
   "original_name": "This Is Westlife",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACLDnc8seqH1M5kH6pstA8K",
+  "snapshot_id": "aa9fAAAAAACNS6tH/QT/nwQ+ykVUhvCA",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Love Album",
-        "url": "https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj"
+        "name": "B-Sides, Rarities and Remixes",
+        "url": "https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD"
       },
       "artists": [
         {
           "name": "Westlife",
           "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        },
-        {
-          "name": "Delta Goodrem",
-          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
         }
       ],
-      "duration_ms": 224773,
-      "name": "All Out of Love (feat. Delta Goodrem)",
-      "url": "https://open.spotify.com/track/6vEYWB5s3zslHY0J4fa3Rm"
+      "duration_ms": 239985,
+      "name": "Hard to Say I'm Sorry",
+      "url": "https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B-Sides, Rarities and Remixes",
-        "url": "https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD"
+        "name": "The Love Album",
+        "url": "https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj"
       },
       "artists": [
         {
           "name": "Westlife",
           "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        },
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
         }
       ],
-      "duration_ms": 239985,
-      "name": "Hard to Say I'm Sorry",
-      "url": "https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D"
+      "duration_ms": 224773,
+      "name": "All Out of Love (feat. Delta Goodrem)",
+      "url": "https://open.spotify.com/track/6vEYWB5s3zslHY0J4fa3Rm"
     },
     {
       "added_at": null,

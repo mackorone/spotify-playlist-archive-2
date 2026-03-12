@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 145465,
+  "num_followers": 145535,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
         "name": "Slow Tonight",
         "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "Whipped Cream & Other Delights",
-        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Ladyfingers",
-      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
         "name": "Love Deluxe",
         "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 350000,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "Whipped Cream & Other Delights",
+        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Ladyfingers",
+      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "petal rock black",
-        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 258228,
-      "name": "ear to the cocoon",
-      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
         "name": "Lou's Tune",
         "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
       },
       "artists": [
         {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+      "duration_ms": 258228,
+      "name": "ear to the cocoon",
+      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1447,22 +1431,6 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "SABLE, fABLE",
-        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 182607,
-      "name": "From",
-      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/1oX2uFCr3pIDL5M2ByEmm3"
       },
@@ -1475,6 +1443,22 @@
       "duration_ms": 203716,
       "name": "Khala My Friend",
       "url": "https://open.spotify.com/track/5xevas4P14kVmD4St0X3yy"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "SABLE, fABLE",
+        "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 182607,
+      "name": "From",
+      "url": "https://open.spotify.com/track/5agmWuBAor2UQcNqByOvWC"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1495,6 +1479,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+      },
+      "artists": [
+        {
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 180490,
+      "name": "Lotus 72 D - Fast Version",
+      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "MANGO (feat. Adi Oasis)",
         "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 245994,
       "name": "MANGO (feat. Adi Oasis)",
       "url": "https://open.spotify.com/track/384TJj6XyHUyNlCbdgm6Sz"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 180490,
-      "name": "Lotus 72 D - Fast Version",
-      "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
     },
     {
       "added_at": "2026-03-06 05:00:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,040 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,104 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 43 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
 | 44 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
 | 45 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
-| 46 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
-| 47 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
+| 46 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
+| 47 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 48 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
 | 49 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
 | 50 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 66 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
 | 67 | [Vete](https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM) | [Alfa Omega](https://open.spotify.com/artist/40U0n49Vb1zjKZq3mQmKxo), [Cláudia Nunes](https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl) | [Vete](https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb) | 3:34 |
 | 68 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
-| 69 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
-| 70 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
+| 69 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
+| 70 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
 | 71 | [Con El Tiempo \- Acústica](https://open.spotify.com/track/3KJ9H8TGD7HaX759mjD5r5) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Con El Tiempo \(Acústica\)](https://open.spotify.com/album/2jH6zcdv1e8vLkye1MuFDb) | 2:52 |
 | 72 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/7x6WmmLi750YvutUqhwrs4) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Ahora Te Puedes Marchar](https://open.spotify.com/album/5p1mQTOb5eZf9bXZIqGhxv) | 3:43 |
 | 73 | [Enamórate de Alguien Más](https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Enamórate de Alguien Más](https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0) | 2:46 |

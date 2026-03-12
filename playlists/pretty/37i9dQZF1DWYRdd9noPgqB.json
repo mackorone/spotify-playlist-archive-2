@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299018,
+  "num_followers": 299016,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
         "name": "Sweet Emotion",
         "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 157441,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "Wild Guess",
-        "url": "https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 166524,
-      "name": "Wild Guess",
-      "url": "https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Jupiter and Mars",
         "url": "https://open.spotify.com/album/3tjShrUyBljsaAdh7Wfhtz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 193604,
       "name": "Jupiter and Mars",
       "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "Wild Guess",
+        "url": "https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 166524,
+      "name": "Wild Guess",
+      "url": "https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "The House That Doesn\u2019t Exist",
-        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 143985,
-      "name": "The House That Doesn\u2019t Exist",
-      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "The House That Doesn\u2019t Exist",
+        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Can Feel It",
         "url": "https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
         "name": "Dodged A Bullet",
         "url": "https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 158658,
       "name": "Dodged A Bullet",
       "url": "https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
-        "name": "Wait For Me",
-        "url": "https://open.spotify.com/album/72eW4GfBdULIVENa700Fah"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Wait For Me",
-      "url": "https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -1007,18 +991,34 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "Note to self",
-        "url": "https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ"
+        "name": "Wait For Me",
+        "url": "https://open.spotify.com/album/72eW4GfBdULIVENa700Fah"
       },
       "artists": [
         {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 165458,
-      "name": "Note to self",
-      "url": "https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ"
+      "duration_ms": 159573,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "The Meeting (Deluxe)",
+        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
+      },
+      "artists": [
+        {
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+        }
+      ],
+      "duration_ms": 173172,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
     }
   ],
   "unique_name": "Feel Good",

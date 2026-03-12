@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: H1-KEY (\ud558\uc774\ud0a4)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. (Cover: YENA (\ucd5c\uc608\ub098)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -1251,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "LOVE CATCHER",
+        "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Catch Catch",
+      "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
+    },
+    {
+      "album": {
         "name": "Catch the Stars",
         "url": "https://open.spotify.com/album/1hwykI4yYe3FTcAhl1gadk"
       },
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 152506,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/4s9oSXicaDxIvCTjOZq2o8"
@@ -7394,7 +7412,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 191695,
       "name": "STEREOTYPE",
       "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
@@ -7524,7 +7542,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 132727,
       "name": "Sugar talk",
       "url": "https://open.spotify.com/track/1nKaeA6KSJzgzLBdbEMGST"

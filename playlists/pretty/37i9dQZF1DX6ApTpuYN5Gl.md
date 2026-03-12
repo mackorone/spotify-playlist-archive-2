@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,886 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,874 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 34 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
 | 35 | [Body on Fire](https://open.spotify.com/track/44ufS0CWp8uO4ILi3vpinQ) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33), [NOËP](https://open.spotify.com/artist/0SjnenkLIpqRE9SUzogeOp) | [Body on Fire](https://open.spotify.com/album/4sK64oC4oTFy2tCA18ktl9) | 2:39 |
 | 36 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
-| 37 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
-| 38 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:07 |
+| 37 | [Envy](https://open.spotify.com/track/25NOsBha9pzXG6fqGQ79W9) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Envy](https://open.spotify.com/album/60K91BZTnabLByBJejwqVS) | 4:07 |
+| 38 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
 | 39 | [New Love](https://open.spotify.com/track/7CAsrtI5Df8ZOrKZ2ImrVO) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Reminders](https://open.spotify.com/album/5jqeOZVEhtWzvTFMatjDic) | 4:16 |
 | 40 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 |
 | 41 | [Howl](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Howl](https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ) | 3:12 |

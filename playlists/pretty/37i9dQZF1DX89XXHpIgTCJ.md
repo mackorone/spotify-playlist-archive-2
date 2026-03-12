@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,174 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,238 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 18 | [PROTECT THE CROSS](https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [PROTECT THE CROSS](https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm) | 2:49 |
 | 19 | [Bad Mother F\*cker](https://open.spotify.com/track/2kjPvFgVIGki2BRlOHvQQr) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 3:33 |
 | 20 | [Hokus Pokus](https://open.spotify.com/track/3ij7wTT8OOy8MhkT6AS5aS) | [Insane Clown Posse](https://open.spotify.com/artist/4xtWjIlVuZwTCeqVAsgEXy) | [The Great Milenko](https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc) | 4:21 |
-| 21 | [Radioactive](https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Radioactive](https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM) | 4:36 |
-| 22 | [Down](https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:52 |
+| 21 | [Down](https://open.spotify.com/track/0HDaKOlVAfUWXdFR2RhBtN) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [311](https://open.spotify.com/album/6VIeIM5tetuv7FrYxISffU) | 2:52 |
+| 22 | [Radioactive](https://open.spotify.com/track/69yfbpvmkIaB10msnKT7Q5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Radioactive](https://open.spotify.com/album/2M0IZTKgkN3ZpYluF4lKAM) | 4:36 |
 | 23 | [Nobody's Listening](https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 2:58 |
 | 24 | [How I Could Just Kill a Man](https://open.spotify.com/track/4K1DB7EedHPuVnhVrnvf2U) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Renegades](https://open.spotify.com/album/6iVOwFVjFRoQPgj8GUwSsi) | 4:04 |
 | 25 | [Rollin' \(Urban Assault Vehicle\)](https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 6:22 |

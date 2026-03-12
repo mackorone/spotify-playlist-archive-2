@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 
 > This is St\. Vincent\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,553 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,555 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4foYi4.md) - [plain]
 | 49 | [Uneventful Days \- St\. Vincent Remix](https://open.spotify.com/track/1zyBMwIWlKozL0hom8GT5x) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Hyperspace \(2020\)](https://open.spotify.com/album/6Aqtcnv4SwSnXaZj987OQ0) | 2:59 |
 | 50 | [Dinner for Two](https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Love This Giant](https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4) | 3:42 |
 
-Snapshot ID: `aa4NgAAAAACUV3+QGezfH+3dM1140G9S`
+Snapshot ID: `aa9fAAAAAAA0456G7FE32Wz/ubCDMt9E`

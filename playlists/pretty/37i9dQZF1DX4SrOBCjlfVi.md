@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Juice WRLD, The Scythe, Skrilla and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,460 likes - 48 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,499 likes - 48 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 31 | [We Just Living](https://open.spotify.com/track/7G86XuIhGWqf0SfVeg6xV3) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Poison Ivi](https://open.spotify.com/artist/7xCmxbHI8ZSx48CollDdhB) | [Iviona & Pops](https://open.spotify.com/album/6hsSrW51zoOkDwERi8pCIo) | 2:47 |
 | 32 | [Sprite](https://open.spotify.com/track/4MbcYaIPmMotpLc73RNJ98) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Dirty Scale Music Vol 1.5](https://open.spotify.com/album/6FIGdAX15h5RtW1b0yN85B) | 1:36 |
 | 33 | [4:16 Am](https://open.spotify.com/track/78JJFF5Ef4nBqCP82VumG8) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Farewell](https://open.spotify.com/album/5WHx1b62Vs0hsdKdzqaTcO) | 2:50 |
-| 34 | [Straight From Da A \(feat\. DC Young Fly\)](https://open.spotify.com/track/3nrbWoqZpCeKXmx5pprNCy) | [P$C](https://open.spotify.com/artist/0ImT3U0pR1u2icS8XjEmJn), [DC Young Fly](https://open.spotify.com/artist/6eXSPW6KeL9Wlv7d1CnqK8) | [Straight From Da A \(feat\. DC Young Fly\)](https://open.spotify.com/album/6NCaHrSFVc3bdA9JbxAg26) | 4:09 |
+| 34 | [Straight From Da A \(feat\. DC Young Fly\)](https://open.spotify.com/track/3nrbWoqZpCeKXmx5pprNCy) | [P$C](https://open.spotify.com/artist/0ImT3U0pR1u2icS8XjEmJn), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Big Kuntry King](https://open.spotify.com/artist/4V77E8MyGPCCvvjVFbYQfS), [DC Young Fly](https://open.spotify.com/artist/6eXSPW6KeL9Wlv7d1CnqK8) | [Straight From Da A \(feat\. DC Young Fly\)](https://open.spotify.com/album/6NCaHrSFVc3bdA9JbxAg26) | 4:09 |
 | 35 | [Passenger Seat](https://open.spotify.com/track/48qkdSZk6gJ5bQ6qUGlYDA) | [Nino Breeze](https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt) | [Passenger Seat](https://open.spotify.com/album/6qEo9ZrOWnwkWQOWLXCXNa) | 2:00 |
 | 36 | [Let's Go](https://open.spotify.com/track/20aQw0N8PmD7X5c75nLJms) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Machine On](https://open.spotify.com/album/1NOrR4RFAqSqO89OMlaqsf) | 1:32 |
 | 37 | [g o o d r u n](https://open.spotify.com/track/2H15O3LracuxZjxcJI4ZAe) | [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2), [HBK Jachi](https://open.spotify.com/artist/6J2vpDx717mieJKshTGuc5) | [Against All Opps](https://open.spotify.com/album/5tF47ebE7jUXnrmpPD5ijV) | 2:10 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [Free Throws](https://open.spotify.com/track/7n4pvfpcHShdJtl4OvVyOV) | [Don Cannon](https://open.spotify.com/artist/0jE9L2jmYpWwthSocLCILD), [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV) | [Gone Fishing \(Extra Credit\)](https://open.spotify.com/album/1QWPbPbQY7k45umyfgee8Y) | 2:40 |
 | 44 | [Mama Told Me](https://open.spotify.com/track/1KqYdPpNfp4o5I1yA8tdsT) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Kerch Dolla](https://open.spotify.com/artist/1nT21UzfHZcmxBw6cXDulx) | [City of God: The Prequel](https://open.spotify.com/album/4b4Smh1Czkg7TGi49NEjWj) | 2:40 |
 | 45 | [Pay Attention](https://open.spotify.com/track/3sBrCkCWayQQ8vMKUAFa0c) | [Hustleman Quise](https://open.spotify.com/artist/6gB8BpeoCpDP1BVmX0uqHd) | [Pay Attention](https://open.spotify.com/album/5OuwFZK1Zbi0sLMx1x7BNy) | 2:04 |
-| 46 | [Accelerant](https://open.spotify.com/track/4uqfp14eftGfJ7ic4cFRTU) | [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Good Part, Vol\. 1](https://open.spotify.com/album/3yuiLjvVsNJDECTPYqO6D4) | 5:13 |
+| 46 | [](https://open.spotify.com/track/4uqfp14eftGfJ7ic4cFRTU) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Good Part, Vol\. 1](https://open.spotify.com/album/3yuiLjvVsNJDECTPYqO6D4) | 0:00 |
 | 47 | [London's Burning](https://open.spotify.com/track/7zSo6VFBUzx3jrH6RpaUyP) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Little Miss Crazy B!tch](https://open.spotify.com/album/3rbz11TmDHUWPKLNVJ2Vzj) | 2:49 |
 | 48 | [Meep Meep](https://open.spotify.com/track/6f0vAn9txlTep71GuWBNdl) | [BEO Lil Kenny](https://open.spotify.com/artist/5p2KvjX2qOhaC291qgJc2b) | [Meep Meep](https://open.spotify.com/album/7M9LJ7W2CrSRptdd0pd6V3) | 3:14 |
 

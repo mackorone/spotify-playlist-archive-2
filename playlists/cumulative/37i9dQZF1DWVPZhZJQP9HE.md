@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Rakhooo
 
-759 songs - 1 day 20 hr 30 min
+760 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Alien](https://open.spotify.com/track/2SnHeg55mv1Oc0oit4BkpC) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Alien](https://open.spotify.com/album/6iBQPUhx4Ptzg8w0S2PoaG) | 3:41 | 2023-01-05 | 2023-02-24 |
 | [All Star Dancer](https://open.spotify.com/track/0wlv59Trb8ALs2Gws9dXLH) | [Baha Mista\-B](https://open.spotify.com/artist/1pkIXc0pidcuYpGgYUaU4g), [Whit](https://open.spotify.com/artist/035QHIg786p1aSadep5XsC), [Pavithra Nair](https://open.spotify.com/artist/1cebDDeYCqk8637xxrqtD2), [DEYO](https://open.spotify.com/artist/1IzUV71NmBhpN2FsI9DG3B) | [All Star Dancer](https://open.spotify.com/album/2Xw58cOidG6fZI83o1hN4U) | 3:52 | 2023-02-09 | 2024-02-03 |
 | [Amakkalam \- From "Think Originals"](https://open.spotify.com/track/49vfyaR7KxgTEqpFtn3XPg) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc), [Keya Pothen](https://open.spotify.com/artist/3aRvYgNaKNnAiJHjWJEyIk) | [Amakkalam \(From "Think Originals"\)](https://open.spotify.com/album/6NYPqaUrwTKneOjnJK6kAp) | 2:37 | 2023-06-27 | 2024-07-27 |
+| [Ambala Manasu \(From "Mythili My Kadhali"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5ebuktuHwfweEhj09zhLxX) | [Havoc Mathan](https://open.spotify.com/artist/2IN8qLfCFoORFJKagOHLhi), [Raghadeepan](https://open.spotify.com/artist/6v5OybZ5PJdeup2W0dXHsr), [DJ Gan](https://open.spotify.com/artist/5OL03dtDZQb2oofYRfdHLo) | [Ambala Manasu \(From "Mythili My Kadhali"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6qcSMNzQSJWrITPKxqjvTV) | 4:06 | 2026-03-11 |  |
 | [Amma Amma](https://open.spotify.com/track/4UetPrmvMAtO3Q745Knwvl) | [Santesh](https://open.spotify.com/artist/7DWSfLX0stZ7Fm4JssbiN6), [Shasthii](https://open.spotify.com/artist/3y0uEJ4LLw6r8tjbfhgWlv) | [Amma Amma](https://open.spotify.com/album/1XS4mvwc28CAMtm6sPQdeY) | 4:05 | 2025-10-23 | 2025-11-19 |
 | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/track/6G7k6xe58N8JefYH5ORnj7) | [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Amma Ponnu Rambha \- 1 Min Music](https://open.spotify.com/album/2rkjcrUFSFPX4YX2ISUCoz) | 0:59 | 2022-06-30 | 2022-07-15 |
 | [Ammadi](https://open.spotify.com/track/7oktIeahxdxDxLiZE3qYkh) | [Pravin Mani](https://open.spotify.com/artist/2ccgDZHHVlcOssv1y8AkOc) | [Ammadi](https://open.spotify.com/album/0bf0E8d15xhl2aXPbCmItD) | 4:04 | 2022-12-23 | 2023-04-01 |

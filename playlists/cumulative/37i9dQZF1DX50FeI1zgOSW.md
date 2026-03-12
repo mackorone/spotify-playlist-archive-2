@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sarah Black
 
-736 songs - 1 day 17 hr 49 min
+737 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Montage \- From "Think Specials"](https://open.spotify.com/track/2aCkQwJH8IiKHPw9q8SGjB) | [Dash Dennox](https://open.spotify.com/artist/5bDAHJEoCfSHUEfoM6KFRP) | [Montage \(From "Think Specials"\)](https://open.spotify.com/album/39AJ05QtFcaehpS66yOziA) | 1:57 | 2023-05-02 | 2023-11-16 |
 | [Morattu School \- From "Think Indie"](https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K) | [Madurai Souljour](https://open.spotify.com/artist/2g5UezCgVx9a3h8Ub5io0F), [Syan Saheer](https://open.spotify.com/artist/3HIsm0H9DN47NZpHzOx8n9), [Senthuzhan](https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX), [Nowsa G](https://open.spotify.com/artist/6JnLqE6htWnUihm5sJaK71), [Robin](https://open.spotify.com/artist/2CPmjbtBNgcIo0nBVQCqIg), [Kidakuzhi Mariyammal](https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg) | [Morattu School \(From "Think Indie"\)](https://open.spotify.com/album/3YZA8jwPh9YHz8d6ycrIUz) | 3:32 | 2024-09-19 | 2024-12-26 |
 | [Mosakutty](https://open.spotify.com/track/2GbFJ0xtfUxgBoCc9lkcFb) | [Diwa FeF](https://open.spotify.com/artist/6jWkayv6uR1KpGlddlMHDX), [Gowtham Jeya Thilahar](https://open.spotify.com/artist/5WLTL4S4f2Byz7KJfW7gXX) | [Mosakutty](https://open.spotify.com/album/0rbNcXIRCgnABFbImnnw7V) | 2:57 | 2025-01-20 | 2025-04-10 |
+| [Mudhal Kadhal](https://open.spotify.com/track/2Xc5tsdj047m83rVvWRM9p) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Ijas](https://open.spotify.com/artist/6DX3zVZ7llwG8vkdCRMdVA) | [Mudhal Kadhal](https://open.spotify.com/album/3gpvFgze1RE552JFyIqt9v) | 4:38 | 2026-03-11 |  |
 | [Mudhal Murai](https://open.spotify.com/track/3HwPouek9TmVxN2S7upmyb) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Mudhal Murai](https://open.spotify.com/album/6ce5L0qcnyTzMOUa9hqnhT) | 2:49 | 2023-03-21 | 2023-07-25 |
 | [Mudhal Murai](https://open.spotify.com/track/4OviPeDTY1Vpms9qSF0HK5) | [Vidusan Kaneswaran](https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs), [Dharrini Santhabavan](https://open.spotify.com/artist/5RgQJpUJIaouCA81goKiOW) | [Mudhal Murai](https://open.spotify.com/album/7ikAlqIH9VPsYdwwRyPglQ) | 2:42 | 2026-02-06 |  |
 | [Mudhal Murai Remix](https://open.spotify.com/track/1NZtPJVOrzRa0evVphoz9M) | [Bala D Thala](https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV), [Jeruson](https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss) | [Mudhal Murai Remix](https://open.spotify.com/album/3orfjlmNbjAWjySPm8yu5Y) | 2:56 | 2023-11-20 | 2024-04-19 |

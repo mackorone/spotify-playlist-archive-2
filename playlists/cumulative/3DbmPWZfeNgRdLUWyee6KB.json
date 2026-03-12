@@ -1009,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/36BOTVbt4r7G5I3nNuY0vi"
+      },
+      "artists": [
+        {
+          "name": "Optacure",
+          "url": "https://open.spotify.com/artist/7wlWWs08zvaXAvAxqAlTQ3"
+        },
+        {
+          "name": "Ean Aguila",
+          "url": "https://open.spotify.com/artist/2zMP0KNQXgr3YviWYeRb8D"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299124,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2C0DJg7JtzhaSXgiuGOVAm"
+    },
+    {
+      "album": {
         "name": "La Viuda Negra",
         "url": "https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv"
       },
@@ -2979,6 +3001,24 @@
     },
     {
       "album": {
+        "name": "Devil's Music",
+        "url": "https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Joe's",
+          "url": "https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286292,
+      "name": "Devil's Music",
+      "url": "https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3"
+    },
+    {
+      "album": {
         "name": "Devour / The Performer",
         "url": "https://open.spotify.com/album/0WjR5u6xA9bI9qu0lhDurj"
       },
@@ -3694,6 +3734,24 @@
       "duration_ms": 320237,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/77Xpq8jioOWIqKWaJyT71E"
+    },
+    {
+      "album": {
+        "name": "Every Night",
+        "url": "https://open.spotify.com/album/052cHSsou6KeY0CJ36vXgt"
+      },
+      "artists": [
+        {
+          "name": "Dj Vanwells",
+          "url": "https://open.spotify.com/artist/6mdpXV2RQJw6ELeGvJ2Iuz"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181584,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/41qMG3eHjNneqPAsSiUSFr"
     },
     {
       "album": {
@@ -7778,6 +7836,24 @@
       "duration_ms": 290972,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/75ndxPSgPcezSP8xz2UuSb"
+    },
+    {
+      "album": {
+        "name": "LET ME BE",
+        "url": "https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY"
+      },
+      "artists": [
+        {
+          "name": "Michael Paul Binz",
+          "url": "https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169063,
+      "name": "MIGHT BE",
+      "url": "https://open.spotify.com/track/3pzikv3e84YM3hZxqm4Rhw"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,331 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,449 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 11 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
 | 12 | [Ley universal](https://open.spotify.com/track/3LajiduYalkeMeYbYJQP0s) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:09 |
 | 13 | [Vuelve](https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:14 |
-| 14 | [Priti](https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:10 |
+| 14 | [Vitamina](https://open.spotify.com/track/1ApvsxtmxgpyXOH1WQEVXI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:37 |
 | 15 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
 | 16 | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC) | 3:29 |
 | 17 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
-| 18 | [Vitamina](https://open.spotify.com/track/1ApvsxtmxgpyXOH1WQEVXI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:37 |
+| 18 | [Priti](https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:10 |
 | 19 | [Dime tú](https://open.spotify.com/track/6z8sQFj47s9ZG0Ls1k9Gct) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Dime tú](https://open.spotify.com/album/3eOqEdggLEeQz0jAZpNCXD) | 3:30 |
 | 20 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 21 | [AMOR](https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:00 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 29 | [Ponme En Tu Boca](https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [Ponme En Tu Boca](https://open.spotify.com/album/6L21tGHxPx7Ms95U4BxBda) | 3:04 |
 | 30 | [HOY ES TU CUMPLEAÑOS](https://open.spotify.com/track/4gQUdvZbxu7G9G7NlREw21) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:22 |
 | 31 | [Bailarina](https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Insomnio](https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB) | 3:05 |
-| 32 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 5:09 |
-| 33 | [Epa Wei](https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Epa Wei](https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x) | 3:28 |
+| 32 | [Epa Wei](https://open.spotify.com/track/2QmsKag0YaqhAbpR9Nwmpn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Epa Wei](https://open.spotify.com/album/29ztXcRa43S7vNmka4Cl4x) | 3:28 |
+| 33 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 5:09 |
 | 34 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
 | 35 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 |
 | 36 | [No Eres Tu Soy Yo \(feat\. Danny Ocean\)](https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 3:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 44 | [EIVISSA](https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:20 |
 | 45 | [Pa' Qué Te Quedas](https://open.spotify.com/track/5JB3jzYaeT2TqgoPnSkgcM) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Lo Que Puede Pasar](https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC) | 3:53 |
 
-Snapshot ID: `aa4NgAAAAABJIPU5lKpOxOjz2esBqLTy`
+Snapshot ID: `aa9fAAAAAADD4sJnfN6zDHC3e2VJjwBt`

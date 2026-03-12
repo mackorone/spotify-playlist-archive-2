@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,991 likes - 90 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,009 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 44 | [La Flor](https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx) | [Francisco Benitez](https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj) | [La Flor](https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv) | 3:10 |
 | 45 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
 | 46 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
-| 47 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
-| 48 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
+| 47 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
+| 48 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
 | 49 | [Por las costas entrerrianas](https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Quien Me Quita Lo Cantado](https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf) | 3:21 |
 | 50 | [Al Decir Adiós](https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Al Decir Adiós](https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9) | 3:48 |
 | 51 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |

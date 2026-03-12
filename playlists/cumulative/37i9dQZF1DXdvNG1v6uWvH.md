@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Harry Styles, MØ og mörgum fleiri!
 
-9,973 songs - 22 day 7 hr 59 min
+9,974 songs - 22 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2351,6 +2351,7 @@
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-12 | 2025-09-20 |
 | [DROWN](https://open.spotify.com/track/4iyzWWLC4TOn5FqoyatMxp) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:53 | 2026-01-30 | 2026-02-06 |
 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 | 2025-11-14 | 2025-11-21 |
+| [drown](https://open.spotify.com/track/4PUaUdhLeOyOjbfQ3bTZqK) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [drown](https://open.spotify.com/album/2oOTzS5MMF69VNdZvNhhHk) | 3:25 | 2026-03-06 |  |
 | [Drown In Champagne](https://open.spotify.com/track/5UB6Bs5UUueS5LLdmqxrrJ) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Drown In Champagne](https://open.spotify.com/album/6QHO1WmxDubPu3OOsUcEKq) | 3:30 | 2025-01-24 | 2025-01-30 |
 | [Drowning](https://open.spotify.com/track/6rR3NmX8RZCgfXHU57Z695) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Rikki](https://open.spotify.com/artist/68XPsXfnqGfO4VUdAKKrx3), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [Drowning](https://open.spotify.com/album/3W7Tul1WGF2tosDg4sdWqt) | 3:06 | 2025-04-18 | 2025-04-25 |
 | [Drug worth doing](https://open.spotify.com/track/09mwvppceQhNgB16PAdqrb) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Drug worth doing](https://open.spotify.com/album/4DF4BjpiSqvxN83ToSRO4p) | 2:44 | 2024-05-17 | 2024-05-24 |

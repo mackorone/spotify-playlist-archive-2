@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAC3K4ClnEwF+Yx7rRSmvyY3",
+  "snapshot_id": "aa9fAAAAAADPhV/0eo7mtTnqAC7wVH7z",
   "tracks": [
     {
       "added_at": null,
@@ -282,15 +282,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Chocolate Genius Incorporated",
-          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
         }
       ],
-      "duration_ms": 256846,
-      "name": "Zameen (feat. Chocolate Genius Incorporated)",
-      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
     },
     {
       "added_at": null,
@@ -356,13 +352,13 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         },
         {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
+          "name": "Chocolate Genius Incorporated",
+          "url": "https://open.spotify.com/artist/1FFFa130FeOx5o2lTB1dUB"
         }
       ],
-      "duration_ms": 406831,
-      "name": "Saaqi (feat. Vijay Iyer)",
-      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
+      "duration_ms": 256846,
+      "name": "Zameen (feat. Chocolate Genius Incorporated)",
+      "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
     },
     {
       "added_at": null,
@@ -430,11 +426,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
-        }
-      ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPELLJAMS",
         "url": "https://open.spotify.com/album/3HAMuPpHQQKKKJcH2dUNsa"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 469421,
       "name": "Forgotten Land",
       "url": "https://open.spotify.com/track/6Uy2qxvaOqV1YlF9kj0XJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+        }
+      ],
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > All energy\. Cover: Joshua Idehen
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,835 likes - 132 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,837 likes - 132 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

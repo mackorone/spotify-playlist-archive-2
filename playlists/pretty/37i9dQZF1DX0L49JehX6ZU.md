@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,159 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,184 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 49 | [Khamoshi](https://open.spotify.com/track/3t07ms95QIBxBzcdF3P4CA) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Khamoshi](https://open.spotify.com/album/7lWycnEMRXAuuNs7t9dQxy) | 3:09 |
 | 50 | [Rung](https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Juice](https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw) | 3:03 |
 
-Snapshot ID: `AAAAAGOgwA2aJV1Br1APBG32ua6dp0Qj`
+Snapshot ID: `AAAAAIQjwTzj/NUDrNAQ2YmyMHYIB/I5`

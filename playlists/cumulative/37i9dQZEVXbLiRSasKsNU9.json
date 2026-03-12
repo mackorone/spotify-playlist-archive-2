@@ -36718,10 +36718,32 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 191146,
       "name": "Here (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/3vacuoRYIAFTu0CsnBIcL7"
+    },
+    {
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
     },
     {
       "album": {
@@ -76617,7 +76639,7 @@
     },
     {
       "album": {
-        "name": "Sheesha (Aakhya Mai Aakh Ghali Jo Beran)",
+        "name": "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan)",
         "url": "https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6"
       },
       "artists": [
@@ -76634,7 +76656,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196253,
-      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Beran",
+      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Bairan",
       "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
     },
     {
@@ -77054,7 +77076,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 251360,
       "name": "SI EST\u00c1S CON ALGUIEN",
       "url": "https://open.spotify.com/track/7nyk5uxevcijIfl1FlJgmA"
@@ -87672,6 +87694,28 @@
       "duration_ms": 244800,
       "name": "Tu Misterioso Alguien",
       "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+    },
+    {
+      "album": {
+        "name": "Tu Na Samjhe",
+        "url": "https://open.spotify.com/album/0R8rpbzNohKrkXY5wehr8c"
+      },
+      "artists": [
+        {
+          "name": "Hellow Raja",
+          "url": "https://open.spotify.com/artist/2THK0oboxhbn3I1qT7c1i4"
+        },
+        {
+          "name": "MaxxTurnn",
+          "url": "https://open.spotify.com/artist/3eP2k3lT7lySsRCSl8NLvr"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148428,
+      "name": "Tu Na Samjhe",
+      "url": "https://open.spotify.com/track/32bVgCthp0Tigcc6TN02Lx"
     },
     {
       "album": {

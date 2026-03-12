@@ -3051,6 +3051,24 @@
     },
     {
       "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/1h18VsyNAkhc6FhjllNYkF"
+      },
+      "artists": [
+        {
+          "name": "RONI",
+          "url": "https://open.spotify.com/artist/3ACB6pQFKxf7vsmm5Tl39g"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260500,
+      "name": "amor fati",
+      "url": "https://open.spotify.com/track/6Q7bsT9gFYXqm6GoEdUG6G"
+    },
+    {
+      "album": {
         "name": "Voyager III",
         "url": "https://open.spotify.com/album/4QBSgpyEoYFnH74bqRGYan"
       },
@@ -9892,6 +9910,24 @@
       "duration_ms": 212192,
       "name": "Care About Us",
       "url": "https://open.spotify.com/track/77ogYT00fpfHIdnge99wc4"
+    },
+    {
+      "album": {
+        "name": "CARGO / NOTCH",
+        "url": "https://open.spotify.com/album/4iuthIr3YVdxoaEcOld0oS"
+      },
+      "artists": [
+        {
+          "name": "POLO JAFFA",
+          "url": "https://open.spotify.com/artist/17elXZK1RlBOcrDJ8HjEhJ"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298750,
+      "name": "CARGO",
+      "url": "https://open.spotify.com/track/3VomJjy7ugmCAXYbpjLwLr"
     },
     {
       "album": {
@@ -19024,7 +19060,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 282000,
       "name": "Faith",
       "url": "https://open.spotify.com/track/1hhEvtAREjWRsDPa8gqwnc"
@@ -20178,7 +20214,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 262298,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/14IGqM6Pyekb2rG5me83kS"
@@ -34773,6 +34809,24 @@
     },
     {
       "album": {
+        "name": "Love Sensation",
+        "url": "https://open.spotify.com/album/0u0TBqucILOrRHcfKoZWIb"
+      },
+      "artists": [
+        {
+          "name": "Aydan XR",
+          "url": "https://open.spotify.com/artist/6eUspIbMLgyU5oVlYSI14r"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "Love Sensation",
+      "url": "https://open.spotify.com/track/5nQDYkGycL5JTlABM88NFP"
+    },
+    {
+      "album": {
         "name": "Love The Way",
         "url": "https://open.spotify.com/album/2YuV0pM8G9ryPlZeDnEFmd"
       },
@@ -48662,7 +48716,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 253842,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/2eltpVluPhTkJUyfjIm9JW"
@@ -59414,7 +59468,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 210000,
       "name": "UGETME?",
       "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"
@@ -61767,6 +61821,24 @@
     },
     {
       "album": {
+        "name": "We Don't Stop",
+        "url": "https://open.spotify.com/album/2OWNphT68OUX47HOG418yM"
+      },
+      "artists": [
+        {
+          "name": "Dodi",
+          "url": "https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "We Don't Stop",
+      "url": "https://open.spotify.com/track/6fnbDKCey6fvF65hYhnJDc"
+    },
+    {
+      "album": {
         "name": "irl sim 1",
         "url": "https://open.spotify.com/album/184NDuf3L5uJ2391AzAqjD"
       },
@@ -62190,7 +62262,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 142859,
       "name": "What I Feel",
       "url": "https://open.spotify.com/track/1NDXjNjcnmMA49ThS0Tz3R"
@@ -64450,6 +64522,28 @@
       "duration_ms": 393442,
       "name": "YOU GIMME LOVE",
       "url": "https://open.spotify.com/track/3nMPzoovMKHhYjqnB76pqo"
+    },
+    {
+      "album": {
+        "name": "You got me",
+        "url": "https://open.spotify.com/album/2kCRESbT1g2fiC2RymaLIL"
+      },
+      "artists": [
+        {
+          "name": "Sam Atlast",
+          "url": "https://open.spotify.com/artist/7qKmJ2FhmHqqRlEpWuhlfz"
+        },
+        {
+          "name": "Lowbrain",
+          "url": "https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181654,
+      "name": "You got me",
+      "url": "https://open.spotify.com/track/6oHF418YOsgEd6qjlRP1Dn"
     },
     {
       "album": {

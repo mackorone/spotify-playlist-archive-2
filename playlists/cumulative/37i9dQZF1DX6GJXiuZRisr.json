@@ -10587,6 +10587,24 @@
     },
     {
       "album": {
+        "name": "Sirius",
+        "url": "https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo"
+      },
+      "artists": [
+        {
+          "name": "Hjafri",
+          "url": "https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168904,
+      "name": "Sirius",
+      "url": "https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK"
+    },
+    {
+      "album": {
         "name": "Nightvision EP",
         "url": "https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ"
       },
@@ -13682,7 +13700,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 197272,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"

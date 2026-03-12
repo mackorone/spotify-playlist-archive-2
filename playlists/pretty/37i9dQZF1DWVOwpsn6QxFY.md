@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,588 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,597 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 55 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
 | 56 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
 | 57 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
-| 58 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
-| 59 | [Phone Me](https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:24 |
+| 58 | [Phone Me](https://open.spotify.com/track/7vkGvXf79RRutQv2yGW2Ru) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:24 |
+| 59 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 60 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 61 | [Maybe it Takes Time](https://open.spotify.com/track/08rCwumMxFDgtKAM8K0iwE) | [The South Hill Experiment](https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX) | [EARTHBREAKS](https://open.spotify.com/album/5DbnZ4p3dabnY1GF3FOpgs) | 3:05 |
-| 62 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
-| 63 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
+| 62 | [Come Out](https://open.spotify.com/track/7vU7nNXJ54V85fTQ23dWOe) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:48 |
+| 63 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 64 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
 | 65 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
 | 66 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |

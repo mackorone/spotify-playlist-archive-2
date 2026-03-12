@@ -3230,7 +3230,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 205578,
       "name": "Mewu (feat. Akwaboah)",
       "url": "https://open.spotify.com/track/7h7OsLwmYBSGHjGZsdXtOI"
@@ -4748,6 +4748,28 @@
       "duration_ms": 196173,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/4qR1ScsKhKNzzRtsljnPsl"
+    },
+    {
+      "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225671,
+      "name": "U Go Kill Me",
+      "url": "https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH"
     },
     {
       "album": {

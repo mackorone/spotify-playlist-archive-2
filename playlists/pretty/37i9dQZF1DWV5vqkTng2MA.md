@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,486 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,499 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 54 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 |
 | 55 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 56 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 |
-| 57 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
-| 58 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
+| 57 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
+| 58 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 59 | [Crazy Woman](https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0) | [Joseph LeMay](https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf) | [Seventeen Acres](https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf) | 2:02 |
 | 60 | [What You Don't Do](https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [What You Don't Do](https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF) | 3:40 |
 | 61 | [Electric Fever](https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg) | [Them Vibes](https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664) | [Electric Fever](https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5) | 3:47 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 80 | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Max Abrams](https://open.spotify.com/artist/5nniLGuXKnrlNZHQ2VaTD9) | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb) | 3:30 |
 | 81 | [When We Were On Fire](https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Dark Of The Morning EP](https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy) | 3:59 |
 | 82 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 |
-| 83 | [Fine and Mellow](https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [My Dearest Darkest Neighbor](https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9) | 3:37 |
-| 84 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
-| 85 | [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 |
-| 86 | [Circles](https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Circles](https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD) | 3:02 |
-| 87 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 |
-| 88 | [I Wonder Why](https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF) | 2:05 |
-| 89 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
-| 90 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 |
+| 83 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
+| 84 | [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 |
+| 85 | [Fine and Mellow](https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [My Dearest Darkest Neighbor](https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9) | 3:37 |
+| 86 | [I Wonder Why](https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF) | 2:05 |
+| 87 | [Circles](https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Circles](https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD) | 3:02 |
+| 88 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 |
+| 89 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 |
+| 90 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
 
 Snapshot ID: `AAAAAOCBRMMj93nj4ZdLYk5uyp2mrIOS`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35320,
+  "num_followers": 35318,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAA3UwZyWaGlFZ4uuOYFfLyx",
+  "snapshot_id": "aa9fAAAAAAAYhtHDAYQmtWra0sGCBO3a",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "USB002 REMIXES",
+        "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        },
+        {
+          "name": "Menor Teteu",
+          "url": "https://open.spotify.com/artist/3uxTvUjeRTQDfrB59A1zWb"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Facilita - Mc Dricka remix",
+      "url": "https://open.spotify.com/track/4qSTJG11XjQKE6DSL0e2SS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Tu Obedece",
         "url": "https://open.spotify.com/album/4J0dJMVV0Da2JILEyjWRsg"
       },
@@ -291,30 +319,6 @@
       "duration_ms": 163846,
       "name": "T\u00f4 Sensacional",
       "url": "https://open.spotify.com/track/6vofuYpN9Rt0SlnzWD8MOx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marra de Bandido",
-        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
-      },
-      "artists": [
-        {
-          "name": "Michele Andrade",
-          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "HITZIN",
-          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
-        }
-      ],
-      "duration_ms": 118586,
-      "name": "Marra de Bandido",
-      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
     },
     {
       "added_at": null,
@@ -407,6 +411,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marra de Bandido",
+        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
+      },
+      "artists": [
+        {
+          "name": "Michele Andrade",
+          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "HITZIN",
+          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
+        }
+      ],
+      "duration_ms": 118586,
+      "name": "Marra de Bandido",
+      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CARO Vapor II - qual a forma de pagamento ?",
         "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
       },
@@ -451,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Press\u00e3o Mundial Continua",
-        "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
-      },
-      "artists": [
-        {
-          "name": "Biu do Piseiro",
-          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 119376,
-      "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -507,6 +515,26 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Press\u00e3o Mundial Continua",
+        "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
+      },
+      "artists": [
+        {
+          "name": "Biu do Piseiro",
+          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 119376,
+      "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
     },
     {
       "added_at": null,
@@ -783,6 +811,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medley Rel\u00edquia 2",
+        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
+      },
+      "artists": [
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "Damaso",
+          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
+        },
+        {
+          "name": "Hoopex",
+          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 136356,
+      "name": "Medley Rel\u00edquia 2",
+      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
         "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
       },
@@ -819,34 +875,6 @@
       "duration_ms": 157933,
       "name": "S\u00f3 Colocadinha",
       "url": "https://open.spotify.com/track/3xBtiampAoM5x457TcHl9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley Rel\u00edquia 2",
-        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
-      },
-      "artists": [
-        {
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "name": "Damaso",
-          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
-        },
-        {
-          "name": "Hoopex",
-          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 136356,
-      "name": "Medley Rel\u00edquia 2",
-      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
     },
     {
       "added_at": null,
@@ -1495,30 +1523,6 @@
       "duration_ms": 487578,
       "name": "Set 1.0 Dieguinho Nvi",
       "url": "https://open.spotify.com/track/5exDLfQ3ix4XqXQMaw4evo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quem Quer F1 Com o G?",
-        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "T\u00e1 Jogando Demais",
-      "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"
     }
   ],
   "unique_name": "This Is Mc Dricka",

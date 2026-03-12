@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: עדן חסון
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,790 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,788 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 90 | [זזה עם הגוף](https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6) | [LifeSwisa](https://open.spotify.com/artist/1fLzamJ7rVob2s7eAImDPu), [RONNY](https://open.spotify.com/artist/0d0SO6dDwEkIgMpucyP7o4) | [זזה עם הגוף](https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM) | 3:15 |
 | 91 | [תקליט זהב](https://open.spotify.com/track/5q5j10lw64WVnuYJOvvQnk) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [Bar Tzabary](https://open.spotify.com/artist/3lDTgudSVNR05wyiJ1RptF) | [תקליט זהב](https://open.spotify.com/album/43NJSfiyzp8yak9wBRUS7o) | 3:32 |
 | 92 | [תן לי את האששש](https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [תן לי את האששש](https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5) | 2:47 |
-| 93 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
+| 93 | [קשר בתקצורת](https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Haim Moshe](https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:29 |
 | 94 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
-| 95 | [קשר בתקצורת](https://open.spotify.com/track/5xlMI2eRQgUsDAl8vRmhJC) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Haim Moshe](https://open.spotify.com/artist/2apcleOej0q9UT5POhHa1L) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 3:29 |
+| 95 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 96 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
 | 97 | [היי אהובה](https://open.spotify.com/track/5WTyArd4ylPYTAifaqKDyM) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [היי אהובה](https://open.spotify.com/album/5am6d33LlJu2GhvsLEIVLE) | 2:50 |
 | 98 | [במקום בו אני גר](https://open.spotify.com/track/7J5ArQWauNXPMJpsw02L8Q) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu), [אורית טשומה](https://open.spotify.com/artist/0X36xboo0vsPER5eeULxle), [אברהם לגסה](https://open.spotify.com/artist/0zaM690YAtisdp82OI4ukt) | [אה וואו](https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs) | 4:16 |

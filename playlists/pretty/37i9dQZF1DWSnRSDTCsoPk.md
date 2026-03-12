@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,603 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,637 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 49 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 |
 | 50 | [The Feels](https://open.spotify.com/track/308Ir17KlNdlrbVLHWhlLe) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:18 |
 | 51 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 |
-| 52 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
+| 52 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 |
 | 53 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 |
-| 54 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 |
+| 54 | [BOUNCY \(K\-HOT CHILLI PEPPERS\)](https://open.spotify.com/track/5KyOUICJIvO0z71MBdPGiX) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.2 : OUTLAW](https://open.spotify.com/album/5DxixnuklLg28S7UMeGC9H) | 3:07 |
 | 55 | [HOT SAUCE](https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [HOT SAUCE](https://open.spotify.com/album/5kTDyVVuvyPJZX1MlXiBvW) | 2:27 |
 | 56 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 |
 | 57 | [GGUM](https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [GGUM](https://open.spotify.com/album/2hgOMXg9I7Mk7G58OFAZ1V) | 2:31 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 97 | [Typa Girl](https://open.spotify.com/track/3BHR1mJOqn2UZyq98YKPgd) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv) | 2:59 |
 | 98 | [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 |
 | 99 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 |
-| 100 | [MAESTRO](https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:18 |
+| 100 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
 
 Snapshot ID: `AAAAANfi79V8jaiLZi6oNHk2F+YAVK6M`

@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Ayra Starr",
-  "num_followers": 215128,
+  "num_followers": 215230,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-03-06 00:01:12",
       "album": {
+        "name": "Waist",
+        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Waist",
+      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
+    },
+    {
+      "added_at": "2026-03-06 00:01:12",
+      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 147302,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-03-06 00:01:12",
-      "album": {
-        "name": "Waist",
-        "url": "https://open.spotify.com/album/4aRqZD1I60EoU85eNCVAil"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Waist",
-      "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"
     },
     {
       "added_at": "2026-03-06 00:01:12",
@@ -411,6 +411,26 @@
       "duration_ms": 217269,
       "name": "EASY WITH ME",
       "url": "https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV"
+    },
+    {
+      "added_at": "2026-03-06 00:01:12",
+      "album": {
+        "name": "Big Bum Bum",
+        "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Big Bum Bum",
+      "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
     },
     {
       "added_at": "2026-03-06 00:01:12",
@@ -447,26 +467,6 @@
       "duration_ms": 178983,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
-    },
-    {
-      "added_at": "2026-03-06 00:01:12",
-      "album": {
-        "name": "Big Bum Bum",
-        "url": "https://open.spotify.com/album/3sb9wp0YtrNwfHajHmWF8S"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Big Bum Bum",
-      "url": "https://open.spotify.com/track/1heVYYJgIbEmeEQ8ye0YFX"
     },
     {
       "added_at": "2026-03-06 00:01:12",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-06 00:01:12",
       "album": {
-        "name": "BADAMINTON",
-        "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "BADAMINTON",
-      "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
-    },
-    {
-      "added_at": "2026-03-06 00:01:12",
-      "album": {
         "name": "Calculate",
         "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 180688,
       "name": "Calculate",
       "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+    },
+    {
+      "added_at": "2026-03-06 00:01:12",
+      "album": {
+        "name": "BADAMINTON",
+        "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "BADAMINTON",
+      "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
     },
     {
       "added_at": "2026-03-06 00:01:12",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2026-03-06 00:01:12",
       "album": {
-        "name": "Fuji",
-        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
+        "name": "God is working",
+        "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
         }
       ],
-      "duration_ms": 161538,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
+      "duration_ms": 134000,
+      "name": "God is working",
+      "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
     },
     {
       "added_at": "2026-03-06 00:01:12",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-03-06 00:01:12",
       "album": {
-        "name": "God is working",
-        "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
+        "name": "Fuji",
+        "url": "https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 134000,
-      "name": "God is working",
-      "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
+      "duration_ms": 161538,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/0mfLbIDRH9YJfU3wComro7"
     },
     {
       "added_at": "2026-03-06 00:01:12",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-03-06 00:01:12",
       "album": {
-        "name": "Na So",
-        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 214441,
-      "name": "Na So",
-      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
-    },
-    {
-      "added_at": "2026-03-06 00:01:12",
-      "album": {
         "name": "May 10th",
         "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 166530,
       "name": "May 10th",
       "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2026-03-06 00:01:12",
+      "album": {
+        "name": "Na So",
+        "url": "https://open.spotify.com/album/18pDXf18omJ3ZvmwUweTNs"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 214441,
+      "name": "Na So",
+      "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
     },
     {
       "added_at": "2026-03-06 00:01:12",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2026-03-06 00:01:12",
       "album": {
-        "name": "OBT (feat. BhadBoi OML)",
-        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "OBT (feat. BhadBoi OML)",
-      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
-    },
-    {
-      "added_at": "2026-03-06 00:01:12",
-      "album": {
         "name": "Funds (feat. ODUMODUBLVCK & Chike)",
         "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 136693,
       "name": "1 WORK - Remix",
       "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2026-03-06 00:01:12",
+      "album": {
+        "name": "OBT (feat. BhadBoi OML)",
+        "url": "https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "OBT (feat. BhadBoi OML)",
+      "url": "https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex"
     },
     {
       "added_at": "2026-03-06 00:01:12",

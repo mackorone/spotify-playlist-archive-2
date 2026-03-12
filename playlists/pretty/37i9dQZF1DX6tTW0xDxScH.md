@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,510 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,478 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 42 | [Tres Hermanos \[Feat\. Dan Auerbach\]](https://open.spotify.com/track/7CiBrNzJrRDCx0viAECy3e) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb) | 3:21 |
 | 43 | [Miffed It](https://open.spotify.com/track/2Akjix15UL9ec80rPlzW9P) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/7iOuhPNM8lxGVLBO9Jz9lL) | 4:06 |
 | 44 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
-| 45 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
-| 46 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
+| 45 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
+| 46 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 47 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
 | 48 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
 | 49 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 66 | [Pale Song](https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:45 |
 | 67 | [Dissociate](https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Dissociate](https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK) | 3:14 |
 | 68 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
-| 69 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
-| 70 | [Sheep](https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Sheep](https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c) | 3:35 |
+| 69 | [Sheep](https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Sheep](https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c) | 3:35 |
+| 70 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 71 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
 | 72 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 |
 | 73 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |

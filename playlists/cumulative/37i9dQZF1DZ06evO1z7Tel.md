@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 29 min
+111 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Con Cartitas](https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:13 | 2024-05-05 |  |
 | [Corrido De Armando Martínez](https://open.spotify.com/track/2SzcpPQcjpRZL3qfJ1Fzjr) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 2:38 | 2022-10-12 |  |
 | [Corrido De Cruz Estrada Aka Crucillo Estrada](https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Es Imposible](https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY) | 2:48 | 2023-12-23 |  |
+| [Corrido De Gabino](https://open.spotify.com/track/6bkpivmltOd4bvG8WKWQuv) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos Norteños Con Carlos Y José](https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z) | 2:36 | 2026-03-12 |  |
 | [Cuenta Cobrada](https://open.spotify.com/track/4UytravBJOMST6t7qoa31Z) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Por Nuestro Bien](https://open.spotify.com/album/6vu03Cw5oDyd3rS4cmsB1a) | 3:13 | 2025-04-07 | 2025-11-16 |
 | [Dados Cargados](https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 2:40 | 2022-08-13 |  |
 | [Dados Cargados](https://open.spotify.com/track/2V9lolR3rDL9wf1961MDMt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Coleccion Superma Plus\- Carlos Y Jose](https://open.spotify.com/album/2K2mjjkSyQp0Ote1B3aCaY) | 2:43 | 2022-06-01 | 2022-08-14 |
@@ -57,7 +58,7 @@
 | [El Rico Pobre](https://open.spotify.com/track/1ECgAz9uzij134mOSvARmb) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [30 Años De Cabalgata Norteña](https://open.spotify.com/album/6EZ3nnXkoSIm45sPCSMWrW) | 3:08 | 2022-06-01 | 2025-04-07 |
 | [El Rico Pobre](https://open.spotify.com/track/6h1IFfO76PWR1D1LS3MZQt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Claves En Corrido](https://open.spotify.com/album/3M4A3npKRXpMB14aZXh8B7) | 3:08 | 2025-04-07 | 2025-04-26 |
 | [El Rico Pobre](https://open.spotify.com/track/75K6YcunJ1fo8pafK6jjrz) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Para Rato](https://open.spotify.com/album/52UpMj1lzpBoWsYLZhwtwd) | 3:08 | 2025-04-26 | 2025-08-02 |
-| [El Sauce Y La Palma](https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T) | 2:29 | 2022-06-01 |  |
+| [El Sauce Y La Palma](https://open.spotify.com/track/6EGSQ0EYRdD1CaYv5w27V3) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Noches Eternas](https://open.spotify.com/album/2Jm6XWrMojX534eRhRnL2T) | 2:29 | 2022-06-01 | 2026-03-12 |
 | [El Siete Leguas](https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Corridos De Caballos Famosos Con](https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0) | 3:39 | 2022-06-01 | 2026-02-21 |
 | [El Taxista Enamorado](https://open.spotify.com/track/3ETClE6RsyDMcnXSVOCELQ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Vienen Los Recuerdos](https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1) | 2:22 | 2022-06-01 |  |
 | [El Tepozan](https://open.spotify.com/track/4f7my76fKN0CzPYMg7mrXY) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:18 | 2025-05-07 | 2026-03-05 |

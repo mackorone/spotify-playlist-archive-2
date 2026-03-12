@@ -4,7 +4,7 @@
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-51 songs - 1 hr 52 min
+52 songs - 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Chop Block](https://open.spotify.com/track/5SaQyXZY4Zssc7AmGBkXQy) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [Chop Block](https://open.spotify.com/album/2kngXcMZvmr3KNz4QM3SYq) | 2:51 | 2026-02-27 |  |
 | [Coast](https://open.spotify.com/track/5PWHkqog3DY2L888uRF1z3) | [Moody Moon](https://open.spotify.com/artist/5FqggPXiI6UjenpYlu4xSU) | [Coast](https://open.spotify.com/album/0YUpgTzRdcpmEL0h2ZK9N5) | 2:23 | 2026-02-27 |  |
 | [coconut](https://open.spotify.com/track/2lSQvaHPLdlYcudEvYj5BQ) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4), [Kylan](https://open.spotify.com/artist/2jwnZnNPyGGDGKrRTQdgVp) | [coconut](https://open.spotify.com/album/48L5BLMn8YGyz4vztdqegl) | 2:15 | 2026-02-27 |  |
-| [Coffee Break](https://open.spotify.com/track/6ZgY3qsLYw1CfEqIuBjNPG) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Coffee Break](https://open.spotify.com/album/2h2pORhQLX0TlaQGw3iM4S) | 2:08 | 2026-02-27 |  |
+| [Coffee Break](https://open.spotify.com/track/6ZgY3qsLYw1CfEqIuBjNPG) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Coffee Break](https://open.spotify.com/album/2h2pORhQLX0TlaQGw3iM4S) | 2:08 | 2026-02-27 | 2026-03-12 |
 | [crispy chicken](https://open.spotify.com/track/5c5LmzPH8zG62iym0TsaGb) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [crispy chicken](https://open.spotify.com/album/1NOegygg4fe71eIIlMxrjz) | 2:10 | 2026-02-27 |  |
 | [Dreaming Together](https://open.spotify.com/track/5Pj5eKJGsexeqoPl22Gz7l) | [anlou](https://open.spotify.com/artist/5Vlev6Ie6QielMmMbrojhH) | [Dreaming Together](https://open.spotify.com/album/4xv3UQITKFzcZ36ODwQgOY) | 2:36 | 2026-02-27 |  |
 | [Early Bird](https://open.spotify.com/track/6ChTadHDU68gvfG3tCAMOy) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Early Bird](https://open.spotify.com/album/72u2lwYnNVGDNSlmwag4zV) | 1:48 | 2026-03-04 |  |
@@ -57,6 +57,7 @@
 | [Vintage Shop](https://open.spotify.com/track/1gmvtemzXBWJjAxqyBd7AQ) | [Young Akino](https://open.spotify.com/artist/4u16ySAhgpcfh3aRi0pv5o) | [Vintage Shop](https://open.spotify.com/album/2oLIDLxDrrkmaZc1O2A4l2) | 2:18 | 2026-02-27 |  |
 | [warm breeze](https://open.spotify.com/track/5PNeQPmR8AtlLx4Upf08Hi) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [warm breeze](https://open.spotify.com/album/3c5cpXaFuXKfRFFAU9poda) | 2:01 | 2026-02-27 |  |
 | [warm hands, cold air](https://open.spotify.com/track/39I5c7yp1BrboSCjYYQ7o7) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [warm hands, cold air](https://open.spotify.com/album/0bHYCqUGeLbJlz5lnSUraO) | 2:24 | 2026-02-27 |  |
+| [When Flowers Bloom](https://open.spotify.com/track/4c69F0hbshPqbkQEKAZcTq) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [When Flowers Bloom](https://open.spotify.com/album/6Sx7x8DqIb6W7fmwPTRXDS) | 2:30 | 2026-03-11 |  |
 | [Wildflower](https://open.spotify.com/track/7zxNmMVgoZQdYrRNgEL9vn) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Wildflower](https://open.spotify.com/album/1VKHmxN3RlzMcZddnsenud) | 2:36 | 2026-02-27 |  |
 | [wildflowers](https://open.spotify.com/track/2YSblbztd9pNPSr0crTErJ) | [John Lee](https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [wildflowers](https://open.spotify.com/album/5sQeAGnf5OiVGrkaPN1fgF) | 2:12 | 2026-02-27 |  |
 

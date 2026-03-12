@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,851 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,852 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 14 | [Garden \(Say It Like Dat\)](https://open.spotify.com/track/19woxaSpjOefa2JnAOoqW5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:28 |
 | 15 | [Pink Matter](https://open.spotify.com/track/0C3W4yLCuyUxIEwkSpBO8H) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE \(Explicit Version\)](https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs) | 4:28 |
 | 16 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
-| 17 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
-| 18 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
+| 17 | [Blue Lights](https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 4:10 |
+| 18 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
 | 19 | [Pretty Little Birds \(feat\. Isaiah Rashad\)](https://open.spotify.com/track/1IgePMOW0qEe1AViWgkal9) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:05 |
 | 20 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 |
 | 21 | [I Want You Around](https://open.spotify.com/track/2gjidmxtA1pyj2HYrdOTG1) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:32 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 42 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 |
 | 43 | [Me And Those Dreamin' Eyes Of Mine](https://open.spotify.com/track/5MjUkhqCpr5uZ39xZmLZxe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:46 |
 | 44 | [Doc Whiler](https://open.spotify.com/track/2xkib9MAHlGtxJRhIesSAX) | [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [Since Winona](https://open.spotify.com/album/7D9vZwRiwIzwEXHzsVutdK) | 2:29 |
-| 45 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
-| 46 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 45 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
+| 46 | [Gave You My All](https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Thoughts I Never Said](https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl) | 3:01 |
 | 47 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
 | 48 | [Downers](https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers](https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt) | 3:38 |
 | 49 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |

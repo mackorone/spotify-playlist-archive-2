@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,703 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,720 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 21 | [Hero](https://open.spotify.com/track/6tQvfblsmRCrZXx7xhDCqT) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 7:11 |
 | 22 | [Nowhere Again](https://open.spotify.com/track/6C7Zo57KvXSMdMZDW5fzD6) | [Secret Machines](https://open.spotify.com/artist/67HNxzMi851bSGexRUBtgn) | [Now Here Is Nowhere](https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg) | 4:13 |
 | 23 | [Spiders \(Kidsmoke\)](https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 10:42 |
-| 24 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
+| 24 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
 | 25 | [One More Night](https://open.spotify.com/track/5VkqPsfrp8YYTd4GtWId5U) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi](https://open.spotify.com/album/4eoETnSr4alYiNdIOwCeQb) | 5:35 |
-| 26 | [Fluffy Kosmisch](https://open.spotify.com/track/3okCTUkxlfTKgL1NQzAr5K) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 3:40 |
+| 26 | [Rivers of Mind](https://open.spotify.com/track/3kNsqLVEbkMa7KeXS1TYKL) | [Rose City Band](https://open.spotify.com/artist/4TysFpMssaAsBomBur7jpK) | [Rose City Band](https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs) | 6:34 |
 | 27 | [Archangels Thunderbird](https://open.spotify.com/track/0oshIsMu5i5E2wTBIj9NxF) | [Amon Düül II](https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj) | [Yeti](https://open.spotify.com/album/4ip7L3AtG2pLgZLhAON3va) | 3:33 |
 | 28 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 29 | [Light: Look at Your Sun](https://open.spotify.com/track/2gWT8m0KpmVVboR2MzdneA) | [Ash Ra Tempel](https://open.spotify.com/artist/5f6eufK2ZswS7hxhEZyIG9), [Manuel Göttsching](https://open.spotify.com/artist/38KMWWA4MPJ6VxlO9kx6CU) | [Schwingungen \(Mixed Tracks\)](https://open.spotify.com/album/6GsU6r8GoVcTXOLZK417nz) | 6:36 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 55 | [Schwebebahn](https://open.spotify.com/track/6vaycV6nN0pRo9lSZLPKLI) | [Hoelderlin](https://open.spotify.com/artist/6KdRTV8GYYhX8hhPWbTZk3) | [Hoelderlin](https://open.spotify.com/album/37rnY9C3CxIq0c1YLSHCcR) | 7:22 |
 | 56 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 57 | [Nearby Shiras](https://open.spotify.com/track/6lOZ15WheIfHMfsvr8iK3Q) | [Kalacakra](https://open.spotify.com/artist/4boGEDgw8Kuy07kWFiuIls) | [Crawling to Lhasa](https://open.spotify.com/album/0j47nvtM2sdo6mULT3tf1C) | 9:13 |
-| 58 | [Can't Get There](https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Can't Get There EP](https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm) | 7:17 |
+| 58 | [Out There](https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:54 |
 | 59 | [Ich geh den Weg mit dir](https://open.spotify.com/track/61hXgmELye3W0q67kPCYEz) | [Musiccargo](https://open.spotify.com/artist/3PfsferIgZ7wACP0HcP329) | [Future Sounds Of Kraut Vol\. 1 \- compiled by Fred und Luna](https://open.spotify.com/album/1UDLKtbsdX65ZQVW5rPfx4) | 6:18 |
-| 60 | [Out There](https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [PHASOR](https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S) | 4:54 |
+| 60 | [Can't Get There](https://open.spotify.com/track/1AtSdzyt3vsGUVSk5wb44Z) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Can't Get There EP](https://open.spotify.com/album/7lVtPOrm8y8D9ELXOIVxPm) | 7:17 |
 | 61 | [Crazy Love](https://open.spotify.com/track/0McxNzcP8DB1VKDLqZ0T3h) | [Colder](https://open.spotify.com/artist/1z7SXnaVwt0Fnncfrz94SG) | [Again](https://open.spotify.com/album/4bTWH5P6CykNnANLOAzKCR) | 5:11 |
 | 62 | [Bang \- Peanut Butter Wolf Remix](https://open.spotify.com/track/7vt7cUdUhOce1aYrULANus) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang \(Peanut Butter Wolf Remix\)](https://open.spotify.com/album/1WMAZALQuGGrsWEvQt7S24) | 4:08 |
 | 63 | [Conductor 71](https://open.spotify.com/track/1dqjTVRISUGI2eKjgcndIz) | [Fujiya & Miyagi](https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU) | [Transparent Things](https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI) | 4:10 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 78 | [Sunrise, Sunset](https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 6:54 |
 | 79 | [El Vehículo de las Transformaciones](https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [El Vehículo de las Transformaciones](https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd) | 5:52 |
 | 80 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
-| 81 | [Autoroute](https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh) | [L'été suivant...](https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM) | 6:27 |
-| 82 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |
+| 81 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |
+| 82 | [Autoroute](https://open.spotify.com/track/4YJYDa5V3ewbQMwkR6Maja) | [Limousine](https://open.spotify.com/artist/28TS6lsqvm8EKRdBzMigTh) | [L'été suivant...](https://open.spotify.com/album/1sKHdsjlXudKAI9TEOpnbM) | 6:27 |
 | 83 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 |
 | 84 | [Ficción](https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R) | [Mirror Revelations](https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9) | [Ficción](https://open.spotify.com/album/6Jfr6xIsA2JC7foD567P4Z) | 6:24 |
 | 85 | [Ausland](https://open.spotify.com/track/6T42JJsew8dVP9s87D8mA1) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 5:52 |

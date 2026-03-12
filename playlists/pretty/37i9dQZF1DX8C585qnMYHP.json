@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 192462,
+  "num_followers": 192473,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Hymnal",
-        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
-      },
-      "artists": [
-        {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        }
-      ],
-      "duration_ms": 330410,
-      "name": "Ending",
-      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "O, Dark Mother",
         "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 331774,
       "name": "O, Dark Mother",
       "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Hymnal",
+        "url": "https://open.spotify.com/album/6RdvGqQMrs7GMfTSxH4X7X"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        }
+      ],
+      "duration_ms": 330410,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/29CbF6riCloorWFxMamv77"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "PREY",
-        "url": "https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU"
-      },
-      "artists": [
-        {
-          "name": "SZARY",
-          "url": "https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca"
-        }
-      ],
-      "duration_ms": 264223,
-      "name": "PREY",
-      "url": "https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "I Keep My Diamond Necklace in a Pond of Sparkling Water",
         "url": "https://open.spotify.com/album/0uiBZUXcFQpqBVKUKnS8LJ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 276866,
       "name": "Squatter's Quarters",
       "url": "https://open.spotify.com/track/6NzaYbR6ayFuvEfTedn3ZF"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "PREY",
+        "url": "https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU"
+      },
+      "artists": [
+        {
+          "name": "SZARY",
+          "url": "https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca"
+        }
+      ],
+      "duration_ms": 264223,
+      "name": "PREY",
+      "url": "https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -731,6 +731,22 @@
       "duration_ms": 204586,
       "name": "New Brighton",
       "url": "https://open.spotify.com/track/0uOpsETVlKyKvfWJlEIgg9"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Remaining",
+        "url": "https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI"
+      },
+      "artists": [
+        {
+          "name": "Niels Orens",
+          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
+        }
+      ],
+      "duration_ms": 253443,
+      "name": "Remaining",
+      "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -775,22 +791,6 @@
       "duration_ms": 342303,
       "name": "It\u2019s A Hole",
       "url": "https://open.spotify.com/track/6WGxYf5cue8eRU0CZVKnca"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Remaining",
-        "url": "https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI"
-      },
-      "artists": [
-        {
-          "name": "Niels Orens",
-          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
-        }
-      ],
-      "duration_ms": 253443,
-      "name": "Remaining",
-      "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -955,22 +955,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Frog Raag",
-        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
+        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
       },
       "artists": [
         {
-          "name": "Evan Shornstein",
-          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
-        },
-        {
-          "name": "Will Epstein",
-          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+          "name": "moreru",
+          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
         }
       ],
-      "duration_ms": 286550,
-      "name": "VI",
-      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
+      "duration_ms": 255154,
+      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -991,18 +987,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
+        "name": "Frog Raag",
+        "url": "https://open.spotify.com/album/5DZOpRRkXYMU7CAodzg8Pn"
       },
       "artists": [
         {
-          "name": "moreru",
-          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+          "name": "Evan Shornstein",
+          "url": "https://open.spotify.com/artist/3Ut7xsKQ9d40ANjZ154tdv"
+        },
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
         }
       ],
-      "duration_ms": 255154,
-      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
+      "duration_ms": 286550,
+      "name": "VI",
+      "url": "https://open.spotify.com/track/0Hqe86kEj0B7L3MoBBUvvT"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Harsh & Exciting",
-        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
-      },
-      "artists": [
-        {
-          "name": "Moonrisers",
-          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
-        }
-      ],
-      "duration_ms": 301606,
-      "name": "Circle Of The Seasons",
-      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "BOH\u00c8ME",
         "url": "https://open.spotify.com/album/75myWFnHRo0c6hhaRmdf0K"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 261818,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/6G1mq9bIF75elODWirXe8f"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Harsh & Exciting",
+        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
+      },
+      "artists": [
+        {
+          "name": "Moonrisers",
+          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
+        }
+      ],
+      "duration_ms": 301606,
+      "name": "Circle Of The Seasons",
+      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "HM2BB",
-        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
-      },
-      "artists": [
-        {
-          "name": "Indira Elias",
-          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
-        }
-      ],
-      "duration_ms": 133848,
-      "name": "HM2BB",
-      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "punk cake",
         "url": "https://open.spotify.com/album/0yrkbOLrPepB0ZqNTGva3b"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 142000,
       "name": "14 Rue d'Abbeville",
       "url": "https://open.spotify.com/track/56zIzQ7cQkk6jtqKjngLeA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "HM2BB",
+        "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
+      },
+      "artists": [
+        {
+          "name": "Indira Elias",
+          "url": "https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ"
+        }
+      ],
+      "duration_ms": 133848,
+      "name": "HM2BB",
+      "url": "https://open.spotify.com/track/6k0UIowj3aOOJq7yHwYBL9"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1211,22 +1211,6 @@
       "duration_ms": 259402,
       "name": "Phase I",
       "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1267,6 +1251,22 @@
       "duration_ms": 218962,
       "name": "Consider This",
       "url": "https://open.spotify.com/track/7ibTbfuTYaIUbcGAJlpyzB"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
+      },
+      "artists": [
+        {
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
+        }
+      ],
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "F\u00fcr Therese",
+        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 262945,
+      "name": "F\u00fcr Therese",
+      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Too Close to Call",
         "url": "https://open.spotify.com/album/4GRuolM8ty3ahWoKE56Z0b"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "F\u00fcr Therese",
-        "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 262945,
-      "name": "F\u00fcr Therese",
-      "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Zabrisky",
         "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
-      },
-      "artists": [
-        {
-          "name": "Zutzut",
-          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
-        }
-      ],
-      "duration_ms": 216287,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Gosamour",
         "url": "https://open.spotify.com/album/2eYqRX35ZPEaUUu0V0cUlA"
       },
@@ -1495,6 +1479,38 @@
       "duration_ms": 211933,
       "name": "Gosamour",
       "url": "https://open.spotify.com/track/7fpvQXLR1umwJVmPRcyFcs"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
+      },
+      "artists": [
+        {
+          "name": "Zutzut",
+          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
+        }
+      ],
+      "duration_ms": 216287,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Sepia Rainbow",
+        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
+      },
+      "artists": [
+        {
+          "name": "Apu Nanu",
+          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Sepia Rainbow",
+      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Sepia Rainbow",
-        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
-      },
-      "artists": [
-        {
-          "name": "Apu Nanu",
-          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Sepia Rainbow",
-      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "De lijn der verwachting (remixes)",
         "url": "https://open.spotify.com/album/6ZaBUEnJzsRZMiQIMtKKTU"
       },
@@ -1579,6 +1579,30 @@
       "duration_ms": 217570,
       "name": "De lijn der verwachting - Willem Ardui remix",
       "url": "https://open.spotify.com/track/4RcEJ02h5cQx7cE8BhtTvj"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
+        "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
+      },
+      "artists": [
+        {
+          "name": "Clay Kin",
+          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
+        },
+        {
+          "name": "Dan Nicholls",
+          "url": "https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW"
+        },
+        {
+          "name": "Julian Sartorius",
+          "url": "https://open.spotify.com/artist/6uZnp5qm39fcS98jofdiHz"
+        }
+      ],
+      "duration_ms": 238243,
+      "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
+      "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1615,30 +1639,6 @@
       "duration_ms": 305088,
       "name": "That Veil of Yours (feat. Voice Actor)",
       "url": "https://open.spotify.com/track/0QRzif2zcMtc7vMSGcjvyU"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
-        "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
-      },
-      "artists": [
-        {
-          "name": "Clay Kin",
-          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
-        },
-        {
-          "name": "Dan Nicholls",
-          "url": "https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW"
-        },
-        {
-          "name": "Julian Sartorius",
-          "url": "https://open.spotify.com/artist/6uZnp5qm39fcS98jofdiHz"
-        }
-      ],
-      "duration_ms": 238243,
-      "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
-      "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Neptune Anteater",
-        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
+        "name": "Waiting pt 1",
+        "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
       },
       "artists": [
         {
-          "name": "The Dwarfs of East Agouza",
-          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
+          "name": "Jane Paknia",
+          "url": "https://open.spotify.com/artist/1Zoaf3n6LhFuN5Ir3Ab4yM"
         }
       ],
-      "duration_ms": 238948,
-      "name": "Neptune Anteater",
-      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
+      "duration_ms": 132318,
+      "name": "Waiting pt 1",
+      "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,310 songs - 2 day 2 hr 8 min
+1,312 songs - 2 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [foam](https://open.spotify.com/track/11j0qQhHzDxOiItPenCc7e) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [foam](https://open.spotify.com/album/3O7iHjbCvoe1Oc2kzjvTxE) | 2:18 | 2025-09-19 |  |
 | [foggy afternoons](https://open.spotify.com/track/29aEQCuc0s6E0kcFreV46L) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [foggy afternoons](https://open.spotify.com/album/3VWXOXYNIiomNfJREmxUMf) | 2:02 | 2021-11-10 | 2025-07-16 |
 | [Folded Notes](https://open.spotify.com/track/4cowhth7bG7PZRuYnlGhSH) | [Pastblink](https://open.spotify.com/artist/6aXm62k9vCjNBALspldTxL) | [Pieces of Earth](https://open.spotify.com/album/0l5EuQZVdOANozH7Vu6f4v) | 2:39 | 2021-11-10 | 2022-08-19 |
+| [Folded Rhythm](https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Folded Rhythm](https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9) | 1:50 | 2026-03-11 |  |
 | [Foley](https://open.spotify.com/track/3zF7rEUNOekwcFdspyZ2by) | [Luigi Valentino](https://open.spotify.com/artist/5we8GkSvBODzF7t0TLaiOS) | [Outlines](https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh) | 1:36 | 2021-11-10 | 2023-03-02 |
 | [Follow Me](https://open.spotify.com/track/0hBg3ymrkGMAghPlk2L7ii) | [fox](https://open.spotify.com/artist/2SXuNJWv9RZcRjUc7zIsHy) | [Follow Me](https://open.spotify.com/album/5yaEujGFm7dEg8WnIongAO) | 1:42 | 2021-11-10 | 2022-12-10 |
 | [Follow Me](https://open.spotify.com/track/0bB5Z3RMKb4XdCwdD6VNSI) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa) | [Follow Me](https://open.spotify.com/album/7E1e6LoisUa8eGajBw1Ewd) | 2:15 | 2023-04-03 | 2023-09-29 |
@@ -907,7 +908,7 @@
 | [podróbka](https://open.spotify.com/track/36lB5F7MsFyrEnSssSkvZa) | [kaj did it](https://open.spotify.com/artist/5vueyFgDM6ycSgNmnoy3Dy) | [podróbka](https://open.spotify.com/album/3Xv9JmMYbxPwq3KQfDZaoN) | 2:10 | 2021-11-10 | 2022-05-20 |
 | [poly](https://open.spotify.com/track/3aFyrq0R7Ho9UEH1Ovrh1t) | [grenedine](https://open.spotify.com/artist/5Zl6z0uleWI3PhrBQFque1) | [poly](https://open.spotify.com/album/40TZUeByeguLnyu36cgROs) | 2:04 | 2023-07-13 | 2025-07-16 |
 | [Popcorn Harvest](https://open.spotify.com/track/0CYzr54h1vtNkxh107m0HI) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Popcorn Harvest](https://open.spotify.com/album/329thzZNqZjgNtQyptMxKu) | 2:37 | 2021-11-10 | 2022-04-08 |
-| [Porch](https://open.spotify.com/track/1lnVbqyBZvQkVSac8AEdzA) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Porch](https://open.spotify.com/album/6LHvHIhMr4nvj3M6VEkZpn) | 2:00 | 2025-10-03 |  |
+| [Porch](https://open.spotify.com/track/1lnVbqyBZvQkVSac8AEdzA) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Porch](https://open.spotify.com/album/6LHvHIhMr4nvj3M6VEkZpn) | 2:00 | 2025-10-03 | 2026-03-12 |
 | [Portugal](https://open.spotify.com/track/3veP9Z9IG4gxTa951pgVlN) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Portugal](https://open.spotify.com/album/5MmjBiPS7LyXxUidGRXgLm) | 1:57 | 2023-05-19 | 2023-10-13 |
 | [positive](https://open.spotify.com/track/6EXzpGmH1gpvQclBz4GcfR) | [Slopoke](https://open.spotify.com/artist/1iJ5ZP2QithYEHlojjT3Dw) | [positive](https://open.spotify.com/album/4dmOhdd46ePy9uaCQXwIaz) | 2:33 | 2021-11-10 | 2022-10-29 |
 | [Posted](https://open.spotify.com/track/6sk7bDKXSSEemZOPkNPWGa) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Posted](https://open.spotify.com/album/51YrUF6pCS8V2cUVoHaiQ0) | 2:20 | 2024-06-05 | 2025-08-29 |
@@ -971,7 +972,7 @@
 | [saffron](https://open.spotify.com/track/1rac3Jn0FNPe9VknXZDWZk) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [saffron](https://open.spotify.com/album/1M0SfN1MyqyCak13jImMKq) | 1:17 | 2021-11-10 | 2023-05-20 |
 | [Same Cycle Different Day](https://open.spotify.com/track/76vtRLq3IV9aA1UyYXMvbv) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Same Cycle Different Day](https://open.spotify.com/album/0g3qUzGW7J7VioeqxPbYek) | 2:14 | 2021-11-10 | 2022-04-08 |
 | [Sanctuary](https://open.spotify.com/track/1q2JKbcSANVM51vo7ZcNGZ) | [Hoverchild](https://open.spotify.com/artist/4fCWcDzEkEqgDNUq1OiOwc) | [Sanctuary](https://open.spotify.com/album/1Ud5Pk8XpdnN39zNiT0i5S) | 2:47 | 2022-10-15 | 2023-10-06 |
-| [Sapphire Skies](https://open.spotify.com/track/7F3QuxLWUqRc09YQdaLqFH) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [Sapphire Skies](https://open.spotify.com/album/2oHYOTLdimhGWEmCTEmL8y) | 2:24 | 2025-12-17 |  |
+| [Sapphire Skies](https://open.spotify.com/track/7F3QuxLWUqRc09YQdaLqFH) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [Sapphire Skies](https://open.spotify.com/album/2oHYOTLdimhGWEmCTEmL8y) | 2:24 | 2025-12-17 | 2026-03-12 |
 | [Saturnal Blues](https://open.spotify.com/track/18sgLHkXTlOtE2ukdMWyRH) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf), [Steve Nguyen](https://open.spotify.com/artist/0uWdW9U87jBwkzaz0Ts8p6) | [Space Out](https://open.spotify.com/album/5V3mW1xg5zvjVk47BzLOYN) | 2:16 | 2022-12-09 |  |
 | [Saudade](https://open.spotify.com/track/5RjQIXVt5Bgg25rwyrPow6) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Saudade](https://open.spotify.com/album/2rbaRvCC6gtcdGLZ8IlS3p) | 2:25 | 2022-12-09 | 2025-07-16 |
 | [Sauna](https://open.spotify.com/track/6xCrkGWiatvVdJjma5yAzz) | [Ho\-Sook](https://open.spotify.com/artist/2VL9E8RlHOxu1wRjG3StPV) | [Sauna](https://open.spotify.com/album/3OpYcRJ7yKSH6uGJpfbHbI) | 2:21 | 2021-11-10 | 2023-05-20 |
@@ -1283,6 +1284,7 @@
 | [what's\-oup?](https://open.spotify.com/track/4bKT8NrOI1ZezuO2HAQegW) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [what's\-oup?](https://open.spotify.com/album/6YvQ0RoCU730vgHUn74I8p) | 2:37 | 2023-02-17 | 2025-07-16 |
 | [Whats Over There](https://open.spotify.com/track/1HH3LSSd4jiXwJfYonnlAX) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [Whats Over There](https://open.spotify.com/album/4XWTHMGOSFDSQoWVGF6f3M) | 2:19 | 2023-09-29 | 2025-07-16 |
 | [When I See You](https://open.spotify.com/track/6ANnNFLIzVkJsabPH1CiNa) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM) | [When I See You](https://open.spotify.com/album/5EKkFX7EyjungYP6o4vx8I) | 2:20 | 2022-05-13 | 2022-06-10 |
+| [Where the Light Rests](https://open.spotify.com/track/5mGFAkKKMqfjRAU3hkHMSC) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Where the Light Rests](https://open.spotify.com/album/23cJFMZBT8OzAgv0PXuBMp) | 2:08 | 2026-03-11 |  |
 | [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 | 2022-06-24 | 2023-01-20 |
 | [wherever you go](https://open.spotify.com/track/4BihRR1aNqljFZ2kVYS6Xq) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [wherever you go](https://open.spotify.com/album/2SGlbnB45alvXoKJ35Lt3M) | 2:27 | 2025-09-19 | 2025-10-05 |
 | [Whiskey on the rocks](https://open.spotify.com/track/55XFlOD8d0N5tw4ab6CmKB) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Whiskey on the rocks](https://open.spotify.com/album/4k3uNMBvvXrAhuJHajf8SJ) | 2:44 | 2023-01-13 | 2025-07-16 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00c9xitos internacionales que no pasan de moda.\nPara novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
-  "num_followers": 304172,
+  "num_followers": 304230,
   "original_name": "In English: Replay",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 298940,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 227266,
       "name": "Outside (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 269658,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Love Me Harder",
-      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 276920,
       "name": "Empire State Of Mind",
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Love Me Harder",
+      "url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+      "duration_ms": 251244,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
       "artists": [
         {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 251244,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1019,6 +1003,22 @@
       "duration_ms": 224849,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 485598,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Iyaz",
+          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
         }
       ],
-      "duration_ms": 485598,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
+      "duration_ms": 182306,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1155,34 +1171,22 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8"
+        "name": "The Papercut Chronicles II",
+        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
       },
       "artists": [
         {
-          "name": "Iyaz",
-          "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
-      },
-      "artists": [
+          "name": "Gym Class Heroes",
+          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
+        },
         {
-          "name": "Selena Gomez & The Scene",
-          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
         }
       ],
-      "duration_ms": 188453,
-      "name": "Love You Like A Love Song",
-      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
+      "duration_ms": 210960,
+      "name": "Stereo Hearts (feat. Adam Levine)",
+      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "The Papercut Chronicles II",
-        "url": "https://open.spotify.com/album/2mumCpGmuE9iDeOvMx6XrB"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
       "artists": [
         {
-          "name": "Gym Class Heroes",
-          "url": "https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+          "name": "Selena Gomez & The Scene",
+          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
         }
       ],
-      "duration_ms": 210960,
-      "name": "Stereo Hearts (feat. Adam Levine)",
-      "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
+      "duration_ms": 188453,
+      "name": "Love You Like A Love Song",
+      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 239835,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
         "name": "American Teen",
         "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 202534,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 239835,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "DNCE",
-        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
-      },
-      "artists": [
-        {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 238626,
       "name": "Disturbia",
       "url": "https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
+        "name": "DNCE",
+        "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
         "name": "Hands All Over (Revised International Standard version)",
         "url": "https://open.spotify.com/album/1snrPQMoTrBsKl73wzSxbn"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-06-12 20:16:13",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 162398,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-06-12 20:16:13",
-      "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 202749,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2024-06-12 20:16:13",
@@ -1695,6 +1679,22 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/1mXVgsBdtIVeCLJnSnmtdV"
+    },
+    {
+      "added_at": "2024-06-12 20:16:13",
+      "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 202749,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2024-06-12 20:16:13",

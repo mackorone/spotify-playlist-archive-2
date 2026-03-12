@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-349 songs - 21 hr 41 min
+352 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 | 2025-11-28 | 2025-12-17 |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-11-26 | 2025-12-17 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-24 | 2025-12-17 |
+| [Adicta a Mí](https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Adicta a Mí](https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL) | 4:06 | 2026-03-11 |  |
 | [Ain't It Fun?](https://open.spotify.com/track/5XTkhdlsfIAMm5DvRYpG4Z) | [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC), [regina hum](https://open.spotify.com/artist/1GzBgXa7ZG3GRRHkhZXYSK), [Gabriel Peralta](https://open.spotify.com/artist/1qhj4RJDwgkhjWXssCAQva) | [Ain't It Fun?](https://open.spotify.com/album/4TXm8iB8yhyJdd5zedbxdK) | 5:01 | 2025-09-22 | 2025-12-17 |
 | [All Night Long](https://open.spotify.com/track/6MaZOeeOYizaXQMHJ4odyR) | [Katarina & Her Poor Fellas](https://open.spotify.com/artist/5Wj6JuGomnb8EWEma2yWoU) | [All Night Long](https://open.spotify.com/album/6HMXhjubwIBkJUV9YZxD2H) | 2:43 | 2026-02-24 |  |
 | [Alone \- Cover](https://open.spotify.com/track/6WApzR1hWPqV4BQSyr5ETL) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Alone \(Cover\)](https://open.spotify.com/album/5B5G82hCzSMXhA5szT7Lez) | 3:39 | 2026-01-13 |  |
@@ -67,6 +68,7 @@
 | [Control](https://open.spotify.com/track/3aYIobFI663p7UIIl1yO3o) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [5 to 4](https://open.spotify.com/album/40RQR6L1VCRxJkrjV2SAah) | 3:39 | 2026-02-09 |  |
 | [Control the Universe \(revisited\)](https://open.spotify.com/track/16EMMLXvZHgqKyruhRZqaF) | [Lynn Rockin](https://open.spotify.com/artist/5rCJrr6znWoU3RTfk5Nyo3) | [Control the Universe \(revisited\)](https://open.spotify.com/album/68dYmV1CdPKVtj0Z2uYLiQ) | 3:48 | 2025-12-09 |  |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2025-11-05 | 2025-12-17 |
+| [Corrado](https://open.spotify.com/track/1QXGkSB2T1pNR8hDT2mFoO) | [Le Pietre di Mara](https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M) | [Corrado](https://open.spotify.com/album/3YvkiNefWVg45wCKtcsG1c) | 0:48 | 2026-03-11 |  |
 | [Cosmonauta](https://open.spotify.com/track/4ob1p85yFIpasJJOvYDzcM) | [Francisco Crespo](https://open.spotify.com/artist/3keaT0bkTmc7oERRDQPxkb) | [Cosmonauta](https://open.spotify.com/album/3wCsW7kVE8Q6wvJB0Jvfau) | 2:32 | 2025-11-05 | 2025-12-17 |
 | [Country All Across This Land](https://open.spotify.com/track/59iFCv1jLN9r4V4educife) | [Cam Pierce](https://open.spotify.com/artist/6YLHrUVXpMquZetlXebWWR) | [The Horseshoe](https://open.spotify.com/album/71Pi2kd6ItAuwcaaEsj4ec) | 3:27 | 2025-09-01 |  |
 | [Coven's Flame](https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk) | [Z\-Cocoon](https://open.spotify.com/artist/04AOWpqtCLXZHtZ1ECOayN) | [Coven's Flame](https://open.spotify.com/album/7veP7vZZ18BeXjA63JeV0h) | 4:33 | 2025-11-29 | 2025-12-17 |
@@ -84,6 +86,7 @@
 | [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 | 2025-11-22 | 2025-12-17 |
 | [Derinden](https://open.spotify.com/track/0vyrR0lIMW3Kwa9h8BMSgv) | [Smile Dawn](https://open.spotify.com/artist/6AyJiWjRpLlU9bqvkRJaHG) | [Derinden](https://open.spotify.com/album/5fwIEgnXEy3taaBzGYKYbL) | 4:05 | 2025-11-03 | 2025-12-17 |
 | [Desperate Love](https://open.spotify.com/track/4aulyKvga3asNzCNW0zWe6) | [Rick S\. Rose](https://open.spotify.com/artist/3qwZmQIimE8XsMzfsQVjKO) | [Desperate Love](https://open.spotify.com/album/7rVuju4acx7WthJiMxx6bK) | 2:56 | 2025-09-21 |  |
+| [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 |  |
 | [Die Zeit, die uns bleibt](https://open.spotify.com/track/6z1iaDb6x0eFQwvW2jph8e) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:24 | 2025-10-28 | 2025-12-17 |
 | [Do You Remember?](https://open.spotify.com/track/2ir8kJN0GO8wUP90oU3LSJ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Do You Remember?](https://open.spotify.com/album/73GDhhUlcUhxlDUm6BqdLo) | 3:40 | 2025-10-04 | 2025-12-17 |
 | [Don't Let Me Down Again](https://open.spotify.com/track/3O1JR1gUR8shtWDhxc5Bwc) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Ben Trexel Music Classic Rock Collection, Vol\. 1](https://open.spotify.com/album/3ndoROj3VUZ3hLUIBS2OqU) | 3:24 | 2025-10-20 | 2025-11-28 |

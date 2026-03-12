@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Maureen
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,793 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,800 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

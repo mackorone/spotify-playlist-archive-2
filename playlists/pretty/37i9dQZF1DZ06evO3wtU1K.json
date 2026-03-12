@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37292,
+  "num_followers": 37296,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABH+MWKUQyT3c+yYSJqslAt",
+  "snapshot_id": "aa9fAAAAAACT9S/SOniOKeKMg20uwb8H",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.",
         "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 506200,
       "name": "I'm Getting Ready",
       "url": "https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "William Murphy",
-          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
-        }
-      ],
-      "duration_ms": 383973,
-      "name": "Forever At Your Feet",
-      "url": "https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Hallelujah",
         "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 345179,
       "name": "One Hallelujah",
       "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "duration_ms": 383973,
+      "name": "Forever At Your Feet",
+      "url": "https://open.spotify.com/track/2fL7VG81TUm62B3fhJyr1Z"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TASHA",
-        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 177201,
-      "name": "Do It Anyway",
-      "url": "https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Place Live (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 455480,
       "name": "You Still Love Me - Live",
       "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TASHA",
+        "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 177201,
+      "name": "Do It Anyway",
+      "url": "https://open.spotify.com/track/7K5ANVeHIzH73bI9WMBpeN"
     },
     {
       "added_at": null,
@@ -787,42 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hand That Keeps Holding Me",
-        "url": "https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 291722,
-      "name": "The Hand That Keeps Holding Me",
-      "url": "https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jesus Over Everything (Live In Las Vegas)",
-        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 306159,
-      "name": "Blessings on Blessings (Another Thing) (with Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart. Passion. Pursuit. (Deluxe)",
         "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
@@ -855,6 +819,42 @@
       "duration_ms": 552401,
       "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Over Everything (Live In Las Vegas)",
+        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 306159,
+      "name": "Blessings on Blessings (Another Thing) (with Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hand That Keeps Holding Me",
+        "url": "https://open.spotify.com/album/25qfoIDGA0TncdbRPgloqm"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 291722,
+      "name": "The Hand That Keeps Holding Me",
+      "url": "https://open.spotify.com/track/3JFsd4nEKY80A0CJcUq9n7"
     },
     {
       "added_at": null,

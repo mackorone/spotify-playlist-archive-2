@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 151891,
+  "num_followers": 151894,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAABCdU9TobSjFZxVdd2DWyYk",
+  "snapshot_id": "aa9fAAAAAAAji/xV1/UsM4eEr3WBnZEH",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 237600,
-      "name": "Blessed Assurance",
-      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
+      "duration_ms": 210840,
+      "name": "Nothing But The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Nothing But The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
+      "duration_ms": 237600,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/1b8eNyAT5BW8xOeWUsNahv"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ghost Story",
+        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Ghost Story",
+      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 199933,
       "name": "Smoke Break",
       "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 240361,
-      "name": "Mama's Song",
-      "url": "https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Play On",
+        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 240361,
+      "name": "Mama's Song",
+      "url": "https://open.spotify.com/track/0m8Ta268d1kBBG7lxMyWqa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 240258,
       "name": "Don't Forget to Remember Me",
       "url": "https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghost Story",
-        "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Ghost Story",
-      "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
     },
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets II",
-        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 228853,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
+      "duration_ms": 203600,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/0LI59fuqv8OTAnY9cqCife"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

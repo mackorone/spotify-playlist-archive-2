@@ -1,6 +1,6 @@
 {
   "description": "All the New Joints featuring Juice WRLD, The Scythe, Skrilla and more!",
-  "num_followers": 375460,
+  "num_followers": 375499,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
@@ -616,6 +616,18 @@
           "url": "https://open.spotify.com/artist/0ImT3U0pR1u2icS8XjEmJn"
         },
         {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Young Dro",
+          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+        },
+        {
+          "name": "Big Kuntry King",
+          "url": "https://open.spotify.com/artist/4V77E8MyGPCCvvjVFbYQfS"
+        },
+        {
           "name": "DC Young Fly",
           "url": "https://open.spotify.com/artist/6eXSPW6KeL9Wlv7d1CnqK8"
         }
@@ -836,24 +848,12 @@
       },
       "artists": [
         {
-          "name": "Jae Skeese",
-          "url": "https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ"
-        },
-        {
-          "name": "ILL Tone Beats",
-          "url": "https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         }
       ],
-      "duration_ms": 313468,
-      "name": "Accelerant",
+      "duration_ms": 0,
+      "name": "",
       "url": "https://open.spotify.com/track/4uqfp14eftGfJ7ic4cFRTU"
     },
     {

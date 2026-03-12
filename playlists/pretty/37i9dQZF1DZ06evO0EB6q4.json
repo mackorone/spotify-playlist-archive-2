@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 262302,
+  "num_followers": 262358,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAA59CfhzWBwtSjJgxYyKTFr",
+  "snapshot_id": "aa9fAAAAAAD6/7kEqJuul/p8OLlwgaE3",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 233642,
-      "name": "Poeta",
-      "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La \u00daltima",
         "url": "https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 187733,
       "name": "La \u00daltima",
       "url": "https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 233642,
+      "name": "Poeta",
+      "url": "https://open.spotify.com/track/069Y80sydFZIuVd7m73ouW"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pienses Que Me Fui",
-        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "No Pienses Que Me Fui",
-      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 189098,
       "name": "Volvernos a Amar",
       "url": "https://open.spotify.com/track/3W1HtrBRDTYdvDJ6Ty4bfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pienses Que Me Fui",
+        "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "No Pienses Que Me Fui",
+      "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
     },
     {
       "added_at": null,

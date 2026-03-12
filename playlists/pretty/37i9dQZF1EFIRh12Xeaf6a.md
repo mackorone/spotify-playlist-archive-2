@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,252 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,251 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 114 | [I Happen to Love You](https://open.spotify.com/track/5xXm5vwzXKIOdHt8fYXiBt) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [Underground](https://open.spotify.com/album/2mipvxkj3QDjpQjWaEdq7w) | 3:15 |
 | 115 | [I Was There \(And I'm Told I Had a Good Time\)](https://open.spotify.com/track/5rQXyZscMjd5AekwWkBDpA) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [Good Times! \(Deluxe Edition\)](https://open.spotify.com/album/4UwFizSE0TB6EzTfkkxlbF) | 2:15 |
 | 116 | [I Think It's Gonna Work out Fine \(with James Taylor\)](https://open.spotify.com/track/2cz5aUnfZpxK7Pp9D9vuew) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Get Closer](https://open.spotify.com/album/5WMzxTzHkHVXaleVFWNcfB) | 4:01 |
-| 117 | [We're Gonna Make It](https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 4:54 |
-| 118 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 |
+| 117 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 |
+| 118 | [We're Gonna Make It](https://open.spotify.com/track/5j9Kzx6cn3rqiMBuOzsIyL) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Todd Smith](https://open.spotify.com/album/6WRDjDCqj8Y2ZGlgSzRTfF) | 4:54 |
 | 119 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 |
 | 120 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
 | 121 | [I Didn't Have Any Summer Romance](https://open.spotify.com/track/17F1e95eSGGcJq275iMNWQ) | [Simone White](https://open.spotify.com/artist/1qFOfghPhItJzIUt1iD1ty) | [I Am the Man](https://open.spotify.com/album/0bdgA41D4kZaO87Esq5wZU) | 3:26 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcLylAAAAAC0ofnPutPEu+ahjwwfaFuI`
+Snapshot ID: `AcL3+AAAAABPDthowDzg1x3PLonieAhr`

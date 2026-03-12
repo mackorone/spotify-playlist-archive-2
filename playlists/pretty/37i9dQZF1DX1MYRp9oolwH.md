@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Couple Friendly
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,210 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,222 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

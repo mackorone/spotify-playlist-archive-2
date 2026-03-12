@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,994 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,014 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 18 | [Quizás, Quizás, Quizás](https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:30 |
 | 19 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 4:17 |
 | 20 | [Guantanamera](https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bravo](https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E) | 2:55 |
-| 21 | [Yerbero Moderno](https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 4:34 |
-| 22 | [Bemba Colorá \- Remastered 2025](https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son Con Guaguanco \(Remastered 2025\)](https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl) | 3:32 |
+| 21 | [Bemba Colorá \- Remastered 2025](https://open.spotify.com/track/1i2vjub1G4Kl0xxnIrg5od) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son Con Guaguanco \(Remastered 2025\)](https://open.spotify.com/album/3PNkC8tvFxXpvCHKT547Tl) | 3:32 |
+| 22 | [Yerbero Moderno](https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689), [Papo Lucca](https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 4:34 |
 | 23 | [Celia](https://open.spotify.com/track/6Wm1JEYBCiSmwbVkJcdTOM) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 4:03 |
 | 24 | [Toro Mata \- Remastered 2024](https://open.spotify.com/track/07MGXxzTNfeJzZMn2OFhWX) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Celia & Johnny \(Remastered 2024\)](https://open.spotify.com/album/2Fim0ltdhy5696Nuo2yjY0) | 5:42 |
 | 25 | [El Yerberito Moderno](https://open.spotify.com/track/7cE2jC7gDbyaa3bUxN8bqe) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Grandes Damas](https://open.spotify.com/album/1Xop5Qv0c6W14tc728UVz8) | 2:43 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 44 | [Sazón](https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 4:49 |
 | 45 | [Tres Gotas De Agua Bendita \(feat\. Celia Cruz\)](https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma Caribeña](https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np) | 4:17 |
 | 46 | [Dos Jueyes](https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia y Willie](https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS) | 4:11 |
-| 47 | [Oye Cómo Va](https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Celia Cruz Centennial](https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1) | 4:32 |
+| 47 | [Cao Cao Maní Picao](https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:44 |
 | 48 | [Amores De Un Día](https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 3:50 |
-| 49 | [Cao Cao Maní Picao](https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:44 |
+| 49 | [Oye Cómo Va](https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Celia Cruz Centennial](https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1) | 4:32 |
 | 50 | [Sabor Gitano](https://open.spotify.com/track/6Pf8k23JUFjnLk6oBiv14o) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [En España](https://open.spotify.com/album/7L1kk0NoH0rJR7ucNhhet8) | 3:37 |
 
-Snapshot ID: `aa4NgAAAAADqc7Ee8bjEimKAOBWyeJ86`
+Snapshot ID: `aa9fAAAAAABsPOcldUzvChp+KwTqFizj`

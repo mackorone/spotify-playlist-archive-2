@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 
 > Revisit stand out songs from these singer/songwriters\. Cover: Ocie Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,204 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,227 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 60 | [Funtimes in Babylon](https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:39 |
 | 61 | [Shrike](https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 5:00 |
 | 62 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
-| 63 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
-| 64 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
-| 65 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
+| 63 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
+| 64 | [Half Your Love](https://open.spotify.com/track/0ut7f4KB9sZQ8uhA4HyOMt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 2:24 |
+| 65 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
 | 66 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 67 | [The Girl](https://open.spotify.com/track/1IFRVS4t1olI0XG9RBWdKH) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 6:00 |
 | 68 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PfO7FL9zWG.md) - [plain]
 | 85 | [Nightflyer](https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Nightflyer](https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx) | 4:55 |
 | 86 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 |
 | 87 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 |
-| 88 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
-| 89 | [Changes](https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:09 |
+| 88 | [Changes](https://open.spotify.com/track/76nW7HHrLWElA2t2zJMt1k) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:09 |
+| 89 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 90 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 |
 | 91 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
 | 92 | [Chance](https://open.spotify.com/track/25raxlYX65MJqdjoSKIPI0) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 2:59 |

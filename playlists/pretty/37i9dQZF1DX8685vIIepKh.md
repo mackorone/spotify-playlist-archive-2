@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,365 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,387 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 11 | [Give Me Everything \(feat\. Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 |
 | 12 | [Dracula \- JENNIE Remix](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(Remix\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 |
 | 13 | [A Sky Full of Stars](https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:27 |
-| 14 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
-| 15 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
-| 16 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
+| 14 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
+| 15 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
+| 16 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
 | 17 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
 | 18 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 |
 | 19 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 |

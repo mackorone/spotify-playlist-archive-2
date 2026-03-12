@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: villagerrr
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,921 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,900 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

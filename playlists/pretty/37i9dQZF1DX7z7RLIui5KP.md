@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Mejja
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,146 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,165 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 29 | [Sema](https://open.spotify.com/track/2CQiXfEnXCnBh6UJ7C1zbW) | [Feddy Njuki](https://open.spotify.com/artist/2GL69DSAxhHqWQu1Y5PXoJ), [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp), [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sema](https://open.spotify.com/album/3upNBRjHjnJwkdWdSggeko) | 3:25 |
 | 30 | [Za Mabuda](https://open.spotify.com/track/6OPKqbBsS6C0zyaotWUJzg) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Za Mabuda](https://open.spotify.com/album/4yEKWHb7dKVNlxsDMcEvOE) | 3:45 |
 | 31 | [Tumia Pesa](https://open.spotify.com/track/57Kt03TEDsK2nJFpaHwiPk) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Tumia Pesa](https://open.spotify.com/album/1rPfSxLe3cxPjH1M4dp4o0) | 3:40 |
-| 32 | [Tycoon](https://open.spotify.com/track/1qIHo7Sah6VXUIMVyHJP7x) | [Dj Mura K.E](https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Lucky Summer](https://open.spotify.com/album/65HMOA84FvDCbSQtegGN64) | 2:54 |
+| 32 | [Tycoon](https://open.spotify.com/track/1qIHo7Sah6VXUIMVyHJP7x) | [Mura](https://open.spotify.com/artist/1bpcn6wsTlAC2ntuOHksLd), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Lucky Summer](https://open.spotify.com/album/65HMOA84FvDCbSQtegGN64) | 2:54 |
 | 33 | [Jangili](https://open.spotify.com/track/1S5BW99fov7uDQ16QovO3P) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4) | [Jangili](https://open.spotify.com/album/1LEwMc3azLYHJOSmBvAwoX) | 2:59 |
 | 34 | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/track/2U3JPdRdWygADeO36alrJU) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/album/5EnhsYf7p2yFdhqd1ReGDG) | 3:29 |
 | 35 | [Slow Whine](https://open.spotify.com/track/7jr5QDAJqpaW9oDqwidSE8) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO) | [Slow Whine](https://open.spotify.com/album/6m13yXh8EChK75Na2JADN6) | 2:58 |

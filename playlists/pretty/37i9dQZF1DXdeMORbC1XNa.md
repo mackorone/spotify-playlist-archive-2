@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: MOLIY, bees & honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,983 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,979 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 43 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 |
 | 44 | [Superfuji\(GOBE\)](https://open.spotify.com/track/0WheF6yGnxE4gzGg8ScAji) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Superfuji\(GOBE\)](https://open.spotify.com/album/6jYbSh5ZJjAntvsKzQKA4O) | 3:52 |
 | 45 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 |
-| 46 | [Soyaiya](https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Soyaiya](https://open.spotify.com/album/455cwBlTEdol2whwOFRY5j) | 2:22 |
-| 47 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
+| 46 | [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 |
+| 47 | [Soyaiya](https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Soyaiya](https://open.spotify.com/album/455cwBlTEdol2whwOFRY5j) | 2:22 |
 | 48 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 49 | [RHUDE GYAL! \(with Darkoo\)](https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [RHUDE GYAL! \(with Darkoo\)](https://open.spotify.com/album/2xfL170E8laeFdFwBlpOrM) | 2:37 |
 | 50 | [Forever Grateful](https://open.spotify.com/track/4EPXfugV9mM66inwJIyLaU) | [Keznamdi](https://open.spotify.com/artist/0oVpcuCwyAiO2aKNGABC60), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [BLXXD & FYAH](https://open.spotify.com/album/1KXoW5EKVQs9YvvvyP3VRv) | 4:05 |

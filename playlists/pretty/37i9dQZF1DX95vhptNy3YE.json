@@ -1,6 +1,6 @@
 {
   "description": "Matchola, 2ZDinizz e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 444667,
+  "num_followers": 444652,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,34 @@
       "duration_ms": 219000,
       "name": "PENSANDO EM MIM",
       "url": "https://open.spotify.com/track/5irWao94uuCfkiMyttfFJ0"
+    },
+    {
+      "added_at": "2026-03-09 15:54:04",
+      "album": {
+        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Torelli",
+          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
+      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
       "added_at": "2026-03-09 15:54:04",
@@ -79,34 +107,6 @@
       "duration_ms": 548571,
       "name": "Semi Nua",
       "url": "https://open.spotify.com/track/4kqz2VSAmiLm06X90jmktL"
-    },
-    {
-      "added_at": "2026-03-09 15:54:04",
-      "album": {
-        "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-        "url": "https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Stick",
-          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Torelli",
-          "url": "https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "P.I.T.T.Y. (Parecendo Uma Cafetina)",
-      "url": "https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA"
     },
     {
       "added_at": "2026-03-09 15:54:04",
@@ -843,30 +843,6 @@
     {
       "added_at": "2026-03-09 15:54:04",
       "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 145749,
-      "name": "Rei da Noite",
-      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
-    },
-    {
-      "added_at": "2026-03-09 15:54:04",
-      "album": {
         "name": "SIX.",
         "url": "https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 152158,
       "name": "Number One",
       "url": "https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe"
+    },
+    {
+      "added_at": "2026-03-09 15:54:04",
+      "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 145749,
+      "name": "Rei da Noite",
+      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
     },
     {
       "added_at": "2026-03-09 15:54:04",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-03-09 15:54:04",
       "album": {
+        "name": "Pagodom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y"
+      },
+      "artists": [
+        {
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+        }
+      ],
+      "duration_ms": 257741,
+      "name": "Cabo de Guerra - Ao Vivo",
+      "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
+    },
+    {
+      "added_at": "2026-03-09 15:54:04",
+      "album": {
         "name": "Pra Decidir (Os Caras Da Rua)",
         "url": "https://open.spotify.com/album/1rfEA3P0h79oqpulZMK7KG"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 172906,
       "name": "Pra Decidir (Os Caras Da Rua)",
       "url": "https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU"
-    },
-    {
-      "added_at": "2026-03-09 15:54:04",
-      "album": {
-        "name": "Pagodom (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ffLAkkIY5Vh9qsZniuf1y"
-      },
-      "artists": [
-        {
-          "name": "Samba De Dom",
-          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
-        }
-      ],
-      "duration_ms": 257741,
-      "name": "Cabo de Guerra - Ao Vivo",
-      "url": "https://open.spotify.com/track/2XFdV3cyde4ontEM9VuBZr"
     },
     {
       "added_at": "2026-03-09 15:54:04",

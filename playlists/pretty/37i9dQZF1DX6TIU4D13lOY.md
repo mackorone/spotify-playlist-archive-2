@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,278 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,344 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 59 | [We Just Disagree](https://open.spotify.com/track/7qpuECko60EoztznowMWj1) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775) | [Super Hits](https://open.spotify.com/album/5sO231e431rq8r9mV1uFJH) | 3:00 |
 | 60 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
 | 61 | [He Got You](https://open.spotify.com/track/2Up5Gs5EJeAPeR3Ce5Aspi) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:31 |
-| 62 | [Fountain of Sorrow \- Remastered](https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Late for the Sky \(Remastered\)](https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP) | 6:52 |
-| 63 | [This Night Won't Last Forever](https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [Dialogue](https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK) | 4:01 |
+| 62 | [This Night Won't Last Forever](https://open.spotify.com/track/3u9g38eyqu5eJxU4Mhhzam) | [Michael Johnson](https://open.spotify.com/artist/2XKBOnP3qXHP2FpzKplAYh) | [Dialogue](https://open.spotify.com/album/1DxnK2IpTzpxiDWLZ1xNdK) | 4:01 |
+| 63 | [Fountain of Sorrow \- Remastered](https://open.spotify.com/track/2U2EMuFyUk5LYMPlMUpOxM) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Late for the Sky \(Remastered\)](https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP) | 6:52 |
 | 64 | [Oh Lori](https://open.spotify.com/track/2ySmDfSawPEwvjDOxUQvnq) | [Alessi Brothers](https://open.spotify.com/artist/0JxWz42OKiQ0V3KzA4mDF1) | [The Best Of The Alessi Brothers](https://open.spotify.com/album/1WABgS1g9NMV8cpwDS4aDY) | 3:19 |
 | 65 | [Shannon](https://open.spotify.com/track/4IYoyOVK9oQyJS1QZt5Vyj) | [Henry Gross](https://open.spotify.com/artist/3u2E9OhKS2vkxi08itc25a) | [Release](https://open.spotify.com/album/5KoWyVRECXH3IYrGuF4oza) | 3:53 |
 | 66 | [Burn Down The Mission](https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Tumbleweed Connection](https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY) | 6:22 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 74 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
 | 75 | [Sometimes When We Touch](https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH) | 4:12 |
 | 76 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
-| 77 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
-| 78 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
+| 77 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
+| 78 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 79 | [What Can I Say](https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 3:00 |
 | 80 | [How Sweet It Is \(To Be Loved by You\)](https://open.spotify.com/track/2RwFdFIN9JAyVUzevwkzez) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 3:34 |
 

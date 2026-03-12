@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechni si ženy z Česka a Slovenska na plný pecky! Playlist byl sestaven ve spolupráci s noyadou.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,651 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,674 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 59 | [Safe room](https://open.spotify.com/track/2vqjgK42BByjVTZ39QDfy1) | [Blanch](https://open.spotify.com/artist/58seNHnaqbR3JSxRVfmerT) | [Her in Me](https://open.spotify.com/album/2hKfi37WkO50GlPjYz2ccT) | 3:26 |
 | 60 | [Sorry](https://open.spotify.com/track/4O0dlJnPKQNRzh1J1pGpKg) | [Sima](https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH) | [Sorry](https://open.spotify.com/album/2k2k16L58tYruaaPUvcPJi) | 2:54 |
 
-Snapshot ID: `AAAAAMkOyvqDyLIu5lx50I6f7FQU2+Hk`
+Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`

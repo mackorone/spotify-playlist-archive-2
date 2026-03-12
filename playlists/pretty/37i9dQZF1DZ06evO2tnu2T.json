@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 1759,
+  "num_followers": 1765,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAACNVRAsf2ZShUTBcYdFnimA",
+  "snapshot_id": "aa9fAAAAAAA8fOvhbef/qqgkgJNgbhHX",
   "tracks": [
     {
       "added_at": null,
@@ -43,8 +43,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Just Don't Know You Yet (Live)",
-        "url": "https://open.spotify.com/album/2X6jiccyMdJbgEtEiZXWMk"
+        "name": "I Just Don't Know You Yet",
+        "url": "https://open.spotify.com/album/0JSsfoRhjngp8I9rXJnpUK"
       },
       "artists": [
         {
@@ -54,7 +54,7 @@
       ],
       "duration_ms": 201007,
       "name": "I Just Don't Know You Yet",
-      "url": "https://open.spotify.com/track/2kkBKBjHt4mCmgtx3FPCyH"
+      "url": "https://open.spotify.com/track/7GU1xgUhSHMjc32d9zuWtF"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Glitter",
-        "url": "https://open.spotify.com/album/0HlOCXeTk8T2gBUfexLOii"
-      },
-      "artists": [
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 234698,
-      "name": "Goodbye Glitter",
-      "url": "https://open.spotify.com/track/4y9dYCCC1oZ6s0OIKWoXqK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shades",
         "url": "https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS"
       },
@@ -263,6 +247,26 @@
       "duration_ms": 151500,
       "name": "Shades",
       "url": "https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sun Comes Up",
+        "url": "https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e"
     },
     {
       "added_at": null,
@@ -299,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sun Comes Up",
-        "url": "https://open.spotify.com/album/1oh3orrM3J4ADJhWgF0b8p"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 205453,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/4gVE5fxdvzAvV5l9DwOv1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eyes Up",
         "url": "https://open.spotify.com/album/5dvBx8aXzJjlJupOiOfRtD"
       },
@@ -339,6 +323,26 @@
       "duration_ms": 136812,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6k90i92oRrG0qosTBcLjjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 181699,
+      "name": "333",
+      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
     },
     {
       "added_at": null,
@@ -371,26 +375,6 @@
       "duration_ms": 191546,
       "name": "Helium",
       "url": "https://open.spotify.com/track/03R4JdLkkpGOoPcsc6YWEQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/7zP5gW9QuwC9nKTIPk2CjD"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 181699,
-      "name": "333",
-      "url": "https://open.spotify.com/track/0phc7JQXWEFd49VE0M81oR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,263 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,364 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 21 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 |
 | 22 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 |
 | 23 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 |
-| 24 | [God Went Crazy](https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:03 |
+| 24 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 |
 | 25 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 |
 | 26 | [Lose Control \- Piano Version](https://open.spotify.com/track/7b0fpuq2aRMB9RfcSOWjNW) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control \(Alt\. Versions\)](https://open.spotify.com/album/0wafgE8f3oztSY6jmbMzWL) | 3:26 |
 | 27 | [She Loves the Rain](https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:39 |
-| 28 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 |
+| 28 | [God Went Crazy](https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Complete Edition\)](https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT) | 3:03 |
 | 29 | [Goodbye's Been Good to You](https://open.spotify.com/track/2L6pMQRcT6aM0Lq5FycBke) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 2:44 |
 | 30 | [Til I Change Your Mind](https://open.spotify.com/track/0SBsdYSakN6BViHUPMzXwN) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:08 |
 | 31 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 49 | [Will It Find Me](https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:29 |
 | 50 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 
-Snapshot ID: `aa4NgAAAAACZ07VmE6+MxAhjHx8GbwCl`
+Snapshot ID: `aa9fAAAAAADwdnAjT0GUfmTgVGFxaDVC`

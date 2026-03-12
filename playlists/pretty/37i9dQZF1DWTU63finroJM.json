@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: wane",
-  "num_followers": 85047,
+  "num_followers": 85100,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
     },
     {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
-        "name": "WHY WHY WHY",
-        "url": "https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y"
-      },
-      "artists": [
-        {
-          "name": "Julia Po\u015bnik",
-          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
-        }
-      ],
-      "duration_ms": 163359,
-      "name": "WHY WHY WHY",
-      "url": "https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw"
-    },
-    {
       "added_at": "2026-02-20 14:23:08",
       "album": {
         "name": "Goodbye (If You Call That Gone)",
@@ -251,6 +235,22 @@
       "duration_ms": 216732,
       "name": "Last Man On Earth",
       "url": "https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "WHY WHY WHY",
+        "url": "https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "duration_ms": 163359,
+      "name": "WHY WHY WHY",
+      "url": "https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw"
     },
     {
       "added_at": "2026-02-13 14:00:26",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "Stack",
-        "url": "https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn"
-      },
-      "artists": [
-        {
-          "name": "Litty",
-          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
         "name": "man down",
         "url": "https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 128503,
       "name": "man down",
       "url": "https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG"
     },
     {
       "added_at": "2026-02-13 14:00:26",

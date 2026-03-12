@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,278 songs - 3 day 6 hr 23 min
+1,280 songs - 3 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,6 +798,7 @@
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-10 |  |
 | [Open Your Mind](https://open.spotify.com/track/08i5E2CDwete5FX049Zwgg) | [Kleeer](https://open.spotify.com/artist/0zaWqD1H9Rk0P14iF5oDnY) | [Winners](https://open.spotify.com/album/3b9lzzttYCMeYVABWkDxOl) | 6:38 | 2024-03-24 |  |
 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 | 2026-01-22 |  |
+| [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/5l4Gq3UC0dHKSExIf5xD9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/0mXlX2CMj27TPRz10v556x) | 3:28 | 2026-03-11 |  |
 | [Orange Juice Jones](https://open.spotify.com/track/6kRjMNfcKqzZIM46JiIEgZ) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:21 | 2023-03-24 |  |
 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2024-10-20 |  |
 | [Our 25th Birthday](https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 5:07 | 2023-07-17 | 2025-09-17 |
@@ -1111,6 +1112,7 @@
 | [The Meeting Place](https://open.spotify.com/track/0RwXCC1iiZEfoKCtuGhrHS) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 3:57 | 2020-02-03 |  |
 | [the memories we lost in translation](https://open.spotify.com/track/1b429FwlKvnGFRIhSRn8XO) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [I Didn't Mean To Haunt You](https://open.spotify.com/album/3c0NHNo2Gn0X7uARad3hGv) | 1:42 | 2022-11-11 |  |
 | [The Moment](https://open.spotify.com/track/1UYj8qTWjneZJDVjUMwMub) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:15 | 2021-09-12 |  |
+| [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 | 2026-03-11 |  |
 | [The Mothership](https://open.spotify.com/track/3mca7Gxz4Z5q8AaqEUYCIG) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Mothership](https://open.spotify.com/album/4kqtOlhjNbmbtfsq6O7wip) | 3:09 | 2025-04-11 |  |
 | [The Narcissist](https://open.spotify.com/track/2TNyNqT3RBXhtNV7OiAgiC) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:05 | 2023-07-23 |  |
 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 | 2023-02-15 |  |

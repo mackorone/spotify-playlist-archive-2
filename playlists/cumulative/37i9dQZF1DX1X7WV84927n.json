@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 200558,
       "name": "Anywhere But Here",
       "url": "https://open.spotify.com/track/59zuxuMunHtFDKYPq1EtR0"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 161504,
       "name": "Bomb To A Knife Fight",
       "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
@@ -3570,6 +3570,24 @@
       "duration_ms": 195910,
       "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/4Ejf3NzTDbWdRGdjDq3KG4"
+    },
+    {
+      "album": {
+        "name": "Can I Get A",
+        "url": "https://open.spotify.com/album/2Eqf4ijMQbWEw16hp8vGJt"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223484,
+      "name": "Can I Get A",
+      "url": "https://open.spotify.com/track/12u8LK8Sb3mY4rVxTtUCZf"
     },
     {
       "album": {
@@ -18762,7 +18780,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 254446,
       "name": "Pullin' Teeth (feat. Kevin Rheault)",
       "url": "https://open.spotify.com/track/4u0XMPi5gVGcmzbifUwUh8"

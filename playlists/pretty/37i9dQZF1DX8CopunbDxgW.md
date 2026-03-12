@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > joshua idehen's new album has us beaming 🧡 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,627 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,586 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Our Home](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Mydnight](https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe) | 3:33 |
 | 100 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 
-Snapshot ID: `AAAAAM9JMeufNZ64VCy8LGuaBEJWFQle`
+Snapshot ID: `AAAAAKJ6OrYnap/PGxpAUWJJli6WLr3k`

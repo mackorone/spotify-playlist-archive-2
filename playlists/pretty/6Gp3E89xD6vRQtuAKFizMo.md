@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 43,520 likes - 146 songs - 6 hr 46 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 43,519 likes - 146 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

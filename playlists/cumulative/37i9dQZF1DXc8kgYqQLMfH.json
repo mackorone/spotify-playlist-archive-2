@@ -7827,6 +7827,24 @@
     },
     {
       "album": {
+        "name": "Folded Rhythm",
+        "url": "https://open.spotify.com/album/0s2MKyjmIwBY8OKH9T9AM9"
+      },
+      "artists": [
+        {
+          "name": "weightless minutes",
+          "url": "https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110438,
+      "name": "Folded Rhythm",
+      "url": "https://open.spotify.com/track/7vvBoOT2L8QrXB5LY1beo1"
+    },
+    {
+      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/3nf6Yp27qmRCzusFEEgChh"
       },
@@ -17098,7 +17116,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 120436,
       "name": "Porch",
       "url": "https://open.spotify.com/track/1lnVbqyBZvQkVSac8AEdzA"
@@ -18298,7 +18316,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 144000,
       "name": "Sapphire Skies",
       "url": "https://open.spotify.com/track/7F3QuxLWUqRc09YQdaLqFH"
@@ -24260,6 +24278,24 @@
       "duration_ms": 140127,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/6ANnNFLIzVkJsabPH1CiNa"
+    },
+    {
+      "album": {
+        "name": "Where the Light Rests",
+        "url": "https://open.spotify.com/album/23cJFMZBT8OzAgv0PXuBMp"
+      },
+      "artists": [
+        {
+          "name": "Pale Fiction",
+          "url": "https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128812,
+      "name": "Where the Light Rests",
+      "url": "https://open.spotify.com/track/5mGFAkKKMqfjRAU3hkHMSC"
     },
     {
       "album": {

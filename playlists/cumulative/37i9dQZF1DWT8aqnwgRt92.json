@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 252027,
       "name": "Blue Noise",
       "url": "https://open.spotify.com/track/4eZoG6oPWtgQSTq2WO2tfB"
@@ -11456,7 +11456,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 241440,
       "name": "KachiDOKI",
       "url": "https://open.spotify.com/track/0AYzHE6EK8qlUzJe5c0cV1"
@@ -15098,6 +15098,24 @@
       "duration_ms": 235773,
       "name": "Mortal With You",
       "url": "https://open.spotify.com/track/34XLcOAQBpe5sEJXXg7HzO"
+    },
+    {
+      "album": {
+        "name": "Mountain Top",
+        "url": "https://open.spotify.com/album/5AsGzzgbONQXNHwx8C8SA8"
+      },
+      "artists": [
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188885,
+      "name": "Mountain Top",
+      "url": "https://open.spotify.com/track/2tr9sMMnxzgqn8Nx7ccP8U"
     },
     {
       "album": {
@@ -24448,7 +24466,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 213733,
       "name": "Unchain My Heart",
       "url": "https://open.spotify.com/track/5jTGd5IrklxcK5cLBe6b4R"

@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1539166,
+  "num_followers": 1539464,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 262306,
       "name": "No One's Watching Me (feat. Olivia Dean)",
       "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax (Come Fighting)",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 301373,
       "name": "Digital Love",
       "url": "https://open.spotify.com/track/2VEZx7NWsZ1D0eJ4uv5Fym"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax (Come Fighting)",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
-      },
-      "artists": [
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Curyman",
         "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Flower of the soul",
-        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
       "artists": [
         {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
         }
       ],
-      "duration_ms": 168218,
-      "name": "Orange-coloured day",
-      "url": "https://open.spotify.com/track/7cIzH5nBtAMGX7woHj0ubJ"
+      "duration_ms": 147413,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -1503,6 +1487,22 @@
       "duration_ms": 207037,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 168218,
+      "name": "Orange-coloured day",
+      "url": "https://open.spotify.com/track/7cIzH5nBtAMGX7woHj0ubJ"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Tako Tsubo (Extended)",
-        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 232178,
-      "name": "Anomalie bleue",
-      "url": "https://open.spotify.com/track/4nw3uDxUEebT3TRFVHAR0d"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Two Dancers",
         "url": "https://open.spotify.com/album/3bpCJ1p0WG3XmIybQi8EJb"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 239546,
       "name": "All The King's Men",
       "url": "https://open.spotify.com/track/6jq0hKfSVxep970p2kGRZA"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Tako Tsubo (Extended)",
+        "url": "https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 232178,
+      "name": "Anomalie bleue",
+      "url": "https://open.spotify.com/track/4nw3uDxUEebT3TRFVHAR0d"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Days of Thunder",
-        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 389094,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Abattoir Blues / The Lyre of Orpheus",
         "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
       },
@@ -3019,6 +3003,22 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
+        "name": "Days of Thunder",
+        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 389094,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
         "name": "Supernature",
         "url": "https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f"
       },
@@ -3031,6 +3031,22 @@
       "duration_ms": 204373,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "In Your Room",
+        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Situation - 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -3067,18 +3083,18 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw"
       },
       "artists": [
         {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
         }
       ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+      "duration_ms": 257737,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7DqTaelFf846rl1CHmyfOW"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -3099,18 +3115,34 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "In Your Room",
-        "url": "https://open.spotify.com/album/5YlCHiZn44igfoWNFjP48v"
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
       },
       "artists": [
         {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
         }
       ],
-      "duration_ms": 144133,
-      "name": "Situation - 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/0Az5nx6qYZ2n54rh1sgvcB"
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "Sheer Heart Attack (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2mEAmmRoZrvhBh1Vic03fZ"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/1CnN9udhDokm7lARZjMji2"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -3131,22 +3163,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 257737,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7DqTaelFf846rl1CHmyfOW"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -3159,22 +3175,6 @@
       "duration_ms": 315640,
       "name": "Lowdown",
       "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
-        "name": "Sheer Heart Attack (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2mEAmmRoZrvhBh1Vic03fZ"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/1CnN9udhDokm7lARZjMji2"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -3231,6 +3231,22 @@
       "duration_ms": 413947,
       "name": "Time - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/23W5DHu31ZLW9q0p2wQxfN"
+    },
+    {
+      "added_at": "2026-01-20 09:25:56",
+      "album": {
+        "name": "The Seeds Of Love (Remastered with bonus tracks)",
+        "url": "https://open.spotify.com/album/79XgUw5U86BeIiMnZ4Rrht"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 512826,
+      "name": "Bad Man's Song",
+      "url": "https://open.spotify.com/track/1UNbomPtEUsAAT7hIgV989"
     },
     {
       "added_at": "2026-01-20 09:25:56",
@@ -3299,22 +3315,6 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "The Seeds Of Love (Remastered with bonus tracks)",
-        "url": "https://open.spotify.com/album/79XgUw5U86BeIiMnZ4Rrht"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 512826,
-      "name": "Bad Man's Song",
-      "url": "https://open.spotify.com/track/1UNbomPtEUsAAT7hIgV989"
-    },
-    {
-      "added_at": "2026-01-20 09:25:56",
-      "album": {
         "name": "Aja",
         "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
       },
@@ -3379,22 +3379,18 @@
     {
       "added_at": "2026-01-20 09:25:56",
       "album": {
-        "name": "Texas Sun",
-        "url": "https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd"
+        "name": "Brothers In Arms (Remastered)",
+        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 252811,
-      "name": "Texas Sun",
-      "url": "https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh"
+      "duration_ms": 308800,
+      "name": "So Far Away - Full Version",
+      "url": "https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF"
     }
   ],
   "unique_name": "Songs to Test Speakers With",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,912 songs - 4 day 18 hr 25 min
+1,913 songs - 4 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Empty Echoes](https://open.spotify.com/track/6TYpfgqFKYjAfcto0cFsVO) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Empty Echoes](https://open.spotify.com/album/6Wb2yT3In6O036xnY5Cmi5) | 2:12 | 2025-08-26 |  |
 | [Empty pages](https://open.spotify.com/track/21UOuzfRmxNVUr5Jq5FDKh) | [Taboout](https://open.spotify.com/artist/3TtYIdQNhUPpFoobB9X6FD) | [Lost my ears](https://open.spotify.com/album/7LphVGdXnt8EjdE17BMzAF) | 4:43 | 2025-12-29 |  |
 | [Empty Throne](https://open.spotify.com/track/3UEk3j2pMcEqZylMLU02CY) | [J&J vocals](https://open.spotify.com/artist/6uHI6VGdtHbXFWY5STBSSr) | [Empty Throne](https://open.spotify.com/album/7DiX78iL5AVcU05Cos49A2) | 2:49 | 2025-06-23 |  |
+| [En Las Buenas y en las malas](https://open.spotify.com/track/3LqXn1KRXCLQcXQuC2oj21) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [En Las Buenas y en las malas](https://open.spotify.com/album/0wviHdHw9IDyv8PR9PSWQv) | 2:52 | 2026-03-11 |  |
 | [Endless Summer](https://open.spotify.com/track/21uZSg6TxNJHpbCO1ciDKY) | [Bruno S](https://open.spotify.com/artist/4c5rMVTHu7llZIxlX0OfVK) | [Endless Summer](https://open.spotify.com/album/3NvGRhHHSZBtCqEkdSBvYm) | 4:53 | 2025-05-30 |  |
 | [Energy](https://open.spotify.com/track/61IRHgTF3YRfeTSfvFtXWd) | [Radio\-Activity](https://open.spotify.com/artist/4xGqrEzme9UDHKeX4r7xbq) | [Energy](https://open.spotify.com/album/3cCoFwt1OBAudWSENtZtcB) | 8:57 | 2024-06-21 |  |
 | [Enigmas](https://open.spotify.com/track/2Wya6iAvu5GmToZh9xioDY) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:26 | 2025-12-28 |  |

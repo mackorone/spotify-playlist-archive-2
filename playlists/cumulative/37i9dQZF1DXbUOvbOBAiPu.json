@@ -69548,12 +69548,12 @@
           "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
         },
         {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        },
-        {
           "name": "Bartofso",
           "url": "https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
         }
       ],
       "date_added": "2026-03-05",
@@ -142584,6 +142584,24 @@
       "duration_ms": 217413,
       "name": "Terwijl Je Voor Me Stond",
       "url": "https://open.spotify.com/track/0dZP31liofOrl8VTrfbsqv"
+    },
+    {
+      "album": {
+        "name": "Tes yeux",
+        "url": "https://open.spotify.com/album/2e7oEqkFUprlaBjtw6LC6l"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179373,
+      "name": "Tes yeux",
+      "url": "https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH"
     },
     {
       "album": {

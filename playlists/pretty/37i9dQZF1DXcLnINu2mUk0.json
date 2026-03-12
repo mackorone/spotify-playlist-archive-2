@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Deejay Telio",
-  "num_followers": 53521,
+  "num_followers": 53523,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Bairrista de Luxo",
-        "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
-      },
-      "artists": [
-        {
-          "name": "bapcat",
-          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
-        },
-        {
-          "name": "Joint One",
-          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
-        }
-      ],
-      "duration_ms": 135804,
-      "name": "Bairrista de Luxo",
-      "url": "https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Bairrista de Luxo",
+        "url": "https://open.spotify.com/album/1Pu5zlwPj47xao8R3EYydN"
+      },
+      "artists": [
+        {
+          "name": "bapcat",
+          "url": "https://open.spotify.com/artist/02Qg3L9GCPXeVQFxZ1b4ou"
+        },
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        }
+      ],
+      "duration_ms": 135804,
+      "name": "Bairrista de Luxo",
+      "url": "https://open.spotify.com/track/1bR7HU0o2tgFcHUZsgqQ0t"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
+        "name": "Em sonhos, \u00e9 sabido, n\u00e3o se morre",
+        "url": "https://open.spotify.com/album/2NZU0zaTEGiGwogFqXHhaN"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Dividir",
+      "url": "https://open.spotify.com/track/51Z2lRWJOCisUTP3z9AiNq"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 198409,
       "name": "Animal",
       "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
-        "name": "Em sonhos, \u00e9 sabido, n\u00e3o se morre",
-        "url": "https://open.spotify.com/album/2NZU0zaTEGiGwogFqXHhaN"
-      },
-      "artists": [
-        {
-          "name": "xtinto",
-          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Dividir",
-      "url": "https://open.spotify.com/track/51Z2lRWJOCisUTP3z9AiNq"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Amar De Cor",
-        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
+        "name": "Pequenos Gigantes",
+        "url": "https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3"
       },
       "artists": [
         {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Amar De Cor",
-      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
+      "duration_ms": 164000,
+      "name": "Quem Tem O Teu <3",
+      "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Pequenos Gigantes",
-        "url": "https://open.spotify.com/album/4LtlaMrX1rb0KkAir2DUH3"
+        "name": "Amar De Cor",
+        "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
       "artists": [
         {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Quem Tem O Teu <3",
-      "url": "https://open.spotify.com/track/43ncSBC0ZlkmPJqB8nfoZP"
+      "duration_ms": 165333,
+      "name": "Amar De Cor",
+      "url": "https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "23:40",
-      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Ber\u00e7o de Ouro",
         "url": "https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 229661,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "23:40",
+      "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
     }
   ],
   "unique_name": "Seda",

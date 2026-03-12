@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,454 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,584 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 47 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 48 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 49 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/5eUpUFdFaAeovPau6lQkqK) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 2:51 |
-| 50 | [Even If It Breaks Your Heart](https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:40 |
-| 51 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 |
+| 50 | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/track/73KAidtqbDftZjy8AD0H04) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [High Road \(feat\. Jessie Murph\)](https://open.spotify.com/album/62NSHNGNQC2hXZKNuvF6pi) | 2:59 |
+| 51 | [Even If It Breaks Your Heart](https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:40 |
 | 52 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 53 | [I Like The Sound Of That](https://open.spotify.com/track/5S5rw0WLVCAux5B5bWCehK) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:29 |
 | 54 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 58 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 |
 | 59 | [Take It From Me](https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:54 |
 | 60 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
-| 61 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
-| 62 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
+| 61 | [Honey Bee](https://open.spotify.com/track/0gY2iq0xJPRoIB1PScKSw4) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:30 |
+| 62 | [Wide Open Spaces](https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:43 |
 | 63 | [Anything Goes](https://open.spotify.com/track/46ZfPS5VpSQVU5gb82hg3K) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:38 |
 | 64 | [DEVIL YOU KNOW](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [DEVIL YOU KNOW](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 |
 | 65 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 85 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:09 |
 | 86 | [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 |
 | 87 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:15 |
-| 88 | [Don't It](https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:09 |
-| 89 | [Down On The Farm](https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 2:58 |
+| 88 | [Down On The Farm](https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Not A Moment Too Soon](https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc) | 2:58 |
+| 89 | [Don't It](https://open.spotify.com/track/4iLPK8QnOvqm0Azbsk2GDn) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:09 |
 | 90 | [Get Your Shine On](https://open.spotify.com/track/6s9ICeczYOfbHHIaSMq9jd) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:42 |
 | 91 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 |
 | 92 | [Don't Ya](https://open.spotify.com/track/3Qe097eJNp9MfpT2PieEw0) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Bring You Back](https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT) | 3:01 |

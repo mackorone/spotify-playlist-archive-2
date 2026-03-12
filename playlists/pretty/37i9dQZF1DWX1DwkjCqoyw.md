@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,977 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,012 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 36 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 |
 | 37 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
 | 38 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
-| 39 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 |
-| 40 | [Out Of This World](https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Out Of This World](https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or) | 2:56 |
-| 41 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
+| 39 | [Out Of This World](https://open.spotify.com/track/63a1huPGwNTMBXIkpIjr8X) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Out Of This World](https://open.spotify.com/album/5p2GDQbQredqK1R8jv89Or) | 2:56 |
+| 40 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
+| 41 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 |
 | 42 | [London](https://open.spotify.com/track/69GzHJZKbGZnYaEpHYaC4n) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [London](https://open.spotify.com/album/616VWAHOKzHETulvW0RJNA) | 2:31 |
 | 43 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 |
 | 44 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |

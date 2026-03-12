@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-274 songs - 17 hr 15 min
+277 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 | 2024-01-31 |  |
 | [a sad invitation](https://open.spotify.com/track/5LvFaKs1QN2nR65h4tJN4R) | [YOON JI HWAN](https://open.spotify.com/artist/6zWAOib8XIaq1ttDw7u2j4) | [a sad invitation](https://open.spotify.com/album/3Miicdgx3CUIAfLiMUja2F) | 4:06 | 2024-08-10 | 2025-01-21 |
 | [A Story I Never Told You](https://open.spotify.com/track/5nZ8BMC3OCcEBX5pnGoKdR) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [IDOL I Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/3tmCsno1QcwKCEEpzLOP2i) | 3:57 | 2026-01-13 | 2026-02-06 |
+| [A Trace of Us](https://open.spotify.com/track/7IzG2H3oVCeOdgQnLc93mY) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [Traces of Love](https://open.spotify.com/album/6yMQf9EAJBzgTjWMi8KdRt) | 4:17 | 2026-03-12 |  |
 | [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-11-03 | 2024-03-21 |
 | [About Time](https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 3:35 | 2024-05-09 |  |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2023-11-03 | 2025-04-17 |
@@ -57,7 +58,7 @@
 | [Countdown to Three like a Habit](https://open.spotify.com/track/6EbVa7DkMT0Uy7zs3Hj9lQ) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Countdown to Three like a Habit : Wish+ Ep\. 02](https://open.spotify.com/album/1b0vlTAlYnDzKYDPPKxyt5) | 5:48 | 2026-02-05 | 2026-02-14 |
 | [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-04-03 | 2025-04-17 |
 | [COVID\-19 \(feat\. SUPERBEE\)](https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [COVID\-19](https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5) | 3:16 | 2023-11-03 |  |
-| [Crazy Love Song](https://open.spotify.com/track/5WaEGsWNjzDc50VYN8NkjA) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Crazy Love Song](https://open.spotify.com/album/6IwHj5oL5ZwHiCcYiVP2Fn) | 4:17 | 2026-02-26 |  |
+| [Crazy Love Song](https://open.spotify.com/track/5WaEGsWNjzDc50VYN8NkjA) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Crazy Love Song](https://open.spotify.com/album/6IwHj5oL5ZwHiCcYiVP2Fn) | 4:17 | 2026-02-26 | 2026-03-12 |
 | [Crush on you](https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Crush on you](https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw) | 2:55 | 2023-11-03 | 2023-12-17 |
 | [Ctrl](https://open.spotify.com/track/3BxWRi8BjQquBqW6zbpQxJ) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:22 | 2024-12-10 | 2025-04-17 |
 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 | 2024-03-05 |  |
@@ -77,6 +78,7 @@
 | [Emergency Room](https://open.spotify.com/track/1oeHVF6CDlC4dXrYtYhsG7) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Emergency Room](https://open.spotify.com/album/1l5PtAZAZpzOiDx58tHE6R) | 3:38 | 2025-10-14 | 2025-11-16 |
 | [End of a Day, You](https://open.spotify.com/track/7Duak2HtivO27BYZwtySxh) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day, You \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/2q9PZG2z894mvnAMSzYdik) | 4:31 | 2025-09-08 | 2025-09-25 |
 | [Endless Rain](https://open.spotify.com/track/4YcPfv5Wef00nAkjLk3gy2) | [LEE BORAM](https://open.spotify.com/artist/6SFvlarNwNCJVr7p5ZHPp3) | [IONY : Project \#01](https://open.spotify.com/album/1bDv2zeRqSgKRqXZCK8w6I) | 3:26 | 2025-06-26 | 2025-07-10 |
+| [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-12 |  |
 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 | 2026-01-13 |  |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2023-11-03 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2024-08-10 |  |
@@ -276,11 +278,12 @@
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2023-11-03 |  |
 | [다신 볼 수 없는 내 사랑](https://open.spotify.com/track/46uG4MQDfAbsKi6Exh9zy5) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [HEE'story](https://open.spotify.com/album/7njjoAr4wE9vNrV62SzM6v) | 3:57 | 2025-09-24 | 2025-10-20 |
 | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/track/5pjvvATx7UKmp2k7Vh5y7j) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [미래의 너에게 고마워 \(Thank you, future you.\)](https://open.spotify.com/album/4O9mh9UvVDrl2PCA1V6QEL) | 5:00 | 2025-06-26 | 2025-07-10 |
-| [사랑했고 사랑했고 사랑했다](https://open.spotify.com/track/3fIjMrLEe4R0CeOGj1BNqJ) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [사랑했고 사랑했고 사랑했다](https://open.spotify.com/album/3oZ2xjTHAJ1FWtWKEDw2kb) | 4:12 | 2026-02-26 |  |
+| [사랑했고 사랑했고 사랑했다](https://open.spotify.com/track/3fIjMrLEe4R0CeOGj1BNqJ) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [사랑했고 사랑했고 사랑했다](https://open.spotify.com/album/3oZ2xjTHAJ1FWtWKEDw2kb) | 4:12 | 2026-02-26 | 2026-03-12 |
 | [사랑했지만](https://open.spotify.com/track/53pfvWjnZVSLgp97QjsBPm) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [7th X 독수리 5형제를 부탁해!](https://open.spotify.com/album/1aURZoBC382M0jpiQQ34KH) | 4:45 | 2025-06-26 | 2025-07-10 |
 | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 | 2025-02-10 |  |
+| [아마도 이건 나의 사랑의 시작인가봐 \(Maybe this is the beginning of my love\)](https://open.spotify.com/track/0sRTjEwAUWcVqix5ZLmYQu) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [우리는 매일매일 OST Part.1 \- 아마도 이건 나의 사랑의 시작인가봐 \(Before We Knew OST Part.1 \- Maybe this is the beginning of my love\)](https://open.spotify.com/album/43NAqdxUiPf5sPpIcArWv4) | 3:40 | 2026-03-12 |  |
 | [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/track/5oP2tE2hxVVCtzebqIAvE1) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [잊다, 잇다 \(Forget, Connect\)](https://open.spotify.com/album/5VXMYdA5bEgCZQr88x5occ) | 4:07 | 2025-07-24 | 2025-08-20 |
 | [잘 지내자, 우리](https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [잘 지내자, 우리](https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg) | 4:16 | 2023-11-03 |  |
-| [한마디](https://open.spotify.com/track/6j5fAwwQ0uKCYeIY42vDgU) | [Ahn Yeseul](https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl) | [한마디](https://open.spotify.com/album/6KFf9BmY8utP22He3lFMPZ) | 3:30 | 2026-03-05 |  |
+| [한마디](https://open.spotify.com/track/6j5fAwwQ0uKCYeIY42vDgU) | [Ahn Yeseul](https://open.spotify.com/artist/4gcwTPPRhA3OPYI95ehTtl) | [한마디](https://open.spotify.com/album/6KFf9BmY8utP22He3lFMPZ) | 3:30 | 2026-03-05 | 2026-03-12 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

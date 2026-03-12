@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Saranggola Society
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,050 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,067 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 4 | [Diskoberi](https://open.spotify.com/track/0bfDUjgYbmW5IcJs17ckI5) | [Plume](https://open.spotify.com/artist/666ekgxxGiZCImY6lwlOmk) | [Diskoberi](https://open.spotify.com/album/31mgFZkhpF1OGFiUMGNfZY) | 3:30 |
 | 5 | [Ngiti](https://open.spotify.com/track/2oGgabaCuVFA1WFiNDPdTf) | [Carren Eistrup](https://open.spotify.com/artist/4djvt3xWK9dfkga6FXAxvp) | [Ngiti](https://open.spotify.com/album/6hYz2zAcrW3oVHbWBydYhY) | 3:19 |
 | 6 | [Buddleia](https://open.spotify.com/track/4KuXTry2FY8jMaXfHSwP9v) | [Drew](https://open.spotify.com/artist/2DJfC9Qn2XrtnWaRymEzgt) | [Buddleia](https://open.spotify.com/album/1nEDx8G21gtQPeuCGZlEtI) | 1:57 |
-| 7 | [SAKAMA](https://open.spotify.com/track/07VJnsyG58C3Mp6BTWF8LA) | [Young Glyde](https://open.spotify.com/artist/5DgDJuSd3otI5br3KGgHQh) | [SAKAMA](https://open.spotify.com/album/2RNBDiiOoy9Jd0o7S5Ce1y) | 2:28 |
+| 7 | [SAKAMA](https://open.spotify.com/track/07VJnsyG58C3Mp6BTWF8LA) | [Young Glyde](https://open.spotify.com/artist/2zBy5D4Qf3nQy772Ss8iFb) | [SAKAMA](https://open.spotify.com/album/2RNBDiiOoy9Jd0o7S5Ce1y) | 2:28 |
 | 8 | [My Love](https://open.spotify.com/track/5XautRhQSsfwFcgEat5Drm) | [HARA](https://open.spotify.com/artist/5mhbdpnv4NGarpDqub8Soj) | [My Love](https://open.spotify.com/album/1wvcSVc6PHn2Xs3BPb63Ix) | 2:54 |
 | 9 | [BINGO](https://open.spotify.com/track/2n3P3pTCyorXGt6IsU1EhE) | [DNA](https://open.spotify.com/artist/7Dc4Yi5oP816VMoEaUTGLH) | [BINGO](https://open.spotify.com/album/0Gvaa576Zh13JrIJicfRIC) | 2:52 |
 | 10 | [KIMA](https://open.spotify.com/track/4EgOq3urtn5ymm9nkHLS1c) | [Jana Garcia](https://open.spotify.com/artist/2M4mQMnLHQQXsFsRmTTqsR) | [KIMA](https://open.spotify.com/album/17HXJts6l5wf43YpxzQDft) | 3:40 |

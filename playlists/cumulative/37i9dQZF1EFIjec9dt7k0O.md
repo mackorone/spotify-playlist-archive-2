@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-278 songs - 16 hr 27 min
+279 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Spend It All On You \- Petey Remix](https://open.spotify.com/track/3T8TQkRBBysvPFoCuXd368) | [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB) | [The Controversy](https://open.spotify.com/album/3QougXZ74JSVSAXC4XHkJE) | 2:37 | 2025-04-10 | 2025-04-12 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2025-04-10 |  |
 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 | 2025-04-10 |  |
+| [Starstruck](https://open.spotify.com/track/5Fw7yraHVaSBqXjB0EL8J5) | [ak47](https://open.spotify.com/artist/4BYkUFkq0giCcrS9GHs2hl) | [Starstruck](https://open.spotify.com/album/6qZVGtjFKLoiAB6kZvkLSQ) | 4:25 | 2026-03-11 |  |
 | [Stay](https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:24 | 2025-04-10 | 2025-04-12 |
 | [Stolen Car](https://open.spotify.com/track/7oZ9ZOd0baM352GNmcTr13) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 5:37 | 2025-04-10 |  |
 | [Straight to Hell](https://open.spotify.com/track/1mbPPfppc4tbxyvSRpgPrY) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Ordinary Man](https://open.spotify.com/album/2x2cG56QicVfymWnRF0Nmj) | 3:45 | 2025-04-10 |  |

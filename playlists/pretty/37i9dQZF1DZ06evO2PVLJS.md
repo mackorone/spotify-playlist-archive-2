@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,764 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,827 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 26 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
 | 27 | [Tu Camino y el Mío](https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:57 |
 | 28 | [Con un Mismo Corazón \(with Vicente Fernández\)](https://open.spotify.com/track/6t0DlWn7pzC1ByYcRlWQhG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Con Un Mismo Corazon](https://open.spotify.com/album/40hluezOWA4jSt7E0PePHT) | 3:40 |
-| 29 | [Ya Me Voy para Siempre](https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:23 |
+| 29 | [Si Te Vas No Hay Lio](https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 2:12 |
 | 30 | [Si Acaso Vuelves](https://open.spotify.com/track/6ECHNv4bPnAiaquIPGt8es) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:03 |
-| 31 | [Si Te Vas No Hay Lio](https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 2:12 |
+| 31 | [Ya Me Voy para Siempre](https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:23 |
 | 32 | [Cruz de Olvido](https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Muerte De Un Gallero](https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w) | 3:22 |
 | 33 | [Le Pese a Quien Le Pese](https://open.spotify.com/track/3mf2WfT8APUuwEGBh7w1ht) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:11 |
 | 34 | [Los Mandados](https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [El Arracadas](https://open.spotify.com/track/23RNaVmsNrlRAe42wR5NkB) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:06 |
 | 50 | [Ella](https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:34 |
 
-Snapshot ID: `aa4NgAAAAACGx4gj2hC5we/acHqIceNi`
+Snapshot ID: `aa9fAAAAAACGtLbAYUPioYDvm5yv4H6a`

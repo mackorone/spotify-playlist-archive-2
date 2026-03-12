@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,944 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,989 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 30 | [La Fiesta De Los Perrones](https://open.spotify.com/track/4oIlAgK0cZd04s20bkhuXA) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 3:45 |
 | 31 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
 | 32 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 |
-| 33 | [Amores Fingidos](https://open.spotify.com/track/0wW9b7PRLE7JruS2QOdq92) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:57 |
-| 34 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
+| 33 | [La Mesera](https://open.spotify.com/track/2QWPE9utfwQQdUc7YlLmiY) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [El Hijo Del Viejo](https://open.spotify.com/album/7twG1hwEyyfh4EAnH0FaLP) | 3:22 |
+| 34 | [Amores Fingidos](https://open.spotify.com/track/0wW9b7PRLE7JruS2QOdq92) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:57 |
 | 35 | [Contrabando En Los Huevos](https://open.spotify.com/track/5iYutlcpa7KXRj9Hpx4Ecr) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Contrabando En Los Huevos](https://open.spotify.com/album/238VfD3ENCWjwSzU1NcGJM) | 4:31 |
 | 36 | [Comandos Del M.P \(500 Balazos\)](https://open.spotify.com/track/2vtB7ASUDlJkTB7sn1yugu) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Con La Nueva Federación](https://open.spotify.com/album/1MsMQsAojpvdsE6wGtboSa) | 2:19 |
 | 37 | [La Caspa Del Diablo](https://open.spotify.com/track/2n4F4KH34FujRuaNmFILv7) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag), [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Caspa Del Diablo\-Corridos A Toda Ley](https://open.spotify.com/album/5HDXSSCgm7nJ3bso2d8xWD) | 2:36 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 74 | [la carga blanca](https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [CORRIDOS DE CONTRABANDO \(Remastered\)](https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s) | 3:18 |
 | 75 | [El árbol de la horca](https://open.spotify.com/track/2ZN3h7KZgmjF7AMgTL6miJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Corridos bien Pesados para la Bohemia](https://open.spotify.com/album/3nG2ti1HDXSb8ANhXSaupS) | 3:47 |
 | 76 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |
-| 77 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 |
-| 78 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
+| 77 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 |
+| 78 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 |
 | 79 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 |
 | 80 | [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 |
 | 81 | [Un Cruzado en Palestina](https://open.spotify.com/track/3HWKUvYb8H47YIKOghzPcR) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 3](https://open.spotify.com/album/3V5dyQJDa6oQTZzeRf6eNL) | 5:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,122 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,126 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,25 +31,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 21 | [Nice To Meet You](https://open.spotify.com/track/3QE2dgRy5O1LyT2MDmgIz0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 2:55 |
 | 22 | [Abracadabra](https://open.spotify.com/track/21gVYvTHXcZWKgxvMmC0FG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:28 |
 | 23 | [Beautiful Things](https://open.spotify.com/track/4uRhvzGgVOTUNC2j5uZ4tG) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:00 |
-| 24 | [I'm Good \(Blue\)](https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:42 |
-| 25 | [High Hopes](https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 39](https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7) | 3:13 |
-| 26 | [Lil Boo Thang](https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:56 |
-| 27 | [Tears](https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tears](https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A) | 2:31 |
-| 28 | [Gabriela](https://open.spotify.com/track/2sJc3ugnMMMxyif6RJRn5H) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 3:15 |
-| 29 | [Thunder](https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:26 |
-| 30 | [Cruel Summer](https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:59 |
-| 31 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 |
-| 32 | [Love Me Not](https://open.spotify.com/track/0QgfsBEUm79puHnQz8N8OT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 3:08 |
-| 33 | [WILDFLOWER](https://open.spotify.com/track/4lRTRntv8Ier9bwkDMEMya) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:40 |
+| 24 | [Lil Boo Thang](https://open.spotify.com/track/7bsrdp1hsGI8M3zl1PDIkN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 1:56 |
+| 25 | [I'm Good \(Blue\)](https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:42 |
+| 26 | [Tears](https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Tears](https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A) | 2:31 |
+| 27 | [High Hopes](https://open.spotify.com/track/2jLG7MpqT2074YUNKQncnF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 39](https://open.spotify.com/album/7AlQ2bwjab77SFsoUCO3P7) | 3:13 |
+| 28 | [Cruel Summer](https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:59 |
+| 29 | [Gabriela](https://open.spotify.com/track/2sJc3ugnMMMxyif6RJRn5H) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 3:15 |
+| 30 | [Thunder](https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:26 |
+| 31 | [WILDFLOWER](https://open.spotify.com/track/4lRTRntv8Ier9bwkDMEMya) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 3:40 |
+| 32 | [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 |
+| 33 | [Love Me Not](https://open.spotify.com/track/0QgfsBEUm79puHnQz8N8OT) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 52](https://open.spotify.com/album/6rFTqiL3mNKFT5FdjnEWVf) | 3:08 |
 | 34 | [I Ain't Worried](https://open.spotify.com/track/5ItaHbk9Vs36DBZEmg3jxP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:22 |
 | 35 | [Espresso](https://open.spotify.com/track/4kpk6h4xaIyn0lirxGioYs) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:36 |
 | 36 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:21 |
 | 37 | [Shut Up And Dance](https://open.spotify.com/track/7KqjPr2vj8CwQ1cV2swc57) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 29](https://open.spotify.com/album/3QNWZIE9VH4D1CkK14uXkX) | 3:18 |
 | 38 | [Happy](https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:28 |
 | 39 | [Kings & Queens](https://open.spotify.com/track/4wbEBmAhxOchkSdfltzavr) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:26 |
-| 40 | [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 |
-| 41 | [Paint The Town Red](https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 |
-| 42 | [Certified BOP](https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:30 |
+| 40 | [Certified BOP](https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 2:30 |
+| 41 | [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 |
+| 42 | [Paint The Town Red](https://open.spotify.com/track/2Td9ri2BOa2GG8aQxtz4mB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 |
 | 43 | [Unstoppable](https://open.spotify.com/track/5HKCQNd3vNxdP6PH9GWrVc) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:27 |
 | 44 | [Try Everything](https://open.spotify.com/track/2bivxemYYGhiOoPr7OfYhn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 33](https://open.spotify.com/album/58KAwArwdxMXyEC3OLuInP) | 3:16 |
 | 45 | [Señorita](https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15qSjK.md) - [plain]
 | 49 | [Give Your Heart A Break](https://open.spotify.com/track/5K5Ah4VSx2aaRHF2sCbhPw) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:24 |
 | 50 | [BIRDS OF A FEATHER](https://open.spotify.com/track/2L5ML7WOyY6VScyBISDU4E) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 50](https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA) | 3:12 |
 
-Snapshot ID: `aa4NgAAAAADWmGp8KzFql5kdjlm7dndG`
+Snapshot ID: `aa9fAAAAAACACWScR+VTJoeBrURWeF9G`

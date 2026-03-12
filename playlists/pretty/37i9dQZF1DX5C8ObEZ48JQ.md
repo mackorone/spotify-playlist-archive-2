@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF?si=vzaRdMYHQP6Hqzr1zbo6RA">Indi</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,196 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,199 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

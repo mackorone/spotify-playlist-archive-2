@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9a3CsU85wl6.md) - [plain]
 
 > For tiny adventures disguised as errands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,401 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,397 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9a3CsU85wl6.md) - [plain]
 | 19 | [Cigarette Daydreams](https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:28 |
 | 20 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
 | 21 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 |
-| 22 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
-| 23 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
+| 22 | [Deceptacon](https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i) | 3:04 |
+| 23 | [YKWIM?](https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Bipolar](https://open.spotify.com/album/60jUlxAOAcsiQUEW0XLroT) | 3:32 |
 | 24 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 25 | [Stress Relief](https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [Am I sinking or Am I swimming?](https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV) | 3:25 |
 | 26 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9a3CsU85wl6.md) - [plain]
 | 53 | [Chaise Longue](https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:16 |
 | 54 | [Birch Tree](https://open.spotify.com/track/2isf9DCebk6mUhGagcD5bf) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Taking My Time to Be](https://open.spotify.com/album/2ljZoj8pjImMAznXAkeJne) | 4:40 |
 | 55 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
-| 56 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
-| 57 | [My Heart Is Buried in Venice](https://open.spotify.com/track/02H1K5Cw9Ar89b35XwSEw6) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:04 |
+| 56 | [My Heart Is Buried in Venice](https://open.spotify.com/track/02H1K5Cw9Ar89b35XwSEw6) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Montgomery Ricky](https://open.spotify.com/album/25paSmOYSF03s81DCNqQn3) | 3:04 |
+| 57 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
 | 58 | [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:27 |
 | 59 | [Shampoo Bottles](https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:44 |
 | 60 | [Thinking About You](https://open.spotify.com/track/7aX39T4YHNZ03NAmjc3DLr) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 6:36 |

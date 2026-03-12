@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Maycash, Brasco & Webb, KNALLER en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,246 likes - 78 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,241 likes - 78 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alo](https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Alo](https://open.spotify.com/album/7gvJTfD0bqq6h9ziaze3tO) | 2:34 |
-| 2 | [Eindstand Weer Alleen](https://open.spotify.com/track/0Aow4DMgRbT6FG1uvFTgCa) | [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [Eindstand Weer Alleen](https://open.spotify.com/album/3fnl72mvMGX9hWevPAbskh) | 2:32 |
-| 3 | [Niet Regular](https://open.spotify.com/track/5WboEjeHdnQWs8BM4VctWg) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Webb](https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD) | [Niet Regular](https://open.spotify.com/album/2eJYGKqVoEAEQDDsFUTxP6) | 2:58 |
-| 4 | [Geen Rust](https://open.spotify.com/track/2xvKJR2RafSNa6JCmBFDWn) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Geen Rust](https://open.spotify.com/album/3ZlT0H5wGzGYJ1kquz36Gn) | 2:54 |
-| 5 | [Life Goes On](https://open.spotify.com/track/7mJu2Nob5wi4hPXrPuCpCT) | [Qucee](https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur) | [Life Goes On](https://open.spotify.com/album/0YEuekNPEKwO3CUcv997Xw) | 2:39 |
+| 2 | [Life Goes On](https://open.spotify.com/track/7mJu2Nob5wi4hPXrPuCpCT) | [Qucee](https://open.spotify.com/artist/48vBSuFP0e3sObT3huTdur) | [Life Goes On](https://open.spotify.com/album/0YEuekNPEKwO3CUcv997Xw) | 2:39 |
+| 3 | [Eindstand Weer Alleen](https://open.spotify.com/track/0Aow4DMgRbT6FG1uvFTgCa) | [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [Eindstand Weer Alleen](https://open.spotify.com/album/3fnl72mvMGX9hWevPAbskh) | 2:32 |
+| 4 | [Niet Regular](https://open.spotify.com/track/5WboEjeHdnQWs8BM4VctWg) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Webb](https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD) | [Niet Regular](https://open.spotify.com/album/2eJYGKqVoEAEQDDsFUTxP6) | 2:58 |
+| 5 | [Geen Rust](https://open.spotify.com/track/2xvKJR2RafSNa6JCmBFDWn) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Geen Rust](https://open.spotify.com/album/3ZlT0H5wGzGYJ1kquz36Gn) | 2:54 |
 | 6 | [Aventador](https://open.spotify.com/track/1q3TMJUpWHLOx15fIArZfv) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Aventador](https://open.spotify.com/album/3OGAYjnJmDBvrvnHtQpFb2) | 2:00 |
 | 7 | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/track/5tuNTGCLsYQp0z663yPaeQ) | [DSAAF](https://open.spotify.com/artist/79Wzu3NpW82H9rHbw4Gvlf), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Blacka Man Waggie \(feat\. Rz\)](https://open.spotify.com/album/5zFJS7OeaLfsw8Vrj08gkH) | 2:22 |
 | 8 | [Wat Als Het Lukt](https://open.spotify.com/track/1D1j3tHQuWvw2gEEBrqR7Y) | [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Wat Als Het Lukt](https://open.spotify.com/album/6O8XZvKMUgcbBLyQN3WUvY) | 2:24 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 77 | [No Drama](https://open.spotify.com/track/2OartbMVAoWsDqKJRqkCPb) | [16'dls](https://open.spotify.com/artist/6b1BvwljfJStnCGcSw4QBa), [Vier1](https://open.spotify.com/artist/66zBfJKGOsjwbPfq9KE1F7), [Elf](https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0) | [No Drama](https://open.spotify.com/album/0jViD3bl5AgiUrWfFkIKCt) | 2:28 |
 | 78 | [SOPROPO](https://open.spotify.com/track/7gjFe8bUlh2mkQRzw360xU) | [Presto](https://open.spotify.com/artist/6ZDpcHcivlBAUO2UqGHSM3), [RAFTING GOODS](https://open.spotify.com/artist/6NzcpN9bENbuI2mLaC24Zl), [Duvel](https://open.spotify.com/artist/3XTRFcIvjX1GwAvQ3EvzLL), [Nosa](https://open.spotify.com/artist/1yiTO5VCQNBGaLcAZYlGD5) | [MAMA'S BOY](https://open.spotify.com/album/28Q6bPFOeHfsLBUTv3530a) | 2:28 |
 
-Snapshot ID: `AAAAAEsxDeKYNcblZbFazCKyEw56yx2J`
+Snapshot ID: `AAAAAESnm3WUA8vpKSF2xvYVS/RfCHEz`

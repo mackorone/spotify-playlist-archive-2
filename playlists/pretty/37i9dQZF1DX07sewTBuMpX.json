@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140760,
+  "num_followers": 140764,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
         "name": "Dans Gewoon",
         "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 152727,
       "name": "Dans Gewoon",
       "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
-        "name": "Trop parler",
-        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 183865,
-      "name": "Trop parler",
-      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
         "name": "GIOVANNI II",
         "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 190387,
       "name": "TE LAAT (feat. Zo\u00eb Tauran)",
       "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
+        "name": "Trop parler",
+        "url": "https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 183865,
+      "name": "Trop parler",
+      "url": "https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
-        "name": "Don Julio Daddy",
-        "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        }
-      ],
-      "duration_ms": 176518,
-      "name": "Don Julio Daddy",
-      "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 176892,
       "name": "Darling",
       "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
+        "name": "Don Julio Daddy",
+        "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Don Julio Daddy",
+      "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 174433,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
         "name": "Plenty Bars - EP",
         "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 174433,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
         "name": "Appel Mint Puur",
         "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 207430,
       "name": "Appel Mint Puur",
       "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
+        "name": "PGS",
+        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "PGS",
+      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
-        "name": "PGS",
-        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
       },
       "artists": [
         {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 151016,
-      "name": "PGS",
-      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1323,22 +1339,6 @@
       "duration_ms": 163760,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
-        "name": "Tyar\u2019 En Waka",
-        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 161252,
-      "name": "Tyar\u2019 En Waka",
-      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
         "name": "Stiekem \u201824",
         "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 188956,
       "name": "Stiekem \u201824",
       "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
+        "name": "Tyar\u2019 En Waka",
+        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 161252,
+      "name": "Tyar\u2019 En Waka",
+      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1499,6 +1499,26 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
         "name": "Noncha",
         "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 198750,
       "name": "Noncha",
       "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "180",
+      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
         "name": "Deim Van Je",
         "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 156854,
       "name": "Deim Van Je",
       "url": "https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "180",
-      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
     },
     {
       "added_at": "2026-03-09 12:52:52",
@@ -1695,6 +1695,26 @@
     {
       "added_at": "2026-03-09 12:52:52",
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
+    },
+    {
+      "added_at": "2026-03-09 12:52:52",
+      "album": {
         "name": "Bon Mij",
         "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
       },
@@ -1715,26 +1735,6 @@
       "duration_ms": 151874,
       "name": "Bon Mij",
       "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
-    },
-    {
-      "added_at": "2026-03-09 12:52:52",
-      "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
     },
     {
       "added_at": "2026-03-09 12:52:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,947 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,029 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 19 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
 | 21 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
-| 22 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
-| 23 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
+| 22 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
+| 23 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
 | 24 | [Der Himmel muss warten](https://open.spotify.com/track/0FRAUkJtl4bn92ySux8EEg) | [Saltatio Mortis](https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw) | [Der Himmel muss warten](https://open.spotify.com/album/43Q7gDUQETLoJmJLDa4LhF) | 2:23 |
 | 25 | [I Riden Så](https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV) | [Helisir](https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw) | [Sårbare](https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H) | 5:13 |
 | 26 | [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 35 | [Stay](https://open.spotify.com/track/3foIGbQ1FPZYJJ7RQ6v4Nj) | [Numenorean](https://open.spotify.com/artist/2qBGuYUZX53HN4Vk7Msjlc) | [Adore](https://open.spotify.com/album/4Yf0HZRHPCZvRteeDMLcul) | 2:21 |
 | 36 | [Umai](https://open.spotify.com/track/3C821qtpWKmA0acEYMjXLQ) | [Shireen](https://open.spotify.com/artist/5seY97ZUURo9gKO34z2G06) | [Matriarch](https://open.spotify.com/album/4ENwBjtTvOOWfl0hrbVAyD) | 6:18 |
 | 37 | [The Elm](https://open.spotify.com/track/6kGb58FphWqHUAbDQyw72G) | [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [Lunar Falls](https://open.spotify.com/album/1HUzttzwHcJeFyIBGeLXL3) | 3:30 |
-| 38 | [Spine](https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:03 |
-| 39 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
+| 38 | [Vindr](https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR) | [Asynje](https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ), [Nanna Barslev](https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI) | [Galdr](https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn) | 5:18 |
+| 39 | [Spine](https://open.spotify.com/track/5RH4pMfRt8d0jZQjk0fx3q) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Spine](https://open.spotify.com/album/4suNaIAqTmYMRHobGkoNQK) | 4:03 |
 | 40 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 |
 | 41 | [The Great Feast Underground](https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [The Great Feast Underground](https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS) | 4:44 |
 | 42 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 70 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 |
 | 71 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 |
 | 72 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 |
-| 73 | [Inceptus](https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf) | [Arcana](https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le) | [As Bright as a Thousand Suns](https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx) | 6:29 |
-| 74 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
-| 75 | [Snake Pit Poetry](https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Hilda Örvarsdóttir](https://open.spotify.com/artist/6K1UpnQXOyZtQYjydqbHS1) | [Snake Pit Poetry](https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z) | 7:08 |
+| 73 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
+| 74 | [Inceptus](https://open.spotify.com/track/42zHLmiOBu81VOUJsdWRHf) | [Arcana](https://open.spotify.com/artist/7GVQhnTHmaTrX6bt8eY6Le) | [As Bright as a Thousand Suns](https://open.spotify.com/album/4ZOMdwM4okxHdnuIY7EAfx) | 6:29 |
+| 75 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 |
 
 Snapshot ID: `AAAAAOIaNZmlIkqLyHeTv3KMI2LpJtjY`

@@ -72,7 +72,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 231791,
       "name": "$UELTA GATITA $UELTA",
       "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
@@ -812,6 +812,24 @@
       "duration_ms": 191555,
       "name": "A Veces (feat. Feid)",
       "url": "https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64"
+    },
+    {
+      "album": {
+        "name": "AAA",
+        "url": "https://open.spotify.com/album/3CM4KNAWHvvgAB83gydKOS"
+      },
+      "artists": [
+        {
+          "name": "John Poll\u00f5n",
+          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143407,
+      "name": "AAA",
+      "url": "https://open.spotify.com/track/7LSZyRFY3SzFFocAGnyJXV"
     },
     {
       "album": {
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "cari\u00f1o",
       "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
@@ -7476,7 +7494,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 160665,
       "name": "Disfruto El Proceso",
       "url": "https://open.spotify.com/track/2c7ddBSG4xPTMomuLkWdHl"
@@ -10306,7 +10324,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 226533,
       "name": "FOREVER TU GANTEL",
       "url": "https://open.spotify.com/track/5XE2dc5tz7tbufWCPFUo5c"
@@ -17311,6 +17329,28 @@
     },
     {
       "album": {
+        "name": "monumento..",
+        "url": "https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        },
+        {
+          "name": "Coc\u00f3",
+          "url": "https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170904,
+      "name": "monumento..",
+      "url": "https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s"
+    },
+    {
+      "album": {
         "name": "Morena (Remix)",
         "url": "https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m"
       },
@@ -20241,6 +20281,24 @@
     },
     {
       "album": {
+        "name": "O\u00eddos Sordos",
+        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214831,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
+    },
+    {
+      "album": {
         "name": "El Fenomeno",
         "url": "https://open.spotify.com/album/6DdxiqGTCH3PhizFE3YcBS"
       },
@@ -21988,7 +22046,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 202227,
       "name": "Que Nos Paso",
       "url": "https://open.spotify.com/track/7xmq1hSIYdhk79ZddcEA2M"
@@ -25651,6 +25709,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127575,
+      "name": "Te Dar\u00e9",
+      "url": "https://open.spotify.com/track/1LuWSWqoc2jtCbnOWlQipQ"
+    },
+    {
+      "album": {
         "name": "LA 8VA MARAVILLA",
         "url": "https://open.spotify.com/album/4ZMzNSoTgWgSfkBpJTCx9w"
       },
@@ -26412,7 +26488,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 190359,
       "name": "TODO PENDEJO",
       "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"

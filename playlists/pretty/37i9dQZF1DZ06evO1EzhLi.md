@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 
 > This is 3 Doors Down\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,770 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,784 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 4 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/2Zi27tBhXnDQTz3porgaiw) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days](https://open.spotify.com/album/5ummoakdV67zKupzNi8Rey) | 3:52 |
 | 5 | [Loser](https://open.spotify.com/track/1aC1IBAETh2XYGOE8kCC6t) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:24 |
 | 6 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 |
-| 7 | [Let Me Go](https://open.spotify.com/track/0nNVR2iDM3eVzEgMi78vQm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9), [Jack Joseph Puig](https://open.spotify.com/artist/30I8GIK3UqVyAg58557mdJ) | [The Greatest Hits](https://open.spotify.com/album/44AVPs6VGKnZHinQNWd6Xd) | 4:03 |
-| 8 | [When You're Young](https://open.spotify.com/track/6uMPJ3NmW8FfqqNwqjUHrB) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 4:16 |
+| 7 | [When You're Young](https://open.spotify.com/track/6uMPJ3NmW8FfqqNwqjUHrB) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Time Of My Life](https://open.spotify.com/album/47S9ygE3AtE7r6qRdCEFFY) | 4:16 |
+| 8 | [Let Me Go](https://open.spotify.com/track/0nNVR2iDM3eVzEgMi78vQm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9), [Jack Joseph Puig](https://open.spotify.com/artist/30I8GIK3UqVyAg58557mdJ) | [The Greatest Hits](https://open.spotify.com/album/44AVPs6VGKnZHinQNWd6Xd) | 4:03 |
 | 9 | [Be Like That](https://open.spotify.com/track/3PbHle8KhJp6GuO1jLdEmQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 4:25 |
 | 10 | [Away From The Sun](https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:52 |
 | 11 | [Let Me Be Myself](https://open.spotify.com/track/37K07PsEPk3SuYpAvjTbJO) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [3 Doors Down](https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8) | 3:48 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EzhLi.md) - [plain]
 | 48 | [That Smell](https://open.spotify.com/track/2SPKOzUEeuXlZgUQ1OzEeh) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 5:48 |
 | 49 | [Dead Love \- Early Version](https://open.spotify.com/track/0DaLO1tFuqya69xGEoTEAG) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun \(Deluxe\)](https://open.spotify.com/album/7GZjNky9jVBa2GT0lQuSz8) | 3:05 |
 
-Snapshot ID: `aa4NgAAAAAAKz4f4lHTzfDP/wVvtzesb`
+Snapshot ID: `aa9fAAAAAAAaIkeluboQQ/lgrVuPTv8Y`

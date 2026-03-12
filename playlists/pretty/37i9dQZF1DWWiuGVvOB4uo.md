@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,546 likes - 83 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,765 likes - 83 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 82 | [Call Me Maybe](https://open.spotify.com/track/5dX20XdA69FD8D7ZXHuLnN) | [Graham Carter](https://open.spotify.com/artist/0A6NReVqiHGQlKWIpriTO3) | [Call Me Maybe](https://open.spotify.com/album/6jz6kfRiAOzpd0VMh0MPQh) | 3:08 |
 | 83 | [Fix You](https://open.spotify.com/track/3ZTCvMqkW3Hqxap4dqTTpR) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Refuge](https://open.spotify.com/album/4gAsUaOSqGsa6Vm5T9WdNW) | 4:21 |
 
-Snapshot ID: `AAAAAMtciTMPOJ4Zd0hey3EPtfkYm0KO`
+Snapshot ID: `AAAAAO/7nKSopuFdi2UCBPpuX8inxltf`

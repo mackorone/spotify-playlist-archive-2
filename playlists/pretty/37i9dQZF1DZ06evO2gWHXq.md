@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,299 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,319 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 27 | [Round 7](https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 7](https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N) | 3:34 |
 | 28 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
 | 29 | [Marybel \- Remix](https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Gaelo](https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [Marybel \(Remix\)](https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU) | 3:38 |
-| 30 | [Todo menso](https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Canciones Mamalonas 3](https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL) | 3:11 |
-| 31 | [Round 3 \(feat\. C\-Kan\)](https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:25 |
+| 30 | [Round 3 \(feat\. C\-Kan\)](https://open.spotify.com/track/5J3VmVOxehILdyopYBKMpb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:25 |
+| 31 | [Todo menso](https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Canciones Mamalonas 3](https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL) | 3:11 |
 | 32 | [Me iré](https://open.spotify.com/track/6CSexH4aNAaHWVyetH747g) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:18 |
 | 33 | [Tengo Que Probar](https://open.spotify.com/track/0iRtpJoX4pVQx3vUHzaNSU) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Tengo Que Probar](https://open.spotify.com/album/6RaWvAhFPcp3AthMNLi9ob) | 3:21 |
 | 34 | [Le Pido a la Noche](https://open.spotify.com/track/0QU3Pzrlf2MpWA25c4EwSb) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Salto de Fe](https://open.spotify.com/album/46onTMzi9FlGypnp4NgzqI) | 4:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Mitad y Mitad](https://open.spotify.com/track/0kQzaYovsOWbHglCGscxuP) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Frente a Frente](https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH) | 3:11 |
 | 50 | [Vive La Vida](https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:45 |
 
-Snapshot ID: `aa4NgAAAAACd/y7GpjtYgDYnkPDoaR78`
+Snapshot ID: `aa9fAAAAAAAteYxql9PSOKzCqPtxe6Dk`

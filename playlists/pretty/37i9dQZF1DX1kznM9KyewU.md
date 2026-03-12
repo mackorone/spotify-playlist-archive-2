@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,980 likes - 90 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,095 likes - 90 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 10 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 |
 | 11 | [Come As You Are](https://open.spotify.com/track/4P5KoWXOxwuobLmHXLMobV) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:38 |
 | 12 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
-| 13 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
-| 14 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
+| 13 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
+| 14 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 15 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
 | 16 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 |
 | 17 | [What's My Age Again?](https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:28 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 51 | [The Freshmen](https://open.spotify.com/track/21jEuMn2lf37715rwjow2M) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Villains](https://open.spotify.com/album/3sV3CL42DZ8C11MuQwVUEi) | 4:29 |
 | 52 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
 | 53 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
-| 54 | [Selling The Drama](https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 3:28 |
-| 55 | [Let's Get Rocked](https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:55 |
+| 54 | [Let's Get Rocked](https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize \(Deluxe\)](https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M) | 4:55 |
+| 55 | [Selling The Drama](https://open.spotify.com/track/5hE3T2329sdMmIrHxjhQDL) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 3:28 |
 | 56 | [Wishlist](https://open.spotify.com/track/7hObovvcbBpXgZHQ9if4WU) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Yield](https://open.spotify.com/album/5zsDtoSrXK4usJ4MB1tCh2) | 3:26 |
 | 57 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 |
 | 58 | [Cradle Of Love](https://open.spotify.com/track/5TSANSqPTD6nBG0NSJWmVB) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Charmed Life](https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ) | 4:41 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 87 | [Nookie](https://open.spotify.com/track/47Wf9dKEHGptcL1lyQIsZk) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI) | 4:49 |
 | 88 | [Scooby Snacks](https://open.spotify.com/track/0AwxXvGoYpioYfJeafgvTD) | [Fun Lovin' Criminals](https://open.spotify.com/artist/0hWRiJV8KlRZvsZeemUJVv) | [Come Find Yourself](https://open.spotify.com/album/4U0j2a6r5avOlqkeYHY6i5) | 3:04 |
 | 89 | [Stupid Girl](https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG) | 4:18 |
-| 90 | [Ava Adore](https://open.spotify.com/track/16YybWFlwLIqnkkjrw1GHZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Adore \(2014 Remaster\)](https://open.spotify.com/album/7FI91iB3E4iXZV5hCEEhlc) | 4:30 |
+| 90 | [Secretly](https://open.spotify.com/track/0dw3ZgJ3h4ICWxGsoaz4dm) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Post Orgasmic Chill](https://open.spotify.com/album/4WznTvC9d1Oino7gLS8XHq) | 4:45 |
 
 Snapshot ID: `AAAAAJmqNpvq4rwE6XcIgGGRcZROhuDj`

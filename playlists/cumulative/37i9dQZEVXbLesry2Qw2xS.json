@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 192400,
       "name": "Are You Listening Yet?",
       "url": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
@@ -4206,7 +4206,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -22313,6 +22313,24 @@
     },
     {
       "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },
@@ -24116,7 +24134,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-26",
+      "date_removed": null,
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -27184,6 +27202,24 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/3fZervxrJI13IbbJDp5Gci"
+      },
+      "artists": [
+        {
+          "name": "PIXY",
+          "url": "https://open.spotify.com/artist/5AGVMquElW7QIas7i21Xmz"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/2jwpT2tPlP8HYVpFXfZMqM"
     },
     {
       "album": {
@@ -38470,7 +38506,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 152181,
       "name": "peegel",
       "url": "https://open.spotify.com/track/6TWSdpMosWn0enAvZO92sA"
@@ -38720,7 +38756,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -39432,7 +39468,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 216026,
       "name": "Pop",
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
@@ -52502,7 +52538,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 175263,
       "name": "ulakas kaunitar",
       "url": "https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd"
@@ -54190,7 +54226,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 153703,
       "name": "WAIKUSE VALGE UDU",
       "url": "https://open.spotify.com/track/3m7hl9t6lEogbc36JOtQMb"

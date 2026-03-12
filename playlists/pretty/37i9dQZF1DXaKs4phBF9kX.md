@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,620 likes - 70 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,687 likes - 70 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 8 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 | 9 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:39 |
 | 10 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Super Deluxe\)](https://open.spotify.com/album/4YimfceN1R0nOS9CefIFhm) | 4:23 |
-| 11 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
-| 12 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:12 |
+| 11 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 Remaster\)](https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby) | 4:12 |
+| 12 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/6wpGqhRvJGNNXwWlPmkMyO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:37 |
 | 13 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
 | 14 | [Pour Some Sugar On Me \- Remastered 2017](https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 4:27 |
 | 15 | [Panama \- 2015 Remaster](https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 3:30 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 38 | [Angel](https://open.spotify.com/track/3kfXUGIdBNpyr2gBvU3Guj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 5:08 |
 | 39 | [With Or Without You](https://open.spotify.com/track/4N0fzRX3T7QkOecp3pkWpp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [U218 Singles](https://open.spotify.com/album/6QuTLkcFQz5fCNNpPGLRAA) | 4:56 |
 | 40 | [Sledgehammer \- 2012 Remaster](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 5:11 |
-| 41 | [The Heat Is On \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Above The Clouds \- The Collection \(Deluxe\)](https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ) | 3:47 |
-| 42 | [When It's Love](https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe) | 5:39 |
+| 41 | [When It's Love](https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe) | 5:39 |
+| 42 | [The Heat Is On \- From "Beverly Hills Cop" Soundtrack](https://open.spotify.com/track/0PXw9NKvolWTo7U9JkNzmc) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Above The Clouds \- The Collection \(Deluxe\)](https://open.spotify.com/album/6ABjDcLOPzXG9RR6wD9MwZ) | 3:47 |
 | 43 | [Rag Doll](https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 |
 | 44 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 |
 | 45 | [Big Log \- 2006 Remaster](https://open.spotify.com/track/7257drAN3eTtaaUUPw95B3) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [The Principle of Moments](https://open.spotify.com/album/7GwY9afibQt4oUfsOucXpl) | 5:04 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 47 | [Jessie's Girl](https://open.spotify.com/track/2F1fnE1a8zQCogM6jJifHH) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/5MeeResNCJfmDmwmHX4w2D) | 3:14 |
 | 48 | [Hold On Tight](https://open.spotify.com/track/6yBbmHFTxihIDFAerzDMGi) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Time](https://open.spotify.com/album/4k1GJg2poyo6hwWLqJn9C2) | 3:06 |
 | 49 | [Yankee Rose](https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og) | [David Lee Roth](https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3) | [Eat 'Em and Smile](https://open.spotify.com/album/0Ali88C44gQdI065upsgKU) | 3:54 |
-| 50 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/6Nd6ntkzr4t8o1FKPGOSMt) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/70uPhkIhXTXM6MNNsMjAHx) | 4:35 |
-| 51 | [Big Love](https://open.spotify.com/track/1cWilR7SC3qyfl6emCvYf0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
+| 50 | [Big Love](https://open.spotify.com/track/1cWilR7SC3qyfl6emCvYf0) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Greatest Hits](https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz) | 3:38 |
+| 51 | [Here I Go Again \- 2018 Remaster](https://open.spotify.com/track/6Nd6ntkzr4t8o1FKPGOSMt) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(2018 Remaster\)](https://open.spotify.com/album/70uPhkIhXTXM6MNNsMjAHx) | 4:35 |
 | 52 | [Emotional Rescue \- Remastered 2009](https://open.spotify.com/track/5IATbFZds3cbOx8YxuMuko) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Emotional Rescue \(2009 Re\-Mastered\)](https://open.spotify.com/album/5mEjFOLcBs94wSchOtMCTB) | 5:39 |
 | 53 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 | 54 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 |

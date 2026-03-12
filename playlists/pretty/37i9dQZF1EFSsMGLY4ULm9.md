@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 22 | [Grande Coral](https://open.spotify.com/track/6u5xTXWKh77OuNTxZ0ATkO) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Chuva Serôdia](https://open.spotify.com/album/1xdUin6acHTZ8YvjX4Blxs) | 6:11 |
 | 23 | [Você Não Está Só](https://open.spotify.com/track/6o5PZUrU1plGs7wuWr6ljl) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 5:04 |
 | 24 | [Anjos a Serviço de Deus](https://open.spotify.com/track/2yOhXgTRXzszHDbSvzRh6r) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 5:22 |
-| 25 | [Chame por Ele](https://open.spotify.com/track/6W1oAmtKdamqGcwvFczyZa) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 6:43 |
-| 26 | [O Quarto Homem](https://open.spotify.com/track/2ReCseW2bnEOxpTt9Cil6E) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 6:30 |
+| 25 | [O Quarto Homem](https://open.spotify.com/track/2ReCseW2bnEOxpTt9Cil6E) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 6:30 |
+| 26 | [Chame por Ele](https://open.spotify.com/track/6W1oAmtKdamqGcwvFczyZa) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [Tristezas e Alegrias](https://open.spotify.com/album/33Uu8UmZfzytBPAWVWlNbk) | 6:43 |
 | 27 | [Te Encher Pra Não Parar](https://open.spotify.com/track/2te9iYdXW8RvT7f5g1TjQt) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz), [Debora Torres](https://open.spotify.com/artist/3dkJrC0qUslIThb7IQOyJx) | [Te Encher Pra Não Parar](https://open.spotify.com/album/2ZCPGQh3ysOIpzGiYliV0v) | 4:24 |
 | 28 | [O Justo Não Mendiga o Pão](https://open.spotify.com/track/24ovtI12Jj39Enfe46hJbs) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 5:27 |
 | 29 | [Perdão](https://open.spotify.com/track/1JBefV6pBfI4K5KmfyNhWG) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 3:58 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSsMGLY4ULm9.md) - [plain]
 | 62 | [Lâmpada Acesa](https://open.spotify.com/track/03rQQwXCB9HwtJw5Pm41go) | [Raquel Silva](https://open.spotify.com/artist/4wNnnExiKXqlevV2KkzEJz) | [A Glória da Meia\-Noite](https://open.spotify.com/album/2y7YS8hT5nhTepN8sPOAkL) | 7:09 |
 | 63 | [João Viu](https://open.spotify.com/track/56xECx4qsFLwq7LFcC3hgK) | [Raquel Coutinho](https://open.spotify.com/artist/3SFmogeXtsLZ6p6HOWBRNG) | [De Bem Com Deus](https://open.spotify.com/album/0jU9n891TACEZppbJpzImE) | 5:28 |
 
-Snapshot ID: `AcLylAAAAABaamjLUuRWdM4DADXhvtIM`
+Snapshot ID: `AcL3+AAAAAAbd0i+qJ04gabLrwaRdiKt`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,974 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,971 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 60 | [Thank Goodness](https://open.spotify.com/track/2mb9wKJz6WMD5Y0baavuIQ) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/11jnSpOvbJLYh1MyJpU3NT) | 3:20 |
 | 61 | [Satellite](https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0), [Trans Voices](https://open.spotify.com/artist/6WOjBUzx8rMrwCdVtU4WVN), [ILĀ](https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF) | [Satellite](https://open.spotify.com/album/6Yl7EPUb6JzmtFrKODskn9) | 4:24 |
 | 62 | [Ever New \- Single Version](https://open.spotify.com/track/3TXjItvy5G7Td2OrhslAAY) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Red Hot Org](https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA) | [Ever New](https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO) | 4:50 |
-| 63 | [ACT ALIVE](https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [ACT ALIVE](https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a) | 4:12 |
-| 64 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 |
+| 63 | [PROCESS](https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [PROCESS](https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5) | 2:38 |
+| 64 | [ACT ALIVE](https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [ACT ALIVE](https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a) | 4:12 |
 | 65 | [Love Second Music First](https://open.spotify.com/track/6RbR55jkG3YoK1SeRT5mTN) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Love Second Music First](https://open.spotify.com/album/0eqsGq1tUB41BqmKLsouDe) | 4:05 |
 | 66 | [Now What?](https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Now What?](https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7) | 3:13 |
 | 67 | [Needed You](https://open.spotify.com/track/7qoxNcIKxTNC3TzocVd7Pi) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [Needed You](https://open.spotify.com/album/1YQ9TJ7YRjbhbHA9Uu3WCr) | 3:03 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 92 | [One More Time \(feat\. Popstar\)](https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [One More Time \(feat\. Popstar\)](https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW) | 3:20 |
 | 93 | [Somewhere](https://open.spotify.com/track/52Z7EBRzdQuU6kxhVT9LZp) | [Harry Strange](https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr) | [Somewhere](https://open.spotify.com/album/3j2Arsso32JifElbA1Vdk4) | 2:13 |
 | 94 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
-| 95 | [The Two Houses \- House Mix](https://open.spotify.com/track/4bFl7sBTPMaHZY4TGwbWN1) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn) | [The Two Houses EP](https://open.spotify.com/album/69RSr2jx0v039aZys6NlyY) | 6:36 |
-| 96 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
+| 95 | [Eden](https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g) | [Eden](https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe) | 2:51 |
+| 96 | [The Two Houses \- House Mix](https://open.spotify.com/track/4bFl7sBTPMaHZY4TGwbWN1) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn) | [The Two Houses EP](https://open.spotify.com/album/69RSr2jx0v039aZys6NlyY) | 6:36 |
 | 97 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL) | 4:23 |
-| 98 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
-| 99 | [Babette](https://open.spotify.com/track/7dy1W1fBRAeQlcUdsL6ZeF) | [Katie Malco](https://open.spotify.com/artist/5t9yM2ABZVQrUXJqa7HTSt), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Babette](https://open.spotify.com/album/7yk5DxilcuZft3NG3ZjzvY) | 4:00 |
-| 100 | [Eden](https://open.spotify.com/track/3DHMdOGskwcdXSSymYJoOn) | [Lucyvivor](https://open.spotify.com/artist/1cEzgHSv07ZJvU2PtVa17g) | [Eden](https://open.spotify.com/album/6t0KIdBeZEvQrTtJoiCUCe) | 2:51 |
+| 98 | [heaven/jealous](https://open.spotify.com/track/1esTX6gDLMuTfsCYp0AcjN) | [Orchid](https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV) | [heaven/jealous](https://open.spotify.com/album/3A3Kt4qO9NQL6gYuizHZdr) | 2:56 |
+| 99 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
+| 100 | [Isn't he pretty](https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Isn't he pretty](https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF) | 2:55 |
 
 Snapshot ID: `AAAAAL9wl4IsKmDejl3iBDEV8UFzoc5f`

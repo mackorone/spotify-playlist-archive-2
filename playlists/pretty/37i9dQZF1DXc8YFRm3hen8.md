@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 NTVG
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,570 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,588 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 61 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 |
 | 62 | [Mi Caramelo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:29 |
 | 63 | [Esplín](https://open.spotify.com/track/1CjA0TtKx6IMlSmKer9Wyw) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Puertas](https://open.spotify.com/album/0YyiLprwcLOytMKd4ES5tq) | 4:38 |
-| 64 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 |
+| 64 | [Fue Tan Bueno](https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Nada Es Tarde](https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU) | 4:55 |
 | 65 | [Rezo por Vos](https://open.spotify.com/track/6dOzqs6o4DNzXs4jF2v1Yq) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Parte De La Religion](https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9) | 4:29 |
-| 66 | [Fue Tan Bueno](https://open.spotify.com/track/0i2elQQdEZwsDX5icf0Co8) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [Nada Es Tarde](https://open.spotify.com/album/4N2vqVDcAjDpe44wYdDrKU) | 4:55 |
+| 66 | [Polaroid De Locura Ordinaria](https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Ey!](https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0) | 3:29 |
 | 67 | [Sigue Girando](https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Girando](https://open.spotify.com/album/5uXPldCWi4gWWQRkbT0m5B) | 3:58 |
 | 68 | [Ala Delta](https://open.spotify.com/track/0LTCld7MYVKCAGpi05szyV) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Acariciando Lo Aspero](https://open.spotify.com/album/5UmrOPpQ3VmXmBRSvXMbcR) | 5:54 |
 | 69 | [Nada para siempre \- Spotify Sessions](https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 5:03 |

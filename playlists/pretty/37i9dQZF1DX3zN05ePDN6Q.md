@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Amabbi, LAI$ROSA, GvsnoBeat
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,851 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,874 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,572 likes - 39 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,768 likes - 39 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 24 | [COLOGNE](https://open.spotify.com/track/1ULnQ2yn5LeQX4LrROm1RD) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:45 |
 | 25 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 |
 | 26 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
-| 27 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
-| 28 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
+| 27 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 |
+| 28 | [Abcdario](https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Abcdario](https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD) | 3:40 |
 | 29 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 |
 | 30 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 |
 | 31 | [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 38 | [Seca Tus Lagrimas](https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 1:56 |
 | 39 | [Un Desperdicio](https://open.spotify.com/track/75qepWUT3FEyPyXQMMMVZm) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 3:43 |
 
-Snapshot ID: `aa4NgAAAAAAUdHJjFsRxtPQLMhMls3J6`
+Snapshot ID: `aa9fAAAAAACZj85hqlgouXyXy5zplm6g`

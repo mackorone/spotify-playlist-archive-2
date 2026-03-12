@@ -1,6 +1,6 @@
 {
   "description": "Get jiggy with 90s 'dhinchak' beats. Cover - Khal Nayak",
-  "num_followers": 636604,
+  "num_followers": 637068,
   "original_name": "90s Dance Bollywood",
   "owner": {
     "name": "Spotify",
@@ -128,12 +128,20 @@
       },
       "artists": [
         {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+        },
+        {
           "name": "Chandana Dixit",
           "url": "https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2"
         },
         {
           "name": "Abhijeet",
           "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "duration_ms": 358266,

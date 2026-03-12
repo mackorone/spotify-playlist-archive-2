@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Nat Simons.",
-  "num_followers": 613221,
+  "num_followers": 613225,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Gente Impresentable",
-        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
-      },
-      "artists": [
-        {
-          "name": "Celtas Cortos",
-          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
-        }
-      ],
-      "duration_ms": 270466,
-      "name": "La senda del tiempo",
-      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
-    },
-    {
-      "added_at": "2026-03-05 23:00:26",
-      "album": {
         "name": "El Bien",
         "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 206226,
       "name": "El Bien",
       "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+    },
+    {
+      "added_at": "2026-03-05 23:00:26",
+      "album": {
+        "name": "Gente Impresentable",
+        "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
+      },
+      "artists": [
+        {
+          "name": "Celtas Cortos",
+          "url": "https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP"
+        }
+      ],
+      "duration_ms": 270466,
+      "name": "La senda del tiempo",
+      "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Si Te Pones de Mi Parte",
-        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 319218,
-      "name": "Si Te Pones de Mi Parte",
-      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
-    },
-    {
-      "added_at": "2026-03-05 23:00:26",
-      "album": {
         "name": "Ahora o nunca",
         "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 189600,
       "name": "Y volar (con los Caligaris)",
       "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+    },
+    {
+      "added_at": "2026-03-05 23:00:26",
+      "album": {
+        "name": "Si Te Pones de Mi Parte",
+        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 319218,
+      "name": "Si Te Pones de Mi Parte",
+      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
     },
     {
       "added_at": "2026-03-05 23:00:26",

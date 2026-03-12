@@ -4,7 +4,7 @@
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-112 songs - 5 hr 55 min
+113 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Chale](https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chale](https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a) | 2:50 | 2024-01-29 |  |
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2024-01-29 | 2025-10-04 |
 | [Chimba](https://open.spotify.com/track/6PczmhvRYkPBUhE1utqDRW) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Chimba](https://open.spotify.com/album/4VbBqWUAM1sKdARDmUQDVc) | 2:54 | 2025-11-09 |  |
+| [Coleccionando Heridas](https://open.spotify.com/track/3A6JavykTX0AKvePIwxzaA) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Coleccionando Heridas](https://open.spotify.com/album/49FioVijez4ufouOFO0GOu) | 3:52 | 2026-03-12 |  |
 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/1jGuAHD9U2saBvxrbEendo) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 4:05 | 2024-07-21 |  |
 | [Como En Los Viejos Tiempos](https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como En Los Viejos Tiempos](https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P) | 4:05 | 2024-01-29 | 2024-07-21 |
 | [Como la Flor \- En Vivo](https://open.spotify.com/track/0YdS5iEdho6QQulCseFvfU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Los Prohibidos en Concierto \(En Vivo\)](https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6) | 2:43 | 2024-12-30 | 2025-01-16 |
@@ -82,7 +83,7 @@
 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 | 2024-01-29 |  |
 | [Piedras a la Luna](https://open.spotify.com/track/2Cz7K3xFrJIYMkpxDbrqtu) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piedras a la Luna](https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI) | 3:12 | 2025-08-31 |  |
 | [Piensa En Mí](https://open.spotify.com/track/36c4H8RuaazjGuG3ZwD57x) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Piensa En Mí](https://open.spotify.com/album/4kDeEJqyrfiyUxWcXb9E1i) | 3:33 | 2025-01-19 | 2025-08-11 |
-| [Procura](https://open.spotify.com/track/5yyiRmayiyuI7R9i7PNeca) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 4:53 | 2025-12-21 |  |
+| [Procura](https://open.spotify.com/track/5yyiRmayiyuI7R9i7PNeca) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Eden Vol\. II](https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml) | 4:53 | 2025-12-21 | 2026-03-12 |
 | [Provocame \- En Vivo](https://open.spotify.com/track/6ORL6XCAtzCMBl9AFQGKe7) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek) | 3:09 | 2024-01-29 |  |
 | [Pudiste Pero No Quisiste](https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2024-01-29 |  |
 | [Que la Dejen Ir al Baile Sola](https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:35 | 2024-04-27 | 2024-07-21 |

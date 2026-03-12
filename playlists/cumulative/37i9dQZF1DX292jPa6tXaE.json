@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Yash",
+  "description": "Discover the future of Punjabi Pop! Cover: Sifat Dhillon",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -4293,6 +4293,36 @@
     },
     {
       "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/1MUKBfwl0XNLKDAkYmPTWm"
+      },
+      "artists": [
+        {
+          "name": "Sifat Dhillon",
+          "url": "https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC"
+        },
+        {
+          "name": "Deep Boparai",
+          "url": "https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d"
+        },
+        {
+          "name": "Sacch",
+          "url": "https://open.spotify.com/artist/3mMQZBDM4kDp3PGpVxbXz8"
+        },
+        {
+          "name": "Freak singh",
+          "url": "https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167181,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/1q6GSeRQ6HD9c3QDpMBt43"
+    },
+    {
+      "album": {
         "name": "High Life",
         "url": "https://open.spotify.com/album/7uXnEHJqDwWh1Et2hg0hFH"
       },
@@ -6983,6 +7013,28 @@
     },
     {
       "album": {
+        "name": "Mithe Bol",
+        "url": "https://open.spotify.com/album/6moZYcj3Ra5nQmP3OFn1wh"
+      },
+      "artists": [
+        {
+          "name": "Jobanpreet",
+          "url": "https://open.spotify.com/artist/3rptQQaj5gAGPmbjr7iTMg"
+        },
+        {
+          "name": "Gary Sidana",
+          "url": "https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242233,
+      "name": "Mithe Bol",
+      "url": "https://open.spotify.com/track/3XqJwtv7a54IQJmij5TsyF"
+    },
+    {
+      "album": {
         "name": "Mithiyan Maar Ke",
         "url": "https://open.spotify.com/album/5hH98GCotwvLKLh4Z9GtGl"
       },
@@ -8074,7 +8126,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 141832,
       "name": "PATT LAINGEY",
       "url": "https://open.spotify.com/track/4111e03vcTcb2hoae86xbn"
@@ -11022,7 +11074,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-12",
       "duration_ms": 366870,
       "name": "Ve Channa",
       "url": "https://open.spotify.com/track/6ulYWyswB6S0FD8YvwR8GO"

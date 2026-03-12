@@ -4,11 +4,12 @@
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-1,956 songs - 3 day 16 hr 52 min
+1,956 songs - 3 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/2RhyOmibFURVQCQqgjom36) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7nOJY4PMKxsFYH6VGIvajl) | 0:00 | 2022-07-08 | 2022-07-16 |
+| [](https://open.spotify.com/track/4uqfp14eftGfJ7ic4cFRTU) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Good Part, Vol\. 1](https://open.spotify.com/album/3yuiLjvVsNJDECTPYqO6D4) | 0:00 | 2026-03-06 |  |
 | [\#NeverDrinkingAgain](https://open.spotify.com/track/6V6qKLDO7jSA4Vh6tDfScL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [\#NeverDrinkingAgain](https://open.spotify.com/album/0LTBVBoCdL2FSGJIPvqKc8) | 3:01 | 2022-12-30 | 2023-03-04 |
 | [\(Extra cheese\)](https://open.spotify.com/track/3EhqkRh6JO4jjyU9Ok2pG1) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [\(Extra cheese\)](https://open.spotify.com/album/498XPKVVddBfuwBqkB1WeN) | 1:31 | 2025-05-09 | 2025-06-07 |
 | [+44](https://open.spotify.com/track/3QLmHiMCBXMLmIRl6r9387) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 1:45 | 2025-10-10 | 2025-11-08 |
@@ -69,7 +70,6 @@
 | [ABK](https://open.spotify.com/track/6LYvchB2ylOESS7YzYDPbq) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ABK](https://open.spotify.com/album/0JplTweKm3Krt2W05GdSNF) | 3:35 | 2025-07-25 | 2025-08-23 |
 | [Above All Else](https://open.spotify.com/track/6oxqMM4kKSYSHeyTHluVSf) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [Above All Else](https://open.spotify.com/album/5hgsYQnKz2tIXTUX6BqRNI) | 3:16 | 2026-02-06 | 2026-02-14 |
 | [Above Water](https://open.spotify.com/track/1CukLFTHUU14jP0aCImrgs) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Above Water](https://open.spotify.com/album/0ek3Mj5Ptxr1ens0OlhYnx) | 2:51 | 2023-03-24 | 2023-06-03 |
-| [Accelerant](https://open.spotify.com/track/4uqfp14eftGfJ7ic4cFRTU) | [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [The Good Part, Vol\. 1](https://open.spotify.com/album/3yuiLjvVsNJDECTPYqO6D4) | 5:13 | 2026-03-06 |  |
 | [Accepted](https://open.spotify.com/track/25kktyAapXqmeQxKiHnlwk) | [Ciggy Blacc](https://open.spotify.com/artist/0IN0wP9ki18ys6EW4OtoQJ) | [Accepted](https://open.spotify.com/album/7zRHKxeYjBYNqgr1asCWWE) | 1:31 | 2022-06-17 | 2022-07-09 |
 | [Ace Trumpets](https://open.spotify.com/track/6gurRCQTLcBNkakApASMdi) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Ace Trumpets](https://open.spotify.com/album/5UpGXA1S5pwj2ZMC4sH97y) | 2:34 | 2025-05-30 | 2025-07-13 |
 | [Act Bad](https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Act Bad](https://open.spotify.com/album/2F7hxeskVPFaHDqUT7lfz2) | 2:40 | 2023-04-14 | 2023-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,808 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,812 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 6 | [C'mon Billy](https://open.spotify.com/track/56sWRGGeRFWgFhrMOgOyZC) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 2:47 |
 | 7 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
 | 8 | [Angelene](https://open.spotify.com/track/2PttdezZsumXSdsrf5r5Ea) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:34 |
-| 9 | [A Place Called Home](https://open.spotify.com/track/4QmBs5a3mFFLaLA1QTEVrN) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:42 |
+| 9 | [Good Fortune](https://open.spotify.com/track/1G1YJPV7THViQfOM9Gug7R) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:20 |
 | 10 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
 | 11 | [To Bring You My Love](https://open.spotify.com/track/537IPiZTZ1GVcohzFHAHf5) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 5:31 |
 | 12 | [A Perfect Day Elise](https://open.spotify.com/track/1TvQVmNarYyU0d4wARLlX8) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:06 |
-| 13 | [Good Fortune](https://open.spotify.com/track/1G1YJPV7THViQfOM9Gug7R) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:20 |
+| 13 | [A Place Called Home](https://open.spotify.com/track/4QmBs5a3mFFLaLA1QTEVrN) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Stories From The City, Stories From The Sea](https://open.spotify.com/album/0hBWhJEmVyNPG2Jq71CJXz) | 3:42 |
 | 14 | [When Under Ether](https://open.spotify.com/track/6T74sWvcHvSAO5prlk5dDw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [White Chalk](https://open.spotify.com/album/4IeJySFMS6reB6BeYzMp5j) | 2:22 |
 | 15 | [Hit the City](https://open.spotify.com/track/3OXX5hy8YPQP9QYgzqaY2f) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 2:48 |
 | 16 | [The Garden](https://open.spotify.com/track/69EBjVoAh2Z10jubFXz8YL) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 4:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yAm6Q.md) - [plain]
 | 45 | [Prayer at the Gate](https://open.spotify.com/track/4ns5kqEVO7gospHYFeqlGz) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 4:14 |
 | 46 | [The Letter](https://open.spotify.com/track/2ZJ28OVvI4RDb6ZwxOOCOw) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 3:19 |
 | 47 | [The Community Of Hope](https://open.spotify.com/track/1rHlc3clkZmCryFhGoRRXB) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [The Hope Six Demolition Project](https://open.spotify.com/album/1Un5JM2tnlI7I9GBgylutb) | 2:23 |
-| 48 | [Love Will Tear Us Apart](https://open.spotify.com/track/3FYnFqxfRBeAHdBRExnaUZ) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz), [Tim Phillips](https://open.spotify.com/artist/0prMdgdyCmPmrmPQ5Sgf5h) | [Bad Sisters \(Season 2\) \[Original Series Soundtrack\]](https://open.spotify.com/album/0s3OVD9QWfP6cEdG1K5FGj) | 3:01 |
+| 48 | [Yuri\-G](https://open.spotify.com/track/72W93VrqRaDiyn3FushDXO) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:28 |
 | 49 | [I Inside the Old Year Dying](https://open.spotify.com/track/1bk0pE5DN0lfTx8pI9WerX) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 1:52 |
 | 50 | [Shame](https://open.spotify.com/track/3xUQfzyrHerNnSt3eUsprb) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Uh Huh Her](https://open.spotify.com/album/0ivvCuMKTQYeeZphq2k3oQ) | 2:31 |
 
-Snapshot ID: `aa4NgAAAAAAy1vjpU5A+zwMH72eeGv+y`
+Snapshot ID: `aa9fAAAAAABSO033FddibQrfYDc0wq2w`

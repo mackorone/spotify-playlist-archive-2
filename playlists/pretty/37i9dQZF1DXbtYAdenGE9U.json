@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 767996,
+  "num_followers": 768294,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Airwave",
+        "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Airwave - Radio Vocal Edit",
+      "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 202866,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Airwave",
-        "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
-      },
-      "artists": [
-        {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Airwave - Radio Vocal Edit",
-      "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
     },
     {
       "added_at": "2024-07-23 09:55:55",

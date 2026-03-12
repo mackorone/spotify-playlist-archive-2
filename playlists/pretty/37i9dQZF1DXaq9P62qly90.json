@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 15627,
+  "num_followers": 15632,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "I Was Just Leaving",
+        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montbleau",
+          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "I Was Just Leaving",
+      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "I Was Just Leaving",
-        "url": "https://open.spotify.com/album/0x6QIanMYNoGBcXqG96LHW"
-      },
-      "artists": [
-        {
-          "name": "Ryan Montbleau",
-          "url": "https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "I Was Just Leaving",
-      "url": "https://open.spotify.com/track/2P7d62DM2Q1A9i6kkc4rgl"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 235654,
-      "name": "Chill Out",
-      "url": "https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 197983,
       "name": "She Go",
       "url": "https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 235654,
+      "name": "Chill Out",
+      "url": "https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX"
     },
     {
       "added_at": "2024-03-25 16:49:10",

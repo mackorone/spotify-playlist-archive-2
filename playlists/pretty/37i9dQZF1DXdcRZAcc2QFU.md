@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,604 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,068 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 4 | [Dilbar Dilbar](https://open.spotify.com/track/5pvXcMiqTDzUimGj2Vi8uG) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Sirf Tum](https://open.spotify.com/album/2GUgjv6LmNExLkU8SBsxvd) | 5:43 |
 | 5 | [Akhiyaan Milaoon Kabhi](https://open.spotify.com/track/735WeIIQYRfmtEdMmOgDY1) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Dj8WYLlv47T0W03zDdFJI) | 6:15 |
 | 6 | [Mera Piya Ghar Aaya](https://open.spotify.com/track/2jB91xb8ZgsXsLYOOpeGfK) | [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Yaraana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YJjZ6W99j23ZyS8gveeKl) | 6:13 |
-| 7 | [Husn Hai Suhana](https://open.spotify.com/track/2JyPZNIsrL1xIoLZaqcqr1) | [Chandana Dixit](https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj) | [Coolie No.1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TyqFXIE6Yg7HmvzNlG3tj) | 5:58 |
+| 7 | [Husn Hai Suhana](https://open.spotify.com/track/2JyPZNIsrL1xIoLZaqcqr1) | [Anand\-Milind](https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk), [Chandana Dixit](https://open.spotify.com/artist/49ZlTVpGT3NxLkTRpPcYO2), [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Coolie No.1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3TyqFXIE6Yg7HmvzNlG3tj) | 5:58 |
 | 8 | [Kisi Disco Mein Jaaye](https://open.spotify.com/track/11uSCFBn6ng3O1LZNbIIwq) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Bade Miyan Chote Miyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SZP1rmZ6SLANWNsuml9Dt) | 5:27 |
 | 9 | [Ankhiyon Se Goli Maare](https://open.spotify.com/track/783EHAzgJMIjwcATdfEFOI) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo) | [Dulhe Raja](https://open.spotify.com/album/2243XsWDNC4t6E17GruIU7) | 5:14 |
 | 10 | [Chunnari Chunnari](https://open.spotify.com/track/18AId3X5GULxDCCjyRTCIQ) | [Abhijeet](https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj), [Anuradha Sriram](https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy) | [Biwi No\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/06XvUvHNpDxjuQVutLkxAS) | 5:35 |

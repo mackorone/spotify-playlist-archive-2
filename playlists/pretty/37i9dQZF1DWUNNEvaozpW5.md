@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Nat Simons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,221 likes - 120 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,225 likes - 120 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 42 | [Mar adentro](https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:01 |
 | 43 | [Los Perros](https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 3:49 |
 | 44 | [Buscando en la basura](https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Negociando gasolina](https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR) | 3:28 |
-| 45 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
-| 46 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
+| 45 | [El Bien](https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [El Bien](https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4) | 3:26 |
+| 46 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
 | 47 | [El roce de tu cuerpo](https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Muy Deficiente](https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1) | 4:10 |
 | 48 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 |
 | 49 | [Cuarenta Mil](https://open.spotify.com/track/5m8gxrOo5vlwntpyn75eHF) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/3jf4hE1DY8n3eE8p7KpBVO) | 3:38 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 55 | [La rueca](https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 3:54 |
 | 56 | [Fuimos Felices Aquí](https://open.spotify.com/track/3OPLIc4ivg0ccEV8KXLSE7) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Hecho En Tiempos De Paz](https://open.spotify.com/album/4exNBd0XUQ8bgkRf8G4awo) | 2:43 |
 | 57 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
-| 58 | [Si Te Pones de Mi Parte](https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Si Te Pones de Mi Parte](https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX) | 5:19 |
-| 59 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 |
+| 58 | [Y volar \(con los Caligaris\)](https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Ahora o nunca](https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD) | 3:09 |
+| 59 | [Si Te Pones de Mi Parte](https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Si Te Pones de Mi Parte](https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX) | 5:19 |
 | 60 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 |
 | 61 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
 | 62 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |

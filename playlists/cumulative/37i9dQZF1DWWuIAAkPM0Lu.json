@@ -42919,6 +42919,24 @@
     },
     {
       "album": {
+        "name": "drown",
+        "url": "https://open.spotify.com/album/2oOTzS5MMF69VNdZvNhhHk"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205713,
+      "name": "drown",
+      "url": "https://open.spotify.com/track/4PUaUdhLeOyOjbfQ3bTZqK"
+    },
+    {
+      "album": {
         "name": "Drown In Champagne",
         "url": "https://open.spotify.com/album/6QHO1WmxDubPu3OOsUcEKq"
       },

@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "cutlery",
+        "url": "https://open.spotify.com/album/6q2Uzkl1X4UrFOK5ikIrQi"
+      },
+      "artists": [
+        {
+          "name": "uki3",
+          "url": "https://open.spotify.com/artist/6G1uy0nAElYhcS94PecPw1"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238888,
+      "name": "cutlery",
+      "url": "https://open.spotify.com/track/4iLrubzZy5aHfnvwjO7LI3"
+    },
+    {
+      "album": {
         "name": "DENNOSTALGIA",
         "url": "https://open.spotify.com/album/1wWe5h0pGEdpybC4sqri4Z"
       },
@@ -4876,6 +4894,24 @@
       "duration_ms": 180000,
       "name": "Therefor you and me",
       "url": "https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll"
+    },
+    {
+      "album": {
+        "name": "Theseus",
+        "url": "https://open.spotify.com/album/7nISltBDHRMbfzk4jFSV6R"
+      },
+      "artists": [
+        {
+          "name": "\ue899\u9ae5\u838f",
+          "url": "https://open.spotify.com/artist/6tOzIqlpQBKAFIqdhmTfiW"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191571,
+      "name": "Theseus",
+      "url": "https://open.spotify.com/track/0sgN6Kxs3qqbTXkNDguzRm"
     },
     {
       "album": {

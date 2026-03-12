@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133820,
+  "num_followers": 133825,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa4NgAAAAAAOSxqBGqPbZ12dnhje7Zhb",
+  "snapshot_id": "aa9fAAAAAACNO4YDVNoEjLe+a+6qmjpj",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 205733,
       "name": "San Francisco Dues",
       "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "Oh Baby Doll",
-      "url": "https://open.spotify.com/track/6AxUkSoQ9zQdLlBGni4rpf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry In London",
         "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 157320,
       "name": "St. Louis Blues",
       "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 156360,
+      "name": "Oh Baby Doll",
+      "url": "https://open.spotify.com/track/6AxUkSoQ9zQdLlBGni4rpf"
     },
     {
       "added_at": null,

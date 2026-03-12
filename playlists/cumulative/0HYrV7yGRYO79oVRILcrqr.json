@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Adicta a M\u00ed",
+        "url": "https://open.spotify.com/album/5hx182VgnljEq0k68B8DpL"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 V\u00e1squez ND7",
+          "url": "https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Adicta a M\u00ed",
+      "url": "https://open.spotify.com/track/6ssOrkkoSG0pOhOyrfgIPK"
+    },
+    {
+      "album": {
         "name": "Ain't It Fun?",
         "url": "https://open.spotify.com/album/4TXm8iB8yhyJdd5zedbxdK"
       },
@@ -1111,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Corrado",
+        "url": "https://open.spotify.com/album/3YvkiNefWVg45wCKtcsG1c"
+      },
+      "artists": [
+        {
+          "name": "Le Pietre di Mara",
+          "url": "https://open.spotify.com/artist/7hv4rQbq0zehg96NzK4i5M"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48000,
+      "name": "Corrado",
+      "url": "https://open.spotify.com/track/1QXGkSB2T1pNR8hDT2mFoO"
+    },
+    {
+      "album": {
         "name": "Cosmonauta",
         "url": "https://open.spotify.com/album/3wCsW7kVE8Q6wvJB0Jvfau"
       },
@@ -1414,6 +1450,24 @@
       "duration_ms": 176626,
       "name": "Desperate Love",
       "url": "https://open.spotify.com/track/4aulyKvga3asNzCNW0zWe6"
+    },
+    {
+      "album": {
+        "name": "Devil's Music",
+        "url": "https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Joe's",
+          "url": "https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72"
+        }
+      ],
+      "date_added": "2026-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286292,
+      "name": "Devil's Music",
+      "url": "https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3"
     },
     {
       "album": {
@@ -6123,7 +6177,7 @@
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 209279,
+      "duration_ms": 209959,
       "name": "When i see you again",
       "url": "https://open.spotify.com/track/2P9poLLH4lyqJX6Ym8W2ce"
     },

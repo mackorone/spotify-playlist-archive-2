@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,917 likes - 80 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,924 likes - 80 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 60 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 |
 | 61 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
 | 62 | [Loose Strings](https://open.spotify.com/track/6CyCApgBPVnJg6lKvWoDws) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Loose Strings](https://open.spotify.com/album/1xf21UlZJHtKSOp9BILArs) | 2:46 |
-| 63 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 |
-| 64 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
-| 65 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
+| 63 | [Poncho & Lefty](https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [The Late Great Townes Van Zandt](https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6) | 3:40 |
+| 64 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 |
+| 65 | [Impossible Germany](https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Sky Blue Sky](https://open.spotify.com/album/6dbcDWUXEFpNrmCJoqZsk4) | 5:57 |
 | 66 | [Harlem River](https://open.spotify.com/track/3InicSZVr4usKZg1ePJEDz) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/5daVkcQ91GoxhyxHPH2A6O) | 9:15 |
 | 67 | [Moondog](https://open.spotify.com/track/4lX7whuTp5UdGfoSiFb5sU) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Revelation](https://open.spotify.com/album/0db5o1FtmNXhIfxi3gXs51) | 5:05 |
 | 68 | [How Lucky](https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [How Lucky](https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm) | 3:23 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 77 | [Worry 'Bout My Wandering](https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Wandering \(Love Me Back\)](https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE) | 3:06 |
 | 78 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
 | 79 | [Satisfy Me](https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:35 |
-| 80 | [This Life](https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Watch Out for the Wolf](https://open.spotify.com/album/65IhXgviKunwZuTCnb2UOY) | 3:51 |
+| 80 | [August](https://open.spotify.com/track/3aEstsBRNAm3sJ7ZXtAlqr) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:47 |
 
 Snapshot ID: `AAAAAFqVUHZVl7lGjIWorJCoFt0XqOws`

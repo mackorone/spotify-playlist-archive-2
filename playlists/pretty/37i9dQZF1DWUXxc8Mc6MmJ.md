@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,750 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,974 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 44 | [Give You My Heart](https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
 | 45 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 |
 | 46 | [Rain and You](https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [HOSPITAL PLAYLIST Season2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY) | 4:22 |
-| 47 | [Hyehwadong \(or Sangmundong\)](https://open.spotify.com/track/0OPtu3k4727xyRXVV5Yf6d) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6AD37A2yi3XJgsSdEwfyYi) | 4:24 |
-| 48 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
+| 47 | [Love U](https://open.spotify.com/track/7BhmmVVKqNJOqaagkfdBbS) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:43 |
+| 48 | [Hyehwadong \(or Sangmundong\)](https://open.spotify.com/track/0OPtu3k4727xyRXVV5Yf6d) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6AD37A2yi3XJgsSdEwfyYi) | 4:24 |
 | 49 | [아쉬운 마음인걸](https://open.spotify.com/track/0LeSMFxSMLkbjjrwV082QG) | [에이 스타일](https://open.spotify.com/artist/6Isq5QAXFUqu6WkFcEAyF1) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:08 |
 | 50 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 |
 | 51 | [All with You](https://open.spotify.com/track/1pEavn8UFAeij6afPwWfvM) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/4Vya3kxqlogdf46anL8rut) | 3:53 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 82 | [Dream](https://open.spotify.com/track/4C8IyegMjj5vmSdO4HUATk) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [Dream](https://open.spotify.com/album/0kqgFrRX8ynvKc0Qy4jkMl) | 4:02 |
 | 83 | [Love Story](https://open.spotify.com/track/59Jq02jMj7gInyclQePYs8) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [The Legend of The Blue Sea OST Part.1](https://open.spotify.com/album/3VArMvD885SqMxsHqyBfzD) | 3:24 |
 | 84 | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Do you want to walk with me? \(Romance 101 X Jukjae\)](https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX) | 3:46 |
-| 85 | [Eternal Love](https://open.spotify.com/track/0HIr8uSRGF14DHO1sckYx0) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Healer \(Original Television Soundtrack\)](https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv) | 4:16 |
-| 86 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 |
+| 85 | [What If Love](https://open.spotify.com/track/0cp40X5n65SX6flh0ZcDPW) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Touch your heart OST Part.3](https://open.spotify.com/album/17bvWkSMFO50zORkCWkdC5) | 3:39 |
+| 86 | [Eternal Love](https://open.spotify.com/track/0HIr8uSRGF14DHO1sckYx0) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Healer \(Original Television Soundtrack\)](https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv) | 4:16 |
 | 87 | [The Image of You \(Remains in My Memory\)](https://open.spotify.com/track/47VBwKrb9UrN66EXXG71iT) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Hometown Cha\-Cha\-Cha, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/5VkqpwpP2YPufmWxtVinbi) | 3:09 |
 | 88 | [Heartstrings](https://open.spotify.com/track/0mtuqz4rcMYCKjF1cjmlu6) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [Heartstrings OST Part.1](https://open.spotify.com/album/4wPXtpmM46V8TgyE2cgkiZ) | 3:11 |
 | 89 | [Crazy of you](https://open.spotify.com/track/1EC8QewniFjTg6a2eYB60a) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Master\`s sun OST Part.3](https://open.spotify.com/album/00Gajw59e8BvExy9BJQUIz) | 4:30 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 97 | [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 |
 | 98 | [How Can I Love You](https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Descendants Of The Sun Pt.10 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl) | 4:20 |
 | 99 | [Gift](https://open.spotify.com/track/3SLTWrFWIR2Pxnwak20oWc) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Lovely Runner, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/7C639nugyBt3TboUcUJMas) | 4:49 |
-| 100 | [HEAVEN](https://open.spotify.com/track/4HN2lu14JqrBVT1OYinP8f) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9), [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Guardian \(Original Television Soundtrack\), Pt\. 12](https://open.spotify.com/album/1sLdVcimm0HP6Vp1SDKjPZ) | 4:19 |
+| 100 | [Is It Still Beautiful](https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [HOSPITAL PLAYLIST Season2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4) | 4:35 |
 
 Snapshot ID: `AAAAAEg0/UPIXqdzvkIOx7LoCaQwKhwa`

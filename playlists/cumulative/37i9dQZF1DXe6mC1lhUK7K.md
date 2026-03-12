@@ -4,7 +4,7 @@
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-117 songs - 6 hr 40 min
+118 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eye For An Eye \(Single from John Wick: Chapter 4 Original Motion Picture Soundtrack\)](https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG) | 3:04 | 2023-10-13 |  |
 | [Final Girl](https://open.spotify.com/track/0VlPGhSbjizh04pgE36FUb) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Screen Violence](https://open.spotify.com/album/0Q6KFth9qxni5rsmqtcTKO) | 4:29 | 2023-10-13 |  |
 | [Final Girl](https://open.spotify.com/track/1Ti848oQ94RjA39I0EQsmc) | [Graveyardguy](https://open.spotify.com/artist/4TzljaoVuVfN0TQpPluB7T), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Here Lies Graveyardguy](https://open.spotify.com/album/4MvzmynfyprDarAXBDoGq6) | 3:47 | 2023-10-13 |  |
-| [Final Girl](https://open.spotify.com/track/3fok9plswB5ajvSFNZYQX1) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Final Girl](https://open.spotify.com/album/0iuT0lgZ7hzwIENcggBOj4) | 2:34 | 2025-10-24 |  |
+| [Final Girl](https://open.spotify.com/track/3fok9plswB5ajvSFNZYQX1) | [Lazygirl](https://open.spotify.com/artist/1YV0K79qt0uLTxtGflXTH9) | [Final Girl](https://open.spotify.com/album/0iuT0lgZ7hzwIENcggBOj4) | 2:34 | 2025-10-24 | 2026-03-12 |
 | [Flagpole Sitta](https://open.spotify.com/track/7cz70nyRXlCJOE85whEkgU) | [Harvey Danger](https://open.spotify.com/artist/7fu6ebyL3JGXJgo5zsOo4k) | [Where Have All The Merrymakers Gone?](https://open.spotify.com/album/554gpRastI7dbOcir9eAkL) | 3:37 | 2023-10-13 |  |
 | [Freaky](https://open.spotify.com/track/3YTh8sEUXyvufGoQA5e6LP) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [Freaky](https://open.spotify.com/album/1IAFJUMqWGnF6lYADgS2jw) | 2:49 | 2023-10-13 |  |
 | [Girls Get Angry Too](https://open.spotify.com/track/2W1VZm3OlfkZclxmVSQtpF) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Girls Get Angry Too](https://open.spotify.com/album/110s4ExLbxaCxmoZlCneR5) | 3:06 | 2023-10-13 |  |
@@ -120,6 +120,7 @@
 | [The Kids Aren't Alright](https://open.spotify.com/track/6EiHcFupatDGdEGq1XzDAx) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [The Faculty \(Music From The Dimension Motion Picture\)](https://open.spotify.com/album/2ZaFYhgOvccj2dfHW2Boxv) | 2:59 | 2023-10-13 |  |
 | [The Kids Aren't Alright](https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 3:00 | 2023-10-13 | 2024-04-19 |
 | [Toxic \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/05XtOl4zvDiOXcHjtTMIqd) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 1:51 | 2023-10-13 |  |
+| [Twisting The Knife \(feat\. Mckenna Grace\)](https://open.spotify.com/track/2DaR6GuQKi78Lq32oRv38C) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Twisting The Knife \(feat\. Mckenna Grace\)](https://open.spotify.com/album/5dvN1KoTSr93iYDPvr5ZL4) | 3:21 | 2026-03-11 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2023-10-13 |  |
 | [What Do They Know?](https://open.spotify.com/track/5abubE0dYFaEPDeM2sZ4TY) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [You'll Rebel to Anything \(Expanded and Remastered 2008\)](https://open.spotify.com/album/4fIVLcTjPnagYnDmTivhiY) | 3:08 | 2023-10-13 |  |
 | [Where Is My Mind](https://open.spotify.com/track/1UVrXrYSie4wrHCtLQRisM) | [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT), [Grayson Sanders](https://open.spotify.com/artist/0MlGMVJlkgkO40TgR65itd) | [Where Is My Mind](https://open.spotify.com/album/5h3VwhwAyiOFqjfdKvN7zH) | 3:02 | 2023-10-13 |  |

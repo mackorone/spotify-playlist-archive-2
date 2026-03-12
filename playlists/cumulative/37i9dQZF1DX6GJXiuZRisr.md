@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-663 songs - 1 day 21 hr 34 min
+664 songs - 1 day 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Silence](https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Silence](https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF) | 4:05 | 2021-05-07 | 2023-10-15 |
 | [Silenced](https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Dark Matter](https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr) | 3:52 | 2022-02-25 | 2025-01-11 |
 | [Sinner \- Edit](https://open.spotify.com/track/3rM7KGUECeqVtYPoELk7ct) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/3rWqxcWVHk2wmB26tfXOWc) | 4:15 | 2021-05-07 | 2022-04-20 |
+| [Sirius](https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK) | [Hjafri](https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki) | [Sirius](https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo) | 2:48 | 2026-03-06 |  |
 | [Skin On Skin](https://open.spotify.com/track/6NnFDi8yXzPGmr2ykbf58n) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nightvision EP](https://open.spotify.com/album/2scllAGm040Z7At3jDYxuJ) | 2:52 | 2023-12-01 | 2024-02-17 |
 | [Sky](https://open.spotify.com/track/1IxF42puAtZnjhAB6opO83) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE) | [Sky EP](https://open.spotify.com/album/6BMSb7BvMYmjj7iX2aEi1J) | 4:02 | 2021-10-15 | 2022-07-28 |
 | [Skyscrapers \- Hi\-Lo Remix](https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Skyscrapers \(Hi\-Lo Remix\)](https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS) | 4:56 | 2021-10-01 | 2024-04-13 |
@@ -651,7 +652,7 @@
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-06-09 | 2024-12-07 |
 | [Where's The Music Gone](https://open.spotify.com/track/0W2DNZ8ttfFvhlGCBgMq0s) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Paul Rogers](https://open.spotify.com/artist/6QkoiP5TNAX3xPGTYDLpAg) | [Where's The Music Gone](https://open.spotify.com/album/2gcKpdIcK8DTt99uPWZkxp) | 3:48 | 2024-07-12 | 2025-10-04 |
 | [Wherever You Are](https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Wherever You Are](https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK) | 3:27 | 2024-06-07 |  |
-| [Wherever You Go](https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Wherever You Go](https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT) | 3:17 | 2025-03-14 |  |
+| [Wherever You Go](https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [B Jones](https://open.spotify.com/artist/5Z59lu7ApgQvSdntngRDkq), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I) | [Wherever You Go](https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT) | 3:17 | 2025-03-14 | 2026-03-12 |
 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 | 2024-07-26 |  |
 | [Win Win \- Yotto Remix](https://open.spotify.com/track/6n8Rao9bqH5zQnXiY6d7tr) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Win Win \(Yotto Remix\)](https://open.spotify.com/album/0lMeXS3yHep1snwNDuBKNG) | 4:03 | 2021-05-07 | 2022-04-21 |
 | [With You](https://open.spotify.com/track/18hPcmBPzTiHPQUKT9tC8v) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [With You](https://open.spotify.com/album/5xt7yJL0BWlhH3FM0cq0VP) | 3:15 | 2022-11-11 | 2023-03-02 |
