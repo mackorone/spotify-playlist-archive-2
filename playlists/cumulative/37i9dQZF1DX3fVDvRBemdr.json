@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: John West & Lange Frans",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Monique Smit",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -432,6 +432,24 @@
       "duration_ms": 166337,
       "name": "Alles komt goed",
       "url": "https://open.spotify.com/track/0IMvO1xxbalY1O50LQbUp9"
+    },
+    {
+      "album": {
+        "name": "Alles Met Je Delen",
+        "url": "https://open.spotify.com/album/75lxZsaUzY6KOSaphH57eZ"
+      },
+      "artists": [
+        {
+          "name": "Klazina",
+          "url": "https://open.spotify.com/artist/4cedMmifnKvfZH9DmrSZl5"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145631,
+      "name": "Alles Met Je Delen",
+      "url": "https://open.spotify.com/track/5wOfgY5XSHqzleKxFgCt3G"
     },
     {
       "album": {
@@ -1743,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Dat Doe Jij",
+        "url": "https://open.spotify.com/album/2JBYIlp40gTwBwqCPjRe8f"
+      },
+      "artists": [
+        {
+          "name": "Mike Peterson",
+          "url": "https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148442,
+      "name": "Dat Doe Jij",
+      "url": "https://open.spotify.com/track/22u2ehqXZvpRgmsNB5zerD"
+    },
+    {
+      "album": {
         "name": "Dat Interesseert Me Echt Geen Ene Reet",
         "url": "https://open.spotify.com/album/3OhugkmPHPppqXSjBIIU54"
       },
@@ -2160,7 +2196,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 213448,
       "name": "De Zon (Zal Weer Gaan Schijnen)",
       "url": "https://open.spotify.com/track/35FXdxNcDpdL3e9eY9nIxQ"
@@ -2922,7 +2958,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 157500,
       "name": "Faka",
       "url": "https://open.spotify.com/track/3kTzNmEK4M6tCkA4fubGsB"
@@ -3552,7 +3588,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156423,
       "name": "Goud",
       "url": "https://open.spotify.com/track/2gf4tNTtfDh8FoREZGc1aS"
@@ -3668,6 +3704,24 @@
       "duration_ms": 150503,
       "name": "Heb Lak Aan Wat Ze Zeggen",
       "url": "https://open.spotify.com/track/3ej7KCO6lz7Au29DsfDZq7"
+    },
+    {
+      "album": {
+        "name": "Heerlijk",
+        "url": "https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7"
+      },
+      "artists": [
+        {
+          "name": "Danny De Munk",
+          "url": "https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126489,
+      "name": "Heerlijk",
+      "url": "https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ"
     },
     {
       "album": {
@@ -4180,7 +4234,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158222,
       "name": "Ik ben liever bij jou",
       "url": "https://open.spotify.com/track/4QeIOmYFxV3meRgJjiZM2f"
@@ -4242,6 +4296,24 @@
       "duration_ms": 171428,
       "name": "Ik Ga Zweven",
       "url": "https://open.spotify.com/track/3yAhvccEQy9cztJZ0dgRBK"
+    },
+    {
+      "album": {
+        "name": "Ik Geniet En Ik Leef",
+        "url": "https://open.spotify.com/album/4xusIsn7afigsmlLyPoDoo"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153726,
+      "name": "Ik Geniet En Ik Leef",
+      "url": "https://open.spotify.com/track/6mY2IGGSG8vILXNZhb8Q5S"
     },
     {
       "album": {
@@ -4350,6 +4422,24 @@
       "duration_ms": 203957,
       "name": "Ik Kan Niet Zonder Jou",
       "url": "https://open.spotify.com/track/1tR3n0WLdSBWcmRnkwNCP9"
+    },
+    {
+      "album": {
+        "name": "Ik Kom Terug",
+        "url": "https://open.spotify.com/album/1tLkY8oqGcwmTjvtdZLHMd"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169191,
+      "name": "Ik Kom Terug",
+      "url": "https://open.spotify.com/track/1wiBI0OGxVOzGPAyJFr7dy"
     },
     {
       "album": {
@@ -4617,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "Ik Was Mezelf Even Kwijtgeraakt",
+        "url": "https://open.spotify.com/album/37IArezvvqVUmEVMq3XunS"
+      },
+      "artists": [
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195748,
+      "name": "Ik Was Mezelf Even Kwijtgeraakt",
+      "url": "https://open.spotify.com/track/5QgOJonvPznLzJG91jClTe"
+    },
+    {
+      "album": {
         "name": "Ik Wil Alleen Maar Dansen",
         "url": "https://open.spotify.com/album/57BjEM54otSwYNXzcAKGFv"
       },
@@ -4708,6 +4816,24 @@
       "duration_ms": 152695,
       "name": "Ik Wil Je",
       "url": "https://open.spotify.com/track/692crSQ4efSUM04Z5t9wi1"
+    },
+    {
+      "album": {
+        "name": "Ik Wil Je Helemaal",
+        "url": "https://open.spotify.com/album/2ZhPISAto7OhMhu3oNCc8D"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167166,
+      "name": "Ik Wil Je Helemaal",
+      "url": "https://open.spotify.com/track/3QxvbBt6GnNZ8AbWNO8CoN"
     },
     {
       "album": {
@@ -4864,6 +4990,24 @@
       "duration_ms": 200154,
       "name": "In De Wolken",
       "url": "https://open.spotify.com/track/0lEEf3dbpEVEpsn67UMhiQ"
+    },
+    {
+      "album": {
+        "name": "In Het Hart Van",
+        "url": "https://open.spotify.com/album/1wMb3TbE8B5cfbrxUnZ5aZ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170396,
+      "name": "In Het Hart Van",
+      "url": "https://open.spotify.com/track/6KudrzhnOIAhbB7qLKNgeM"
     },
     {
       "album": {
@@ -5805,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Laat Me",
+        "url": "https://open.spotify.com/album/6lMj8JmW7wUG8HquQfcNYU"
+      },
+      "artists": [
+        {
+          "name": "Sani van Mullem",
+          "url": "https://open.spotify.com/artist/37xCqbiUuhlWWEfPsjJe0O"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159521,
+      "name": "Laat Me",
+      "url": "https://open.spotify.com/track/2ICSjoB39njgdAL4wPU5hU"
+    },
+    {
+      "album": {
         "name": "Laat Me (Kroegenversie)",
         "url": "https://open.spotify.com/album/6kNVCN8T4At38wEIznlLw2"
       },
@@ -5892,7 +6054,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 169218,
       "name": "Laat Mij Maar Alleen",
       "url": "https://open.spotify.com/track/1d2IjBwB3urTKuPp4vNmnC"
@@ -7850,7 +8012,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166950,
       "name": "Samen",
       "url": "https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp"
@@ -8516,7 +8678,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166086,
       "name": "Toen Ik Je Zag",
       "url": "https://open.spotify.com/track/5YAtYsrpeO9bz4ffrhrFSP"
@@ -8700,7 +8862,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173669,
       "name": "Vallen en Opstaan",
       "url": "https://open.spotify.com/track/2XKcXMzMJlnDGnI8AyuT41"
@@ -10356,7 +10518,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 148806,
       "name": "Zij komt van het kamp",
       "url": "https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5"

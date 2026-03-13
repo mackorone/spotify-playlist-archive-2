@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 24124,
+  "num_followers": 24178,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -775,30 +775,6 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/1wOXDQrX0hEdmgi6o6m1lf"
-      },
-      "artists": [
-        {
-          "name": "Sloppy Disk",
-          "url": "https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
-        },
-        {
-          "name": "TJO",
-          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/3mZvGN3AEPqe62Kxl8MfDO"
-    },
-    {
-      "added_at": "2026-03-09 01:38:41",
-      "album": {
         "name": "glowing arcade",
         "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
       },
@@ -831,6 +807,30 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/1wOXDQrX0hEdmgi6o6m1lf"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Disk",
+          "url": "https://open.spotify.com/artist/5IEl2TsgM9jO0kkapS5RtB"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+        },
+        {
+          "name": "TJO",
+          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/3mZvGN3AEPqe62Kxl8MfDO"
+    },
+    {
+      "added_at": "2026-03-09 01:38:41",
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-03-09 01:38:41",
       "album": {
-        "name": "KURU KURU HARAJUKU",
-        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
-      },
-      "artists": [
-        {
-          "name": "Kyary Pamyu Pamyu",
-          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
-        }
-      ],
-      "duration_ms": 257820,
-      "name": "KURU KURU HARAJUKU",
-      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
-    },
-    {
-      "added_at": "2026-03-09 01:38:41",
-      "album": {
         "name": "Nulife",
         "url": "https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 236675,
       "name": "Nulife",
       "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
+    },
+    {
+      "added_at": "2026-03-09 01:38:41",
+      "album": {
+        "name": "KURU KURU HARAJUKU",
+        "url": "https://open.spotify.com/album/72Rq4jmmzkQ4db2CgliNvP"
+      },
+      "artists": [
+        {
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+        }
+      ],
+      "duration_ms": 257820,
+      "name": "KURU KURU HARAJUKU",
+      "url": "https://open.spotify.com/track/0J4rHdjYkIRCVn6DvEg7aD"
     },
     {
       "added_at": "2026-03-09 01:38:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Esty\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,199 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,217 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 50 | [AFILAO](https://open.spotify.com/track/2HmPMCeBcn64cvTQfeyzlH) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [GAMMA](https://open.spotify.com/album/6QHS1y5GUFcooMxHB6M9FJ) | 2:17 |
 
-Snapshot ID: `AAAAAFL79uQpvIU8PfVERSuyoU4ijOM2`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

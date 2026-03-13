@@ -1,15 +1,63 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 11137,
+  "num_followers": 11148,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMGMNpmIBZ+Shn9apWfcDV9bG7QE",
+  "snapshot_id": "AAAAAMzIXmJT5Ogrja0m1NwI03YADKFC",
   "tracks": [
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
+      "album": {
+        "name": "pension rm. 04 - Hide",
+        "url": "https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0"
+      },
+      "artists": [
+        {
+          "name": "Shin Yun Su",
+          "url": "https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm"
+    },
+    {
+      "added_at": "2026-03-12 02:17:49",
+      "album": {
+        "name": "archives 17",
+        "url": "https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp"
+      },
+      "artists": [
+        {
+          "name": "kanegi.",
+          "url": "https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "beginner",
+      "url": "https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx"
+    },
+    {
+      "added_at": "2026-03-12 02:17:49",
+      "album": {
+        "name": "a public walk",
+        "url": "https://open.spotify.com/album/1PEy98fZ5FmI2R71CCK2zt"
+      },
+      "artists": [
+        {
+          "name": "2danji",
+          "url": "https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "shorthand and shorthand",
+      "url": "https://open.spotify.com/track/4LCyhDCUayVayYCLvNJfDn"
+    },
+    {
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Happy Together",
         "url": "https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY"
@@ -25,23 +73,7 @@
       "url": "https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
-      "album": {
-        "name": "NOTHING WITHOUT YOU",
-        "url": "https://open.spotify.com/album/3aKoklMO5GlK6PuUJMz5Xx"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "NOTHING WITHOUT YOU",
-      "url": "https://open.spotify.com/track/3ZfzAgu2hva5Pw9HVWys14"
-    },
-    {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "miss u so",
         "url": "https://open.spotify.com/album/6ayvj3yPahHwnSEUom6PMg"
@@ -61,39 +93,23 @@
       "url": "https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
-        "name": "Instant Lover",
-        "url": "https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD"
+        "name": "NOTHING WITHOUT YOU",
+        "url": "https://open.spotify.com/album/3aKoklMO5GlK6PuUJMz5Xx"
       },
       "artists": [
         {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
         }
       ],
-      "duration_ms": 269775,
-      "name": "Instant Lover",
-      "url": "https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4"
+      "duration_ms": 249000,
+      "name": "NOTHING WITHOUT YOU",
+      "url": "https://open.spotify.com/track/3ZfzAgu2hva5Pw9HVWys14"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
-      "album": {
-        "name": "LOST (Positively Yours X THAMA) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/7jUK0orRr3PukdcFBmI5eb"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/23alqwXGP0AULQNNLoo8hP"
-    },
-    {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/0yuAWlxq59xT3agQ965OxE"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Beanie",
         "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/5mtTAScDytxMMqZj14NmlN"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
@@ -253,7 +269,7 @@
       "url": "https://open.spotify.com/track/6YVajR33kCWLhWpMVD8AGD"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "0.1 flaws and all.",
         "url": "https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML"
@@ -285,7 +301,7 @@
       "url": "https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Pistol",
         "url": "https://open.spotify.com/album/5nvVm89VAndk8QoIwKBB3I"
@@ -301,7 +317,7 @@
       "url": "https://open.spotify.com/track/36pMQRacz9p99OevARrvVs"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
@@ -317,7 +333,7 @@
       "url": "https://open.spotify.com/track/1BANPzYIhCQkJ1ZFq2Fb0O"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6"
@@ -333,23 +349,7 @@
       "url": "https://open.spotify.com/track/1MaQMMOR80DNUWVBM7L9fz"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
-      "album": {
-        "name": "Blood Harmony (Deluxe)",
-        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 237979,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
-    },
-    {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "JAMONG SALGU CLUB",
         "url": "https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ"
@@ -365,7 +365,23 @@
       "url": "https://open.spotify.com/track/3sOAwRg5esaxDcWnUigWPv"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
+      "album": {
+        "name": "Blood Harmony (Deluxe)",
+        "url": "https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k"
+    },
+    {
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "THE LONELIEST",
         "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "To Let A Good Thing Die",
         "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "a beautiful blur",
         "url": "https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/25wNGoRO6hViX3AIPPFjpo"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Flower",
         "url": "https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "always",
         "url": "https://open.spotify.com/album/37FLvUnF5qC1LZBNCWqG1A"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/6D6HVKe7Qu3imn4zzJD0W9"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Lithonia",
         "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "LOOM",
         "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/2Morv8EWzWFsfbqG8vdUfy"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Forever Has Always Been",
         "url": "https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Sexy to Someone",
         "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
@@ -525,23 +541,7 @@
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
-      "album": {
-        "name": "Closely Far Away",
-        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Closely Far Away",
-      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
-    },
-    {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
@@ -557,7 +557,23 @@
       "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
+      "album": {
+        "name": "Closely Far Away",
+        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Closely Far Away",
+      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
+    },
+    {
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Model",
         "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/7GXcuBE3Aiu8gUJjX8PSlV"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Clancy",
         "url": "https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "do you think you could love me?",
         "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "No One Sings Like You Anymore",
         "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/0cMyMeOTBeweBZRfP6MJ6e"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Neon Pill",
         "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "The Craving",
         "url": "https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "To Dry a Tear",
         "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "WHOEVER",
         "url": "https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "TEAM BABY",
         "url": "https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "\ub098\ubb34",
         "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO"
@@ -749,7 +765,7 @@
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Our Love",
         "url": "https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L"
@@ -765,23 +781,7 @@
       "url": "https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
-      "album": {
-        "name": "Holidays",
-        "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Holidays",
-      "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
-    },
-    {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
         "name": "Luxury Disease",
         "url": "https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4"
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
     },
     {
-      "added_at": "2026-03-05 07:14:03",
+      "added_at": "2026-03-12 02:17:49",
       "album": {
-        "name": "Model",
-        "url": "https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ"
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2"
       },
       "artists": [
         {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 167144,
-      "name": "You (Show Me Where My Days Went)",
-      "url": "https://open.spotify.com/track/08QharKdouaH70SCqhfcZM"
+      "duration_ms": 221666,
+      "name": "Holidays",
+      "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
     }
   ],
   "unique_name": "\ubb3c \uba4d",

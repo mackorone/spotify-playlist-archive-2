@@ -2,9 +2,9 @@
 
 ### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
 
-> Trending rn\. Cover: Sarkodie
+> Trending rn\. Cover: Kayode
 
-1,042 songs - 2 day 10 hr 7 min
+1,044 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Afa Kennedy](https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK) | [Outsyd Eddie](https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8), [JNR ELDER](https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx), [Outsyd DJ](https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II) | [Afa Kennedy](https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx) | 2:36 | 2025-07-04 | 2025-08-01 |
 | [African Something](https://open.spotify.com/track/3HXRp72O3OzEtOxNhm2pHI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [African Something](https://open.spotify.com/album/69WaMRwJkdCJpAHPzCMvbj) | 2:03 | 2023-11-18 | 2024-01-16 |
 | [Agba Singing](https://open.spotify.com/track/1r1Xz7MMUotaxziNtqcstp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Agba Singing](https://open.spotify.com/album/2Mt90xMkv1pP1ZxOpIvg1i) | 2:30 | 2024-10-07 | 2024-12-18 |
+| [Aimoye](https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Aimoye](https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf) | 2:14 | 2026-03-13 |  |
 | [Akonuche](https://open.spotify.com/track/0MZxm2o1pedxNPD0ORiwgg) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Akonuche](https://open.spotify.com/album/5KvfDcy4EmReJrJYEdsUBI) | 2:16 | 2026-01-14 |  |
 | [Akonuche \- Remix](https://open.spotify.com/track/2uuGsYiBB32ZRMqL6SXvGm) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Akonuche \(Remix\)](https://open.spotify.com/album/7pVsX4rAXPs8utzUlGzu0s) | 2:56 | 2026-01-23 |  |
 | [Al\-Jannah](https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:18 | 2025-07-04 | 2025-09-17 |
@@ -271,7 +272,7 @@
 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/0sOTUNnrLiwEfjgPs1nnJS) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/album/06QznHIpl5VXQOjcoBJp0W) | 2:40 | 2025-04-07 | 2025-06-28 |
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2021-12-10 | 2022-04-28 |
 | [Dipatje Tsa Felo \(feat\. Daliwonga\)](https://open.spotify.com/track/3rDd1X68wGTaKYRATrcARb) | [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn) | [Dipatje Tsa Felo \(feat\. Daliwonga\)](https://open.spotify.com/album/7u3mrMGgYgQkpIO5ntmezv) | 6:19 | 2022-02-01 | 2022-04-28 |
-| [disco](https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:13 | 2026-01-14 |  |
+| [disco](https://open.spotify.com/track/6jcyiJ9pS1gkPvZvgl9ZO5) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [catharsis](https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S) | 2:13 | 2026-01-14 | 2026-03-13 |
 | [Disconnect](https://open.spotify.com/track/5dgkSJAuFXZnwz7OAFUnIk) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:25 | 2025-09-16 | 2025-09-30 |
 | [DJ Tassouman](https://open.spotify.com/track/0dXj0ElzCffNqVzYn9I7qF) | [Meiway](https://open.spotify.com/artist/1Vgb3eqBF3DLP6FwY7MuB4) | [Golgotha 800% Zoblazo](https://open.spotify.com/album/5lbcA0gIjFIGQxHgU3ZFEY) | 5:38 | 2022-11-28 | 2023-02-17 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-09-08 | 2023-01-30 |
@@ -455,7 +456,7 @@
 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 | 2026-01-14 |  |
 | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C) | [Jorjiana](https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [ILBB2 \(feat\. GloRilla\)](https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R) | 2:13 | 2025-06-27 | 2025-07-05 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-09-29 | 2025-10-09 |
-| [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 | 2026-03-10 |  |
+| [Illuminati](https://open.spotify.com/track/3LYH7jwDVJNz09lnRvgGDa) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 2:46 | 2026-03-10 | 2026-03-13 |
 | [Illuminati](https://open.spotify.com/track/1ZXEvJhugYz8uBqrm4yv2c) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb) | 2:46 | 2023-11-18 | 2024-01-16 |
 | [Im So ATL](https://open.spotify.com/track/3kRX4GbhjK2lrgRE6G2Fjh) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL \(Regular + Sped Up\)](https://open.spotify.com/album/22aJ7R9eHs7KdVr98wqgRf) | 2:04 | 2025-07-04 | 2025-08-12 |
 | [Imma Boss](https://open.spotify.com/track/3HBzvCsx8PGO91KkzA6qrk) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [Nadia Naked](https://open.spotify.com/album/4RTVuOqSQqFP5mtCnImdnD) | 2:37 | 2023-07-06 | 2023-11-23 |
@@ -688,6 +689,7 @@
 | [Ojuju](https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7) | [Troniq Music](https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Eclipse](https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i) | 3:07 | 2024-02-22 | 2025-09-30 |
 | [Old School](https://open.spotify.com/track/2fgVh2OWfXsbb9sbdzztiL) | [Lucky Mensah](https://open.spotify.com/artist/2ptKayc66fCfwhEm3ZPS0h) | [Old School](https://open.spotify.com/album/0coNvcEHlUSsBXhw8vzVkh) | 5:04 | 2023-01-06 | 2023-02-17 |
 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/35YJyASvtvRfLJi6lKLZkP) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Everybody Loves Ice Prince](https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi) | 4:47 | 2024-09-29 | 2024-10-06 |
+| [OLEKU II](https://open.spotify.com/track/2dj9HsU645od6aAxn4N1NB) | [1onegs](https://open.spotify.com/artist/5loiHN1gGPfH7zPDZp6iRn), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn) | [OLEKU II](https://open.spotify.com/album/65KkYEbSCw22Eo5FiKG3mk) | 3:55 | 2026-03-13 |  |
 | [OLIVER](https://open.spotify.com/track/2f0ubKTsYKVBCkGyZMZ4Kb) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [OLIVER](https://open.spotify.com/album/1H27gWT1pQ2KloYBlf733D) | 2:43 | 2025-07-04 | 2025-08-12 |
 | [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2024-01-15 | 2024-02-01 |
 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 | 2022-07-13 | 2023-03-14 |

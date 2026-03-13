@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-1,083 songs - 2 day 8 hr 54 min
+1,084 songs - 2 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/track/0Y067MfwJgUQEGXs289QUs) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Loud Tiger](https://open.spotify.com/artist/2J74jx8m4zVdsMYXdrwV7Y) | [By Law \(feat\. Loud Tiger\)](https://open.spotify.com/album/7Cy8eXNq5ZEU74KYZttmTD) | 2:31 | 2022-07-15 | 2022-09-03 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2021-06-04 | 2022-07-01 |
 | [Bye Bye Bye](https://open.spotify.com/track/1vYFL3ZdGllLpnJK5RsJE7) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Bye Bye Bye](https://open.spotify.com/album/0LPQvpUWxwYg2VdqLMK5Qx) | 2:51 | 2021-07-10 | 2021-08-14 |
+| [CALL ME](https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [CALL ME](https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9) | 2:10 | 2026-03-13 |  |
 | [Calor](https://open.spotify.com/track/5AYOeIifgqYqlASl8f9V3S) | [Swick](https://open.spotify.com/artist/5VNkkC3qDvK5k5qtfEaEID), [King Doudou](https://open.spotify.com/artist/3aVceD1iZNjO7INFdXQaeZ), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Calor](https://open.spotify.com/album/3gPw09MhiVu0JOtbDn21Kc) | 3:07 | 2022-07-15 | 2022-09-17 |
 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-08 | 2022-11-11 |
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-02-10 | 2022-07-30 |

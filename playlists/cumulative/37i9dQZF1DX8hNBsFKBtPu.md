@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-820 songs - 1 day 17 hr 56 min
+824 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Hader Dig Stadig](https://open.spotify.com/track/5Gob6g88pyX0bcGx9t46oy) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Hader Dig Stadig](https://open.spotify.com/album/2pNluijRBk8AuSKKbwIVF3) | 2:57 | 2025-08-21 | 2025-09-12 |
 | [hader ik mig selv sammen med dig](https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hader ik mig selv sammen med dig](https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR) | 2:18 | 2025-09-25 |  |
 | [Halbal i København \(feat\. JOSVA\)](https://open.spotify.com/track/6vu6ObTrFf9wYL1Kvd7miL) | [Luca Stereo](https://open.spotify.com/artist/45QGVJCKobWSRSFbbrrAvp), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [Halbal i København \(feat\. JOSVA\)](https://open.spotify.com/album/2qEZLu8mpVrXQshl42fvR2) | 3:11 | 2026-02-26 |  |
+| [Ham Med Guitaren](https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Ham Med Guitaren](https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl) | 3:14 | 2026-03-12 |  |
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-27 | 2024-07-30 |
 | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/track/5nASqWcjcInzxUXi85drKk) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Handsome \(feat\. Benjamin Hav, JOSVA & Gilli\)](https://open.spotify.com/album/3VdtcZKWLij2eQGc75CElV) | 2:31 | 2025-05-15 | 2025-07-04 |
 | [Happy Days](https://open.spotify.com/track/7MVL6j02HrMbKB85n8ukQ1) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Happy Days](https://open.spotify.com/album/5i7C4pEzDpbrhN39th101y) | 3:05 | 2025-10-02 |  |
@@ -370,6 +371,7 @@
 | [I Want Back The Money](https://open.spotify.com/track/2UQDWnP4hk2Tlkxj5zYt1f) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [I Want Back The Money](https://open.spotify.com/album/7qTXvBvUb5LVuBhKrfE9dc) | 2:48 | 2025-11-21 |  |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-21 | 2025-11-07 |
 | [I Won't Miss A Thing](https://open.spotify.com/track/5UgPB3ivHBCkhftx2wGBy2) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [I Won't Miss A Thing](https://open.spotify.com/album/6tAI8qCWzBSZYvsxU1qX3w) | 3:54 | 2025-07-03 | 2025-07-18 |
+| [I Ærmet](https://open.spotify.com/track/3VkAJiwfFAGeSoMgwIuhN5) | [Zar Paulo](https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2) | [Ex\_Europa](https://open.spotify.com/album/6MTlhGXvZsaaNftZvZLU4c) | 4:13 | 2026-03-12 |  |
 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-11-27 | 2026-01-15 |
 | [I'm not crying wolf](https://open.spotify.com/track/4ycC3JNjmTBVUIGiHXRkqi) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [I'm not crying wolf](https://open.spotify.com/album/0x8PHfG2aLWFdkORH2Pu6p) | 2:27 | 2025-05-15 | 2025-06-27 |
 | [I'm Not There For You](https://open.spotify.com/track/3kLqlYcPuj5864tVB5LVL2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I'm Not There For You](https://open.spotify.com/album/370b4ij3gUhdJsUF2Z1zEe) | 2:19 | 2025-10-23 |  |
@@ -676,6 +678,7 @@
 | [Sun](https://open.spotify.com/track/0IWxWAiazOyGJmOuZHnUiY) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Sun](https://open.spotify.com/album/1uvkzhUEwMB6BplcGKcr4b) | 2:21 | 2025-05-22 | 2025-08-01 |
 | [Sundt At Savne Nogen](https://open.spotify.com/track/6yYXeZ9kQkcpqilF2If877) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Sundt At Savne Nogen](https://open.spotify.com/album/2NHlbpYYeZOvciIIVRTLhZ) | 2:34 | 2025-10-30 | 2025-11-14 |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-13 | 2025-03-28 |
+| [Superlim](https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Superlim](https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R) | 3:05 | 2026-03-12 |  |
 | [SUPERSONIC](https://open.spotify.com/track/4q7R7pOqr3gNj7VJpgwTKu) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [SUPERSONIC](https://open.spotify.com/album/4zZ4ajMHG4gXXdljaZR7kH) | 2:46 | 2025-02-27 | 2025-03-28 |
 | [Surprise Party](https://open.spotify.com/track/2YXTDtcDhQUiszqGlrF1Iv) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [Surprise party](https://open.spotify.com/album/1ISHe7R4fCXecKUCMLERBI) | 3:22 | 2025-04-03 | 2025-07-04 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-26 | 2026-02-06 |
@@ -717,6 +720,7 @@
 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 | 2024-11-14 | 2025-01-17 |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-06-27 | 2024-07-30 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-07-31 | 2025-09-06 |
+| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-12 |  |
 | [There's Just Something About Her](https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [There's Just Something About Her](https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar) | 3:12 | 2025-09-25 |  |
 | [These Walls](https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:37 | 2024-06-27 | 2024-11-08 |
 | [They Turn into Ghosts](https://open.spotify.com/track/78hXC9muYVwK95xFiWcLfw) | [MAGLY](https://open.spotify.com/artist/3bVunlWHUpBqbav70P6Dbu) | [They Turn Into Ghosts](https://open.spotify.com/album/7x64asG9RtbTCO8Pguty4u) | 2:51 | 2025-01-23 | 2025-04-18 |

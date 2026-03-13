@@ -2,9 +2,9 @@
 
 ### [RADAR: Podcasters 2026](https://open.spotify.com/playlist/37i9dQZF1DX7ioqEUKqxAm)
 
-> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集 \(cover: 山田由梨の眠れないなら茶をのんで\)
+> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集 \(cover: オトコの子育てよももやまばなし\)
 
-67 songs - 2 day 3 hr 7 min
+69 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [\#13 Y2Kに還元できない“2000年代リバイバル”の本質](https://open.spotify.com/episode/7MPTPsOJ7igBknUbQ7rXxN) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 50:54 | 2025-01-09 | 2025-02-14 |
 | [\#135　過去の恋愛を小説に書くのは浮気だろうか](https://open.spotify.com/episode/2vdU11XfbMz62VwEOIk0Ay) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk) | 27:16 | 2025-04-01 | 2026-01-15 |
 | [\#141　「実家太い」にまつわるあれこれ](https://open.spotify.com/episode/6AnbMRuSEqPL6ZgVU8cw6P) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk) | 41:58 | 2025-05-01 | 2026-01-15 |
-| [\#17 一年三ヶ月の育休を取ったワケ〜育休振り返り①](https://open.spotify.com/episode/7kJcUSkV8IkwCEZTNGf21e) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 29:13 | 2026-01-08 |  |
+| [\#17 一年三ヶ月の育休を取ったワケ〜育休振り返り①](https://open.spotify.com/episode/7kJcUSkV8IkwCEZTNGf21e) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 29:13 | 2026-01-08 | 2026-03-13 |
 | [\#1　一億総メンヘラ社会　不登校とTHE FIRST SLAM DUNKの話](https://open.spotify.com/episode/7vnFfAjrH9p6Baibffz27H) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/show/3sPGEXpPpLhl79fYfr0mbk) | [上坂あゆ美の「私より先に丁寧に暮らすな」](https://open.spotify.com/album/3sPGEXpPpLhl79fYfr0mbk) | 27:02 | 2025-01-09 | 2025-04-02 |
 | [\#22 ハン・ガンのノーベル賞受賞から考える韓国の文化輸出力](https://open.spotify.com/episode/0Zr8EKs4bcxB6sie1HX8Wz) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 39:03 | 2025-01-09 | 2025-04-02 |
 | [\#25【ダウ蓮見×ラランドニシダ】できないキャラとプライドのせめぎ合い](https://open.spotify.com/episode/4WI1246dJ9jixLYFAhSGCX) | [トキトケトーク](https://open.spotify.com/show/0HElb0ko3duIHrLzoOFBvo) | [トキトケトーク](https://open.spotify.com/album/0HElb0ko3duIHrLzoOFBvo) | 35:13 | 2026-01-08 | 2026-02-27 |
@@ -34,7 +34,7 @@
 | [\#43 ヒートテックを辞めようと思ってる。](https://open.spotify.com/episode/3WL7w5MO4TCRoZK8kx4c18) | [ぽこピーのゆめうつつ](https://open.spotify.com/show/315rSWYLluySzZ23ubctEZ) | [ぽこピーのゆめうつつ](https://open.spotify.com/album/315rSWYLluySzZ23ubctEZ) | 32:29 | 2026-02-05 |  |
 | [\#43【ダウ蓮見×安藤奎】ドラマ「じゃあ、あんたが作ってみろよ」脚本の苦悩](https://open.spotify.com/episode/3bokKmUejbsaWqXGOzCjNj) | [トキトケトーク](https://open.spotify.com/show/0HElb0ko3duIHrLzoOFBvo) | [トキトケトーク](https://open.spotify.com/album/0HElb0ko3duIHrLzoOFBvo) | 32:39 | 2026-02-05 |  |
 | [\#44 新幹線で隣の人がキムチを食べだした](https://open.spotify.com/episode/24Ak5khmyAgyPxG1DTCYPR) | [ぽこピーのゆめうつつ](https://open.spotify.com/show/315rSWYLluySzZ23ubctEZ) | [ぽこピーのゆめうつつ](https://open.spotify.com/album/315rSWYLluySzZ23ubctEZ) | 34:15 | 2026-02-26 |  |
-| [\#48 リアクションとアテンションをめぐる座談 w/ワッコ](https://open.spotify.com/episode/2mUqDLkUOjnclArAkzpF0P) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 34:12 | 2026-01-08 |  |
+| [\#48 リアクションとアテンションをめぐる座談 w/ワッコ](https://open.spotify.com/episode/2mUqDLkUOjnclArAkzpF0P) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 34:12 | 2026-01-08 | 2026-03-13 |
 | [\#49【ダウ蓮見×大島育宙】コンテンツ飽和時代の感想の難しさ](https://open.spotify.com/episode/5Ilzgx9d1KG9EXK87oZ8jk) | [トキトケトーク](https://open.spotify.com/show/0HElb0ko3duIHrLzoOFBvo) | [トキトケトーク](https://open.spotify.com/album/0HElb0ko3duIHrLzoOFBvo) | 42:31 | 2026-02-26 |  |
 | [\#5 編集者／ライター どうやってなった？](https://open.spotify.com/episode/6cVKVJTEglAYdCc5dwKbnQ) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 53:03 | 2025-01-09 | 2025-04-02 |
 | [\#51 男性育休の現在地【取得率とその実態をめぐる座談】w/竹原健二\(国立成育医療研究センター政策科学研究部\)](https://open.spotify.com/episode/5xDTifdoWSi5E5hk1ehmXk) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 48:51 | 2026-01-08 | 2026-02-06 |
@@ -61,7 +61,9 @@
 | [ブランドはなぜ値上げを続けるのか](https://open.spotify.com/episode/6vTjBLQyKQ3VNlu8iQF6V8) | [AfterParty](https://open.spotify.com/show/0xaWNjQxGgEbGX9uTDHRGb) | [AfterParty](https://open.spotify.com/album/0xaWNjQxGgEbGX9uTDHRGb) | 45:31 | 2025-04-01 | 2026-01-15 |
 | [プロYouTuberは大変だ！](https://open.spotify.com/episode/4VvlAPPHAe3RDJmXUCzBaW) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/show/24JOT4LUuffRJKqjrVBkim) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/album/24JOT4LUuffRJKqjrVBkim) | 1:32:48 | 2022-06-29 | 2025-01-10 |
 | [人前で歌えなかったハーフ歌手UMIが2万人観客動員アリーナツアーの舞台に立つまで。](https://open.spotify.com/episode/0oRUrNnb2ZZVvbH4tjjLgJ) | [GOLDNRUSH PODCAST](https://open.spotify.com/show/0RN0KQWRDGNkcyG5LEufDW) | [GOLDNRUSH PODCAST](https://open.spotify.com/album/0RN0KQWRDGNkcyG5LEufDW) | 1:06:50 | 2025-02-20 | 2026-01-15 |
+| [休日つまらない \#57 ](https://open.spotify.com/episode/1zSjWYKW9XylaF9EalL6mF) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 38:39 | 2026-03-12 |  |
 | [大五郎強盗殺人事件。1999年発生。時代劇「子連れ狼」の大五郎役をやっていた元俳優による強盗殺人事件。](https://open.spotify.com/episode/2vFygLXg8AU98HlHOOwbkk) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/show/1LClGyWoHM39AW1CEqeLHT) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/album/1LClGyWoHM39AW1CEqeLHT) | 9:51 | 2022-06-28 | 2025-01-10 |
+| [子どもたちのレジスタンス w/富永京子 \#58 ](https://open.spotify.com/episode/5d9MV0Ala5iqlxaQR7ybMt) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 57:34 | 2026-03-12 |  |
 | [安倍元総理銃撃事件。現在までわかっていることと、現場に行って感じたことをお話しています。](https://open.spotify.com/episode/4A3JXe6lOpXYQRB4wwpaAG) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/show/1LClGyWoHM39AW1CEqeLHT) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/album/1LClGyWoHM39AW1CEqeLHT) | 22:53 | 2022-07-12 | 2025-01-10 |
 | [帰国子女がぶっちゃける？！日本とイギリスの学校の違い](https://open.spotify.com/episode/0qIcdumBTAs8b6jQbkq2fD) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/show/24JOT4LUuffRJKqjrVBkim) | [痛いおじさんズPodcast（with PDRさん & SHO）](https://open.spotify.com/album/24JOT4LUuffRJKqjrVBkim) | 1:42:51 | 2022-06-28 | 2025-01-10 |
 | [日航機墜落事故。前編。1985年8月12日発生。乗客乗員524人を乗せた日航123便が群馬県御巣鷹山に墜落した日本航空史上最悪の事故。](https://open.spotify.com/episode/2pbhRRKzGyw8Gv05gSY8dE) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/show/1LClGyWoHM39AW1CEqeLHT) | [さむいぼラジオ〜ニッポンのタブー〜](https://open.spotify.com/album/1LClGyWoHM39AW1CEqeLHT) | 28:51 | 2022-06-28 | 2025-01-10 |

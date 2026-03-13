@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik dari talenta segar dalam negri. Cover: BILLKISS",
+  "description": "Temukan beragam musik dari talenta segar dalam negri. Cover: NPD",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -18819,6 +18819,32 @@
     },
     {
       "album": {
+        "name": "cool in the summer",
+        "url": "https://open.spotify.com/album/7kRuRKeYDb3adNEFmjcePH"
+      },
+      "artists": [
+        {
+          "name": "Kenz",
+          "url": "https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk"
+        },
+        {
+          "name": "lucidrari",
+          "url": "https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac"
+        },
+        {
+          "name": "Alva Gracia",
+          "url": "https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "cool in the summer",
+      "url": "https://open.spotify.com/track/6qeMHA0pP6PC4b6y7CD3mH"
+    },
+    {
+      "album": {
         "name": "Core Memory",
         "url": "https://open.spotify.com/album/6dqnpH04qrfYjAvyeNXRTU"
       },
@@ -21476,7 +21502,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 209307,
       "name": "Di Bawah Langit",
       "url": "https://open.spotify.com/track/31a7ZmEySFCvWPjoN78P6O"
@@ -21968,6 +21994,24 @@
       "duration_ms": 177000,
       "name": "Dieng & Rindu",
       "url": "https://open.spotify.com/track/7DfD5uEQErUVfS9vhS6Y6a"
+    },
+    {
+      "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/3Md6Ln2jgbj4Wakq37VS5q"
+      },
+      "artists": [
+        {
+          "name": "safiradinda",
+          "url": "https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Difference",
+      "url": "https://open.spotify.com/track/1bhMxRHujv6SzNMDeFAw9T"
     },
     {
       "album": {
@@ -33405,6 +33449,24 @@
     },
     {
       "album": {
+        "name": "Happy Birthday (Hadiah Istimewa)",
+        "url": "https://open.spotify.com/album/5s179ls0HB1NMkeYHxcwhR"
+      },
+      "artists": [
+        {
+          "name": "Calma.",
+          "url": "https://open.spotify.com/artist/1szxgX8HMTQeimAZAbkER9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260329,
+      "name": "Happy Birthday (Hadiah Istimewa)",
+      "url": "https://open.spotify.com/track/5oEgREiGGTVwFEtw3kJzY1"
+    },
+    {
+      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/2Swm0HlmWEqiN5kg6oQLqc"
       },
@@ -44478,7 +44540,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 281074,
       "name": "Juang Angan",
       "url": "https://open.spotify.com/track/1wwTYjfLeD82rVxLuV7mef"
@@ -46336,7 +46398,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 196913,
       "name": "Kau Coba Rayu",
       "url": "https://open.spotify.com/track/6xUDepVgmeKnUx2rBhR8bP"
@@ -55614,7 +55676,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 287022,
       "name": "Makin Aku Cinta",
       "url": "https://open.spotify.com/track/66J9M7GB9d5x2LGtinuScW"
@@ -59358,7 +59420,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 249633,
       "name": "Menuai Terurai",
       "url": "https://open.spotify.com/track/7MkGyRKVnEGqQLUVXdPL8p"
@@ -63658,7 +63720,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 235826,
       "name": "Nikah Sempurna",
       "url": "https://open.spotify.com/track/7xfVzvVzxRXfgmiHaERnY1"
@@ -68324,7 +68386,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 212000,
       "name": "Peluk",
       "url": "https://open.spotify.com/track/6PNPymZ3AzIW94dEP6bbOe"
@@ -78751,6 +78813,24 @@
     },
     {
       "album": {
+        "name": "Sejenak",
+        "url": "https://open.spotify.com/album/2wN7a7OkskFf82ntujqQq1"
+      },
+      "artists": [
+        {
+          "name": "LJF",
+          "url": "https://open.spotify.com/artist/1LZVZXAA2qM1ZWmfmEd7zh"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233056,
+      "name": "Sejenak",
+      "url": "https://open.spotify.com/track/7JTQvkSBbIheoEpFOWS5zM"
+    },
+    {
+      "album": {
         "name": "Sejenak Bersamamu",
         "url": "https://open.spotify.com/album/4zohHdMhMqLUZ8vrjrIMht"
       },
@@ -80078,6 +80158,24 @@
       "duration_ms": 161882,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/40w94zYMf0cWmisCWZJyKd"
+    },
+    {
+      "album": {
+        "name": "Sempurnanya Aku",
+        "url": "https://open.spotify.com/album/3rq58ZVUSgptnwT3aqqqKR"
+      },
+      "artists": [
+        {
+          "name": "NPD",
+          "url": "https://open.spotify.com/artist/1TyOcqrycLx6L5U9ULfW40"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228851,
+      "name": "Sempurnanya Aku",
+      "url": "https://open.spotify.com/track/0JfmPdTQbvJpD6ngsCLgR5"
     },
     {
       "album": {
@@ -87754,7 +87852,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 250664,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/2Po37rd8aBf2xF2Ets681h"
@@ -89620,7 +89718,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 207214,
       "name": "Tak Semua Luka Tampak",
       "url": "https://open.spotify.com/track/65C3AYtyl3xRqjpb4wOEEM"
@@ -95670,7 +95768,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 171000,
       "name": "Tongkat Sihir",
       "url": "https://open.spotify.com/track/5hglczcbronGeycPEHydKy"

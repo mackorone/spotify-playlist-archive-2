@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Maria BC
 
-255 songs - 14 hr 50 min
+257 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2Tru](https://open.spotify.com/track/3FNqzfajzraT8aP5TuwL8N) | [CCFX](https://open.spotify.com/artist/28tPuyqMVd3L51JmH9RpGZ) | [CCFX EP](https://open.spotify.com/album/0XV4H8McfOxCVsx145tRkd) | 3:51 | 2025-03-13 | 2026-01-24 |
 | [4th of July](https://open.spotify.com/track/68ZkOZydnQY3ROFXM5PRZC) | [Mia Joy](https://open.spotify.com/artist/5a3lFI5IJGQbpMTdjrehHl) | [4th of July](https://open.spotify.com/album/1j5yIefEe1FhrxdJ6PI3EU) | 2:59 | 2025-03-13 | 2025-10-18 |
 | [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-03-13 |  |
+| [a little too late](https://open.spotify.com/track/4PEvteEE1h2J3QlSygiaMU) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [first notes](https://open.spotify.com/album/1NEnCOAIgijOWsaiEojZXe) | 3:39 | 2026-03-12 |  |
 | [A thousand lies \- Fine EDIT](https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 3:37 | 2025-11-07 | 2025-11-22 |
 | [A Thousand Steps](https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:06 | 2026-02-06 |  |
 | [Affectionately](https://open.spotify.com/track/7CHwOqXYxWn7HGQl2OZq6H) | [Raisa K](https://open.spotify.com/artist/11H2kC5a9Jk0IJ0gPUrZl9) | [Affectionately](https://open.spotify.com/album/4ZFOgsFW6cf2w0MzG4D4Cz) | 1:57 | 2025-03-13 |  |
@@ -64,6 +65,7 @@
 | [Don't Let This Feeling](https://open.spotify.com/track/33040QumosMtuIENd4dG4D) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Don't Let This Feeling](https://open.spotify.com/album/6A60dXBiLWris444qgDKaa) | 2:52 | 2025-03-13 | 2025-09-13 |
 | [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 | 2025-07-25 |  |
 | [Dreamy Ride](https://open.spotify.com/track/0ReJIOFDYCHbC1yY2CXLzk) | [Farao](https://open.spotify.com/artist/6XIX2G6ZGiVQgMr6SSTMFu) | [Voice Continues](https://open.spotify.com/album/0nVyeUjJU9pv0DyuHKMXNp) | 3:57 | 2025-09-26 |  |
+| [driving \(so many emotions\)](https://open.spotify.com/track/7yEb7bJZ6HEVPXaBUU5jDD) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [e.a.l\. \(euro arab lovergirl\)](https://open.spotify.com/album/4XUlpIcXlnqe5xkscLOwEJ) | 3:02 | 2026-03-12 |  |
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-12 |  |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-13 | 2025-06-07 |
 | [Dust Yourself Off](https://open.spotify.com/track/2NjB3X18j4ShmR962a38c3) | [Martha Skye Murphy](https://open.spotify.com/artist/4riGlB4lkpPDgJscJid8FA) | [Um](https://open.spotify.com/album/6Y0J5WRcTykUZ47wZFrxN3) | 2:05 | 2025-03-13 | 2025-10-18 |

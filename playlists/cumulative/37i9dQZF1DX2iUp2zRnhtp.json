@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 168425,
       "name": "BL\u00c5ST",
       "url": "https://open.spotify.com/track/0mShuzpXpvDkAdwy3qEDeQ"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 149538,
       "name": "D\u00f8gnrytme",
       "url": "https://open.spotify.com/track/6xGdQujsUr5SjbYTDfzvlZ"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 146918,
       "name": "En million",
       "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 150000,
       "name": "En Vakker Dag",
       "url": "https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 168667,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/0l8vP9dyXEiJ0onCWK7q5Z"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 137785,
       "name": "Get money",
       "url": "https://open.spotify.com/track/0x7HN4LWTd87QEE47g2Z8s"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 149320,
       "name": "Girls",
       "url": "https://open.spotify.com/track/0yAKQvJ6z7qAEuUZCcGjyX"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 126666,
       "name": "Goodbyes",
       "url": "https://open.spotify.com/track/104eKHpLYOeVxw3joHrZnw"
@@ -3580,7 +3580,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 186291,
       "name": "Heartbreak",
       "url": "https://open.spotify.com/track/2jJgJDiE7caOx0bO7IText"
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156800,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/3qgnWArMxxlvE9jncRKWiL"
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 189351,
       "name": "Hot & Sexy",
       "url": "https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu"
@@ -4879,6 +4879,24 @@
     },
     {
       "album": {
+        "name": "Klubben Pumper",
+        "url": "https://open.spotify.com/album/273G5MBwL44VfGR0tlsO0h"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151520,
+      "name": "Klubben Pumper",
+      "url": "https://open.spotify.com/track/38utgpdjianr2f9ta4acyi"
+    },
+    {
+      "album": {
         "name": "Knust Diamant",
         "url": "https://open.spotify.com/album/6dUGX3lJUaMjp3aBH7mnVS"
       },
@@ -5046,7 +5064,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 223080,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
@@ -5355,7 +5373,7 @@
     },
     {
       "album": {
-        "name": "Live & Learn",
+        "name": "LIVE & LEARN",
         "url": "https://open.spotify.com/album/3kIEjzXI4o2dr9ZqQvQfbi"
       },
       "artists": [
@@ -5372,7 +5390,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156257,
-      "name": "Live & Learn",
+      "name": "LIVE & LEARN",
       "url": "https://open.spotify.com/track/3J9hAta8xNud8pCV0zgh16"
     },
     {
@@ -6098,7 +6116,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 114000,
       "name": "Marokkansk",
       "url": "https://open.spotify.com/track/2oRbqKvN9sR8fakOSBi6LF"
@@ -6326,7 +6344,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 172252,
       "name": "Model",
       "url": "https://open.spotify.com/track/1xHWII0YRyiTAzWndE5TVB"
@@ -7228,7 +7246,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161714,
       "name": "Prettybois (feat. Hani)",
       "url": "https://open.spotify.com/track/5kl549yI4pzG5M9F7erqOF"
@@ -7352,7 +7370,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 163624,
       "name": "Pust i bakken",
       "url": "https://open.spotify.com/track/22I2nh2M1TkB7OPzTYidIV"
@@ -7370,7 +7388,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166963,
       "name": "Queen Almighty",
       "url": "https://open.spotify.com/track/02lbmeB6aYDG280IiTQ8gq"
@@ -7468,7 +7486,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177786,
       "name": "Rise",
       "url": "https://open.spotify.com/track/6YV3OKNbqBYrvUP8MvPXkL"
@@ -7540,7 +7558,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 142219,
       "name": "Rosary",
       "url": "https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y"
@@ -7960,7 +7978,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 174793,
       "name": "Sjonglerer",
       "url": "https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw"
@@ -8080,6 +8098,28 @@
       "duration_ms": 151986,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
+    },
+    {
+      "album": {
+        "name": "Sl\u00e5ss f\u00f6r dig",
+        "url": "https://open.spotify.com/album/0kYxCy6xwAHN70YtRFMRG5"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131807,
+      "name": "Sl\u00e5ss f\u00f6r dig",
+      "url": "https://open.spotify.com/track/3cm5WFZ2flczXiGq671KkY"
     },
     {
       "album": {
@@ -8928,7 +8968,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183692,
       "name": "Ta Vare (XC90)",
       "url": "https://open.spotify.com/track/1wBK9MJfQ0LWgV3atiffdK"
@@ -9330,7 +9370,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 133400,
       "name": "The Room",
       "url": "https://open.spotify.com/track/1X9wnBr0GtplOi4VuYsOAS"
@@ -9601,6 +9641,42 @@
     },
     {
       "album": {
+        "name": "Festen er aldri over",
+        "url": "https://open.spotify.com/album/1s0bb0vyEtksisba9J1OfA"
+      },
+      "artists": [
+        {
+          "name": "Morgan Sulele",
+          "url": "https://open.spotify.com/artist/3EaDukxGx5viO0MTLW1a5X"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/3YZhm7RPnWzRV3vajxP6qr"
+    },
+    {
+      "album": {
+        "name": "Mannen Som D\u00f8de St\u00e5ende",
+        "url": "https://open.spotify.com/album/6EoCQKy1oxGxjvmi6wzVDA"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/4tCv9scnuSQbfTu58QsRnz"
+    },
+    {
+      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -9822,7 +9898,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161571,
       "name": "Ung for alltid",
       "url": "https://open.spotify.com/track/5LqAXeCGSP6ZRHlzb7ikwf"
@@ -9866,6 +9942,24 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "album": {
+        "name": "SOLA LAGER SKYGGER",
+        "url": "https://open.spotify.com/album/6wtfavcOifrnr2R5HSGvwO"
+      },
+      "artists": [
+        {
+          "name": "Rakkere",
+          "url": "https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "UT\u00c5LMODIG",
+      "url": "https://open.spotify.com/track/1CadkxW6SMrJYJtrB8NJgW"
     },
     {
       "album": {
@@ -9916,7 +10010,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161600,
       "name": "Verdens verste menneske",
       "url": "https://open.spotify.com/track/7iqugpBZ2xq1UV6esP18Lr"
@@ -10284,7 +10378,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 138129,
       "name": "Where's Billy?",
       "url": "https://open.spotify.com/track/4mj8CluVE96YxWvEsOXuDF"
@@ -10476,7 +10570,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 163862,
       "name": "\u00c6rlig",
       "url": "https://open.spotify.com/track/0kowyESrGiikWh9I1JltTj"

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1228706,
+  "num_followers": 1228811,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAADpHkLBxdWioCk7oIopcXEb",
+  "snapshot_id": "abCwgAAAAACLIyjqiPRM0YRKIQupZFHZ",
   "tracks": [
     {
       "added_at": null,
@@ -606,15 +606,11 @@
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Still Ballin' - Nitty Remix",
-      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
+      "duration_ms": 174266,
+      "name": "When We Ride On Our Enemies - Briss Remix",
+      "url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG"
     },
     {
       "added_at": null,
@@ -682,11 +678,15 @@
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         }
       ],
-      "duration_ms": 174266,
-      "name": "When We Ride On Our Enemies - Briss Remix",
-      "url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG"
+      "duration_ms": 169600,
+      "name": "Still Ballin' - Nitty Remix",
+      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
     },
     {
       "added_at": null,

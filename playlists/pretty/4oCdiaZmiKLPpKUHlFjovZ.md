@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,986 likes - 112 songs - 5 hr 13 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,979 likes - 112 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 19 | [Let Me Vibe \(feat\. Tyga & Wiz Khalifa\)](https://open.spotify.com/track/36wDLx5QKOZzoW6attS86u) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Love Lost](https://open.spotify.com/album/4waNdD4bWR70HYzHYmTXZs) | 2:49 |
 | 20 | [First Day Out](https://open.spotify.com/track/2Ww2RUCfyAr6dwYgpcs6kd) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer) | [First Day Out](https://open.spotify.com/album/1bomiimFzpDJ2RwbvZg3I2) | 2:48 |
 | 21 | [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 |
-| 22 | [Mardi Gras \(Go Crazy\) \- Seoul 2 Okinawa Version](https://open.spotify.com/track/4eFWMltWSQd1l61TCqypM5) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Mardi Gras \(Go Crazy\) \[Seoul 2 Okinawa Version\]](https://open.spotify.com/album/56eevAZjrjGQKlctPZBtJg) | 3:06 |
+| 22 | [Mardi Gras \(Go Crazy\) \(feat\. Jay Park\) \- Seoul 2 Okinawa Version](https://open.spotify.com/track/4eFWMltWSQd1l61TCqypM5) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Mardi Gras \(Go Crazy\) \[feat\. Jay Park\] \[Seoul 2 Okinawa Version\]](https://open.spotify.com/album/56eevAZjrjGQKlctPZBtJg) | 3:06 |
 | 23 | [Fa Sure](https://open.spotify.com/track/3iltTfznFyCJr0laSm8uY3) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [30 Days](https://open.spotify.com/album/6hlq8hF5Li4rmAxBPtoRJW) | 2:02 |
 | 24 | [Aye Girl](https://open.spotify.com/track/5AtuctYcoqwtmqrgEFIYH9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Aye Girl](https://open.spotify.com/album/3g6e5ZEnl1YUFsQE3pI4YL) | 1:54 |
 | 25 | [Lovin On Me](https://open.spotify.com/track/1t9O0FhyAOYIHWcU7XBecd) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [STILL GHETTO](https://open.spotify.com/album/53Zq6FOvF9HDlDvS8KJ12k) | 2:21 |

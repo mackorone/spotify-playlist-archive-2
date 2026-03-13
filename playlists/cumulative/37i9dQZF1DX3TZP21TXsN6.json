@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Nieuw: Maycash, Brasco & Webb, KNALLER en meer...",
+  "description": "Nieuw: BFLQuatro, Flo, Vurr Flashy en meer\u2026",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 154285,
       "name": "Alo",
       "url": "https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 200238,
       "name": "Block My Shine",
       "url": "https://open.spotify.com/track/6PacvEP8mN6NpconSiWBw5"
@@ -1454,6 +1454,28 @@
       "duration_ms": 126206,
       "name": "Bloedlijn",
       "url": "https://open.spotify.com/track/30fwWdpe8XlUjkvUrZz2Pk"
+    },
+    {
+      "album": {
+        "name": "Bogolabogo",
+        "url": "https://open.spotify.com/album/6gt83OitQIToCZV1wmKbmM"
+      },
+      "artists": [
+        {
+          "name": "Rano-S",
+          "url": "https://open.spotify.com/artist/6JNSxmYjUVFA5hII3QH3Kl"
+        },
+        {
+          "name": "HAYABUSA",
+          "url": "https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "Bogolabogo",
+      "url": "https://open.spotify.com/track/2t6AhycSwPpA8gJAJeadwr"
     },
     {
       "album": {
@@ -2114,7 +2136,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 162973,
       "name": "Dans",
       "url": "https://open.spotify.com/track/0OTujEGFH01lCNvARKmYDr"
@@ -2192,6 +2214,24 @@
       "duration_ms": 132276,
       "name": "De Schuld",
       "url": "https://open.spotify.com/track/6JDJYHbHy5Q8s9LDST5z80"
+    },
+    {
+      "album": {
+        "name": "De Slimste Freestyle",
+        "url": "https://open.spotify.com/album/37E6EcZFRp2xsDqe9IWctW"
+      },
+      "artists": [
+        {
+          "name": "Brunzyn",
+          "url": "https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149325,
+      "name": "De Slimste Freestyle",
+      "url": "https://open.spotify.com/track/4197qlUA7a24kdbzFhAIRE"
     },
     {
       "album": {
@@ -2400,7 +2440,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 117960,
       "name": "DOLCE & GABBANA",
       "url": "https://open.spotify.com/track/2J0t5MgGTaqvc16TyfWqK3"
@@ -3009,6 +3049,24 @@
     },
     {
       "album": {
+        "name": "Frans",
+        "url": "https://open.spotify.com/album/2aTBuZ1yf3FSfNyys7fLig"
+      },
+      "artists": [
+        {
+          "name": "MC MC",
+          "url": "https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143276,
+      "name": "Frans",
+      "url": "https://open.spotify.com/track/4o3GiCtskBiq5TkUhOOVJX"
+    },
+    {
+      "album": {
         "name": "Gaan Naar",
         "url": "https://open.spotify.com/album/5XyQHJpWboYhuVlGO3okZn"
       },
@@ -3078,6 +3136,46 @@
       "duration_ms": 115488,
       "name": "Geeked",
       "url": "https://open.spotify.com/track/5LdRI9voYb3iOFwJ0QHLqY"
+    },
+    {
+      "album": {
+        "name": "Geen Een Van Ze",
+        "url": "https://open.spotify.com/album/180b6qp37fOABEJ8KKThae"
+      },
+      "artists": [
+        {
+          "name": "Zaf_G",
+          "url": "https://open.spotify.com/artist/2X2rcof1Fyyr0jOrK2Lnxo"
+        },
+        {
+          "name": "Cizri",
+          "url": "https://open.spotify.com/artist/44VLghXDkoka9fwa2ZjFwR"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Geen Een Van Ze",
+      "url": "https://open.spotify.com/track/0AbDf823EJzpZpTx1GXnxN"
+    },
+    {
+      "album": {
+        "name": "GEEN HILFIGER",
+        "url": "https://open.spotify.com/album/2ReW6NY58qShv3I6pTIzwe"
+      },
+      "artists": [
+        {
+          "name": "D\u00d8S",
+          "url": "https://open.spotify.com/artist/33Lhx70aZOxgIsc45YqVX1"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120003,
+      "name": "GEEN HILFIGER",
+      "url": "https://open.spotify.com/track/0O6DWa7EepUNvDsvHS4vUL"
     },
     {
       "album": {
@@ -3450,7 +3548,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 154097,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/2ZTyu373d44VNoPlOpHc2Y"
@@ -3591,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Haten",
+        "url": "https://open.spotify.com/album/1izmHwQe6Uxp6KhJ5UFb1x"
+      },
+      "artists": [
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Haten",
+      "url": "https://open.spotify.com/track/767CZer0mDoCLZEJRW86LW"
+    },
+    {
+      "album": {
         "name": "Headshot (Remix)",
         "url": "https://open.spotify.com/album/3rozI6XJA0YwpjMM3vzjDI"
       },
@@ -3644,7 +3760,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 250140,
       "name": "HEADSHOT REVERSE",
       "url": "https://open.spotify.com/track/4pTbVkpsgoLG9YTnMI0Vxr"
@@ -3702,7 +3818,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 179076,
       "name": "Herinneringen",
       "url": "https://open.spotify.com/track/7xUYUHOdmc5yfQrpZ82Cbw"
@@ -4204,7 +4320,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 121379,
       "name": "Jongvolwassen",
       "url": "https://open.spotify.com/track/55swQGRxYDf4Ol16uXgHnB"
@@ -4284,6 +4400,42 @@
       "duration_ms": 113142,
       "name": "Keep it Straight",
       "url": "https://open.spotify.com/track/6RO73jEy6BUXi7PTafuwW0"
+    },
+    {
+      "album": {
+        "name": "Kees van der Spek",
+        "url": "https://open.spotify.com/album/1iKIgEbr9sGO5aWW4XJSdW"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Kees van der Spek",
+      "url": "https://open.spotify.com/track/7gHeHQqlnrf3qqzktRWjCr"
+    },
+    {
+      "album": {
+        "name": "Kelderklasse",
+        "url": "https://open.spotify.com/album/3wV8fM9sKY9XiWV9mKuNSa"
+      },
+      "artists": [
+        {
+          "name": "Flo",
+          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148611,
+      "name": "Kelderklasse",
+      "url": "https://open.spotify.com/track/2WdHe9erdGAjXYf3GYpAIw"
     },
     {
       "album": {
@@ -4784,7 +4936,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178723,
       "name": "Lau",
       "url": "https://open.spotify.com/track/0gvmWQf6n7IRPlv4Ydu4NA"
@@ -4926,7 +5078,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 139746,
       "name": "LIEFDE IS MOEILIJK",
       "url": "https://open.spotify.com/track/4lyyczrNysFKBP7OzKKnHP"
@@ -5162,7 +5314,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 137888,
       "name": "Maak niet meer uit",
       "url": "https://open.spotify.com/track/5nbrzCihRJ4CnXtT6YxKGT"
@@ -5842,7 +5994,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 115662,
       "name": "Money & Fame",
       "url": "https://open.spotify.com/track/5udPoJ4stCyC5KwzUqRKws"
@@ -6122,7 +6274,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 151580,
       "name": "news update 3",
       "url": "https://open.spotify.com/track/3zV09MTNSrSlxo6oRdoBBb"
@@ -6406,7 +6558,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 148037,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/2OartbMVAoWsDqKJRqkCPb"
@@ -6530,7 +6682,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 165686,
       "name": "Nun 2 Prove",
       "url": "https://open.spotify.com/track/39qbvnwgoMaZAlW0H2dosg"
@@ -6552,7 +6704,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 142209,
       "name": "Ofzo",
       "url": "https://open.spotify.com/track/6iDg9jyqam3WC6znZnZHtO"
@@ -7226,7 +7378,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 134739,
       "name": "PSALM 23",
       "url": "https://open.spotify.com/track/2FjkuA0qqDl4DU6G40a1GD"
@@ -7244,7 +7396,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 123428,
       "name": "Rappen Trappen Ballie",
       "url": "https://open.spotify.com/track/5gE3j4UuecqDG6N8dHxH6F"
@@ -7266,6 +7418,36 @@
       "duration_ms": 238321,
       "name": "Ready",
       "url": "https://open.spotify.com/track/78zPvwSh6eg370qfCnlaj3"
+    },
+    {
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/6qmSpFFc1yuNUNu3n4DJN5"
+      },
+      "artists": [
+        {
+          "name": "SoulTrash",
+          "url": "https://open.spotify.com/artist/0ZXn2h027Cg6lC1H2yw8ce"
+        },
+        {
+          "name": "Dion Mase",
+          "url": "https://open.spotify.com/artist/2CEvU018xycPCeQBsPeOr3"
+        },
+        {
+          "name": "T. Milan",
+          "url": "https://open.spotify.com/artist/7zcoS129j3lsU7kp4RPXMe"
+        },
+        {
+          "name": "MC Lost",
+          "url": "https://open.spotify.com/artist/0wKvKYIS85frEadu4vyV0J"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199059,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/0laRGIHiOUmvFP7mLFnr6W"
     },
     {
       "album": {
@@ -7385,6 +7567,24 @@
     },
     {
       "album": {
+        "name": "Roekeloos",
+        "url": "https://open.spotify.com/album/0PEjXkAMIJ9kHHBixCegK5"
+      },
+      "artists": [
+        {
+          "name": "Zeus",
+          "url": "https://open.spotify.com/artist/6o3V7ObiZe8VDoNbcvONi7"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "Roekeloos",
+      "url": "https://open.spotify.com/track/5iiZcG0lkImJj3rAkZdtnC"
+    },
+    {
+      "album": {
         "name": "Salamansa",
         "url": "https://open.spotify.com/album/4Ef00rtYVHOMTXAxwR7eEy"
       },
@@ -7476,7 +7676,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 171034,
       "name": "Schijnen",
       "url": "https://open.spotify.com/track/5Uxa56NvaCySto8S3hpqru"
@@ -7678,7 +7878,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 148860,
       "name": "SOPROPO",
       "url": "https://open.spotify.com/track/7gjFe8bUlh2mkQRzw360xU"
@@ -8223,6 +8423,28 @@
     },
     {
       "album": {
+        "name": "Tje",
+        "url": "https://open.spotify.com/album/5tiqexSQuvgEnRx79pyRCB"
+      },
+      "artists": [
+        {
+          "name": "Pakteeh",
+          "url": "https://open.spotify.com/artist/5b1S7LiV3xLH5TZjHqXT5t"
+        },
+        {
+          "name": "NAVI",
+          "url": "https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141333,
+      "name": "Tje",
+      "url": "https://open.spotify.com/track/2okz6JuOC0NoevU6aJcUNY"
+    },
+    {
+      "album": {
         "name": "TNAWIES",
         "url": "https://open.spotify.com/album/6R3q06Xa7wrDlk8Hq20HYV"
       },
@@ -8343,6 +8565,24 @@
     },
     {
       "album": {
+        "name": "Achtbaan 2",
+        "url": "https://open.spotify.com/album/1TNYri9jouZvFg7nyV8WhF"
+      },
+      "artists": [
+        {
+          "name": "Clep N Flyy",
+          "url": "https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/5NvPWi5ytkmZAyCMW9q1OQ"
+    },
+    {
+      "album": {
         "name": "Andere Man",
         "url": "https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH"
       },
@@ -8438,7 +8678,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 145454,
       "name": "Traumatized",
       "url": "https://open.spotify.com/track/6CvhcbW0krT8ysiSG9EQOH"
@@ -8613,6 +8853,24 @@
     },
     {
       "album": {
+        "name": "Under Armour",
+        "url": "https://open.spotify.com/album/4AZhQWE6aAr2rEm2EVX0sl"
+      },
+      "artists": [
+        {
+          "name": "Kerron",
+          "url": "https://open.spotify.com/artist/4aIg8t5vhciQx2Ez053cVf"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Under Armour",
+      "url": "https://open.spotify.com/track/16a0WNOCprLh6sKOuheaYT"
+    },
+    {
+      "album": {
         "name": "UNLIMITED SPACE",
         "url": "https://open.spotify.com/album/2e9g63lvz83vZLhnm3zpe7"
       },
@@ -8690,7 +8948,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 131304,
       "name": "Vertrek",
       "url": "https://open.spotify.com/track/3490uDN0wgAjlYuSpFy1Go"
@@ -8708,7 +8966,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 149138,
       "name": "Vertrek 3",
       "url": "https://open.spotify.com/track/31Q5H6Mue5WfP30A0usBId"
@@ -8734,6 +8992,24 @@
       "duration_ms": 146666,
       "name": "Verwacht",
       "url": "https://open.spotify.com/track/0LpKmjuGFroDUysJtKEdPR"
+    },
+    {
+      "album": {
+        "name": "Veteraan",
+        "url": "https://open.spotify.com/album/11iGgvayUELsduMhFHHyir"
+      },
+      "artists": [
+        {
+          "name": "NDD",
+          "url": "https://open.spotify.com/artist/0wXZFUIlCxAi0Y49ZjCuMV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Veteraan",
+      "url": "https://open.spotify.com/track/4IHunsIYCvyUsV9g1O9r1N"
     },
     {
       "album": {
@@ -9110,7 +9386,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173419,
       "name": "Where Was You?",
       "url": "https://open.spotify.com/track/1RxJYbTLJvO2sYXAXb5FDe"
@@ -9204,7 +9480,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 113898,
       "name": "Wish List",
       "url": "https://open.spotify.com/track/3QgiT59YGx0tZwieJPCB2E"
@@ -9282,6 +9558,28 @@
       "duration_ms": 172394,
       "name": "WORD PARANOIA",
       "url": "https://open.spotify.com/track/0ngGRk0UtWbZEXCXYZMfvn"
+    },
+    {
+      "album": {
+        "name": "Wouter",
+        "url": "https://open.spotify.com/album/5ANDtCFJ1Z2zbUsHmmyrmG"
+      },
+      "artists": [
+        {
+          "name": "Ries",
+          "url": "https://open.spotify.com/artist/4JzWQoYWa4uI7iVJorKEtG"
+        },
+        {
+          "name": "Jordan River Banks",
+          "url": "https://open.spotify.com/artist/6ko5cVXOFXsdk5yuH3Xfvs"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188772,
+      "name": "Wouter",
+      "url": "https://open.spotify.com/track/0wC2c51gdwndymAE5XpC3F"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
 
-647 songs - 1 day 12 hr 53 min
+648 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Go](https://open.spotify.com/track/4RuMpok66IGRwuf46PX5xo) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Go](https://open.spotify.com/album/64PZGw0BVsvm8vflfar9Gr) | 2:55 | 2025-03-20 | 2026-01-30 |
 | [GOD DESIGN](https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GOD DESIGN](https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp) | 3:35 | 2025-04-17 |  |
 | [GUGO](https://open.spotify.com/track/4AzK6l6gNs5OZXYlHIK8J5) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [GUGO](https://open.spotify.com/album/0ScNdVwWbHmSB9ni9bcxiv) | 2:17 | 2025-10-16 | 2025-12-19 |
-| [HA HA HA](https://open.spotify.com/track/5CUoPjNakqWqFnTbSdd5dg) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [HA HA HA](https://open.spotify.com/album/4bgpgeZcEMF42o1dVQLLWy) | 2:46 | 2025-06-05 |  |
+| [HA HA HA](https://open.spotify.com/track/5CUoPjNakqWqFnTbSdd5dg) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [HA HA HA](https://open.spotify.com/album/4bgpgeZcEMF42o1dVQLLWy) | 2:46 | 2025-06-05 | 2026-03-13 |
 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 | 2022-08-19 | 2023-07-14 |
 | [Hakuna Matata](https://open.spotify.com/track/1lenhwtsu7WRv847HumXE0) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Hakuna Matata](https://open.spotify.com/album/5wy5yT8ayAF7IsAB3DHbJt) | 3:00 | 2024-04-18 | 2024-12-06 |
 | [Halichachi](https://open.spotify.com/track/6SWpURhRKx8IN6IXzCSV2S) | [Amber Lulu](https://open.spotify.com/artist/7eaEAJe6zgz9QVfEEP3dUg), [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Halichachi](https://open.spotify.com/album/5Uz3x5jAmxJuUQBDEFLhvb) | 3:25 | 2022-02-24 | 2022-10-22 |
@@ -501,6 +501,7 @@
 | [Side Niggah](https://open.spotify.com/track/2P6dLx8C5m0byvNcpWoeLp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Visit Bongo](https://open.spotify.com/album/0ZY5xnqRphPOYRkrHF0LiW) | 2:45 | 2023-11-23 | 2024-06-08 |
 | [Sifikirii](https://open.spotify.com/track/2rxm7E97XqinnxxOChdOoj) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Sifikirii](https://open.spotify.com/album/7bVyqvM5kOi1hzwDZME8xx) | 3:18 | 2024-10-10 | 2025-01-31 |
 | [Siji \(feat\. Toss\)](https://open.spotify.com/track/6ssUS1CxYhJdTW3ZjOYrfm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Siji \(feat\. Toss\)](https://open.spotify.com/album/1v6OzvzSuLMw7QAT5kpOaJ) | 3:39 | 2024-05-23 | 2024-10-04 |
+| [Siku Ya Mwisho](https://open.spotify.com/track/3nEFbbSfxFShykmjP1KlXD) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Siku Ya Mwisho](https://open.spotify.com/album/4SROmqULOdq2HBTjTqxIO3) | 3:06 | 2026-03-12 |  |
 | [Simuachi](https://open.spotify.com/track/6oE9HQVRYv0TQelwyXdmAo) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Simuachi](https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0) | 3:11 | 2023-06-15 | 2023-10-20 |
 | [Simuachi](https://open.spotify.com/track/7JYv26TNZe13Uqyv0yXPv2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Simuachi](https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC) | 3:16 | 2022-05-05 | 2022-11-25 |
 | [Sina](https://open.spotify.com/track/4rI7SOF5OwglKAFGedExzi) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Sina](https://open.spotify.com/album/6MPat3f7dnn0gfAc23j1I8) | 3:00 | 2024-12-12 | 2025-04-18 |

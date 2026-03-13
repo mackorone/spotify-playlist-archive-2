@@ -1,6 +1,6 @@
 {
   "description": "Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest) wint twee Edisons: Nieuwkomer en Hollands",
-  "num_followers": 158315,
+  "num_followers": 158355,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,18 @@
     {
       "added_at": "2026-03-09 22:00:04",
       "album": {
-        "name": "GAP",
-        "url": "https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz"
+        "name": "Hobbelen",
+        "url": "https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg"
       },
       "artists": [
         {
           "name": "Wesly Bronkhorst",
           "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
         }
       ],
-      "duration_ms": 131270,
-      "name": "GAP",
-      "url": "https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N"
+      "duration_ms": 183831,
+      "name": "Hobbelen",
+      "url": "https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG"
     },
     {
       "added_at": "2026-03-09 22:00:04",
@@ -727,42 +723,6 @@
     {
       "added_at": "2026-03-09 22:00:04",
       "album": {
-        "name": "Liever Te Dik In De Kist",
-        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        },
-        {
-          "name": "Rene Karst",
-          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Liever Te Dik In De Kist",
-      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
-    },
-    {
-      "added_at": "2026-03-09 22:00:04",
-      "album": {
-        "name": "Hobbelen",
-        "url": "https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg"
-      },
-      "artists": [
-        {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        }
-      ],
-      "duration_ms": 183831,
-      "name": "Hobbelen",
-      "url": "https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG"
-    },
-    {
-      "added_at": "2026-03-09 22:00:04",
-      "album": {
         "name": "Geen Twijfel",
         "url": "https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS"
       },
@@ -779,6 +739,26 @@
     {
       "added_at": "2026-03-09 22:00:04",
       "album": {
+        "name": "GAP",
+        "url": "https://open.spotify.com/album/3TYzIE13Fda0FGmTNLCspz"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "duration_ms": 131270,
+      "name": "GAP",
+      "url": "https://open.spotify.com/track/3zRX2nkjy12SPjBRo2ls5N"
+    },
+    {
+      "added_at": "2026-03-09 22:00:04",
+      "album": {
         "name": "Zij Weet Het (Studio Versie)",
         "url": "https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
+    },
+    {
+      "added_at": "2026-03-09 22:00:04",
+      "album": {
+        "name": "Liever Te Dik In De Kist",
+        "url": "https://open.spotify.com/album/1JcMPNLvGonkOCRUIU8oaA"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Liever Te Dik In De Kist",
+      "url": "https://open.spotify.com/track/67xy7fhM9hKO6SxyHh7vrE"
     },
     {
       "added_at": "2026-03-09 22:00:04",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2026-03-09 22:00:04",
       "album": {
-        "name": "Jaren Komen Jaren Gaan",
-        "url": "https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe"
+        "name": "De Ring die jij draagt 2.0",
+        "url": "https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg"
       },
       "artists": [
         {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+          "name": "Marco Kraats",
+          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
+        },
+        {
+          "name": "Wimmie Bouma",
+          "url": "https://open.spotify.com/artist/4WJwmv9BDptvPNUCNknCx7"
         }
       ],
-      "duration_ms": 173906,
-      "name": "Jaren Komen Jaren Gaan",
-      "url": "https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm"
+      "duration_ms": 192923,
+      "name": "De Ring die jij draagt 2.0",
+      "url": "https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq"
     },
     {
       "added_at": "2026-03-09 22:00:04",
@@ -1359,22 +1363,18 @@
     {
       "added_at": "2026-03-09 22:00:04",
       "album": {
-        "name": "De Ring die jij draagt 2.0",
-        "url": "https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg"
+        "name": "Jaren Komen Jaren Gaan",
+        "url": "https://open.spotify.com/album/7yU1N9FEEjeWxlDoeF9RVe"
       },
       "artists": [
         {
-          "name": "Marco Kraats",
-          "url": "https://open.spotify.com/artist/1O2nfhQ9ZxTWY9eTC27dvp"
-        },
-        {
-          "name": "Wimmie Bouma",
-          "url": "https://open.spotify.com/artist/4WJwmv9BDptvPNUCNknCx7"
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
         }
       ],
-      "duration_ms": 192923,
-      "name": "De Ring die jij draagt 2.0",
-      "url": "https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq"
+      "duration_ms": 173906,
+      "name": "Jaren Komen Jaren Gaan",
+      "url": "https://open.spotify.com/track/3BkY8cZl5V6MFxQAxtLTQm"
     },
     {
       "added_at": "2026-03-09 22:00:04",

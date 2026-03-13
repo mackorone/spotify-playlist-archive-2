@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김푸름 \(KIM PU REUM\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,273 songs - 3 day 5 hr 2 min
+1,274 songs - 3 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1014,6 +1014,7 @@
 | [SUM](https://open.spotify.com/track/6iTCFixFJ4MVUSrBMfxUIU) | [위댄스 Wedance](https://open.spotify.com/artist/70GGUtoiE6D1EAgpsbntuG) | [SUM](https://open.spotify.com/album/7vVvr1XSdm4D0YKF7krPvf) | 5:24 | 2023-07-17 | 2023-07-28 |
 | [Summer](https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Summer](https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0) | 3:01 | 2023-03-28 | 2023-08-17 |
 | [Summer breeze](https://open.spotify.com/track/5C8xuGNeqqTCJ4cw9jx6Mh) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [Summer breeze](https://open.spotify.com/album/3V9CszsycSsdW58DzAIOk0) | 2:57 | 2025-05-21 | 2025-07-24 |
+| [Summer in space](https://open.spotify.com/track/0eDsev28hCgdfpngRPPHRD) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Summer in space](https://open.spotify.com/album/7yq6Sjw8Tqf52aQcTgxjLX) | 3:28 | 2026-03-12 |  |
 | [summer vacation](https://open.spotify.com/track/2ZWeUrqm5Qhc7rR8YRnxOZ) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP) | [summer vacation](https://open.spotify.com/album/7dFvSsggIwQ8YZdOqBUEfJ) | 3:43 | 2025-07-25 | 2025-08-22 |
 | [summer youth](https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [summer youth](https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB) | 3:37 | 2025-06-24 | 2025-08-08 |
 | [SUNFLOWER](https://open.spotify.com/track/4XR7aLFGYuQhKz64ADIxhm) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [SUNFLOWER](https://open.spotify.com/album/6KTIN8L80MmmH6hCTDn9WI) | 2:56 | 2025-12-02 | 2026-01-31 |
@@ -1071,7 +1072,7 @@
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2021-12-21 | 2022-05-23 |
 | [The Promise of Summer](https://open.spotify.com/track/4Gte5M0Oe0tNTlxjFf9lJb) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Every you, in Every moment](https://open.spotify.com/album/0eahpcOKvJV4KqQLYT3yE2) | 4:29 | 2022-03-31 | 2022-04-19 |
 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-07-27 | 2022-08-19 |
-| [There Was No One Left](https://open.spotify.com/track/0qzDOoGh8TywjSv88jUDrI) | [roku](https://open.spotify.com/artist/5cx5VCArG91qvnydhP3Zfl) | [Good News](https://open.spotify.com/album/587W3JingOxqIqGI0FAQvZ) | 4:10 | 2026-02-12 |  |
+| [There Was No One Left](https://open.spotify.com/track/0qzDOoGh8TywjSv88jUDrI) | [roku](https://open.spotify.com/artist/5cx5VCArG91qvnydhP3Zfl) | [Good News](https://open.spotify.com/album/587W3JingOxqIqGI0FAQvZ) | 4:10 | 2026-02-12 | 2026-03-13 |
 | [There's no turning back even 1 second](https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR) | [MONNI](https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG) | [Eternal Memories](https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt) | 4:41 | 2024-03-08 | 2024-05-10 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-06-20 | 2022-07-05 |
 | [Thirsty](https://open.spotify.com/track/237XyNLeiI0MdnIRGpvlCt) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Thirsty](https://open.spotify.com/album/4UGWbAYWe4N1VawX01am5y) | 2:47 | 2021-12-21 | 2022-07-05 |

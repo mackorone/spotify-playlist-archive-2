@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,362 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,348 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 20 | [Regalo](https://open.spotify.com/track/7mU8ts3VQhufEOMc00vzKX) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Regalo](https://open.spotify.com/album/512JRiq6UX5wYeFIAXN4KK) | 2:57 |
 | 21 | [Cumbia del Mole](https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Raíz](https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6) | 3:00 |
 | 22 | [Margarita \(feat\. Vicente García & Jose Quiñónez\)](https://open.spotify.com/track/6LEZkAAdNuEPE6PdEX7lrj) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Jose Quiñonez](https://open.spotify.com/artist/5KOhKsRb9lFVmHFhoGAnIx) | [Encuentro](https://open.spotify.com/album/5dMx0NVZdoTtrdVprK7gSz) | 3:56 |
-| 23 | [Eres](https://open.spotify.com/track/4oa27owMHu69L0eou4gK10) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Eres](https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC) | 4:08 |
-| 24 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
+| 23 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
+| 24 | [Eres](https://open.spotify.com/track/4oa27owMHu69L0eou4gK10) | [Sindicato Del Ritmo](https://open.spotify.com/artist/5eCshP4zg9fMuQvc1LygXI), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Eres](https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC) | 4:08 |
 | 25 | [Las Cosas Simples](https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Las Cosas Simples](https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW) | 3:37 |
 | 26 | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/track/5KE2x4MVkDMbuH4grodfdb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [La Tania](https://open.spotify.com/artist/0dHJZzGiT5uu423w8avILQ), [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Por qué Será \(feat\. La Tania & Yerai Cortés\)](https://open.spotify.com/album/24xWSIdWaIWJHnMfgYVqaR) | 5:00 |
 | 27 | [Si No Pueden Quererte \(with Miguel Bosé\)](https://open.spotify.com/track/446rQWVFWcido9fHuW981s) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 3:55 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Typhoon",
+  "description": "Frisse Nederlandse pop. Cover: Suzan & Freek",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -3115,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Bij Mij Zijn",
+        "url": "https://open.spotify.com/album/7DJAavMV4mY9EpcAvGWNvU"
+      },
+      "artists": [
+        {
+          "name": "Kaya",
+          "url": "https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198049,
+      "name": "Bij Mij Zijn",
+      "url": "https://open.spotify.com/track/61gJZi8r1UjFYw5VmZ875X"
+    },
+    {
+      "album": {
         "name": "Bijna Vergeten",
         "url": "https://open.spotify.com/album/6GjSdIu502JeX82VWzfdRE"
       },
@@ -5745,6 +5763,24 @@
     },
     {
       "album": {
+        "name": "Door me heen",
+        "url": "https://open.spotify.com/album/3gPLKWbpvw3qq2faXd5AVa"
+      },
+      "artists": [
+        {
+          "name": "Bibi van Ansem",
+          "url": "https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Door me heen",
+      "url": "https://open.spotify.com/track/5w2ik1kdMwpU5Nhcudy8Px"
+    },
+    {
+      "album": {
         "name": "Dit Is Het Levenslied",
         "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
       },
@@ -7809,6 +7845,24 @@
     },
     {
       "album": {
+        "name": "Halverwege",
+        "url": "https://open.spotify.com/album/6yDTfOWKUkEpLNGXI3Dsbt"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170125,
+      "name": "Halverwege",
+      "url": "https://open.spotify.com/track/6wBrm0ObemKtg0nGjnQiNN"
+    },
+    {
+      "album": {
         "name": "Hamer op mijn hart",
         "url": "https://open.spotify.com/album/4HooLHxXVxnri1TcS8jZH2"
       },
@@ -9094,7 +9148,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 215568,
       "name": "Hoogtevrees",
       "url": "https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F"
@@ -10245,6 +10299,24 @@
     },
     {
       "album": {
+        "name": "Ik Val Alweer",
+        "url": "https://open.spotify.com/album/2etFqRkRCYP0mWeFpd6fa7"
+      },
+      "artists": [
+        {
+          "name": "LAUF",
+          "url": "https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169261,
+      "name": "Ik Val Alweer",
+      "url": "https://open.spotify.com/track/0DGPCHvMyopRWQsv42U2xz"
+    },
+    {
+      "album": {
         "name": "Ik Voel Me Goed",
         "url": "https://open.spotify.com/album/7rAcfvWvZUEPezw9b08nzh"
       },
@@ -10870,7 +10942,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206071,
       "name": "Jij Verdient Het",
       "url": "https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk"
@@ -12752,7 +12824,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 199449,
       "name": "Liefde Onderschat",
       "url": "https://open.spotify.com/track/4ZtkwczmUma3DLweeCjKx3"
@@ -13008,7 +13080,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 163520,
       "name": "Loser",
       "url": "https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J"
@@ -13330,7 +13402,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 180125,
       "name": "Mannen Kunnen Niet Alleen Zijn",
       "url": "https://open.spotify.com/track/2IFrrEwJ2RNjVtt0AlxQug"
@@ -16093,6 +16165,28 @@
     },
     {
       "album": {
+        "name": "Op Afstand",
+        "url": "https://open.spotify.com/album/03cVr0FQMjoHjPLH1nZCBD"
+      },
+      "artists": [
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        },
+        {
+          "name": "Denisha",
+          "url": "https://open.spotify.com/artist/3gFjb8adT9OpQEfTE3Oweg"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "Op Afstand",
+      "url": "https://open.spotify.com/track/6Y4UvcMPmigB2masCY39Td"
+    },
+    {
+      "album": {
         "name": "Op Een Dag",
         "url": "https://open.spotify.com/album/2p41O5ojTgxLFRNlmJNjJp"
       },
@@ -16502,7 +16596,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 152038,
       "name": "Pauze",
       "url": "https://open.spotify.com/track/6AWDTrLLcEZDFn0qHKwzMW"
@@ -22071,6 +22165,28 @@
     },
     {
       "album": {
+        "name": "Dichter bij de dag",
+        "url": "https://open.spotify.com/album/11ftbb3IvQ7hQrNz60datM"
+      },
+      "artists": [
+        {
+          "name": "Jesse Hoefnagels",
+          "url": "https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q"
+        },
+        {
+          "name": "Lola Ced\u00e8s",
+          "url": "https://open.spotify.com/artist/2v9aoqXvaM4EYpccxBYeJ0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131643,
+      "name": "Wildernis",
+      "url": "https://open.spotify.com/track/61nP3uEqAJmw1TZj6D4Igq"
+    },
+    {
+      "album": {
         "name": "Winnaar Van De Tijd",
         "url": "https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8"
       },
@@ -22086,6 +22202,24 @@
       "duration_ms": 149417,
       "name": "Winnaar Van De Tijd",
       "url": "https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl"
+    },
+    {
+      "album": {
+        "name": "Winterkind",
+        "url": "https://open.spotify.com/album/2zwHRzS6FnqAuMR4NKyE0P"
+      },
+      "artists": [
+        {
+          "name": "Lindi",
+          "url": "https://open.spotify.com/artist/5Hvge2fZ3VfkwUhXaXCnpR"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Winterkind",
+      "url": "https://open.spotify.com/track/3EAK7oSLalIonAaeiLAYGm"
     },
     {
       "album": {
@@ -22622,7 +22756,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 155607,
       "name": "Zij is met me",
       "url": "https://open.spotify.com/track/6qAT5esH7IDBJa10al9REG"

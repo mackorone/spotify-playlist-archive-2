@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396471,
+  "num_followers": 396495,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197116,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 214817,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 197116,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "I Believe In Life",
-        "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 216519,
-      "name": "I Believe In Life",
-      "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Saturday Silence",
         "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 175844,
       "name": "Saturday Silence",
       "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "I Believe In Life",
+        "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 216519,
+      "name": "I Believe In Life",
+      "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
-      },
-      "artists": [
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "When She\u2019s Around",
         "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 215280,
       "name": "When She\u2019s Around",
       "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -911,6 +911,22 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
+        "name": "Same Heart",
+        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "duration_ms": 219923,
+      "name": "Same Heart",
+      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
         "name": "Be My Own",
         "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 243546,
       "name": "I'm Always On Stage",
       "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
-        "name": "Same Heart",
-        "url": "https://open.spotify.com/album/7nmM7uzdftVD0myCQSNPg8"
-      },
-      "artists": [
-        {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Same Heart",
-      "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
         "name": "Easy To Love (feat. Iris Jean)",
         "url": "https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
-      },
-      "artists": [
-        {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/2eKWhwVxNOZOy0cg0LIqjY"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 186040,
       "name": "Lush",
       "url": "https://open.spotify.com/track/1e3qZVaelj0qDYdXvSwOMu"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
-        "name": "Someone To Lose",
-        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "Someone To Lose",
-      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1247,6 +1231,22 @@
       "duration_ms": 195604,
       "name": "Another Year Will Pass",
       "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Someone To Lose",
+        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
+      },
+      "artists": [
+        {
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "Someone To Lose",
+      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 155947,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 236801,
       "name": "Bend",
       "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/6geF5FYhNSBFCmeOKCVytd"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 155947,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/79u0bfuSYHh8QVqNCDXu99"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Amen (Acoustic)",
-        "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
-      },
-      "artists": [
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Amen - Acoustic",
-      "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 191040,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Amen (Acoustic)",
+        "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
+      },
+      "artists": [
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Amen - Acoustic",
+      "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
     }
   ],
   "unique_name": "'t Koffiehuis",

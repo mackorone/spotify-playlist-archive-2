@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-347 songs - 16 hr 29 min
+348 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 |  |
 | [Bird Bath Opus](https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2) | [Infam Enn](https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6) | [Bird Bath Opus](https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e) | 3:00 | 2025-05-21 | 2026-01-15 |
 | [Blissed Out](https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Blissed Out](https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD) | 2:32 | 2026-01-08 |  |
-| [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 |  |
+| [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 | 2026-03-13 |
 | [Breath Of The Wilderness](https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk) | [Mhino](https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8) | [Breath Of The Wilderness](https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK) | 3:15 | 2023-04-28 | 2025-05-22 |
 | [Breathing Slowly](https://open.spotify.com/track/3vdAXA3yfAGyjp8PwYkBsl) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 3:05 | 2023-06-09 | 2025-10-16 |
 | [Brought](https://open.spotify.com/track/5soHcUXgM7E34kLB56XnhI) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Brought](https://open.spotify.com/album/7DcDtC9kfNv2cIIweoteUF) | 2:32 | 2025-10-15 | 2026-02-24 |
@@ -183,6 +183,7 @@
 | [Light Flow](https://open.spotify.com/track/5CwM4QtEWH5qSqpWxor76d) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Light Flow](https://open.spotify.com/album/6CIiQ9Ti0tI2yAgjGpJmdE) | 2:59 | 2024-12-20 |  |
 | [Like Water](https://open.spotify.com/track/5cbaZZoB2iYsP7FQHmKRzq) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Light](https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi) | 3:26 | 2023-04-28 | 2023-07-14 |
 | [Limitless](https://open.spotify.com/track/4Z9CDkOyfnVtS2gUgmZe3i) | [Soulström](https://open.spotify.com/artist/2H7U5wNVjayzK341jIHaM6) | [Limitless](https://open.spotify.com/album/06SkRwuEyIo7ZlAcuFVmvv) | 2:18 | 2025-09-10 | 2026-02-15 |
+| [Lingering](https://open.spotify.com/track/5QU6zrvhmxn0Vy3b5iNIl7) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Lingering](https://open.spotify.com/album/0WQE5fEVkKrdprb1ppjjc8) | 2:36 | 2026-02-23 |  |
 | [Liora](https://open.spotify.com/track/5zJtd9HHO0K1s0itagJpJA) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Liora](https://open.spotify.com/album/1pxslN8y8JWJ9TmbPUU0SR) | 4:27 | 2025-07-22 |  |
 | [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 | 2026-01-29 |
 | [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 |  |

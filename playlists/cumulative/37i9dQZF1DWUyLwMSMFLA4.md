@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-359 songs - 20 hr 51 min
+360 songs - 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Intento](https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac) | 3:53 | 2023-10-06 | 2024-04-19 |
 | [Intento](https://open.spotify.com/track/66ggNhGinVQLTYJODy6P74) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/0ydcUDMrWPKqpz1SACk73x) | 3:53 | 2023-08-25 | 2023-09-20 |
 | [Intento \- En Vivo](https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Intento \(En Vivo\)](https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb) | 3:47 | 2024-06-14 | 2025-10-25 |
+| [Inventame](https://open.spotify.com/track/1Ea6SMCRQqN8cpSMpgeqpJ) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Y Amigos](https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq) | 3:31 | 2026-02-27 |  |
 | [JBL](https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [JBL](https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9) | 3:04 | 2024-10-18 | 2026-03-09 |
 | [JUAN EL CARTERO](https://open.spotify.com/track/5x2Yh61v7aXcMsdWkdYYrq) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [JUAN EL CARTERO](https://open.spotify.com/album/2Ue2AMb7p9DPBzDOu6tg7n) | 2:53 | 2024-03-08 | 2024-03-23 |
 | [Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera](https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 7:55 | 2025-06-10 | 2025-10-25 |
@@ -303,7 +304,7 @@
 | [Soy Favela \- En Vivo](https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela \(En Vivo\)](https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB) | 2:57 | 2024-10-11 | 2025-06-11 |
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 |  |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2023-05-05 | 2025-11-21 |
-| [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 | 2025-11-20 |  |
+| [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 | 2025-11-20 | 2026-03-13 |
 | [Te Amo](https://open.spotify.com/track/50WtswE20cDFRHe183OXkW) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Te Amo](https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI) | 2:50 | 2024-06-07 | 2024-10-26 |
 | [Te Amo X Nos Cruzamos](https://open.spotify.com/track/2N9CiKGk11gNLG90io1D1L) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [La Fusion](https://open.spotify.com/artist/2F09CbW6hmjxeboIJ03TmN) | [Te Amo X Nos Cruzamos](https://open.spotify.com/album/4iCxlTuoSMfvYM7CumWsFz) | 4:11 | 2024-05-10 | 2024-10-12 |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2023-05-05 | 2023-11-07 |

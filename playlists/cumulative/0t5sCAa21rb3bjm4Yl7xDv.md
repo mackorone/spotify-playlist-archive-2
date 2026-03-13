@@ -2,7 +2,7 @@
 
 ### [POP HITS 2026 \(BEST 100 SONGS\) 💥 💖 ✨ 💫](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Preston Pablo
+> pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: Olivia Dean
 
 632 songs - 1 day 9 hr 24 min
 

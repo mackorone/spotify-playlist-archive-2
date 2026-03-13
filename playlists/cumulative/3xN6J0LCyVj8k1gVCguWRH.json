@@ -2812,7 +2812,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 284100,
       "name": "AFFAIR",
       "url": "https://open.spotify.com/track/030xxiZY7ENjecmx2jCWbm"
@@ -23512,7 +23512,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 230264,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/2cZdFI6zJKzRJXSbX0knJE"
@@ -25482,6 +25482,24 @@
       "duration_ms": 191688,
       "name": "Don't Say Goodbye",
       "url": "https://open.spotify.com/track/5myYo40RKSaKyuLRbAfqTV"
+    },
+    {
+      "album": {
+        "name": "Don't Say Nothing",
+        "url": "https://open.spotify.com/album/1SSzXci0XCMepa77BZVzCP"
+      },
+      "artists": [
+        {
+          "name": "Steve Maggiora",
+          "url": "https://open.spotify.com/artist/2bcMIMHrZ3PRRf8T9cbyod"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310480,
+      "name": "Don't Say Nothing",
+      "url": "https://open.spotify.com/track/1pJ9KUgaGDjxWhEGuoUcFF"
     },
     {
       "album": {
@@ -29027,6 +29045,24 @@
     },
     {
       "album": {
+        "name": "Entre un mill\u00f3n de estrellas",
+        "url": "https://open.spotify.com/album/7HBV0XRQz81EVOQ3Lx6VNY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Luc\u00f2",
+          "url": "https://open.spotify.com/artist/5GjO5WvltXx4QzsorGvqV7"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "Entre un mill\u00f3n de estrellas",
+      "url": "https://open.spotify.com/track/6beaVneL5Qhgd0Po0giUJl"
+    },
+    {
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2nI4H931I7Z0IJDkUqb9gK"
       },
@@ -29278,6 +29314,24 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "album": {
+        "name": "Therapy For The Heart",
+        "url": "https://open.spotify.com/album/5kXU7X3woNv7slG7IkkLn0"
+      },
+      "artists": [
+        {
+          "name": "Samuel K Golden",
+          "url": "https://open.spotify.com/artist/5HFhflvEA3fWZPBvUF0GGE"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106640,
+      "name": "Eternity of Love",
+      "url": "https://open.spotify.com/track/1gnEX6ce4EUj98JrXEae5X"
     },
     {
       "album": {
@@ -39529,6 +39583,24 @@
     },
     {
       "album": {
+        "name": "Guten Morgen, Sonnenschein",
+        "url": "https://open.spotify.com/album/1fMlzeGZQRlnbpJDt8ZvSx"
+      },
+      "artists": [
+        {
+          "name": "The Early Bloom",
+          "url": "https://open.spotify.com/artist/6xv1M8XN6RhtVeHwrmOBfn"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162079,
+      "name": "Guten Morgen, Sonnenschein",
+      "url": "https://open.spotify.com/track/6sSqhAAlPFq7naHQbabzM9"
+    },
+    {
+      "album": {
         "name": "Guy Next Door",
         "url": "https://open.spotify.com/album/5D64tffO6EyavgR0X7a1VY"
       },
@@ -41067,6 +41139,24 @@
     },
     {
       "album": {
+        "name": "Emerald Spy",
+        "url": "https://open.spotify.com/album/6y8OyU7IjU6XIuYmlzr79J"
+      },
+      "artists": [
+        {
+          "name": "Annika Zee",
+          "url": "https://open.spotify.com/artist/2KcCsUGcupioSMdj6o06oE"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203119,
+      "name": "Hell No",
+      "url": "https://open.spotify.com/track/2qXxy05MVMeWaxK8WKN5v8"
+    },
+    {
+      "album": {
         "name": "GAULTIER",
         "url": "https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH"
       },
@@ -41144,6 +41234,24 @@
       "duration_ms": 219466,
       "name": "Hello, Sun",
       "url": "https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv"
+    },
+    {
+      "album": {
+        "name": "Help Me Help Them",
+        "url": "https://open.spotify.com/album/5BUoXYgrXOInOCeY3f39NS"
+      },
+      "artists": [
+        {
+          "name": "Vanessa B\u00e9jine",
+          "url": "https://open.spotify.com/artist/3p6E5FwwA91cFivHzSpjkf"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Help Me Help Them",
+      "url": "https://open.spotify.com/track/1zHRZgDS7iwR9CiXCRs6MO"
     },
     {
       "album": {
@@ -41238,6 +41346,24 @@
       "duration_ms": 205682,
       "name": "Her Groove",
       "url": "https://open.spotify.com/track/6ax6gl2sldunonkpswlnGT"
+    },
+    {
+      "album": {
+        "name": "Her Pov",
+        "url": "https://open.spotify.com/album/4XKyqwzGUl9jdk0pYPr1UI"
+      },
+      "artists": [
+        {
+          "name": "Elikem Gh",
+          "url": "https://open.spotify.com/artist/5F68EWKf2XrEyTCve1LHEp"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237799,
+      "name": "Her Pov",
+      "url": "https://open.spotify.com/track/1gnJZBwOuoxRdnNE9easKx"
     },
     {
       "album": {
@@ -44658,6 +44784,24 @@
       "duration_ms": 182543,
       "name": "I Found It",
       "url": "https://open.spotify.com/track/6pBxU1CuJpco03zLFkr95Q"
+    },
+    {
+      "album": {
+        "name": "Microtastrophe",
+        "url": "https://open.spotify.com/album/6b7ZrmjFhEvnR1jI8GHC8O"
+      },
+      "artists": [
+        {
+          "name": "Infinite Guest",
+          "url": "https://open.spotify.com/artist/7qbtJ4ep8KygVNaBG62dDG"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142164,
+      "name": "I Glued Myself To The Universe",
+      "url": "https://open.spotify.com/track/4k54YBXCFKH4n2VylV64nh"
     },
     {
       "album": {
@@ -52185,6 +52329,24 @@
     },
     {
       "album": {
+        "name": "Ladylike",
+        "url": "https://open.spotify.com/album/5XYCTjnjsVVs8FwS9KNoQj"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Pohl",
+          "url": "https://open.spotify.com/artist/3BqB6mz5m8wlG7np4Hdlxs"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193811,
+      "name": "Ladylike",
+      "url": "https://open.spotify.com/track/4Bl2XWEsesIRqqiZ7DT09j"
+    },
+    {
+      "album": {
         "name": "Lakeside",
         "url": "https://open.spotify.com/album/7itZ0XTVvEGsWaCKQ4Vbts"
       },
@@ -52506,7 +52668,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 202919,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/6aL8z4bV0B1B3eQuFVTAuA"
@@ -59224,7 +59386,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 236240,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/0qHxVLpEfjoFWlwwb1jPT2"
@@ -61096,6 +61258,24 @@
       "duration_ms": 220260,
       "name": "Merry Christmas, Lucy",
       "url": "https://open.spotify.com/track/6CgJTzr849rHkQvNZDEPtL"
+    },
+    {
+      "album": {
+        "name": "Messed Up",
+        "url": "https://open.spotify.com/album/0mHkhc1uS6dV8VBRxyjy2D"
+      },
+      "artists": [
+        {
+          "name": "Nature Loves Courage",
+          "url": "https://open.spotify.com/artist/1T2d0aXH5Y5GrKSWR119vO"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219611,
+      "name": "Messed Up",
+      "url": "https://open.spotify.com/track/74TvHZKKAAEK6BYZeCqoI7"
     },
     {
       "album": {
@@ -69482,7 +69662,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 134983,
       "name": "On Read",
       "url": "https://open.spotify.com/track/4ddg1xnhJmSpWkLNKJRsOj"
@@ -75173,6 +75353,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Matter",
+        "url": "https://open.spotify.com/album/1eL4VXm97SNBUKdv3hXqpl"
+      },
+      "artists": [
+        {
+          "name": "Annie Chachas",
+          "url": "https://open.spotify.com/artist/2ilAHkhaDvDMiEnWInBw4p"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0Ttbg6khMk27tCoqt8XhJy"
+    },
+    {
+      "album": {
         "name": "Privacy",
         "url": "https://open.spotify.com/album/6LztfVJyqGY3LjkkylyZ9O"
       },
@@ -79422,7 +79620,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 171567,
       "name": "Roll Up",
       "url": "https://open.spotify.com/track/5S5aHpj1SluyUca3BhtgtH"
@@ -87525,6 +87723,24 @@
     },
     {
       "album": {
+        "name": "Spring Is Coming (Feast Days | Moedim)",
+        "url": "https://open.spotify.com/album/32IXLBxmhiC361cvrAd8XB"
+      },
+      "artists": [
+        {
+          "name": "NARROWAY",
+          "url": "https://open.spotify.com/artist/6vgMDWteLfrmr231nWxGq8"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268719,
+      "name": "Spring Is Coming (Feast Days | Moedim)",
+      "url": "https://open.spotify.com/track/6u8O0wWNgVRVUI45ENPrUC"
+    },
+    {
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -90940,6 +91156,24 @@
       "duration_ms": 167183,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0T96wo5t1gii0CpvVj03VU"
+    },
+    {
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/6tDsIf2eT0kaqAJkY8I4VB"
+      },
+      "artists": [
+        {
+          "name": "Karina Magallon",
+          "url": "https://open.spotify.com/artist/1YwrLrYKopX3zW2DMXpeSh"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "SUPERNOVA",
+      "url": "https://open.spotify.com/track/6bXFlkQzM5kBhUvdN3ytSH"
     },
     {
       "album": {

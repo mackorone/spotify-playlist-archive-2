@@ -1,6 +1,6 @@
 {
   "description": "Dim the lights and chill with these classic slow jamz.",
-  "num_followers": 477791,
+  "num_followers": 477847,
   "original_name": "Slow Jamz",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
-      },
-      "artists": [
-        {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Crunk Juice",
         "url": "https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 260600,
       "name": "Lovers And Friends",
       "url": "https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Trigga Reloaded",
-        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 197854,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "Kaleidoscope Dream (Deluxe Version)",
         "url": "https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 193149,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 197854,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+        "name": "Find Your Way",
+        "url": "https://open.spotify.com/album/3G14jXmb8ul7FmkRnPZooj"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+          "name": "GABRIELLE",
+          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
         }
       ],
-      "duration_ms": 294693,
-      "name": "How You Gonna Act Like That",
-      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+      "duration_ms": 222773,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "Find Your Way",
-        "url": "https://open.spotify.com/album/3G14jXmb8ul7FmkRnPZooj"
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
       },
       "artists": [
         {
-          "name": "GABRIELLE",
-          "url": "https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi"
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
         }
       ],
-      "duration_ms": 222773,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4rV3AYCf4BBBCkIpyLPwUP"
+      "duration_ms": 294693,
+      "name": "How You Gonna Act Like That",
+      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "SAVAGE",
-        "url": "https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 309120,
-      "name": "When We",
-      "url": "https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O"
-    },
-    {
-      "added_at": "2025-05-01 13:20:41",
-      "album": {
         "name": "From The Bottom Up",
         "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 304160,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+    },
+    {
+      "added_at": "2025-05-01 13:20:41",
+      "album": {
+        "name": "SAVAGE",
+        "url": "https://open.spotify.com/album/2P723Vzun1R14cqiwfX7Fa"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 309120,
+      "name": "When We",
+      "url": "https://open.spotify.com/track/2HWelwHQS4EdRqIycZOc3O"
     },
     {
       "added_at": "2025-05-01 13:20:41",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-05-01 13:20:41",
       "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+        "name": "Love and War",
+        "url": "https://open.spotify.com/album/1783Mxpt38yxafCtFlgHNF"
       },
       "artists": [
         {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
         }
       ],
-      "duration_ms": 245893,
-      "name": "Signs of Love Makin'",
-      "url": "https://open.spotify.com/track/6RYynPLHZLnpwjejfGWpQl"
+      "duration_ms": 241981,
+      "name": "Love and War",
+      "url": "https://open.spotify.com/track/3fLBmhcgWkPI47LfVQ8paB"
     }
   ],
   "unique_name": "Slow Jamz",

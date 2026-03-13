@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,064 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,987 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 52 | [Sigilo \- Ao Vivo](https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sigilo \(Ao Vivo\)](https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa) | 2:45 |
 | 53 | [MC Lençol e DJ Travesseiro](https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Mc Lençol e Dj Travesseiro](https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru) | 2:58 |
 | 54 | [Eu Era](https://open.spotify.com/track/09hQbo0PphvZ7y3ZZK9AJw) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Eu Era](https://open.spotify.com/album/4vQ19EdJVj7sS6JvKGlq0K) | 3:31 |
-| 55 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 |
-| 56 | [Espelho Meu \- Ao Vivo](https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Espelho Meu \(Ao Vivo\)](https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC) | 2:41 |
+| 55 | [Espelho Meu \- Ao Vivo](https://open.spotify.com/track/5vAH9kwRajhfewbqBczqwJ) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun) | [Espelho Meu \(Ao Vivo\)](https://open.spotify.com/album/3KM4EBZiYYhusvKoOgAZBC) | 2:41 |
+| 56 | [Ainda Sou Tão Seu \- Ao Vivo](https://open.spotify.com/track/07PHNpknqZFw6N3GzNQWB8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Esquenta Do Felipe Araújo \(Ao Vivo\)](https://open.spotify.com/album/2t0KATEqI2hGmuDy6BzU33) | 2:42 |
 | 57 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
 | 58 | [Quem Ensinou Fui Eu](https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Quem Ensinou Fui Eu](https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH) | 2:31 |
 | 59 | [Cê Acredita](https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Cê Acredita](https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY) | 2:50 |

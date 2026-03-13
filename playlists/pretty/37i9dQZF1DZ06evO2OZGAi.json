@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAAAZxBAeRW3Mk2MYGaYJ2MPe",
+  "snapshot_id": "abCwgAAAAABA5w99cdqTWgLDhhmrUicp",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rutas",
+        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "Rutas",
+      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Infectado",
         "url": "https://open.spotify.com/album/5dXikqKuG5OMktmbjAUINT"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 188546,
       "name": "Cambia Esa Cara",
       "url": "https://open.spotify.com/track/1VHJvq2ErXqwF5C2vptRaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rutas",
-        "url": "https://open.spotify.com/album/2lrQSfpFMqqdWAzLjDpSRH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 256092,
-      "name": "Rutas",
-      "url": "https://open.spotify.com/track/1EZfNMXXSG7zzcN6U9nHVe"
     },
     {
       "added_at": null,

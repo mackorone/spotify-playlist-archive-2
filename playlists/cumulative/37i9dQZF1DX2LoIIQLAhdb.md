@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Franglish
+> Le R&B français, nouvelle ère\. Photo : Ronisia
 
-658 songs - 1 day 7 hr 5 min
+660 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Chou](https://open.spotify.com/track/6iUiqclxAWQPVwmw0e3vYq) | [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Chou](https://open.spotify.com/album/2uyNkQUMUFcjx1OrNSz8jp) | 2:55 | 2023-04-20 | 2023-09-15 |
 | [CHOUCHOU](https://open.spotify.com/track/1XzdJhNSc3GGvdQ6aBAi1V) | [Lylah](https://open.spotify.com/artist/6rMyZCzpGGloxJODqWyYRF) | [NIOUMI](https://open.spotify.com/album/1hay46KXDEmG1NGlFjohYl) | 2:56 | 2023-04-27 | 2023-06-09 |
 | [Chupa Chups](https://open.spotify.com/track/7EutpTfTMlSP1mgC3TDmv4) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Chupa Chups](https://open.spotify.com/album/5SV2UqN0sJRVFlWov1Yox9) | 3:13 | 2023-06-01 | 2023-06-30 |
-| [CHÉRIE COCO](https://open.spotify.com/track/3EffNWkk8hktq6psmhC3RR) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [CHÉRIE COCO](https://open.spotify.com/album/5i5r4A39FsatsEZEsuLxXK) | 2:47 | 2026-02-19 |  |
+| [CHÉRIE COCO](https://open.spotify.com/track/3EffNWkk8hktq6psmhC3RR) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [CHÉRIE COCO](https://open.spotify.com/album/5i5r4A39FsatsEZEsuLxXK) | 2:47 | 2026-02-19 | 2026-03-13 |
 | [Cicatrices](https://open.spotify.com/track/6Wgq0Mr4D7BsYwhCfU3JGt) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Cicatrices](https://open.spotify.com/album/0H8PSYkG1CXQna6ycNcMAM) | 2:45 | 2023-05-04 | 2023-06-23 |
 | [Citadelle](https://open.spotify.com/track/6XzU4QX098kuPPe3OkMk8W) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Citadelle](https://open.spotify.com/album/0Ff0OXWRPPlEe4z4dLSAIA) | 2:45 | 2023-12-28 | 2024-06-28 |
 | [CLASSY THUG](https://open.spotify.com/track/6gm9mJiTarQUa7QFPUNLuV) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [CLASSY THUG](https://open.spotify.com/album/10U4ORJ07tYBBXllneubQc) | 2:44 | 2025-07-03 | 2025-08-22 |
@@ -194,6 +194,7 @@
 | [Elle veut](https://open.spotify.com/track/482WP6RcNool7kwN1RT7lD) | [Melvin Coser](https://open.spotify.com/artist/4LKQaEZjxdgN1r1W8q6t01), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Elle veut](https://open.spotify.com/album/2ROX9u2tbFJj1CPp9oSh30) | 2:40 | 2026-01-22 | 2026-02-27 |
 | [Elle veut](https://open.spotify.com/track/4v1PTY3bHJN5AKN2iKG92a) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Elle veut](https://open.spotify.com/album/6TQcNoAiXIBJBjVqSpT0Fn) | 2:41 | 2025-03-27 | 2025-09-05 |
 | [Elle veut jouer](https://open.spotify.com/track/5SgWtxeEdURryOPLk5fdfk) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [Elle veut jouer](https://open.spotify.com/album/4c6nG8eIqzLAh3SH7QDh2n) | 2:48 | 2024-06-13 | 2024-07-19 |
+| [Emilie \(feat\. Rsko\)](https://open.spotify.com/track/3XA7GhI4tk4jTbmSQFIPnB) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [CYCLE](https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB) | 2:46 | 2026-03-12 |  |
 | [EMOTIONS](https://open.spotify.com/track/7q5oVAKvpIBfgCJg1SCyGy) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [EMOTIONS](https://open.spotify.com/album/2z0G70ZLSSlBRs2CKNGmd5) | 2:51 | 2024-07-18 | 2024-09-20 |
 | [EN TT](https://open.spotify.com/track/2go4JjcJuZJ1WQQCWdAZ87) | [Nayth](https://open.spotify.com/artist/6EMIPjUlfsk2LiKIcrbbar), [Doosko Niafo](https://open.spotify.com/artist/3j5vom9KtuBUImiFXCOTP0) | [EN TT](https://open.spotify.com/album/5TQ3lE67bKHk3FXPTuBTgA) | 3:01 | 2024-12-19 | 2025-01-31 |
 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 | 2025-07-10 | 2025-12-05 |
@@ -304,7 +305,7 @@
 | [Keisha](https://open.spotify.com/track/2eIpm3C9VrZgVbJwa5v1Es) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [Keisha](https://open.spotify.com/album/4xowVeOMIfvQ88PXNMcuDd) | 2:52 | 2023-11-30 | 2024-01-05 |
 | [KM](https://open.spotify.com/track/3JAhkNrtJBjeAoJB2B5Aei) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [UNE LARME DE +](https://open.spotify.com/album/5p22pIQyjHxtEU9ZflwmKc) | 2:39 | 2023-06-22 | 2023-09-29 |
 | [KO](https://open.spotify.com/track/6Kdo1H8akrb1sIFyXAQbfa) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Milenzi](https://open.spotify.com/artist/3kUZDDyXB8aHc6Cn4lgFcU) | [KO](https://open.spotify.com/album/3p79r0hidkk1z1V0ajsoOS) | 3:07 | 2025-08-28 | 2025-09-19 |
-| [Kon Sa](https://open.spotify.com/track/7ykg7XuvPKaCans1BpX9dY) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Kon Sa](https://open.spotify.com/album/4arejIBFe8xHM0SGYfJqXT) | 2:42 | 2026-02-19 |  |
+| [Kon Sa](https://open.spotify.com/track/7ykg7XuvPKaCans1BpX9dY) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [Kon Sa](https://open.spotify.com/album/4arejIBFe8xHM0SGYfJqXT) | 2:42 | 2026-02-19 | 2026-03-13 |
 | [Kouma \- A COLORS SHOW](https://open.spotify.com/track/0qRiGLDCvi8zMKZdL5pisV) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Kouma \- A COLORS SHOW](https://open.spotify.com/album/6ile3U8JuYt0T1G9HtOIGZ) | 2:44 | 2025-11-06 | 2026-01-30 |
 | [L'AMÉRICAINE](https://open.spotify.com/track/5o9i7yTVirTIMMQrZrtTkd) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [SÛR ET CERTAIN](https://open.spotify.com/album/5lybxL3zlWlLz4eYh9Ns67) | 2:45 | 2023-08-03 | 2023-09-29 |
 | [L'official](https://open.spotify.com/track/1CGz3eUcjnym8RqfrnoUhr) | [Gol.d](https://open.spotify.com/artist/1iq9ebpFaCHQ4FbAQWnTtV) | [L'official](https://open.spotify.com/album/7nU4DM4TY3j0C5uuINrFnk) | 2:46 | 2024-05-09 | 2024-06-28 |
@@ -427,6 +428,7 @@
 | [N°1](https://open.spotify.com/track/4MO9FQjvq19aQYHzwPS0EK) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [N°1](https://open.spotify.com/album/3vo1DGBT0rnIMoEmlzy1jq) | 1:01 | 2025-03-13 | 2025-06-27 |
 | [NÉON ROUGE](https://open.spotify.com/track/0z7mcN9vpUG9CWLY7QnWIK) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [NÉON ROUGE](https://open.spotify.com/album/4Jbxa1c5GFMLQRQ9jquw6t) | 2:29 | 2026-02-12 |  |
 | [Odjo](https://open.spotify.com/track/3XeU69FyLpUT2UPGcrtKKI) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Odjo](https://open.spotify.com/album/4ULOaqdIcArvKcU0sP64D3) | 2:43 | 2025-11-13 | 2025-12-12 |
+| [OFELE](https://open.spotify.com/track/4DtmqIBYcK7y9u8Z1Dat6m) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [G\-POP CLASSIKS .02](https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp) | 2:30 | 2026-03-12 |  |
 | [Off](https://open.spotify.com/track/1NIe6RL8XQBvH3pXkIoy95) | [Meesyz](https://open.spotify.com/artist/3ygeE9AJfIQ1QmhdSHM9ZK) | [Off](https://open.spotify.com/album/1lEulBrpMY1Kivj5vt4NqF) | 2:15 | 2024-11-21 | 2025-01-10 |
 | [OG](https://open.spotify.com/track/7Gjyi5WwgUP46MQlcepxec) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [OG](https://open.spotify.com/album/2MIrhvnmAv7ODwQz1sPcBa) | 2:33 | 2024-10-10 | 2024-12-06 |
 | [On m'a déjà](https://open.spotify.com/track/4TCCaDy1XyKLBm6eFXDmrz) | [Loo](https://open.spotify.com/artist/6uhHMAJ8LR6BcQCtBwW2mc) | [On m’a déjà](https://open.spotify.com/album/35zPm2aRpic65eRqTTQew1) | 3:08 | 2025-10-16 | 2025-11-07 |

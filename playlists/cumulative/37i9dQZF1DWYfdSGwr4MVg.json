@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Anti-Hero",
+        "url": "https://open.spotify.com/album/5IFEd96lNspIn4OIo9JhAi"
+      },
+      "artists": [
+        {
+          "name": "Judith Georges",
+          "url": "https://open.spotify.com/artist/463WQwqzy398f40pfXorNA"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155156,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/3xtkRIzK313eYxlcP0nAFN"
+    },
+    {
+      "album": {
         "name": "Are You Sleeping",
         "url": "https://open.spotify.com/album/4leOl9TEghpRm4VhQZVaeV"
       },
@@ -365,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Berceuse (Lullaby)",
+        "url": "https://open.spotify.com/album/1GRrawch74Br8IAjxEP9BB"
+      },
+      "artists": [
+        {
+          "name": "everall",
+          "url": "https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Berceuse (Lullaby)",
+      "url": "https://open.spotify.com/track/4LJThB8XFjrimvMa2NC3J8"
+    },
+    {
+      "album": {
         "name": "Berceuse Dolly",
         "url": "https://open.spotify.com/album/29fEZIjdRhU7baXxvszRcM"
       },
@@ -398,6 +434,24 @@
       "duration_ms": 174934,
       "name": "Beyond the Rainbow",
       "url": "https://open.spotify.com/track/0noFmZfFeRPc2NaYYSoa6k"
+    },
+    {
+      "album": {
+        "name": "Big Big World",
+        "url": "https://open.spotify.com/album/7D674WSsq1ZZnAZxOCMiQj"
+      },
+      "artists": [
+        {
+          "name": "Helge Ro",
+          "url": "https://open.spotify.com/artist/1yjQtVvGIusBMbVyt5E9Fp"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165147,
+      "name": "Big Big World",
+      "url": "https://open.spotify.com/track/7C71xWjlOSXgOW1717lkaI"
     },
     {
       "album": {
@@ -614,7 +668,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 137624,
       "name": "Chasing Cars (Night Crickets)",
       "url": "https://open.spotify.com/track/6S4XwzKHepmMCQMzKCaWRU"
@@ -1248,6 +1302,24 @@
       "duration_ms": 89750,
       "name": "Go Tell it On the Mountain",
       "url": "https://open.spotify.com/track/5HPIg89L5vAPAeGOdnfWbD"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/3cvmnKqilzHDswtkY1Irme"
+      },
+      "artists": [
+        {
+          "name": "Calin Bleu",
+          "url": "https://open.spotify.com/artist/5NyW1GF9Bn9O9oaAWmlVb3"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205222,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/5LiID5PIhd6lU35H18sdfe"
     },
     {
       "album": {
@@ -2475,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/21lpeDm4v1B5CpVLKRsF1e"
+      },
+      "artists": [
+        {
+          "name": "Ivar Soll",
+          "url": "https://open.spotify.com/artist/6UG50IGzPYGYyfWe7XXoRw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268171,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/6JJHiobN3Qm3LEpNj6Tr61"
+    },
+    {
+      "album": {
         "name": "Polly Wolly Doodle",
         "url": "https://open.spotify.com/album/6qYgS9txCqExvzBCsZsJRh"
       },
@@ -2526,6 +2616,42 @@
       "duration_ms": 160491,
       "name": "Pray For A Better Day",
       "url": "https://open.spotify.com/track/39zzCzSyzdR6stAihvlenT"
+    },
+    {
+      "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/3GavjgtvlGGi5NGA2Ydbue"
+      },
+      "artists": [
+        {
+          "name": "everall",
+          "url": "https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/6rJBQlEmGFeIRxAuLdGvHI"
+    },
+    {
+      "album": {
+        "name": "Red River Valley (with white noise)",
+        "url": "https://open.spotify.com/album/0v65WpWg1SpSnCLkzLzZxJ"
+      },
+      "artists": [
+        {
+          "name": "Beddy Bye",
+          "url": "https://open.spotify.com/artist/576yCUKgUjt64R9dhFtvAN"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "Red River Valley (with white noise)",
+      "url": "https://open.spotify.com/track/10D8BQnCNy7SSaKIpTWX6H"
     },
     {
       "album": {
@@ -2853,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/5BmcVbk6UVyfXCVLO9a7bW"
+      },
+      "artists": [
+        {
+          "name": "BLNKY",
+          "url": "https://open.spotify.com/artist/3uBKZOcK9aV9KhzT4c3TAA"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199782,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/3fWhy1raqGgwHbkd3s3XFJ"
+    },
+    {
+      "album": {
         "name": "Somewhere Over the Rainbow",
         "url": "https://open.spotify.com/album/4ZnsQGid6RYqiJe55Ro3Ey"
       },
@@ -2868,6 +3012,24 @@
       "duration_ms": 141774,
       "name": "Somewhere Over the Rainbow",
       "url": "https://open.spotify.com/track/7pKVxdbAoEt0meMwn0hH6Y"
+    },
+    {
+      "album": {
+        "name": "Stairway to heaven",
+        "url": "https://open.spotify.com/album/3Cl3r2wARWMH77IphSHnF8"
+      },
+      "artists": [
+        {
+          "name": "Lucas Shore",
+          "url": "https://open.spotify.com/artist/1XuAVFIQryYgPtcC8Faf3c"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Stairway to heaven",
+      "url": "https://open.spotify.com/track/3RsMYpUYn2eSQAgyE3hv5w"
     },
     {
       "album": {
@@ -3120,6 +3282,24 @@
       "duration_ms": 148854,
       "name": "The Little Snoring Owl",
       "url": "https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG"
+    },
+    {
+      "album": {
+        "name": "The Magic Pebble",
+        "url": "https://open.spotify.com/album/3TZj2y4KNho1KIwlsiCjO0"
+      },
+      "artists": [
+        {
+          "name": "Eja Bergelin",
+          "url": "https://open.spotify.com/artist/4wZnTEHFsSwqUmu8dLzD2X"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "The Magic Pebble",
+      "url": "https://open.spotify.com/track/10SQBKI650syEt7OlgzS7L"
     },
     {
       "album": {
@@ -3570,6 +3750,24 @@
       "duration_ms": 99500,
       "name": "Yankee Doodle",
       "url": "https://open.spotify.com/track/2T7N8qmL56DFtgZxqnMi2A"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/0mdkVhsIFByhbFTerqnn01"
+      },
+      "artists": [
+        {
+          "name": "Pomme d'\u00c9toile",
+          "url": "https://open.spotify.com/artist/1IrrfbcOGDtmxI4UfOviDn"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178347,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2hfvOQw2tpwq7MQYbN8xnh"
     },
     {
       "album": {

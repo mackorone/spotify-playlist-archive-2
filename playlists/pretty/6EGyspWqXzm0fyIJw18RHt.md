@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 38 songs - 2 hr 9 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 39 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,6 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 36 | [Unleash Your Spirit](https://open.spotify.com/track/21t9VLX5JNXLgVd2XNRFdq) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Songs on the Computer](https://open.spotify.com/album/3GQEX55RfjR9MydqaAflHH) | 2:17 |
 | 37 | [One Foot in the Grave](https://open.spotify.com/track/00sg1bWleg3eSzq5fgRaLl) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Element Two: Earth](https://open.spotify.com/album/47LAjSieRTVItb8J66EMRQ) | 2:40 |
 | 38 | [Unicorn Tolerance](https://open.spotify.com/track/276BJyNe0CW6GPMjPtwcIa) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Goths \(Deluxe Version\)](https://open.spotify.com/album/1yJuS1MzCnoqG8IKZA6uuf) | 5:24 |
+| 39 | [BRAINS! \(from the Cartoon Network's GRIM AND EVIL\)](https://open.spotify.com/track/4W6GZFd0xDFEux8Jw59UJf) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [BOO HOO](https://open.spotify.com/album/2EY8rTI7ZaU9f68LDXIsZk) | 5:11 |
 
-Snapshot ID: `AAAALZuYBM9/QwLyiVezICjjFDu4hafX`
+Snapshot ID: `AAAALsLP5g79boCKgwlO2Ms3wIxpIvPJ`

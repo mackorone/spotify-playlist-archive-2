@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-153 songs - 7 hr 24 min
+155 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2025-07-14 |  |
 | [Heb Je Al Genoeg Genoten](https://open.spotify.com/track/52Ki7PzFYiyPbRnxtpZMc7) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Heb Je Al Genoeg Genoten](https://open.spotify.com/album/117kAFARQi7isHGwFh9gYA) | 2:19 | 2025-09-04 |  |
 | [Heb Lak Aan Wat Ze Zeggen](https://open.spotify.com/track/3ej7KCO6lz7Au29DsfDZq7) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Heb Lak Aan Wat Ze Zeggen](https://open.spotify.com/album/4lAvmC6B24huS5BLvTGUKh) | 2:30 | 2025-07-14 | 2025-09-21 |
+| [Heerlijk](https://open.spotify.com/track/3uNLa5MkTaw3OdXWfXzgXZ) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Heerlijk](https://open.spotify.com/album/68JDBphxyUiqaNt3qotaf7) | 2:06 | 2026-03-12 |  |
 | [Het Maakt Niet Uit](https://open.spotify.com/track/4CSAy7eHSSnMLIAkcCxeAC) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Het Maakt Niet Uit](https://open.spotify.com/album/3OSlCwhIjgO0VLkWgm2eOO) | 2:23 | 2025-10-09 |  |
 | [Hier Mag Alles](https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Hier Mag Alles](https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi) | 3:15 | 2025-07-14 |  |
 | [Hoe Heet Dat Liedje?](https://open.spotify.com/track/2o3ANittPBTyx9KafdQrZc) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Hoe Heet Dat Liedje?](https://open.spotify.com/album/1s592SEXHqLxjFjAKo65tD) | 3:15 | 2025-07-14 | 2025-09-21 |
@@ -109,6 +110,7 @@
 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 | 2025-07-14 |  |
 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 | 2025-07-14 | 2026-01-15 |
 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 | 2025-07-14 |  |
+| [Monica](https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Monica](https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e) | 3:06 | 2026-03-12 |  |
 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 | 2026-01-13 |  |
 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 | 2025-07-14 |  |
 | [Nobody Else \- 2.0](https://open.spotify.com/track/0wT75Em0j2PkWp7Ii6yIew) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Nobody Else \(2.0\)](https://open.spotify.com/album/0St10cKnpnzWxutKJ5FQTW) | 2:51 | 2025-11-06 |  |

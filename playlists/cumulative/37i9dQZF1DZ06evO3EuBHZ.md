@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-195 songs - 10 hr 54 min
+196 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 | 2022-08-05 |  |
 | [Good Time in London](https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 4:25 | 2023-01-09 | 2024-06-06 |
 | [Guide Me Home](https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 4:23 | 2022-08-07 | 2024-07-23 |
+| [Hard Times](https://open.spotify.com/track/45rMIdrrTjnGrhM3WYev2c) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog \- The Essential Collection](https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4) | 2:11 | 2026-03-13 |  |
 | [Hard Times](https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:13 | 2023-04-13 | 2025-12-07 |
 | [Hard Times](https://open.spotify.com/track/1a190bvAYqk1wyChVSm6s1) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:13 | 2023-05-02 | 2024-04-15 |
 | [Hard Times](https://open.spotify.com/track/7H8a0ZcXknPTS3myoea6cE) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:13 | 2022-08-05 | 2023-04-01 |

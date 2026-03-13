@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Haddad Alwi, Danilla",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Farrel Hilal ",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -6317,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Dia Datang",
+        "url": "https://open.spotify.com/album/53yB8tV4eBipi2IdA6pDcq"
+      },
+      "artists": [
+        {
+          "name": "The Cottons",
+          "url": "https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310368,
+      "name": "Dia Datang",
+      "url": "https://open.spotify.com/track/0MKRgtcLuwUkLqEP7QGU0t"
+    },
+    {
+      "album": {
         "name": "Dia Menunggu",
         "url": "https://open.spotify.com/album/0GVP9nRqHAV6utMJXxKBcg"
       },
@@ -10205,6 +10223,24 @@
     },
     {
       "album": {
+        "name": "Jombi (Jomblo Abadi)",
+        "url": "https://open.spotify.com/album/0TjEWXaKoumRXsReRyDoVX"
+      },
+      "artists": [
+        {
+          "name": "Project Pop",
+          "url": "https://open.spotify.com/artist/2D3ztMHoKJOJs3HgQJPXf6"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201351,
+      "name": "Jombi (Jomblo Abadi)",
+      "url": "https://open.spotify.com/track/2AJQGy9rqUfhccaUyDjzFf"
+    },
+    {
+      "album": {
         "name": "Jujurkan Keadilan",
         "url": "https://open.spotify.com/album/1bxawingEDf9aYGujuCJyB"
       },
@@ -11228,6 +11264,24 @@
       "duration_ms": 250000,
       "name": "Kekasih Seseorang - Kotakustik",
       "url": "https://open.spotify.com/track/5qGDptJdZN6YxQk4L9X0zH"
+    },
+    {
+      "album": {
+        "name": "Keliling",
+        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179225,
+      "name": "Keliling",
+      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
     },
     {
       "album": {
@@ -15683,6 +15737,28 @@
     },
     {
       "album": {
+        "name": "Merindukanmu",
+        "url": "https://open.spotify.com/album/3wdR0SWZ1rdo1BipbFEgI1"
+      },
+      "artists": [
+        {
+          "name": "Janita Gabriela",
+          "url": "https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7"
+        },
+        {
+          "name": "Putri Sashi",
+          "url": "https://open.spotify.com/artist/4iUvDxXt7alOb7xME0zhLS"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267702,
+      "name": "Merindukanmu",
+      "url": "https://open.spotify.com/track/3EDHh1W0wnk7voXNUf2lQ5"
+    },
+    {
+      "album": {
         "name": "Merindumu lagi",
         "url": "https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7"
       },
@@ -19162,6 +19238,24 @@
       "duration_ms": 247164,
       "name": "Ruang Luka",
       "url": "https://open.spotify.com/track/4f1mDUpM4c62Nhf0yW9HXV"
+    },
+    {
+      "album": {
+        "name": "Ruang Rindu",
+        "url": "https://open.spotify.com/album/6U8T26jUnHW3pSKHXkuBMz"
+      },
+      "artists": [
+        {
+          "name": "Rakhano",
+          "url": "https://open.spotify.com/artist/2zOBXLlMHApdurk2Mv1Cc4"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Ruang Rindu",
+      "url": "https://open.spotify.com/track/5YqNW4AWK7bN9i2758EWCr"
     },
     {
       "album": {

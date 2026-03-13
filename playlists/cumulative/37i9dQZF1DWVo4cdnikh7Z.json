@@ -46355,6 +46355,28 @@
     },
     {
       "album": {
+        "name": "Thakka Thai (From \"Cheers Music\")",
+        "url": "https://open.spotify.com/album/0H6yH2chI03zjSY5hWnyco"
+      },
+      "artists": [
+        {
+          "name": "RITUAL",
+          "url": "https://open.spotify.com/artist/2cmiBDa6er4eCF0Fez1gus"
+        },
+        {
+          "name": "Silvan",
+          "url": "https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181511,
+      "name": "Thakka Thai - From \"Cheers Music\"",
+      "url": "https://open.spotify.com/track/5XmdQR3j0ymfMRQ4XTC68j"
+    },
+    {
+      "album": {
         "name": "Thala Forever - Whistle for Dhoni",
         "url": "https://open.spotify.com/album/2ZQjEJaQHe2opILdX8eHik"
       },

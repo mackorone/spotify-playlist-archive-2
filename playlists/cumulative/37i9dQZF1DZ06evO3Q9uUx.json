@@ -111,6 +111,32 @@
     },
     {
       "album": {
+        "name": "..FEISTY (Oppidan remix)",
+        "url": "https://open.spotify.com/album/3RHHWTV841eOr2bHvVWuNR"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "..FEISTY - Oppidan remix",
+      "url": "https://open.spotify.com/track/38l4HezLcZ6lmQ4ISf7bs9"
+    },
+    {
+      "album": {
         "name": "USB002 REMIXES",
         "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
       },
@@ -130,7 +156,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161739,
       "name": "..FEISTY - Oppidan remix",
       "url": "https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA"

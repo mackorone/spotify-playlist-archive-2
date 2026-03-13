@@ -4,7 +4,7 @@
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-142 songs - 6 hr 39 min
+143 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [..FEISTY](https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [ICEY..FEISTY](https://open.spotify.com/album/2IOBE6UthAQRwiUJOhQTpL) | 2:51 | 2025-11-30 | 2026-02-18 |
 | [..FEISTY](https://open.spotify.com/track/6jhoA7WipfL1Vx9K26TQRT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 2:51 | 2026-02-18 | 2026-03-08 |
 | [..FEISTY](https://open.spotify.com/track/7wfz2GOmuDxKztNfTfXQvu) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB](https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM) | 2:51 | 2026-03-08 |  |
-| [..FEISTY \- Oppidan remix](https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB002 REMIXES](https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9) | 2:41 | 2026-03-08 |  |
+| [..FEISTY \- Oppidan remix](https://open.spotify.com/track/38l4HezLcZ6lmQ4ISf7bs9) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [..FEISTY \(Oppidan remix\)](https://open.spotify.com/album/3RHHWTV841eOr2bHvVWuNR) | 2:41 | 2026-03-13 |  |
+| [..FEISTY \- Oppidan remix](https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [USB002 REMIXES](https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9) | 2:41 | 2026-03-08 | 2026-03-13 |
 | [808](https://open.spotify.com/track/6q2MPZVa5Mb5PjJEVUWvYK) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808](https://open.spotify.com/album/0TMLxS4EwK3d1qgjXZ6AOI) | 2:21 | 2024-03-16 | 2025-09-24 |
 | [808 \(feat\. BIA\) \- VIP Mix](https://open.spotify.com/track/7JXv5zT2ScZD5M817AsiwD) | [DJ Bliss](https://open.spotify.com/artist/4SePAG9OlC4tupADxTPs9s), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [808 \(feat\. BIA\) \[VIP Mix\]](https://open.spotify.com/album/0zRU6f717s06UmamIWvt6p) | 2:41 | 2024-06-30 | 2024-07-27 |
 | [a woman is a god \- BIA Remix](https://open.spotify.com/track/1bjKLAHQUcSOK6zBr9ZgDv) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [a woman is a god \(BIA Remix\)](https://open.spotify.com/album/1GM7yBzzTnJ7TvTysxvaQj) | 2:58 | 2022-10-28 | 2023-04-07 |

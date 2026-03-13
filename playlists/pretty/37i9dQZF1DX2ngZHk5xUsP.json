@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu pilihan yang cocok nemenin kamu menuju Bekasi",
-  "num_followers": 21612,
+  "num_followers": 21611,
   "original_name": "Bekasi Jauh, Semangat! ",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2025-09-26 09:30:14",
       "album": {
-        "name": "Our Sincere Desire",
-        "url": "https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4"
-      },
-      "artists": [
-        {
-          "name": "Pure Saturday",
-          "url": "https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn"
-        },
-        {
-          "name": "Ray Viera Laxmana",
-          "url": "https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf"
-        }
-      ],
-      "duration_ms": 203050,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC"
-    },
-    {
-      "added_at": "2025-09-26 09:30:14",
-      "album": {
         "name": "ISYANA",
         "url": "https://open.spotify.com/album/5j8Y7IqRpYBl9PnA4Tl1qI"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 411653,
       "name": "UNDER GOD'S PLAN",
       "url": "https://open.spotify.com/track/04gCHn28qdAxXudjuvLUMh"
+    },
+    {
+      "added_at": "2025-09-26 09:30:14",
+      "album": {
+        "name": "Our Sincere Desire",
+        "url": "https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4"
+      },
+      "artists": [
+        {
+          "name": "Pure Saturday",
+          "url": "https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn"
+        },
+        {
+          "name": "Ray Viera Laxmana",
+          "url": "https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf"
+        }
+      ],
+      "duration_ms": 203050,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC"
     },
     {
       "added_at": "2025-09-26 09:30:14",

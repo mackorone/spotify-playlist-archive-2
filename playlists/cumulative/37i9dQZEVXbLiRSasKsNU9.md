@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,767 songs - 10 day 15 hr 42 min
+4,768 songs - 10 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2420,7 +2420,8 @@
 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 | 2023-03-14 | 2023-04-26 |
 | [LOOK DON’T TOUCH \(feat\. cade clair\)](https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON’T TOUCH \(feat\. cade clair\)](https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P) | 2:18 | 2023-06-13 | 2023-07-19 |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 6:43 | 2025-06-11 | 2025-06-15 |
-| [Looping the Rooms \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI) | [rusino](https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Looping the Rooms / Lambent Aria](https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM) | 2:14 | 2026-02-23 |  |
+| [Looping the Rooms](https://open.spotify.com/track/6IvPX0MmJo8Z1RswPfZUmO) | [rusino](https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH) | [Looping the Rooms](https://open.spotify.com/album/3xB1SXkPuXWtu1GARaRLf2) | 2:14 | 2026-03-12 |  |
+| [Looping the Rooms \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI) | [rusino](https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Looping the Rooms / Lambent Aria](https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM) | 2:14 | 2026-02-23 | 2026-03-13 |
 | [Los Angeles](https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p) | [Siaka](https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz) | [Los Angeles](https://open.spotify.com/album/0Kzc5Q79RKy9q77FO6v1hP) | 3:05 | 2025-05-17 | 2025-06-04 |
 | [Los del Espacio](https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Los del Espacio](https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU) | 5:38 | 2023-06-27 | 2023-07-12 |
 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 | 2025-05-12 | 2025-06-02 |

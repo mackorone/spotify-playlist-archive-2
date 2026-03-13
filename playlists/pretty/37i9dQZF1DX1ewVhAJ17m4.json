@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 601369,
+  "num_followers": 601441,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "Neck Deep",
-        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Dumbstruck Dumbf**k",
-      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "Stickers of Brian",
         "url": "https://open.spotify.com/album/1VIMKqBLNwr7MOJennpzwW"
       },
@@ -683,18 +667,34 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "WORLD vs PEACE",
-        "url": "https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6"
+        "name": "Neck Deep",
+        "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 178837,
-      "name": "WORLD vs PEACE",
-      "url": "https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx"
+      "duration_ms": 178600,
+      "name": "Dumbstruck Dumbf**k",
+      "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
+        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 194672,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -715,18 +715,18 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
-        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
+        "name": "WORLD vs PEACE",
+        "url": "https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         }
       ],
-      "duration_ms": 194672,
-      "name": "Nothing Changes",
-      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
+      "duration_ms": 178837,
+      "name": "WORLD vs PEACE",
+      "url": "https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "MOTH KIDS",
-        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 219035,
-      "name": "MOTH KIDS",
-      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "GODDAMNITALL",
         "url": "https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 196301,
       "name": "GODDAMNITALL",
       "url": "https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
+        "name": "MOTH KIDS",
+        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 219035,
+      "name": "MOTH KIDS",
+      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "Irreversible",
-        "url": "https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5"
-      },
-      "artists": [
-        {
-          "name": "Koyo",
-          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Irreversible",
-      "url": "https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "Where I Lay",
         "url": "https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 216741,
       "name": "Where I Lay",
       "url": "https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
+        "name": "Irreversible",
+        "url": "https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "NORTHERN LIGHTS//",
-        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 280065,
-      "name": "NORTHERN LIGHTS//",
-      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "Someone You Need",
         "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 183375,
       "name": "Someone You Need",
       "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
+        "name": "NORTHERN LIGHTS//",
+        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 280065,
+      "name": "NORTHERN LIGHTS//",
+      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 189897,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2026-02-20 05:00:53",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-20 05:00:53",
       "album": {
-        "name": "Sandbox",
-        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 145547,
-      "name": "Sandbox",
-      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2026-02-20 05:00:53",
-      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 168975,
       "name": "MARRY KILL F*CK//",
       "url": "https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc"
+    },
+    {
+      "added_at": "2026-02-20 05:00:53",
+      "album": {
+        "name": "Sandbox",
+        "url": "https://open.spotify.com/album/1BLlQwKaJjyHTOrhZ8BAxd"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 145547,
+      "name": "Sandbox",
+      "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
     },
     {
       "added_at": "2026-02-20 05:00:53",

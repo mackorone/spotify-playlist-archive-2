@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: CARLI",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: georgustav",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -666,6 +666,24 @@
       "duration_ms": 252466,
       "name": "3. Stock",
       "url": "https://open.spotify.com/track/2M5xIJ2GySzBSKjhKdkjUL"
+    },
+    {
+      "album": {
+        "name": "3/10",
+        "url": "https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA"
+      },
+      "artists": [
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142101,
+      "name": "3/10",
+      "url": "https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl"
     },
     {
       "album": {
@@ -6085,6 +6103,24 @@
     },
     {
       "album": {
+        "name": "Die Jugend hat Angst",
+        "url": "https://open.spotify.com/album/2M7DJrDORAFpXFq6j9eu1h"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153912,
+      "name": "Die Jugend hat Angst",
+      "url": "https://open.spotify.com/track/2oYn3QvypdJxcgvJrl3E5w"
+    },
+    {
+      "album": {
         "name": "Die Jungs",
         "url": "https://open.spotify.com/album/7h0wgWuhyE6MXWNR9aUlDD"
       },
@@ -6806,7 +6842,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 195426,
       "name": "Du Liebst Mich Nicht",
       "url": "https://open.spotify.com/track/07uJuElrOlCGJwOHwzCTry"
@@ -8535,6 +8571,28 @@
     },
     {
       "album": {
+        "name": "Fang",
+        "url": "https://open.spotify.com/album/7LmR9LgvcOClvieG7kwkQD"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        },
+        {
+          "name": "c4rl",
+          "url": "https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141049,
+      "name": "Fang",
+      "url": "https://open.spotify.com/track/1dqAWyNnLAgXclOUtZMo7e"
+    },
+    {
+      "album": {
         "name": "fanta lustig ep",
         "url": "https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm"
       },
@@ -9529,6 +9587,24 @@
     },
     {
       "album": {
+        "name": "fr\u00fchling",
+        "url": "https://open.spotify.com/album/59tOU0MzaRpeoed9IDiDtA"
+      },
+      "artists": [
+        {
+          "name": "Florin",
+          "url": "https://open.spotify.com/artist/1UE7cPF2mLRuQmxLwJaOnO"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144040,
+      "name": "fr\u00fchling",
+      "url": "https://open.spotify.com/track/5LdDeKl8JzQ1PfrmmQ1Ui1"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchst\u00fcck bei Tiffany",
         "url": "https://open.spotify.com/album/0oHrksXV8Ux6p9zKFTQrSO"
       },
@@ -10231,6 +10307,24 @@
     },
     {
       "album": {
+        "name": "gehtsdirwiedergut",
+        "url": "https://open.spotify.com/album/4p38JVewyr6bpd4VpO6YWq"
+      },
+      "artists": [
+        {
+          "name": "georgustav",
+          "url": "https://open.spotify.com/artist/5axauV52djUUY4BJcnxdZo"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171912,
+      "name": "gehtsdirwiedergut",
+      "url": "https://open.spotify.com/track/76WlAND07jD4Xz3AmDmZUz"
+    },
+    {
+      "album": {
         "name": "Geist",
         "url": "https://open.spotify.com/album/2TLFXXiWA9Q8uw3Xle2wwa"
       },
@@ -10540,7 +10634,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 182813,
       "name": "Gespenst",
       "url": "https://open.spotify.com/track/6BoqUL8PIeYmI9tYkdHNRU"
@@ -12292,7 +12386,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 160702,
       "name": "Homeoffice",
       "url": "https://open.spotify.com/track/3NpyAqRGkJDVZheN2TjrZC"
@@ -13326,7 +13420,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 141054,
       "name": "immer jung",
       "url": "https://open.spotify.com/track/7IjDf3LtMRgul5BmH9nfdw"
@@ -14788,7 +14882,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 148207,
       "name": "kein n\u00e4chstes mal",
       "url": "https://open.spotify.com/track/22P8IF6TCe5eysah6kGKgy"
@@ -15358,7 +15452,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 164667,
       "name": "kleiner bruder",
       "url": "https://open.spotify.com/track/4U2BzEzxCLz6jVgE8PiEK8"
@@ -16422,7 +16516,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 192832,
       "name": "leere worte",
       "url": "https://open.spotify.com/track/4I1EzAKn3BZECQfwszQGrg"
@@ -21567,6 +21661,24 @@
     },
     {
       "album": {
+        "name": "Rave on",
+        "url": "https://open.spotify.com/album/6XgO0vBuKwQiA1IpEDol2f"
+      },
+      "artists": [
+        {
+          "name": "OK KID",
+          "url": "https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Rave on",
+      "url": "https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw"
+    },
+    {
+      "album": {
         "name": "NUR F\u00dcR DICH 2",
         "url": "https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf"
       },
@@ -23521,6 +23633,24 @@
     },
     {
       "album": {
+        "name": "Selfcaretag",
+        "url": "https://open.spotify.com/album/4M8yLlE6DR7HB1wtnpsICL"
+      },
+      "artists": [
+        {
+          "name": "herr ulrich",
+          "url": "https://open.spotify.com/artist/3EwGLc40naFP5DNfWFTqBA"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "Selfcaretag",
+      "url": "https://open.spotify.com/track/3VWCgicSNalOmTOYVGbswf"
+    },
+    {
+      "album": {
         "name": "Seltsame Welt",
         "url": "https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU"
       },
@@ -23800,6 +23930,24 @@
       "duration_ms": 123779,
       "name": "SIE WOLLEN DIES SIE WOLLEN DAS",
       "url": "https://open.spotify.com/track/0EH4T1vEnWzbzYYRNGNAf3"
+    },
+    {
+      "album": {
+        "name": "Sieben",
+        "url": "https://open.spotify.com/album/2yZFakWu6zSTO13cFlKOhi"
+      },
+      "artists": [
+        {
+          "name": "Taubenraucher",
+          "url": "https://open.spotify.com/artist/5S9ZXP1ahpEL15EhanRbKn"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247789,
+      "name": "Sieben",
+      "url": "https://open.spotify.com/track/119d15hLCKcPHGoWodfokj"
     },
     {
       "album": {
@@ -24716,7 +24864,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 180824,
       "name": "Sorgen",
       "url": "https://open.spotify.com/track/4Fx5ksDTBLqWCouGi8h626"
@@ -26368,6 +26516,24 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
+    },
+    {
+      "album": {
+        "name": "Am Ende dieses Lieds",
+        "url": "https://open.spotify.com/album/0uI04hH5PgQPyj5xWXOlFq"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/0EhfipW0dxhg0bESywNyAp"
     },
     {
       "album": {
@@ -29877,6 +30043,24 @@
     },
     {
       "album": {
+        "name": "wieviele Tage",
+        "url": "https://open.spotify.com/album/6SaXHsxV1SFbQgULjEfUmw"
+      },
+      "artists": [
+        {
+          "name": "fiora",
+          "url": "https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144946,
+      "name": "wieviele Tage",
+      "url": "https://open.spotify.com/track/3AfgaomsUEosFavo59d5Ki"
+    },
+    {
+      "album": {
         "name": "Wilde Herzen",
         "url": "https://open.spotify.com/album/1wf7R5V02ykidXjrEf2H9C"
       },
@@ -29946,7 +30130,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178533,
       "name": "Wimpern ausrei\u00dfen (uncut)",
       "url": "https://open.spotify.com/track/2vnIS6DH6DRy8D3R45OIEO"
@@ -30506,7 +30690,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 176493,
       "name": "Zeug",
       "url": "https://open.spotify.com/track/3ECyrtEB5DJHQjOmn7G6XX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Luis Vazquez
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,720 likes - 49 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,740 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 40 | [VUELVES TRISTE](https://open.spotify.com/track/5trhmUpq8NA8P6ltnIu8Dt) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:22 |
 | 41 | [¡Quieren Salsa!](https://open.spotify.com/track/6IPIz1qk98MiywwHTahIU5) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [¡Quieren Salsa!](https://open.spotify.com/album/7wOgI5yUW8uHZSdQimx1HH) | 4:00 |
 | 42 | [Qué Tiene Él](https://open.spotify.com/track/1qeQl1u6v27pL5TiyUHygY) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz), [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Qué Tiene Él](https://open.spotify.com/album/2Cf4P1Z1W1u1Fn4V7yCBpF) | 3:27 |
-| 43 | [Ven Devórame Otra Vez \- Live](https://open.spotify.com/track/5XRSNq5y2EeDIOuULa0Q6p) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Sesiones Desde La Loma](https://open.spotify.com/artist/4Cb9qCNnDaaiFjE1jZif9f), [Norbert](https://open.spotify.com/artist/04TVXKQbM8xY3Dv16vtzVK) | [Sesiones Desde La Loma EP.58 \- Guaynaa \(Live\)](https://open.spotify.com/album/2FjcSUZWLLPyvDlJOaRmp2) | 5:52 |
+| 43 | [Ven Devórame Otra Vez \- Live](https://open.spotify.com/track/5XRSNq5y2EeDIOuULa0Q6p) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Sesiones Desde La Loma](https://open.spotify.com/artist/4Cb9qCNnDaaiFjE1jZif9f), [Norbert](https://open.spotify.com/artist/04TVXKQbM8xY3Dv16vtzVK) | [EP\. 58 \- Guaynaa \(Live at Sesiones Desde La Loma\)](https://open.spotify.com/album/2FjcSUZWLLPyvDlJOaRmp2) | 5:52 |
 | 44 | [MALPORTADA](https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MALPORTADA](https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0) | 3:39 |
 | 45 | [Sigue Así](https://open.spotify.com/track/0S9a62rn46Vtq3avWe4aju) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Sigue Así](https://open.spotify.com/album/0nExBc2S34lsgm5mRDhUCn) | 3:23 |
 | 46 | [Estrellitas y Duendes Feat\. Sting](https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Estrellitas y Duendes Feat\. Sting](https://open.spotify.com/album/5GjdntsUfA48aRFzhjIyCm) | 4:26 |

@@ -2,9 +2,9 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> Beat e rime, oggi come una volta\. Danno in cover.
+> Beat e rime, oggi come una volta\. Claver Gold in cover.
 
-620 songs - 1 day 10 hr 58 min
+621 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Magico \- RMX](https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Magico \(RMX\)](https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5) | 2:46 | 2023-11-02 |  |
 | [Magma](https://open.spotify.com/track/16GaeA0WeGiSFcmgp0UE6D) | [XVI Religion](https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT) | [Nuova Gaia](https://open.spotify.com/album/0v0BdeJpdpczjHiUqgSH5U) | 3:52 | 2024-04-25 | 2025-02-28 |
 | [Mai più](https://open.spotify.com/track/7eCTouW8AsJxIhUuia3ASY) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz), [Davide Shorty](https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso) | [Mai più](https://open.spotify.com/album/1UMIdUVRJgDbPSU7s8M2bV) | 2:35 | 2022-07-28 | 2024-05-10 |
-| [Malastrada](https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Malastrada](https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq) | 3:11 | 2022-06-30 |  |
+| [Malastrada](https://open.spotify.com/track/2RyKq1Xt3O65JediNE1VyY) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [Malastrada](https://open.spotify.com/album/5IMYdNhfIPMUGBtaf8Wghq) | 3:11 | 2022-06-30 | 2026-03-13 |
 | [MALAVITA, Pt\. 2 / HeadShot, Vol\. 3](https://open.spotify.com/track/7sVCJaINF95KpCraI7sgRE) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [Ugo Borghetti](https://open.spotify.com/artist/3i6za4KlTDNe8mducqnwJi), [Chiky Realeza](https://open.spotify.com/artist/7oy0pingNJByahqhT0epVx), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Zinghero](https://open.spotify.com/artist/2YjJSwI8YUk44D9ZdceX6D), [Barrabravas](https://open.spotify.com/artist/41zZmUOaeKXQNcMxfDaObJ), [Luciano Lamanna](https://open.spotify.com/artist/2bGfoG3BXmcZ0hgDjPcFZf), [Funkyman](https://open.spotify.com/artist/1frFclUlmPhS4OmpTA1Wcb) | [MALAVITA, Pt\. 2 / HeadShot, Vol\. 3](https://open.spotify.com/album/2Ym6KhFJz7TwRqppa3fHMy) | 4:56 | 2024-06-06 | 2025-02-28 |
 | [Maledetti](https://open.spotify.com/track/1xL1G84NvDrorgI0Xcg0Rt) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Wiser Keegan](https://open.spotify.com/artist/7yyNWNKL62huGbzW13Ghur), [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX) | [Dead Poets 3 \- Maledetti](https://open.spotify.com/album/3yCuWgWAGTPSAA4m52wP74) | 2:55 | 2022-05-05 | 2023-10-27 |
 | [MALEDETTI](https://open.spotify.com/track/4Niczbt1B1FtLb8wibdbR5) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:46 | 2023-11-02 | 2025-03-28 |
@@ -609,6 +609,7 @@
 | [Verde \(feat\. Willie Peyote & Cicco Sanchez\)](https://open.spotify.com/track/2xAgjA6BKstSr6lLtdczw8) | [Joelz](https://open.spotify.com/artist/1xLvoEP0zgupEhWcJLvBPT), [Dave\_Zeta](https://open.spotify.com/artist/0tPpkbhOIaxzijxT4EkJJM), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel) | [Day Off](https://open.spotify.com/album/3VByS2MsqxN343yE4C3vHr) | 4:02 | 2024-11-21 | 2026-02-06 |
 | [Vero cuoio](https://open.spotify.com/track/3wSmk7RYfGH68HXgexMdM8) | [Cricca Dei Balordi](https://open.spotify.com/artist/2ABQVj6lXu0Zf7rxC3vrAN), [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Sano Business Street Collection, Vol\. 3](https://open.spotify.com/album/5LFLc80XnvztmNDK3criZ4) | 3:30 | 2024-04-25 | 2024-05-03 |
 | [Verso Altri Lidi](https://open.spotify.com/track/4ns5QMZm4Nw96OmzuySsT1) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:21 | 2025-06-19 |  |
+| [Vertigine Soggettiva](https://open.spotify.com/track/0zDVgdDEscFZveCA05m3f1) | [Claver Gold](https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz) | [La Migliore Stagione](https://open.spotify.com/album/6Fn8UnTIOM12LpLniQA4wq) | 3:38 | 2026-03-12 |  |
 | [VETERANO \(feat\. DJ Shocca\)](https://open.spotify.com/track/6Nyi1o5Yh6Jdw9Tmp3qjv9) | [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [MEDIOEGO](https://open.spotify.com/album/7LgeeQPvJoqL6omHms0Bal) | 3:53 | 2022-05-05 | 2024-04-26 |
 | [Via da qua](https://open.spotify.com/track/3wR9T5duDxx2B8lAt2glZ2) | [Lou X](https://open.spotify.com/artist/71iSKM6kyU1jpEy61Idmzx) | [La realtà, la lealtà e lo scontro](https://open.spotify.com/album/77F6IMqIvxFouMNQcbT2A1) | 4:41 | 2022-05-19 | 2024-05-03 |
 | [VIA DI QUA](https://open.spotify.com/track/3EY1CmcI2rt5gheR50GfJ3) | [Poche Spanne](https://open.spotify.com/artist/7mNX0MwEmUQRqdNX5yoL2F), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Funky Nano](https://open.spotify.com/artist/6TSfxHqdLfsHgAJ64mF7DH) | [VIA DI QUA](https://open.spotify.com/album/4bsKhpUCfltaHwdCaymR6c) | 3:40 | 2025-02-27 | 2025-06-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Armada",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Janita Gabriela, Putri Sashi ",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -8940,6 +8940,28 @@
       "duration_ms": 175514,
       "name": "Merindu Lagi",
       "url": "https://open.spotify.com/track/49cQR3bjxEndbqK2qARYds"
+    },
+    {
+      "album": {
+        "name": "Merindukanmu",
+        "url": "https://open.spotify.com/album/3wdR0SWZ1rdo1BipbFEgI1"
+      },
+      "artists": [
+        {
+          "name": "Janita Gabriela",
+          "url": "https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7"
+        },
+        {
+          "name": "Putri Sashi",
+          "url": "https://open.spotify.com/artist/4iUvDxXt7alOb7xME0zhLS"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267702,
+      "name": "Merindukanmu",
+      "url": "https://open.spotify.com/track/3EDHh1W0wnk7voXNUf2lQ5"
     },
     {
       "album": {

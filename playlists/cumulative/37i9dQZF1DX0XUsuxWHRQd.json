@@ -48023,6 +48023,28 @@
     },
     {
       "album": {
+        "name": "My Ghetto Report Card",
+        "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Keak Da Sneak",
+          "url": "https://open.spotify.com/artist/1sPpJhevOYz54gNgeh2LaV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Tell Me When to Go (feat. Keak da Sneak)",
+      "url": "https://open.spotify.com/track/7eJ5kRpMNPAk7ccCDKywjH"
+    },
+    {
+      "album": {
         "name": "ALREADY LEGEND. (THANK YOU Edition)",
         "url": "https://open.spotify.com/album/64yQR2eLdCTa0ZHBEpqR0v"
       },

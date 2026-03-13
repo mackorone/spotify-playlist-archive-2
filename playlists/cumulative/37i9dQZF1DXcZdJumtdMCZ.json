@@ -5925,6 +5925,24 @@
     },
     {
       "album": {
+        "name": "THEE",
+        "url": "https://open.spotify.com/album/1aKEwzSnSO4axIM0B9NOAa"
+      },
+      "artists": [
+        {
+          "name": "Devoid",
+          "url": "https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "THEE",
+      "url": "https://open.spotify.com/track/3tMnDr6GRVZa7Po1iZn9nU"
+    },
+    {
+      "album": {
         "name": "Thee (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4RGkxAZsU2AydhGBQJe0YS"
       },

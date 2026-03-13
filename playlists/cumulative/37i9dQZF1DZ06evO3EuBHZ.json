@@ -811,6 +811,24 @@
     },
     {
       "album": {
+        "name": "Hound Dog - The Essential Collection",
+        "url": "https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131693,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/45rMIdrrTjnGrhM3WYev2c"
+    },
+    {
+      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },

@@ -2,9 +2,9 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> \#fyp songs voor je playlist \| "schouder in de kom hij vliegt er bijna uit" \- Siggy & D1ns
+> \#fyp songs voor je playlist
 
-863 songs - 1 day 19 hr 21 min
+864 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Gyal You A Party Animal](https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You A Party Animal](https://open.spotify.com/album/0eCvXdGhFxgjB4yyDEHoff) | 3:34 | 2023-02-23 | 2023-03-15 |
 | [Had Ik Maar](https://open.spotify.com/track/2DDNjoAssaFfxX8XzKTyNn) | [Merijn Scholten](https://open.spotify.com/artist/46yeM7RxHuvvk41AbsT6BO) | [Had Ik Maar](https://open.spotify.com/album/01MTXusD2NHp8Od7qQ46nm) | 2:04 | 2025-10-30 | 2026-02-13 |
 | [HaHUA \(Doei Doei\)](https://open.spotify.com/track/4qWdCSPVYD4FeEPW6tS7jU) | [AUXBERGINE](https://open.spotify.com/artist/5ITnDaeBB9eLjQaDQUJwzi) | [HaHUA \(Doei Doei\)](https://open.spotify.com/album/0kMYgc76yYiikvTzgyQQfB) | 1:55 | 2024-03-07 | 2024-03-22 |
+| [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 | 2026-03-12 |  |
 | [Happy Nation](https://open.spotify.com/track/7yCF65vpc7sUwPjftI0iFb) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Happy Nation](https://open.spotify.com/album/6cpOIdpPfGaazHsh5eYz0k) | 4:15 | 2024-02-14 | 2024-04-09 |
 | [Hardcore Will Never Die](https://open.spotify.com/track/2EMMqD9aKPLx1DJ90JHnaJ) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Koningsdag 2022](https://open.spotify.com/album/0Ag7wvNwmOYh8CugoVh6Jl) | 2:11 | 2023-07-18 | 2024-05-07 |
 | [Harder Dan Ik Spenden Kan](https://open.spotify.com/track/4M5df297Jy9j5eMb5smzNz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Harder Dan Ik Spenden Kan](https://open.spotify.com/album/4XBRKKStjsSQpRzdtm2Oe6) | 2:35 | 2026-01-19 |  |

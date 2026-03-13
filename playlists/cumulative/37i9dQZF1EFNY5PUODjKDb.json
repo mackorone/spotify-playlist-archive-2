@@ -9572,7 +9572,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 240066,
       "name": "I Believe My Heart",
       "url": "https://open.spotify.com/track/1SWqqW4NaS3rfQhGvKSDu3"
@@ -23856,6 +23856,24 @@
     {
       "album": {
         "name": "Starlight Express",
+        "url": "https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81826,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/4UxEXVrBGPvME4TLHJAMbA"
+    },
+    {
+      "album": {
+        "name": "Starlight Express",
         "url": "https://open.spotify.com/album/6KMPEaq01lg1xoGucSWWKT"
       },
       "artists": [
@@ -23892,7 +23910,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206573,
       "name": "The Race",
       "url": "https://open.spotify.com/track/4CcBZ8D1sahvA1gr9gLuno"

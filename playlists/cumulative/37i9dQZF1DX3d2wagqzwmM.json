@@ -6023,6 +6023,24 @@
     },
     {
       "album": {
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/1jul5fRSS14TZ968Cq4swI"
+      },
+      "artists": [
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184477,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/2heLV1pJcIi0xBuZWjAfKh"
+    },
+    {
+      "album": {
         "name": "In The Music",
         "url": "https://open.spotify.com/album/5wxJSMDnVj6JVAPqzeKa0w"
       },
@@ -10892,7 +10910,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 217500,
       "name": "Rockstar Rave - Extended Mix",
       "url": "https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc"

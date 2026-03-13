@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Juice WRLD\)
 
-3,308 songs - 6 day 22 hr 43 min
+3,309 songs - 6 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2659,6 +2659,7 @@
 | [Stars Out](https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Stars Out](https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H) | 1:47 | 2024-06-28 | 2024-08-02 |
 | [START TO FiNiSH \- S.T.F](https://open.spotify.com/track/2cosCEbJVLuKb9W2dttgBn) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [START TO FiNiSH \- S.T.F](https://open.spotify.com/album/3JlQviJIx9W8AAdIiIrQZz) | 1:56 | 2025-10-16 | 2025-12-12 |
 | [Starting 5](https://open.spotify.com/track/2exwooXX7ksq9tfGjEFhfQ) | [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w), [Nelson Dialect](https://open.spotify.com/artist/0ciHGUC86265ZD8uPVEs4N), [Mr Slipz](https://open.spotify.com/artist/0f41KWC8A6b93s0n90uNjn), [Renelle 893](https://open.spotify.com/artist/4v5qIH8w67IatxpJRkr2RQ), [NuphZed](https://open.spotify.com/artist/4eAuSa8PUtnnoZjGRSiWCp), [King Kashmere](https://open.spotify.com/artist/3rpW7BnYppUUZnkL5zTfRb) | [Sight Beyond Sight](https://open.spotify.com/album/3oPzOc81tpMARXL5HX0EbN) | 4:43 | 2023-07-27 | 2023-09-01 |
+| [STATE OF EMERGENCY](https://open.spotify.com/track/1hpFu5ZQQGi7vDipedBcXy) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [STATE OF EMERGENCY](https://open.spotify.com/album/1dAjoyuOzwWfkKX43lTkzy) | 3:03 | 2026-02-27 |  |
 | [Stay](https://open.spotify.com/track/0kkwkMs2eInLnneztE2wQQ) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Stay](https://open.spotify.com/album/4BGQ9ltr3exHRrX5auh8pg) | 4:05 | 2025-11-06 | 2026-01-17 |
 | [Stay Awake](https://open.spotify.com/track/5k9kxCcae70vUElndjveXT) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Heartz](https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU) | 3:33 | 2022-11-10 | 2023-01-13 |
 | [STAY GOLD x NO! NAH! x KINGS CLUB \- Icebox Remix](https://open.spotify.com/track/0eWmSJEYj6wxqPMDQqf9ZD) | [Kray](https://open.spotify.com/artist/4AwjFCp2fzZSLXQl3nxeT3), [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze) | [STAY GOLD x NO! NAH! x KINGS CLUB \(Icebox Remix\)](https://open.spotify.com/album/6cuAz92miS3jh0BFTC8mXQ) | 4:13 | 2023-05-11 | 2023-06-16 |

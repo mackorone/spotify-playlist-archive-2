@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con Aterciopelados en portada.
 
-244 songs - 13 hr 23 min
+245 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [OK.](https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [OK.](https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4) | 2:36 | 2025-08-01 | 2025-11-15 |
 | [OMG](https://open.spotify.com/track/2wb2YziVNTYR5D00fJTHPn) | [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [OMG](https://open.spotify.com/album/18W4dp5qWUhWnapCGvbNDD) | 2:50 | 2025-11-21 |  |
 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 | 2023-11-24 | 2024-01-13 |
+| [Oso en invierno](https://open.spotify.com/track/4eoIEcqr9Fx65fGtBvH7A5) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [FAUNA](https://open.spotify.com/album/54sHbojbRXsCPxVCLiXxQQ) | 3:22 | 2026-03-12 |  |
 | [Otro pez en el mar](https://open.spotify.com/track/1yIa5oRekELH2yoIfo2Vmo) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Otro pez en el mar](https://open.spotify.com/album/20AfTKlbyqAhJSBjb6hwtb) | 3:29 | 2025-11-21 | 2026-02-14 |
 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 | 2023-12-01 | 2025-01-25 |
 | [Oveja Negra](https://open.spotify.com/track/5lVHU9YGgzhrzUQzmv71XC) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Carlitosss](https://open.spotify.com/artist/4BnbhKXjvpJBRkC9mmgjxo) | [Oveja Negra](https://open.spotify.com/album/6dIc4l4A7QNGISb3oKhiEp) | 2:55 | 2025-09-26 | 2025-11-22 |
@@ -228,7 +229,7 @@
 | [Te Odio](https://open.spotify.com/track/397jDbGxYWYuRewhhDGZyN) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Te Odio](https://open.spotify.com/album/3BLBFxZLciXu7N9cF8itlG) | 2:24 | 2026-02-13 |  |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-09-22 | 2024-05-11 |
 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 | 2023-10-27 | 2024-02-10 |
-| [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 | 2024-08-02 |  |
+| [Terapia](https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Terapia](https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI) | 2:21 | 2024-08-02 | 2026-03-13 |
 | [Teresa](https://open.spotify.com/track/4cgEbCOaaN0nzhAZvJinb8) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Teresa](https://open.spotify.com/album/2g4WfH84dp88AXNqaY9jaw) | 3:34 | 2025-11-21 |  |
 | [tiempo pasa](https://open.spotify.com/track/4q0E9LdUvQdNR2bSm3kkIV) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [VERANO SAUDADE](https://open.spotify.com/album/4NiMrAqxTakrdJi0DNGwFd) | 3:34 | 2025-12-12 |  |
 | [Todas Las Aguas](https://open.spotify.com/track/08LnCmgee4peeXIiuIZnNr) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Todas Las Aguas](https://open.spotify.com/album/1MkVD9DfkjVOWJ9dKYpqZv) | 3:04 | 2025-07-11 | 2026-01-31 |

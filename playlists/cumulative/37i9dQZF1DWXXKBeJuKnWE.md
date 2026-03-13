@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Split Chain
 
-707 songs - 1 day 18 hr 35 min
+708 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Break](https://open.spotify.com/track/4447WSwIe8Q9LNKIh7kZDQ) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/3BQK669H6FrqGVd7YtxNIs) | 3:23 | 2024-01-26 | 2024-04-12 |
 | [Break You](https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Break You](https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR) | 2:19 | 2024-04-19 | 2025-09-12 |
 | [Breaks Me Down](https://open.spotify.com/track/0g0OCn2UZortZbRPiK5wNO) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Breaks Me Down](https://open.spotify.com/album/3LrghDuiwiYfjyrIRTJZiH) | 4:26 | 2025-04-04 | 2025-09-12 |
-| [Broken and Blind](https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj) | 3:12 | 2025-10-10 |  |
+| [Broken and Blind](https://open.spotify.com/track/1UKPDEkYKuqxdItIyaZehC) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Broken and Blind](https://open.spotify.com/album/36IfjYBdMiXDTm9vyB3SVj) | 3:12 | 2025-10-10 | 2026-03-13 |
 | [Bury Me With My Screams](https://open.spotify.com/track/2ALh8nB3wKq490LiiZDx1Y) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Bury Me With My Screams](https://open.spotify.com/album/3IU16QWqIlqFtcxcTophb1) | 5:16 | 2025-08-11 |  |
 | [By a Monster's Hand](https://open.spotify.com/track/1h837MpNwbxLmbozm54JgE) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [By a Monster's Hand](https://open.spotify.com/album/1UySfuZwFqzldyUFqvogi7) | 3:42 | 2025-03-26 | 2025-09-12 |
 | [By The Sound](https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [By The Sound](https://open.spotify.com/album/5OdLYsLViZQUxq1KkOYioq) | 3:42 | 2023-03-03 | 2023-07-26 |
@@ -669,6 +669,7 @@
 | [Vigilantes](https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Vigilantes](https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m) | 4:00 | 2025-05-02 | 2026-01-24 |
 | [Villain Arc](https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Villain Arc](https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8) | 3:39 | 2024-05-30 | 2025-09-12 |
 | [Violent Nature](https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Zenith](https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb) | 3:55 | 2025-04-04 |  |
+| [Violent Obsession](https://open.spotify.com/track/4a6irBo5JD7ktrmE3K1EvD) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Violent Obsession](https://open.spotify.com/album/6HzUhdKOTsP078MiVMNeHx) | 3:29 | 2026-03-06 |  |
 | [Vore](https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Vore](https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml) | 5:39 | 2023-03-03 | 2023-07-26 |
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 | 2025-09-12 |
 | [Wait A Minute My Girl](https://open.spotify.com/track/6nDHNHOVNuWK48N24Fktcs) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 2:20 | 2022-11-10 | 2023-03-25 |

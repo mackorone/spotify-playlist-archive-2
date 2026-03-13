@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: SuperJazzClub",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Jiire Smith",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 113348,
       "name": "Crashout",
       "url": "https://open.spotify.com/track/3uerMRzubyhmewGvT0twg7"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 126000,
       "name": "DUA PA",
       "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
@@ -6280,7 +6280,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 160359,
       "name": "FEELINGS",
       "url": "https://open.spotify.com/track/1ksmsfxb4XCOKD0JdYaznz"
@@ -8555,6 +8555,24 @@
     },
     {
       "album": {
+        "name": "to what we were",
+        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
+    },
+    {
+      "album": {
         "name": "Heart Of The Heavenly Undeniable (HOTHU)",
         "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
       },
@@ -9272,7 +9290,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 168408,
       "name": "It ends with me",
       "url": "https://open.spotify.com/track/6B1WlH8M9hkQy3DjO8NboN"
@@ -11945,6 +11963,24 @@
     },
     {
       "album": {
+        "name": "Miss Kitoko",
+        "url": "https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149916,
+      "name": "Miss Kitoko",
+      "url": "https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk"
+    },
+    {
+      "album": {
         "name": "Missy Mami",
         "url": "https://open.spotify.com/album/6AHL6fisPdk6tQe4lZDBEK"
       },
@@ -12824,6 +12860,28 @@
       "duration_ms": 162031,
       "name": "Next Move",
       "url": "https://open.spotify.com/track/349xUXpwkSwnNif0xxECZR"
+    },
+    {
+      "album": {
+        "name": "Night Drive (feat. Dagmawit Ameha)",
+        "url": "https://open.spotify.com/album/1mE2Y555FBTuTACvAh3U31"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        },
+        {
+          "name": "Dagmawit Ameha",
+          "url": "https://open.spotify.com/artist/4HA91AKqbdbTK7LdYxVxMH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220340,
+      "name": "Night Drive (feat. Dagmawit Ameha)",
+      "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
     },
     {
       "album": {
@@ -14899,6 +14957,28 @@
     },
     {
       "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB"
+    },
+    {
+      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -15034,7 +15114,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 164182,
       "name": "PUFF PUFF",
       "url": "https://open.spotify.com/track/6NMuQPXrTjnolGuttpu5Xy"
@@ -15538,6 +15618,24 @@
       "duration_ms": 165431,
       "name": "Reflection Station",
       "url": "https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU"
+    },
+    {
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     },
     {
       "album": {
@@ -18120,7 +18218,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 222516,
       "name": "SUGAR HONEY ICED TEA",
       "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
@@ -21206,6 +21304,24 @@
       "duration_ms": 209143,
       "name": "Yao",
       "url": "https://open.spotify.com/track/2BesSwK9iYOTFMQytlf79Q"
+    },
+    {
+      "album": {
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
+      },
+      "artists": [
+        {
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145426,
+      "name": "Yapa Yapa",
+      "url": "https://open.spotify.com/track/7ksVRiH1HIMc9HbUO6qNH0"
     },
     {
       "album": {

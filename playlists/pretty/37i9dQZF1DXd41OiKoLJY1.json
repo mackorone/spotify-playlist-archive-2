@@ -1,13 +1,297 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: Saranggola Society\n",
-  "num_followers": 72067,
+  "description": "Fresh releases from your future favorite artists. Cover: Sexy Jay\n",
+  "num_followers": 72107,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA67xNkEML2oL71AZD8TCjm7ykp5",
+  "snapshot_id": "AAAAAI88ptJjoaA/1FB/e+oz3MNQYoly",
   "tracks": [
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Dahan-Dahan",
+        "url": "https://open.spotify.com/album/54OANaUxHWDsDQZvO8d7m7"
+      },
+      "artists": [
+        {
+          "name": "James Lagadia",
+          "url": "https://open.spotify.com/artist/26bAEtHq9w315UUfDfsK0H"
+        }
+      ],
+      "duration_ms": 246619,
+      "name": "Dahan-Dahan",
+      "url": "https://open.spotify.com/track/23kuK1s2T66a6HtCGPve7z"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Grabe Ka Naman Saktan",
+        "url": "https://open.spotify.com/album/292rYJLw0TqS2uC2LJJAAK"
+      },
+      "artists": [
+        {
+          "name": "Abby Asistio",
+          "url": "https://open.spotify.com/artist/1SzRbptyg5juRlfWOAFHLM"
+        }
+      ],
+      "duration_ms": 257812,
+      "name": "Grabe Ka Naman Saktan",
+      "url": "https://open.spotify.com/track/1xlozwdp4AABxtIgLVub7t"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Daga",
+        "url": "https://open.spotify.com/album/223911VdbMVhPAiaRFvlhK"
+      },
+      "artists": [
+        {
+          "name": "Sexy Jay",
+          "url": "https://open.spotify.com/artist/2qqmTHaQrHEYjfsuxredYP"
+        }
+      ],
+      "duration_ms": 102533,
+      "name": "Daga",
+      "url": "https://open.spotify.com/track/0hWPKCq4YXWD1jEAWYVzxY"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/3KY6tUMnAeZjfTKFvlkafY"
+      },
+      "artists": [
+        {
+          "name": "hulyan",
+          "url": "https://open.spotify.com/artist/4tcbuCIrmk3bpy20zCgSu1"
+        },
+        {
+          "name": "Uer",
+          "url": "https://open.spotify.com/artist/1xN2pQm6MuumcXZunE1jTD"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/5GQ6r3YElv36L779UCpMIH"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "basin diay",
+        "url": "https://open.spotify.com/album/0HeSAgvjsvnpSoWSQPoDLF"
+      },
+      "artists": [
+        {
+          "name": "Bad$auce",
+          "url": "https://open.spotify.com/artist/30EyI8OA6yiuGS9ioQDf18"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "basin diay",
+      "url": "https://open.spotify.com/track/2k9XZbRiozkDyMj7YtSQXj"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "10PM",
+        "url": "https://open.spotify.com/album/6NJuMSCanQKpnsFWaS35Q6"
+      },
+      "artists": [
+        {
+          "name": "wax.wav",
+          "url": "https://open.spotify.com/artist/48uqK9OsVB4OZiiLmIMWAk"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "10PM",
+      "url": "https://open.spotify.com/track/592OCXTo2rpkZ5rfZzKctE"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Veranda",
+        "url": "https://open.spotify.com/album/42ryODpAr8eTxAlUGHS9mw"
+      },
+      "artists": [
+        {
+          "name": "Lei Rodriguez",
+          "url": "https://open.spotify.com/artist/36ZCVaxjll0Lh50uNzUcWm"
+        }
+      ],
+      "duration_ms": 229787,
+      "name": "Veranda",
+      "url": "https://open.spotify.com/track/6AfW5m4ed1E5N0H4YUiiS6"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "mona",
+        "url": "https://open.spotify.com/album/0FNgpmmP1AFKdAiv3NgofU"
+      },
+      "artists": [
+        {
+          "name": "Twosday",
+          "url": "https://open.spotify.com/artist/7FfbIbHrCYUAjOKQvnA5ZP"
+        }
+      ],
+      "duration_ms": 268571,
+      "name": "mona",
+      "url": "https://open.spotify.com/track/08ZIira0XVIZ6zsevcTryV"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/3SYHgTDEmm08O32wZADH8l"
+      },
+      "artists": [
+        {
+          "name": "STEF",
+          "url": "https://open.spotify.com/artist/0DgheKnMZrZrtmvuf0ajkD"
+        }
+      ],
+      "duration_ms": 194714,
+      "name": "Jupiter",
+      "url": "https://open.spotify.com/track/5T89UsR47Rm8ez7ejuEfIU"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "SEE ME SOONER",
+        "url": "https://open.spotify.com/album/4v4pMYIh5Cr2WlRndxWEB9"
+      },
+      "artists": [
+        {
+          "name": "Nate Lesco",
+          "url": "https://open.spotify.com/artist/2quzBjHiSqKsGNRvx0qn68"
+        }
+      ],
+      "duration_ms": 178723,
+      "name": "SEE ME SOONER",
+      "url": "https://open.spotify.com/track/2N4yMy1AxoLTcftGMINghB"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "running",
+        "url": "https://open.spotify.com/album/66mSE8IwQ37MKvPYVXcStB"
+      },
+      "artists": [
+        {
+          "name": "Medium Rare",
+          "url": "https://open.spotify.com/artist/0PktfqXJ4GCo3dHJdTPlDA"
+        },
+        {
+          "name": "leafo",
+          "url": "https://open.spotify.com/artist/6bNgGM07qTUVBDrKgfJROr"
+        }
+      ],
+      "duration_ms": 148605,
+      "name": "running",
+      "url": "https://open.spotify.com/track/1p5s4boHXQfVjUQE3RlbCZ"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Amborin",
+        "url": "https://open.spotify.com/album/5ECsyPg11xWoXHhSA2udy3"
+      },
+      "artists": [
+        {
+          "name": "Tamayak",
+          "url": "https://open.spotify.com/artist/5us6uhWFasdqux65evdTVW"
+        }
+      ],
+      "duration_ms": 273639,
+      "name": "Amborin",
+      "url": "https://open.spotify.com/track/04ZWtI3RrbeZyw7sIyvMEi"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Basta Para Sa 'Yo",
+        "url": "https://open.spotify.com/album/5IRftuMyY0Dl8OO2VMlfYR"
+      },
+      "artists": [
+        {
+          "name": "Amytis",
+          "url": "https://open.spotify.com/artist/3sX2q49l0fDgcHqgaBUVJc"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Basta Para Sa 'Yo",
+      "url": "https://open.spotify.com/track/1IyvRakHQmtaHy5DiKqJ1W"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Greenman Six",
+        "url": "https://open.spotify.com/album/3UwuhMXWYVnZCgaaCrwM66"
+      },
+      "artists": [
+        {
+          "name": "Greenman Six",
+          "url": "https://open.spotify.com/artist/7MSUp5FnSFxKnpJkytTuIr"
+        }
+      ],
+      "duration_ms": 239136,
+      "name": "Andito Lang Ako",
+      "url": "https://open.spotify.com/track/6y45a49jj1sdLDTYGCfrB2"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/2k7iAwJBc4IqqrHTmiZcs4"
+      },
+      "artists": [
+        {
+          "name": "MELON$hakee",
+          "url": "https://open.spotify.com/artist/2iPZ4l4x3oOJ8KyyYGMhOQ"
+        }
+      ],
+      "duration_ms": 202312,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/7zR01zKNA801TLlWcjpcpj"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "SUKO",
+        "url": "https://open.spotify.com/album/4juUzIw7kfp6wMwRYmIvZY"
+      },
+      "artists": [
+        {
+          "name": "el gardo!",
+          "url": "https://open.spotify.com/artist/7iTfF2ZMlj8kXQqbVgLQcd"
+        },
+        {
+          "name": "AJ Dee",
+          "url": "https://open.spotify.com/artist/2HSKgBAtcogCd9E2dX9CTx"
+        }
+      ],
+      "duration_ms": 249428,
+      "name": "SUKO",
+      "url": "https://open.spotify.com/track/5Y9qJZOOfoEdb4iGdP7M4X"
+    },
+    {
+      "added_at": "2026-03-12 16:00:01",
+      "album": {
+        "name": "WETDREAMZ",
+        "url": "https://open.spotify.com/album/6GQcbFJd7907st4XvZYCa8"
+      },
+      "artists": [
+        {
+          "name": "Trap Q",
+          "url": "https://open.spotify.com/artist/1wVL9AFdcdszRUTAd8xAzY"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "WETDREAMZ",
+      "url": "https://open.spotify.com/track/37RZ7C2MaYYKRHbEGTBpWq"
+    },
     {
       "added_at": "2026-03-05 16:00:24",
       "album": {
@@ -1391,302 +1675,6 @@
       "duration_ms": 240000,
       "name": "not enough",
       "url": "https://open.spotify.com/track/6HyFX4nQ3SQ1lNwLqxXbdl"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "BAT NAGTATAMPO?",
-        "url": "https://open.spotify.com/album/0SwGpclkkD9FLUY7Y6eUcQ"
-      },
-      "artists": [
-        {
-          "name": "sko",
-          "url": "https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw"
-        },
-        {
-          "name": "Tuzy",
-          "url": "https://open.spotify.com/artist/2I0KPau21zxDlNkmXKcv5M"
-        },
-        {
-          "name": "Ceevo",
-          "url": "https://open.spotify.com/artist/1vdElcvVQdofTTcKEgz88K"
-        }
-      ],
-      "duration_ms": 265416,
-      "name": "BAT NAGTATAMPO?",
-      "url": "https://open.spotify.com/track/6IjZOONx1iikt0zNmZHN4p"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Favorite",
-        "url": "https://open.spotify.com/album/3k11DZ7HgO3STVbLpAAacU"
-      },
-      "artists": [
-        {
-          "name": "Rock Opong",
-          "url": "https://open.spotify.com/artist/2SWPWqh1is8qKmAviRGnxt"
-        }
-      ],
-      "duration_ms": 207943,
-      "name": "Favorite",
-      "url": "https://open.spotify.com/track/46eUMmJqe8nohrCD19KqV9"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Ja Morant!",
-        "url": "https://open.spotify.com/album/2UhhGx2YkXRwwU6VxhzGIJ"
-      },
-      "artists": [
-        {
-          "name": "William Cash",
-          "url": "https://open.spotify.com/artist/1Av7d07hyzT3RCsezS0WHl"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "Ja Morant!",
-      "url": "https://open.spotify.com/track/4tg1j0zlgVEUcBkvrKVqwV"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Iba Na Pala",
-        "url": "https://open.spotify.com/album/0BU68MiwFQNHXQX4Q8C6L3"
-      },
-      "artists": [
-        {
-          "name": "Fiona",
-          "url": "https://open.spotify.com/artist/7aaKifjBXzHbNDHSbY0SUT"
-        }
-      ],
-      "duration_ms": 274613,
-      "name": "Iba Na Pala",
-      "url": "https://open.spotify.com/track/6lSFiDkRw5yEJGzUlWWCyZ"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Hinga",
-        "url": "https://open.spotify.com/album/5oGipR34BC9wgFXAWZrsRl"
-      },
-      "artists": [
-        {
-          "name": "AINT",
-          "url": "https://open.spotify.com/artist/3rNyOjaISuZ9vsZvNcnNjy"
-        }
-      ],
-      "duration_ms": 160252,
-      "name": "Hinga",
-      "url": "https://open.spotify.com/track/3eaHinVQPe3buWpCRNuIuk"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Life Is Sweet",
-        "url": "https://open.spotify.com/album/2nRmvT91y3h6Co51sXDKhN"
-      },
-      "artists": [
-        {
-          "name": "aero.",
-          "url": "https://open.spotify.com/artist/4QLoaH4hD2WjfdsH48Vg5U"
-        }
-      ],
-      "duration_ms": 174446,
-      "name": "Life Is Sweet",
-      "url": "https://open.spotify.com/track/0NULGOacpYRhZmzo9NCZrL"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/5e7UYL4ccTbsRdauCuWmJZ"
-      },
-      "artists": [
-        {
-          "name": "days of jean",
-          "url": "https://open.spotify.com/artist/0vETTlB91jyW6YksquO5tq"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/0APw2Juhm4vA55K7Zamiqc"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Malamig",
-        "url": "https://open.spotify.com/album/2GWrmQH5etKyV9wVuAM2b1"
-      },
-      "artists": [
-        {
-          "name": "wisworldwide",
-          "url": "https://open.spotify.com/artist/0aWhAjSrID1vE6DF6yiijM"
-        }
-      ],
-      "duration_ms": 129576,
-      "name": "Malamig",
-      "url": "https://open.spotify.com/track/0pzEgtSw52V1RxYfwIRWdQ"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "5treyhunnid",
-        "url": "https://open.spotify.com/album/29yNHQzdHarO2lTNtQZpal"
-      },
-      "artists": [
-        {
-          "name": "Vikrum",
-          "url": "https://open.spotify.com/artist/0FxkilnyBBr1YSZtmWSRhc"
-        }
-      ],
-      "duration_ms": 210738,
-      "name": "5treyhunnid",
-      "url": "https://open.spotify.com/track/61kAxwXW7Ij3yni3IVdNQn"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Aminin",
-        "url": "https://open.spotify.com/album/3uchzC5hN8O1VUbHfZCzUG"
-      },
-      "artists": [
-        {
-          "name": "Elisha Coral",
-          "url": "https://open.spotify.com/artist/3OP9QiBQktDx16TtOConeG"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Aminin",
-      "url": "https://open.spotify.com/track/3vPowCidggQeQfHUXIyPAT"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Ano Ba",
-        "url": "https://open.spotify.com/album/1ijVFQQtuvywPgiQf5RjKD"
-      },
-      "artists": [
-        {
-          "name": "Yukimane",
-          "url": "https://open.spotify.com/artist/090uke8fIXHgejIKAxh21p"
-        }
-      ],
-      "duration_ms": 193001,
-      "name": "Ano Ba",
-      "url": "https://open.spotify.com/track/3WmXCvmZclxpzPwpl8HkRS"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Nagkakahiyaan",
-        "url": "https://open.spotify.com/album/2IahiIlpDpMn9L9k1owKiE"
-      },
-      "artists": [
-        {
-          "name": "Lee Victor",
-          "url": "https://open.spotify.com/artist/4k1LS1AGJjhl2ngUNex7JY"
-        }
-      ],
-      "duration_ms": 216623,
-      "name": "Nagkakahiyaan",
-      "url": "https://open.spotify.com/track/16YRDsB6cApauQJyPfZxTT"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Bawat Tinig, Isang Bayan",
-        "url": "https://open.spotify.com/album/6elUkAwXwJORmyFsJU8vrD"
-      },
-      "artists": [
-        {
-          "name": "Francine Bendol",
-          "url": "https://open.spotify.com/artist/61EuTe4cB6ZwTo1TucafPI"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "Bawat Tinig, Isang Bayan",
-      "url": "https://open.spotify.com/track/3Loxb4CogU5hBa4eRNXiL3"
-    },
-    {
-      "added_at": "2026-01-22 16:00:09",
-      "album": {
-        "name": "Eppangelia",
-        "url": "https://open.spotify.com/album/2UpWcf0yzxNTbJw1rd6WqD"
-      },
-      "artists": [
-        {
-          "name": "6treet",
-          "url": "https://open.spotify.com/artist/3WTZLm4oMMGzaeVhXQHcNj"
-        }
-      ],
-      "duration_ms": 226235,
-      "name": "Eppangelia",
-      "url": "https://open.spotify.com/track/57C1vEYLI25iAD1cz83ihn"
-    },
-    {
-      "added_at": "2026-01-15 16:00:36",
-      "album": {
-        "name": "Aaminin (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5WaquRJiFNlse3dLahSGAy"
-      },
-      "artists": [
-        {
-          "name": "Southrace",
-          "url": "https://open.spotify.com/artist/6muCP7N5xIa24DW8li6M3T"
-        }
-      ],
-      "duration_ms": 303189,
-      "name": "Aaminin - Deluxe Version",
-      "url": "https://open.spotify.com/track/1aS5h0oCY6EamVSOjpeE5I"
-    },
-    {
-      "added_at": "2026-01-15 16:00:36",
-      "album": {
-        "name": "Whatchusay",
-        "url": "https://open.spotify.com/album/1mc6feOzQZRI2FrIyvUCfG"
-      },
-      "artists": [
-        {
-          "name": "David Daliva",
-          "url": "https://open.spotify.com/artist/4O82yAA1c1eHsb0swmwxCp"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Whatchusay",
-      "url": "https://open.spotify.com/track/5ov2uf3jUMST1boU0QlcL8"
-    },
-    {
-      "added_at": "2026-01-15 16:00:36",
-      "album": {
-        "name": "IDGAD",
-        "url": "https://open.spotify.com/album/5YbNx9nKpq6yaoFPcWfEFC"
-      },
-      "artists": [
-        {
-          "name": "Kemberly Resentes",
-          "url": "https://open.spotify.com/artist/0TIfqs3GbHzXlpqXr9Catm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "IDGAD",
-      "url": "https://open.spotify.com/track/0cr6dew3BmJVthhmtYggWy"
-    },
-    {
-      "added_at": "2026-01-15 16:00:36",
-      "album": {
-        "name": "Tago",
-        "url": "https://open.spotify.com/album/1yLOR4cVmANsMBhTFA8KHy"
-      },
-      "artists": [
-        {
-          "name": "Mac",
-          "url": "https://open.spotify.com/artist/4lrnEawghIHgAuGFBQW1ks"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Tago",
-      "url": "https://open.spotify.com/track/4m0IY5xqWoJFqdQOcnyqrT"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

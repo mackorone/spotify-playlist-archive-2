@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 153217,
+  "num_followers": 153250,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAACbBgwprU45zMGSlUws+JSl",
+  "snapshot_id": "abCwgAAAAAA9l6e1nnwTQeI5dyxp2jYq",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 306773,
-      "name": "Possibly Maybe",
-      "url": "https://open.spotify.com/track/104n46NrvCQ2qXoBWY35ch"
+      "duration_ms": 347026,
+      "name": "Isobel",
+      "url": "https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 347026,
-      "name": "Isobel",
-      "url": "https://open.spotify.com/track/05meZdvKNj4FBxNbdMgpT6"
+      "duration_ms": 306773,
+      "name": "Possibly Maybe",
+      "url": "https://open.spotify.com/track/104n46NrvCQ2qXoBWY35ch"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 319600,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 253453,
       "name": "Declare Independence",
       "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 306400,
+      "name": "Mutual Core",
+      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biophilia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 306400,
-      "name": "Mutual Core",
-      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vulnicura",
         "url": "https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 368693,
       "name": "Lionsong",
       "url": "https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biophilia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 319600,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
     },
     {
       "added_at": null,

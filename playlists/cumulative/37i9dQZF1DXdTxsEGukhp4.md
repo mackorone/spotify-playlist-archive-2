@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 宝鐘マリン & 星街すいせい
 
-574 songs - 1 day 8 hr 38 min
+575 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [大切な君へ](https://open.spotify.com/track/1w4kMFSzcpQj2knJGfF84s) | [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [\#17](https://open.spotify.com/album/07ahKwKVmoFvybSvq8RvSa) | 4:15 | 2023-01-26 | 2023-02-10 |
 | [失恋ソング](https://open.spotify.com/track/0g0qhS0z5cL4tym1b2VrCt) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suplex](https://open.spotify.com/album/31Nbiax5bV9lVnYubVVRaB) | 3:49 | 2024-04-01 | 2024-04-19 |
 | [女だから](https://open.spotify.com/track/7CHiHRLcVqNpyaSNRJqxPu) | [Laughing Hick](https://open.spotify.com/artist/17DWzzd6Ap8umcfYBYHJ3W) | [女だから](https://open.spotify.com/album/6YvlAjkhEdHZnYu99KcNXe) | 3:55 | 2023-08-24 | 2023-10-13 |
-| [好きすぎて滅！](https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [好きすぎて滅！](https://open.spotify.com/album/0MKOqrmzENfaB1FpkZjHp7) | 3:32 | 2025-11-25 |  |
+| [好きすぎて滅！](https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [好きすぎて滅！](https://open.spotify.com/album/0MKOqrmzENfaB1FpkZjHp7) | 3:32 | 2025-11-25 | 2026-03-13 |
 | [妄想アスパルテーム \- feat\. picco,初音ミク](https://open.spotify.com/track/5dcHPVb27nDK94mEFSSpug) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [初音ミク](https://open.spotify.com/artist/0UlXuNuMZiSeVLFjhKQPIP) | [妄想アスパルテーム \(feat\. picco,初音ミク\)](https://open.spotify.com/album/1Cj7pQrNMkiO6dVTLT3uK4) | 2:27 | 2023-04-27 | 2023-05-26 |
 | [嫌いになれない](https://open.spotify.com/track/7HIzVxjaZNEnNTVIZrtz89) | [Asa](https://open.spotify.com/artist/3JjGQRskRjFJMpBESBtSum) | [嫌いになれない](https://open.spotify.com/album/67xt0PDZpQWHCpoAdDELp0) | 3:29 | 2024-04-11 | 2024-06-14 |
 | [子供じゃないもん17](https://open.spotify.com/track/4nhpXuVrWrb6oZ8alKN2Ez) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [洗脳](https://open.spotify.com/album/5sh1BSUMoU1w6ik3wW0bcz) | 3:32 | 2024-06-13 | 2024-07-27 |
@@ -556,6 +556,7 @@
 | [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 | 2024-12-02 | 2025-05-16 |
 | [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 | 2024-09-20 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 | 2023-11-11 |
+| [爆裂愛してる](https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [爆裂愛してる](https://open.spotify.com/album/6w5De26ICkG8LOnpRe3xPA) | 3:25 | 2026-03-12 |  |
 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 | 2025-09-11 |  |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-26 | 2023-03-18 |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-05-09 | 2025-08-16 |

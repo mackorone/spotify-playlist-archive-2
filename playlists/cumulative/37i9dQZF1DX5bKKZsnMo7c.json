@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: Em Beihold",
+  "description": "Feeling dramatic? All eyes on you. Cover: Haute & Freddy",
   "name": "Limelight",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 233520,
       "name": "Aphrodite",
       "url": "https://open.spotify.com/track/17gt5nugQdTDH5niCCg1NQ"
@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/5x8ghkdsw5hs8RvPoHSGbd"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190410,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/601V6Cr1UYkR8qaRtrSDzl"
+    },
+    {
+      "album": {
         "name": "Dog's Dinner",
         "url": "https://open.spotify.com/album/29eup3dxdGR1TSGL2NIzS1"
       },
@@ -3609,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "Give A Little",
+        "url": "https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175843,
+      "name": "Give A Little",
+      "url": "https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei"
+    },
+    {
+      "album": {
         "name": "Gladiators",
         "url": "https://open.spotify.com/album/5AahV6122wJai6DmlVxHaM"
       },
@@ -4468,7 +4504,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203186,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/6wL3cuhOPz17kioLBs2Ger"
@@ -6190,7 +6226,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 167010,
       "name": "midsummer eve",
       "url": "https://open.spotify.com/track/7lw0siF0EfkgAvikG2364P"
@@ -7688,7 +7724,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177788,
       "name": "Scared of the Dark",
       "url": "https://open.spotify.com/track/3JloRKvG8iL5aM5db1FltQ"
@@ -8402,6 +8438,24 @@
       "duration_ms": 165876,
       "name": "Suzy Loves Sam",
       "url": "https://open.spotify.com/track/25DVLJE4mZkLLcaGZAaGXE"
+    },
+    {
+      "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238664,
+      "name": "Symphony For A Queen",
+      "url": "https://open.spotify.com/track/3FiyxlxC6t1PX0DE74z5ig"
     },
     {
       "album": {
@@ -9506,6 +9560,36 @@
       "duration_ms": 215746,
       "name": "Trouble Is a Friend",
       "url": "https://open.spotify.com/track/2mxT8OWvZSjAzmYYGeBjoY"
+    },
+    {
+      "album": {
+        "name": "Tryna Be Cool",
+        "url": "https://open.spotify.com/album/0W6hiknmH6WDLz1PxA882n"
+      },
+      "artists": [
+        {
+          "name": "Hi-Lo Jack",
+          "url": "https://open.spotify.com/artist/40Hz7AuUTnlK2XpIyq3ghX"
+        },
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "Stolen Jars",
+          "url": "https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r"
+        },
+        {
+          "name": "DAP The Contract",
+          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Tryna Be Cool",
+      "url": "https://open.spotify.com/track/6FxVw99inxzrYEjXGCTS9P"
     },
     {
       "album": {

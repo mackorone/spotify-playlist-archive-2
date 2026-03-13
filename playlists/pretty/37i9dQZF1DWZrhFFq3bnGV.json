@@ -1,13 +1,33 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Ardhito Pramono",
-  "num_followers": 114160,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira, Societeit de Harmonie",
+  "num_followers": 114167,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3x+Kjuqo4WDn4YYvfkafky/zVY",
+  "snapshot_id": "AAAAAK+f02UfbjWDK8MTsQv69aGadp3l",
   "tracks": [
+    {
+      "added_at": "2026-03-12 18:00:19",
+      "album": {
+        "name": "Jogja",
+        "url": "https://open.spotify.com/album/0VmWbvHNUclsIb6D4FhIse"
+      },
+      "artists": [
+        {
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        },
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
+        }
+      ],
+      "duration_ms": 175767,
+      "name": "Jogja",
+      "url": "https://open.spotify.com/track/7he0l2y8JV7FkF3NwuqVLu"
+    },
     {
       "added_at": "2026-03-05 21:42:51",
       "album": {
@@ -767,22 +787,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Til The End of Time",
-        "url": "https://open.spotify.com/album/3A0HkDBiUQZlNYspOmleIh"
-      },
-      "artists": [
-        {
-          "name": "Aul Persneling",
-          "url": "https://open.spotify.com/artist/5xIs5rD7iC31J8ZcpCj0kb"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Til The End of Time",
-      "url": "https://open.spotify.com/track/0Xb2tDzOibuMtXFeutMflf"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Snakes & Ladders",
         "url": "https://open.spotify.com/album/3YZtiYIwDMveS0c7M4zWSO"
       },
@@ -803,26 +807,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/5aZTeDxVxx01FWD69SgOCS"
-      },
-      "artists": [
-        {
-          "name": "Rafi Muhammad",
-          "url": "https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF"
-        },
-        {
-          "name": "Tuantigabelas",
-          "url": "https://open.spotify.com/artist/0CKf1Ac7v8HTqXxYdWsyWn"
-        }
-      ],
-      "duration_ms": 225071,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/3Ylx3R1CYXZfbjod3V6byM"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Getting Older",
         "url": "https://open.spotify.com/album/7wdXN4tIfaq36RIfGRjpYu"
       },
@@ -835,22 +819,6 @@
       "duration_ms": 218564,
       "name": "Getting Older",
       "url": "https://open.spotify.com/track/3arqZWgyEm5qj9afyIkTla"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/6S1VraSV9zk1nVLqhcDWEe"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Shavonne",
-          "url": "https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9"
-        }
-      ],
-      "duration_ms": 263375,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/7tZScyDpem9YmL47AmVhVB"
     },
     {
       "added_at": "2025-06-26 17:47:30",
@@ -1155,22 +1123,6 @@
     {
       "added_at": "2025-06-26 17:47:30",
       "album": {
-        "name": "Books Of Life",
-        "url": "https://open.spotify.com/album/6A9exPt2uTUaXcdHcav4YG"
-      },
-      "artists": [
-        {
-          "name": "Tarasinta",
-          "url": "https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Books Of Life",
-      "url": "https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
         "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
         "url": "https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80"
       },
@@ -1395,22 +1347,6 @@
       "duration_ms": 208194,
       "name": "Keriput",
       "url": "https://open.spotify.com/track/4GJiXb71ecPncdDcg0wMcP"
-    },
-    {
-      "added_at": "2025-06-26 17:47:30",
-      "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/1W3ikg59vMZmXLnhGCMlnh"
-      },
-      "artists": [
-        {
-          "name": "Valentine",
-          "url": "https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k"
-        }
-      ],
-      "duration_ms": 103165,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O"
     },
     {
       "added_at": "2025-06-26 17:47:30",

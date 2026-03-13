@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 206532,
+  "num_followers": 206540,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Don't Get Me Started",
-        "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 355733,
-      "name": "Don't Get Me Started",
-      "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Arkhon",
         "url": "https://open.spotify.com/album/4fAgGEM3LIMho5Brx5Gio9"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 204262,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Don't Get Me Started",
+        "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 355733,
+      "name": "Don't Get Me Started",
+      "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "All Through The Day",
-        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+        "name": "Eno (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs"
       },
       "artists": [
         {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 182926,
-      "name": "All Through The Day",
-      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+      "duration_ms": 232093,
+      "name": "All I Remember",
+      "url": "https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Eno (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs"
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
       },
       "artists": [
         {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
         }
       ],
-      "duration_ms": 232093,
-      "name": "All I Remember",
-      "url": "https://open.spotify.com/track/1ePTixXXx9O4GqH0laeKQi"
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Modern Meta Physic",
+        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 321509,
+      "name": "Art Today",
+      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Vallahi Yok / Kirik Cam",
         "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 318447,
       "name": "love is not the poison",
       "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Modern Meta Physic",
-        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 321509,
-      "name": "Art Today",
-      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
         "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 154910,
       "name": "I'VE BEEN EVIL",
       "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Space Jumps",
         "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 211386,
       "name": "Space Jumps",
       "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "The Apple Drop",
         "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 274626,
       "name": "Sekwar",
       "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Estar\u00e1n aparcando",
+        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
+      },
+      "artists": [
+        {
+          "name": "Espanto",
+          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+        }
+      ],
+      "duration_ms": 140727,
+      "name": "Estar\u00e1n aparcando",
+      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "For You, Please",
         "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 205205,
       "name": "For You, Please",
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Estar\u00e1n aparcando",
-        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
-      },
-      "artists": [
-        {
-          "name": "Espanto",
-          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
-        }
-      ],
-      "duration_ms": 140727,
-      "name": "Estar\u00e1n aparcando",
-      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
     }
   ],
   "unique_name": "Oblique",

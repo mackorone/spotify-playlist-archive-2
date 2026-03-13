@@ -1666,6 +1666,24 @@
     {
       "album": {
         "name": "Savane",
+        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295320,
+      "name": "N'jarou",
+      "url": "https://open.spotify.com/track/0J6URaJ2VmWCJvnWudfIuF"
+    },
+    {
+      "album": {
+        "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
       "artists": [

@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 65649,
       "name": "Blueberry Bonanza",
       "url": "https://open.spotify.com/track/7C1OEcrw1JeKMrYikUv1MF"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 68410,
       "name": "Cheeeeeeese",
       "url": "https://open.spotify.com/track/3Iga2u1fdZY7tL5UpaQA1B"
@@ -2075,6 +2075,32 @@
     },
     {
       "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112372,
+      "name": "Just Like a Butterfly",
+      "url": "https://open.spotify.com/track/1EQ6Ivo2PT0wCpKn0fm2xS"
+    },
+    {
+      "album": {
         "name": "Puppy Dog Pals: Disney Junior Music",
         "url": "https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk"
       },
@@ -2202,7 +2228,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 87222,
       "name": "Learn About Safety",
       "url": "https://open.spotify.com/track/2EsavqTPpKLt26EA1U3CXx"
@@ -2890,7 +2916,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 86315,
       "name": "Morning, Afternoon, or Night",
       "url": "https://open.spotify.com/track/0RXIqthN3V72asFS2qmISY"
@@ -3384,7 +3410,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 86408,
       "name": "Red, Yellow, and Blue",
       "url": "https://open.spotify.com/track/2BLkRYSXAVYHjKuO4H10ON"
@@ -4037,6 +4063,32 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Minnie's Bow-Toons: Pet Hotel",
+        "url": "https://open.spotify.com/album/5dNlcsDuDNYibc3n6a4DBl"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54869,
+      "name": "The Minnie Slide",
+      "url": "https://open.spotify.com/track/7b115NAGnfPtQ8l7WL41fk"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Mira, Royal Detective Vol. 2",
         "url": "https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4"
       },
@@ -4326,7 +4378,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 134270,
       "name": "True Pirates We Be (Extended)",
       "url": "https://open.spotify.com/track/1Ngvtzmvnxchs8vM6aLpnQ"

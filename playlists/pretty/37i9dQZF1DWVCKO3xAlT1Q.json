@@ -1,610 +1,550 @@
 {
-  "description": "The official Eurovision Song Contest 2025 playlist.\nCongrats to this year's winner JJ!",
-  "num_followers": 1215360,
-  "original_name": "Eurovision 2025",
+  "description": "The official Eurovision Song Contest 2026 playlist.\n",
+  "num_followers": 1215385,
+  "original_name": "Eurovision 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG+K3r4EP2pjGxcSY1JARNhwLRP0",
+  "snapshot_id": "AAAAANU9+XDZOduKx4sSX1ChANLIOqgO",
   "tracks": [
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Wasted Love",
-        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+        "name": "Liekinheitin",
+        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
       },
       "artists": [
         {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+          "name": "Linda Lampenius",
+          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
+        },
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
         }
       ],
-      "duration_ms": 164998,
-      "name": "Wasted Love",
-      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
+      "duration_ms": 180479,
+      "name": "Liekinheitin",
+      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "New Day Will Rise",
-        "url": "https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ"
+        "name": "REGARDE !",
+        "url": "https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05d1\u05dc \u05e8\u05e4\u05d0\u05dc",
-          "url": "https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk"
+          "name": "Monroe",
+          "url": "https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7"
+        }
+      ],
+      "duration_ms": 177008,
+      "name": "REGARDE !",
+      "url": "https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz"
+    },
+    {
+      "added_at": "2026-03-12 13:57:31",
+      "album": {
+        "name": "F\u00f8r Vi G\u00e5r Hjem",
+        "url": "https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Torpegaard Lund",
+          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "F\u00f8r Vi G\u00e5r Hjem",
+      "url": "https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf"
+    },
+    {
+      "added_at": "2026-03-12 13:57:31",
+      "album": {
+        "name": "Ferto",
+        "url": "https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV"
+      },
+      "artists": [
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ferto",
+      "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
+    },
+    {
+      "added_at": "2026-03-12 13:57:31",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3AH33SDipOCuw9ATLx1CrX"
+      },
+      "artists": [
+        {
+          "name": "Delta Goodrem",
+          "url": "https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR"
+        }
+      ],
+      "duration_ms": 180686,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2pJ0Ji9nkohwuKMuyNhiwo"
+    },
+    {
+      "added_at": "2026-03-12 13:57:31",
+      "album": {
+        "name": "My System",
+        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
+    },
+    {
+      "added_at": "2026-03-12 13:57:31",
+      "album": {
+        "name": "Michelle",
+        "url": "https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
         },
         {
           "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
           "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
         }
       ],
-      "duration_ms": 179624,
-      "name": "New Day Will Rise",
-      "url": "https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8"
+      "duration_ms": 180517,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/22g4vKHFze17AV7vnequhG"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+        "name": "CROSSROADS",
+        "url": "https://open.spotify.com/album/0ynt6Fz8qqlGIdUFVhPoqL"
       },
       "artists": [
         {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK"
+          "name": "Daniel \u017di\u017eka",
+          "url": "https://open.spotify.com/artist/03igozcHSdgnU1Z1aZ20aS"
         }
       ],
-      "duration_ms": 173746,
-      "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+      "duration_ms": 180000,
+      "name": "CROSSROADS",
+      "url": "https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Bara Bada Bastu",
-        "url": "https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON"
+        "name": "JALLA",
+        "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
       },
       "artists": [
         {
-          "name": "KAJ",
-          "url": "https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t"
+          "name": "Antigoni",
+          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
         }
       ],
-      "duration_ms": 166880,
-      "name": "Bara Bada Bastu",
-      "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
+      "duration_ms": 179999,
+      "name": "JALLA",
+      "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Volevo essere un duro",
-        "url": "https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT"
+        "name": "Ridnym (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn"
       },
       "artists": [
         {
-          "name": "Lucio Corsi",
-          "url": "https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx"
+          "name": "Lel\u00e9ka",
+          "url": "https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG"
         }
       ],
-      "duration_ms": 185185,
-      "name": "Volevo essere un duro",
-      "url": "https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8"
+      "duration_ms": 178824,
+      "name": "Ridnym - Eurovision Version",
+      "url": "https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Asteromata",
-        "url": "https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA"
+        "name": "Per sempre s\u00ec",
+        "url": "https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu"
       },
       "artists": [
         {
-          "name": "Klavdia",
-          "url": "https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq"
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
         }
       ],
-      "duration_ms": 175385,
-      "name": "Asteromata",
-      "url": "https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz"
+      "duration_ms": 175121,
+      "name": "Per sempre s\u00ec",
+      "url": "https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "maman",
-        "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
+        "name": "Eins, Zwei, Drei",
+        "url": "https://open.spotify.com/album/7yGx7Va1vpyhsLvdwRmKyT"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "LOOK MUM NO COMPUTER",
+          "url": "https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef"
         }
       ],
-      "duration_ms": 180195,
-      "name": "maman",
-      "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
+      "duration_ms": 190780,
+      "name": "Eins, Zwei, Drei",
+      "url": "https://open.spotify.com/track/26xlJAlQoCMbnAWd0sGCQf"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Zjerm",
-        "url": "https://open.spotify.com/album/6yelOhQls6XqW9y4bxVkXK"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/4WrXzOulZzFDhB84ogTcKQ"
       },
       "artists": [
         {
-          "name": "Shkodra Elektronike",
-          "url": "https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD"
+          "name": "AIDAN",
+          "url": "https://open.spotify.com/artist/6fqAnsJdhftWSyDd3huQIi"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Zjerm",
-      "url": "https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO"
+      "duration_ms": 177849,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/6xMZVKtQ76THTiJBntzmwz"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Bird of Pray (Eurovision 2025)",
-        "url": "https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR"
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
       },
       "artists": [
         {
-          "name": "Ziferblat",
-          "url": "https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR"
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
         }
       ],
-      "duration_ms": 180895,
-      "name": "Bird of Pray - Eurovision 2025",
-      "url": "https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn"
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq"
       },
       "artists": [
         {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+          "name": "Eva Marija",
+          "url": "https://open.spotify.com/artist/3Eg9xrKVUdbFpJGQauHvp4"
         }
       ],
-      "duration_ms": 179348,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc"
+      "duration_ms": 178893,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "ICH KOMME",
-        "url": "https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx"
+        "name": "Alice (ESC Version)",
+        "url": "https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS"
       },
       "artists": [
         {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+          "name": "Veronica Fusaro",
+          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
         }
       ],
-      "duration_ms": 180314,
-      "name": "ICH KOMME",
-      "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
+      "duration_ms": 180024,
+      "name": "Alice - ESC Version",
+      "url": "https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0"
+        "name": "Ya Ya Ya",
+        "url": "https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M"
       },
       "artists": [
         {
-          "name": "Claude",
-          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+          "name": "JONAS LOVV",
+          "url": "https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7"
         }
       ],
-      "duration_ms": 160281,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT"
+      "duration_ms": 169247,
+      "name": "Ya Ya Ya",
+      "url": "https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Bur man laimi",
-        "url": "https://open.spotify.com/album/0uiDNzus7TjUtTl45qL07g"
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
       },
       "artists": [
         {
-          "name": "Tautumeitas",
-          "url": "https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF"
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
         }
       ],
-      "duration_ms": 178325,
-      "name": "Bur man laimi",
-      "url": "https://open.spotify.com/track/6oGrwxJItvG261mLBk6DmK"
+      "duration_ms": 178948,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "GAJA (Eurovision Edit)",
-        "url": "https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N"
+        "name": "S\u00f3lo Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/2aW3Fg913oEVifMta2Jvpg"
       },
       "artists": [
         {
-          "name": "Justyna Steczkowska",
-          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+          "name": "Lion Ceccah",
+          "url": "https://open.spotify.com/artist/7ivlxzVHNKJrGyuIdLWYD4"
         }
       ],
-      "duration_ms": 180553,
-      "name": "GAJA - Eurovision Edit",
-      "url": "https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac"
+      "duration_ms": 182000,
+      "name": "S\u00f3lo Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/1av4wp2KoCwn9P151n45WV"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Bitters\u00fc\u00df",
-        "url": "https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v"
       },
       "artists": [
         {
-          "name": "Abor & Tynna",
-          "url": "https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP"
+          "name": "Sarah Engels",
+          "url": "https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P"
         }
       ],
-      "duration_ms": 159493,
-      "name": "Baller",
-      "url": "https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD"
+      "duration_ms": 177692,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Tavo akys",
-        "url": "https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F"
+        "name": "Just Go",
+        "url": "https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc"
       },
       "artists": [
         {
-          "name": "Katarsis",
-          "url": "https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1"
+          "name": "JIVA",
+          "url": "https://open.spotify.com/artist/4DK0buOfEJIxAIV5nhxQbc"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Tavo akys",
-      "url": "https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo"
+      "duration_ms": 180653,
+      "name": "Just Go",
+      "url": "https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "SERVING",
-        "url": "https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR"
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/2hmiXUccJdvAb5YWklu4yo"
       },
       "artists": [
         {
-          "name": "Miriana Conte",
-          "url": "https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN"
+          "name": "LELEK",
+          "url": "https://open.spotify.com/artist/3XRa1ssBicMHAW76NxXDts"
         }
       ],
-      "duration_ms": 179538,
-      "name": "SERVING - Eurovision Official Version",
-      "url": "https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW"
+      "duration_ms": 179999,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/5L5QsjQu2WZ2wnLYmRd7b4"
       },
       "artists": [
         {
-          "name": "Kyle Alessandro",
-          "url": "https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl"
+          "name": "Senhit",
+          "url": "https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT"
         }
       ],
-      "duration_ms": 175853,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX"
+      "duration_ms": 174782,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7vsJ0bqsjhVnZxV2W2wRiD"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "What The Hell Just Happened?",
-        "url": "https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT"
+        "name": "Viva, Moldova!",
+        "url": "https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M"
       },
       "artists": [
         {
-          "name": "Remember Monday",
-          "url": "https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX"
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
         }
       ],
-      "duration_ms": 176866,
-      "name": "What The Hell Just Happened?",
-      "url": "https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y"
+      "duration_ms": 167777,
+      "name": "Viva, Moldova!",
+      "url": "https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "SURVIVOR",
-        "url": "https://open.spotify.com/album/5WtJnnQy8iMz2ucyO6g4DZ"
+        "name": "\u0112n\u0101",
+        "url": "https://open.spotify.com/album/5B0vWqpxIriwZSTdE5Wv4K"
       },
       "artists": [
         {
-          "name": "PARG",
-          "url": "https://open.spotify.com/artist/2tm0hthZZUgjJ4c8jzbZ4K"
+          "name": "Atvara",
+          "url": "https://open.spotify.com/artist/4FTGADpPjk9LgpAQAqQhI0"
         }
       ],
-      "duration_ms": 178300,
-      "name": "SURVIVOR",
-      "url": "https://open.spotify.com/track/4FqL1MlFQ67DipYCbmHzj8"
+      "duration_ms": 173000,
+      "name": "\u0112n\u0101",
+      "url": "https://open.spotify.com/track/5jrN6fnBH38Bh0IQJnjiUJ"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Deslocado",
-        "url": "https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
       },
       "artists": [
         {
-          "name": "NAPA",
-          "url": "https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu"
+          "name": "Alicja",
+          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
         }
       ],
-      "duration_ms": 179996,
-      "name": "Deslocado",
-      "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
+      "duration_ms": 180480,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "La poup\u00e9e monte le son",
-        "url": "https://open.spotify.com/album/6k0rdf9p1YRh57I9HsK97l"
+        "name": "Kraj mene",
+        "url": "https://open.spotify.com/album/5jZzL46mXq6XDHbsTwO29o"
       },
       "artists": [
         {
-          "name": "Laura Thorn",
-          "url": "https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx"
+          "name": "Lavina",
+          "url": "https://open.spotify.com/artist/2a1W5RyJCm4GugnlqckLw3"
         }
       ],
-      "duration_ms": 178378,
-      "name": "La poup\u00e9e monte le son",
-      "url": "https://open.spotify.com/track/6IabIimt88FcZu80dunXWA"
+      "duration_ms": 181500,
+      "name": "Kraj mene",
+      "url": "https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ"
+        "name": "Dancing on the ice",
+        "url": "https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD"
       },
       "artists": [
         {
-          "name": "Sissal",
-          "url": "https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP"
+          "name": "Essyla",
+          "url": "https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81"
         }
       ],
-      "duration_ms": 183253,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
+      "duration_ms": 180000,
+      "name": "Dancing on the ice",
+      "url": "https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Esa Diva",
-        "url": "https://open.spotify.com/album/1Z0LWWEpJAv0dA4VF6POTZ"
+        "name": "TANZSCHEIN",
+        "url": "https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix"
       },
       "artists": [
         {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD"
+          "name": "COSM\u00d3",
+          "url": "https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM"
         }
       ],
-      "duration_ms": 178767,
-      "name": "Esa Diva",
-      "url": "https://open.spotify.com/track/6utHjfvlsCAj0V6Wg6mXqx"
+      "duration_ms": 162548,
+      "name": "TANZSCHEIN",
+      "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "R\u00d3A",
-        "url": "https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2"
+        "name": "Festival da Can\u00e7\u00e3o 2026",
+        "url": "https://open.spotify.com/album/3QFJNJbQvlVJ3sPMB1TWrH"
       },
       "artists": [
         {
-          "name": "V\u00c6B",
-          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
         }
       ],
-      "duration_ms": 162857,
-      "name": "R\u00d3A",
-      "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
+      "duration_ms": 179991,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/03Oz6PWplRogAQJgnFuoJ7"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Tutta L'Italia",
-        "url": "https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb"
+        "name": "N\u00e2n",
+        "url": "https://open.spotify.com/album/1VB86eKOCokBdOVcU1oxzo"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Alis",
+          "url": "https://open.spotify.com/artist/2qHjO4DZZhtrjeHGF1OvhT"
         }
       ],
-      "duration_ms": 176874,
-      "name": "Tutta L'Italia",
-      "url": "https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39"
+      "duration_ms": 189700,
+      "name": "N\u00e2n",
+      "url": "https://open.spotify.com/track/40vsOMljwhHCibpToRULGo"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Strobe Lights",
-        "url": "https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF"
+        "name": "Too Epic To Be True / Are You Ready To Go",
+        "url": "https://open.spotify.com/album/1pDXZMQjepON39iflEYWgK"
       },
       "artists": [
         {
-          "name": "Red Sebastian",
-          "url": "https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8"
+          "name": "Vanilla Ninja",
+          "url": "https://open.spotify.com/artist/7ukHWEkVkYBIbJAZG51OvL"
         }
       ],
-      "duration_ms": 178064,
-      "name": "Strobe Lights",
-      "url": "https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV"
+      "duration_ms": 179908,
+      "name": "Too Epic To Be True",
+      "url": "https://open.spotify.com/track/3Js1kS52KXZsmRU6qFLH60"
     },
     {
-      "added_at": "2025-05-17 23:19:35",
+      "added_at": "2026-03-12 13:57:31",
       "album": {
-        "name": "Milkshake Man",
-        "url": "https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh"
+        "name": "Nova Zora (Eurovision 2026)",
+        "url": "https://open.spotify.com/album/1lrGkecHhO8pzAGhd8gDGW"
       },
       "artists": [
         {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
+          "name": "Tamara \u017divkovi\u0107",
+          "url": "https://open.spotify.com/artist/3rhiMxv0cqPttBuoxtKiFw"
         }
       ],
-      "duration_ms": 172383,
-      "name": "Milkshake Man",
-      "url": "https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Kiss Kiss Goodbye",
-        "url": "https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD"
-      },
-      "artists": [
-        {
-          "name": "ADONXS",
-          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
-        }
-      ],
-      "duration_ms": 176668,
-      "name": "Kiss Kiss Goodbye",
-      "url": "https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Shh",
-        "url": "https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8"
-      },
-      "artists": [
-        {
-          "name": "Theo Evan",
-          "url": "https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj"
-        }
-      ],
-      "duration_ms": 177496,
-      "name": "Shh",
-      "url": "https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Poison Cake",
-        "url": "https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ"
-      },
-      "artists": [
-        {
-          "name": "Marko Bo\u0161njak",
-          "url": "https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb"
-        }
-      ],
-      "duration_ms": 178245,
-      "name": "Poison Cake",
-      "url": "https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Run With U",
-        "url": "https://open.spotify.com/album/7cqQuVvLZ1wiw4l372uPMU"
-      },
-      "artists": [
-        {
-          "name": "Mamagama",
-          "url": "https://open.spotify.com/artist/7rAUDsrUfeAnDw8ubOPh2W"
-        }
-      ],
-      "duration_ms": 183449,
-      "name": "Run With U",
-      "url": "https://open.spotify.com/track/4NdNOrfHfNIprOJ3Uq1l43"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Laika Party",
-        "url": "https://open.spotify.com/album/44LjhJDVICLc7cgAgQ9nTX"
-      },
-      "artists": [
-        {
-          "name": "EMMY",
-          "url": "https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu"
-        }
-      ],
-      "duration_ms": 180068,
-      "name": "Laika Party",
-      "url": "https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "How Much Time Do We Have Left",
-        "url": "https://open.spotify.com/album/3EcfRhql3A4hTbt4Z3i7N5"
-      },
-      "artists": [
-        {
-          "name": "Klemen",
-          "url": "https://open.spotify.com/artist/5MlZJ1fBb4ZX5JN2dRhwQE"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "How Much Time Do We Have Left",
-      "url": "https://open.spotify.com/track/104QgPphJUPg86IWYnAnL7"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Dobrodo\u0161li (Eurovision 2025)",
-        "url": "https://open.spotify.com/album/5HGhSZ9a4GkhIcZiIHb4M0"
-      },
-      "artists": [
-        {
-          "name": "Nina Zizic",
-          "url": "https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO"
-        }
-      ],
-      "duration_ms": 203248,
-      "name": "Dobrodo\u0161li - Eurovision 2025",
-      "url": "https://open.spotify.com/track/19Tty48pp2obWcLiRbEAVG"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Mila",
-        "url": "https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX"
-      },
-      "artists": [
-        {
-          "name": "Princ",
-          "url": "https://open.spotify.com/artist/6Jg7HD794xTjmqAkynWYQ5"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Mila",
-      "url": "https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt"
-    },
-    {
-      "added_at": "2025-05-17 23:19:35",
-      "album": {
-        "name": "Freedom (Eurovision 2025 - Georgia)",
-        "url": "https://open.spotify.com/album/1qDquxaoZDp77B9tr4WT2q"
-      },
-      "artists": [
-        {
-          "name": "Mariam Shengelia",
-          "url": "https://open.spotify.com/artist/57UpwmCYjUyIaKUWOO2gV3"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Freedom - Eurovision 2025 - Georgia",
-      "url": "https://open.spotify.com/track/5mjD2U1w6217p73LC9MEht"
+      "duration_ms": 171562,
+      "name": "Nova Zora - Eurovision 2026",
+      "url": "https://open.spotify.com/track/3PGOiXT00ISVuUgr14m079"
     }
   ],
-  "unique_name": "Eurovision 2025",
+  "unique_name": "Eurovision 2026",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q"
 }

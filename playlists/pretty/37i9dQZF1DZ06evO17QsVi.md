@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 
 > This is 2Pac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,706 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,811 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 29 | [Temptations](https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 5:00 |
 | 30 | [To Live & Die In L.A.](https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 4:32 |
 | 31 | [Loyal To The Game](https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Loyal To The Game](https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn) | 3:23 |
-| 32 | [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:49 |
+| 32 | [When We Ride On Our Enemies \- Briss Remix](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:54 |
 | 33 | [Old School](https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:39 |
 | 34 | [Unconditional Love](https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Greatest Hits](https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP) | 3:58 |
 | 35 | [Smile](https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Johnny P](https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj) | [The Untouchable](https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx) | 5:00 |
-| 36 | [When We Ride On Our Enemies \- Briss Remix](https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:54 |
+| 36 | [Still Ballin' \- Nitty Remix](https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [Better Dayz](https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww) | 2:49 |
 | 37 | [It Ain't Easy](https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:53 |
 | 38 | [Playa Cardz Right](https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [A Different Me](https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4) | 4:51 |
 | 39 | [When Thugz Cry](https://open.spotify.com/track/69roVs81cxmHJQ84vfqKKv) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Until The End Of Time](https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17QsVi.md) - [plain]
 | 49 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 | 50 | [Pain](https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Stretch](https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj) | [Above The Rim \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD) | 4:34 |
 
-Snapshot ID: `aa9fAAAAAADpHkLBxdWioCk7oIopcXEb`
+Snapshot ID: `abCwgAAAAACLIyjqiPRM0YRKIQupZFHZ`

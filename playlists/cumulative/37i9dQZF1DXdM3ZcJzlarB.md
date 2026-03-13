@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Ezequiel Arias
 
-359 songs - 1 day 10 hr 1 min
+360 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Oceans](https://open.spotify.com/track/1tRY7bFvl7nNBTKe3Yusia) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came to Reality EP](https://open.spotify.com/album/4mq11SIe9O3SCwMuEIFMcc) | 6:31 | 2020-09-04 | 2023-11-18 |
 | [Oceans](https://open.spotify.com/track/2fLFM5BRyrhrEQMFtY7FeI) | [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [Came To Reality EP](https://open.spotify.com/album/6kHffsbCuRXWw5Kpt0ytYx) | 6:31 | 2020-09-04 | 2023-11-11 |
 | [On Me](https://open.spotify.com/track/5VbNRLR0063EDEdNwYk4nG) | [Kevin Di Serna](https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm), [Santor](https://open.spotify.com/artist/4Ao6INsRciBdfNr5WBOYlr) | [On Silence EP](https://open.spotify.com/album/0Kq6yMFb1UT94dVS30N9Eo) | 3:49 | 2025-07-25 | 2026-01-17 |
+| [On My Mind \- Traumhouse Remix](https://open.spotify.com/track/3o9ffi07hangvR4jXV0aoY) | [CAMILA \(AR\)](https://open.spotify.com/artist/4XpVMVxOWZuEu4rw7nusFC), [Traumhouse](https://open.spotify.com/artist/5fhYzxxg6vD63BAJyiHL3M) | [On My Mind \(Traumhouse Remix\)](https://open.spotify.com/album/4rHeJpHfU5WPNFUwoHDEik) | 4:29 | 2026-03-13 |  |
 | [Once Once](https://open.spotify.com/track/5FYaPTvCmsiX1LN6cREn0Y) | [Jorge Savoretti](https://open.spotify.com/artist/2y5On3ikuSulzY5qLJNCba) | [Once Once](https://open.spotify.com/album/2MhMZkB71pV1jMPkRVNnk5) | 7:12 | 2025-03-19 | 2025-11-07 |
 | [Once Upon a Time \- Original Mix](https://open.spotify.com/track/6LBbUEXngeoiHk5wTBhdKT) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Once Upon a Time](https://open.spotify.com/album/4sz56iNEt5jyh7sCNTVtTW) | 8:08 | 2020-09-04 | 2023-11-18 |
 | [One Two Three Four](https://open.spotify.com/track/6EzMEiXcLAQPPYXUiYTWiH) | [BRK \(BR\)](https://open.spotify.com/artist/2zLTIcwPglk4RMQDrf9Hsv), [Gueva](https://open.spotify.com/artist/05Pn4YBKlafyqay7CrSS17) | [One Two Three Four](https://open.spotify.com/album/4wjXfnuHVoBx3pdFr5B4d5) | 6:00 | 2025-06-30 |  |

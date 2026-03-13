@@ -796,7 +796,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 169000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/4oz7h7UlHn1bFmyiPL5cYh"
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 231229,
       "name": "Deathress",
       "url": "https://open.spotify.com/track/4JiNrMWIH2JeAuMIjPlno5"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
@@ -1844,10 +1844,28 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 227361,
       "name": "Enter The Behelit",
       "url": "https://open.spotify.com/track/0Gur9sDtlb6D4O6B8sO87k"
+    },
+    {
+      "album": {
+        "name": "Eternal Trees of Turquoise",
+        "url": "https://open.spotify.com/album/1J1tBOlBd5NB6x4yxvPyjU"
+      },
+      "artists": [
+        {
+          "name": "Hanging Garden",
+          "url": "https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332706,
+      "name": "Eternal Trees of Turquoise",
+      "url": "https://open.spotify.com/track/3U8TC7J5t87Oi7If8MZQAY"
     },
     {
       "album": {
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 229880,
       "name": "Fire to Fight",
       "url": "https://open.spotify.com/track/2C3xLv8AjBRH0AiVg5rwLP"
@@ -2256,6 +2274,24 @@
       "duration_ms": 233188,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb"
+    },
+    {
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/62OaYjQuROKLQ5Mjcslv32"
+      },
+      "artists": [
+        {
+          "name": "Deadvoid Inc.",
+          "url": "https://open.spotify.com/artist/6cqlJIGlMAnLW9xNLwCOV2"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245646,
+      "name": "Grounding the Unreal",
+      "url": "https://open.spotify.com/track/0myz9G1GIsj1yKA0XRIHcm"
     },
     {
       "album": {
@@ -3053,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Joku j\u00e4tti mut t\u00e4n\u00e4\u00e4n yksin",
+        "url": "https://open.spotify.com/album/1Y8aiOLpn4s5hLDziVfZWh"
+      },
+      "artists": [
+        {
+          "name": "Erakossa",
+          "url": "https://open.spotify.com/artist/1SkqpNg8gZEovWkmsODPkJ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178356,
+      "name": "Joku j\u00e4tti mut t\u00e4n\u00e4\u00e4n yksin",
+      "url": "https://open.spotify.com/track/3n2JkIY5VptRPZT03SXrnN"
+    },
+    {
+      "album": {
         "name": "Just a Vision",
         "url": "https://open.spotify.com/album/4jp1EHLBxFqTdA6YG2HHP1"
       },
@@ -3626,7 +3680,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 201342,
       "name": "love u",
       "url": "https://open.spotify.com/track/71TlsrOr3eHZgdDDsNjOhv"
@@ -3991,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Nekromanteion",
+        "url": "https://open.spotify.com/album/5yjgYd1nklOksO4hmVFJbW"
+      },
+      "artists": [
+        {
+          "name": "Torchia",
+          "url": "https://open.spotify.com/artist/50kAqTuSOb54sRSuwgzHx0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263147,
+      "name": "Nekromanteion",
+      "url": "https://open.spotify.com/track/4Lo88AiMFFGUOcMwoSxyf7"
+    },
+    {
+      "album": {
         "name": "Neon Eyes",
         "url": "https://open.spotify.com/album/60cV6stcgNnSM9Q0EdyDTI"
       },
@@ -4332,7 +4404,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 180615,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des"
@@ -4372,6 +4444,24 @@
       "duration_ms": 239640,
       "name": "Perfect Soul",
       "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/55gwWc4jGyK5qJtI7W4fqy"
+      },
+      "artists": [
+        {
+          "name": "Herra Ylpp\u00f6",
+          "url": "https://open.spotify.com/artist/6NwYl6JuXxC9H8T0hkNg6Q"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256187,
+      "name": "Pihlajan alla",
+      "url": "https://open.spotify.com/track/1WFcqkKkOnI6irTdsIBJKC"
     },
     {
       "album": {
@@ -4480,6 +4570,24 @@
       "duration_ms": 160737,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC"
+    },
+    {
+      "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/2yFwKAy5urDqTwNHfp1O0S"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4T\u00c4HUUTO",
+          "url": "https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181479,
+      "name": "Pyromania",
+      "url": "https://open.spotify.com/track/3iLWX088B7cwoib3sQR55W"
     },
     {
       "album": {
@@ -4786,7 +4894,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183529,
       "name": "Running to You",
       "url": "https://open.spotify.com/track/65Rl7g8LMrODfPQoofsepx"
@@ -5615,6 +5723,28 @@
     },
     {
       "album": {
+        "name": "Techno Men",
+        "url": "https://open.spotify.com/album/2fm2ov1SZmJjnz4ImjlmvL"
+      },
+      "artists": [
+        {
+          "name": "ANGUS McSIX",
+          "url": "https://open.spotify.com/artist/1NDBvJdsUcycpj4K8l0ooy"
+        },
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283377,
+      "name": "Techno Men",
+      "url": "https://open.spotify.com/track/0HKZPZrPLe4mGQOIxfK3S2"
+    },
+    {
+      "album": {
         "name": "Tee t\u00e4nne taivas (feat. Tony Kaikkonen, Timo Rautiainen, Jarkko Martikainen, Teemu Liekkala, Peter Engberg & Samuli Federley)",
         "url": "https://open.spotify.com/album/4jmBSATf3SezXde8kIBB4a"
       },
@@ -5820,7 +5950,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 213010,
       "name": "The End",
       "url": "https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY"
@@ -6371,6 +6501,24 @@
     },
     {
       "album": {
+        "name": "VOODOO",
+        "url": "https://open.spotify.com/album/3Kx1Yt4c0Ih08TepzGHaSy"
+      },
+      "artists": [
+        {
+          "name": "MC Mane",
+          "url": "https://open.spotify.com/artist/0rqygIEdmS7Gzf2fpZOzxt"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227321,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/79jrVDktOpMFNy6ApKhzEN"
+    },
+    {
+      "album": {
         "name": "Walking Ghost Phase",
         "url": "https://open.spotify.com/album/3qMcR2EOtDVgysMU6Z12YA"
       },
@@ -6794,7 +6942,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"

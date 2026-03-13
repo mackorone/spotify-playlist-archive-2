@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 222554,
+  "num_followers": 222616,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -1439,8 +1439,24 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "In A Space Outta Sound",
-        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
+        "name": "Slip Into Something More Comfortable",
+        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
+      },
+      "artists": [
+        {
+          "name": "Kinobe",
+          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
+        }
+      ],
+      "duration_ms": 287776,
+      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
+      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm"
       },
       "artists": [
         {
@@ -1448,9 +1464,9 @@
           "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 324173,
-      "name": "Flip Ya Lid",
-      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Slip Into Something More Comfortable",
-        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
+        "name": "In A Space Outta Sound",
+        "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
       },
       "artists": [
         {
-          "name": "Kinobe",
-          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
         }
       ],
-      "duration_ms": 287776,
-      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
-      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
+      "duration_ms": 324173,
+      "name": "Flip Ya Lid",
+      "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1667,22 +1683,6 @@
       "duration_ms": 300693,
       "name": "Yes Baby Yes",
       "url": "https://open.spotify.com/track/2NxIOFFrMxjeiPogqIkno1"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Restriction",
-        "url": "https://open.spotify.com/album/4mrIYPt2Yaakgx0YDdZEIi"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 292195,
-      "name": "End of Our Days",
-      "url": "https://open.spotify.com/track/2svCcgLek1pQNvQL3lX0tw"
     }
   ],
   "unique_name": "Chillout Classics",

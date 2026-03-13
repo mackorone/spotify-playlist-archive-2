@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  Anna hisbbuR",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover:  Billy Choi ",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -3018,6 +3018,24 @@
       "duration_ms": 179238,
       "name": "Christopher Luke",
       "url": "https://open.spotify.com/track/7KnylTHkKv0Jwq9wcKVu02"
+    },
+    {
+      "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6rMLGRkVViByu4I9wyLcA6"
+      },
+      "artists": [
+        {
+          "name": "ROGI*",
+          "url": "https://open.spotify.com/artist/11jDBhWmFza8NhQOHz63lQ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225103,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/4SZO3RLiIbBLWLSAhCOAUA"
     },
     {
       "album": {
@@ -16441,6 +16459,24 @@
     },
     {
       "album": {
+        "name": "Starlight Symphony",
+        "url": "https://open.spotify.com/album/2nlo6f0JGThgh6LaBI6SJM"
+      },
+      "artists": [
+        {
+          "name": "Jason Kui",
+          "url": "https://open.spotify.com/artist/4ua3BbXvBOSqAewwD4QQRc"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242460,
+      "name": "Starlight Symphony",
+      "url": "https://open.spotify.com/track/2BQqvyviBeLiQ2B7EFsIEe"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0batzFZ3TrD3ZQs78hWHef"
       },
@@ -22892,6 +22928,24 @@
       "duration_ms": 204000,
       "name": "\u53ea\u60f3\u6709\u4eba\u4ee4\u6211\u547c\u53eb (feat. \u7d75\u9e97\u5948 Erena So)",
       "url": "https://open.spotify.com/track/5uEstLfRPUgShflpMbh0ON"
+    },
+    {
+      "album": {
+        "name": "\u53ef\u5361\u56e0",
+        "url": "https://open.spotify.com/album/6d0w0ZDwfJx5KMdxUA7xU1"
+      },
+      "artists": [
+        {
+          "name": "kaine",
+          "url": "https://open.spotify.com/artist/0fS1DTXibMLKv67V3DjQd5"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "\u53ef\u5361\u56e0",
+      "url": "https://open.spotify.com/track/3hTa2axLakbvyN8pXY3vpm"
     },
     {
       "album": {
@@ -29356,6 +29410,24 @@
       "duration_ms": 228000,
       "name": "\u8352\u8b2c",
       "url": "https://open.spotify.com/track/2ffz1KYTxcH0szaFI7FPyv"
+    },
+    {
+      "album": {
+        "name": "\u83e0\u863f\u5305\u914d\u96de\u5c3e\u5305",
+        "url": "https://open.spotify.com/album/6NLGJu3dVlZy8AJFXnRINs"
+      },
+      "artists": [
+        {
+          "name": "Sammi Szeto",
+          "url": "https://open.spotify.com/artist/0Y5iRhhRnWJ0RX81wL087g"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "\u83e0\u863f\u5305\u914d\u96de\u5c3e\u5305",
+      "url": "https://open.spotify.com/track/58MPSajhLYQeyh5mzwNEX1"
     },
     {
       "album": {

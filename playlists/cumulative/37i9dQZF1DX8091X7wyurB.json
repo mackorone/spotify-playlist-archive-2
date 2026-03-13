@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "All Things Are Possible (Live)",
       "url": "https://open.spotify.com/track/4mEl4NNDrzWLXC60nVlvnM"
@@ -1446,6 +1446,24 @@
       "duration_ms": 1143786,
       "name": "Baruch Hashem Adonai - Live",
       "url": "https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS"
+    },
+    {
+      "album": {
+        "name": "Basket of Praise",
+        "url": "https://open.spotify.com/album/6GMqyTS1Xa2j7IgEbEXge6"
+      },
+      "artists": [
+        {
+          "name": "Deborah Ajayi",
+          "url": "https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1531221,
+      "name": "Basket of Praise",
+      "url": "https://open.spotify.com/track/7HV1lnTjxpdEvaPhfnieXe"
     },
     {
       "album": {
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 317538,
       "name": "Forever We Will Thank You For The Cross",
       "url": "https://open.spotify.com/track/2gl7795acAPAjt9c9zPXfP"
@@ -5688,7 +5706,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 330754,
       "name": "He Lives In Me",
       "url": "https://open.spotify.com/track/0qRgye5SDgJ1nJmBqnwvTe"
@@ -6352,7 +6370,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 223912,
       "name": "How Great You Are",
       "url": "https://open.spotify.com/track/1OpSbgyZYJbp1x2SZn0T5s"
@@ -7432,6 +7450,28 @@
       "duration_ms": 354572,
       "name": "Imela (feat. Enitan Adaba)",
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
+    },
+    {
+      "album": {
+        "name": "In Awe",
+        "url": "https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs"
+      },
+      "artists": [
+        {
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
+        },
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279352,
+      "name": "In Awe",
+      "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
     },
     {
       "album": {
@@ -8597,6 +8637,24 @@
     },
     {
       "album": {
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
+    },
+    {
+      "album": {
         "name": "Love Greater",
         "url": "https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x"
       },
@@ -8648,7 +8706,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 248054,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI"
@@ -9231,6 +9289,24 @@
     },
     {
       "album": {
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
+      "album": {
         "name": "Mma Mma",
         "url": "https://open.spotify.com/album/6RqkRdP2h5tw0PupBNfn0X"
       },
@@ -9242,7 +9318,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178663,
       "name": "Mma Mma",
       "url": "https://open.spotify.com/track/4wPrrk1ugsb8u6fWRldiPm"
@@ -9444,7 +9520,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 375947,
       "name": "Most High",
       "url": "https://open.spotify.com/track/7m5VI4wtclDWfskjXou2Mh"
@@ -9466,7 +9542,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 852000,
       "name": "MOUNTAINS TREMBLE - Live",
       "url": "https://open.spotify.com/track/1JiH8Y5VAjuGmkcYPIHAaq"
@@ -9568,6 +9644,28 @@
       "duration_ms": 417572,
       "name": "My Altar (Cover)",
       "url": "https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8"
+    },
+    {
+      "album": {
+        "name": "My Desire (Ps. 42:1)",
+        "url": "https://open.spotify.com/album/5cNYXLKbqvzBfzxyzkHaqn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ojo",
+          "url": "https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388440,
+      "name": "My Desire (Ps. 42:1)",
+      "url": "https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH"
     },
     {
       "album": {
@@ -10590,7 +10688,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
@@ -11152,7 +11250,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 231966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5g5LDdP02Rn9sD3xWeGnNk"
@@ -11872,7 +11970,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 918000,
       "name": "Prophesy",
       "url": "https://open.spotify.com/track/0LihJTTcZOKDNoSzhbqCfj"
@@ -12119,6 +12217,24 @@
     },
     {
       "album": {
+        "name": "REMEMBER ME",
+        "url": "https://open.spotify.com/album/6UM8AuNXvcIDXOOQ5pQNqQ"
+      },
+      "artists": [
+        {
+          "name": "OC Peters",
+          "url": "https://open.spotify.com/artist/7wpmzhXGco2Y5FAwIhzL7i"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172476,
+      "name": "REMEMBER ME",
+      "url": "https://open.spotify.com/track/77uZbj8IvWRkHpmSAGCIfc"
+    },
+    {
+      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -12196,7 +12312,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 408296,
       "name": "Rock of Salvation",
       "url": "https://open.spotify.com/track/1YsjqYHoRiKAjgsxLHzsOX"
@@ -12456,7 +12572,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 372708,
       "name": "Security (Live) - Remix",
       "url": "https://open.spotify.com/track/1KeoH3IklY84R3TD1Tf86x"
@@ -13526,7 +13642,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -14559,6 +14675,32 @@
     },
     {
       "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/429zY8VzGTrilGTR3zsfg4"
+      },
+      "artists": [
+        {
+          "name": "BunjoVille Ug",
+          "url": "https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT"
+        },
+        {
+          "name": "Fresera",
+          "url": "https://open.spotify.com/artist/2nShmM3otHhrl43ju76gJ5"
+        },
+        {
+          "name": "Joel Bunjo Annointed",
+          "url": "https://open.spotify.com/artist/40qFQ34iu2llYyyir6ZGAO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395226,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/48NL5bIhYoaBs1KHbq6pGA"
+    },
+    {
+      "album": {
         "name": "Way Maker",
         "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
       },
@@ -14698,7 +14840,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 434635,
       "name": "We Cry Holy",
       "url": "https://open.spotify.com/track/0fYknMAjeAlT0n5uQXALdy"
@@ -16105,6 +16247,24 @@
     },
     {
       "album": {
+        "name": "You Are Holy",
+        "url": "https://open.spotify.com/album/0Kq8ivq7zUkYdbE8TB37fD"
+      },
+      "artists": [
+        {
+          "name": "Moses Akoh",
+          "url": "https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291692,
+      "name": "You Are Holy",
+      "url": "https://open.spotify.com/track/3aModrqpU2p6Vrmfzbb48L"
+    },
+    {
+      "album": {
         "name": "You Are The Reason",
         "url": "https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2"
       },
@@ -16396,6 +16556,28 @@
       "duration_ms": 318857,
       "name": "Your Mercies",
       "url": "https://open.spotify.com/track/5JUVnZgo4FtVE4C2UlhIAH"
+    },
+    {
+      "album": {
+        "name": "YOUR MERCY",
+        "url": "https://open.spotify.com/album/2RhvIu4h4gHROcNW0QSP9k"
+      },
+      "artists": [
+        {
+          "name": "IFIOK BASSEY",
+          "url": "https://open.spotify.com/artist/2orAsBkKwUSIrmOf9oIg6y"
+        },
+        {
+          "name": "Preye Odede",
+          "url": "https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468800,
+      "name": "YOUR MERCY",
+      "url": "https://open.spotify.com/track/0k2zY5XBFtoJRDDdiMaJ6R"
     },
     {
       "album": {

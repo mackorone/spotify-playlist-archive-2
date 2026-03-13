@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Ayra Starr",
+  "description": "R&B\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002cover: Arlo Parks",
   "name": "Groovin' R&B",
   "tracks": [
     {
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "8 Stages",
+        "url": "https://open.spotify.com/album/6wCVVevpRRuSWKFQx6qDrk"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197837,
+      "name": "8 Stages",
+      "url": "https://open.spotify.com/track/24PCmAa9K0g7Z44xjyaIOk"
+    },
+    {
+      "album": {
         "name": "86Sentra",
         "url": "https://open.spotify.com/album/654CmOOF8AzNbGXzdQPWR6"
       },
@@ -856,6 +874,28 @@
       "duration_ms": 171688,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/46Vo3Oxtc4aV4y1yf6ZTrt"
+    },
+    {
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/77TxwD5JZWVWjAyF9bYIOr"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        },
+        {
+          "name": "Lil Summer",
+          "url": "https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182575,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/02Qw3GTDpFSq5AUoAftE6G"
     },
     {
       "album": {
@@ -1274,7 +1314,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 331279,
       "name": "ARRIVAL",
       "url": "https://open.spotify.com/track/5YW1ogBh5zcTxI801wdBD0"
@@ -1987,6 +2027,36 @@
     },
     {
       "album": {
+        "name": "Betcha (feat. That Mexican OT, Berner & Frankie J)",
+        "url": "https://open.spotify.com/album/3xe0IyEmhTysUpSqaUQKdY"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204447,
+      "name": "Betcha (feat. That Mexican OT, Berner & Frankie J)",
+      "url": "https://open.spotify.com/track/1HW2nq2PGXbjbGUFVHMi9r"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/7Cn9LpY72xeeysmfJRyher"
       },
@@ -2140,7 +2210,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 197600,
       "name": "BITTERSWEET",
       "url": "https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx"
@@ -2922,7 +2992,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 200092,
       "name": "Burning Fire",
       "url": "https://open.spotify.com/track/4Fd6Y4CcDr4UMGrs7eDwTQ"
@@ -3064,7 +3134,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 162171,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/7poGIptKUcMCgocjEKFXr5"
@@ -6554,7 +6624,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 260515,
       "name": "Free as a Bird (Philly Soul Sessions Ver.)",
       "url": "https://open.spotify.com/track/1Qwa4G0lYRBU6AdNUSvBfc"
@@ -6914,6 +6984,24 @@
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
+    {
+      "album": {
+        "name": "Get Go",
+        "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202196,
+      "name": "Get Go",
+      "url": "https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01"
     },
     {
       "album": {
@@ -8348,7 +8436,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173611,
       "name": "Home",
       "url": "https://open.spotify.com/track/6NT8Sa3jev1C3Xm33VDcJF"
@@ -9434,7 +9522,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 308551,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i"
@@ -9696,7 +9784,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 128500,
       "name": "Into My Name",
       "url": "https://open.spotify.com/track/2viBzmRkwr7l1qYnWUYC0t"
@@ -10250,7 +10338,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 80222,
       "name": "k.i.s.s.",
       "url": "https://open.spotify.com/track/6PKwacO6sUm6nfA0Gio6Rj"
@@ -10462,7 +10550,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 241507,
       "name": "know about me (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
@@ -11318,7 +11406,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 222973,
       "name": "Longest Way Round",
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
@@ -11620,6 +11708,24 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "album": {
+        "name": "Love Me Twice",
+        "url": "https://open.spotify.com/album/63R5hFgQ7DPeLdJijGmmoP"
+      },
+      "artists": [
+        {
+          "name": "Kerr Mercer",
+          "url": "https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143745,
+      "name": "Love Me Twice",
+      "url": "https://open.spotify.com/track/6RBWAgKA9mukk3nOs0doEk"
     },
     {
       "album": {
@@ -12992,7 +13098,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203857,
       "name": "Mother Tree",
       "url": "https://open.spotify.com/track/1cBwZeiOxWJFlTE3cXq0gd"
@@ -15390,7 +15496,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 167936,
       "name": "PIMPIN'",
       "url": "https://open.spotify.com/track/6VG33RSohS6y0qfhARz57q"
@@ -19417,6 +19523,28 @@
     },
     {
       "album": {
+        "name": "Sundown / Too Much to Ask",
+        "url": "https://open.spotify.com/album/5DNcpqSwQ90rwO4dEid3B2"
+      },
+      "artists": [
+        {
+          "name": "Slowe",
+          "url": "https://open.spotify.com/artist/6S67b6WQ78bgJyN7xRrijo"
+        },
+        {
+          "name": "Alamay",
+          "url": "https://open.spotify.com/artist/4LIKKASRiUqJGUDAwRUAdx"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229213,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/1HUgVQwr1XxkW89WbCoqT3"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/4nx0MICtzlbMeruCNSnIPO"
       },
@@ -21213,6 +21341,24 @@
     },
     {
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182972,
+      "name": "Trade Places",
+      "url": "https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh"
+    },
+    {
+      "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
       },
@@ -22985,6 +23131,24 @@
     },
     {
       "album": {
+        "name": "Who Is It",
+        "url": "https://open.spotify.com/album/7kZ3QBPe6c7OFNAdpzEb37"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "Who Is It",
+      "url": "https://open.spotify.com/track/1IwEhO9YkJeXM60zi5YSAD"
+    },
+    {
+      "album": {
         "name": "Who\u2019s Dat Girl",
         "url": "https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW"
       },
@@ -24009,6 +24173,32 @@
     },
     {
       "album": {
+        "name": "\u5149\u306e\u679c\u5b9f Remix",
+        "url": "https://open.spotify.com/album/5MTXwtoPOBJhVq5n2ePSBO"
+      },
+      "artists": [
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        },
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        },
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294810,
+      "name": "\u5149\u306e\u679c\u5b9f [TOSHIKI HAYASHI (%C) REMIX]",
+      "url": "https://open.spotify.com/track/67ApWdsjj7NdJpYnQrh8Xn"
+    },
+    {
+      "album": {
         "name": "\u5f57\u661f",
         "url": "https://open.spotify.com/album/4l7QO1YCPZdjnL3u8EUsLL"
       },
@@ -24068,6 +24258,28 @@
       "duration_ms": 149434,
       "name": "\u611b\u306b\u6eba\u308c\u3066",
       "url": "https://open.spotify.com/track/1VOKZm26YJJCTHSiDUQGSd"
+    },
+    {
+      "album": {
+        "name": "Mother Tree",
+        "url": "https://open.spotify.com/album/5R3DJCQQ4HcIL2o7dDc5Au"
+      },
+      "artists": [
+        {
+          "name": "EMI MARIA",
+          "url": "https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8"
+        },
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246225,
+      "name": "\u6625\u590f\u79cb\u51ac",
+      "url": "https://open.spotify.com/track/6QfnWtaW5oerFQeIrjMGrr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,063 likes - 160 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,065 likes - 160 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 144 | [Rêve doux](https://open.spotify.com/track/5PtxUTKh3aoBpj4kH9qlEV) | [Lorraine Desmarais](https://open.spotify.com/artist/6DJJrLxCg3xsl9F8QHLNd0) | [Berceuses pour Philou](https://open.spotify.com/album/37sKoHuMDogH4pcBtZ2Hej) | 3:48 |
 | 145 | [Like in Love](https://open.spotify.com/track/3l3E6BoyvEjQyLF1aihHpY) | [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Day Moon](https://open.spotify.com/album/6dDHz5rBxYsismfabRNfbm) | 6:06 |
 | 146 | [Nobody's Here](https://open.spotify.com/track/5T1gtsipWDif1Uehm0D4Ko) | [Taurey Butler](https://open.spotify.com/artist/4Y6KKYAVP5qjB5v4V4IQFQ) | [Taurey Butler](https://open.spotify.com/album/2aaqqeGYwWD9kDbMVaq68V) | 5:56 |
-| 147 | [Them](https://open.spotify.com/track/0nR9BbQWUSg1luBlqi7W2v) | [Allison Au](https://open.spotify.com/artist/25XuR6QuBWO91XfANGJxrt), [The Migrations Ensemble](https://open.spotify.com/artist/1o2iIfoQLcmtX5lmk3E5yP), [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I) | [Migrations](https://open.spotify.com/album/7vci4pmrk4YwfTMhUgTnoW) | 3:51 |
+| 147 | [Them \(feat\. Laila Biali\)](https://open.spotify.com/track/0nR9BbQWUSg1luBlqi7W2v) | [Allison Au](https://open.spotify.com/artist/25XuR6QuBWO91XfANGJxrt), [The Migrations Ensemble](https://open.spotify.com/artist/1o2iIfoQLcmtX5lmk3E5yP), [Laila Biali](https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I) | [Migrations](https://open.spotify.com/album/7vci4pmrk4YwfTMhUgTnoW) | 3:51 |
 | 148 | [No te olvides de la luz](https://open.spotify.com/track/41K9b4Ot6nBqQQEXkDt5jJ) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [No te olvides de la luz](https://open.spotify.com/album/0soM7732TbSQ9C7eVRfPOc) | 4:22 |
 | 149 | [Sherk](https://open.spotify.com/track/0cUYEHEXFNFELqIup3ri8T) | [Brekky Boy](https://open.spotify.com/artist/4VpFUNEQxKGW2BSHf7dndI) | [Sherk](https://open.spotify.com/album/5UHL8ylmt4B5Cr60t5cBWk) | 3:15 |
 | 150 | [Alma No Mar](https://open.spotify.com/track/3f4TjM8m1lBC6AHMSQym3z) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7), [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Small Variations from the Previous Day](https://open.spotify.com/album/0wEQ7pRtZlBBBayHlwOJbJ) | 3:54 |

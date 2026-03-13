@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Liv del Estal
+> La scène française branchée sur courant alternatif\. Photo : Ofé
 
-445 songs - 23 hr 26 min
+448 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [british girl](https://open.spotify.com/track/0l04kYoEizefLbLIBttGVK) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi) | [british girl](https://open.spotify.com/album/2yx7RfrsuYbbkS2vBC1arg) | 2:40 | 2026-01-08 |  |
 | [BROKEN BONES](https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId), [LIL Moine](https://open.spotify.com/artist/2TfrHGAo7z0KBG1XjJeSJq) | [BROKEN BONES](https://open.spotify.com/album/30HTdLg2ovzLuahWbJC6Bk) | 2:30 | 2024-06-13 | 2024-06-28 |
 | [Brumeux](https://open.spotify.com/track/1LTH3ADSAIl9tLLyfQnbTu) | [Magenta Club](https://open.spotify.com/artist/5du1Lf0YKbak13Ym58jKsA) | [Brumeux](https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV) | 3:14 | 2023-10-26 | 2024-01-19 |
-| [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:06 | 2025-12-04 |  |
+| [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:06 | 2025-12-04 | 2026-03-13 |
 | [c'est toi qui me dis](https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl) | [kissed](https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [c'est toi qui me dis](https://open.spotify.com/album/6g3UezgW6sV2Qa6Uj0LuBH) | 3:11 | 2025-10-02 | 2025-12-19 |
 | [Californie](https://open.spotify.com/track/5cWBcAnMNCBVV0UAIO6tRj) | [EMILE](https://open.spotify.com/artist/2zcvrNK2SY1epxOBTgfEF4) | [Californie](https://open.spotify.com/album/1lBRedKhEOs13Zr8ZOb1Ax) | 2:23 | 2025-05-15 | 2025-10-03 |
 | [Call Me](https://open.spotify.com/track/2CF2OEphV5XeP0Gz6eICO7) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Dernier Orage](https://open.spotify.com/album/1lGNHr5zhRiwKfGbQmHKPY) | 3:26 | 2023-10-26 | 2024-01-27 |
@@ -152,6 +152,7 @@
 | [Harmonium Blue](https://open.spotify.com/track/15jAQDymeWRbuzS9Y33tVV) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [DAZY](https://open.spotify.com/album/1p05EsQ9OsPst8KS8HWbOE) | 2:59 | 2025-03-20 | 2025-09-12 |
 | [heureux comme un roi](https://open.spotify.com/track/3M0JgDV4dHZmFc6YDJA0R2) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [heureux comme un roi](https://open.spotify.com/album/1n4eKxMP5wpOkqtewYhmvm) | 2:51 | 2025-09-04 | 2025-11-28 |
 | [Hey Joe](https://open.spotify.com/track/57hKJDzT86Hb4XEvFKcSqZ) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Hey Joe](https://open.spotify.com/album/4X9EzY8mrxWMRfSU88ehaM) | 3:12 | 2025-04-10 | 2025-06-06 |
+| [Homme du feu \(Solitaire\)](https://open.spotify.com/track/6no2voZZ0PIbn5Pd0Ja559) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Je voulais te dire](https://open.spotify.com/album/46EUuGovh2n0RQY7uBDlVp) | 3:19 | 2026-03-12 |  |
 | [Hooligan](https://open.spotify.com/track/5INfcVg4x5o8Qfo8LD0nvY) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Pop Sauvage](https://open.spotify.com/album/1HkAZ5h4jCXuRKa239zPuw) | 3:32 | 2024-02-08 | 2024-05-10 |
 | [Humain](https://open.spotify.com/track/1I7q4Nvn6hRTb2lyHTVcWR) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Plastique](https://open.spotify.com/album/0LzO13HzLPa3soZILnIkQc) | 2:45 | 2025-06-05 | 2025-09-26 |
 | [Human](https://open.spotify.com/track/0eud4SBuWHvNdu7FEddykC) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [Human vs Machine](https://open.spotify.com/album/1YjIR9gq3Q6PYnHq1kuKMf) | 3:04 | 2024-02-08 | 2024-06-21 |
@@ -189,7 +190,7 @@
 | [Je t'emmènerai](https://open.spotify.com/track/2Mv1tPuwMAHQHA2CalxQi5) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Je t'emmènerai](https://open.spotify.com/album/3YhrhemEcuxGllGaet7vJB) | 2:55 | 2024-03-14 | 2025-06-13 |
 | [Je trace](https://open.spotify.com/track/2eTOkhL8ug3czviQ3tzTRF) | [NAVA](https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj) | [Je trace](https://open.spotify.com/album/0liEQ85REpuvXdh7kD1WYq) | 2:20 | 2026-02-19 |  |
 | [Je Voulais](https://open.spotify.com/track/26LEDUBccqiAj28QDjzOod) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Je Voulais](https://open.spotify.com/album/6v0EOkmlVsamzKicsn8m2R) | 3:02 | 2023-09-28 | 2023-12-01 |
-| [Je voulais te dire que je t'attends](https://open.spotify.com/track/00G4SFlowxWJA9QspYIX05) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Je voulais te dire que je t'attends](https://open.spotify.com/album/2NEkmITnwj3s5U2e8tKEca) | 3:48 | 2026-02-05 |  |
+| [Je voulais te dire que je t'attends](https://open.spotify.com/track/00G4SFlowxWJA9QspYIX05) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Je voulais te dire que je t'attends](https://open.spotify.com/album/2NEkmITnwj3s5U2e8tKEca) | 3:48 | 2026-02-05 | 2026-03-13 |
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 | 2025-06-05 | 2025-10-17 |
 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 | 2023-09-28 | 2023-11-10 |
@@ -252,6 +253,7 @@
 | [Lunettes du style](https://open.spotify.com/track/22kQGWbD8Pq8tdG1PzorJQ) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [Lunettes du style](https://open.spotify.com/album/3UTwX4b6mg3wRf5qBl5wPN) | 3:35 | 2023-09-28 | 2023-11-24 |
 | [Lunettes noires](https://open.spotify.com/track/50QzsGkmFa8HlC16BRCiqe) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Lunettes noires](https://open.spotify.com/album/3VmWWOtrsNGFAiegI2Oewu) | 2:57 | 2025-02-06 | 2025-06-06 |
 | [LUX](https://open.spotify.com/track/5dfT5UGtX9EoksFWuUTr7k) | [Liv Oddman](https://open.spotify.com/artist/1yEA4XZdXmdaNG6lLd9RKg) | [SAHA](https://open.spotify.com/album/2BKeidyYKdVtO4Le8o7Uc7) | 3:49 | 2024-06-13 | 2025-01-31 |
+| [MA CLAQUE](https://open.spotify.com/track/3xqk6PwiujpbLeblkD02hb) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [MA CLAQUE](https://open.spotify.com/album/0CI5Sv3BtwmyDrUeL07qgf) | 1:52 | 2026-03-12 |  |
 | [madame](https://open.spotify.com/track/11mG8zAlXntqPSo3um9kZX) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [madame](https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg) | 2:42 | 2023-09-28 | 2023-11-03 |
 | [mais le ciel est sublime](https://open.spotify.com/track/5cfD8I77n0o74lx5I6kdjt) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [mais le ciel est sublime](https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl) | 3:44 | 2025-10-23 | 2026-01-24 |
 | [Maisons vides](https://open.spotify.com/track/5xcpjChubYvUHXS5M9MFFB) | [KCIDY](https://open.spotify.com/artist/7rOzcz6BWm7gwp4LMpdkSO) | [Maisons vides](https://open.spotify.com/album/1hgVIIJBeoAcy96jPMS3Xx) | 4:02 | 2025-05-15 | 2025-10-11 |
@@ -403,6 +405,7 @@
 | [Tempelhof](https://open.spotify.com/track/3Rc2TbS9dGOFpjaJPbhxlc) | [Odezenne](https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp) | [Tempelhof](https://open.spotify.com/album/1Z38hWEC9zgrud0SsKFTtX) | 3:19 | 2025-05-22 | 2025-09-06 |
 | [territoire perdu](https://open.spotify.com/track/2TEDJWogdPCJWfq6I8jNdW) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [territoire\(s\) perdu\(s\)](https://open.spotify.com/album/3ycRGfXo5CUm4L0cNq87ES) | 2:45 | 2025-05-15 | 2025-10-11 |
 | [Tes mains sales](https://open.spotify.com/track/0SlqPsiEli9P0SolyyaeIu) | [Ojos](https://open.spotify.com/artist/6vjLB7rWDPLOVrzt3GhdPE) | [Tes mains sales](https://open.spotify.com/album/1qHu35g9fesjTYiBQzL057) | 2:38 | 2023-09-28 | 2023-10-13 |
+| [Tes yeux](https://open.spotify.com/track/5WgEunCEbeyWiKZ9BIUFLH) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [Tes yeux](https://open.spotify.com/album/2e7oEqkFUprlaBjtw6LC6l) | 2:59 | 2026-03-12 |  |
 | [The 360 Holes Bird](https://open.spotify.com/track/1HXda7QPN7Ku4HgHfSc1Qp) | [BLVL](https://open.spotify.com/artist/35ky25MGfnUDQehlu1hzdS) | [The 360 Holes Bird](https://open.spotify.com/album/3AKYrcj3lRLL5B6EUuJAkL) | 3:00 | 2023-11-02 | 2024-01-12 |
 | [The Mouse Song](https://open.spotify.com/track/4tAegyavCCwyqEOetfu7fx) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [The Mouse Song](https://open.spotify.com/album/024jMwMFAihosS9nj0pvv0) | 3:33 | 2024-02-29 | 2024-12-06 |
 | [The Other](https://open.spotify.com/track/215kPtqkq300QtsdcRVKeB) | [SINK DEEPER](https://open.spotify.com/artist/0JLgh8bfKTsEfukxZ2fxPO) | [Punkless](https://open.spotify.com/album/045y7HcEE6xToS1dnocLwO) | 2:52 | 2024-11-07 | 2024-12-13 |

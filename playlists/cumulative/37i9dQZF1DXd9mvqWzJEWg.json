@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 302419,
       "name": "Keep It Goin'",
       "url": "https://open.spotify.com/track/069zn4v2KP6PcPcM6xr1sv"
@@ -9848,6 +9848,24 @@
       "duration_ms": 171428,
       "name": "Take Off Your Shoes Ayashisa Amateki",
       "url": "https://open.spotify.com/track/6rwA8gwTPA8bYz1H6z2RRV"
+    },
+    {
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/3Pilu6PJZfn5nbmzdapasS"
+      },
+      "artists": [
+        {
+          "name": "K.C Driller",
+          "url": "https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382439,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/1KUmduzmoml95j44rXqa2r"
     },
     {
       "album": {

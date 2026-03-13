@@ -768,7 +768,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 137186,
       "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
       "url": "https://open.spotify.com/track/2Ls8gLpf0ulxFTisaVczmK"
@@ -1178,6 +1178,24 @@
       "duration_ms": 97359,
       "name": "Samba de uma Nota S\u00f3 - Ultimate Mix",
       "url": "https://open.spotify.com/track/7joZ2HZJxMLeT5Gpz3YYsR"
+    },
+    {
+      "album": {
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107560,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR"
     },
     {
       "album": {

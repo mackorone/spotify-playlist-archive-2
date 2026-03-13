@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Lina Simons in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "AIN\u00c9, Lauryyn e Filippo Bubbico in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -3414,6 +3414,28 @@
       "duration_ms": 127500,
       "name": "Chill Dans",
       "url": "https://open.spotify.com/track/4q7Z57pZSuSDOPC2m7Ni7W"
+    },
+    {
+      "album": {
+        "name": "Chiocciola/spin",
+        "url": "https://open.spotify.com/album/4XBcuTgQEl5kZomcJXUhSX"
+      },
+      "artists": [
+        {
+          "name": "Michael Mills",
+          "url": "https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV"
+        },
+        {
+          "name": "Prev",
+          "url": "https://open.spotify.com/artist/721Zu3qJB4OOq6oiwUdOuW"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175934,
+      "name": "Chiocciola/spin",
+      "url": "https://open.spotify.com/track/3A5ORlX3xb8CGN62iv2dJx"
     },
     {
       "album": {
@@ -7686,7 +7708,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 186000,
       "name": "Il Cuore Che Va",
       "url": "https://open.spotify.com/track/5g4sTYVMTmtLx7TzJ0amZg"
@@ -8716,6 +8738,32 @@
       "duration_ms": 223546,
       "name": "LA GUERRA \u2723 (con Frah Quintale, Venerus)",
       "url": "https://open.spotify.com/track/2pz8gp5acxEbNxhHJtNvKj"
+    },
+    {
+      "album": {
+        "name": "La mia luce",
+        "url": "https://open.spotify.com/album/5M0phk6dYixgjI3M9n2ZUY"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        },
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        },
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164869,
+      "name": "La mia luce",
+      "url": "https://open.spotify.com/track/7oDYfYCunY45lMFBwuCZFe"
     },
     {
       "album": {
@@ -9958,7 +10006,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 213461,
       "name": "l\u00e0cero-cont\u00f9sa",
       "url": "https://open.spotify.com/track/4nAniJpaJeiuRe18iDQD9b"
@@ -12296,7 +12344,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 189374,
       "name": "Nun cia' facc' cchi\u00f9",
       "url": "https://open.spotify.com/track/0pVbekwMVPKMGc17kr35TQ"
@@ -15745,6 +15793,24 @@
     },
     {
       "album": {
+        "name": "Senza filtri",
+        "url": "https://open.spotify.com/album/2DMagH2Vzn32dcuAlUrsar"
+      },
+      "artists": [
+        {
+          "name": "HALMA",
+          "url": "https://open.spotify.com/artist/6fHqnyyOIUzlwn004AyuvR"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143529,
+      "name": "Senza filtri",
+      "url": "https://open.spotify.com/track/3uSukWgE3pIOVljoLVEPav"
+    },
+    {
+      "album": {
         "name": "Senza Finale",
         "url": "https://open.spotify.com/album/3GMy6UByOe8Xuq7AgZtipB"
       },
@@ -16100,6 +16166,24 @@
       "duration_ms": 178544,
       "name": "SINCERO",
       "url": "https://open.spotify.com/track/1LLZBXC83e2qBZBSTdxyf5"
+    },
+    {
+      "album": {
+        "name": "Slow Down",
+        "url": "https://open.spotify.com/album/1MUfpMMyAvk25qY4HECFy9"
+      },
+      "artists": [
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/6XLj9BXn0pnWlFMVGk1utU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0XHUZh1ycaZlbjFBIwv5kl"
     },
     {
       "album": {
@@ -18600,7 +18684,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 110769,
       "name": "UNA FORMICA AL SOLE",
       "url": "https://open.spotify.com/track/462Ahs4m2ZGo76M6AfqZcw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Lapili.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,324 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,325 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 49 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
 | 50 | [El edificio](https://open.spotify.com/track/1Pse4bB2v3l1MpPHuu0IPf) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [El edificio](https://open.spotify.com/album/30sHvlxADgpqRliN7oDwkq) | 3:30 |
 
-Snapshot ID: `AAAAAAn/35iEpVB/asPtFKTtqPMsQjJA`
+Snapshot ID: `AAAAAF+dEiC4yeuBlkxTjsCa4BZaaqs+`

@@ -3709,6 +3709,24 @@
     },
     {
       "album": {
+        "name": "grillos",
+        "url": "https://open.spotify.com/album/72dy2ivRHVBBycsT0347Mc"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204194,
+      "name": "grillos",
+      "url": "https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A"
+    },
+    {
+      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },

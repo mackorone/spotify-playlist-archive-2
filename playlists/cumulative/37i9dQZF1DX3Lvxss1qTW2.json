@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: 6uff",
+  "description": "The future hits of today. Up Next: Kayode",
   "name": "NXT",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 117777,
       "name": "17",
       "url": "https://open.spotify.com/track/0mZQm5lqtstAg4xboNWPVq"
@@ -498,6 +498,24 @@
       "duration_ms": 150857,
       "name": "Agility",
       "url": "https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF"
+    },
+    {
+      "album": {
+        "name": "Aimoye",
+        "url": "https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "Aimoye",
+      "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
     },
     {
       "album": {
@@ -1462,7 +1480,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166291,
       "name": "BALANCE (with Lasmid)",
       "url": "https://open.spotify.com/track/4yVprPvNUGc840gsCWcvOq"
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 192645,
       "name": "Cut The BS",
       "url": "https://open.spotify.com/track/2xaS2yhqF0rKnMthenKQ1w"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 147692,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7j84rJTwTVN6LcUlqvpQ2Q"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 151916,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/4c3slIbfNXdkfqldDkyMtg"
@@ -6245,6 +6263,28 @@
     },
     {
       "album": {
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138208,
+      "name": "Jembe",
+      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+    },
+    {
+      "album": {
         "name": "JEWO",
         "url": "https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW"
       },
@@ -7620,10 +7660,32 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 154983,
       "name": "MANDEM",
       "url": "https://open.spotify.com/track/6dn6lkOk2V3Ya0U7uPImIJ"
+    },
+    {
+      "album": {
+        "name": "MANY GIRLS",
+        "url": "https://open.spotify.com/album/2gPRiTdazZWNDu5KjD830t"
+      },
+      "artists": [
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
+        },
+        {
+          "name": "BRUME",
+          "url": "https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "MANY GIRLS",
+      "url": "https://open.spotify.com/track/2BEfo1hrO1A8tFyFyiXetE"
     },
     {
       "album": {
@@ -8146,7 +8208,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 185454,
       "name": "Motho Waka",
       "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
@@ -8182,7 +8244,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 149142,
       "name": "Munachi",
       "url": "https://open.spotify.com/track/32eZBRzpOlfJewW9Ih0tu2"
@@ -8643,6 +8705,28 @@
     },
     {
       "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149446,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/7uW3vWcXXhIqLSjHuH677g"
       },
@@ -8698,7 +8782,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 208000,
       "name": "Nzogbu",
       "url": "https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh"
@@ -8992,7 +9076,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156428,
       "name": "Omo",
       "url": "https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq"
@@ -9372,7 +9456,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 223020,
       "name": "OTS",
       "url": "https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz"
@@ -9802,7 +9886,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 123750,
       "name": "PRESS AM",
       "url": "https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8"
@@ -10451,6 +10535,40 @@
     },
     {
       "album": {
+        "name": "Scenes",
+        "url": "https://open.spotify.com/album/7g9b1do5f5rJOybiCgCbBN"
+      },
+      "artists": [
+        {
+          "name": "Dapper",
+          "url": "https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197522,
+      "name": "Scenes",
+      "url": "https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N"
+    },
+    {
+      "album": {
         "name": "Screaming Beauty",
         "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
       },
@@ -10502,7 +10620,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 135555,
       "name": "Seedy",
       "url": "https://open.spotify.com/track/1fIvn2nWi30rf1a7aBPNXZ"
@@ -11317,6 +11435,24 @@
     },
     {
       "album": {
+        "name": "Street is My Father",
+        "url": "https://open.spotify.com/album/7Bs4UzwSctQ7p9iVvYg4C8"
+      },
+      "artists": [
+        {
+          "name": "Baba Tundey",
+          "url": "https://open.spotify.com/artist/16hyxoxcvlNxKIkpQaaCnC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163307,
+      "name": "Street is My Father",
+      "url": "https://open.spotify.com/track/64aV2HQXKz5eoZW2kW28bc"
+    },
+    {
+      "album": {
         "name": "Streibullet",
         "url": "https://open.spotify.com/album/3MI0GG0vBBwo6nu6zwh8yB"
       },
@@ -11558,7 +11694,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 164849,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/1Bj8o6sOn78GviMwhUN8qP"
@@ -12828,7 +12964,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 176326,
       "name": "Whine Am",
       "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
@@ -12934,7 +13070,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 174050,
       "name": "WILL I EVER",
       "url": "https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG"

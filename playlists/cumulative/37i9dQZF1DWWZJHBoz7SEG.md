@@ -4,7 +4,7 @@
 
 > Inicia marzo lleno de morras rifando en la música y en todos lados 📸  GRTSCH & Mon Laferte
 
-11,466 songs - 25 day 15 hr 13 min
+11,467 songs - 25 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4165,6 +4165,7 @@
 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 | 2026-02-13 | 2026-02-21 |
 | [Green Honda](https://open.spotify.com/track/6YufjjSqUweXdQHduL76zr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Green Honda](https://open.spotify.com/album/46O3bl9CMEXxzQubtLz4Zq) | 2:46 | 2023-02-10 | 2023-02-18 |
 | [Grietas de Oro](https://open.spotify.com/track/6gzYizdEjvGGx1gtVue8Ch) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Grietas de Oro](https://open.spotify.com/album/31U0PoWVEWtJCSnhEzgCH7) | 3:17 | 2026-02-20 | 2026-02-28 |
+| [grillos](https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [grillos](https://open.spotify.com/album/72dy2ivRHVBBycsT0347Mc) | 3:24 | 2026-03-06 |  |
 | [Grillz](https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Grillz](https://open.spotify.com/album/1YH8ILbFvKc6NK5iyblISg) | 3:12 | 2022-11-04 | 2022-11-12 |
 | [Grinberg](https://open.spotify.com/track/1qGJboZMfcjZhiBZS9BmRy) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Teorema](https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA), [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Ser G Soul](https://open.spotify.com/artist/4JflVn7Q0mR7HSxCRrS3z4), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Grinberg](https://open.spotify.com/album/4pJxGTLOh2yKRwo42HcMVO) | 5:51 | 2025-09-19 | 2025-09-27 |
 | [Gringo Hunter \- De la Serie de Netflix "Gringo Hunters"](https://open.spotify.com/track/5UADTFVdvIpNPnNyST7fdZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Gringo Hunter \(De la Serie de Netflix "Gringo Hunters"\)](https://open.spotify.com/album/4RD6jo0ORjqVeRH5e0aBrW) | 2:01 | 2025-07-11 | 2025-07-19 |

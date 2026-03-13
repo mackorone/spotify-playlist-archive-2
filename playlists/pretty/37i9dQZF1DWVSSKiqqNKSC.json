@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 527736,
+  "num_followers": 527796,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Tranquilo Que Yo Controlo (Remasterizado)",
+        "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
+      },
+      "artists": [
+        {
+          "name": "Pupy y Los Que Son Son",
+          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "Un Poquito al Rev\u00e9s - Remasterizado",
+      "url": "https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Yo Vengo de Cuba",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Tranquilo Que Yo Controlo (Remasterizado)",
-        "url": "https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy"
-      },
-      "artists": [
-        {
-          "name": "Pupy y Los Que Son Son",
-          "url": "https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "Un Poquito al Rev\u00e9s - Remasterizado",
-      "url": "https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -699,22 +699,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
       },
       "artists": [
         {
           "name": "Alexander Abreu",
           "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 298374,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+      "duration_ms": 265639,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -807,18 +803,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
+        "name": "Me Dicen Cuba / Rosa la Peligrosa",
+        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
       "artists": [
         {
           "name": "Alexander Abreu",
           "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
         }
       ],
-      "duration_ms": 265639,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
+      "duration_ms": 298374,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
     },
     {
       "added_at": "2025-03-07 06:00:25",

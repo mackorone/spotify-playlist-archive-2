@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 9559,
+  "num_followers": 9563,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAADok0YjpnhqLMBf/xicWjwb",
+  "snapshot_id": "abCwgAAAAAAvvVdWdjICX3cP5GevqQln",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las G\u00fcilotas",
-        "url": "https://open.spotify.com/album/74O2rATZ2x2ZgTxHa8ptm1"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 171136,
-      "name": "Las G\u00fcilotas",
-      "url": "https://open.spotify.com/track/6xDXuW6nmboGxfJnxomD3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga En Vivo! , Vol.1",
         "url": "https://open.spotify.com/album/1G3PD5Exsb96cyFrS9MPdS"
       },
@@ -399,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+        "name": "Las G\u00fcilotas",
+        "url": "https://open.spotify.com/album/74O2rATZ2x2ZgTxHa8ptm1"
       },
       "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
         {
           "name": "Banda Rafaga",
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 208773,
-      "name": "Algo Sin Igual",
-      "url": "https://open.spotify.com/track/32U4fpsJyL9akGOX0jbj8E"
+      "duration_ms": 171136,
+      "name": "Las G\u00fcilotas",
+      "url": "https://open.spotify.com/track/6xDXuW6nmboGxfJnxomD3U"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
       "duration_ms": 210760,
       "name": "Lo Aprendi De Ti",
       "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Algo Sin Igual",
+      "url": "https://open.spotify.com/track/32U4fpsJyL9akGOX0jbj8E"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Todav\u00eda Hay Amor",
-        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "Y Todav\u00eda Hay Amor",
-      "url": "https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Medias Negras",
         "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 185887,
       "name": "No Llega el Olvido",
       "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "Y Todav\u00eda Hay Amor",
+      "url": "https://open.spotify.com/track/066wvPX3h2s51ttZk6XOfA"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 207640,
+      "name": "Como Esos Amantes",
+      "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
         "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Como Esos Amantes",
-      "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LLegaste A Mi Vida",
         "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Popurr\u00ed: Fr\u00edos Enemigos / Noche de Banda - En Vivo",
-      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy de Carne Y Hueso",
         "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 205797,
       "name": "Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/3smdOWr3WUsWUL7Lu8NgTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga En Vivo Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Popurr\u00ed: Fr\u00edos Enemigos / Noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
     },
     {
       "added_at": null,

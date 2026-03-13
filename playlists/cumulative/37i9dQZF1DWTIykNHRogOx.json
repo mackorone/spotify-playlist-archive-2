@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Noor",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Nina Battisti",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "les choses de la vie",
+        "url": "https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i"
+      },
+      "artists": [
+        {
+          "name": "DO not DO",
+          "url": "https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "la vie est belle",
+      "url": "https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9"
+    },
+    {
+      "album": {
         "name": "Laisse couler",
         "url": "https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR"
       },
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 248040,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ"
@@ -3820,6 +3838,24 @@
       "duration_ms": 149578,
       "name": "On va voir la mer",
       "url": "https://open.spotify.com/track/5PO3Aefu83Q2ZEzG1Ujeyx"
+    },
+    {
+      "album": {
+        "name": "ordi par la fen\u00eatre",
+        "url": "https://open.spotify.com/album/0A5jpGUoZXDz8tjZs0zYdz"
+      },
+      "artists": [
+        {
+          "name": "ange",
+          "url": "https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157346,
+      "name": "ordi par la fen\u00eatre",
+      "url": "https://open.spotify.com/track/5QeBageLpTOxXRGf6P8gWV"
     },
     {
       "album": {
@@ -4902,7 +4938,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206466,
       "name": "Tout fait pour",
       "url": "https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj"

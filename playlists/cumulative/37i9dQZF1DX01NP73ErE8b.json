@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83d\ude0c Samurai Jay in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83d\ude0c Angelica Bove in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -1531,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "Canzone Estiva",
+        "url": "https://open.spotify.com/album/0Kh1PxZEW7VJa84HBdjnNa"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202127,
+      "name": "Canzone Estiva",
+      "url": "https://open.spotify.com/track/0okR1YL51puEefZFTItVVR"
+    },
+    {
+      "album": {
         "name": "Mediterraneo",
         "url": "https://open.spotify.com/album/5xiuwFxGpemqPBxzJQ6AYd"
       },
@@ -2593,6 +2611,42 @@
     },
     {
       "album": {
+        "name": "DISINCANTO",
+        "url": "https://open.spotify.com/album/5uUhwToRipr5CJerXxNz8K"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "DISINCANTO",
+      "url": "https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z"
+    },
+    {
+      "album": {
+        "name": "Dopamina Gourmet",
+        "url": "https://open.spotify.com/album/5hPcQXzOSiGBwh3VzKeOrN"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164413,
+      "name": "Dopamina Gourmet",
+      "url": "https://open.spotify.com/track/1Zk9msK1cyOBkkfPsw2XUR"
+    },
+    {
+      "album": {
         "name": "Dove si va",
         "url": "https://open.spotify.com/album/1FlhTJIKS0pYUtuoG2m1gG"
       },
@@ -2900,7 +2954,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 135983,
       "name": "everest (feat. thasup)",
       "url": "https://open.spotify.com/track/72BgqA4ZMpjTMdRYHtw3rc"
@@ -5325,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "CALCINACCI",
+        "url": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179284,
+      "name": "Maledetto me",
+      "url": "https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6"
+    },
+    {
+      "album": {
         "name": "MET GALA",
         "url": "https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh"
       },
@@ -5582,7 +5654,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 188833,
       "name": "METROPOLI SOLITUDINE",
       "url": "https://open.spotify.com/track/3JwOXrqx4weUHMVRMH1zFJ"
@@ -5662,6 +5734,28 @@
       "duration_ms": 211875,
       "name": "Mi Ami Mi Odi",
       "url": "https://open.spotify.com/track/1oHT9T42XDgyL2cOWEkfXu"
+    },
+    {
+      "album": {
+        "name": "CHE ME NE FACCIO DEL TEMPO",
+        "url": "https://open.spotify.com/album/1MPfUw0Es9PDTe1UL5j5sE"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        },
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249688,
+      "name": "mi penserai (feat. Elisa)",
+      "url": "https://open.spotify.com/track/1tS52FPgeSjlDnGyZWMkgH"
     },
     {
       "album": {
@@ -5826,7 +5920,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 170222,
       "name": "Millemila Missili",
       "url": "https://open.spotify.com/track/07WaD3eZhsXtVMJsi2tXmq"
@@ -7986,7 +8080,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 137898,
       "name": "RoseRovi",
       "url": "https://open.spotify.com/track/0ipLTHBWpIfrbAJdTWBIdt"
@@ -8260,6 +8354,24 @@
       "duration_ms": 190611,
       "name": "Se t'innamori muori",
       "url": "https://open.spotify.com/track/3AsxA8OP70vvXHhhR4zKoR"
+    },
+    {
+      "album": {
+        "name": "sei solo tu",
+        "url": "https://open.spotify.com/album/1wznGiADjF8ERLSC05hq9f"
+      },
+      "artists": [
+        {
+          "name": "cmqmartina",
+          "url": "https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "sei solo tu",
+      "url": "https://open.spotify.com/track/2OJ4w8QBNNIeqyfQH9aRES"
     },
     {
       "album": {
@@ -8653,6 +8765,24 @@
     },
     {
       "album": {
+        "name": "Sola tra le nuvole",
+        "url": "https://open.spotify.com/album/51J9ti5vtDQtbo5Bg01KN7"
+      },
+      "artists": [
+        {
+          "name": "Roshelle",
+          "url": "https://open.spotify.com/artist/05OYdU3diEpNYjaAHNaZTt"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169052,
+      "name": "Sola tra le nuvole",
+      "url": "https://open.spotify.com/track/1ymFUjTSxfAyPGlx1YrfSv"
+    },
+    {
+      "album": {
         "name": "SOLO GUAI",
         "url": "https://open.spotify.com/album/3hOp0inAva2WbhNclSjxcY"
       },
@@ -8866,7 +8996,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 171391,
       "name": "SPIAGGE",
       "url": "https://open.spotify.com/track/29vydXyOsVviJH0xuQammy"
@@ -9070,7 +9200,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 182307,
       "name": "Stupida Vita",
       "url": "https://open.spotify.com/track/0nCcnpWjuC3Ti5I6Fqtkpv"
@@ -9374,7 +9504,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 199000,
       "name": "ti prego non piangere",
       "url": "https://open.spotify.com/track/02Gl9tZhIu0BguKv3GTYgB"
@@ -9530,6 +9660,24 @@
       "duration_ms": 209664,
       "name": "TU MI PIACI TANTO",
       "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
+    },
+    {
+      "album": {
+        "name": "tu non vuoi nessuno",
+        "url": "https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z"
+      },
+      "artists": [
+        {
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202539,
+      "name": "tu non vuoi nessuno",
+      "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"
     },
     {
       "album": {
@@ -9856,7 +10004,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 169342,
       "name": "URAGANI",
       "url": "https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm"
@@ -9900,6 +10048,28 @@
       "duration_ms": 160268,
       "name": "vabb\u00e8 ciao",
       "url": "https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG"
+    },
+    {
+      "album": {
+        "name": "VACCI PIANO (feat. Rkomi)",
+        "url": "https://open.spotify.com/album/1Ntc1XTLjhjPSHStfXhu1U"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200316,
+      "name": "VACCI PIANO (feat. Rkomi)",
+      "url": "https://open.spotify.com/track/4vF4VnzL47EVsZZEVsEfbF"
     },
     {
       "album": {

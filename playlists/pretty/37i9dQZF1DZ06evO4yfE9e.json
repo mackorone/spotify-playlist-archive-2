@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAABJrjFwFOCOFD2/TgIqLOBm",
+  "snapshot_id": "abCwgAAAAAAgwu0IFOG+A6nMW8Q7j7Tz",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 158996,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 147836,
       "name": "Self Destruction Mode",
       "url": "https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "End Of The World",
-      "url": "https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr"
     },
     {
       "added_at": null,

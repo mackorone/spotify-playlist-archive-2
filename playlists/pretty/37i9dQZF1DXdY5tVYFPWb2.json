@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 180421,
+  "num_followers": 180441,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "Guess Who?",
-        "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "NEW ERA",
-      "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "Purple Dream",
         "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 256096,
       "name": "Purple Dream",
       "url": "https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "Guess Who?",
+        "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "NEW ERA",
+      "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -847,6 +847,30 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
+        "name": "\u5b66\u82b8\u5927\u524d",
+        "url": "https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        }
+      ],
+      "duration_ms": 216631,
+      "name": "\u5b66\u82b8\u5927\u524d",
+      "url": "https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
         "name": "DAILY BOP",
         "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
@@ -895,26 +919,18 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "\u5b66\u82b8\u5927\u524d",
-        "url": "https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6"
+        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
       },
       "artists": [
         {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        },
-        {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 216631,
-      "name": "\u5b66\u82b8\u5927\u524d",
-      "url": "https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj"
+      "duration_ms": 195900,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -951,18 +967,18 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
+        "name": "from JAPAN 2",
+        "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
       },
       "artists": [
         {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
         }
       ],
-      "duration_ms": 195900,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
+      "duration_ms": 275973,
+      "name": "\u9769\u547d\u524d\u591c",
+      "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -983,22 +999,6 @@
       "duration_ms": 254929,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
-        "name": "from JAPAN 2",
-        "url": "https://open.spotify.com/album/6MQkhc7AduXNgGCv43WCxl"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 275973,
-      "name": "\u9769\u547d\u524d\u591c",
-      "url": "https://open.spotify.com/track/2vOeE2Uh2UDG5jow8F2WQ9"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "\u90fd\u4f1a",
-        "url": "https://open.spotify.com/album/2CVJQOZdKSRmMhQiEhjo7a"
-      },
-      "artists": [
-        {
-          "name": "Noriyuki Makihara",
-          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
-        },
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 283372,
-      "name": "\u90fd\u4f1a",
-      "url": "https://open.spotify.com/track/1eiWsSi1C4KB1L2IMEIKrI"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "NEW GRAVITY",
         "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 228733,
       "name": "ASH feat. Vaundy",
       "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "\u90fd\u4f1a",
+        "url": "https://open.spotify.com/album/2CVJQOZdKSRmMhQiEhjo7a"
+      },
+      "artists": [
+        {
+          "name": "Noriyuki Makihara",
+          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
+        },
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283372,
+      "name": "\u90fd\u4f1a",
+      "url": "https://open.spotify.com/track/1eiWsSi1C4KB1L2IMEIKrI"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "Torie",
-        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 234380,
-      "name": "Torie",
-      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "Peppermint Time \uff5e20th Anniversary Best\uff5e",
         "url": "https://open.spotify.com/album/7meBtgpFcPhXVRtwytboHl"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 251266,
       "name": "\u7f8e\u3057\u3044\u9854 - with \u793c\u8cdb",
       "url": "https://open.spotify.com/track/2SwIWPeV9dvmFF4O5d0nUc"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "CYM",
+        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "CYM",
+      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "CYM",
-        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "CYM",
-      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
         "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 255293,
       "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
       "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "Torie",
+        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 234380,
+      "name": "Torie",
+      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "MUSIC WARDROBE",
-        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 225680,
-      "name": "Don't Be Someone Else",
-      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "RIDE ON TIME",
         "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 244752,
       "name": "RIDE ON TIME",
       "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "MUSIC WARDROBE",
+        "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 225680,
+      "name": "Don't Be Someone Else",
+      "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "Rainy Runway",
-        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 241680,
-      "name": "Rainy Runway",
-      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "CITY POP LOVERS",
         "url": "https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "Rainy Runway",
+        "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 241680,
+      "name": "Rainy Runway",
+      "url": "https://open.spotify.com/track/3bkWf5QEbNlshZMmGcYxbK"
     },
     {
       "added_at": "2026-03-03 15:00:38",

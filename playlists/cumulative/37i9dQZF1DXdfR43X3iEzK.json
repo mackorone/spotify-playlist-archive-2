@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "my alt/pop could mean anything \u2694\ufe0f\ncover: bella kay",
+  "description": "my alt/pop could mean anything \u2694\ufe0f\ncover: lykke li",
   "name": "alt/pop",
   "tracks": [
     {
@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3xtFJ2mgU28ki0LKSbzoVy"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4Cz1qB2T6oJH6JxSrj9bxC"
+    },
+    {
+      "album": {
         "name": "Angel Blonde (that's life!)",
         "url": "https://open.spotify.com/album/4FEZfwljIUtEk4MVPWk7bO"
       },
@@ -794,6 +812,24 @@
       "duration_ms": 212750,
       "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
       "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "album": {
+        "name": "Antihistamine",
+        "url": "https://open.spotify.com/album/59Eqptt4nEwOPcMVb8mGcL"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169786,
+      "name": "Antihistamine",
+      "url": "https://open.spotify.com/track/1Y2UbnQCMIJQczK5gii5Bp"
     },
     {
       "album": {
@@ -1326,6 +1362,24 @@
       "duration_ms": 186405,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ"
+    },
+    {
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2"
     },
     {
       "album": {
@@ -1866,7 +1920,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 170106,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
@@ -3359,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/21S9OMKqLkJdLjNHRzGYH0"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "Feel Something",
+      "url": "https://open.spotify.com/track/0Rdt95TmRN3kzIesX6mUl4"
+    },
+    {
+      "album": {
         "name": "Figure It Out",
         "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
       },
@@ -4252,7 +4324,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 283058,
       "name": "hairgrow",
       "url": "https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i"
@@ -4526,6 +4598,24 @@
       "duration_ms": 149624,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
+    },
+    {
+      "album": {
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/6BfQzQ2UkZpOOAeIlt9C27"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248619,
+      "name": "Hope More, Hopeless",
+      "url": "https://open.spotify.com/track/5KF3rlMLECKRDzmQret8xh"
     },
     {
       "album": {
@@ -4810,7 +4900,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 233740,
       "name": "I Make Me Wanna Go Dancing With Me",
       "url": "https://open.spotify.com/track/7n1LlN3SlJIrBV05GLCOet"
@@ -5030,7 +5120,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 127235,
       "name": "Icicle",
       "url": "https://open.spotify.com/track/5oFy62w5nGBpWJOLrgGXiw"
@@ -5748,6 +5838,24 @@
       "duration_ms": 136601,
       "name": "kinda smacks",
       "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+    },
+    {
+      "album": {
+        "name": "Knife In The Heart",
+        "url": "https://open.spotify.com/album/3hUVYAg62w5WHRDCZOaG6A"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177592,
+      "name": "Knife In The Heart",
+      "url": "https://open.spotify.com/track/6fRC7I0hHY6cEhHVGIu3L3"
     },
     {
       "album": {
@@ -6879,6 +6987,28 @@
     },
     {
       "album": {
+        "name": "Motorbike",
+        "url": "https://open.spotify.com/album/3g8CdYNlaInal9o0E9OrhI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Nash",
+          "url": "https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A"
+        },
+        {
+          "name": "Jack Dean",
+          "url": "https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/6R0OvH67EEmD8zfaC8c7r4"
+    },
+    {
+      "album": {
         "name": "Mr. Cool",
         "url": "https://open.spotify.com/album/0WWOtu5YJdA6KPxZj9Z6dn"
       },
@@ -7688,7 +7818,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 129986,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/0QDpFGGK0vPADxypanLHVz"
@@ -7822,6 +7952,24 @@
       "duration_ms": 170767,
       "name": "Play The Part",
       "url": "https://open.spotify.com/track/2EgFDDSbJ1OzhPsmYqmQsf"
+    },
+    {
+      "album": {
+        "name": "Pluto Baby",
+        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Pluto Baby",
+      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
     },
     {
       "album": {
@@ -7998,7 +8146,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 175328,
       "name": "professional heartbreaker",
       "url": "https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH"
@@ -8060,6 +8208,24 @@
       "duration_ms": 244844,
       "name": "Psychoboost feat danny brown",
       "url": "https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL"
+    },
+    {
+      "album": {
+        "name": "Bought Me A Guitar",
+        "url": "https://open.spotify.com/album/4Vqylkfp1XEmdwx533duY1"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/16xeq3pPRpd5tkD57fMJqY"
     },
     {
       "album": {
@@ -8424,7 +8590,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 170579,
       "name": "Rock A Bye Baby",
       "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
@@ -8839,6 +9005,24 @@
     },
     {
       "album": {
+        "name": "Big Disgrace",
+        "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196639,
+      "name": "Showgirl At Heart",
+      "url": "https://open.spotify.com/track/6HXZJMT1gtnLFjIlPrZO2Y"
+    },
+    {
+      "album": {
         "name": "Think They\u2019re Looking, Let's Perform",
         "url": "https://open.spotify.com/album/3J4dEQWW7RnP3VyiYFY7Et"
       },
@@ -8886,7 +9070,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 119885,
       "name": "Sick Of It",
       "url": "https://open.spotify.com/track/367AQlJCgsxSJv0MYRQXCh"
@@ -10338,7 +10522,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 220534,
       "name": "viscus (feat. FKA twigs)",
       "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
@@ -10684,7 +10868,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 185174,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/6ByihEGX73B1cMlcw78bvO"

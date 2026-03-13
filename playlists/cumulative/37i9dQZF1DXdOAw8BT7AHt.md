@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Upchuck
 
-627 songs - 1 day 7 hr 21 min
+629 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [COLD BEER](https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [GENRELESS](https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E) | 1:41 | 2022-12-02 | 2023-11-18 |
 | [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 | 2025-02-07 | 2025-07-08 |
 | [Common Sense](https://open.spotify.com/track/6I9nwHabyomUdktg1UdRB6) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Common Sense](https://open.spotify.com/album/5F8QDHfvbt0AeI1CcYcim6) | 3:11 | 2025-09-04 |  |
+| [CONSTANT TENSION](https://open.spotify.com/track/1kg6BZB8zpWDJTgSbCEItf) | [Held.](https://open.spotify.com/artist/3ZOzZEPo5kM5QZlfdF6vgm) | [CONSTANT TENSION](https://open.spotify.com/album/1iV9MAhNCLtM2d9X6FTqZ6) | 5:00 | 2026-03-06 |  |
 | [Cool Blue](https://open.spotify.com/track/5HdP3y9pZjo98y9u0aeACn) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Cool Blue](https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ) | 3:09 | 2023-01-18 | 2023-03-21 |
 | [Cortana](https://open.spotify.com/track/5S8uaR4agezNu546qCj9oq) | [Enola Gay](https://open.spotify.com/artist/1CT7BjCVYK5vr9SNr7WlEP) | [Cortana](https://open.spotify.com/album/0KEX1AH5HtdSdVfTGyLrKh) | 3:41 | 2024-10-10 | 2024-11-10 |
 | [Count The Miles](https://open.spotify.com/track/26WzPaRzV6z0TeVffQBIIG) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [There's Love In This World If You Want It](https://open.spotify.com/album/2yFT16aiGIbFbeCTYVsmw7) | 1:58 | 2025-07-04 | 2025-10-04 |
@@ -292,7 +293,7 @@
 | [I Hate the Internet](https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [I Hate the Internet / True Devotion](https://open.spotify.com/album/54w7HgMTJI295pdatRThsz) | 2:53 | 2025-02-07 | 2025-02-20 |
 | [i know computer](https://open.spotify.com/track/6BkoN5C3zXneLNa4nciVQn) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [i know computer](https://open.spotify.com/album/3i6qKYoMeTRjsdyZD0uO3a) | 2:19 | 2026-02-06 |  |
 | [I Know Where Mark Chen Lives](https://open.spotify.com/track/7zvZ18HvFVsR9O9B0vn47c) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/2PomJEqfBluQI4uE6hPQEJ) | 1:50 | 2026-02-06 |  |
-| [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 | 2025-02-21 |  |
+| [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 | 2025-02-21 | 2026-03-13 |
 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 | 2025-10-03 |  |
 | [I should've listened to my friends](https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [I should've listened to my friends](https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO) | 2:46 | 2022-12-02 | 2023-03-26 |
 | [I Steal What I Want](https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED](https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ) | 2:06 | 2025-07-31 | 2025-09-05 |
@@ -305,6 +306,7 @@
 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-20 | 2024-06-01 |
 | [In Dreams](https://open.spotify.com/track/5Sp9hBvN38UIMxyfSdiajR) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [Sailor Honeymoon](https://open.spotify.com/album/7CtXNAGCnIfmO5cbVQR9dg) | 2:37 | 2024-05-31 | 2024-06-15 |
 | [In The Flesh](https://open.spotify.com/track/7h3XDCvLUgYt2t4DEf96Ro) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [In The Flesh](https://open.spotify.com/album/4COHHNiG8j5AoJ0a8fVpl6) | 2:00 | 2022-12-02 | 2023-01-19 |
+| [INFECTED](https://open.spotify.com/track/3p9FdKbV4rIeIiJUjtr4Dm) | [VIAL](https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf) | [HELLHOUND](https://open.spotify.com/album/1oa3NykGHO2mXkEGN3AIVj) | 2:26 | 2026-03-06 |  |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-05-31 | 2025-05-09 |
 | [Iron Feet](https://open.spotify.com/track/4HDGRiM06AJMNVkmTaC59z) | [YHWH Nailgun](https://open.spotify.com/artist/2StXQyMrlYk1wWVX72InuJ) | [45 Pounds](https://open.spotify.com/album/1uch3WTm8HyawghHDBsyXZ) | 1:45 | 2025-05-08 | 2025-07-05 |
 | [Irreversible](https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Irreversible](https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5) | 3:13 | 2026-02-06 |  |
@@ -523,7 +525,7 @@
 | [Star 6 9](https://open.spotify.com/track/0e2aRqnNEkLc1NDgVpfSuP) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 3:11 | 2025-10-03 |  |
 | [Starchild](https://open.spotify.com/track/2ONJqI5a3K4NCyc6Q8zJvm) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K), [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh) | [Raw Muscular Power](https://open.spotify.com/album/2BvKVJUekDhsnxW2jPBmxM) | 2:14 | 2025-02-21 | 2025-05-09 |
 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 | 2025-07-19 | 2026-02-07 |
-| [Stepping On A Rake](https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Fairyland Codex](https://open.spotify.com/album/2SCljWoTOQQORfiWbtGL5j) | 3:47 | 2025-07-04 |  |
+| [Stepping On A Rake](https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Fairyland Codex](https://open.spotify.com/album/2SCljWoTOQQORfiWbtGL5j) | 3:47 | 2025-07-04 | 2026-03-13 |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-12-02 | 2023-11-18 |
 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 | 2024-04-25 | 2024-06-22 |
 | [Still Suffer](https://open.spotify.com/track/3LmmBjYGnrWIaHpRyGauAG) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Still Suffer](https://open.spotify.com/album/0CF9wC1tCIb89Z63FOZSaG) | 2:24 | 2026-02-27 |  |

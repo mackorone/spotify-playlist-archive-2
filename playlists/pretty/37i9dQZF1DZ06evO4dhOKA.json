@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 69239,
+  "num_followers": 69251,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAABKsbvvSch9N2V5jjX5QSCb",
+  "snapshot_id": "abCwgAAAAAA1rpfRtjVXsBTsH9KMZgWf",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta El After (En Vivo)",
-        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
       },
       "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 188042,
-      "name": "Playa Sola (En Vivo)",
-      "url": "https://open.spotify.com/track/13N6PN6q0jGaj28zVgJzNw"
+      "duration_ms": 165653,
+      "name": "A Punto De Marcharme - Remastered",
+      "url": "https://open.spotify.com/track/6jb7fBU3VDJS2rcHfAZIQH"
     },
     {
       "added_at": null,
@@ -507,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
+        "name": "La Borrachera Perfecta El After (En Vivo)",
+        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
       "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165653,
-      "name": "A Punto De Marcharme - Remastered",
-      "url": "https://open.spotify.com/track/6jb7fBU3VDJS2rcHfAZIQH"
+      "duration_ms": 188042,
+      "name": "Playa Sola (En Vivo)",
+      "url": "https://open.spotify.com/track/13N6PN6q0jGaj28zVgJzNw"
     },
     {
       "added_at": null,
@@ -899,30 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapayeka (En Vivo)",
-        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 155250,
-      "name": "Tragos de Amargo Licor (En Vivo)",
-      "url": "https://open.spotify.com/track/3RBmPRXKcOe3kbQ3WonU1R"
+      "duration_ms": 174173,
+      "name": "Gorrion Errante",
+      "url": "https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb"
     },
     {
       "added_at": null,
@@ -951,18 +939,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
+        "name": "Chapayeka (En Vivo)",
+        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
       },
       "artists": [
         {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 174173,
-      "name": "Gorrion Errante",
-      "url": "https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb"
+      "duration_ms": 155250,
+      "name": "Tragos de Amargo Licor (En Vivo)",
+      "url": "https://open.spotify.com/track/3RBmPRXKcOe3kbQ3WonU1R"
     },
     {
       "added_at": null,

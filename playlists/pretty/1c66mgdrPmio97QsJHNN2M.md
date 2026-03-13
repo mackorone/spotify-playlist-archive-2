@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,177 likes - 306 songs - 15 hr 47 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,182 likes - 312 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,5 +314,11 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 304 | [Got What You Wanted](https://open.spotify.com/track/3ror7WRrkgwHorcSy4n8v9) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Got What You Wanted](https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b) | 2:42 |
 | 305 | [Lost in time](https://open.spotify.com/track/7poYY2ktNuorWC2l30TPNP) | [Tomos Withano](https://open.spotify.com/artist/3qoKqlGIP6UNXnxvEQfWzp) | [The seagull has landed](https://open.spotify.com/album/2tXnOFf6oll6WHyMPZb9nN) | 2:41 |
 | 306 | [Double Dutch Bus](https://open.spotify.com/track/64diiJOtWsDv3Yfiiy0UCW) | [Nada UV](https://open.spotify.com/artist/4musO8DBvt9mUrWmR3PUQc) | [Double Dutch Bus](https://open.spotify.com/album/0SV0BXpRj3m5YQnoSuaHiQ) | 4:10 |
+| 307 | [Can't You See](https://open.spotify.com/track/6qc3wycEQ8YQV5dJYjO8fe) | [Costa Music](https://open.spotify.com/artist/2MizJsi3uuTkCPZQtydDw0), [JILIAAN](https://open.spotify.com/artist/17yyfQ7wzJe81fBROPmErz) | [Can't You See](https://open.spotify.com/album/2PaNcoJtA72K6VTWhMPbLW) | 2:48 |
+| 308 | [I'm letting go](https://open.spotify.com/track/56v1Hz6GMZtMNet7Ae9HwU) | [Kindred Morning](https://open.spotify.com/artist/69pU7Fz84uEcxa7YlcfAAC) | [I'm letting go](https://open.spotify.com/album/4T0S3RSSgO8TcIbYqVCMVf) | 2:49 |
+| 309 | [Big City](https://open.spotify.com/track/5BYoDRCWOj8zDc7Frujd9F) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [What The Moon Doesn't Tell The Sun](https://open.spotify.com/album/3qYwKbKVXTEvl8uIZFhhiJ) | 2:47 |
+| 310 | [Caught in the motion](https://open.spotify.com/track/5lrTQX1qN9BOSp3OXCjN82) | [Daria Diva](https://open.spotify.com/artist/00tyx6ZhSGWk8D3hU4kx9n) | [Caught in the motion](https://open.spotify.com/album/1P3A5hh804ZSOoStR807La) | 1:17 |
+| 311 | [Love Forever](https://open.spotify.com/track/1B0oJwUpdX8liSVWHjSoBp) | [T.Ai.S](https://open.spotify.com/artist/4mesYLCZ2JPvWBMvImr8nH) | [Love Forever](https://open.spotify.com/album/5mbRemwzSYj3KxrblwLPIq) | 3:16 |
+| 312 | [The Past Is Present](https://open.spotify.com/track/0vsQjuXEr9nZFzcFoHBKyT) | [TJ Jones](https://open.spotify.com/artist/3PEeM3BXrH0nqzy8luUw3F) | [The Past Is Present](https://open.spotify.com/album/6pEp4Z4yvGrZRQ9uHQoa3P) | 2:12 |
 
-Snapshot ID: `AAA1rQNsrfTnmB0xMPfWTBrFnhf9wxug`
+Snapshot ID: `AAA1s75VND2XrY47eZxwMBBYmNkiVlxI`

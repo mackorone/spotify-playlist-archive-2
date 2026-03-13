@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,280 songs - 3 day 6 hr 31 min
+1,282 songs - 3 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Aviation](https://open.spotify.com/track/2cop62KNgi55QqIozb5bMf) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:43 | 2020-01-31 |  |
 | [Baby](https://open.spotify.com/track/0B8GZ9M3tZSiFuIkhFqcEO) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Stardust](https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X) | 3:03 | 2025-12-02 |  |
 | [Baby](https://open.spotify.com/track/2yvVFLyD8BYgaRf3SiMFmk) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:58 | 2024-06-29 |  |
+| [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 | 2026-03-13 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 2:32 | 2021-10-31 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-01-20 |  |
 | [Back by Popular Demand 1 1](https://open.spotify.com/track/1mkBeCkn7jb8ax2n3HylU7) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [quad didnt mean to](https://open.spotify.com/album/7ucLe0eL8tclCz3FekcYyn) | 1:48 | 2022-08-17 |  |
@@ -982,6 +983,7 @@
 | [Snap Back](https://open.spotify.com/track/5QPGnFslbDUQ7mDteKn3By) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:30 | 2024-05-23 |  |
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2021-08-15 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2022-12-10 |  |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-03-13 |  |
 | [Soft Currents](https://open.spotify.com/track/0Ew6HikxOkDLjoTPQIN0BL) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8) | 3:11 | 2022-07-23 |  |
 | [Solitude Is Bliss](https://open.spotify.com/track/6ZOYiRAgRpfAMJQKUWJPje) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 3:55 | 2021-04-30 |  |
 | [Solo Dolo, Pt\. III](https://open.spotify.com/track/27oVCAziETRbNuo5A8LNpg) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 4:02 | 2022-04-07 |  |

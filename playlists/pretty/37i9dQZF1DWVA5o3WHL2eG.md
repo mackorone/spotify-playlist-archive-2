@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mary Middlefield
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,288 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,278 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 33 | [Band Aid](https://open.spotify.com/track/4E6CeKP3IPqUE6uIucYp2L) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Band Aid](https://open.spotify.com/album/2kRRn2FQLjiJdVKyApllQN) | 4:36 |
 | 34 | [venedig](https://open.spotify.com/track/6wtaikaFM89NrXfXvKYTYv) | [Caro Schaeffler](https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB) | [venedig](https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd) | 3:25 |
 | 35 | [Nein sagen](https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Nein sagen](https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5) | 2:24 |
-| 36 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 |
-| 37 | [ZICKZACK](https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [ZICKZACK](https://open.spotify.com/album/46vocArEiFAjtgffnrUp73) | 2:21 |
-| 38 | [Nike Shox](https://open.spotify.com/track/7snTBRoLMEtNVsIhrliPjO) | [AVY](https://open.spotify.com/artist/1QtJHKvmKyBtgZjAbhADM6) | [Nike Shox](https://open.spotify.com/album/1O4OQRbrXJxRM6Q8zb4lcL) | 2:51 |
-| 39 | [Schenke mir ein](https://open.spotify.com/track/1nh7tFgkfO0Q7B6EAdUaJ2) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Schenke mir ein / Musik ist kein Krieg](https://open.spotify.com/album/31R7dXKQ2RAX1JSdX3slWj) | 3:36 |
+| 36 | [ZICKZACK](https://open.spotify.com/track/6IyG0s74WqBSg2hor0Fk31) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [ZICKZACK](https://open.spotify.com/album/46vocArEiFAjtgffnrUp73) | 2:21 |
+| 37 | [3/10](https://open.spotify.com/track/1peGM7tnZvury4ZMopjcxl) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [3/10](https://open.spotify.com/album/7Hv8fbFT8TqvGGjOhQ75IA) | 2:22 |
+| 38 | [Schenke mir ein](https://open.spotify.com/track/1nh7tFgkfO0Q7B6EAdUaJ2) | [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Schenke mir ein / Musik ist kein Krieg](https://open.spotify.com/album/31R7dXKQ2RAX1JSdX3slWj) | 3:36 |
+| 39 | [Nike Shox](https://open.spotify.com/track/7snTBRoLMEtNVsIhrliPjO) | [AVY](https://open.spotify.com/artist/1QtJHKvmKyBtgZjAbhADM6) | [Nike Shox](https://open.spotify.com/album/1O4OQRbrXJxRM6Q8zb4lcL) | 2:51 |
 | 40 | [MEER](https://open.spotify.com/track/64S9AfNoT9Ru73N9kmS2u3) | [ENNI](https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW) | [MEER](https://open.spotify.com/album/1EGSQlGxOxYbZfHZU9EG4v) | 2:05 |
 | 41 | [Tiger](https://open.spotify.com/track/0KFXKZvilUouJaTQUl4Mg6) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [TIGER](https://open.spotify.com/album/1udAdZmUV9vGZUutFSOtQ5) | 1:50 |
 | 42 | [Wenn ich du wäre](https://open.spotify.com/track/5PuU9r35GQIISF2WkywOca) | [LARYSSA](https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa) | [Wenn ich du wäre](https://open.spotify.com/album/5KENc1diJ6AMquXmUkhyGE) | 2:21 |

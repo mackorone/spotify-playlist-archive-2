@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Kler",
+  "description": "\"\u0442\u0438 \u043c\u0456\u0439 \u0431\u0456\u043b\u044c, \u0442\u0438 \u043c\u0456\u0439 \u044f\u0434, \u0434\u0443\u0436\u0435 \u043d\u0440\u0430\u0432\u0438\u0446\u044f \u043d\u0430\u0440\u044f\u0434\" - \u0411\u0420\u0418\u041a\u0423\u041b\u0415\u0426\u042c \u043d\u0430 \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u0446\u0456 \ud83e\udea9",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -3695,6 +3695,24 @@
     },
     {
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/0eGTBT1Wj4Z7xMCMiZlr8K"
+      },
+      "artists": [
+        {
+          "name": "Ready In LED",
+          "url": "https://open.spotify.com/artist/6VfpeLTukyuFbKMgQdeNkZ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296727,
+      "name": "Secret Life",
+      "url": "https://open.spotify.com/track/6PQtZW5UsdKmKwimxqMWZP"
+    },
+    {
+      "album": {
         "name": "Something Beautiful (Deluxe)",
         "url": "https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb"
       },
@@ -5788,7 +5806,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 202590,
       "name": "\u0413\u0430\u043b\u0456\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr"
@@ -6310,7 +6328,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 214805,
       "name": "\u0417\u0430\u043c\u043e\u0432\u043a\u043d\u0438",
       "url": "https://open.spotify.com/track/0ltZdRsQAnuKUuMqEz3WJG"
@@ -7330,7 +7348,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 213625,
       "name": "\u041d\u0430 \u0432\u0456\u043d\u0456\u043b\u0456",
       "url": "https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh"
@@ -8011,6 +8029,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u041b\u044e\u0431\u043e\u0432",
+        "url": "https://open.spotify.com/album/02YDrFazc8gNAffv1QtgD0"
+      },
+      "artists": [
+        {
+          "name": "BRYKULETS",
+          "url": "https://open.spotify.com/artist/7JThbRHgQpaRM87SKqPqoB"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u041b\u044e\u0431\u043e\u0432",
+      "url": "https://open.spotify.com/track/0B0M2ArQ6G5Sq3c70s6aC2"
+    },
+    {
+      "album": {
         "name": "\u041f\u043e\u0431\u0430\u0447\u0435\u043d\u043d\u044f",
         "url": "https://open.spotify.com/album/1KwDuPszgCNdB6cSxYg1FB"
       },
@@ -8454,6 +8490,24 @@
       "duration_ms": 145227,
       "name": "\u0441\u0435\u0440\u0435\u043d\u0430\u0434\u0438",
       "url": "https://open.spotify.com/track/5MjTUX9i3mDWv22Ns2Ekj2"
+    },
+    {
+      "album": {
+        "name": "\u0421\u043b\u044c\u043e\u0437\u0438",
+        "url": "https://open.spotify.com/album/0NFd9fnA9iU96YfRhxpBgl"
+      },
+      "artists": [
+        {
+          "name": "MAX BARSKIH",
+          "url": "https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "\u0421\u043b\u044c\u043e\u0437\u0438",
+      "url": "https://open.spotify.com/track/3eHtHXdvwkCzptoyGWoAN0"
     },
     {
       "album": {
@@ -9340,7 +9394,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 164543,
       "name": "\u0427\u041e\u041c\u0423",
       "url": "https://open.spotify.com/track/4mj7zAZwUpCDuPVdZEQlH3"

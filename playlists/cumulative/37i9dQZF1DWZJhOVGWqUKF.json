@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: The Warning",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Shoreline",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236775,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN"
+    },
+    {
+      "album": {
         "name": "20-nine",
         "url": "https://open.spotify.com/album/4QDtYDmy4uR5mE7BP6p6Mi"
       },
@@ -190,6 +208,24 @@
       "duration_ms": 175200,
       "name": "24Seven (feat. Melrose Avenue)",
       "url": "https://open.spotify.com/track/1GcqDUHJETSMWIbN2ShwiM"
+    },
+    {
+      "album": {
+        "name": "595",
+        "url": "https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "595",
+      "url": "https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe"
     },
     {
       "album": {
@@ -2211,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Is This The Low Point Or The Moment After?",
+        "url": "https://open.spotify.com/album/7scnpxa4nBF35V8rpYZD57"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179794,
+      "name": "Brittle Bond",
+      "url": "https://open.spotify.com/track/4oyU6pp47QD2CAFhrtnvRv"
+    },
+    {
+      "album": {
         "name": "Broken Halo",
         "url": "https://open.spotify.com/album/04j1OTKs16Db2n40x6Hrh4"
       },
@@ -2410,7 +2464,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 192705,
       "name": "Can You Feel the Pain",
       "url": "https://open.spotify.com/track/2oPsRSnRmWBYYMKNsmj7J0"
@@ -3674,7 +3728,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203712,
       "name": "Dear Jane Doe",
       "url": "https://open.spotify.com/track/19Oo1mY5WJLkKP9R1UE0Z2"
@@ -3852,7 +3906,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 157727,
       "name": "Devil's Parade",
       "url": "https://open.spotify.com/track/35bfMen0lAhDNayRrBTWsB"
@@ -4441,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "drown",
+        "url": "https://open.spotify.com/album/2oOTzS5MMF69VNdZvNhhHk"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205713,
+      "name": "drown",
+      "url": "https://open.spotify.com/track/4PUaUdhLeOyOjbfQ3bTZqK"
+    },
+    {
+      "album": {
         "name": "Drum Show",
         "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
       },
@@ -4694,7 +4766,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 198349,
       "name": "Evergreen Misery",
       "url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx"
@@ -5140,7 +5212,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 172759,
       "name": "For You",
       "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
@@ -5554,7 +5626,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 163573,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2hUzBxG3ZuLRq66heHfi6R"
@@ -6638,7 +6710,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
@@ -7878,7 +7950,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 202544,
       "name": "LAST_SUMMER",
       "url": "https://open.spotify.com/track/17IGz9FX8iJ0tNJ0ZPI5zL"
@@ -8802,7 +8874,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 188607,
       "name": "Make It Make Sense",
       "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
@@ -11086,7 +11158,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 182906,
       "name": "Pushing 30",
       "url": "https://open.spotify.com/track/6dGTkfzM60Lmeih8xmV8sH"
@@ -11462,6 +11534,24 @@
       "duration_ms": 237272,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/5WHOmYg1NWhKPkCpv8pFqT"
+    },
+    {
+      "album": {
+        "name": "More Stereo Crush",
+        "url": "https://open.spotify.com/album/02tGpC1nX21gpVQpuCM2mP"
+      },
+      "artists": [
+        {
+          "name": "Gotthard",
+          "url": "https://open.spotify.com/artist/4DwhNqibDIsxIamSxWb7tQ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195488,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/0uFw1MhbUZNb2GuOnM2azL"
     },
     {
       "album": {
@@ -14140,7 +14230,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 211000,
       "name": "THE WEDDING",
       "url": "https://open.spotify.com/track/4ma20LiOfd493n1kQQ530Y"
@@ -14678,7 +14768,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203721,
       "name": "Two Lives",
       "url": "https://open.spotify.com/track/19oMSD5t0vTmBKR5SICuzF"
@@ -15094,7 +15184,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 232213,
       "name": "Viva La Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/4ftjCNlSGBvGlKsqyAW1YP"
@@ -15535,6 +15625,24 @@
     },
     {
       "album": {
+        "name": "When I Wake Up",
+        "url": "https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214290,
+      "name": "When I Wake Up",
+      "url": "https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO"
+    },
+    {
+      "album": {
         "name": "Something Witty",
         "url": "https://open.spotify.com/album/3MIRAg9YarXUiDZUgb4hZV"
       },
@@ -15582,7 +15690,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 216646,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"

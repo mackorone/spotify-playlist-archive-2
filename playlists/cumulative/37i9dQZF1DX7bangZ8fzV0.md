@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Riaan Benadé
+> Net die beste Afrikaanse musiek! Omslag: JACOBUS
 
 372 songs - 20 hr 34 min
 

@@ -13455,6 +13455,28 @@
     },
     {
       "album": {
+        "name": "Savannah 2026 (Japanese Version)",
+        "url": "https://open.spotify.com/album/2e07qaqjNokyuGhUc1aSmF"
+      },
+      "artists": [
+        {
+          "name": "Diviners",
+          "url": "https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA"
+        },
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190694,
+      "name": "Savannah 2026 - Japanese Version",
+      "url": "https://open.spotify.com/track/1OQFq2EHr4tjLsJF6IaKWg"
+    },
+    {
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/0RH4YAz924r8FUwRsg8Uxk"
       },

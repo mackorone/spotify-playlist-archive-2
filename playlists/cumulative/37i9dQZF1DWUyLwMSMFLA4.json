@@ -2475,6 +2475,28 @@
     },
     {
       "album": {
+        "name": "Y Amigos",
+        "url": "https://open.spotify.com/album/7aY118zqoTPNmZsLc66twq"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "Inventame",
+      "url": "https://open.spotify.com/track/1Ea6SMCRQqN8cpSMpgeqpJ"
+    },
+    {
+      "album": {
         "name": "JBL",
         "url": "https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9"
       },
@@ -5914,7 +5936,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 205893,
       "name": "Tarjetita de Invitacion",
       "url": "https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1"

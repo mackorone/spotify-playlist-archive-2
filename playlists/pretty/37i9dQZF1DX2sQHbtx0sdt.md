@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,266 likes - 85 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,338 likes - 85 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 7 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
 | 8 | [My Fan](https://open.spotify.com/track/6J4Jgnx5PxCeyrJxDmBAG1) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [My Fan](https://open.spotify.com/album/2koHYjVXuawGbr10SRozrX) | 2:45 |
 | 9 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
-| 10 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:36 |
+| 10 | [Let Them Know](https://open.spotify.com/track/2JV8CCmR41XikxtFhrkW9k) | [Digga](https://open.spotify.com/artist/5q6mBqEWDgWrCogSav8Sro) | [Let Them Know](https://open.spotify.com/album/3ugAYLZlvo05YG2Dh7C20c) | 1:36 |
 | 11 | [TNT \(feat\. Nemzzz\)](https://open.spotify.com/track/5XGMPxrNLiKgd5HRa76HPg) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:36 |
 | 12 | [Next Up \- S6\-E16](https://open.spotify.com/track/4rP0N3zBfgq0luIn7UU9aX) | [TEZZ](https://open.spotify.com/artist/5WHEWmX2mtWPpTudevPTzp) | [Next Up \- S6\-E16](https://open.spotify.com/album/3qmoC36FKqn6kWKKlSRU0U) | 1:54 |
 | 13 | [You've Changed](https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [You've Changed](https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr) | 3:15 |

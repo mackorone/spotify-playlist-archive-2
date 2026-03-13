@@ -1285,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/5wpASzqoy8RYE1z2Z5Q0ZR"
+      },
+      "artists": [
+        {
+          "name": "Freja Drakenberg",
+          "url": "https://open.spotify.com/artist/2SKLZYthHIaik4nPTqcboR"
+        },
+        {
+          "name": "Freja The Dragon",
+          "url": "https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140423,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/3cSymxXw4d766eVhnbZfiy"
+    },
+    {
+      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 272200,
       "name": "cypress",
       "url": "https://open.spotify.com/track/4Z9RsUUOjGkSraOB2h8Cbg"
@@ -3088,7 +3110,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
@@ -3770,6 +3792,24 @@
       "duration_ms": 255853,
       "name": "Love is All",
       "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
+    },
+    {
+      "album": {
+        "name": "love isn't everything",
+        "url": "https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77"
+      },
+      "artists": [
+        {
+          "name": "Orange Oak",
+          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207216,
+      "name": "love isn't everything",
+      "url": "https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi"
     },
     {
       "album": {
@@ -5076,6 +5116,24 @@
       "duration_ms": 172007,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3LwI5RofgqphzuUo4TvYdR"
+      },
+      "artists": [
+        {
+          "name": "Jakob Friis",
+          "url": "https://open.spotify.com/artist/4W65uXff8s1QiO5ZoQis5D"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "So Damn Lucky",
+      "url": "https://open.spotify.com/track/7brPUw5WQgZcDkyCPMu5Ft"
     },
     {
       "album": {
@@ -6916,7 +6974,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"

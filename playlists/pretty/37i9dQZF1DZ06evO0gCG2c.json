@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 336799,
+  "num_followers": 336859,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAAAkvLj+fWNXLC1A8WcgeTQR",
+  "snapshot_id": "abCwgAAAAADqsCPhcPWr4e0nJA68bOUB",
   "tracks": [
     {
       "added_at": null,
@@ -659,18 +659,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Deluxe Edition",
-        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+        "name": "Boom Body",
+        "url": "https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN"
       },
       "artists": [
         {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Aidonia",
+          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
         }
       ],
-      "duration_ms": 238493,
-      "name": "Bananza (Belly Dancer)",
-      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
+      "duration_ms": 185333,
+      "name": "Boom Body",
+      "url": "https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE"
     },
     {
       "added_at": null,
@@ -695,26 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boom Body",
-        "url": "https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN"
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Aidonia",
-          "url": "https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Boom Body",
-      "url": "https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE"
+      "duration_ms": 238493,
+      "name": "Bananza (Belly Dancer)",
+      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
     },
     {
       "added_at": null,
@@ -1007,26 +1007,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Now (Na Na Na) [Sped Up]",
-        "url": "https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw"
+        "name": "Second Rounds On Me",
+        "url": "https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5"
       },
       "artists": [
         {
+          "name": "Obie Trice",
+          "url": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        },
-        {
-          "name": "chllxedits",
-          "url": "https://open.spotify.com/artist/7n2FSLSrAtkTAgGtaot7x8"
         }
       ],
-      "duration_ms": 226709,
-      "name": "Right Now (Na Na Na) - Sped Up",
-      "url": "https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba"
+      "duration_ms": 241253,
+      "name": "Snitch",
+      "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"
     }
   ],
   "unique_name": "This Is Akon",

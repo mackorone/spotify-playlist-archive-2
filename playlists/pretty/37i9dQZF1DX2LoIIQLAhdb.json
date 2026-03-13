@@ -1,51 +1,15 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
-  "num_followers": 198208,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
+  "num_followers": 198229,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF1gwLwgr3srVFqu287D5nxj8wxs",
+  "snapshot_id": "AAAAAN0aOK7vSXQSEU2skUODLWHj0jjk",
   "tracks": [
     {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Love & Sugar",
-        "url": "https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 186312,
-      "name": "Red Flag",
-      "url": "https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "OMW",
         "url": "https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07"
@@ -61,123 +25,7 @@
       "url": "https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Avec Toi",
-        "url": "https://open.spotify.com/album/7dDITCMm5RIOovZXTk4sSv"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 163573,
-      "name": "Avec Toi",
-      "url": "https://open.spotify.com/track/0SRQ16wkyqjvwMCaIr6nCJ"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "WINTER PRINCESS",
-        "url": "https://open.spotify.com/album/6Vm796gOTerZXdEIY9SWOo"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
-        },
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 195810,
-      "name": "BOUT DU MONDE",
-      "url": "https://open.spotify.com/track/2pqYrkOIjpN2Yh6ScE715H"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Destin\u00e9e",
-        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 170426,
-      "name": "Anesth\u00e9sie",
-      "url": "https://open.spotify.com/track/6ZdsPi8lY9GTFetA38bGyI"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "RIHANNA",
-        "url": "https://open.spotify.com/album/5I4dgy1hoY6sagt97wS6cj"
-      },
-      "artists": [
-        {
-          "name": "DAKEEZ",
-          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "RIHANNA",
-      "url": "https://open.spotify.com/track/74rFjKlYPfl4BNaayWbffi"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Confiance aux femmes",
-        "url": "https://open.spotify.com/album/73LffjVbc1NETr2r9JkvzB"
-      },
-      "artists": [
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Confiance aux femmes",
-      "url": "https://open.spotify.com/track/1TqB2ryrDVbwQrSHElWAEw"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "MI AMORT",
-        "url": "https://open.spotify.com/album/6jFHDtZGZxITO9B8FO0pOM"
-      },
-      "artists": [
-        {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "MI AMORT",
-      "url": "https://open.spotify.com/track/1QmkRQrpwMtKmD2nKqYygD"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Love & Sugar",
-        "url": "https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 159814,
-      "name": "Shawty",
-      "url": "https://open.spotify.com/track/76DkZEqZZj5zLWDnUaHZU7"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "AVEC MOI",
         "url": "https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA"
@@ -197,74 +45,26 @@
       "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Pardonne moi",
-        "url": "https://open.spotify.com/album/6h6oPvvfyFDC7NNVY21O3H"
+        "name": "Avec Toi",
+        "url": "https://open.spotify.com/album/7dDITCMm5RIOovZXTk4sSv"
       },
       "artists": [
         {
-          "name": "Fleetzy",
-          "url": "https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         }
       ],
-      "duration_ms": 172556,
-      "name": "Pardonne moi",
-      "url": "https://open.spotify.com/track/1CUzytMt6JV11oYqLoAhYP"
+      "duration_ms": 163573,
+      "name": "Avec Toi",
+      "url": "https://open.spotify.com/track/0SRQ16wkyqjvwMCaIr6nCJ"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Comment faire",
-        "url": "https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG"
-      },
-      "artists": [
-        {
-          "name": "Maud Elka",
-          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Comment faire",
-      "url": "https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "MANIA",
-        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "DESTINY",
-      "url": "https://open.spotify.com/track/7HNkaJTsFUWCzb1tiW0j31"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Pression",
-        "url": "https://open.spotify.com/album/5B47198bhoTCOhMDrSPHuB"
-      },
-      "artists": [
-        {
-          "name": "Oordaya",
-          "url": "https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Pression",
-      "url": "https://open.spotify.com/track/2KLfIFfR1PLMXvMthsuAWK"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Pas Trouv\u00e9",
-        "url": "https://open.spotify.com/album/4BWyIVXIgF3lyj9iZ2bxnK"
+        "name": "Love & Sugar",
+        "url": "https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX"
       },
       "artists": [
         {
@@ -272,12 +72,32 @@
           "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 160094,
-      "name": "Pas Trouv\u00e9",
-      "url": "https://open.spotify.com/track/6hXM94JroC6WK9Ahcx3Ats"
+      "duration_ms": 186312,
+      "name": "Red Flag",
+      "url": "https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "CYCLE",
+        "url": "https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Emilie (feat. Rsko)",
+      "url": "https://open.spotify.com/track/3XA7GhI4tk4jTbmSQFIPnB"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "Destin\u00e9e",
         "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
@@ -297,23 +117,79 @@
       "url": "https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Ratpee",
-        "url": "https://open.spotify.com/album/4sZ9dczMkdTEz5jI3X1uxR"
+        "name": "G-POP CLASSIKS .02",
+        "url": "https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp"
       },
       "artists": [
         {
-          "name": "Erwann",
-          "url": "https://open.spotify.com/artist/7JwYIB7nmV29E6Etk6crc1"
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
         }
       ],
-      "duration_ms": 161119,
-      "name": "Ratpee",
-      "url": "https://open.spotify.com/track/5SGigZp4N2psWX9qndgjcw"
+      "duration_ms": 150878,
+      "name": "OFELE",
+      "url": "https://open.spotify.com/track/4DtmqIBYcK7y9u8Z1Dat6m"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "RIHANNA",
+        "url": "https://open.spotify.com/album/5I4dgy1hoY6sagt97wS6cj"
+      },
+      "artists": [
+        {
+          "name": "DAKEEZ",
+          "url": "https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "RIHANNA",
+      "url": "https://open.spotify.com/track/74rFjKlYPfl4BNaayWbffi"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "WINTER PRINCESS",
+        "url": "https://open.spotify.com/album/6Vm796gOTerZXdEIY9SWOo"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        },
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 195810,
+      "name": "BOUT DU MONDE",
+      "url": "https://open.spotify.com/track/2pqYrkOIjpN2Yh6ScE715H"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "Outsider Partie 2 : H\u2019ella Stories",
         "url": "https://open.spotify.com/album/28rSxBv7lmT0lam8Z0jl3E"
@@ -333,55 +209,87 @@
       "url": "https://open.spotify.com/track/2TDCo125JIMJuvgmGHEYma"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Gal\u00e8re sur gal\u00e8re",
-        "url": "https://open.spotify.com/album/2ylHFD2ZHWVh3Cn0O7Em4q"
+        "name": "Destin\u00e9e",
+        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
       },
       "artists": [
         {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 156763,
-      "name": "Gal\u00e8re sur gal\u00e8re",
-      "url": "https://open.spotify.com/track/56mPwjp8KFY0fFJyaRbKoQ"
+      "duration_ms": 170426,
+      "name": "Anesth\u00e9sie",
+      "url": "https://open.spotify.com/track/6ZdsPi8lY9GTFetA38bGyI"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "CH\u00c9RIE COCO",
-        "url": "https://open.spotify.com/album/5i5r4A39FsatsEZEsuLxXK"
+        "name": "MI AMORT",
+        "url": "https://open.spotify.com/album/6jFHDtZGZxITO9B8FO0pOM"
       },
       "artists": [
         {
-          "name": "JEY BROWNIE",
-          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
         }
       ],
-      "duration_ms": 167108,
-      "name": "CH\u00c9RIE COCO",
-      "url": "https://open.spotify.com/track/3EffNWkk8hktq6psmhC3RR"
+      "duration_ms": 189486,
+      "name": "MI AMORT",
+      "url": "https://open.spotify.com/track/1QmkRQrpwMtKmD2nKqYygD"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "BISOUS",
-        "url": "https://open.spotify.com/album/0gVRO0ZLekpgSMM7geLxUW"
+        "name": "Love & Sugar",
+        "url": "https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX"
       },
       "artists": [
         {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 175272,
-      "name": "BISOUS",
-      "url": "https://open.spotify.com/track/3nJL2HAZ5o5pzVWNJmWO13"
+      "duration_ms": 159814,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/76DkZEqZZj5zLWDnUaHZU7"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Confiance aux femmes",
+        "url": "https://open.spotify.com/album/73LffjVbc1NETr2r9JkvzB"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Confiance aux femmes",
+      "url": "https://open.spotify.com/track/1TqB2ryrDVbwQrSHElWAEw"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Comment faire",
+        "url": "https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Comment faire",
+      "url": "https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "CUXI BOY PART III",
         "url": "https://open.spotify.com/album/14t5IfOMHlcOM2h1gJBZ87"
@@ -401,75 +309,87 @@
       "url": "https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/6siQKB9fIqYJYerGT2lgIC"
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
       },
       "artists": [
         {
-          "name": "HARON",
-          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 121613,
-      "name": "21",
-      "url": "https://open.spotify.com/track/0UzGB980ZKeN3J5SfqKi2B"
+      "duration_ms": 227266,
+      "name": "DESTINY",
+      "url": "https://open.spotify.com/track/7HNkaJTsFUWCzb1tiW0j31"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Grand Spectacle",
-        "url": "https://open.spotify.com/album/7HtSug4AGg6dRZ0qTwotlP"
+        "name": "BISOUS",
+        "url": "https://open.spotify.com/album/0gVRO0ZLekpgSMM7geLxUW"
       },
       "artists": [
         {
-          "name": "Arma Jackson",
-          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
         }
       ],
-      "duration_ms": 188953,
-      "name": "Grand Spectacle",
-      "url": "https://open.spotify.com/track/19ugVSsCGrQFSR6YAkH78k"
+      "duration_ms": 175272,
+      "name": "BISOUS",
+      "url": "https://open.spotify.com/track/3nJL2HAZ5o5pzVWNJmWO13"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "Mode Avion",
-        "url": "https://open.spotify.com/album/1cORx4mYsAQarJb9aoCHLJ"
+        "name": "Gal\u00e8re sur gal\u00e8re",
+        "url": "https://open.spotify.com/album/2ylHFD2ZHWVh3Cn0O7Em4q"
       },
       "artists": [
         {
-          "name": "Lynda",
-          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
         }
       ],
-      "duration_ms": 142012,
-      "name": "Mode Avion",
-      "url": "https://open.spotify.com/track/49CGlc4laVFyI6VTcHioal"
+      "duration_ms": 156763,
+      "name": "Gal\u00e8re sur gal\u00e8re",
+      "url": "https://open.spotify.com/track/56mPwjp8KFY0fFJyaRbKoQ"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
-        "name": "MONSIEUR SAUDADE II",
-        "url": "https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt"
+        "name": "Ratpee",
+        "url": "https://open.spotify.com/album/4sZ9dczMkdTEz5jI3X1uxR"
       },
       "artists": [
         {
-          "name": "Abou Tall",
-          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Erwann",
+          "url": "https://open.spotify.com/artist/7JwYIB7nmV29E6Etk6crc1"
         }
       ],
-      "duration_ms": 233866,
-      "name": "LA NUIT",
-      "url": "https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw"
+      "duration_ms": 161119,
+      "name": "Ratpee",
+      "url": "https://open.spotify.com/track/5SGigZp4N2psWX9qndgjcw"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Pardonne moi",
+        "url": "https://open.spotify.com/album/6h6oPvvfyFDC7NNVY21O3H"
+      },
+      "artists": [
+        {
+          "name": "Fleetzy",
+          "url": "https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d"
+        }
+      ],
+      "duration_ms": 172556,
+      "name": "Pardonne moi",
+      "url": "https://open.spotify.com/track/1CUzytMt6JV11oYqLoAhYP"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "Roses et Orties",
         "url": "https://open.spotify.com/album/6MKAF7iGEgZ7UCa8gvtcTg"
@@ -497,7 +417,107 @@
       "url": "https://open.spotify.com/track/6Cf5R5fTKwLT6U7v1juMPl"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/6siQKB9fIqYJYerGT2lgIC"
+      },
+      "artists": [
+        {
+          "name": "HARON",
+          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
+        }
+      ],
+      "duration_ms": 121613,
+      "name": "21",
+      "url": "https://open.spotify.com/track/0UzGB980ZKeN3J5SfqKi2B"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Pas Trouv\u00e9",
+        "url": "https://open.spotify.com/album/4BWyIVXIgF3lyj9iZ2bxnK"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 160094,
+      "name": "Pas Trouv\u00e9",
+      "url": "https://open.spotify.com/track/6hXM94JroC6WK9Ahcx3Ats"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Grand Spectacle",
+        "url": "https://open.spotify.com/album/7HtSug4AGg6dRZ0qTwotlP"
+      },
+      "artists": [
+        {
+          "name": "Arma Jackson",
+          "url": "https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN"
+        }
+      ],
+      "duration_ms": 188953,
+      "name": "Grand Spectacle",
+      "url": "https://open.spotify.com/track/19ugVSsCGrQFSR6YAkH78k"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Pression",
+        "url": "https://open.spotify.com/album/5B47198bhoTCOhMDrSPHuB"
+      },
+      "artists": [
+        {
+          "name": "Oordaya",
+          "url": "https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "Pression",
+      "url": "https://open.spotify.com/track/2KLfIFfR1PLMXvMthsuAWK"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "MONSIEUR SAUDADE II",
+        "url": "https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt"
+      },
+      "artists": [
+        {
+          "name": "Abou Tall",
+          "url": "https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "LA NUIT",
+      "url": "https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/1cORx4mYsAQarJb9aoCHLJ"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "duration_ms": 142012,
+      "name": "Mode Avion",
+      "url": "https://open.spotify.com/track/49CGlc4laVFyI6VTcHioal"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "NOV",
         "url": "https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts"
@@ -513,39 +533,7 @@
       "url": "https://open.spotify.com/track/7tToaH0IEXI6sm7ka7zHNM"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "BOTTEGA",
-        "url": "https://open.spotify.com/album/3E4n1VSWvicjCpW7Kl2x0W"
-      },
-      "artists": [
-        {
-          "name": "Jadana\u00eb",
-          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
-        }
-      ],
-      "duration_ms": 147448,
-      "name": "BOTTEGA",
-      "url": "https://open.spotify.com/track/27t19qLXb5vd5SWzIzrgEj"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Piloti",
-        "url": "https://open.spotify.com/album/3aotwIs7L3jD2PPVwKj69b"
-      },
-      "artists": [
-        {
-          "name": "Warren Saada",
-          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
-        }
-      ],
-      "duration_ms": 198588,
-      "name": "Piloti",
-      "url": "https://open.spotify.com/track/7bu9pfAhSsd5uur5rUZJER"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "Les mots",
         "url": "https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF"
@@ -565,7 +553,55 @@
       "url": "https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "BOTTEGA",
+        "url": "https://open.spotify.com/album/3E4n1VSWvicjCpW7Kl2x0W"
+      },
+      "artists": [
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        }
+      ],
+      "duration_ms": 147448,
+      "name": "BOTTEGA",
+      "url": "https://open.spotify.com/track/27t19qLXb5vd5SWzIzrgEj"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "N\u00c9ON ROUGE",
+        "url": "https://open.spotify.com/album/4Jbxa1c5GFMLQRQ9jquw6t"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "N\u00c9ON ROUGE",
+      "url": "https://open.spotify.com/track/0z7mcN9vpUG9CWLY7QnWIK"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "Piloti",
+        "url": "https://open.spotify.com/album/3aotwIs7L3jD2PPVwKj69b"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "duration_ms": 198588,
+      "name": "Piloti",
+      "url": "https://open.spotify.com/track/7bu9pfAhSsd5uur5rUZJER"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "STORY TIME",
         "url": "https://open.spotify.com/album/6maa6rCLsA06COlDkADfex"
@@ -589,7 +625,23 @@
       "url": "https://open.spotify.com/track/086f3ZaUWZEEoprEuHHB9I"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
+      "album": {
+        "name": "In search of",
+        "url": "https://open.spotify.com/album/1iJXfiYwqMcmXAvoB6V27Q"
+      },
+      "artists": [
+        {
+          "name": "Candy Nov",
+          "url": "https://open.spotify.com/artist/4ssE7ZlIaiNsu7jBCSGT1T"
+        }
+      ],
+      "duration_ms": 130084,
+      "name": "mariela",
+      "url": "https://open.spotify.com/track/0vmUVKqZkplRRBPlPUGlzc"
+    },
+    {
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/2HPHZiGbTPFlE1vDdXeQIz"
@@ -609,23 +661,7 @@
       "url": "https://open.spotify.com/track/5rbO4iwxgoaqrHc2Mt1kPk"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "In search of",
-        "url": "https://open.spotify.com/album/1iJXfiYwqMcmXAvoB6V27Q"
-      },
-      "artists": [
-        {
-          "name": "Candy Nov",
-          "url": "https://open.spotify.com/artist/4ssE7ZlIaiNsu7jBCSGT1T"
-        }
-      ],
-      "duration_ms": 130084,
-      "name": "mariela",
-      "url": "https://open.spotify.com/track/0vmUVKqZkplRRBPlPUGlzc"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "Derni\u00e8re fois",
         "url": "https://open.spotify.com/album/3Qgp2kcNdMsoVMWNvTi8aq"
@@ -641,39 +677,7 @@
       "url": "https://open.spotify.com/track/12TulxfqcEEAE6EfPPARCy"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "N\u00c9ON ROUGE",
-        "url": "https://open.spotify.com/album/4Jbxa1c5GFMLQRQ9jquw6t"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 149613,
-      "name": "N\u00c9ON ROUGE",
-      "url": "https://open.spotify.com/track/0z7mcN9vpUG9CWLY7QnWIK"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
-      "album": {
-        "name": "Kon Sa",
-        "url": "https://open.spotify.com/album/4arejIBFe8xHM0SGYfJqXT"
-      },
-      "artists": [
-        {
-          "name": "Rachelle Allison",
-          "url": "https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52"
-        }
-      ],
-      "duration_ms": 162723,
-      "name": "Kon Sa",
-      "url": "https://open.spotify.com/track/7ykg7XuvPKaCans1BpX9dY"
-    },
-    {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "Le ciel nous pardonne",
         "url": "https://open.spotify.com/album/3NUi3QHZZK880miCnSVqbd"
@@ -689,7 +693,7 @@
       "url": "https://open.spotify.com/track/4mOW7I66Fomg7XwmP5Fr7T"
     },
     {
-      "added_at": "2026-03-05 23:00:48",
+      "added_at": "2026-03-12 23:01:02",
       "album": {
         "name": "M\u00e9chant",
         "url": "https://open.spotify.com/album/5e830pG0xK0ZKrQh2AZmcK"

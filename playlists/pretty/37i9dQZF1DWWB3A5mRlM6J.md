@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain]
 
 > Enjoy the Dynamic Duo Seoul concert LIVE SET including the voices of them on stage! \(다이나믹 듀오의 무대 멘트와 목소리가 포함된 서울 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057 likes - 42 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,6 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB3A5mRlM6J.md) - [plain]
 | 39 | [Ring My Bell \(Feat\. 나얼 Of Brown Eyed Soul\)](https://open.spotify.com/track/0TrFFNooB7sE7ye9vKri52) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Taxi Driver](https://open.spotify.com/album/4xN7vgVNxSdPPswb9pWlCM) | 3:47 |
 | 40 | [Friday Night](https://open.spotify.com/track/6taaPcd1yroEhGVWHtr7d9) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [DYNAMICDUO 6th DIGILOG 1/2](https://open.spotify.com/album/0820v5cltCHxKXVUc2YRtk) | 4:00 |
 | 41 | [Comment \- Johnny](https://open.spotify.com/track/5CeKvuHlFW1XgaXfx6rzos) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Dynamicduo Concert 'In The Long Run' Audio Liner](https://open.spotify.com/album/1EsxvAIsofFSlp3rwDxP1B) | 0:21 |
-| 42 | [Johnny](https://open.spotify.com/track/4OHq2ao4pXmGq9OOuP3lxb) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Johnny](https://open.spotify.com/album/4PGzs8JNNxXkaE3SMpApOm) | 3:54 |
+| 42 | [Johnny \(Feat\. Dynamicduo\)](https://open.spotify.com/track/4OHq2ao4pXmGq9OOuP3lxb) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Johnny](https://open.spotify.com/album/4PGzs8JNNxXkaE3SMpApOm) | 3:54 |
 
 Snapshot ID: `AAAAABgyf5B7KgErpvdOwsjk3CqWraeh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,810 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,799 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 2 | [Kui paljon \- Remix](https://open.spotify.com/track/2bBhjebWhLpeumAdojsJyO) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kui paljon \(Remix\)](https://open.spotify.com/album/4TebmnW0jxbBVKixLi2Xfi) | 2:40 |
 | 3 | [T\-Shirt](https://open.spotify.com/track/2q7h6ntLxgV7BeelH3Rvo3) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [T\-Shirt](https://open.spotify.com/album/1hBnP0ms84LndnkNh1incI) | 2:30 |
 | 4 | [Mutta millä hinnalla](https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Mutta millä hinnalla](https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp) | 2:57 |
-| 5 | [ALIBI](https://open.spotify.com/track/5YyPs8z96MtGuiu8dKO0XL) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [ALIBI](https://open.spotify.com/album/5VMY4rBbCqsxa2zDToeCND) | 2:40 |
+| 5 | [Täälpäin](https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9) | [Täälpäin](https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv) | 3:14 |
 | 6 | [Kii Saa](https://open.spotify.com/track/1vsCt4tpnbQPCzA4VR9oVL) | [Albo & Kd](https://open.spotify.com/artist/5pkS4XbpfZoubdr9TNPym3) | [Kii Saa](https://open.spotify.com/album/03ZT3h9yMUImm0ZLcHUVdO) | 2:40 |
 | 7 | [Länsipuoli](https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Länsipuoli](https://open.spotify.com/album/0RJultAynFlzZXE708nEPz) | 2:36 |
 | 8 | [Sisko ja sen veli](https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Sisko ja sen veli](https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg) | 3:08 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 35 | [iPhone](https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [iPhone](https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv) | 2:31 |
 | 36 | [Sit Ku Mul On Muija](https://open.spotify.com/track/53dvlTezDKZYO5wewHVi5i) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Sit Ku Mul On Muija](https://open.spotify.com/album/0oi7M2FNYSv21h3CRbxZIl) | 2:16 |
 | 37 | [Solmui](https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Solmui](https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO) | 3:18 |
-| 38 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 |
-| 39 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
-| 40 | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 |
-| 41 | [Alkemia](https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Alkemia / Showbisn€s](https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk) | 2:51 |
+| 38 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
+| 39 | [20:30 \(feat\. Karim B\)](https://open.spotify.com/track/4JxEs2rVOz4d4xaPL9mM3a) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd), [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [20:30 \(feat\. Karim B\)](https://open.spotify.com/album/5y6BneRhSd4OPJgF1BO1nG) | 2:51 |
+| 40 | [Alkemia](https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Alkemia / Showbisn€s](https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk) | 2:51 |
+| 41 | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/track/5CvuQeaaSG0V8lpUHNUggx) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Kuolisin sun kaa \(feat\. pehmoaino\)](https://open.spotify.com/album/1nspX6o4QeOs2YNIAH1q5G) | 3:26 |
 | 42 | [Kill4Me](https://open.spotify.com/track/65rl6bTeV4tTZw7qMeGGFw) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Crash Out](https://open.spotify.com/album/4KpoZTlC632iMa30PBsy3l) | 2:56 |
 | 43 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 |
 | 44 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 |
 | 50 | [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 |
 
-Snapshot ID: `AAAAAKWyWmFcI71En/OHAlNRDnsFAk5j`
+Snapshot ID: `AAAAAMsYsaGHMLtx4h+1oQpJBvzRGIJM`

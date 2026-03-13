@@ -1,15 +1,771 @@
 {
   "description": "Sometimes all you need is a fresh start. Listen to the music from, and inspired by, Virgin River, now stream on Netflix. ",
-  "num_followers": 83603,
+  "num_followers": 83657,
   "original_name": "Virgin River Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADzHlVC7qAgQtJODpAfS9g5X5ACW",
+  "snapshot_id": "AAAAAN1nQxeiy0F52IsUnIwvI5ansyM6",
   "tracks": [
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/4AYg0PV0a3E3rsDbC4TB1J"
+      },
+      "artists": [
+        {
+          "name": "Foxhole Records",
+          "url": "https://open.spotify.com/artist/4kPotvWMS9siK8BnswnYj4"
+        }
+      ],
+      "duration_ms": 105333,
+      "name": "Songs Of The Pines",
+      "url": "https://open.spotify.com/track/0Arj08xeDYXbHYXItgqHv5"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Hawaii Today (Hawaii I Keia La)",
+        "url": "https://open.spotify.com/album/5Cp2EjFm7OYl1wq1qjewzw"
+      },
+      "artists": [
+        {
+          "name": "The Puahia Street Players",
+          "url": "https://open.spotify.com/artist/4jytcbNLY3Z1FHo23O04T8"
+        },
+        {
+          "name": "Charles Michael Brotman",
+          "url": "https://open.spotify.com/artist/7CtFwDR8wIK0bVtpaz3x5c"
+        },
+        {
+          "name": "Sonny Lim",
+          "url": "https://open.spotify.com/artist/4otxRB5EZOCCDu4BqCKtwl"
+        }
+      ],
+      "duration_ms": 132668,
+      "name": "Kona Sunset",
+      "url": "https://open.spotify.com/track/3DKRRMTJCET0HznDis564v"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "My Healin' Heart",
+        "url": "https://open.spotify.com/album/5NoYvSD48N6OCoflfCVpq7"
+      },
+      "artists": [
+        {
+          "name": "Caleb Smucker",
+          "url": "https://open.spotify.com/artist/7p2e5ziM4xZHyvwEsQqKT6"
+        }
+      ],
+      "duration_ms": 148050,
+      "name": "Take My Time",
+      "url": "https://open.spotify.com/track/7hja6GxxM2O5IpH53R2atf"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Alone In Iz World",
+        "url": "https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Virgin River: Season 7 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5vsMxS4fRWsZDlenzeSsG9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Garber",
+          "url": "https://open.spotify.com/artist/7DXK98791IyzucfMnoJBsA"
+        }
+      ],
+      "duration_ms": 138536,
+      "name": "Take A Leap",
+      "url": "https://open.spotify.com/track/6wYuiulfZJCa9gvzfIo4N8"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Just Take It All Away",
+        "url": "https://open.spotify.com/album/7xEG52gF8HsR0iz95l9auB"
+      },
+      "artists": [
+        {
+          "name": "Andrew McDermid",
+          "url": "https://open.spotify.com/artist/3sMpMrMYIhPB3LBHyEEnRD"
+        }
+      ],
+      "duration_ms": 178357,
+      "name": "Just Take It All Away",
+      "url": "https://open.spotify.com/track/1HYgUbOtozHEt13ivLv0Xu"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Folk Pop 2",
+        "url": "https://open.spotify.com/album/1DVg2wtM5rVz90ylVWTTM2"
+      },
+      "artists": [
+        {
+          "name": "Jack Howard",
+          "url": "https://open.spotify.com/artist/6AGKqVH686QjQCygWae9BZ"
+        },
+        {
+          "name": "Jerry Thomas",
+          "url": "https://open.spotify.com/artist/6U3vYVafjFe6JDCmtv6lTV"
+        },
+        {
+          "name": "Sam Clines",
+          "url": "https://open.spotify.com/artist/2xl5HY46iiO1RoUJ4Yo73f"
+        },
+        {
+          "name": "Luke May",
+          "url": "https://open.spotify.com/artist/5XuL1nOVleSzGz6sN8H7rN"
+        }
+      ],
+      "duration_ms": 165880,
+      "name": "Change Your Life",
+      "url": "https://open.spotify.com/track/2ccI0dQvfwIP5IlNLGTtKi"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Afterthought",
+        "url": "https://open.spotify.com/album/3eQSOKSoJdqnFGQTgSZQXI"
+      },
+      "artists": [
+        {
+          "name": "Shane Burke",
+          "url": "https://open.spotify.com/artist/7n73GdhyW0lq4tujGDb1bM"
+        }
+      ],
+      "duration_ms": 199605,
+      "name": "Can't Explain",
+      "url": "https://open.spotify.com/track/5Rj988WpGNi1rQyywhPRyM"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Garage Blues",
+        "url": "https://open.spotify.com/album/6EnvBLMMCnTfTUhvUFNfgM"
+      },
+      "artists": [
+        {
+          "name": "Blues Saraceno",
+          "url": "https://open.spotify.com/artist/5AVBFCn4Hq4KY2Xjc5Gj4y"
+        }
+      ],
+      "duration_ms": 213311,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/3mC5ZdLoIj8m5SCLc4PJqp"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Virgin River: Season 7 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5vsMxS4fRWsZDlenzeSsG9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Garber",
+          "url": "https://open.spotify.com/artist/7DXK98791IyzucfMnoJBsA"
+        }
+      ],
+      "duration_ms": 100057,
+      "name": "New Surprise",
+      "url": "https://open.spotify.com/track/01V7tLSDNydYn8qhyKd470"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Born in Desperation",
+        "url": "https://open.spotify.com/album/3fsY6WbcA3RciJ3ZMKTp06"
+      },
+      "artists": [
+        {
+          "name": "Terry Wade",
+          "url": "https://open.spotify.com/artist/0jBxb2XjR3Z3pD1oWwM4lS"
+        }
+      ],
+      "duration_ms": 180620,
+      "name": "Born in Desperation",
+      "url": "https://open.spotify.com/track/7LgBgwHDNMv6zW89WlECwm"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "To Kingdom Come (The Definitive Collection)",
+        "url": "https://open.spotify.com/album/3vKZRMw6zyfazG1al7idrl"
+      },
+      "artists": [
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 278533,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/0SnEAyKMyIjRA96e0JstYl"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Please Do Not Disturb Musicians At Work",
+        "url": "https://open.spotify.com/album/3wo6G8pW0MWHuRMvVGidOH"
+      },
+      "artists": [
+        {
+          "name": "Self Titled Studios",
+          "url": "https://open.spotify.com/artist/68G5FAcnGRTF8skgZenqaQ"
+        },
+        {
+          "name": "Emilie Mover",
+          "url": "https://open.spotify.com/artist/4dx2QFru02KbFFNYgwourF"
+        }
+      ],
+      "duration_ms": 142268,
+      "name": "Good Lovin'",
+      "url": "https://open.spotify.com/track/0kDwNPsbebE61zIy2N1gvO"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Shine You Up",
+        "url": "https://open.spotify.com/album/68P0RxOQe3C5cNKuV6r7HF"
+      },
+      "artists": [
+        {
+          "name": "Vandella",
+          "url": "https://open.spotify.com/artist/4lgDunEwKzgaoombpBNGe0"
+        }
+      ],
+      "duration_ms": 241489,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/676kFa9slcx6dYYaUr0Rym"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Lounge Funk",
+        "url": "https://open.spotify.com/album/2XU31TZCnurJw2sfJpLs8l"
+      },
+      "artists": [
+        {
+          "name": "Dirk Steinberg",
+          "url": "https://open.spotify.com/artist/7rj2Yn3R1U5D7x5f2rE1d2"
+        },
+        {
+          "name": "Radiccio Nash",
+          "url": "https://open.spotify.com/artist/0lmzhoFCyDEAOklc9hzaAC"
+        }
+      ],
+      "duration_ms": 181499,
+      "name": "Like a Shooting Star",
+      "url": "https://open.spotify.com/track/37KVpvkLaOndTm2XYInxnw"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Taipei Personality",
+        "url": "https://open.spotify.com/album/3rVfxUOjXN11c76QrJ5GCP"
+      },
+      "artists": [
+        {
+          "name": "Charles F. Turner",
+          "url": "https://open.spotify.com/artist/38eoUTY0bCtGgWrvqKZF8i"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Jeannie",
+      "url": "https://open.spotify.com/track/3EyX3EPbX8z7BjKH1AOx8K"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "What's Bin Did and What's Bin Hid",
+        "url": "https://open.spotify.com/album/627n67TYQ6bIijcrkD7V7Y"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "Colours - Single Version",
+      "url": "https://open.spotify.com/track/5JP6wL89ZQf17N8FxVap9N"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7F7VLA7PjFSVll3POIoK0w"
+      },
+      "artists": [
+        {
+          "name": "Emily Anderson",
+          "url": "https://open.spotify.com/artist/54sjddmwDWQjzhf6iAcP5f"
+        }
+      ],
+      "duration_ms": 183450,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/0um1Q3RUpGHtYDOATx5D5w"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "FLUX",
+        "url": "https://open.spotify.com/album/1jXKXZjH3ESFcs3VBvoQSN"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "flux",
+      "url": "https://open.spotify.com/track/7Ls5alNvrm46CrJ2gETL53"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Virgin River: Season 7 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5vsMxS4fRWsZDlenzeSsG9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Garber",
+          "url": "https://open.spotify.com/artist/7DXK98791IyzucfMnoJBsA"
+        }
+      ],
+      "duration_ms": 158234,
+      "name": "Misunderstanding",
+      "url": "https://open.spotify.com/track/14MvElWGAdKmPzK7MGbhio"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Any Longer",
+        "url": "https://open.spotify.com/album/5FcBIq1M1YRcBT2Y38Fo2x"
+      },
+      "artists": [
+        {
+          "name": "Josh Rennie-Hynes",
+          "url": "https://open.spotify.com/artist/3YRZWrA1WzMaDfOPoQVHCp"
+        }
+      ],
+      "duration_ms": 230621,
+      "name": "Any Longer",
+      "url": "https://open.spotify.com/track/25d5rNt4tYmjf64NNwiVI7"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Westerns: Modern",
+        "url": "https://open.spotify.com/album/0uFUxuLGw25ISHr1Xy7B1L"
+      },
+      "artists": [
+        {
+          "name": "Cavendish Music",
+          "url": "https://open.spotify.com/artist/46QdfOq1JZVW4TPyBIESAx"
+        }
+      ],
+      "duration_ms": 153549,
+      "name": "Death Valley Riders",
+      "url": "https://open.spotify.com/track/5pdbgEsrKaLYL7DIcyOnty"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Alt Country 2",
+        "url": "https://open.spotify.com/album/6rL6xT3YEj1U0VvSP01QiE"
+      },
+      "artists": [
+        {
+          "name": "Mark Hart",
+          "url": "https://open.spotify.com/artist/1S18aqlyTuayoZhkUjmYWA"
+        },
+        {
+          "name": "Steve Dudas",
+          "url": "https://open.spotify.com/artist/1kH05j19cV2eco9NpwfOko"
+        }
+      ],
+      "duration_ms": 176816,
+      "name": "Arizona Sky",
+      "url": "https://open.spotify.com/track/31M98MPHb16T8Fv0eBDCTY"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "JVC",
+        "url": "https://open.spotify.com/album/5P3HlykmoZNiNXG4nAa2Ry"
+      },
+      "artists": [
+        {
+          "name": "Jack Van Cleaf",
+          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
+        }
+      ],
+      "duration_ms": 278146,
+      "name": "Couch Potato",
+      "url": "https://open.spotify.com/track/7MmHkDVmA1KSqLxVqfyG09"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "David Boone and the Montana Twins: Volume 2",
+        "url": "https://open.spotify.com/album/4FNgStxXvzpOFJF8CTtkkK"
+      },
+      "artists": [
+        {
+          "name": "David Boone",
+          "url": "https://open.spotify.com/artist/3qmJKqYLsqKWRFtkANM27S"
+        },
+        {
+          "name": "The Montana Twins",
+          "url": "https://open.spotify.com/artist/0P0f5KOXsV3OsZ5d0SwTrV"
+        }
+      ],
+      "duration_ms": 194747,
+      "name": "Mad Love",
+      "url": "https://open.spotify.com/track/5D14v8oOsHsWQe6hiKvFVP"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 228449,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Lost Lakes",
+        "url": "https://open.spotify.com/album/2b2PzxlW1sCqK1kYb2dCaz"
+      },
+      "artists": [
+        {
+          "name": "Lost Lakes",
+          "url": "https://open.spotify.com/artist/3yJI8dFyEFK4cqyw3xk7zN"
+        }
+      ],
+      "duration_ms": 180370,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/37TgCoHLNkTwBNmWCdyogw"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Garage Blues",
+        "url": "https://open.spotify.com/album/6EnvBLMMCnTfTUhvUFNfgM"
+      },
+      "artists": [
+        {
+          "name": "Disposable Youth",
+          "url": "https://open.spotify.com/artist/5NzkYEY8Drcx7jkVfHskyA"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "Love Is Gone",
+      "url": "https://open.spotify.com/track/14a4Jqzr0zOZVhdGjMuY01"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/4840hLWsWOyvtUO0Lz6xbb"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 206611,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Midnight Picnic",
+        "url": "https://open.spotify.com/album/44tawgNwWqFF4LQrITUaL9"
+      },
+      "artists": [
+        {
+          "name": "The Dahls",
+          "url": "https://open.spotify.com/artist/5e6QJGOFBAFPoOPIFDKaWt"
+        }
+      ],
+      "duration_ms": 167253,
+      "name": "Where Are You Going",
+      "url": "https://open.spotify.com/track/4crXP6WfM6AJ0BenO0tXOC"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Vivir Con Amor",
+        "url": "https://open.spotify.com/album/2KXd6TtWLk0kr93XwRswoa"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Morales",
+          "url": "https://open.spotify.com/artist/5nOudorTURL8dEcKJgEc1O"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "Sigo Siendo Tuya",
+      "url": "https://open.spotify.com/track/3w309SVp4XUWGoeA7ARlXg"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 203183,
+      "name": "Mayores",
+      "url": "https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Wake Up West",
+        "url": "https://open.spotify.com/album/0RvxFDtt32b3Stz8ZwD6nT"
+      },
+      "artists": [
+        {
+          "name": "The Dahls",
+          "url": "https://open.spotify.com/artist/5e6QJGOFBAFPoOPIFDKaWt"
+        }
+      ],
+      "duration_ms": 192040,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/5jmvqh0uEBu4uzRPxnDxAO"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Virgin River: Season 7 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5vsMxS4fRWsZDlenzeSsG9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Garber",
+          "url": "https://open.spotify.com/artist/7DXK98791IyzucfMnoJBsA"
+        }
+      ],
+      "duration_ms": 91710,
+      "name": "Hiding Something",
+      "url": "https://open.spotify.com/track/5Wy1fZuQTDT8w3FrNSBdg7"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Fall to Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3kWgBxtkD8ZJ9Xu84xrhWj"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "duration_ms": 184961,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/2NIeqDoYuMWaX8KtAz4C5o"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Best of Banjo, Vol. 2",
+        "url": "https://open.spotify.com/album/5NQN50OOM2fxQSnCW30Nqm"
+      },
+      "artists": [
+        {
+          "name": "Denny Earnest",
+          "url": "https://open.spotify.com/artist/3V3eFPRO72fFb4E7gzhAu2"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "Bluegrass Connection",
+      "url": "https://open.spotify.com/track/2u2DlW7aIF7NF1QgA0lzeD"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "The Moonshine Music Co: Appalachian Bluegrass",
+        "url": "https://open.spotify.com/album/6c65eGGFlgGJgGvv4FxTAa"
+      },
+      "artists": [
+        {
+          "name": "Clarence Buzz Chestnut",
+          "url": "https://open.spotify.com/artist/2MJiwG1ovBHjrO4RTfswNG"
+        },
+        {
+          "name": "Matt Bruer",
+          "url": "https://open.spotify.com/artist/3floFKs8ocfOdYKS9Ihkuo"
+        }
+      ],
+      "duration_ms": 153088,
+      "name": "Lickin\u2019 walls",
+      "url": "https://open.spotify.com/track/56lEynn99qLd51dCzIICvK"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "The Moonshine Music Co: Appalachian Bluegrass",
+        "url": "https://open.spotify.com/album/6c65eGGFlgGJgGvv4FxTAa"
+      },
+      "artists": [
+        {
+          "name": "Clarence Buzz Chestnut",
+          "url": "https://open.spotify.com/artist/2MJiwG1ovBHjrO4RTfswNG"
+        },
+        {
+          "name": "Matt Bruer",
+          "url": "https://open.spotify.com/artist/3floFKs8ocfOdYKS9Ihkuo"
+        }
+      ],
+      "duration_ms": 145045,
+      "name": "Fair Shakes",
+      "url": "https://open.spotify.com/track/7Lr9aXES79RgZulGHgro85"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
+      "album": {
+        "name": "Fadeaway",
+        "url": "https://open.spotify.com/album/78qYHtqDUhzmlnpB92AyCR"
+      },
+      "artists": [
+        {
+          "name": "LA5",
+          "url": "https://open.spotify.com/artist/4KzhAadhGj5cJsEJMR4ACd"
+        },
+        {
+          "name": "AG",
+          "url": "https://open.spotify.com/artist/70IRyiXZdU8eIY56M0sBta"
+        }
+      ],
+      "duration_ms": 234861,
+      "name": "Fadeaway",
+      "url": "https://open.spotify.com/track/1M4NBZce0W2alOUW7wfCpy"
+    },
+    {
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Mel & Jack's Wedding Mixtape (From the Netflix Series \"Virgin River\")",
         "url": "https://open.spotify.com/album/6ixWu9WJCswkMAgOkN8v1g"
@@ -25,7 +781,7 @@
       "url": "https://open.spotify.com/track/58274nziFGQDCBSAuo8FD0"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Lavender Days",
         "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
@@ -41,7 +797,7 @@
       "url": "https://open.spotify.com/track/1oWnDC5OoMPPosVY2cdXgT"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
@@ -57,7 +813,7 @@
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Mel & Jack's Wedding Mixtape (From the Netflix Series \"Virgin River\")",
         "url": "https://open.spotify.com/album/6ixWu9WJCswkMAgOkN8v1g"
@@ -73,7 +829,7 @@
       "url": "https://open.spotify.com/track/0XS1vSBXmlJH0Y5cMRZZsG"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
@@ -89,7 +845,7 @@
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Mel & Jack's Wedding Mixtape (From the Netflix Series \"Virgin River\")",
         "url": "https://open.spotify.com/album/6ixWu9WJCswkMAgOkN8v1g"
@@ -105,7 +861,7 @@
       "url": "https://open.spotify.com/track/1xKz5aQlc9Kts3uHJ97pCT"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
@@ -121,7 +877,7 @@
       "url": "https://open.spotify.com/track/61w30lLkE4PoaQvQpQmh0r"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
@@ -137,7 +893,7 @@
       "url": "https://open.spotify.com/track/0exKMPo2iind68yWTaHCrr"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Ramblin' Soul",
         "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
@@ -153,7 +909,7 @@
       "url": "https://open.spotify.com/track/0n89m6FwtREESsxlDD1Lhx"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Mel & Jack's Wedding Mixtape (From the Netflix Series \"Virgin River\")",
         "url": "https://open.spotify.com/album/6ixWu9WJCswkMAgOkN8v1g"
@@ -169,7 +925,7 @@
       "url": "https://open.spotify.com/track/3iJ82jsgEV7LcpjLw7TFXW"
     },
     {
-      "added_at": "2025-01-07 21:17:19",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Sweet Disposition",
         "url": "https://open.spotify.com/album/5rKfiMllL90GJjvSBhIrlB"
@@ -185,7 +941,7 @@
       "url": "https://open.spotify.com/track/5u5ProfIoHpN5imlsBhGfC"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Max Maco Is Dead Right?",
         "url": "https://open.spotify.com/album/6wPnQigsvCXa5LrMfEuU6K"
@@ -201,7 +957,7 @@
       "url": "https://open.spotify.com/track/2MkMyO7L8Ww2ckMalaPA9O"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "River",
         "url": "https://open.spotify.com/album/59tKOsuUWZvYtJ39bKPzmP"
@@ -217,7 +973,7 @@
       "url": "https://open.spotify.com/track/5ySwVIMkb9kpn8qMzdksqc"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "What Got Into You",
         "url": "https://open.spotify.com/album/7w3zbBs9NRCXl2aNR5rsEX"
@@ -233,7 +989,7 @@
       "url": "https://open.spotify.com/track/1D0PMfr9ckIcBZKBMvxcEi"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Flora Fauna",
         "url": "https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx"
@@ -249,7 +1005,7 @@
       "url": "https://open.spotify.com/track/02X75Hn5XDRg60ZtLYLCqi"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Hard To Tell",
         "url": "https://open.spotify.com/album/1b9EDZKgqNvvWuqOJCwPnE"
@@ -265,7 +1021,7 @@
       "url": "https://open.spotify.com/track/0bmnFx4iOmUVt4ghPSm3cc"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
@@ -285,7 +1041,7 @@
       "url": "https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Kindess Of All Kinds",
         "url": "https://open.spotify.com/album/2xZepYgIZMLWu9WAjcezDV"
@@ -301,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6SroZJAiMcql0FWhGfcbRT"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96"
@@ -317,7 +1073,7 @@
       "url": "https://open.spotify.com/track/1ZsUx0zG78g51kxphSGz9d"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
@@ -337,7 +1093,7 @@
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Word of Mouth",
         "url": "https://open.spotify.com/album/2qlOcVhVpBb0lVv71oHfid"
@@ -353,7 +1109,7 @@
       "url": "https://open.spotify.com/track/7a3FwIlEOTnJoQBsZUMJbZ"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Stand by You",
         "url": "https://open.spotify.com/album/5zuikXSiOAjdxzxlFo2ZzD"
@@ -377,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5x8fTXT0MT8pAi45qbH3Qu"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "My Stupid Life",
         "url": "https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3"
@@ -393,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1bB9NmnF4DVE4CTKWFSZIK"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
@@ -409,7 +1165,7 @@
       "url": "https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Children Running Through",
         "url": "https://open.spotify.com/album/2x2dXgEz4l4jBEz25kvbs6"
@@ -425,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2vy6F2C23RxlGJvbdA7NTq"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Girls and Boys",
         "url": "https://open.spotify.com/album/5S6f5k6au5uJpGhhQ0wgBw"
@@ -441,7 +1197,7 @@
       "url": "https://open.spotify.com/track/43ddJFnP8m3PzNJXiHuiyJ"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "These Days Are Golden",
         "url": "https://open.spotify.com/album/0nUlfLvV4UJ3On6yrxAUXx"
@@ -457,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5Kq80CKDeeMgCA05gYaqwK"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
@@ -473,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5XNOw5EcLiqeqx8KDQY5Q6"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Virgin River: Season 6 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1OkXEVhOKFtvqnIbspeeMm"
@@ -489,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1QEeF8d5thDhGSIA0b9y5w"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Virgin River: Season 6 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1OkXEVhOKFtvqnIbspeeMm"
@@ -505,7 +1261,7 @@
       "url": "https://open.spotify.com/track/1C1qNrPvXaVKghz7bMsJkv"
     },
     {
-      "added_at": "2024-12-19 08:00:26",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Virgin River: Season 6 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/1OkXEVhOKFtvqnIbspeeMm"
@@ -521,7 +1277,7 @@
       "url": "https://open.spotify.com/track/2HawbIIeFAwdBfv7uU2oCu"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Virgin River (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/1yP98guPImv2LUdjTSV461"
@@ -537,7 +1293,7 @@
       "url": "https://open.spotify.com/track/6vSmNysHIlALPOg2fk37PX"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Virgin River (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/1yP98guPImv2LUdjTSV461"
@@ -553,7 +1309,7 @@
       "url": "https://open.spotify.com/track/3qFekezetix5dI3n76EIUw"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Virgin River (Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/1yP98guPImv2LUdjTSV461"
@@ -569,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2NQrWp17Zg2eKpPFOfJARP"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Feels Like Home On Christmas Day",
         "url": "https://open.spotify.com/album/2yCdqMV4y4dYx2tVsLUADb"
@@ -589,7 +1345,7 @@
       "url": "https://open.spotify.com/track/6VlncaLfGeOmKfqrsulm5N"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Jingle Bell Rock -Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk"
@@ -605,7 +1361,7 @@
       "url": "https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
@@ -621,7 +1377,7 @@
       "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Ashlyn",
         "url": "https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq"
@@ -637,7 +1393,7 @@
       "url": "https://open.spotify.com/track/3dqm5MyYysZrnR1mLMSWx1"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/0VlrH64xfNVwvmZzCFaFKS"
@@ -653,7 +1409,7 @@
       "url": "https://open.spotify.com/track/5vhEJAFXwfAYuctshm1CMd"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "The Venture",
         "url": "https://open.spotify.com/album/0zh5HcwIbb5WuQ9rdm6CwI"
@@ -669,7 +1425,7 @@
       "url": "https://open.spotify.com/track/2i6YHGzNsg5EgOA35NUIrh"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Don't Dream Alone",
         "url": "https://open.spotify.com/album/5wyYWmRLgVOpzGW3j3BFzk"
@@ -685,7 +1441,7 @@
       "url": "https://open.spotify.com/track/41lMoEUdX687bDyfwxGTxF"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Virgin River: Season 5 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/5Nm2jeC35a4pwcQbCfG2cZ"
@@ -701,7 +1457,7 @@
       "url": "https://open.spotify.com/track/1FbQ74rSNPIhSe6fY7bcmf"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Mono Singles",
         "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
@@ -717,7 +1473,7 @@
       "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
@@ -733,7 +1489,7 @@
       "url": "https://open.spotify.com/track/2JoUtztTqCN4ZhmbRDGPIL"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "I Heard the Bells on Christmas Day",
         "url": "https://open.spotify.com/album/3O5KnCG0dWxULlXBd2WS1l"
@@ -749,7 +1505,7 @@
       "url": "https://open.spotify.com/track/6ppdPveJCdq0YTSJzkGUAT"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "I Dream Of Christmas (Deluxe)",
         "url": "https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw"
@@ -765,7 +1521,7 @@
       "url": "https://open.spotify.com/track/4j5ybw5yYBVKnyN9Ei0DF8"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
@@ -781,7 +1537,7 @@
       "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3StV5cF5hyUlvJeIWmPlv6"
@@ -797,7 +1553,7 @@
       "url": "https://open.spotify.com/track/0S53SaM17Z4nVLRnLoYr78"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Inner State",
         "url": "https://open.spotify.com/album/0SKuvQAbVA0tOSjjskynL9"
@@ -813,7 +1569,7 @@
       "url": "https://open.spotify.com/track/5FOAwP6RuVmNRnLic1RMZe"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "It's All Okay, Thanks to You",
         "url": "https://open.spotify.com/album/2fQ0iXeirl9wxlZY4LEDQn"
@@ -829,7 +1585,7 @@
       "url": "https://open.spotify.com/track/43dfJw9GLthId3XPcvRKqv"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "What You Make It",
         "url": "https://open.spotify.com/album/6oahNb5yQw1DEiLgbHJLFa"
@@ -849,7 +1605,7 @@
       "url": "https://open.spotify.com/track/7Cw5D0t79vvOCHjzGVaNSF"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "O Christmas Tree",
         "url": "https://open.spotify.com/album/6MmOWTLFPU1VVf5p1s7Gdg"
@@ -865,7 +1621,7 @@
       "url": "https://open.spotify.com/track/5XM9gjSRcg3g2wAcIMINZy"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
@@ -881,7 +1637,7 @@
       "url": "https://open.spotify.com/track/1pJmTx6TCoHUFpwekGm9p0"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "SuperRock (All Folked Up)",
         "url": "https://open.spotify.com/album/4PEc1CBBlhpGzswmWjLyFK"
@@ -897,7 +1653,7 @@
       "url": "https://open.spotify.com/track/48IRiIvSRybWQwPOb7BMOc"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "On the Road",
         "url": "https://open.spotify.com/album/196xvHCMcJ8oekiKA5gzX7"
@@ -917,7 +1673,7 @@
       "url": "https://open.spotify.com/track/2VrwCx8BhS1oCEdPlebsao"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Highlight Reel",
         "url": "https://open.spotify.com/album/4Cx8GjPpeQsn9IdPNcokJZ"
@@ -933,7 +1689,7 @@
       "url": "https://open.spotify.com/track/5yF0iZe1dr3PQg0r5iHD2A"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "And Then The Quiet",
         "url": "https://open.spotify.com/album/05BvtrNETbvLScvS9Wk67V"
@@ -949,7 +1705,7 @@
       "url": "https://open.spotify.com/track/0TmJRZUvhnv4BRxM4coW8x"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "In the Shadows",
         "url": "https://open.spotify.com/album/78RJkcgXAyDM9Vi8sVUbKX"
@@ -965,7 +1721,7 @@
       "url": "https://open.spotify.com/track/6ql0ffq6Jvyh9OKqrJCMaP"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/6UZSlX38hwPmeBAhKclkj8"
@@ -985,7 +1741,7 @@
       "url": "https://open.spotify.com/track/0iWS387dTdckC0bOPElOTx"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
@@ -1001,7 +1757,7 @@
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "A Safe Place To Be",
         "url": "https://open.spotify.com/album/7JEhar1mBnpipI7lki4Icq"
@@ -1017,7 +1773,7 @@
       "url": "https://open.spotify.com/track/2xFUlLLCrvCqvQRmGOGmfx"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Old Letters",
         "url": "https://open.spotify.com/album/6WX0OeIXuQ5e9nn7f7dozk"
@@ -1033,7 +1789,7 @@
       "url": "https://open.spotify.com/track/51ioUSPGFOkvF5lICsKhA1"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "How to Save a Life",
         "url": "https://open.spotify.com/album/1GEMGqxRG4xI2jBVbODn04"
@@ -1049,7 +1805,7 @@
       "url": "https://open.spotify.com/track/15JyIDol4mWoMnUFuSXPJ2"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/0VlrH64xfNVwvmZzCFaFKS"
@@ -1065,7 +1821,7 @@
       "url": "https://open.spotify.com/track/4ifObf4aAp7omPkPCoO30z"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "MONOVISION",
         "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
@@ -1081,7 +1837,7 @@
       "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "It Must Be Luck",
         "url": "https://open.spotify.com/album/7FhG789vclJm8GKGYG4rPo"
@@ -1097,7 +1853,7 @@
       "url": "https://open.spotify.com/track/5hySKQQSkjRuhkLDBZ5hFd"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Someday Soon",
         "url": "https://open.spotify.com/album/0CCA7zvQfoKpEqww7OhUfA"
@@ -1113,7 +1869,7 @@
       "url": "https://open.spotify.com/track/3U7H0Iqye3T3bnuG6qNMsp"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/0VlrH64xfNVwvmZzCFaFKS"
@@ -1133,7 +1889,7 @@
       "url": "https://open.spotify.com/track/2Y3P3hEX2qNnEzuPRhHOmN"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Where We're Going",
         "url": "https://open.spotify.com/album/2vKbvzrKBvYCzXAhKQ2xZG"
@@ -1149,7 +1905,7 @@
       "url": "https://open.spotify.com/track/6oSIkpQVFhsOUFZk9sbhbU"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Nightjar and the Nightingale",
         "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
@@ -1165,7 +1921,7 @@
       "url": "https://open.spotify.com/track/6wYDAX6Bg5LRYINf9Nf4ow"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "May",
         "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
@@ -1181,7 +1937,7 @@
       "url": "https://open.spotify.com/track/6bfduwr5SYMvt4YP0Mkkkx"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/0VlrH64xfNVwvmZzCFaFKS"
@@ -1213,7 +1969,7 @@
       "url": "https://open.spotify.com/track/0kPTgcvYi3MzY37GAXxytO"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Quarry",
         "url": "https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot"
@@ -1229,7 +1985,7 @@
       "url": "https://open.spotify.com/track/1le4AShk5pZ1KTswuwdpvc"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Hurt for Me",
         "url": "https://open.spotify.com/album/6lwJbpuuA8wENZOuYDVRc8"
@@ -1245,7 +2001,7 @@
       "url": "https://open.spotify.com/track/2SycUqiPuWQxL4RA4hqMBL"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Survivors",
         "url": "https://open.spotify.com/album/4lxMt5PMRFMtIUUDcBj3k7"
@@ -1261,7 +2017,7 @@
       "url": "https://open.spotify.com/track/0VYlKSIZJJTmdxvXHwgeKQ"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Let Down",
         "url": "https://open.spotify.com/album/2ZwK8x38X6dRgBTZNSACVU"
@@ -1277,7 +2033,7 @@
       "url": "https://open.spotify.com/track/6zvpLxTrTKDzdeQ9OLshpQ"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Father",
         "url": "https://open.spotify.com/album/3nxrAY00WJAIg2R7t171Tz"
@@ -1293,7 +2049,7 @@
       "url": "https://open.spotify.com/track/5u8cvTsMydpApjTyBMMbEt"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
@@ -1313,7 +2069,7 @@
       "url": "https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Positano",
         "url": "https://open.spotify.com/album/4PXXUssZwBaRp2hbBJ26oD"
@@ -1329,7 +2085,7 @@
       "url": "https://open.spotify.com/track/0EMThHqG7MK23bogwOKhmc"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Ho Hey",
         "url": "https://open.spotify.com/album/1a1cyDzzmMnzz3Ep86Xi8y"
@@ -1349,7 +2105,7 @@
       "url": "https://open.spotify.com/track/2zKrGW8bGf5DzAGUHamw6X"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "So Happy It Hurts",
         "url": "https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI"
@@ -1365,7 +2121,7 @@
       "url": "https://open.spotify.com/track/6RZNw4khjjd6mehiLQ6Ztz"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Julie Blue",
         "url": "https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN"
@@ -1381,7 +2137,7 @@
       "url": "https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/5JxuEc5o2UdWAJTZWPfG4q"
@@ -1397,7 +2153,7 @@
       "url": "https://open.spotify.com/track/5NaUaNuHnKqjEqyHCzBD6c"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "I'm Not Ready To Say Goodbye",
         "url": "https://open.spotify.com/album/2EDJuBb3bo7uLyqBQ2U3DD"
@@ -1413,7 +2169,7 @@
       "url": "https://open.spotify.com/track/4evGfvrvdDPAs9JXP4PUjA"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Can't Take My Eyes Off of You",
         "url": "https://open.spotify.com/album/6E7q60dny8FilgA0miylxv"
@@ -1429,7 +2185,7 @@
       "url": "https://open.spotify.com/track/47Dc6UvkluFZbPnumBlDBH"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Songs from Mirror Wall",
         "url": "https://open.spotify.com/album/5BPFrjkerwTdVXZ6PIoOSj"
@@ -1445,7 +2201,7 @@
       "url": "https://open.spotify.com/track/2wpc0OnkylBzNahTxZ5ERc"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Come Back to Me",
         "url": "https://open.spotify.com/album/50WassgZwHALKp2tIHsjUg"
@@ -1461,7 +2217,7 @@
       "url": "https://open.spotify.com/track/1WUCyuyCihAz4nXD5kgOms"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Full Throttle",
         "url": "https://open.spotify.com/album/3LFTkDH6hMgawRGseaW0Ws"
@@ -1477,7 +2233,7 @@
       "url": "https://open.spotify.com/track/50mVRTJZtgwu8IrtRPTQA5"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Moody (Deluxe Version)",
         "url": "https://open.spotify.com/album/6IInEfmTPlYY9siT2XlwV9"
@@ -1493,7 +2249,7 @@
       "url": "https://open.spotify.com/track/4HYp3vX8sglRoZtHcUU7PR"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Take Me to the Freeway",
         "url": "https://open.spotify.com/album/27Br2vRjwVtMvIkhzRAkPz"
@@ -1509,7 +2265,7 @@
       "url": "https://open.spotify.com/track/0FAK7lo9SjisGH0PtWzJBt"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "City of Blues",
         "url": "https://open.spotify.com/album/5C0lKIzWUdjW8uTRBWkUEv"
@@ -1525,7 +2281,7 @@
       "url": "https://open.spotify.com/track/0d7495n6lknxaQhBJkh7Rx"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Wound",
         "url": "https://open.spotify.com/album/2iRJuWghMI2wfSHceD9QeD"
@@ -1541,7 +2297,7 @@
       "url": "https://open.spotify.com/track/2bNTZTod1rwIHUpejmQTqG"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
@@ -1557,7 +2313,7 @@
       "url": "https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Something Good",
         "url": "https://open.spotify.com/album/2EultUQvXZxWsOwWyvR8py"
@@ -1577,7 +2333,7 @@
       "url": "https://open.spotify.com/track/6pQQS2sAzMfy6sHhJD6UUO"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "To Be Young",
         "url": "https://open.spotify.com/album/3lXYDEXGf78jrHbshOeTsX"
@@ -1593,7 +2349,7 @@
       "url": "https://open.spotify.com/track/2rMaLemAw1DhXoyLMjKlOB"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Gun",
         "url": "https://open.spotify.com/album/21zJBmYVbICYncjwAiwQSp"
@@ -1613,7 +2369,7 @@
       "url": "https://open.spotify.com/track/2lBruCnqs3ZGti3zG60IKs"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Constancy",
         "url": "https://open.spotify.com/album/4w8TwbZ2eyuk3wEmT38IzZ"
@@ -1629,7 +2385,7 @@
       "url": "https://open.spotify.com/track/5R2xhSemgq9meswcXVBl0f"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Sober EP",
         "url": "https://open.spotify.com/album/637BqG5QCMGQArqYDelpbV"
@@ -1645,7 +2401,7 @@
       "url": "https://open.spotify.com/track/3OiBUTN46KTEHAGr1bfoQU"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Drive All Night",
         "url": "https://open.spotify.com/album/50tgVonsGallh4xTYf2myi"
@@ -1661,7 +2417,7 @@
       "url": "https://open.spotify.com/track/6Jj3j1dZQI7JWrMAwtm7yr"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Anna Laube",
         "url": "https://open.spotify.com/album/5Qw7W3cJ9COG6W8HIgsdPS"
@@ -1677,7 +2433,7 @@
       "url": "https://open.spotify.com/track/4CskNnumSq5GwKMP410i1D"
     },
     {
-      "added_at": "2023-11-30 23:50:28",
+      "added_at": "2026-03-12 13:00:08",
       "album": {
         "name": "Chelsea Diaries",
         "url": "https://open.spotify.com/album/5xYYt2Yzhrg8KSAAWjnuMB"

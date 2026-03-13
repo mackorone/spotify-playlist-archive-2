@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Sifat Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,347 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,358 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 12 | [Nazm](https://open.spotify.com/track/7uGsFxgJHORZyuoYeU4rcA) | [Gur Aulakh](https://open.spotify.com/artist/4VmyHpdcbMcIM7DwuiTA5R) | [Nazm](https://open.spotify.com/album/2aRxjFU6OwuGj94PM8UKEB) | 3:18 |
 | 13 | [Rustic Lads](https://open.spotify.com/track/1A9oSjySLeCkItXEEA3s8t) | [Heaven](https://open.spotify.com/artist/5GSq2GrKEiL9qq1Vka2zZY), [GROOVX](https://open.spotify.com/artist/7xsucfxpIUiAgmnNPhIHhu) | [Rustic Lads](https://open.spotify.com/album/6JKzK1fqRKI50O0wgTDNX2) | 2:17 |
 | 14 | [Burn](https://open.spotify.com/track/3sFrec6CWSC1Zv5oXZSlVP) | [Arry Krown](https://open.spotify.com/artist/4clfOKTzZ9CAvRieykRtSD) | [Burn](https://open.spotify.com/album/10NuCUr5lPFFPz1MxB57w5) | 2:19 |
-| 15 | [Forget You](https://open.spotify.com/track/2EwTep99vHMPigQWrkFOvx) | [Karan Doraha](https://open.spotify.com/artist/5IY5dFeSUK6pPECBdZui1U), [Aarik](https://open.spotify.com/artist/3fDkKiazqIsXeIKSFrXH7T), [Gavin Beats](https://open.spotify.com/artist/4TLzjsNGObuG4T5K3CqYqS) | [Forget You](https://open.spotify.com/album/4rGmcOlW4zu4SfRNY7lAqt) | 2:56 |
+| 15 | [Forget You](https://open.spotify.com/track/2EwTep99vHMPigQWrkFOvx) | [Aarik](https://open.spotify.com/artist/3fDkKiazqIsXeIKSFrXH7T), [Karan Doraha](https://open.spotify.com/artist/5IY5dFeSUK6pPECBdZui1U), [Gavin Beats](https://open.spotify.com/artist/4TLzjsNGObuG4T5K3CqYqS) | [Forget You](https://open.spotify.com/album/4rGmcOlW4zu4SfRNY7lAqt) | 2:56 |
 | 16 | [Classic Vibe](https://open.spotify.com/track/6HbdPpUf24y72hOmdNivOw) | [Sahib Sidhu](https://open.spotify.com/artist/3aHwbOA6XOhMQ3kJlzdKu7), [Las Ludhar](https://open.spotify.com/artist/4bX30ekS0D81cdMhULqNjn), [Mike](https://open.spotify.com/artist/5uw4MXu3RKmBdlFJsFYvvo) | [Classic Vibe](https://open.spotify.com/album/3v8UE4LaV0QpJbzuOCII46) | 2:48 |
 | 17 | [Love Letter](https://open.spotify.com/track/4z6jXkIzrZMrUhROYeByD6) | [MIRR](https://open.spotify.com/artist/51IC4icX2WpkZEoUq38p2X), [Stanley Christ](https://open.spotify.com/artist/2zVvBavjEozzPvDFL32oXr) | [Love Letter](https://open.spotify.com/album/6YDdjdfs1p64dOEbCj9CMI) | 2:03 |
 | 18 | [Amli Di Asees](https://open.spotify.com/track/2NodIdHkT69E9MM7iTRqwM) | [Ujagar Antal](https://open.spotify.com/artist/5EzQv68g736lg43rusLOmz), [Sound is Magic](https://open.spotify.com/artist/0RCEfzlQ3rZgyKzdLT4Sii) | [Amli Di Asees](https://open.spotify.com/album/1jopAMjiL7s5KaHP9wK5da) | 2:15 |

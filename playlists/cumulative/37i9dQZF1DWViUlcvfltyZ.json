@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 Bambole di Pezza in cover",
+  "description": "Rock, indie e punk dall'Italia \ud83c\udfb8 TA GA DA in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -7819,6 +7819,24 @@
     },
     {
       "album": {
+        "name": "Dimenticare Maria",
+        "url": "https://open.spotify.com/album/7o4zOiFSrX03obi36r1YiC"
+      },
+      "artists": [
+        {
+          "name": "Pierpaolo Capovilla e i Cattivi Maestri",
+          "url": "https://open.spotify.com/artist/4NbLiEcytmqmvXoro1u2jO"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Dimenticare Maria",
+      "url": "https://open.spotify.com/track/5q1bue3zwLf0N18K6NTLAl"
+    },
+    {
+      "album": {
         "name": "dimmi / sali contro",
         "url": "https://open.spotify.com/album/3fZ76TjU9SyIHcJ22YgK8F"
       },
@@ -8162,7 +8180,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 180845,
       "name": "Divento matta",
       "url": "https://open.spotify.com/track/2ihsPvpaXhRwiru5mj3r6F"
@@ -10016,7 +10034,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 233918,
       "name": "Fears",
       "url": "https://open.spotify.com/track/2NmjsCUCd7AEadtqSwuR0G"
@@ -11030,7 +11048,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 193200,
       "name": "FORTE",
       "url": "https://open.spotify.com/track/4oJyldfMmBIDZhVH5AyiIq"
@@ -12988,7 +13006,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 322582,
       "name": "Ho avuto una disavventura",
       "url": "https://open.spotify.com/track/4uTGKhXTGA0ptcvBB75gKZ"
@@ -14410,7 +14428,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 414993,
       "name": "Impulse",
       "url": "https://open.spotify.com/track/2mG9EP4HtYpI8U4gAiTi8I"
@@ -14940,7 +14958,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 228920,
       "name": "It's All About the Music",
       "url": "https://open.spotify.com/track/6jFHZR2lqHhpZifGgIhVtQ"
@@ -15348,7 +15366,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 435880,
       "name": "Kether",
       "url": "https://open.spotify.com/track/5rj5QQoIexPzUlT9gwWxtG"
@@ -15946,7 +15964,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 181516,
       "name": "La Cattedrale Nel Deserto",
       "url": "https://open.spotify.com/track/71kg30dxjWGKKc0rDngJkq"
@@ -18913,6 +18931,24 @@
     },
     {
       "album": {
+        "name": "MEGANUVOLE",
+        "url": "https://open.spotify.com/album/2RHmKsZvXPILZcoNqilMbZ"
+      },
+      "artists": [
+        {
+          "name": "ELETTRICA",
+          "url": "https://open.spotify.com/artist/2ZXPwoWGIuwqjLNLboL3pa"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161390,
+      "name": "MEGANUVOLE",
+      "url": "https://open.spotify.com/track/6kwhOlMxmY7jXRb1WTWMbx"
+    },
+    {
+      "album": {
         "name": "Il Male",
         "url": "https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB"
       },
@@ -19884,7 +19920,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166253,
       "name": "Mucca rossa",
       "url": "https://open.spotify.com/track/1DNqb0Tv2tMl50yHIfocpD"
@@ -19902,7 +19938,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 180527,
       "name": "much more",
       "url": "https://open.spotify.com/track/4mFbKPnQEUYAJrKeNm4XPV"
@@ -22243,6 +22279,24 @@
     },
     {
       "album": {
+        "name": "mentre i monsoni curano e scuotono l'erba rimasta,",
+        "url": "https://open.spotify.com/album/1NZDEMGSuAhjsxPZfLFjaM"
+      },
+      "artists": [
+        {
+          "name": "Quercia",
+          "url": "https://open.spotify.com/artist/5AQAAs2emLmGYAd8UuNmbK"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222307,
+      "name": "OMBRA",
+      "url": "https://open.spotify.com/track/1F3C2pEE3A9GsQt6Rk5BhW"
+    },
+    {
+      "album": {
         "name": "Ombrastella",
         "url": "https://open.spotify.com/album/5FQu9txwDquLt5YTZ7FVsE"
       },
@@ -24008,7 +24062,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 275394,
       "name": "PI\u016e IN L\u1eae",
       "url": "https://open.spotify.com/track/7qVtvVH8lL3b8quOy7cyWg"
@@ -25135,6 +25189,24 @@
     },
     {
       "album": {
+        "name": "PUPILLE",
+        "url": "https://open.spotify.com/album/6XD8iIUVoLiw7SP9qlZMRd"
+      },
+      "artists": [
+        {
+          "name": "Fris\u00e0ri",
+          "url": "https://open.spotify.com/artist/2f6mtYy1MV0l5jYGGdCYTN"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168882,
+      "name": "PUPILLE",
+      "url": "https://open.spotify.com/track/4MoM1T728DkSUTCsSjz1eT"
+    },
+    {
+      "album": {
         "name": "Puttanate (feat. WISM)",
         "url": "https://open.spotify.com/album/1DbgpdPsrmzZ53vwD1h269"
       },
@@ -26009,6 +26081,24 @@
     },
     {
       "album": {
+        "name": "Ritorneremo a guardare il Cielo",
+        "url": "https://open.spotify.com/album/0sDJcMrutg2iXvyGPcHDIP"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228658,
+      "name": "Ritorneremo a guardare il Cielo",
+      "url": "https://open.spotify.com/track/1fTVs2Yk7n2YfcdaGTMt5b"
+    },
+    {
+      "album": {
         "name": "ROBOT",
         "url": "https://open.spotify.com/album/5gUEAgSu6p8Wmpjt0LPPiG"
       },
@@ -26096,7 +26186,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 151431,
       "name": "ROMEO",
       "url": "https://open.spotify.com/track/3PnG9kOSBr3HLLyyn7zATh"
@@ -26536,7 +26626,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 199426,
       "name": "SANTI NUMERI",
       "url": "https://open.spotify.com/track/6A9PEiqbaVTfHys6mHz8O1"
@@ -28263,6 +28353,24 @@
     },
     {
       "album": {
+        "name": "Last Party on Planet Earth",
+        "url": "https://open.spotify.com/album/2HcGg5hmSRruJ0ADDUh4Qy"
+      },
+      "artists": [
+        {
+          "name": "TA GA DA",
+          "url": "https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190706,
+      "name": "Something Happy",
+      "url": "https://open.spotify.com/track/41hHM7ARxN45iwzdviL6tj"
+    },
+    {
+      "album": {
         "name": "Something Is Not Right",
         "url": "https://open.spotify.com/album/5btnTuoNpS1zzeEKegid1g"
       },
@@ -29101,6 +29209,32 @@
     },
     {
       "album": {
+        "name": "Stoccarda",
+        "url": "https://open.spotify.com/album/1Of3NFCXG2YpFcWrqF9gIl"
+      },
+      "artists": [
+        {
+          "name": "WEL",
+          "url": "https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v"
+        },
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        },
+        {
+          "name": "Why Everyone Left",
+          "url": "https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193064,
+      "name": "Stoccarda",
+      "url": "https://open.spotify.com/track/4TjPVh3mPpirlezZbwc5AO"
+    },
+    {
+      "album": {
         "name": "Stoccolma",
         "url": "https://open.spotify.com/album/4eweWKEWbfTRVPwnf5AFZo"
       },
@@ -29412,7 +29546,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 211066,
       "name": "Sugar Crush",
       "url": "https://open.spotify.com/track/6SjBSJ6oi2j6EuH8wfKkC7"
@@ -32139,6 +32273,24 @@
     },
     {
       "album": {
+        "name": "UN DOLORE COS\u00cc GRANDE DA FARE PIET\u00c0 AL MONDO INTERO",
+        "url": "https://open.spotify.com/album/0seOmBNpbD8jUMYvnmvdyT"
+      },
+      "artists": [
+        {
+          "name": "Ozone Dehumanizer",
+          "url": "https://open.spotify.com/artist/2T7ZaWYc2rjC2q3egoJmh0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "UN DOLORE COS\u00cc GRANDE DA FARE PIET\u00c0 AL MONDO INTERO",
+      "url": "https://open.spotify.com/track/4UMAoxTefoxALbcYyDOYZ9"
+    },
+    {
+      "album": {
         "name": "Un posto sicuro",
         "url": "https://open.spotify.com/album/2eocM3c7Mj3d9rx7DUmITa"
       },
@@ -33168,6 +33320,24 @@
       "duration_ms": 193548,
       "name": "Vigliacco",
       "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
+    },
+    {
+      "album": {
+        "name": "Villa",
+        "url": "https://open.spotify.com/album/13bbVV3gIvdNGwxVGgqJUZ"
+      },
+      "artists": [
+        {
+          "name": "c\u00f3lgate",
+          "url": "https://open.spotify.com/artist/7xMg8PQdfAjo77YAv5j886"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268585,
+      "name": "Villa",
+      "url": "https://open.spotify.com/track/2DNrCPimliGqfMHNTs5PDZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 
 > Nuevo sonido, misma actitud.<br/>📷 C.R.O
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,335 likes - 37 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,334 likes - 37 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTphHAHFWZlz.md) - [plain]
 | 21 | [Muñecas](https://open.spotify.com/track/6LH7FdWPmuPphhCQfPkiwq) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [Por cesárea](https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19) | 2:14 |
 | 22 | [QUEMARÁS](https://open.spotify.com/track/37o3TuM0nRPMa9f9qpUKlo) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 4:23 |
 | 23 | [INVESTIDO](https://open.spotify.com/track/0gX9K4YtmMaODBFtPTU4mI) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [INVESTIDO](https://open.spotify.com/album/1YfLcIRbHLHVqz3cTxm7cB) | 3:23 |
-| 24 | [gore](https://open.spotify.com/track/4Zz2Twa9RJPjGZFvU24DrZ) | [Todos tus tanques soviéticos](https://open.spotify.com/artist/2QLlejzsLMXgXXupbu1x05), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [philosofia occulta](https://open.spotify.com/album/6UJlHDHTbGvwHhU8FB7GjF) | 3:06 |
+| 24 | [gore \(feat\. Saramalacara\)](https://open.spotify.com/track/4Zz2Twa9RJPjGZFvU24DrZ) | [Todos tus tanques soviéticos](https://open.spotify.com/artist/2QLlejzsLMXgXXupbu1x05), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [philosofia occulta](https://open.spotify.com/album/6UJlHDHTbGvwHhU8FB7GjF) | 3:06 |
 | 25 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 |
 | 26 | [ES TIEMPO](https://open.spotify.com/track/2DCChX8EUuSAtlhdILQCos) | [Kid Munni](https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL), [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY), [Bullz](https://open.spotify.com/artist/7fakgBRUaUmAO91c9INRp1) | [ES TIEMPO](https://open.spotify.com/album/3bzOjrVIwXHqJR7jYGc6iC) | 2:29 |
 | 27 | [MISSIN CHILDREN](https://open.spotify.com/track/7k5s8zIy5dkKwSHEumOTcq) | [BARRO](https://open.spotify.com/artist/15eDgdb1lKrgc9DDtuLN41) | [MISSIN CHILDREN](https://open.spotify.com/album/1QeC2pee09euMrbAWBxVpm) | 3:13 |

@@ -6388,7 +6388,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158400,
       "name": "Brasileiro",
       "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
@@ -12750,7 +12750,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 198991,
       "name": "Dor Sa Te Ador",
       "url": "https://open.spotify.com/track/5w3USA7vA4NTm9UEozPfe5"
@@ -13506,7 +13506,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 141539,
       "name": "E Mult, E Greu!",
       "url": "https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj"
@@ -24366,7 +24366,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 147105,
       "name": "LNPSTRD",
       "url": "https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE"
@@ -25222,7 +25222,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -29206,7 +29206,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 198720,
       "name": "Nikki beach - Live",
       "url": "https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6"
@@ -29808,7 +29808,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -36797,6 +36797,28 @@
     },
     {
       "album": {
+        "name": "Savarina",
+        "url": "https://open.spotify.com/album/2nCbDW6mS89B84qOEEvHLo"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        },
+        {
+          "name": "Raul Talent",
+          "url": "https://open.spotify.com/artist/7xgc59lft0bnMy6GeEurfb"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197845,
+      "name": "Savarina",
+      "url": "https://open.spotify.com/track/1bxvAh3tyCH6HjQf8g8MYH"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -41450,6 +41472,32 @@
       "duration_ms": 155492,
       "name": "Taifun",
       "url": "https://open.spotify.com/track/3tXJ0F5JkIFyrP9FS1n8FV"
+    },
+    {
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/3CFqZPqAQvYgUWGAYy8vMT"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Lazy Ed",
+          "url": "https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T"
+        },
+        {
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Taj Mahal",
+      "url": "https://open.spotify.com/track/5JVGD7bFXKxWbSt1KItPz0"
     },
     {
       "album": {
@@ -48194,7 +48242,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 173962,
       "name": "Zambete si Pacate",
       "url": "https://open.spotify.com/track/2ozyskqNWm7TaqBSkZuMzF"

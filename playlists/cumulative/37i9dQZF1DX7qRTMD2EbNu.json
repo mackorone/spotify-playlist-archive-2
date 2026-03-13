@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Haeven",
+  "description": "Hottest bars coming live from the 233.  Cover: Pappy Kojo",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -820,7 +820,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 127059,
       "name": "Ade Akye",
       "url": "https://open.spotify.com/track/2hqMtVxtKOLybrRZEaIExk"
@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 236286,
       "name": "BERMA",
       "url": "https://open.spotify.com/track/5VDSoZclZThi6r0YpvRZIJ"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 149504,
       "name": "BRAG",
       "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
@@ -4586,7 +4586,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 163312,
       "name": "Do Go",
       "url": "https://open.spotify.com/track/5KSc1Luy5JOjV5TEXfdOv9"
@@ -6542,7 +6542,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166946,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/78XEIgiwRkYr45jkArEu0U"
@@ -10153,6 +10153,24 @@
     },
     {
       "album": {
+        "name": "Masallaci",
+        "url": "https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125050,
+      "name": "Masallaci",
+      "url": "https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ"
+    },
+    {
+      "album": {
         "name": "Masesa",
         "url": "https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S"
       },
@@ -12402,7 +12420,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 151302,
       "name": "Old Town Boy",
       "url": "https://open.spotify.com/track/12INBn6agoWW9LrYschxbd"
@@ -12578,7 +12596,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 133846,
       "name": "On Yo Necks",
       "url": "https://open.spotify.com/track/1UHAX3IAWg0JiP5rTPrkcp"
@@ -13955,6 +13973,28 @@
     },
     {
       "album": {
+        "name": "Happy Place",
+        "url": "https://open.spotify.com/album/2mvDoIS4T250xZx5qTy1mE"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207107,
+      "name": "Ringing",
+      "url": "https://open.spotify.com/track/3Nk9QDlj5NJlXX2HeSZwVb"
+    },
+    {
+      "album": {
         "name": "Emeka Must Shine",
         "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
@@ -14084,6 +14124,28 @@
       "duration_ms": 159274,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/28WdABswL19KArcoOwosy3"
+    },
+    {
+      "album": {
+        "name": "Ronaldinho",
+        "url": "https://open.spotify.com/album/2azhkqY7BdmLsi9R9j6lOW"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Ronaldinho",
+      "url": "https://open.spotify.com/track/4brOqZdf8uJ4FI5pGjghIe"
     },
     {
       "album": {
@@ -17272,7 +17334,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 142876,
       "name": "Valley Of Trappers (feat. Sarkodie) - Remix",
       "url": "https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH"
@@ -18982,7 +19044,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 145606,
       "name": "ZERO!",
       "url": "https://open.spotify.com/track/0JNULGCTNF3w2K7jRG65wm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF?si=vzaRdMYHQP6Hqzr1zbo6RA">Indi</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,199 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,205 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Biko](https://open.spotify.com/track/6OYOI8Ra1mvKGaL0tbiz6X) | [Remii](https://open.spotify.com/artist/68esPVBE3V7wjSPVmZ6jBM) | [Biko](https://open.spotify.com/album/1omjc1eKWElNR5U7Vad8gZ) | 4:03 |
 | 50 | [Light Up](https://open.spotify.com/track/7cPQvg01xbNol5bxhkU5QS) | [GRRRL](https://open.spotify.com/artist/0LFaqcs0KjYIkJTeO8i8lv) | [Light Up](https://open.spotify.com/album/6hdMCMQXidycWKY0QfN7n8) | 3:09 |
 
-Snapshot ID: `AAAAAMdsTBPYG3fnj3G4DcwE5krT2xaX`
+Snapshot ID: `AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou`

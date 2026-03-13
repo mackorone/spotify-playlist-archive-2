@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Moln\u00e1r Tam\u00e1s",
+  "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Fran Palermo",
   "name": "Nemazapop",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 214857,
       "name": "Ahogy szeretn\u00e9m",
       "url": "https://open.spotify.com/track/7l8hJYGHuauTSq23YUCCjI"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 202000,
       "name": "Any\u00e1.dal",
       "url": "https://open.spotify.com/track/2T6Xy7ksxCL22GHKPJKjF1"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 188230,
       "name": "H\u00e9jan\u00e1sz",
       "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
@@ -2742,6 +2742,24 @@
       "duration_ms": 196933,
       "name": "H\u00edv a dzsungel",
       "url": "https://open.spotify.com/track/6iMw9c1I2JgfKK6Xh0FMIj"
+    },
+    {
+      "album": {
+        "name": "H\u00fazz",
+        "url": "https://open.spotify.com/album/5H2Q1krXDeqoUBFzqWP2JG"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221647,
+      "name": "H\u00fazz",
+      "url": "https://open.spotify.com/track/61NYXdAUq3ALnZDEpQBo4W"
     },
     {
       "album": {
@@ -3270,6 +3288,24 @@
       "duration_ms": 215454,
       "name": "Kutatom Az \u00c9jben",
       "url": "https://open.spotify.com/track/0rIaHA1ha2fniPPAr90LgE"
+    },
+    {
+      "album": {
+        "name": "k\u00e9k",
+        "url": "https://open.spotify.com/album/1Hs5kKl6TkFC4VMfGlUIDq"
+      },
+      "artists": [
+        {
+          "name": "fllozz",
+          "url": "https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181271,
+      "name": "k\u00e9k",
+      "url": "https://open.spotify.com/track/70m0XDH55DdFSGfWcUa3Wz"
     },
     {
       "album": {
@@ -4301,6 +4337,24 @@
     },
     {
       "album": {
+        "name": "MURMUR OF POPINJAYS",
+        "url": "https://open.spotify.com/album/4DCwdOAngCzhSCy7Ypp7iT"
+      },
+      "artists": [
+        {
+          "name": "Fran Palermo",
+          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "MURMUR OF POPINJAYS",
+      "url": "https://open.spotify.com/track/3siRHynYlSsTq4BY7WTDTy"
+    },
+    {
+      "album": {
         "name": "M\u00c1SHOGY F\u00daJ",
         "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
@@ -4320,6 +4374,28 @@
       "duration_ms": 142500,
       "name": "M\u00c1SHOGY F\u00daJ",
       "url": "https://open.spotify.com/track/3AtfBJxq2HLnFHAD6PjKbj"
+    },
+    {
+      "album": {
+        "name": "M\u00e1shol",
+        "url": "https://open.spotify.com/album/4zcMvggcYSiNsLkjsGhbW7"
+      },
+      "artists": [
+        {
+          "name": "Saya No\u00e9",
+          "url": "https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead"
+        },
+        {
+          "name": "The Roving Chess Club",
+          "url": "https://open.spotify.com/artist/7oWv4AOV5Qsozw9t8oRTF3"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "M\u00e1shol",
+      "url": "https://open.spotify.com/track/5kbkUAKvGpvybn0Q8S0sz4"
     },
     {
       "album": {
@@ -5038,7 +5114,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 240000,
       "name": "Porcel\u00e1n",
       "url": "https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P"
@@ -5530,7 +5606,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 215400,
       "name": "Senki m\u00e1s",
       "url": "https://open.spotify.com/track/7LlKfMzkf463SkwfDGWNFw"
@@ -6059,6 +6135,24 @@
     },
     {
       "album": {
+        "name": "Glencz",
+        "url": "https://open.spotify.com/album/2kzhU0TPRZBx1b4LYQDgMF"
+      },
+      "artists": [
+        {
+          "name": "Glencz",
+          "url": "https://open.spotify.com/artist/0XHOELRV01OSt0gnskSQHX"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554268,
+      "name": "sz\u00e9kv\u00e1rosi",
+      "url": "https://open.spotify.com/track/3Rexhre7Z6Bty38hTqfW4R"
+    },
+    {
+      "album": {
         "name": "Tov\u00e1bb Visz az \u00dat",
         "url": "https://open.spotify.com/album/0tbY67YY16eTkihTJZFuos"
       },
@@ -6128,7 +6222,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178064,
       "name": "sz\u00f3lj (aranyh\u00edd)",
       "url": "https://open.spotify.com/track/7yDW67RLU93TVsXv177s8I"
@@ -6236,7 +6330,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 214933,
       "name": "Take me there",
       "url": "https://open.spotify.com/track/4l2unL4Uf5TtuzleCkVMBH"
@@ -6547,6 +6641,28 @@
     },
     {
       "album": {
+        "name": "Var\u00e1zsl\u00f3",
+        "url": "https://open.spotify.com/album/5qTQ3jcX1C1aInA5uscrAw"
+      },
+      "artists": [
+        {
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        },
+        {
+          "name": "DO\u00d3R",
+          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Var\u00e1zsl\u00f3",
+      "url": "https://open.spotify.com/track/5EPQGeSQ6UdYXJorfacReL"
+    },
+    {
+      "album": {
         "name": "VERTIGO",
         "url": "https://open.spotify.com/album/5jcSebHW2VdUSrirHFuDnF"
       },
@@ -6670,6 +6786,24 @@
       "duration_ms": 125844,
       "name": "Visszav\u00e1rsz",
       "url": "https://open.spotify.com/track/329tYqlYRGeB1OauTkGlcC"
+    },
+    {
+      "album": {
+        "name": "Viszl\u00e1t \u00e9s k\u00f6sz a semmit",
+        "url": "https://open.spotify.com/album/2CISEL96VP7Z1z6L4zTJhv"
+      },
+      "artists": [
+        {
+          "name": "Fels\u0151 T\u00edzezer",
+          "url": "https://open.spotify.com/artist/6rCBaun2Qej3nc0ByotcX9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213625,
+      "name": "Viszl\u00e1t \u00e9s k\u00f6sz a semmit",
+      "url": "https://open.spotify.com/track/41TWpWKLOf7iuGGWjemUPW"
     },
     {
       "album": {
@@ -6901,6 +7035,24 @@
     },
     {
       "album": {
+        "name": "zaj zaj zaj",
+        "url": "https://open.spotify.com/album/5zJI7a6djvzE6i42mziDxP"
+      },
+      "artists": [
+        {
+          "name": "kristoaf",
+          "url": "https://open.spotify.com/artist/1JkASUd5gc4NlepQHX4KVz"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157818,
+      "name": "zaj zaj zaj",
+      "url": "https://open.spotify.com/track/0q1SXUHIMz4A74SRB7IMrS"
+    },
+    {
+      "album": {
         "name": "Zenekar (5 f\u0151re)",
         "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
       },
@@ -7100,7 +7252,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 210285,
       "name": "\u00c9n velem",
       "url": "https://open.spotify.com/track/5Zvi5IKLByksDaExqIQxi0"

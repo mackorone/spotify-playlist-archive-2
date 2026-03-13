@@ -22372,7 +22372,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 229960,
       "name": "Eligete",
       "url": "https://open.spotify.com/track/2R32mSucWolCTZpK59BU6p"
@@ -31628,7 +31628,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -31650,7 +31650,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -44132,6 +44132,24 @@
       "duration_ms": 174586,
       "name": "M\u00e1rchate",
       "url": "https://open.spotify.com/track/7ywyOW3ugVzVBIU3TFO9af"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cabrona Que Bonita",
+        "url": "https://open.spotify.com/album/2lLcHus9NDEI5VmZ1t57AH"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n el Fore\u00f1o",
+          "url": "https://open.spotify.com/artist/0rfBqzuUMHafesJhWGZLpE"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "M\u00e1s Cabrona Que Bonita",
+      "url": "https://open.spotify.com/track/61sGl1UmPXEVATQMRjQ8WV"
     },
     {
       "album": {
@@ -67838,7 +67856,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 244157,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/2KuWVKFdHHNBsu7pwXBdnL"
@@ -67860,7 +67878,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 244157,
       "name": "Tus Ojitos",
       "url": "https://open.spotify.com/track/1neSPke3GXS2JpR9XBjQ0w"

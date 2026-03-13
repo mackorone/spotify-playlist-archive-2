@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:4iBwchw0U0GZv5RfVYSMxN">Anyma</a>'s favorite tracks\. Updated regularly\. Curated by Anyma\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,868 likes - 47 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,897 likes - 47 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 46 | [Paradise Engineering](https://open.spotify.com/track/3X4dCNeVxPCqiRfyB5hJeH) | [Barker](https://open.spotify.com/artist/3LEGPWdr7sarYtf2u0ETWN) | [Utility](https://open.spotify.com/album/5F3YJdIjGHhnUVuD96G1mz) | 4:08 |
 | 47 | [Black White Felt](https://open.spotify.com/track/5n1HBXOeeKzEfdlEMJ6Tmm) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Arnold Kasar](https://open.spotify.com/artist/700im8kgUAWwcvUOAqrTWm) | [Einfluss](https://open.spotify.com/album/3UNzfV1VqrqTBTHLa3flUd) | 4:01 |
 
-Snapshot ID: `AAAAAA7iXtjbfZQKAAVnoubOsrgYnKmA`
+Snapshot ID: `AAAAAPqusM5AWmXxphabbOXBK+Xm0xqD`

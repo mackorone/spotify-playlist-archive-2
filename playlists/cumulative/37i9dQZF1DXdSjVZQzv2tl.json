@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Diego & Arnaldo, Mari Fernandez",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Mayke & Rodrigo, Panda",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -50,7 +50,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 250453,
       "name": "12 Horas / Pra Voc\u00ea Acreditar - Ao Vivo",
       "url": "https://open.spotify.com/track/2j7IPPMZt5nE5R4r2AbKZ8"
@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "Feito \u00c0 M\u00e3o",
+        "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Assunto Que D\u00f3i",
+      "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
+    },
+    {
+      "album": {
         "name": "Ativou a Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw"
       },
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 171828,
       "name": "Carona - Ao Vivo",
       "url": "https://open.spotify.com/track/61IoU1fMZBkTpilKp2zUbF"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 171207,
       "name": "Escondendo o Ouro - Ao Vivo",
       "url": "https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt"
@@ -3426,6 +3444,24 @@
       "duration_ms": 191365,
       "name": "Haver\u00e1 Sinais - Ao Vivo",
       "url": "https://open.spotify.com/track/6X6jKoyw1OjogRghMEQAZV"
+    },
+    {
+      "album": {
+        "name": "Impulso, Vol 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/40Xc6SkClmEJasKW4hfXIp"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155553,
+      "name": "Hoje N\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7rrzNI9TrcK7HLc5mBHUJn"
     },
     {
       "album": {
@@ -4726,6 +4762,28 @@
       "duration_ms": 126043,
       "name": "N\u00e3o Mexe nas Minhas Gavetas - Ao Vivo",
       "url": "https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Namora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5kruHqqKGLGBQzYE8zXKBA"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135925,
+      "name": "N\u00e3o Namora - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx"
     },
     {
       "album": {
@@ -6158,7 +6216,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 192034,
       "name": "Seja Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/5k7JSycp97vL45zSOoUsTE"

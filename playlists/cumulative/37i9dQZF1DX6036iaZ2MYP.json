@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Ayra Starr",
+  "description": "Tracks popping off in the Afro scene. Cover:  Emma'a",
   "name": "Afro Station",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 162924,
       "name": "ABRICOT",
       "url": "https://open.spotify.com/track/7ztrqyPZBXAa6WPzkiSiFH"
@@ -6342,7 +6342,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 147136,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3t2UkOpuNwp89xhvRYzLuT"
@@ -10991,6 +10991,24 @@
     },
     {
       "album": {
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
+    },
+    {
+      "album": {
         "name": "Jumoke",
         "url": "https://open.spotify.com/album/6WX4WjbumSDgllaiFTVCit"
       },
@@ -15347,6 +15365,28 @@
     },
     {
       "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149446,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
+    },
+    {
+      "album": {
         "name": "No Water",
         "url": "https://open.spotify.com/album/4CZTpnNW2j84quai10f5Bv"
       },
@@ -15740,6 +15780,24 @@
       "duration_ms": 163459,
       "name": "Odjo",
       "url": "https://open.spotify.com/track/3XeU69FyLpUT2UPGcrtKKI"
+    },
+    {
+      "album": {
+        "name": "G-POP CLASSIKS .02",
+        "url": "https://open.spotify.com/album/1fn8dKD4ny7VinAvpTw6sp"
+      },
+      "artists": [
+        {
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150878,
+      "name": "OFELE",
+      "url": "https://open.spotify.com/track/4DtmqIBYcK7y9u8Z1Dat6m"
     },
     {
       "album": {
@@ -16326,7 +16384,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 139500,
       "name": "Opeuhh (feat. KeBlack)",
       "url": "https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH"
@@ -16472,7 +16530,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 167011,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV"
@@ -16666,7 +16724,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 147302,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
@@ -21086,6 +21144,32 @@
       "duration_ms": 159322,
       "name": "Touch me (feat. Ya Levis)",
       "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
+    },
+    {
+      "album": {
+        "name": "CYCLE",
+        "url": "https://open.spotify.com/album/7iI0U5Wgr4GnDlzIKPzmYB"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Louzio",
+          "url": "https://open.spotify.com/artist/1RpZELzUnXRdGMTrKB72WU"
+        },
+        {
+          "name": "Team Paiya",
+          "url": "https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "Touch\u00e9 coul\u00e9 (feat. Louzio & Team Paiya)",
+      "url": "https://open.spotify.com/track/6LX6p2kiEzDHBcIJFHQt15"
     },
     {
       "album": {

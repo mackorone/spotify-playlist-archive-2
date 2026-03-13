@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Noah James, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,801 likes - 66 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,829 likes - 66 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

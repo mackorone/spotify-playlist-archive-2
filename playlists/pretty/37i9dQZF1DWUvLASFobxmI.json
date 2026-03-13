@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Varones de Culiac\u00e1n en portada.",
-  "num_followers": 528086,
+  "num_followers": 528139,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
+        "name": "Con Aktitud Corazon Y Huevos",
+        "url": "https://open.spotify.com/album/13mRHd5JtLn6Apw9sT1MCL"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        }
+      ],
+      "duration_ms": 254116,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/1e5ibZlcAQbacLRbDhzxTP"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
         "name": "La Competencia",
         "url": "https://open.spotify.com/album/0H8nE43nDhqMZraIKli5BY"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 209160,
       "name": "La Competencia",
       "url": "https://open.spotify.com/track/2PtN8j46BwZtlbJxyZFamd"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
-        "name": "Con Aktitud Corazon Y Huevos",
-        "url": "https://open.spotify.com/album/13mRHd5JtLn6Apw9sT1MCL"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aktitud",
-          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
-        }
-      ],
-      "duration_ms": 254116,
-      "name": "Sue\u00f1a",
-      "url": "https://open.spotify.com/track/1e5ibZlcAQbacLRbDhzxTP"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
+        "name": "Como Te Amo Yo",
+        "url": "https://open.spotify.com/album/5YmHECrIOvtkrct1ZK5cEV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Chavalos",
+          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
+        }
+      ],
+      "duration_ms": 149508,
+      "name": "Como Te Amo Yo",
+      "url": "https://open.spotify.com/track/2cBTMnfIhtnvxNN1bqGjc9"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/0l4NEsMS7JI8tZYCSIsab5"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 162134,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1h3qsWhQq2OTwCUnZPpNXX"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
-        "name": "Como Te Amo Yo",
-        "url": "https://open.spotify.com/album/5YmHECrIOvtkrct1ZK5cEV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Chavalos",
-          "url": "https://open.spotify.com/artist/3J8o4uEwZq2fYACRxm4rgf"
-        }
-      ],
-      "duration_ms": 149508,
-      "name": "Como Te Amo Yo",
-      "url": "https://open.spotify.com/track/2cBTMnfIhtnvxNN1bqGjc9"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "El Gran Elemento",
-        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "El Gran Elemento",
-      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "A Bailar Huapangos Vol.2",
         "url": "https://open.spotify.com/album/3BrcMSYrYGMrnhFlb4wImF"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 169484,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/2QYc8Rh7ogygZK77usef00"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "El Gran Elemento",
+        "url": "https://open.spotify.com/album/5WNDmgAhcrpHNTD3JVaL9q"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "El Gran Elemento",
+      "url": "https://open.spotify.com/track/4USqdUtK5uFAhvLm2Oejec"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Que Viva El Amor",
-        "url": "https://open.spotify.com/album/6G0mgUaqGHcBzAoZZVj6r8"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 147022,
-      "name": "Que Viva El Amor",
-      "url": "https://open.spotify.com/track/4qEefGyrhP8ZAcotTWQfYs"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "Tu Clavo",
         "url": "https://open.spotify.com/album/6DRYfEbBa7Fouauh2HxGuf"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 144791,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Que Viva El Amor",
+        "url": "https://open.spotify.com/album/6G0mgUaqGHcBzAoZZVj6r8"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 147022,
+      "name": "Que Viva El Amor",
+      "url": "https://open.spotify.com/track/4qEefGyrhP8ZAcotTWQfYs"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/548tU1ysBV2DfOr5upovQv"
+      },
+      "artists": [
+        {
+          "name": "Tony Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6S6CZfhAy7T36SppunzYI8"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
         "name": "Ecos De Amor",
         "url": "https://open.spotify.com/album/0vxZoq1wybx9ovrjj0gr4v"
       },
@@ -1143,6 +1159,22 @@
       "duration_ms": 147750,
       "name": "Justo En El Cora",
       "url": "https://open.spotify.com/track/0bkxr2YDc09a2ghJbD2UTe"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Selectiva",
+        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 141101,
+      "name": "Selectiva",
+      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1163,22 +1195,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/548tU1ysBV2DfOr5upovQv"
-      },
-      "artists": [
-        {
-          "name": "Tony Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6S6CZfhAy7T36SppunzYI8"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "Mi Potra",
         "url": "https://open.spotify.com/album/6CtAa222LPUIPcR06yPK3Z"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 193015,
       "name": "Mi Potra",
       "url": "https://open.spotify.com/track/2fwihVz6TlJkSn6CKfx1SF"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
-        "name": "Selectiva",
-        "url": "https://open.spotify.com/album/5WLtyQPSuBnKE7lB2O3HzB"
-      },
-      "artists": [
-        {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
-        }
-      ],
-      "duration_ms": 141101,
-      "name": "Selectiva",
-      "url": "https://open.spotify.com/track/5KgIfj8LTD4ewnlML92z5g"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
+        "name": "El Consejo",
+        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        }
+      ],
+      "duration_ms": 171444,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
         "name": "Cuando Dijiste Adi\u00f3s",
         "url": "https://open.spotify.com/album/2WKQUyedp7b3torl0iE2o0"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 167000,
       "name": "Cuando Dijiste Adi\u00f3s",
       "url": "https://open.spotify.com/track/65nsPnxHZpJahXy4QfJla2"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
-        "name": "El Consejo",
-        "url": "https://open.spotify.com/album/2GpMW8JHWFG7BviHG1ty95"
-      },
-      "artists": [
-        {
-          "name": "Superiores de Nuevo Leon",
-          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "El Consejo",
-      "url": "https://open.spotify.com/track/477GwOC8yxmOrVUY8dAAnc"
     },
     {
       "added_at": "2026-03-06 06:00:09",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-03-06 06:00:09",
       "album": {
-        "name": "Pueblito",
-        "url": "https://open.spotify.com/album/3FhSGwBa5z49kVa6MJjgAS"
-      },
-      "artists": [
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        }
-      ],
-      "duration_ms": 224490,
-      "name": "Pueblito",
-      "url": "https://open.spotify.com/track/11CLUu5OqX6I0QZFTom8zD"
-    },
-    {
-      "added_at": "2026-03-06 06:00:09",
-      "album": {
         "name": "Por Debajo del Agua",
         "url": "https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 247479,
       "name": "Por Debajo del Agua",
       "url": "https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/3FhSGwBa5z49kVa6MJjgAS"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "duration_ms": 224490,
+      "name": "Pueblito",
+      "url": "https://open.spotify.com/track/11CLUu5OqX6I0QZFTom8zD"
     },
     {
       "added_at": "2026-03-06 06:00:09",

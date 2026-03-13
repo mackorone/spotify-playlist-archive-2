@@ -4,7 +4,7 @@
 
 > The vibes
 
-38 songs - 2 hr 9 min
+39 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Absinthe](https://open.spotify.com/track/4hs2FbesB8qo6H5Berbikd) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 3:03 | 2023-05-05 |  |
 | [Beware!](https://open.spotify.com/track/3fTVQa1lb0gfjVXNu2Qc5S) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Your Parents Are Only Marginally Disappointed in Your Musical Taste](https://open.spotify.com/album/15b8BZbbE9M7Dx2twH81p0) | 4:38 | 2023-08-10 |  |
 | [Blood and Bones](https://open.spotify.com/track/3zTgL5xA9C02l65VR0XqaN) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy) | [Blood and Bones](https://open.spotify.com/album/5QCjqY1hcyAKWeWFduVtEs) | 2:10 | 2023-03-23 |  |
+| [BRAINS! \(from the Cartoon Network's GRIM AND EVIL\)](https://open.spotify.com/track/4W6GZFd0xDFEux8Jw59UJf) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [BOO HOO](https://open.spotify.com/album/2EY8rTI7ZaU9f68LDXIsZk) | 5:11 | 2026-03-13 |  |
 | [Cao Dai Blowout](https://open.spotify.com/track/0EQ7zZroo7GOnHyMYafHFi) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [New Asian Cinema](https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A) | 2:08 | 2024-11-10 |  |
 | [Creepin' Candy](https://open.spotify.com/track/2kHK7MGeTNj0QlE14tuGWs) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Creepin' Candy](https://open.spotify.com/album/65RGVjUh4EMYhi2JFTaoRs) | 2:53 | 2024-10-11 |  |
 | [Damn These Vampires](https://open.spotify.com/track/2TYXkQaCOLC8nzJx01ZWKj) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Eternals Deck](https://open.spotify.com/album/3SkG4Alb9sIniRsJiXwlYX) | 3:24 | 2025-02-11 |  |

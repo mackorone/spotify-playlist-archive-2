@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Call Me Crazy",
+        "url": "https://open.spotify.com/album/1mmKk0mfNOj48gzkYMWRE4"
+      },
+      "artists": [
+        {
+          "name": "Gregory Ackerman",
+          "url": "https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279271,
+      "name": "Call Me Crazy",
+      "url": "https://open.spotify.com/track/4S7zxt4SMDVUW4Fd91jlcZ"
+    },
+    {
+      "album": {
         "name": "Can't Find Love",
         "url": "https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H"
       },
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183000,
       "name": "The Dress (Dijon Cover) (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/1fZHgUUmFduHFLlvmiyNJX"

@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: Shabaka
+> The best from Britain's vibrant scene\. Cover: Tom Misch
 
-784 songs - 2 day 6 hr 31 min
+785 songs - 2 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [15 Minutes](https://open.spotify.com/track/6zPLYeraGT02gzWLUAF093) | [CoN & KwAkE](https://open.spotify.com/artist/76PMr52PABPGNs8vOLGbLy), [Confucius MC](https://open.spotify.com/artist/3vqDJg4kfwPk21Ayui6joM), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7) | [15 Minutes](https://open.spotify.com/album/1VNXz24H5b4j6mf3vYZJHO) | 3:09 | 2022-06-10 | 2022-07-29 |
 | [2 Far Gone](https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 5:43 | 2021-12-17 | 2022-05-07 |
 | [24\-7](https://open.spotify.com/track/7F10hYiETMaHll3frl1lJG) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [24\-7](https://open.spotify.com/album/4Y8UvKWlmb5gfvic5WzENa) | 3:36 | 2021-12-17 | 2022-06-11 |
-| [31\. Bleep \(01\)](https://open.spotify.com/track/2YB0vJrpjfXt5cQGicZdCU) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [31\. Bleep \(01\)](https://open.spotify.com/album/66STSyoTvEX0Vz3N7AxrjR) | 4:56 | 2025-03-28 |  |
+| [31\. Bleep \(01\)](https://open.spotify.com/track/2YB0vJrpjfXt5cQGicZdCU) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [31\. Bleep \(01\)](https://open.spotify.com/album/66STSyoTvEX0Vz3N7AxrjR) | 4:56 | 2025-03-28 | 2026-03-13 |
 | [5k](https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [edbl & friends \- JPRK](https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G) | 2:41 | 2023-04-06 | 2024-01-02 |
 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 | 2025-06-05 | 2026-03-03 |
 | [A Future Untold](https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [A Future Untold / Marwa The Mountain](https://open.spotify.com/album/7shmmsOvUVpzmxPiipmxAv) | 3:22 | 2026-01-16 |  |
@@ -167,6 +167,7 @@
 | [Dawn \[ft\. esperanza spalding\]](https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Odyssey](https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd) | 4:52 | 2024-09-19 | 2026-02-27 |
 | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/track/0IHLe0jsqkQokL1At1vwBS) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe) | 3:19 | 2025-09-04 |  |
 | [Days Like This](https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx) | [Safiyyah](https://open.spotify.com/artist/07UzVz5qBaR5ZQcaRCYeIu), [KeepVibesNear](https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU), [Nikhil Beats](https://open.spotify.com/artist/25d9Hoz0jDoukw6aheL3OR) | [Days Like This](https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh) | 3:38 | 2022-03-08 | 2023-02-04 |
+| [Days Of Us \(feat\. Kaidi Akinnibi\)](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 | 2026-03-13 |  |
 | [Decay](https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Recurring \(Live At King's Place\)](https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y) | 5:20 | 2024-10-10 | 2025-08-04 |
 | [Deep](https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Below Dawn](https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw) | 4:10 | 2024-05-09 | 2025-03-07 |
 | [Deep End](https://open.spotify.com/track/06ZtOGU9o24rkc4fCwi88J) | [Heritage](https://open.spotify.com/artist/6u1u0AhI6mFu0Ts90j9mHz) | [Life in Time](https://open.spotify.com/album/1Vgz1tCLnS1xmmNcLGMdJ9) | 4:56 | 2024-03-08 | 2024-11-13 |

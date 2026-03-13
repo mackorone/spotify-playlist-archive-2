@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from DJ\_Dave, Ms\* Gloom, Effie, MRD, + more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,469 likes - 100 songs - 5 hr 34 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,465 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 8 | [Reno Moon](https://open.spotify.com/track/0iObTWrYhEn0adDWiFOvKE) | [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [Reno Moon](https://open.spotify.com/album/1xbj1sTiSMbHEmrxU3RV16) | 3:42 |
 | 9 | [Apotelesma](https://open.spotify.com/track/18TSHNsT0VXjJxPTBcZQKI) | [Baby Pantera](https://open.spotify.com/artist/2BvDJauylrTkLmxrT6S1Eg), [Mssingno](https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W) | [Apotelesma](https://open.spotify.com/album/7lCSj0e2ZMNEK2KgHxSeYD) | 3:05 |
 | 10 | [Market Crash II](https://open.spotify.com/track/4V59v9LLBdAepqAKMtpGsQ) | [NxxxxxS](https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn) | [Market Crash II](https://open.spotify.com/album/0CWiVvLdX5TsYw8IYMbQWm) | 2:01 |
-| 11 | [Where's My People](https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3) | [Anton Khabbaz](https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [mor•a•mor](https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42), [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Where's My People](https://open.spotify.com/album/2Om6QigvsPDH9iJdJKf7U2) | 2:51 |
+| 11 | [Where's My People](https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3) | [Anton Khabbaz](https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H), [mor•a•mor](https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42) | [Where's My People](https://open.spotify.com/album/2Om6QigvsPDH9iJdJKf7U2) | 2:51 |
 | 12 | [Lean On \- Alfa Remix](https://open.spotify.com/track/3Kt957qyAJk8OfthDT6yLq) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Lean On \(Alfa Remix\)](https://open.spotify.com/album/054zDtUigew4AEaxKR9G7D) | 2:56 |
 | 13 | [Red Eye](https://open.spotify.com/track/2U0nxeHKXOKLG4E30w2WGC) | [Heidi Klum](https://open.spotify.com/artist/7gmNO7Sv6EFNtxJ7JTgeaC), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Red Eye](https://open.spotify.com/album/2L7NJFxSMRMSDnY0hqxOiH) | 2:04 |
 | 14 | [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Cerulean](https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ) | 3:52 |

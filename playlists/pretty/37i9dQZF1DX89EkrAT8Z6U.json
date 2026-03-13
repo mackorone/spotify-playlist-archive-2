@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.",
-  "num_followers": 1312300,
+  "num_followers": 1312503,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Rotten",
-        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
-      },
-      "artists": [
-        {
-          "name": "BONES",
-          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
-        }
-      ],
-      "duration_ms": 139440,
-      "name": "HDMI",
-      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 134769,
       "name": "Hate.",
       "url": "https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Rotten",
+        "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
+      },
+      "artists": [
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "duration_ms": 139440,
+      "name": "HDMI",
+      "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
       "added_at": "2024-09-18 21:12:46",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-09-18 21:12:46",
       "album": {
-        "name": "Nikes",
-        "url": "https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn"
-      },
-      "artists": [
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        },
-        {
-          "name": "kid toni",
-          "url": "https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy"
-        }
-      ],
-      "duration_ms": 139910,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
-    },
-    {
-      "added_at": "2024-09-18 21:12:46",
-      "album": {
         "name": "OLIVIA",
         "url": "https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 143587,
       "name": "OLIVIA",
       "url": "https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY"
+    },
+    {
+      "added_at": "2024-09-18 21:12:46",
+      "album": {
+        "name": "Nikes",
+        "url": "https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn"
+      },
+      "artists": [
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        },
+        {
+          "name": "kid toni",
+          "url": "https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy"
+        }
+      ],
+      "duration_ms": 139910,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
     },
     {
       "added_at": "2024-09-18 21:12:46",

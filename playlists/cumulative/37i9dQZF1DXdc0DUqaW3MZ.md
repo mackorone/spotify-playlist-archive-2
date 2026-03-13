@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-479 songs - 1 day 4 hr 6 min
+480 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,7 +455,7 @@
 | [U Lyk My Style](https://open.spotify.com/track/0QlmR1LoIFAyYJKWUFYAeH) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [U Lyk My Style](https://open.spotify.com/album/7esuhCa66JSo1FPMUTUe6y) | 2:52 | 2024-07-18 |  |
 | [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 | 2024-07-18 |  |
 | [Unrequited Love](https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:14 | 2022-04-11 | 2024-06-15 |
-| [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-19 |  |
+| [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-19 | 2026-03-13 |
 | [UTHANDO](https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Atmos Blaq](https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Shazmicsoul](https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4), [Mashudu](https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Click Bait](https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1) | 5:31 | 2024-03-01 | 2025-04-18 |
 | [Vertebrae](https://open.spotify.com/track/4F55mckG3RhnUgNErA1zwZ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Vertebrae](https://open.spotify.com/album/3y1CCo3BBFgqaEqNGKiptN) | 3:37 | 2022-06-20 | 2024-03-01 |
 | [Very Few Friends](https://open.spotify.com/track/2L0PRavRIQIjVcZK4Qgfgi) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/02dJ5uhNo9npWtD9tnpD0y) | 2:12 | 2024-04-04 | 2024-06-15 |
@@ -470,6 +470,7 @@
 | [We Are](https://open.spotify.com/track/6Lxi9O5CWRgjrqvWdbn2lT) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/1HXbty0Qf4fnZR4l72UqnR) | 4:15 | 2021-12-07 | 2022-10-13 |
 | [We Are](https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ) | [We Are](https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps) | 4:15 | 2022-06-20 | 2023-10-05 |
 | [We Could Be](https://open.spotify.com/track/2wHsmDZQvjJ5RWKnPeRw6l) | [Honey Butter](https://open.spotify.com/artist/75RSFQIHY52QAm8m8xZGSt) | [We Could Be](https://open.spotify.com/album/45VXSjH1hUNfP6v6ROjc92) | 3:25 | 2022-04-11 | 2022-04-14 |
+| [We Just Got Started](https://open.spotify.com/track/068oUeiG85BIf78eMv45Sn) | [Krafty Kuts](https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [We Just Got Started](https://open.spotify.com/album/4UwnE6qGrzqSfs4ZKO6chL) | 3:44 | 2026-03-13 |  |
 | [We Will Rise](https://open.spotify.com/track/0b5tPH5FEQbLhboKbyxOMJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [We Will Rise](https://open.spotify.com/album/1fXAO1H68AvYYtCz9yOjmQ) | 4:13 | 2021-12-07 | 2022-07-06 |
 | [Weigh it](https://open.spotify.com/track/3GIEtUsDd7EWAs5eMXCz0S) | [Jack Wolff](https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI) | [Weigh it](https://open.spotify.com/album/0LOzrvXPPl68tjKzC6qNrT) | 5:25 | 2021-12-07 | 2022-07-21 |
 | [What I Wanted](https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv) | [Tungz](https://open.spotify.com/artist/2U8Spt8w0ylEP8NA9CkUh7) | [Okay](https://open.spotify.com/album/0TBqYD3yqFQOMCQHsB9e5P) | 4:34 | 2021-12-07 | 2022-07-24 |

@@ -1980,6 +1980,24 @@
     {
       "album": {
         "name": "Lei da Atra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5iU8NKEGeAj2W7nqC3xjjp"
+      },
+      "artists": [
+        {
+          "name": "Vibra\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202614,
+      "name": "Sintonizando",
+      "url": "https://open.spotify.com/track/2nNOcdCSu76KxF7Y4k6ciK"
+    },
+    {
+      "album": {
+        "name": "Lei da Atra\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B"
       },
       "artists": [
@@ -1994,7 +2012,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 202614,
       "name": "Sintonizando",
       "url": "https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q"

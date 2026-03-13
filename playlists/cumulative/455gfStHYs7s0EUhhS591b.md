@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-263 songs - 15 hr 25 min
+264 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Lift Me High](https://open.spotify.com/track/4m0F3I0T7y2tkSSZ1Ha80B) | [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm) | [Lift Me High](https://open.spotify.com/album/7Gct4ch1N1VvhTEjxTnzLq) | 3:28 | 2026-01-16 |  |
 | [Lines](https://open.spotify.com/track/0xXKBial2Oc7HnRoAqOzT8) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Lines](https://open.spotify.com/album/41RncdoLzWmK2GwtjbOLez) | 3:00 | 2025-07-18 |  |
 | [Lonely Ones \- Daniele Davoli Ibiza Extended Remix](https://open.spotify.com/track/1KJBEX8g8NTSvdGYwaGs1U) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Tawiah](https://open.spotify.com/artist/6n5RQFZJKZNaa9nUuh8muo), [Daniele Davoli](https://open.spotify.com/artist/6a1kuFE7uThR7ExjJxtit8) | [Lonely Ones \(Remixes\)](https://open.spotify.com/album/3VZZrCAl8rDDGAzocYR0Fb) | 6:13 | 2025-06-19 |  |
+| [Lost](https://open.spotify.com/track/5jAHG0rFTEWF627eCwy2Wa) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara Taylor](https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38), [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ) | [Lost](https://open.spotify.com/album/4rf68Put0shM1lRzMPrAsX) | 4:00 | 2026-03-13 |  |
 | [Lost In The Deep](https://open.spotify.com/track/5egezAR8xyEY1wzPx0AWZG) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Lost In The Deep](https://open.spotify.com/album/5bW1a6bSPtkynm9z9u2LeF) | 3:40 | 2025-06-19 |  |
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/5LTeqr4WhuXG6ctnIjVj3t) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Moments Of Clarity \(The Remixes\)](https://open.spotify.com/album/3uUhGP880QEhqoMYGYKpII) | 3:41 | 2025-07-18 |  |
 | [Lost Tonight](https://open.spotify.com/track/1xD8hBK99rAPgcwjWWnxwf) | [Saje](https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb) | [Lost Tonight](https://open.spotify.com/album/3tzWmKo39Q3OypyD9UbNZl) | 3:18 | 2025-07-18 |  |

@@ -2,9 +2,9 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Deejay Telio
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: Murta
 
-845 songs - 1 day 20 hr 34 min
+846 songs - 1 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1 Coríntios 13](https://open.spotify.com/track/2FmiCpiXBdFR46rfpxz16h) | [Keven Santos](https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [1 Coríntios 13](https://open.spotify.com/album/0kyr08hzAoBL00bs9z3e3y) | 2:01 | 2024-01-19 | 2024-02-09 |
 | [100 Maneiras](https://open.spotify.com/track/6cy6nwunA5nKiqMwnPxsP8) | [xtussy](https://open.spotify.com/artist/4OKxSNR9WK5r6tUVk3LnXI) | [100 Maneiras](https://open.spotify.com/album/5kLevDU1oGrs7DsZ5eJIqD) | 4:00 | 2023-07-27 | 2023-09-08 |
 | [100 Por Dentro](https://open.spotify.com/track/0mbwsHKXSjnEUC9IkiQ7gz) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [100 Por Dentro](https://open.spotify.com/album/4LqmbSxVRP1q3yBOS2slOQ) | 2:54 | 2025-02-28 | 2025-03-14 |
-| [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 | 2024-02-16 |  |
+| [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 | 2024-02-16 | 2026-03-13 |
 | [2SITTER](https://open.spotify.com/track/6sGYgm4LirAszmMdbUr3U6) | [Joint One](https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ) | [SANGUE AZUL](https://open.spotify.com/album/2PQwfmnKL23wejkx0qArUw) | 3:25 | 2025-07-17 | 2025-07-26 |
 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 | 2022-07-07 | 2024-02-16 |
 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 | 2023-04-13 | 2024-03-15 |
@@ -509,6 +509,7 @@
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 | 2023-03-11 |
 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 | 2024-06-13 |  |
 | [Ninguém](https://open.spotify.com/track/2BoLPJf73XYyYExfYuOmRy) | [TYKID](https://open.spotify.com/artist/2F0NhKmoGrt2ImepX5Eze4) | [Ninguém](https://open.spotify.com/album/06zv7JC49c7rEuqLxV4rW1) | 3:12 | 2023-11-10 | 2023-11-18 |
+| [No Meu Quarto](https://open.spotify.com/track/4LxaBTi9NnIkP44i3HxNnC) | [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [No Meu Quarto](https://open.spotify.com/album/74dSvJfP7aRpI8JcR7G7h4) | 2:55 | 2026-03-13 |  |
 | [NO MO Parties](https://open.spotify.com/track/0NDkqCKa5lLfz0yUfH4vCZ) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [NO MO Parties](https://open.spotify.com/album/10ZSwv9JsEhXYfWsniwvEh) | 3:47 | 2023-03-03 | 2023-03-25 |
 | [No One](https://open.spotify.com/track/6wTAfWC8AfDl9EygNe95o2) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [Biox](https://open.spotify.com/artist/1gZL90jBtuW3kgeF8nVjcM) | [No One](https://open.spotify.com/album/19tUNod8E8GEUFfOH5Gk17) | 3:10 | 2024-02-09 | 2024-03-08 |
 | [No Stress No Money](https://open.spotify.com/track/0RyfhIcs0AQwwXHoqrSjcg) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [No Stress No Money](https://open.spotify.com/album/21XZSV4v4PA8cDsaUyip0l) | 2:57 | 2022-08-04 | 2022-09-02 |

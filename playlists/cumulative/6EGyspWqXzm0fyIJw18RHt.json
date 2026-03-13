@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "BOO HOO",
+        "url": "https://open.spotify.com/album/2EY8rTI7ZaU9f68LDXIsZk"
+      },
+      "artists": [
+        {
+          "name": "Aurelio Voltaire",
+          "url": "https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311946,
+      "name": "BRAINS! (from the Cartoon Network's GRIM AND EVIL)",
+      "url": "https://open.spotify.com/track/4W6GZFd0xDFEux8Jw59UJf"
+    },
+    {
+      "album": {
         "name": "New Asian Cinema",
         "url": "https://open.spotify.com/album/6eYdoKO1PHJfl7yaD9JO6A"
       },

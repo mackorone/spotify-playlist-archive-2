@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: BLAYA.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Gara Dur\u00e1n.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -622,7 +622,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 193750,
       "name": "Algo especial",
       "url": "https://open.spotify.com/track/3800qliKwzML9D2aoZ1Q3B"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 130312,
       "name": "Belle \u00c9poque",
       "url": "https://open.spotify.com/track/2DiehNUu5GjuwM1DbuJmsY"
@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 157058,
       "name": "Burdeos",
       "url": "https://open.spotify.com/track/55fbpeGf6l9jcWtwvhdio5"
@@ -2029,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "chorar, chorei",
+        "url": "https://open.spotify.com/album/1N8BnDEXP0qku4pqPs6EKA"
+      },
+      "artists": [
+        {
+          "name": "Tanxugueiras",
+          "url": "https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188652,
+      "name": "chorar, chorei",
+      "url": "https://open.spotify.com/track/2qzaczFHLJLRXWWX9Qg5NH"
+    },
+    {
+      "album": {
         "name": "CHULA",
         "url": "https://open.spotify.com/album/003ywHveGjCjgWIvi5NQRK"
       },
@@ -2088,6 +2106,24 @@
       "duration_ms": 185002,
       "name": "Cielo muerto",
       "url": "https://open.spotify.com/track/0Fq4HmISfPdf3s3nAwp3Zz"
+    },
+    {
+      "album": {
+        "name": "City Pxrn",
+        "url": "https://open.spotify.com/album/0jsEQ0Mdk1yxffpcSsS3zj"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246061,
+      "name": "City Pxrn",
+      "url": "https://open.spotify.com/track/42AmgEJbc3RqAupfMquVPT"
     },
     {
       "album": {
@@ -3558,7 +3594,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 160000,
       "name": "El ef\u00edmero arte de perdonar",
       "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
@@ -4498,7 +4534,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 155454,
       "name": "Estar con una popstar",
       "url": "https://open.spotify.com/track/4SF9Cx69ZzIo4wDtqhzf65"
@@ -4780,6 +4816,24 @@
       "duration_ms": 185274,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7l54hHBQLOoGK60avlMTBi"
+    },
+    {
+      "album": {
+        "name": "Feria Ca\u00f1ete",
+        "url": "https://open.spotify.com/album/15I4xs51jLpM4cSSSWXLtM"
+      },
+      "artists": [
+        {
+          "name": "Pipiolas",
+          "url": "https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172966,
+      "name": "Feria Ca\u00f1ete",
+      "url": "https://open.spotify.com/track/1hBQfdDpfZ6nQYMH8Ji93R"
     },
     {
       "album": {
@@ -6906,7 +6960,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203500,
       "name": "Lo fugaz",
       "url": "https://open.spotify.com/track/61kxYFG4Dm2yXaKvWabjup"
@@ -7961,6 +8015,24 @@
     },
     {
       "album": {
+        "name": "Mi loco cowboy",
+        "url": "https://open.spotify.com/album/55FFc3Qs71UsBrKSaA5PQj"
+      },
+      "artists": [
+        {
+          "name": "Gara Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188256,
+      "name": "Mi loco cowboy",
+      "url": "https://open.spotify.com/track/5XiFK0lqhOUlGPXFyfrIbc"
+    },
+    {
+      "album": {
         "name": "Mi pe\u00f1a",
         "url": "https://open.spotify.com/album/42BxwxIlOzVDBNJC9NMflJ"
       },
@@ -8136,6 +8208,24 @@
       "duration_ms": 158400,
       "name": "Mis T\u00edas",
       "url": "https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs"
+    },
+    {
+      "album": {
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
+      },
+      "artists": [
+        {
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
     },
     {
       "album": {
@@ -11523,6 +11613,28 @@
     },
     {
       "album": {
+        "name": "Dancy Party",
+        "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Alicia te quiero",
+          "url": "https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Siesta Freestyle",
+      "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+    },
+    {
+      "album": {
         "name": "SIMELLAMA / LAPLATA",
         "url": "https://open.spotify.com/album/1pHADvO4qpeaoTLSEgZjgh"
       },
@@ -13911,6 +14023,24 @@
     },
     {
       "album": {
+        "name": "Ya no duele",
+        "url": "https://open.spotify.com/album/5t7q37sAxlzN4KS4o20KC7"
+      },
+      "artists": [
+        {
+          "name": "Hoonine",
+          "url": "https://open.spotify.com/artist/7JLaKdKaR60XFtyXkwDICp"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ya no duele",
+      "url": "https://open.spotify.com/track/6rBlAOLtp6jl3oYZQDofBQ"
+    },
+    {
+      "album": {
         "name": "Amores pasajeros",
         "url": "https://open.spotify.com/album/3KcUvHtgKhjlYw7jsu9PIR"
       },
@@ -14048,7 +14178,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 163360,
       "name": "Yo en amores soy muy ligera",
       "url": "https://open.spotify.com/track/7eS7kimtsGeT0MOWmXj4sf"

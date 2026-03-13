@@ -6901,6 +6901,24 @@
     },
     {
       "album": {
+        "name": "The Vinci Effect",
+        "url": "https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Paradise Lost, Paradise Found",
+      "url": "https://open.spotify.com/track/4KAVx3Xwjy8mCUJADUEZh5"
+    },
+    {
+      "album": {
         "name": "Party Days (Club Mix)",
         "url": "https://open.spotify.com/album/4okSDIP3oazeyDubqCine7"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  Skyla Tylaa, Ruger, Kitty Amor",
+  "description": "Where afrobeats meets amapiano.\nCover:  Famous Pluto, Mavo ",
   "name": "afro-piano",
   "tracks": [
     {
@@ -1399,6 +1399,28 @@
     },
     {
       "album": {
+        "name": "Jembe / 14DRoad",
+        "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138208,
+      "name": "Jembe",
+      "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+    },
+    {
+      "album": {
         "name": "JUJU (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
       },
@@ -1746,7 +1768,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 235789,
       "name": "Louder (feat. Ayo Maff & Bella Shmurda)",
       "url": "https://open.spotify.com/track/5nRbkLjmA6IoeJ8megl81f"
@@ -2246,7 +2268,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 134000,
       "name": "Osadebe",
       "url": "https://open.spotify.com/track/4glhIguPffJvNy5omJxw5U"
@@ -2550,6 +2572,40 @@
       "duration_ms": 183050,
       "name": "Ruwa II",
       "url": "https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S"
+    },
+    {
+      "album": {
+        "name": "Scenes",
+        "url": "https://open.spotify.com/album/7g9b1do5f5rJOybiCgCbBN"
+      },
+      "artists": [
+        {
+          "name": "Dapper",
+          "url": "https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        },
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197522,
+      "name": "Scenes",
+      "url": "https://open.spotify.com/track/0Pdp2f6EmVtuaDciWeg32N"
     },
     {
       "album": {

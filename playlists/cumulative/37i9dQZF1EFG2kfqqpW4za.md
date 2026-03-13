@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6Lvnkxh0aFuxI0k9WltnoL">Helio Bentes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 7 hr 56 min
+114 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Sensei \(feat\. Helio Bentes\)](https://open.spotify.com/track/4kjoUxNNSVcCUYOQk0we84) | [Marcelinho Da Lua](https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Insolente](https://open.spotify.com/album/7mMAxGxVUdblaH1sLrvPXB) | 4:09 | 2022-06-04 |  |
 | [Seu Jogo](https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:57 | 2022-06-04 | 2025-02-20 |
 | [Seu Jogo](https://open.spotify.com/track/7eCfwimC5tQcGIEd4BkX5Q) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Essa É a Nossa Música](https://open.spotify.com/album/0c3nNfCc448zTAxQ1x5Wmo) | 3:57 | 2025-02-19 |  |
-| [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 | 2022-06-04 |  |
+| [Sintonizando](https://open.spotify.com/track/2nNOcdCSu76KxF7Y4k6ciK) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/5iU8NKEGeAj2W7nqC3xjjp) | 3:22 | 2026-03-12 |  |
+| [Sintonizando](https://open.spotify.com/track/2wSQsyD7HnHyr1AJklK67q) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:22 | 2022-06-04 | 2026-03-13 |
 | [Soy Latino](https://open.spotify.com/track/4uTFBaXZuwmgqJSovORGtk) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Soy Latino](https://open.spotify.com/album/7zOn2qIf0RXmNm3SBmz1VR) | 3:53 | 2025-02-19 |  |
 | [Soy Latino](https://open.spotify.com/track/08W016xoCPlcEFCfcbZg1n) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Soy Latino](https://open.spotify.com/album/4vpU0mnMhhUpi4crJhWiFN) | 3:53 | 2022-06-04 | 2025-02-20 |
 | [Sujeito Que Trabalha \(Pura Vida Brasil Riddim\)](https://open.spotify.com/track/1FS9JNe0pH3QafcNrO3y8o) | [Freedom Sounds](https://open.spotify.com/artist/7ev1JqsE5mapWZWDxm0RrH), [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x) | [Sujeito Que Trabalha \(Pura Vida Brasil Riddim\)](https://open.spotify.com/album/1IqGS4y9XfWMgtNrbpYZT9) | 3:02 | 2025-03-07 |  |

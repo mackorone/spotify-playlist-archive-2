@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-930 songs - 2 day 18 hr 38 min
+931 songs - 2 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Gates to the Land of Wonders](https://open.spotify.com/track/7tFWJoE326MkctMlRHHzvT) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Gates to the Land of Wonders](https://open.spotify.com/album/29LNN44mvwJChF92hrWymc) | 3:40 | 2024-08-22 | 2024-11-08 |
 | [Give Me A Reason](https://open.spotify.com/track/3dvGUfs6L9q6AwuAGEaswW) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Give Me A Reason](https://open.spotify.com/album/78pQHAt8HWRK8WVAUdmR2h) | 4:13 | 2023-09-21 | 2023-12-01 |
 | [Give Me The Simple Life](https://open.spotify.com/track/4XCqphsGzjEDkGrlygO5cm) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Give Me The Simple Life](https://open.spotify.com/album/1PewQFhopMX5lb0mDQmZox) | 2:31 | 2025-05-15 | 2025-07-11 |
+| [Gloria](https://open.spotify.com/track/13aT9WTZ033VUF8HqObaRL) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Guesthouse](https://open.spotify.com/album/4uraylBy6aqbY4yJ3Co6wz) | 3:24 | 2026-03-12 |  |
 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 | 2023-06-15 | 2023-08-18 |
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-06-20 | 2024-10-04 |
 | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [God Rest Ye Merry Gentlemen \(Spotify Singles Holiday\)](https://open.spotify.com/album/6gwykwTqf7AToBqlTgYSbJ) | 3:35 | 2023-11-16 | 2024-01-05 |
@@ -538,7 +539,7 @@
 | [Monkey System](https://open.spotify.com/track/082cOUifUly6CMsnHJ6Okp) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz), [Meskerem Mees](https://open.spotify.com/artist/4J4onnX6YLSq64T376Fg7Q) | [Monkey System](https://open.spotify.com/album/2v1Gz0K9cp6gdxkLp7MB4n) | 5:26 | 2024-11-14 | 2025-04-11 |
 | [MONTREUX PALACE](https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [TAKE 01](https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA) | 2:42 | 2024-11-28 | 2025-05-16 |
 | [Montsouris](https://open.spotify.com/track/2B3maaxBgIUZVGscNP3Mlq) | [Wajdi Riahi](https://open.spotify.com/artist/4KNhFrO2B7kgoeS1taeGVS), [Basile Rahola](https://open.spotify.com/artist/4OQVQ2Pa4AvFwGKvRzMIND), [Pierre Hurty](https://open.spotify.com/artist/2ag6TetFMxAK2kBxKUkfTQ) | [Montsouris](https://open.spotify.com/album/48120Oy65ceVY3KMJsuRzW) | 9:17 | 2022-04-14 | 2022-05-20 |
-| [Moon of Knives](https://open.spotify.com/track/5N8AMFYZN3ktluzN1y8Drs) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Moon of Knives](https://open.spotify.com/album/68azO8eJBIwV0RFHLo9ukQ) | 3:59 | 2025-12-11 |  |
+| [Moon of Knives](https://open.spotify.com/track/5N8AMFYZN3ktluzN1y8Drs) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Moon of Knives](https://open.spotify.com/album/68azO8eJBIwV0RFHLo9ukQ) | 3:59 | 2025-12-11 | 2026-03-13 |
 | [Moon to Dry](https://open.spotify.com/track/7xac3WDBVnUnLbhiHZSMTC) | [Ben Flocks](https://open.spotify.com/artist/57Ce6izcYKvFOFlhsUFzLJ), [Jacksonport](https://open.spotify.com/artist/5WDHcjQUDXBkjoIL9qBkgL) | [Moon to Dry](https://open.spotify.com/album/6H004xz47ju5coUQUd8OdP) | 5:22 | 2026-02-26 |  |
 | [MoonDial](https://open.spotify.com/track/3sn5gqosgrs0y1ljACKUCt) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [MoonDial](https://open.spotify.com/album/4aomKJKtVLDAcWojmg9fvA) | 6:23 | 2024-03-21 | 2024-06-14 |
 | [Moonlight \- Live at The Pool](https://open.spotify.com/track/0AI8ybSIh5HGcxtKPlePNr) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Live at The Pool](https://open.spotify.com/album/2OwMy6Pz2NyAyp5UtXS3N9) | 3:55 | 2022-12-08 | 2023-03-03 |

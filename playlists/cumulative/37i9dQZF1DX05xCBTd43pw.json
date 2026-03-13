@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 219000,
       "name": "C'est nous",
       "url": "https://open.spotify.com/track/7zrntDj5tanqHDx6esLwYN"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 168610,
       "name": "Dein Herz",
       "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177250,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
@@ -2187,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "Drink The Water (from the SURFILMUSIC Soundtrack)",
+        "url": "https://open.spotify.com/album/24ZRYH7bU3IA8cyL8mjGQl"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Drink The Water",
+      "url": "https://open.spotify.com/track/4NqIyYNBSkv0VMnwC3Rl74"
+    },
+    {
+      "album": {
         "name": "Du",
         "url": "https://open.spotify.com/album/3VDAjCOWVKdGVmnVFvTTUr"
       },
@@ -2288,7 +2310,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
@@ -2828,7 +2850,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
@@ -5992,7 +6014,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 329980,
       "name": "One Day Will Be All I Have",
       "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
@@ -6918,7 +6940,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 176733,
       "name": "Shine",
       "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"
@@ -7972,7 +7994,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173302,
       "name": "This I Know",
       "url": "https://open.spotify.com/track/5tKuFGcwytK8EMw0YqMQae"
@@ -8182,6 +8204,24 @@
       "duration_ms": 193626,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G"
+    },
+    {
+      "album": {
+        "name": "Damaged By Their Silence",
+        "url": "https://open.spotify.com/album/1XZBDOsQ5sPAUEeKymhpwI"
+      },
+      "artists": [
+        {
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/2XBr4ZTVcORNfhckCfpFg5"
     },
     {
       "album": {
@@ -8949,6 +8989,24 @@
     },
     {
       "album": {
+        "name": "Winter Soldier",
+        "url": "https://open.spotify.com/album/0tQFT6ivrMs7bgsecR1hmz"
+      },
+      "artists": [
+        {
+          "name": "Elena Flury",
+          "url": "https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "Winter Soldier",
+      "url": "https://open.spotify.com/track/3vvUl1Nqr4l3zyRaB596zl"
+    },
+    {
+      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/2r8MZFgKkGqUzblhjKDBub"
       },
@@ -9098,6 +9156,24 @@
       "duration_ms": 161604,
       "name": "You You You",
       "url": "https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n"
+    },
+    {
+      "album": {
+        "name": "Young again",
+        "url": "https://open.spotify.com/album/2gg4B3K1XTPAexCIRit0F8"
+      },
+      "artists": [
+        {
+          "name": "ChaptrTwo",
+          "url": "https://open.spotify.com/artist/3iu15wUnSm5M89QhpFXMqO"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150479,
+      "name": "Young again",
+      "url": "https://open.spotify.com/track/29vj8IZn9ne1o8TSUQ85dW"
     },
     {
       "album": {

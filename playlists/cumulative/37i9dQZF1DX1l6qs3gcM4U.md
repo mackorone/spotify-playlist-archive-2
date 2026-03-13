@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Yasmine
+> Fall in love with the sensual sounds of Kizomba! Cover: Lupambo, MDO
 
-653 songs - 1 day 13 hr 31 min
+654 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Amar Pela Metade](https://open.spotify.com/track/3NhDCAOOhfGrHxuwquVgNz) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Amar Pela Metade / Aimer À Moitié](https://open.spotify.com/album/4mQAniy3xRPVtfQGJKDZxu) | 3:06 | 2024-09-19 |  |
 | [Amo\-Te](https://open.spotify.com/track/5PCMiD1Ueel9dHB56hEkxZ) | [Jazzy Rhodes](https://open.spotify.com/artist/4Jmpc3XWrGfzMXKYlQOrFG), [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69) | [Amo\-Te](https://open.spotify.com/album/2qL8ao6taagISusBR1Z2pO) | 3:23 | 2022-02-11 | 2022-07-20 |
 | [Amor Falso](https://open.spotify.com/track/3m2xY5518N6fblrBeD3Vav) | [Faiyna](https://open.spotify.com/artist/3tTEQCV6D1Qi9ClXCco6mJ), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT) | [Amor Falso](https://open.spotify.com/album/34KmAmaQTG9uHiiAGPbw1v) | 3:30 | 2024-08-08 | 2024-08-23 |
+| [Amor Foi](https://open.spotify.com/track/0p8XOXgzDWwUmRmgGrB0Qh) | [X\-Pain](https://open.spotify.com/artist/7nXJNiWv1ZjenzGFvVL7E0) | [Amor Foi](https://open.spotify.com/album/4Q8BrUGAByt0RhGSWP9Ct1) | 3:42 | 2026-03-13 |  |
 | [Angola avança](https://open.spotify.com/track/4GqUgLpymjUTjlUPIh8pAL) | [Halison Paixão](https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N), [Dada 2](https://open.spotify.com/artist/4at1l7I7RmqjlZfKTVoG0V) | [D.N.F](https://open.spotify.com/album/4qQLRrsgoZfnGNikPqvnHe) | 3:42 | 2026-01-16 | 2026-02-05 |
 | [Anjo mulher](https://open.spotify.com/track/4xFzDY7kp01qba2SrUIPfU) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Hegemonia](https://open.spotify.com/album/0We0i9HuYUel9Z3hmFspQE) | 3:44 | 2024-06-06 | 2025-03-28 |
 | [Ansiedade](https://open.spotify.com/track/4syuRr00gJt48uBY3XKJMz) | [Tony Fika](https://open.spotify.com/artist/2eOz5uQonlXVK464N4pVUt) | [Ansiedade](https://open.spotify.com/album/61Mb2cWHMPmDQVIQj771R8) | 3:30 | 2024-02-19 | 2024-03-15 |
@@ -585,7 +586,7 @@
 | [Tranca](https://open.spotify.com/track/6d7mrCi7yhVZ0OHAKbChFd) | [Titica](https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s), [Mozany Bué de Ahh](https://open.spotify.com/artist/4GQZbCW540R9R6D8giQUVd), [D'benilson](https://open.spotify.com/artist/2P056fpRLEwIhcLk3ELINn) | [Tranca](https://open.spotify.com/album/221dQ2hG0e9btdlRuFfIv2) | 2:53 | 2025-10-23 | 2025-11-28 |
 | [Tratar Bem](https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/54KtaVeBmJolKnvcSWFUTs) | 3:09 | 2022-12-16 | 2023-07-21 |
 | [Tratar Bem](https://open.spotify.com/track/7N1qiiMNnL9t4HxBtet1zr) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/5pRNcez7yE2ytHjzlcm5Cu) | 3:09 | 2023-07-13 | 2024-04-19 |
-| [TROMPETE](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [TROMPETE](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 | 2022-11-11 |  |
+| [TROMPETE](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [TROMPETE](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 | 2022-11-11 | 2026-03-13 |
 | [Tropa](https://open.spotify.com/track/1KaTHUUHdLUjIuycG8dOaI) | [CEF Tanzy](https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G), [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Smash Midas](https://open.spotify.com/artist/4Vp4kayLyCZwqJZDBsaRks) | [Aurea](https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME) | 2:51 | 2025-07-24 |  |
 | [True Love\_Kizomba Remix USA](https://open.spotify.com/track/7wGFAdXmj2yauEi3lALthW) | [Royal Prince Kizzouk](https://open.spotify.com/artist/7B2F8kL63sle1wAO90d4fd) | [True Love\_Kizomba Remix USA](https://open.spotify.com/album/56FEjxW5D5T9m5mqlY9aFC) | 4:06 | 2021-12-10 | 2022-07-10 |
 | [Tu & Eu](https://open.spotify.com/track/7gY9rlvdVsS78HqngBwUr7) | [Mr\. Drackson](https://open.spotify.com/artist/57f2YS2CAMSJKg9365maDq), [Dj João Linho](https://open.spotify.com/artist/4acRfHNyBdaQgYypD4o8Dx) | [Tu & Eu](https://open.spotify.com/album/11iwzEkKB7L4duQXWW9ZK3) | 4:15 | 2022-04-29 | 2022-06-11 |

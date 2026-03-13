@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 179999,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -3780,7 +3780,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -12612,7 +12612,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 218357,
       "name": "FENDI",
       "url": "https://open.spotify.com/track/4jgrdY2Uw9nuDYYZXZV401"
@@ -17311,6 +17311,24 @@
     },
     {
       "album": {
+        "name": "I Was a Kid",
+        "url": "https://open.spotify.com/album/5NHGG1LINrnKXNAq7e2rH6"
+      },
+      "artists": [
+        {
+          "name": "Damon Price",
+          "url": "https://open.spotify.com/artist/6bP2LOgnYznasBxZdZZbfL"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163239,
+      "name": "I Was a Kid",
+      "url": "https://open.spotify.com/track/37BJYbkdZRCr9vO3ZP89ui"
+    },
+    {
+      "album": {
         "name": "I Was Made For Lovin' You (from The Fall Guy)",
         "url": "https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ"
       },
@@ -20822,6 +20840,32 @@
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
+    },
+    {
+      "album": {
+        "name": "Ruby (The Complete Collection)",
+        "url": "https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "d00mscrvll",
+          "url": "https://open.spotify.com/artist/4I1gdwRJ3qocViLIUI0L6b"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180300,
+      "name": "like JENNIE - Extended Remix",
+      "url": "https://open.spotify.com/track/1053UWA7fTbVLxBX8R9ClO"
     },
     {
       "album": {
@@ -27963,6 +28007,28 @@
     },
     {
       "album": {
+        "name": "Oy, zlato",
+        "url": "https://open.spotify.com/album/7ncxfD2PXicv5KfxFqfqow"
+      },
+      "artists": [
+        {
+          "name": "Eva-Marty",
+          "url": "https://open.spotify.com/artist/7fnKPYhHVSkTF9zBzyjrxn"
+        },
+        {
+          "name": "Ilian Boyd",
+          "url": "https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208124,
+      "name": "Oy, zlato",
+      "url": "https://open.spotify.com/track/1BudmXtnOXdWkhsBsjbB3Q"
+    },
+    {
+      "album": {
         "name": "AFTERCARE",
         "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
       },
@@ -29158,7 +29224,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 173382,
       "name": "Povoda si ti",
       "url": "https://open.spotify.com/track/7qKTriyjf8zZAJrxL1jb63"
@@ -30966,7 +31032,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -30984,7 +31050,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -31804,7 +31870,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -32392,7 +32458,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 213106,
       "name": "She Knows Too Much",
       "url": "https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS"

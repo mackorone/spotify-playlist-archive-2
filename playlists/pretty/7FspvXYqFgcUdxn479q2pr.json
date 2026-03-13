@@ -1,13 +1,105 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31683,
+  "num_followers": 31686,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAvXDxrYJySz6XtPUaFjFrnQANbOian",
+  "snapshot_id": "AAAvYRwNfVGTkWOmLzEwCn7vQAz/+l2j",
   "tracks": [
+    {
+      "added_at": "2026-03-12 23:00:15",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+    },
+    {
+      "added_at": "2026-03-12 23:00:16",
+      "album": {
+        "name": "Ultra Love",
+        "url": "https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 203516,
+      "name": "Ultra Love",
+      "url": "https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi"
+    },
+    {
+      "added_at": "2026-03-12 23:00:17",
+      "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/6IEvNtAI3YvtjPk6xR8OyB"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 212812,
+      "name": "Paradigm",
+      "url": "https://open.spotify.com/track/3qklz3reI4PMULFdMnvh9E"
+    },
+    {
+      "added_at": "2026-03-12 23:00:18",
+      "album": {
+        "name": "I Will Pray For You",
+        "url": "https://open.spotify.com/album/1G8ggOZOhuSNXIbRwEPXlZ"
+      },
+      "artists": [
+        {
+          "name": "Nato Medrado",
+          "url": "https://open.spotify.com/artist/0ujc9wyoBRUyt6joFkx4Rs"
+        }
+      ],
+      "duration_ms": 167804,
+      "name": "I Will Pray For You",
+      "url": "https://open.spotify.com/track/4vQ6ukYvUilTpbjgXaRkkE"
+    },
+    {
+      "added_at": "2026-03-12 23:00:14",
+      "album": {
+        "name": "Suelta",
+        "url": "https://open.spotify.com/album/5EtzYU2zcMMb9ne5gGEcMQ"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "Prophecy",
+          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+        }
+      ],
+      "duration_ms": 122578,
+      "name": "Suelta",
+      "url": "https://open.spotify.com/track/1aq0EdFEBMJNfGKnbxdNZX"
+    },
     {
       "added_at": "2026-03-06 09:54:26",
       "album": {

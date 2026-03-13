@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Los Aptos.",
-  "num_followers": 747559,
+  "num_followers": 747562,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
         "name": "aunquetelopida",
         "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 163125,
       "name": "La Noche Que No Hab\u00eda Uber",
       "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi"
     },
     {
       "added_at": "2026-03-06 18:12:57",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
-        "name": "Mi Casita",
-        "url": "https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        }
-      ],
-      "duration_ms": 249579,
-      "name": "Mi Casita",
-      "url": "https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
         "name": "Falta Algo",
         "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 203127,
       "name": "Falta Algo",
       "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
+        "name": "Mi Casita",
+        "url": "https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "duration_ms": 249579,
+      "name": "Mi Casita",
+      "url": "https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8"
     },
     {
       "added_at": "2026-03-06 18:12:57",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
-        "name": "OK.",
-        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 156794,
-      "name": "OK.",
-      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
         "name": "Menina",
         "url": "https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 182167,
       "name": "Menina",
       "url": "https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
+        "name": "OK.",
+        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 156794,
+      "name": "OK.",
+      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
     },
     {
       "added_at": "2026-03-06 18:12:57",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
         "name": "me cuesta hablar",
         "url": "https://open.spotify.com/album/4spdgnGkbsTubgVbkhdKfa"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 180225,
       "name": "me cuesta hablar",
       "url": "https://open.spotify.com/track/7J2yiSiENs7Yexe08XW9h6"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
-        "name": "Sof\u00eda Vald\u00e9s",
-        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 198463,
-      "name": "Already Yours",
-      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "added_at": "2026-03-06 18:12:57",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
-        "name": "Solo T\u00fa",
-        "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
-      },
-      "artists": [
-        {
-          "name": "ZTVZ",
-          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "Solo T\u00fa",
-      "url": "https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
         "name": "En Tercera Persona",
         "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 211435,
       "name": "En Tercera Persona",
       "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
+        "name": "Solo T\u00fa",
+        "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT"
     },
     {
       "added_at": "2026-03-06 18:12:57",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
-        "name": "Au",
-        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 158812,
-      "name": "pijama.",
-      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
         "name": "\u00bfpor qu\u00e9 corres? ya estamos ah\u00ed",
         "url": "https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE"
       },
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
+        "name": "El Caminante",
+        "url": "https://open.spotify.com/album/05iFY1rqqlIgLJ2VxufJA8"
+      },
+      "artists": [
+        {
+          "name": "Matt Louis",
+          "url": "https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "El Caminante",
+      "url": "https://open.spotify.com/track/3kl6pVlGGl3F0glYUFAS0a"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
         "name": "cruz",
         "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
       },
@@ -1687,6 +1687,38 @@
       "duration_ms": 244356,
       "name": "cruz",
       "url": "https://open.spotify.com/track/6vZgsNY09pbOhjHEjWd3Wf"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
+        "name": "Au",
+        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 158812,
+      "name": "pijama.",
+      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
+    },
+    {
+      "added_at": "2026-03-06 18:12:57",
+      "album": {
+        "name": "BLANCOMEZCLILLA",
+        "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 187903,
+      "name": "a veces casi siempre",
+      "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
     },
     {
       "added_at": "2026-03-06 18:12:57",
@@ -1723,22 +1755,6 @@
     {
       "added_at": "2026-03-06 18:12:57",
       "album": {
-        "name": "BLANCOMEZCLILLA",
-        "url": "https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 187903,
-      "name": "a veces casi siempre",
-      "url": "https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 222871,
       "name": "Baby",
       "url": "https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K"
-    },
-    {
-      "added_at": "2026-03-06 18:12:57",
-      "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     }
   ],
   "unique_name": "Mixto",

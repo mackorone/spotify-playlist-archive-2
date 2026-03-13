@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Vv Pete, DEELA",
+  "description": "The best new AUS & NZ Rap. Cover: CV, D9ine",
   "name": "Local Hype",
   "tracks": [
     {
@@ -6854,7 +6854,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 164307,
       "name": "Don't Mean It",
       "url": "https://open.spotify.com/track/6Eyf6gW7hbSxDxANoojy3A"
@@ -8612,6 +8612,24 @@
       "duration_ms": 206157,
       "name": "FINALE",
       "url": "https://open.spotify.com/track/3VOeBY0XjyFtSIiByOOZUQ"
+    },
+    {
+      "album": {
+        "name": "Find a Way",
+        "url": "https://open.spotify.com/album/10f9wXSWvgtJlfAqUXIzxI"
+      },
+      "artists": [
+        {
+          "name": "Noble",
+          "url": "https://open.spotify.com/artist/007MRB1x9rAofj9AVhAqbO"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/1gxxycgLPydzoDzXAwz6EG"
     },
     {
       "album": {
@@ -21115,6 +21133,28 @@
     },
     {
       "album": {
+        "name": "Quarter K",
+        "url": "https://open.spotify.com/album/2bkrmot8LMMtSG5zmxUHc6"
+      },
+      "artists": [
+        {
+          "name": "CV",
+          "url": "https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS"
+        },
+        {
+          "name": "D9ine",
+          "url": "https://open.spotify.com/artist/0PR10qAHcp9mre9ft5WDIG"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Quarter K",
+      "url": "https://open.spotify.com/track/3Cy2t304XY7rctsPTHFxNH"
+    },
+    {
+      "album": {
         "name": "Queenstown",
         "url": "https://open.spotify.com/album/2oLD4argcWCIATfbaTBb3n"
       },
@@ -27540,7 +27580,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 148000,
       "name": "UH HUH",
       "url": "https://open.spotify.com/track/4dMDT6zWfpMTghJZQfDxIq"
@@ -27876,7 +27916,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156000,
       "name": "Up Up",
       "url": "https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH"

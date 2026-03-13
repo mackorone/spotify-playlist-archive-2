@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3530,
+  "num_followers": 3534,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAADjlXW8anGjfv6wklIUjsyR",
+  "snapshot_id": "abCwgAAAAABvsvo+amfAMfGnXbKimuEF",
   "tracks": [
     {
       "added_at": null,
@@ -368,7 +368,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 328773,
-      "name": "Inferium",
-      "url": "https://open.spotify.com/track/3VEfpFBPKMnsbhrgHXw1Bl"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
     }
   ],
   "unique_name": "This Is Finch",

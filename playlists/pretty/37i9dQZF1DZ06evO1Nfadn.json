@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 38616,
+  "num_followers": 38637,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAABQcraIIPxWztQ6ai58ReeT",
+  "snapshot_id": "abCwgAAAAAAVdIqRa2fskDo2bbk5IjBt",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
+        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
+      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Que No Me Olvides",
         "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 197640,
       "name": "Mil Gracias",
       "url": "https://open.spotify.com/track/1bzIOUvASf8r8Qtz6dlRyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka (30 Aniversario En Vivo)",
-        "url": "https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Popurr\u00ed: Pelotero a la Bola/Micaela/Tri Triki Tri Traka - 30 Aniversario En Vivo",
-      "url": "https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Un Rayo de Sol",
+      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Un Rayo de Sol",
-      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 190440,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Mundo Gira",
         "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 182920,
       "name": "Hambriento Como Lobo",
       "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Marlon Hoffstadt, Dimitri Vegas & Like Mike
+> The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
 960 songs - 1 day 20 hr 10 min
 

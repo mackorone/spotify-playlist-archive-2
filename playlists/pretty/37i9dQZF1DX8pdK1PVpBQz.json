@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Averie",
-  "num_followers": 30679,
+  "num_followers": 30682,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKHKYZsg+X3lJx1kYL/szWaqnT2",
+  "snapshot_id": "AAAAAEv5sw1rQn63vuq9pP91cnGBdCDw",
   "tracks": [
     {
       "added_at": "2026-03-10 13:00:34",
@@ -109,20 +109,20 @@
       "url": "https://open.spotify.com/track/1IcP5CUMjLuYn5a8vdaS1r"
     },
     {
-      "added_at": "2026-03-10 13:00:34",
+      "added_at": "2026-03-12 07:47:48",
       "album": {
-        "name": "Prefab Moon",
-        "url": "https://open.spotify.com/album/1JNY2m9eU9O5xobCeRGttj"
+        "name": "Station Model Violence",
+        "url": "https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz"
       },
       "artists": [
         {
-          "name": "Field Commander Ali",
-          "url": "https://open.spotify.com/artist/4TUeSXaTyrKCPiQ2X9mekU"
+          "name": "Station Model Violence",
+          "url": "https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV"
         }
       ],
-      "duration_ms": 406108,
-      "name": "Prefab Moon",
-      "url": "https://open.spotify.com/track/2ZUZV6pgiRokNtkuxCH7w6"
+      "duration_ms": 173760,
+      "name": "Leisure",
+      "url": "https://open.spotify.com/track/4wuVZpmDkRpgAhwexsfp30"
     },
     {
       "added_at": "2026-03-10 13:00:34",
@@ -219,6 +219,22 @@
       "duration_ms": 284146,
       "name": "Going Out",
       "url": "https://open.spotify.com/track/1N4z5lvwP0UPbOAAe6kuWk"
+    },
+    {
+      "added_at": "2026-03-10 13:00:34",
+      "album": {
+        "name": "Prefab Moon",
+        "url": "https://open.spotify.com/album/1JNY2m9eU9O5xobCeRGttj"
+      },
+      "artists": [
+        {
+          "name": "Field Commander Ali",
+          "url": "https://open.spotify.com/artist/4TUeSXaTyrKCPiQ2X9mekU"
+        }
+      ],
+      "duration_ms": 406108,
+      "name": "Prefab Moon",
+      "url": "https://open.spotify.com/track/2ZUZV6pgiRokNtkuxCH7w6"
     },
     {
       "added_at": "2026-03-10 13:00:34",
@@ -1627,22 +1643,6 @@
       "duration_ms": 303316,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/2H6Bt6sEYJ5BKamS0Y43f8"
-    },
-    {
-      "added_at": "2026-03-10 13:00:34",
-      "album": {
-        "name": "Overnight Sensation",
-        "url": "https://open.spotify.com/album/69cWkqsxTuYvAbCsSQ5MCN"
-      },
-      "artists": [
-        {
-          "name": "kate moth",
-          "url": "https://open.spotify.com/artist/6fQeWG71ShzQVNurNRGR1i"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Overnight Sensation",
-      "url": "https://open.spotify.com/track/3aS1aJBRmpaquAoLmuGvBy"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

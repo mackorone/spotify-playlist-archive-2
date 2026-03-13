@@ -1,12 +1,12 @@
 {
   "description": "March is Christian Music Month - a time to celebrate the songs that uplift, inspire, and bring hope! From timeless worship anthems to fresh new sounds, this playlist is all about faith, encouragement, and joy. Hit play, turn it up, and share the love! Discover more at ChristianMusicMonth.com",
-  "num_followers": 288,
+  "num_followers": 293,
   "original_name": "Christian Music Month",
   "owner": {
     "name": "gospelmusicassoc",
     "url": "https://open.spotify.com/user/gospelmusicassoc"
   },
-  "snapshot_id": "AAAAdGwgHNBi5gqrI8EI2ioUQ6N9CtN5",
+  "snapshot_id": "AAAAfvrb9TfLaIvp8T4G3jvlQzVcLhYL",
   "tracks": [
     {
       "added_at": "2026-03-02 21:47:51",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/1fKrN4psGIjlo4sccpisJc"
     },
     {
+      "added_at": "2026-03-12 23:06:16",
+      "album": {
+        "name": "Unashamed",
+        "url": "https://open.spotify.com/album/0d7pyEQyRk7xYrz3NKVi9m"
+      },
+      "artists": [
+        {
+          "name": "Brian Free & Assurance",
+          "url": "https://open.spotify.com/artist/57PRB2opCrH6LlWS4INhi0"
+        }
+      ],
+      "duration_ms": 273146,
+      "name": "Say Amen",
+      "url": "https://open.spotify.com/track/2jMoBd2SMyipPWJum2Mpre"
+    },
+    {
       "added_at": "2026-03-02 21:49:45",
       "album": {
         "name": "The Richest Man In The World",
@@ -585,6 +601,38 @@
       "url": "https://open.spotify.com/track/2SgAo2v2OpKKej78UruNXK"
     },
     {
+      "added_at": "2026-03-12 23:06:38",
+      "album": {
+        "name": "The Hits... Live",
+        "url": "https://open.spotify.com/album/5BMsvhW14MBGLWBiNzqThs"
+      },
+      "artists": [
+        {
+          "name": "The Crabb Family",
+          "url": "https://open.spotify.com/artist/2Fg4p216PH5hvVZWbWCguK"
+        }
+      ],
+      "duration_ms": 225853,
+      "name": "Through The Fire",
+      "url": "https://open.spotify.com/track/6YkAb7KXqK3pDbLAIYDgCY"
+    },
+    {
+      "added_at": "2026-03-12 23:07:05",
+      "album": {
+        "name": "Far Beyond This Place",
+        "url": "https://open.spotify.com/album/6fqsJ2WaICpyr1QvzKFw0j"
+      },
+      "artists": [
+        {
+          "name": "Greater Vision",
+          "url": "https://open.spotify.com/artist/2OmbA7QlIOP6jrevUft2BG"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "My Name Is Lazarus",
+      "url": "https://open.spotify.com/track/3utu1r1Qy9mpzQu2LO7gns"
+    },
+    {
       "added_at": "2026-03-02 21:49:45",
       "album": {
         "name": "CORITOS Vol. 1",
@@ -675,6 +723,22 @@
       "duration_ms": 213653,
       "name": "God Only Knows (with Dolly Parton)",
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
+    },
+    {
+      "added_at": "2026-03-12 23:05:41",
+      "album": {
+        "name": "The Acoustic Sessions",
+        "url": "https://open.spotify.com/album/7DMz3uYnaC78IofZ4ZZssa"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "duration_ms": 270320,
+      "name": "Four Days Late - Acoustic",
+      "url": "https://open.spotify.com/track/6OSQ1QVR5iHw8dNbeGXUwe"
     },
     {
       "added_at": "2026-03-04 16:41:34",
@@ -887,6 +951,22 @@
       "duration_ms": 206933,
       "name": "God Is Good (with CAIN)",
       "url": "https://open.spotify.com/track/3jhUsn6iGf5yLljQqrcgYO"
+    },
+    {
+      "added_at": "2026-03-12 23:07:32",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/0DARmSGJxYuIXgMJtAhNCO"
+      },
+      "artists": [
+        {
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+        }
+      ],
+      "duration_ms": 256413,
+      "name": "O for a Thousand Tongues",
+      "url": "https://open.spotify.com/track/7aXsP6n4zUAL1AuxwDN6Qk"
     }
   ],
   "unique_name": "Christian Music Month",

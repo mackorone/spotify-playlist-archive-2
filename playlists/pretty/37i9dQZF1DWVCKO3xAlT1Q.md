@@ -1,49 +1,45 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCKO3xAlT1Q.md) - [plain](/playlists/plain/37i9dQZF1DWVCKO3xAlT1Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVCKO3xAlT1Q)
 
-### [Eurovision 2025](https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q)
+### [Eurovision 2026](https://open.spotify.com/playlist/37i9dQZF1DWVCKO3xAlT1Q)
 
-> The official Eurovision Song Contest 2025 playlist.<br/>Congrats to this year's winner JJ!
+> The official Eurovision Song Contest 2026 playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,360 likes - 37 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,385 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 |
-| 2 | [New Day Will Rise](https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8) | [יובל רפאל](https://open.spotify.com/artist/0h6sAHCJ41a7jvcWGXH4fk), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [New Day Will Rise](https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ) | 2:59 |
-| 3 | [Espresso Macchiato](https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [Espresso Macchiato](https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns) | 2:53 |
-| 4 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 |
-| 5 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 |
-| 6 | [Asteromata](https://open.spotify.com/track/2aE2SRm4QraCuDBNnBsRIz) | [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Asteromata](https://open.spotify.com/album/02dO5tdgmZFm72qmWAETdA) | 2:55 |
-| 7 | [maman](https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [maman](https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx) | 3:00 |
-| 8 | [Zjerm](https://open.spotify.com/track/34ozWcKZQ0RvV9td8EHfXO) | [Shkodra Elektronike](https://open.spotify.com/artist/4BGQ263PdhPoD46R8NagOD) | [Zjerm](https://open.spotify.com/album/6yelOhQls6XqW9y4bxVkXK) | 3:04 |
-| 9 | [Bird of Pray \- Eurovision 2025](https://open.spotify.com/track/5lmoGiZquqsW9sNxJQGRHn) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Bird of Pray \(Eurovision 2025\)](https://open.spotify.com/album/7ipNGl84BdLCYkcOm0fToR) | 3:00 |
-| 10 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
-| 11 | [ICH KOMME](https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [ICH KOMME](https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx) | 3:00 |
-| 12 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 |
-| 13 | [Bur man laimi](https://open.spotify.com/track/6oGrwxJItvG261mLBk6DmK) | [Tautumeitas](https://open.spotify.com/artist/65Q6uD7cHhu4QYbGxEU9dF) | [Bur man laimi](https://open.spotify.com/album/0uiDNzus7TjUtTl45qL07g) | 2:58 |
-| 14 | [GAJA \- Eurovision Edit](https://open.spotify.com/track/0wNpA89DLOyKlZZVJ7wCac) | [Justyna Steczkowska](https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP) | [GAJA \(Eurovision Edit\)](https://open.spotify.com/album/5c5XVlbDvejnJUm3eEdN2N) | 3:00 |
-| 15 | [Baller](https://open.spotify.com/track/4kbkYbhWNiSJraySknB4hD) | [Abor & Tynna](https://open.spotify.com/artist/58xrjO7pWlfj2C2uksXScP) | [Bittersüß](https://open.spotify.com/album/0PrVmVD88Xk509v7BOT6a2) | 2:39 |
-| 16 | [Tavo akys](https://open.spotify.com/track/1imPa2lzxmLKggLCpkBAoo) | [Katarsis](https://open.spotify.com/artist/34H2dyYLUMMtI1gynkGGY1) | [Tavo akys](https://open.spotify.com/album/4B2Lu1pzDfDZ7nXeiCZV9F) | 2:52 |
-| 17 | [SERVING \- Eurovision Official Version](https://open.spotify.com/track/2lide7NEaVQGRtiHm61uCW) | [Miriana Conte](https://open.spotify.com/artist/0yuQFQjDi5q4Osqrcu5DqN) | [SERVING](https://open.spotify.com/album/3bnzrOEyxpuUauqASHwGoR) | 2:59 |
-| 18 | [Lighter](https://open.spotify.com/track/0AMoopn68aGAAaJ9qFXPnX) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Lighter](https://open.spotify.com/album/3wo1epa3NLBGPr1rTeJror) | 2:55 |
-| 19 | [What The Hell Just Happened?](https://open.spotify.com/track/0z64zsYHTmiTyddbFJ1S6y) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [What The Hell Just Happened?](https://open.spotify.com/album/71KjEbRzpreoPULoJdMcjT) | 2:56 |
-| 20 | [SURVIVOR](https://open.spotify.com/track/4FqL1MlFQ67DipYCbmHzj8) | [PARG](https://open.spotify.com/artist/2tm0hthZZUgjJ4c8jzbZ4K) | [SURVIVOR](https://open.spotify.com/album/5WtJnnQy8iMz2ucyO6g4DZ) | 2:58 |
-| 21 | [Deslocado](https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Deslocado](https://open.spotify.com/album/70Bn4uvWtXrBKlbttB822R) | 2:59 |
-| 22 | [La poupée monte le son](https://open.spotify.com/track/6IabIimt88FcZu80dunXWA) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son](https://open.spotify.com/album/6k0rdf9p1YRh57I9HsK97l) | 2:58 |
-| 23 | [Hallucination](https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws) | [Sissal](https://open.spotify.com/artist/19dHBZ2g62ice0ZsxxzRWP) | [Hallucination](https://open.spotify.com/album/4ErsLdiv1HwkVN0ueMtPRJ) | 3:03 |
-| 24 | [Esa Diva](https://open.spotify.com/track/6utHjfvlsCAj0V6Wg6mXqx) | [Melody](https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD) | [Esa Diva](https://open.spotify.com/album/1Z0LWWEpJAv0dA4VF6POTZ) | 2:58 |
-| 25 | [RÓA](https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz) | [VÆB](https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg) | [RÓA](https://open.spotify.com/album/6CukWYQblekfCN4j1SVYp2) | 2:42 |
-| 26 | [Tutta L'Italia](https://open.spotify.com/track/0h3w9Sr1gToqxA9gIs5O39) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Tutta L'Italia](https://open.spotify.com/album/29pE1fn0HmGVJRpmcr4wHb) | 2:56 |
-| 27 | [Strobe Lights](https://open.spotify.com/track/0Tx2AeVKiYQjk8u9p4j6kV) | [Red Sebastian](https://open.spotify.com/artist/3PiYJXv5SQpP9vwMXSCDV8) | [Strobe Lights](https://open.spotify.com/album/70Nt6WqKh6H42SRVLenoFF) | 2:58 |
-| 28 | [Milkshake Man](https://open.spotify.com/track/0TWdO0ephIotzHvGuv2pGC) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Milkshake Man](https://open.spotify.com/album/5LX9MOOXXd7ThnJDGGg7Mh) | 2:52 |
-| 29 | [Kiss Kiss Goodbye](https://open.spotify.com/track/2ceIi1kJxozE30OURIMkfN) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Kiss Kiss Goodbye](https://open.spotify.com/album/2YR32G3rgCmK8MmUsSUsXD) | 2:56 |
-| 30 | [Shh](https://open.spotify.com/track/3mwqwFYIrO8hE3YBN8gk14) | [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Shh](https://open.spotify.com/album/1WygObqWaky2zQhDJ5rUz8) | 2:57 |
-| 31 | [Poison Cake](https://open.spotify.com/track/0jtkkJ6Q0IB5iw5obHJDVl) | [Marko Bošnjak](https://open.spotify.com/artist/2rRdobDVMCwaxSbpG7FgMb) | [Poison Cake](https://open.spotify.com/album/3ENwk0CrHIrxpGYxmJn1XZ) | 2:58 |
-| 32 | [Run With U](https://open.spotify.com/track/4NdNOrfHfNIprOJ3Uq1l43) | [Mamagama](https://open.spotify.com/artist/7rAUDsrUfeAnDw8ubOPh2W) | [Run With U](https://open.spotify.com/album/7cqQuVvLZ1wiw4l372uPMU) | 3:03 |
-| 33 | [Laika Party](https://open.spotify.com/track/5PZnJ8GErvuiCo7wKKtpKo) | [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Laika Party](https://open.spotify.com/album/44LjhJDVICLc7cgAgQ9nTX) | 3:00 |
-| 34 | [How Much Time Do We Have Left](https://open.spotify.com/track/104QgPphJUPg86IWYnAnL7) | [Klemen](https://open.spotify.com/artist/5MlZJ1fBb4ZX5JN2dRhwQE) | [How Much Time Do We Have Left](https://open.spotify.com/album/3EcfRhql3A4hTbt4Z3i7N5) | 3:03 |
-| 35 | [Dobrodošli \- Eurovision 2025](https://open.spotify.com/track/19Tty48pp2obWcLiRbEAVG) | [Nina Zizic](https://open.spotify.com/artist/6KfnLDNb1o14EBOX6HInHO) | [Dobrodošli \(Eurovision 2025\)](https://open.spotify.com/album/5HGhSZ9a4GkhIcZiIHb4M0) | 3:23 |
-| 36 | [Mila](https://open.spotify.com/track/30ivP0TxQ9owZotAbhbiGt) | [Princ](https://open.spotify.com/artist/6Jg7HD794xTjmqAkynWYQ5) | [Mila](https://open.spotify.com/album/0mOdQScFDTA144bk5nt8AX) | 2:58 |
-| 37 | [Freedom \- Eurovision 2025 \- Georgia](https://open.spotify.com/track/5mjD2U1w6217p73LC9MEht) | [Mariam Shengelia](https://open.spotify.com/artist/57UpwmCYjUyIaKUWOO2gV3) | [Freedom \(Eurovision 2025 \- Georgia\)](https://open.spotify.com/album/1qDquxaoZDp77B9tr4WT2q) | 2:50 |
+| 1 | [Liekinheitin](https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL) | [Linda Lampenius](https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T), [Pete Parkkonen](https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn) | [Liekinheitin](https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL) | 3:00 |
+| 2 | [REGARDE !](https://open.spotify.com/track/6cjjQg0SAlX7ahvYWuRPXz) | [Monroe](https://open.spotify.com/artist/2ApuahwVylm6Ro4IPSsbj7) | [REGARDE !](https://open.spotify.com/album/7jXYj6lBYtSnQtP9wh5I8V) | 2:57 |
+| 3 | [Før Vi Går Hjem](https://open.spotify.com/track/6KnX2pkecFELGtegM26ezf) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Før Vi Går Hjem](https://open.spotify.com/album/0eacHMmOEg0lccpmgf0do3) | 2:54 |
+| 4 | [Ferto](https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5) | [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ferto](https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV) | 3:00 |
+| 5 | [Eclipse](https://open.spotify.com/track/2pJ0Ji9nkohwuKMuyNhiwo) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Eclipse](https://open.spotify.com/album/3AH33SDipOCuw9ATLx1CrX) | 3:00 |
+| 6 | [My System](https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [My System](https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0) | 3:02 |
+| 7 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
+| 8 | [CROSSROADS](https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG) | [Daniel Žižka](https://open.spotify.com/artist/03igozcHSdgnU1Z1aZ20aS) | [CROSSROADS](https://open.spotify.com/album/0ynt6Fz8qqlGIdUFVhPoqL) | 3:00 |
+| 9 | [JALLA](https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [JALLA](https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx) | 2:59 |
+| 10 | [Ridnym \- Eurovision Version](https://open.spotify.com/track/44DemLB8ChS8AaN9haWsgU) | [Leléka](https://open.spotify.com/artist/6SoecBx6mP4YfrEVVb0GcG) | [Ridnym \(Eurovision Version\)](https://open.spotify.com/album/1Re3YIG29ZrGx6CjMdwAAn) | 2:58 |
+| 11 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 |
+| 12 | [Eins, Zwei, Drei](https://open.spotify.com/track/26xlJAlQoCMbnAWd0sGCQf) | [LOOK MUM NO COMPUTER](https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef) | [Eins, Zwei, Drei](https://open.spotify.com/album/7yGx7Va1vpyhsLvdwRmKyT) | 3:10 |
+| 13 | [Bella](https://open.spotify.com/track/6xMZVKtQ76THTiJBntzmwz) | [AIDAN](https://open.spotify.com/artist/6fqAnsJdhftWSyDd3huQIi) | [Bella](https://open.spotify.com/album/4WrXzOulZzFDhB84ogTcKQ) | 2:57 |
+| 14 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
+| 15 | [Mother Nature](https://open.spotify.com/track/4kYfZeuXXmCWLvhnPIjyr1) | [Eva Marija](https://open.spotify.com/artist/3Eg9xrKVUdbFpJGQauHvp4) | [Mother Nature](https://open.spotify.com/album/2g3GooH2jkUzcQ2NmwuZFq) | 2:58 |
+| 16 | [Alice \- ESC Version](https://open.spotify.com/track/4n1hRQ4uhTLhc1XaJFFofK) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Alice \(ESC Version\)](https://open.spotify.com/album/6RFjn0g23U5nvRXE6gDQiS) | 3:00 |
+| 17 | [Ya Ya Ya](https://open.spotify.com/track/0BDJRKqx8Qj6EmM5o9P5Vr) | [JONAS LOVV](https://open.spotify.com/artist/2MxmOoUgB4Z9k7x4V5IMy7) | [Ya Ya Ya](https://open.spotify.com/album/4VB38tgYeoX90oKnxmjw0M) | 2:49 |
+| 18 | [Choke Me](https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw) | [Alexandra Căpitănescu](https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0) | [Choke Me](https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW) | 2:58 |
+| 19 | [Sólo Quiero Más](https://open.spotify.com/track/1av4wp2KoCwn9P151n45WV) | [Lion Ceccah](https://open.spotify.com/artist/7ivlxzVHNKJrGyuIdLWYD4) | [Sólo Quiero Más](https://open.spotify.com/album/2aW3Fg913oEVifMta2Jvpg) | 3:02 |
+| 20 | [Fire](https://open.spotify.com/track/2j5D20BxsN7xl11KcnLyHP) | [Sarah Engels](https://open.spotify.com/artist/7iK3kLye8FTBgYuqhg7v5P) | [Fire](https://open.spotify.com/album/71faxgxtIua8WZLM9v9U6v) | 2:57 |
+| 21 | [Just Go](https://open.spotify.com/track/3MdXycj2PnW7KBiYSzLVxD) | [JIVA](https://open.spotify.com/artist/4DK0buOfEJIxAIV5nhxQbc) | [Just Go](https://open.spotify.com/album/0YB99qjvEW1EUvGbN73Urc) | 3:00 |
+| 22 | [Andromeda](https://open.spotify.com/track/3bTsAnErZrtBoUfORcTDTo) | [LELEK](https://open.spotify.com/artist/3XRa1ssBicMHAW76NxXDts) | [Andromeda](https://open.spotify.com/album/2hmiXUccJdvAb5YWklu4yo) | 2:59 |
+| 23 | [Superstar](https://open.spotify.com/track/7vsJ0bqsjhVnZxV2W2wRiD) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT) | [Superstar](https://open.spotify.com/album/5L5QsjQu2WZ2wnLYmRd7b4) | 2:54 |
+| 24 | [Viva, Moldova!](https://open.spotify.com/track/1aco3k5pWdUjruX6vKgovf) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Viva, Moldova!](https://open.spotify.com/album/1KIl7BKdv5nwZhN2Iz6Y5M) | 2:47 |
+| 25 | [Ēnā](https://open.spotify.com/track/5jrN6fnBH38Bh0IQJnjiUJ) | [Atvara](https://open.spotify.com/artist/4FTGADpPjk9LgpAQAqQhI0) | [Ēnā](https://open.spotify.com/album/5B0vWqpxIriwZSTdE5Wv4K) | 2:53 |
+| 26 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [Alicja](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 |
+| 27 | [Kraj mene](https://open.spotify.com/track/3cnVAUGWZcXNqojO8PfYOu) | [Lavina](https://open.spotify.com/artist/2a1W5RyJCm4GugnlqckLw3) | [Kraj mene](https://open.spotify.com/album/5jZzL46mXq6XDHbsTwO29o) | 3:01 |
+| 28 | [Dancing on the ice](https://open.spotify.com/track/1u0WYHtNFrAyzgybCDK861) | [Essyla](https://open.spotify.com/artist/28ZKsCZWBrB4T4oHtDpk81) | [Dancing on the ice](https://open.spotify.com/album/4mSU2SqQ4Udfvu7NG5TzdD) | 3:00 |
+| 29 | [TANZSCHEIN](https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q) | [COSMÓ](https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM) | [TANZSCHEIN](https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix) | 2:42 |
+| 30 | [Rosa](https://open.spotify.com/track/03Oz6PWplRogAQJgnFuoJ7) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Festival da Canção 2026](https://open.spotify.com/album/3QFJNJbQvlVJ3sPMB1TWrH) | 2:59 |
+| 31 | [Nân](https://open.spotify.com/track/40vsOMljwhHCibpToRULGo) | [Alis](https://open.spotify.com/artist/2qHjO4DZZhtrjeHGF1OvhT) | [Nân](https://open.spotify.com/album/1VB86eKOCokBdOVcU1oxzo) | 3:09 |
+| 32 | [Too Epic To Be True](https://open.spotify.com/track/3Js1kS52KXZsmRU6qFLH60) | [Vanilla Ninja](https://open.spotify.com/artist/7ukHWEkVkYBIbJAZG51OvL) | [Too Epic To Be True / Are You Ready To Go](https://open.spotify.com/album/1pDXZMQjepON39iflEYWgK) | 2:59 |
+| 33 | [Nova Zora \- Eurovision 2026](https://open.spotify.com/track/3PGOiXT00ISVuUgr14m079) | [Tamara Živković](https://open.spotify.com/artist/3rhiMxv0cqPttBuoxtKiFw) | [Nova Zora \(Eurovision 2026\)](https://open.spotify.com/album/1lrGkecHhO8pzAGhd8gDGW) | 2:51 |
 
-Snapshot ID: `AAAAAG+K3r4EP2pjGxcSY1JARNhwLRP0`
+Snapshot ID: `AAAAANU9+XDZOduKx4sSX1ChANLIOqgO`

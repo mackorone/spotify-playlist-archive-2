@@ -155,6 +155,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Mujer Frente a la Cruz",
+        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 367773,
+      "name": "Que Baje la Nube",
+      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "A Family Christmas",
         "url": "https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 119906,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/4h8gC82RmwrIsNYibTbXvs"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Mujer Frente a la Cruz",
-        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 367773,
-      "name": "Que Baje la Nube",
-      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 215131,
-      "name": "Navidad Perfecta",
-      "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "AL MUNDO PAZ",
         "url": "https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 179487,
       "name": "AL MUNDO PAZ",
       "url": "https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 215131,
+      "name": "Navidad Perfecta",
+      "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Al Mundo Paz (Al\u00e9grense)",
-        "url": "https://open.spotify.com/album/0JdUZVJDDu3vQMCU5hQ6Ai"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        }
-      ],
-      "duration_ms": 250166,
-      "name": "Al Mundo Paz (Al\u00e9grense)",
-      "url": "https://open.spotify.com/track/6DeyRYoxQKoh8k4yU5Njb1"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Venid Adoremos",
         "url": "https://open.spotify.com/album/5OHS5ASY3hQIURNlaUEBpw"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 211960,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/0Ukh2IsNxpbrUqCeklCZ7c"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Al Mundo Paz (Al\u00e9grense)",
+        "url": "https://open.spotify.com/album/0JdUZVJDDu3vQMCU5hQ6Ai"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "duration_ms": 250166,
+      "name": "Al Mundo Paz (Al\u00e9grense)",
+      "url": "https://open.spotify.com/track/6DeyRYoxQKoh8k4yU5Njb1"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Pa'que Mi Pueblo Cante",
-        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "V\u00edstete",
-      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Ven a Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7dAjKqHAhF30krZOkRr3Xo"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 207994,
       "name": "Ven a Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1IhJ1lFqO9IhJnfFRwgFJl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Pa'que Mi Pueblo Cante",
+        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "V\u00edstete",
+      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1003,30 +1003,6 @@
       "duration_ms": 384493,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/3dpyRy7JS4ViYghiQRvqrd"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Regres\u00e9 Para Navidad",
-        "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        },
-        {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        },
-        {
-          "name": "Sophiv",
-          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Regres\u00e9 Para Navidad",
-      "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1103,6 +1079,30 @@
       "duration_ms": 161408,
       "name": "Diciembre o Junio",
       "url": "https://open.spotify.com/track/1e5W0GpegvfZWusIYaSLAG"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Regres\u00e9 Para Navidad",
+        "url": "https://open.spotify.com/album/2qN2d1GY33iX8F7g9HnRMe"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        },
+        {
+          "name": "Sophiv",
+          "url": "https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Regres\u00e9 Para Navidad",
+      "url": "https://open.spotify.com/track/1W8Qjx0T2Rk90sTflWnuiO"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Nattyvidad",
-        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
-      },
-      "artists": [
-        {
-          "name": "Matamba",
-          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
-        }
-      ],
-      "duration_ms": 264661,
-      "name": "Nattyvidad",
-      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 197718,
       "name": "La Noche Que Todo Cambi\u00f3",
       "url": "https://open.spotify.com/track/2W2nuNsrihburIDdpKEMCB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Nattyvidad",
+        "url": "https://open.spotify.com/album/1XH14J4sYZf5CiqSFosZss"
+      },
+      "artists": [
+        {
+          "name": "Matamba",
+          "url": "https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "Nattyvidad",
+      "url": "https://open.spotify.com/track/6jIvPXMPxITu29gFsrVOvC"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1499,30 +1499,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Navidad Lleg\u00f3",
-        "url": "https://open.spotify.com/album/31wvx0Y94BXHUCfufKV4u8"
-      },
-      "artists": [
-        {
-          "name": "Dauny & Sucely",
-          "url": "https://open.spotify.com/artist/0rKMA476BQMLIesPgyakcH"
-        },
-        {
-          "name": "Dauny",
-          "url": "https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7"
-        },
-        {
-          "name": "Sucely",
-          "url": "https://open.spotify.com/artist/4tlNGVNSHusqJ9GA58Rlfe"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Navidad Lleg\u00f3",
-      "url": "https://open.spotify.com/track/55N7vaSCbmB2JTp08F9wmA"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Lo Que Quiero Dar",
         "url": "https://open.spotify.com/album/50cFEKt1gJlJH2g01I4wCt"
       },
@@ -1539,26 +1515,6 @@
       "duration_ms": 191893,
       "name": "Lo Que Quiero Dar",
       "url": "https://open.spotify.com/track/1amaEOLFqVQPu0xAQ202AH"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Noche De Paz",
-        "url": "https://open.spotify.com/album/0S9BgleYMmHBmhpNAjoPG3"
-      },
-      "artists": [
-        {
-          "name": "Priscila Matiesco",
-          "url": "https://open.spotify.com/artist/1wdCbEqpZ64lJTjXbqnD8M"
-        },
-        {
-          "name": "John Eli",
-          "url": "https://open.spotify.com/artist/6IojxqhLPVXkK779ZI4OBT"
-        }
-      ],
-      "duration_ms": 248244,
-      "name": "Noche De Paz",
-      "url": "https://open.spotify.com/track/7cnp0cRWXtGt0cSE8dSLFh"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1583,6 +1539,50 @@
       "duration_ms": 295116,
       "name": "Emmanuel - Radio Edit",
       "url": "https://open.spotify.com/track/7G1XliJqhJOOu3gjVvQ1uG"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Navidad Lleg\u00f3",
+        "url": "https://open.spotify.com/album/31wvx0Y94BXHUCfufKV4u8"
+      },
+      "artists": [
+        {
+          "name": "Dauny & Sucely",
+          "url": "https://open.spotify.com/artist/0rKMA476BQMLIesPgyakcH"
+        },
+        {
+          "name": "Dauny",
+          "url": "https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7"
+        },
+        {
+          "name": "Sucely",
+          "url": "https://open.spotify.com/artist/4tlNGVNSHusqJ9GA58Rlfe"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Navidad Lleg\u00f3",
+      "url": "https://open.spotify.com/track/55N7vaSCbmB2JTp08F9wmA"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Noche De Paz",
+        "url": "https://open.spotify.com/album/0S9BgleYMmHBmhpNAjoPG3"
+      },
+      "artists": [
+        {
+          "name": "Priscila Matiesco",
+          "url": "https://open.spotify.com/artist/1wdCbEqpZ64lJTjXbqnD8M"
+        },
+        {
+          "name": "John Eli",
+          "url": "https://open.spotify.com/artist/6IojxqhLPVXkK779ZI4OBT"
+        }
+      ],
+      "duration_ms": 248244,
+      "name": "Noche De Paz",
+      "url": "https://open.spotify.com/track/7cnp0cRWXtGt0cSE8dSLFh"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Navidad en Casa Vol. 2",
+        "url": "https://open.spotify.com/album/0ok1Vx2si7w2oqZCXFEHZG"
+      },
+      "artists": [
+        {
+          "name": "Juan Santoy",
+          "url": "https://open.spotify.com/artist/0FKVUSUlnABFRlNkIEELOO"
+        }
+      ],
+      "duration_ms": 223376,
+      "name": "Pa\u2019 Regalarme Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/14WUmiYvMXlMIakfhjMUlA"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "Porque Es Navidad",
         "url": "https://open.spotify.com/album/1tn1LPYE6vGTzlhwJmkRJP"
       },
@@ -1823,18 +1839,18 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Navidad en Casa Vol. 2",
-        "url": "https://open.spotify.com/album/0ok1Vx2si7w2oqZCXFEHZG"
+        "name": "Noche de Paz",
+        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
       },
       "artists": [
         {
-          "name": "Juan Santoy",
-          "url": "https://open.spotify.com/artist/0FKVUSUlnABFRlNkIEELOO"
+          "name": "Celeste & Wilber",
+          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
         }
       ],
-      "duration_ms": 223376,
-      "name": "Pa\u2019 Regalarme Salvaci\u00f3n",
-      "url": "https://open.spotify.com/track/14WUmiYvMXlMIakfhjMUlA"
+      "duration_ms": 277857,
+      "name": "Noche de Paz",
+      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1851,22 +1867,6 @@
       "duration_ms": 192078,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Noche de Paz",
-        "url": "https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0"
-      },
-      "artists": [
-        {
-          "name": "Celeste & Wilber",
-          "url": "https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF"
-        }
-      ],
-      "duration_ms": 277857,
-      "name": "Noche de Paz",
-      "url": "https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/4e75ZbIGeE1kZwyyLSfM5b"
-      },
-      "artists": [
-        {
-          "name": "Egleyda Belliard",
-          "url": "https://open.spotify.com/artist/1sBwtYxFdcxMORPsC6SMyl"
-        }
-      ],
-      "duration_ms": 254887,
-      "name": "Gracias Por Nacer (Merengue)",
-      "url": "https://open.spotify.com/track/666DxqwGNd74D9p2a4ifiS"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Santa La Noche",
         "url": "https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl"
       },
@@ -2011,18 +1995,18 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "ESTA NAVIDAD",
-        "url": "https://open.spotify.com/album/641XgW8RSWIEDsnHdf7Ry3"
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/4e75ZbIGeE1kZwyyLSfM5b"
       },
       "artists": [
         {
-          "name": "LINARES",
-          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+          "name": "Egleyda Belliard",
+          "url": "https://open.spotify.com/artist/1sBwtYxFdcxMORPsC6SMyl"
         }
       ],
-      "duration_ms": 176129,
-      "name": "ESTA NAVIDAD",
-      "url": "https://open.spotify.com/track/16G8gmyvqgmA4yBGEoIXSM"
+      "duration_ms": 254887,
+      "name": "Gracias Por Nacer (Merengue)",
+      "url": "https://open.spotify.com/track/666DxqwGNd74D9p2a4ifiS"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -2047,6 +2031,22 @@
       "duration_ms": 436191,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/3tPeT6159RSlaaONcMRyFC"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "ESTA NAVIDAD",
+        "url": "https://open.spotify.com/album/641XgW8RSWIEDsnHdf7Ry3"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "ESTA NAVIDAD",
+      "url": "https://open.spotify.com/track/16G8gmyvqgmA4yBGEoIXSM"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Regreso a Ti",
+        "url": "https://open.spotify.com/album/1AwtSJ0RTTzQOSJhvaC9Dy"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 252376,
+      "name": "Vives t\u00fa y vivo yo",
+      "url": "https://open.spotify.com/track/5BqPdEdpNYFidl7AjMyz9c"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 270186,
       "name": "El Nombre De Jes\u00fas (feat. Christine D'clario)",
       "url": "https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Regreso a Ti",
-        "url": "https://open.spotify.com/album/1AwtSJ0RTTzQOSJhvaC9Dy"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 252376,
-      "name": "Vives t\u00fa y vivo yo",
-      "url": "https://open.spotify.com/track/5BqPdEdpNYFidl7AjMyz9c"
     },
     {
       "added_at": "2025-12-12 05:00:50",

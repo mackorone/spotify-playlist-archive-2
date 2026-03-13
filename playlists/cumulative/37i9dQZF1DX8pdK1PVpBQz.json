@@ -41275,6 +41275,24 @@
     },
     {
       "album": {
+        "name": "Station Model Violence",
+        "url": "https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz"
+      },
+      "artists": [
+        {
+          "name": "Station Model Violence",
+          "url": "https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "Leisure",
+      "url": "https://open.spotify.com/track/4wuVZpmDkRpgAhwexsfp30"
+    },
+    {
+      "album": {
         "name": "Lemon",
         "url": "https://open.spotify.com/album/3MQ0fiOtuTCXhlYfPN3YoJ"
       },
@@ -54830,7 +54848,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 182346,
       "name": "Overnight Sensation",
       "url": "https://open.spotify.com/track/3aS1aJBRmpaquAoLmuGvBy"

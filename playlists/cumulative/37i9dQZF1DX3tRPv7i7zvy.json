@@ -112,7 +112,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203077,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
@@ -328,6 +328,28 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
+    },
+    {
+      "album": {
+        "name": "Big Spender",
+        "url": "https://open.spotify.com/album/4XVCnLM21GH3VeDLaIWqcI"
+      },
+      "artists": [
+        {
+          "name": "AGGi",
+          "url": "https://open.spotify.com/artist/1Vd4zITUpdG9sIb2no0e9c"
+        },
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173173,
+      "name": "Big Spender",
+      "url": "https://open.spotify.com/track/1JoFGbjrG9OIUHXSAc5LOt"
     },
     {
       "album": {
@@ -843,6 +865,28 @@
     },
     {
       "album": {
+        "name": "Kyekyere Me",
+        "url": "https://open.spotify.com/album/4mYhORV8LXSMUw7jW1WUiy"
+      },
+      "artists": [
+        {
+          "name": "Ess thee Legend",
+          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        },
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Kyekyere Me",
+      "url": "https://open.spotify.com/track/5kSLwrX3DptO1p4II5yjCJ"
+    },
+    {
+      "album": {
         "name": "La vida Loca",
         "url": "https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm"
       },
@@ -942,6 +986,24 @@
       "duration_ms": 173397,
       "name": "Many Many Things",
       "url": "https://open.spotify.com/track/4uzKhhLD4m4ZgIOmUzXDBP"
+    },
+    {
+      "album": {
+        "name": "Masallaci",
+        "url": "https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125050,
+      "name": "Masallaci",
+      "url": "https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ"
     },
     {
       "album": {
@@ -1074,7 +1136,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb"
@@ -1684,7 +1746,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"

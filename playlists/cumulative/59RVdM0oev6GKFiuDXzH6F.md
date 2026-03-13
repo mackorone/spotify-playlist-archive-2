@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,100 songs - 2 day 8 hr 37 min
+1,102 songs - 2 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-10 | 2024-09-26 |
 | [All Right](https://open.spotify.com/track/3J5LoP6UnLst7xADfb5ZtY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [All Right](https://open.spotify.com/album/4eikW8HEWg7LLFCzPQc8zi) | 5:19 | 2025-03-13 |  |
 | [All The Way](https://open.spotify.com/track/6kjP9hwgKBzKo0psteGFDY) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5) | [All The Way](https://open.spotify.com/album/2yL0wl9CvwWNIpIFBSUcP1) | 4:03 | 2024-05-03 | 2024-09-26 |
+| [All This Love](https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW) | [Ben Van Kuringen](https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2) | [All This Love](https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3) | 3:15 | 2026-03-12 |  |
 | [ALLEINE \- Brutalismus 3000 RMX](https://open.spotify.com/track/3bfoE6deRVfiq1VBJcftti) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx), [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ALLEINE \(Brutalismus 3000 RMX\)](https://open.spotify.com/album/4TgJh50gs7yp059X4pmjHR) | 3:09 | 2023-08-31 | 2023-12-14 |
 | [Alone \(feat\. John Dory\)](https://open.spotify.com/track/2rqaXoQ33zMayzUOrMz4Mn) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Cr3on](https://open.spotify.com/artist/2kARXKmAASddORKnpXif8j), [John Dory](https://open.spotify.com/artist/6FIweVXB3whIgXmMLkSORg) | [Alone \(feat\. John Dory\)](https://open.spotify.com/album/3NVe9dO6ZE4eQtfSf6XT6a) | 2:46 | 2024-12-05 | 2025-03-14 |
 | [Alright](https://open.spotify.com/track/10NhL0ZATdOsOaySlN9RvW) | [Ilya Stepash](https://open.spotify.com/artist/415OxCmsxBQzyjT3pk7GDs) | [Alright](https://open.spotify.com/album/6m4mYZTC0x3HqGAW7i3bmd) | 3:22 | 2023-03-31 | 2023-04-15 |
@@ -1000,6 +1001,7 @@
 | [Turn The Lights Off \(with Jaxstyle\) \- Joshua Robbie & VYTO Remix](https://open.spotify.com/track/1y4LD6eIWYHeABqhxzKo49) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [VYTO](https://open.spotify.com/artist/4ty8oeZNU9JAQGAqSLDkyG) | [Turn The Lights Off \(with Jaxstyle\) \[Joshua Robbie & VYTO Remix\]](https://open.spotify.com/album/5t962jL0Tb4ua4EcXP0Ln2) | 2:27 | 2026-02-05 |  |
 | [U AND ME](https://open.spotify.com/track/2VwcKJw70Rrd2Ar1yvdAoF) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [U AND ME EP](https://open.spotify.com/album/0fz3qWe9z7C94SMQ2IAHcU) | 2:52 | 2023-08-04 | 2023-12-14 |
 | [U&Me](https://open.spotify.com/track/0EQhBHpkw598LwJOCrkK9J) | [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [U&Me](https://open.spotify.com/album/3L7cUh1IpzOS1v5TKYsW6B) | 2:49 | 2024-06-21 | 2025-01-09 |
+| [Ultra Love](https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Brieanna Grace](https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg) | [Ultra Love](https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol) | 3:23 | 2026-03-12 |  |
 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 | 2024-12-19 |  |
 | [Unbearable \(feat\. Tyler James Bellinger & ROZES\)](https://open.spotify.com/track/7xkivz8kClAN1rZPRzTHDo) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Tyler James Bellinger](https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Unbearable \(feat\. Tyler James Bellinger & ROZES\)](https://open.spotify.com/album/2WnFm0k8KW06Op6OjC1E4P) | 3:33 | 2024-12-05 | 2025-03-14 |
 | [Under Rain](https://open.spotify.com/track/4l3gvu1WyUfB8qTPZKdSPR) | [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [WUKONG](https://open.spotify.com/artist/6AtgLd3rwVPep5RSPWRQ1T), [Lizik Kissik](https://open.spotify.com/artist/6rIplaabZwp0qSdwTiz1w2) | [Under Rain](https://open.spotify.com/album/5bd1emKw42JI2Gg0iRYWzq) | 2:43 | 2025-03-06 |  |

@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Naïka
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Theodora
 
-908 songs - 1 day 20 hr 9 min
+910 songs - 1 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,7 @@
 | [Foutaise](https://open.spotify.com/track/1DGftqE1YlsVHcG0XbTy59) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Foutaise](https://open.spotify.com/album/77KZ2KVZCcFKnTymB1Cwpn) | 2:20 | 2024-09-19 | 2025-03-28 |
 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 | 2021-12-27 | 2022-02-18 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-04-10 | 2025-06-13 |
-| [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-09-05 |  |
+| [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 | 2025-09-05 | 2026-03-13 |
 | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Funds \(feat\. ODUMODUBLVCK & Chike\)](https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET) | 3:26 | 2024-12-12 | 2025-04-18 |
 | [Gaga \(feat\. MHD\)](https://open.spotify.com/track/4wW5nnZXD7SyLxaASOsLil) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Gaga \(feat\. MHD\)](https://open.spotify.com/album/0fkE3D4PFGjA3n0Kd3pmXR) | 3:45 | 2022-07-07 | 2022-11-11 |
 | [Gamos](https://open.spotify.com/track/4FRljYLUrjpYqcgfvYLsb1) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh) | [Game Over 3 \- Terminal 1](https://open.spotify.com/album/5PmWe5l9UriDhkRn4gClLG) | 3:10 | 2022-08-18 | 2022-09-30 |
@@ -543,6 +543,7 @@
 | [MIMI](https://open.spotify.com/track/37nQnHxzCpr0i7emp25goc) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [MIMI](https://open.spotify.com/album/08XMCq1m9XS3Arnss6PwRD) | 2:46 | 2024-11-21 | 2025-01-31 |
 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 | 2024-09-12 | 2025-05-02 |
 | [Miss Des Miss](https://open.spotify.com/track/2Qexnj9p4HuIbEljqrjlce) | [Hulk Van JMF](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Miss Des Miss](https://open.spotify.com/album/2JHZlpiaErSIdrv69sEt2S) | 2:34 | 2022-12-22 | 2023-03-10 |
+| [Miss Kitoko](https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Miss Kitoko](https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR) | 2:29 | 2026-03-12 |  |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-07 | 2024-01-19 |
 | [Mister Romantic](https://open.spotify.com/track/7axEJkECTvAt6D12Lvt718) | [MC One](https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Mister Romantic](https://open.spotify.com/album/4YZad4HqvIRKTAFgdRLmrt) | 3:20 | 2024-02-08 | 2024-04-05 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-09-22 | 2022-10-28 |
@@ -835,7 +836,7 @@
 | [Tourner la page](https://open.spotify.com/track/6R5tIFHqe50AsDICdavSlJ) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Tourner la page](https://open.spotify.com/album/5MqKJoSgmcdBTqD78HpxZ8) | 3:23 | 2022-10-13 | 2023-01-13 |
 | [Tourner la page \(épisode 2\)](https://open.spotify.com/track/2ZP3TeVINLtHuDjo2lJQMe) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 2:45 | 2023-03-16 | 2023-04-14 |
 | [Tout couper](https://open.spotify.com/track/5qeK6PMxjJAqgx3wPuVlJ2) | [Titai](https://open.spotify.com/artist/0kTTkHvvtYNtRKnRPyNGhT), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Tout couper](https://open.spotify.com/album/0kb26UaIxaF0gG38bP6Cbw) | 2:55 | 2023-11-23 | 2023-12-15 |
-| [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 | 2025-05-29 |  |
+| [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 | 2025-05-29 | 2026-03-13 |
 | [TOUT DOUCEMENT](https://open.spotify.com/track/3l55QcQXIw3kq0bcgUP9oq) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TOUT DOUCEMENT](https://open.spotify.com/album/0Z9GnEkoYAmFs3tFUoaSU8) | 2:59 | 2022-07-21 | 2022-07-29 |
 | [Tout doucement](https://open.spotify.com/track/5ltwsSaEsdsUVaiqLx0CKV) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Tout doucement](https://open.spotify.com/album/4B5Pls0WHD10EodLtIbutg) | 2:59 | 2022-07-28 | 2022-11-11 |
 | [Tout doux](https://open.spotify.com/track/4jeWr8Mgj1MEpJozUPl1qZ) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Tout doux](https://open.spotify.com/album/3CBLiK43DPiISKyDvfMz2I) | 3:13 | 2025-07-10 | 2025-11-21 |
@@ -886,6 +887,7 @@
 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 | 2024-05-09 | 2024-09-20 |
 | [Wayeh \(feat\. CKay\) \- Remix](https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Wayeh \(feat\. CKay\) \[Remix\]](https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo) | 2:30 | 2024-09-19 | 2024-12-20 |
 | [What Have You Done?](https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [What Have You Done?](https://open.spotify.com/album/3G7drc03HfTHoIVCUJ8m11) | 3:28 | 2023-05-25 | 2023-07-07 |
+| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-12 |  |
 | [Who Is Your Guy?](https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Who Is Your Guy?](https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34) | 2:40 | 2023-04-13 | 2023-06-09 |
 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-17 |  |
 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 | 2025-02-20 | 2025-03-28 |

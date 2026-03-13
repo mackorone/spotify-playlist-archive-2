@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Meryl
+> Photo : PLK
 
-469 songs - 21 hr 50 min
+471 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [MONÉGASQUE](https://open.spotify.com/track/53M3U2p7JVh3MV0GwhOVYj) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [MONÉGASQUE](https://open.spotify.com/album/7e94f11NCnM32gJByB9rt1) | 2:27 | 2024-07-11 | 2024-09-27 |
 | [Mood](https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Mood](https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc) | 2:51 | 2025-03-27 | 2025-07-18 |
 | [Mood \(feat\. D2 & kulturr\)](https://open.spotify.com/track/0Map8Sn47eyojScNyuMnUD) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [D2](https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS), [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [HYPERACTIF](https://open.spotify.com/album/7FhduVA2rvpQqdTOPrYUnt) | 2:28 | 2026-01-22 |  |
-| [Morena](https://open.spotify.com/track/3CKfqzqiqsQluhrJH438K2) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Morena](https://open.spotify.com/album/0K95S14cteAiVcFgish00M) | 2:47 | 2026-01-15 |  |
+| [Morena](https://open.spotify.com/track/3CKfqzqiqsQluhrJH438K2) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Morena](https://open.spotify.com/album/0K95S14cteAiVcFgish00M) | 2:47 | 2026-01-15 | 2026-03-13 |
 | [MOSSOS \(feat\. Jul\)](https://open.spotify.com/track/032ESfbIyF02Ygx86WGifS) | [TIG](https://open.spotify.com/artist/4OdXEl7KN8ubSL6t74ArMB), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [ASTATE](https://open.spotify.com/album/4g1FzyuVa2K9EHBvigQeeE) | 3:20 | 2026-01-29 |  |
 | [MOULA SOLITUDE](https://open.spotify.com/track/3kvIHD7EIlMQ86X3w7kW0Y) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [EXTASIA](https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX) | 3:15 | 2025-10-09 | 2025-11-21 |
 | [Movie](https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Movie](https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM) | 2:23 | 2024-10-24 | 2025-06-06 |
@@ -332,6 +332,7 @@
 | [Picoler](https://open.spotify.com/track/3MmOIpXW9jZLCcqNRzR0gJ) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Picoler](https://open.spotify.com/album/1zgN4DsdOYeUFMTGID32S3) | 3:09 | 2024-01-25 | 2024-02-23 |
 | [Piments](https://open.spotify.com/track/0b3us3PyUYV0pYGhgPBeXt) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Piments](https://open.spotify.com/album/6UubJNujZ1SbEO9ESC5kBX) | 2:38 | 2025-05-01 | 2025-06-27 |
 | [Piranha \(feat\. Vacra\)](https://open.spotify.com/track/74x0GjLf1nolNFBYY8gddI) | [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Piranha \(feat\. Vacra\)](https://open.spotify.com/album/3Xbe6mnLoyn78J25dsXgwK) | 2:35 | 2023-09-28 | 2024-05-03 |
+| [Pocahontas](https://open.spotify.com/track/6P0oYDUPYf2CNJxcokIH09) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Grand Garçon](https://open.spotify.com/album/3S0xe0lkUMdi0H6qZcRrIr) | 2:48 | 2026-03-12 |  |
 | [Popo](https://open.spotify.com/track/3hw6otI0OVImUyewp4g6qt) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [En 4 temps \(Part.3\)](https://open.spotify.com/album/2XY7ZqwQWEzXlIiKpfL14b) | 2:38 | 2025-04-24 | 2025-05-23 |
 | [Populaire](https://open.spotify.com/track/77t6M21eaWB204PgnD1byj) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [Populaire](https://open.spotify.com/album/5Va77etcxm2inKxBICFWiL) | 3:24 | 2025-09-11 | 2025-10-10 |
 | [Potentiel](https://open.spotify.com/track/6hqSDLb1u5x1kduc51ZMym) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Potentiel](https://open.spotify.com/album/0cwJIqmCIJuIujx7YmSSjZ) | 3:00 | 2024-02-08 | 2024-04-26 |
@@ -386,6 +387,7 @@
 | [Se Grita](https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Reinsertado](https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk) | 4:19 | 2023-09-28 | 2024-02-16 |
 | [Sens interdit \(feat\. Ninho\)](https://open.spotify.com/track/0SCdkVwfYVHT0OwHIpePdf) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Sens interdit \(feat\. Ninho\)](https://open.spotify.com/album/6MTpjYzuyPkfWa0gkyIAG1) | 2:32 | 2024-05-23 | 2024-07-12 |
 | [Sensations](https://open.spotify.com/track/5Y8Zbqlmx97hTM8y5kqo0x) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Sensations](https://open.spotify.com/album/4mJQmamNVYsJ9FF5tKq71C) | 4:21 | 2023-11-23 | 2024-04-05 |
+| [SENSUAL](https://open.spotify.com/track/2CMTnNnEXPAHqHIlDUyXkE) | [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE) | [ALCHIMIE](https://open.spotify.com/album/51n6um4NjFFwyGIbEl0Ja1) | 2:14 | 2026-03-12 |  |
 | [Sex Model](https://open.spotify.com/track/4YiP42tiEfZ1blOnzJ6fRr) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Sex Model](https://open.spotify.com/album/1pgfJ1jwNNEq3aiexOkcP1) | 2:46 | 2026-02-19 |  |
 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 | 2023-10-05 | 2024-07-05 |
 | [Seychelles](https://open.spotify.com/track/0LVo3mfYzZuCRADfUMczcX) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Seychelles](https://open.spotify.com/album/3VHcrPUdqCHkNIbNLYxyf0) | 2:38 | 2026-02-05 |  |
@@ -424,7 +426,7 @@
 | [TIMINIK \(feat\. Yorssy\)](https://open.spotify.com/track/0KfTxvCXxZBfYN3pvzVG2W) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [TIMINIK \(feat\. Yorssy\)](https://open.spotify.com/album/2uxe0f9IzJziDGgrTuZYjv) | 2:29 | 2025-06-05 | 2025-06-27 |
 | [Tié fou](https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Mise à jour](https://open.spotify.com/album/2M8IRxOB9vV2P2OoaeMrkQ) | 3:37 | 2024-06-06 | 2024-07-19 |
 | [Tkt Pas](https://open.spotify.com/track/6gSSir2CTJjYEt0wrp54rf) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Tkt Pas](https://open.spotify.com/album/6sal5rV4BnYkvAk9HZkzQL) | 2:50 | 2025-07-03 | 2025-07-25 |
-| [TOKÉ TOKÉ](https://open.spotify.com/track/4TnZaUIPJw5eIkUEFY8ciX) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [TOKÉ TOKÉ](https://open.spotify.com/album/5MGPJyL7AK3yIOGWDZjJAP) | 2:12 | 2026-02-12 |  |
+| [TOKÉ TOKÉ](https://open.spotify.com/track/4TnZaUIPJw5eIkUEFY8ciX) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [TOKÉ TOKÉ](https://open.spotify.com/album/5MGPJyL7AK3yIOGWDZjJAP) | 2:12 | 2026-02-12 | 2026-03-13 |
 | [Totopika](https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [En Attendant Paphos](https://open.spotify.com/album/04shx6Zxkh6JEoln4IX1Me) | 2:19 | 2025-02-13 | 2025-06-20 |
 | [TOUCHÉ](https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [TOUCHÉ](https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif) | 2:53 | 2025-04-10 | 2025-06-27 |
 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 | 2025-07-24 |  |

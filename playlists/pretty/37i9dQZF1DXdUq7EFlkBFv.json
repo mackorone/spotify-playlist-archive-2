@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 25398,
+  "num_followers": 25401,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "My Shit",
+        "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
+      },
+      "artists": [
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "duration_ms": 120189,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 251733,
       "name": "Clash (feat. Stormzy)",
       "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "My Shit",
-        "url": "https://open.spotify.com/album/7C6YsJ2PYab0ydSTP7BQB2"
-      },
-      "artists": [
-        {
-          "name": "Bizzy Banks",
-          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
-        }
-      ],
-      "duration_ms": 120189,
-      "name": "My Shit",
-      "url": "https://open.spotify.com/track/1HmhJrabjvTHZlkKDUzZfX"
     },
     {
       "added_at": "2022-10-01 16:17:17",

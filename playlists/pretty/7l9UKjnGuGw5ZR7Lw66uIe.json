@@ -1,13 +1,29 @@
 {
   "description": "neler ya\u015fam\u0131\u015f\u0131m ben ya...",
-  "num_followers": 346,
+  "num_followers": 347,
   "original_name": "Works by Mert \u00c7odur ",
   "owner": {
     "name": "\u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAArCyWJceJpnjTmorehNVii7Wtk7Sk",
+  "snapshot_id": "AAAArh0m1R0iJ1o7ePRPV8I+slJQvCzW",
   "tracks": [
+    {
+      "added_at": "2026-03-12 22:05:52",
+      "album": {
+        "name": "Bilen Varsa",
+        "url": "https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Bilen Varsa",
+      "url": "https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC"
+    },
     {
       "added_at": "2025-05-23 08:41:07",
       "album": {

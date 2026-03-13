@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 61265,
+  "num_followers": 61273,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -283,26 +283,22 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "The Harmonic Tone Revealers",
-        "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
+        "name": "Appalachian Picking Society",
+        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
       },
       "artists": [
         {
-          "name": "John Reischman",
-          "url": "https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt"
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
         },
         {
-          "name": "Scott Nygaard",
-          "url": "https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF"
-        },
-        {
-          "name": "Sharon Gilchrist",
-          "url": "https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx"
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
         }
       ],
-      "duration_ms": 311693,
-      "name": "Midnight on the Water",
-      "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
+      "duration_ms": 213520,
+      "name": "Annabelle June",
+      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -323,22 +319,26 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Appalachian Picking Society",
-        "url": "https://open.spotify.com/album/0zFO5P5ULTkqknwYWSTkZg"
+        "name": "The Harmonic Tone Revealers",
+        "url": "https://open.spotify.com/album/12hPjsQFMQxay87boAV9jd"
       },
       "artists": [
         {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+          "name": "John Reischman",
+          "url": "https://open.spotify.com/artist/1ubUHb8iKwJ3LsVJkVvBgt"
         },
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+          "name": "Scott Nygaard",
+          "url": "https://open.spotify.com/artist/7pegCNQWY8d3F3Rvy9PkXF"
+        },
+        {
+          "name": "Sharon Gilchrist",
+          "url": "https://open.spotify.com/artist/09rxAugrQG94CtwBosZBYx"
         }
       ],
-      "duration_ms": 213520,
-      "name": "Annabelle June",
-      "url": "https://open.spotify.com/track/1VkiuB68cIE1rseBH55Fq9"
+      "duration_ms": 311693,
+      "name": "Midnight on the Water",
+      "url": "https://open.spotify.com/track/6saGatCp8YJ6hXj4AGO2Qc"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -507,18 +507,22 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "Moon in Motion 1",
+        "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
       },
       "artists": [
         {
           "name": "Tray Wellington",
           "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        },
+        {
+          "name": "Tray Wellington Band",
+          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 251000,
+      "name": "Moon in Motion 1",
+      "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -587,22 +591,18 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Moon in Motion 1",
-        "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
           "name": "Tray Wellington",
           "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
-        },
-        {
-          "name": "Tray Wellington Band",
-          "url": "https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Moon in Motion 1",
-      "url": "https://open.spotify.com/track/4JL65cYynb4QVhdM4nBM5M"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -731,38 +731,6 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
-        "name": "Taxland (feat. Sierra Hull)",
-        "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        },
-        {
-          "name": "Barry Bales",
-          "url": "https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds"
-        },
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "Taxland (feat. Sierra Hull)",
-      "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 243973,
       "name": "See Rock City",
       "url": "https://open.spotify.com/track/7k0NSUvHpFNcAaMff6ZdXu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Taxland (feat. Sierra Hull)",
+        "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        },
+        {
+          "name": "Barry Bales",
+          "url": "https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds"
+        },
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Taxland (feat. Sierra Hull)",
+      "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2026-02-13 05:00:31",
       "album": {
+        "name": "My Place in the Sun",
+        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Reedology",
+      "url": "https://open.spotify.com/track/6Y1luylb1MShHo2Ok77alb"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
         "name": "Whiskey in the Jar",
         "url": "https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 135453,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM"
-    },
-    {
-      "added_at": "2026-02-13 05:00:31",
-      "album": {
-        "name": "My Place in the Sun",
-        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
-      },
-      "artists": [
-        {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Reedology",
-      "url": "https://open.spotify.com/track/6Y1luylb1MShHo2Ok77alb"
     },
     {
       "added_at": "2026-02-13 05:00:31",

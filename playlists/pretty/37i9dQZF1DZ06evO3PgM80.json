@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22008,
+  "num_followers": 22010,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAACmHxLii52uUQYFE1Inpinh",
+  "snapshot_id": "abCwgAAAAAAH9aFTxbdCjB51tbTOvMgt",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Luciano Camargo",
-          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "Sem Palavras",
-      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 225840,
       "name": "Som das \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/6eASbeNA5vfVRcv8wcZYwa"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Luciano Camargo",
+          "url": "https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "Sem Palavras",
+      "url": "https://open.spotify.com/track/0vPBFfdXXAoqclFkNX8979"
     },
     {
       "added_at": null,
@@ -699,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Abrigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
+        "name": "Restaura o Teu Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Hananiel Eduardo",
-          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
         }
       ],
-      "duration_ms": 299746,
-      "name": "Meu Abrigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
+      "duration_ms": 418695,
+      "name": "Restaura o Teu Altar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
     },
     {
       "added_at": null,
@@ -739,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restaura o Teu Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
+        "name": "Meu Abrigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
       },
       "artists": [
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
         }
       ],
-      "duration_ms": 418695,
-      "name": "Restaura o Teu Altar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
+      "duration_ms": 299746,
+      "name": "Meu Abrigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
     },
     {
       "added_at": null,

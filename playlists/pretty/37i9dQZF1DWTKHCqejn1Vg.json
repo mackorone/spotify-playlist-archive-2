@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34515,
+  "num_followers": 34513,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-03-06 05:34:59",
       "album": {
-        "name": "Moan",
-        "url": "https://open.spotify.com/album/4sMu4Q3ZFuIMJLn4VhERoY"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 144480,
-      "name": "Moan",
-      "url": "https://open.spotify.com/track/06NcazywrcPdJx1UitZJuu"
-    },
-    {
-      "added_at": "2026-03-06 05:34:59",
-      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 164026,
       "name": "ERYKAH BADU (Feat. CAMO)",
       "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
+    },
+    {
+      "added_at": "2026-03-06 05:34:59",
+      "album": {
+        "name": "Moan",
+        "url": "https://open.spotify.com/album/4sMu4Q3ZFuIMJLn4VhERoY"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 144480,
+      "name": "Moan",
+      "url": "https://open.spotify.com/track/06NcazywrcPdJx1UitZJuu"
     },
     {
       "added_at": "2026-03-06 05:34:59",

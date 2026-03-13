@@ -2229,6 +2229,32 @@
     },
     {
       "album": {
+        "name": "Back When We Believed",
+        "url": "https://open.spotify.com/album/6swfXdF2JtLsgRR571F7rL"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "M.I.K.E.",
+          "url": "https://open.spotify.com/artist/2FClSTHSkbKYByTy7dnBQq"
+        },
+        {
+          "name": "M.I.K.E. Push",
+          "url": "https://open.spotify.com/artist/1FLWivyoqKrhsxokChtUnI"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "Back When We Believed",
+      "url": "https://open.spotify.com/track/2QSXxvvzZs72kxMAXgmStS"
+    },
+    {
+      "album": {
         "name": "Backdraft",
         "url": "https://open.spotify.com/album/0Zk7UYmejgTdSVU1BLRnt3"
       },
@@ -26112,7 +26138,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 217846,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/5vcuyY3EZgQEhLEx6fmYHM"

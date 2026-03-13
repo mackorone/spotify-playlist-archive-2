@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "first notes",
+        "url": "https://open.spotify.com/album/1NEnCOAIgijOWsaiEojZXe"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219029,
+      "name": "a little too late",
+      "url": "https://open.spotify.com/track/4PEvteEE1h2J3QlSygiaMU"
+    },
+    {
+      "album": {
         "name": "Big city life EDITS",
         "url": "https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy"
       },
@@ -1066,6 +1084,24 @@
       "duration_ms": 237560,
       "name": "Dreamy Ride",
       "url": "https://open.spotify.com/track/0ReJIOFDYCHbC1yY2CXLzk"
+    },
+    {
+      "album": {
+        "name": "e.a.l. (euro arab lovergirl)",
+        "url": "https://open.spotify.com/album/4XUlpIcXlnqe5xkscLOwEJ"
+      },
+      "artists": [
+        {
+          "name": "Zoumer",
+          "url": "https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182954,
+      "name": "driving (so many emotions)",
+      "url": "https://open.spotify.com/track/7yEb7bJZ6HEVPXaBUU5jDD"
     },
     {
       "album": {

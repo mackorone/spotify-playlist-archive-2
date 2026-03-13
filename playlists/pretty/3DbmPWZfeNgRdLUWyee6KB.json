@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1285,
+  "num_followers": 1286,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAARivij95G5NN2qzJGRytuCJGmQXgB+",
+  "snapshot_id": "AAARj0aWRSte1C6N4eIXpTaZbqFiowzD",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -39,6 +39,22 @@
       "duration_ms": 170624,
       "name": "Tranced",
       "url": "https://open.spotify.com/track/6lAhFQSwozOyNAEmTSeYxf"
+    },
+    {
+      "added_at": "2026-03-12 22:08:52",
+      "album": {
+        "name": "If you knew",
+        "url": "https://open.spotify.com/album/4zxqg5klnXPE56P6h7Ehq5"
+      },
+      "artists": [
+        {
+          "name": "Jam TheBrain",
+          "url": "https://open.spotify.com/artist/0LMGEl8PogVM5doRZv3e59"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "If you knew",
+      "url": "https://open.spotify.com/track/7x8vbqvhQ83beUkjp0F1W1"
     },
     {
       "added_at": "2026-03-11 09:57:07",
@@ -2903,6 +2919,70 @@
       "duration_ms": 286292,
       "name": "Devil's Music",
       "url": "https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3"
+    },
+    {
+      "added_at": "2026-03-12 08:03:04",
+      "album": {
+        "name": "You\u2019re My Home",
+        "url": "https://open.spotify.com/album/2nZRCKWz7qd3waBAdZ94t8"
+      },
+      "artists": [
+        {
+          "name": "Ryan woollard",
+          "url": "https://open.spotify.com/artist/05GAeBHIoOtFhm6Or5d8kF"
+        }
+      ],
+      "duration_ms": 241719,
+      "name": "You\u2019re My Home",
+      "url": "https://open.spotify.com/track/2C65Zq20H3kl5g5hqpGHq8"
+    },
+    {
+      "added_at": "2026-03-12 08:03:10",
+      "album": {
+        "name": "Love is all we need",
+        "url": "https://open.spotify.com/album/2aX35AWbyUl6nuWgYDz6Cg"
+      },
+      "artists": [
+        {
+          "name": "Patrick van Bergen",
+          "url": "https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY"
+        }
+      ],
+      "duration_ms": 252375,
+      "name": "Love is all we need",
+      "url": "https://open.spotify.com/track/7mkR7Xuh8k2wU0tFY1x12R"
+    },
+    {
+      "added_at": "2026-03-12 08:03:13",
+      "album": {
+        "name": "Era in Italia",
+        "url": "https://open.spotify.com/album/2aMiI2gLHWmoBwLeJQxs35"
+      },
+      "artists": [
+        {
+          "name": "Giofly",
+          "url": "https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp"
+        }
+      ],
+      "duration_ms": 247953,
+      "name": "Era in Italia",
+      "url": "https://open.spotify.com/track/29G7teGtcWrd0bIZyTJx5s"
+    },
+    {
+      "added_at": "2026-03-12 13:11:12",
+      "album": {
+        "name": "Green House",
+        "url": "https://open.spotify.com/album/31bUl1V0mz4jLtXEBbV32q"
+      },
+      "artists": [
+        {
+          "name": "Drawing on Scars",
+          "url": "https://open.spotify.com/artist/6cQZAXvhiIhuzJlN7XmeKu"
+        }
+      ],
+      "duration_ms": 191964,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/2WY2eFNIJbb304F9VKbhqE"
     }
   ],
   "unique_name": "New Indie Music",

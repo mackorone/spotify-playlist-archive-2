@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Immune",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Logos Timis",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158766,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/6Wyfsu2p4Qi7I0b5l571uv"
@@ -4199,6 +4199,36 @@
     },
     {
       "album": {
+        "name": "Enoxoi Kai Athooi",
+        "url": "https://open.spotify.com/album/1HZgQqw1ldTIeCfPGqQMyG"
+      },
+      "artists": [
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Eleuthero Pneuma",
+          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
+        },
+        {
+          "name": "Koraki",
+          "url": "https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV"
+        },
+        {
+          "name": "Nosfer",
+          "url": "https://open.spotify.com/artist/4Z2XCo0JFVkp4r2g4WvVi6"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193928,
+      "name": "Enoxoi Kai Athooi",
+      "url": "https://open.spotify.com/track/6fOa9jVOwN2WoHl8qplUNr"
+    },
+    {
+      "album": {
         "name": "REALNESS",
         "url": "https://open.spotify.com/album/65K3ySIrBLpnLa4FYmLgZP"
       },
@@ -4974,6 +5004,24 @@
       "duration_ms": 175555,
       "name": "Frena",
       "url": "https://open.spotify.com/track/1sk1gRQHhySVQvLKEheGmm"
+    },
+    {
+      "album": {
+        "name": "Friday 13",
+        "url": "https://open.spotify.com/album/7wYoDKvgmsRpE1yb1Tq3KB"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Friday 13",
+      "url": "https://open.spotify.com/track/0HFrdPNAuPtkVGTizWcJyT"
     },
     {
       "album": {
@@ -6216,7 +6264,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 138459,
       "name": "Huncho Flow",
       "url": "https://open.spotify.com/track/6DMfgDhIODTrMBdRIlnYzH"
@@ -7780,7 +7828,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 176374,
       "name": "LOV\u20ac",
       "url": "https://open.spotify.com/track/4VMYNl6ASQD4bsryGRIuKm"
@@ -8384,7 +8432,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 165600,
       "name": "Medellin Baby",
       "url": "https://open.spotify.com/track/2jEHEz9fySJ8RXOAE37vsu"
@@ -9219,6 +9267,28 @@
     },
     {
       "album": {
+        "name": "NFL",
+        "url": "https://open.spotify.com/album/7x80qM9bLE6TTxUoF8LtpJ"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "NFL",
+      "url": "https://open.spotify.com/track/5H8VwlKbwORU3icDM947rK"
+    },
+    {
+      "album": {
         "name": "Dancehall Season",
         "url": "https://open.spotify.com/album/5nTPveZkxcaCsskMXBRGvI"
       },
@@ -9820,7 +9890,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 162790,
       "name": "On God",
       "url": "https://open.spotify.com/track/1NZidAaU8rSwbYphStSBYm"
@@ -10056,6 +10126,24 @@
       "duration_ms": 150666,
       "name": "OTAN ME KOITAS",
       "url": "https://open.spotify.com/track/575vAYRh3FlvxmUIuXV7Kk"
+    },
+    {
+      "album": {
+        "name": "OTI GOUSTARO",
+        "url": "https://open.spotify.com/album/3VSGpzRTNEalvMQrx2q4Gr"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152550,
+      "name": "OTI GOUSTARO",
+      "url": "https://open.spotify.com/track/5JQGTdzN1x0ujVUDhnhDPI"
     },
     {
       "album": {
@@ -10326,7 +10414,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 165288,
       "name": "PARE DOSE",
       "url": "https://open.spotify.com/track/3gTqUQql07sL6Eutx82ZQV"
@@ -10907,6 +10995,32 @@
     },
     {
       "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175714,
+      "name": "POIOS NA SOU TO PEI",
+      "url": "https://open.spotify.com/track/1fVMxUXpzDQCBxmdn0GClq"
+    },
+    {
+      "album": {
         "name": "POIOTHTA",
         "url": "https://open.spotify.com/album/46zFf3W5CZEE2fsFDiO1dS"
       },
@@ -11190,7 +11304,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 139200,
       "name": "PROSTIMO",
       "url": "https://open.spotify.com/track/45tfERWmnFUnjP9JnmQwD6"
@@ -11881,6 +11995,28 @@
     },
     {
       "album": {
+        "name": "RP",
+        "url": "https://open.spotify.com/album/3W8DrDJSd0SUhc7n3OC5AO"
+      },
+      "artists": [
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "Ank Beats",
+          "url": "https://open.spotify.com/artist/2mNrF07VPij0HJqtgOZO5W"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "RP",
+      "url": "https://open.spotify.com/track/0eS4UksBnRsMsS3eRH1ALh"
+    },
+    {
+      "album": {
         "name": "RS",
         "url": "https://open.spotify.com/album/2aUa8H3JXICQfdC44ioD6z"
       },
@@ -11900,6 +12036,24 @@
       "duration_ms": 118800,
       "name": "RS",
       "url": "https://open.spotify.com/track/5otrWnxuDVMF878Xy6HgDz"
+    },
+    {
+      "album": {
+        "name": "S 500",
+        "url": "https://open.spotify.com/album/5EFeCW3UV4d4roiVIUCxk7"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167297,
+      "name": "S 500",
+      "url": "https://open.spotify.com/track/1sEdiB9Dhf81Pg9Gv2LQhb"
     },
     {
       "album": {
@@ -12068,7 +12222,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 187327,
       "name": "SCORPION",
       "url": "https://open.spotify.com/track/6rDouOr62rj3byxMSzsffB"
@@ -14500,6 +14654,24 @@
       "duration_ms": 188734,
       "name": "Vromika Lefta",
       "url": "https://open.spotify.com/track/3UShfe8FTC0UlZCSwBiMYg"
+    },
+    {
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "VROXI",
+      "url": "https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin"
     },
     {
       "album": {

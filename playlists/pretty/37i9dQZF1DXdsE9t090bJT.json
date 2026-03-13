@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 79275,
+  "num_followers": 79329,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-20 08:42:05",
       "album": {
-        "name": "OTRA VEZ",
-        "url": "https://open.spotify.com/album/3lnSToVYK5CZGDgyC6LTiu"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 152284,
-      "name": "OTRA VEZ",
-      "url": "https://open.spotify.com/track/02OSVDLiLEuHIQgWriH3mu"
-    },
-    {
-      "added_at": "2026-02-20 08:42:05",
-      "album": {
         "name": "300 Noches",
         "url": "https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 204800,
       "name": "300 Noches",
       "url": "https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG"
+    },
+    {
+      "added_at": "2026-02-20 08:42:05",
+      "album": {
+        "name": "OTRA VEZ",
+        "url": "https://open.spotify.com/album/3lnSToVYK5CZGDgyC6LTiu"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 152284,
+      "name": "OTRA VEZ",
+      "url": "https://open.spotify.com/track/02OSVDLiLEuHIQgWriH3mu"
     },
     {
       "added_at": "2026-02-20 08:42:05",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2026-02-20 08:42:05",
       "album": {
-        "name": "T\u00fa te vas",
-        "url": "https://open.spotify.com/album/5jZF9gQA4JQhBdPMMW7kFT"
+        "name": "Amo",
+        "url": "https://open.spotify.com/album/4ePqxgdhLET9p96yDVvLr1"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 210762,
-      "name": "T\u00fa te vas",
-      "url": "https://open.spotify.com/track/6ubgyAW7hlmdTYN6HIA2lr"
+      "duration_ms": 219906,
+      "name": "Amo",
+      "url": "https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s"
     }
   ],
   "unique_name": "La Mamalona Rom\u00e1ntica",

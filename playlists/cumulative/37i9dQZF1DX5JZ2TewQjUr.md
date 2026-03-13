@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Anna hisbbuR
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Billy Choi
 
-1,633 songs - 3 day 20 hr 26 min
+1,637 songs - 3 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [christmas again \- demo](https://open.spotify.com/track/3ppJG42jb1mJhCw99gobZd) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [christmas again \(demo\)](https://open.spotify.com/album/4iyrZnwLXgxtmbrPmGZi3S) | 3:21 | 2023-11-30 | 2024-02-16 |
 | [Christmas Sale](https://open.spotify.com/track/7bm9goZ8eugKwnJvSGh9pF) | [Room307](https://open.spotify.com/artist/0DlQgBmj0XzrSsOknlxUHw), [b e c k y 碧琪](https://open.spotify.com/artist/0N980fCWlgYBkaqAHIqeaD) | [Christmas Sale](https://open.spotify.com/album/5sfN9PTLoX8JVdG2qy1Z8c) | 3:15 | 2025-12-19 |  |
 | [Christopher Luke](https://open.spotify.com/track/7KnylTHkKv0Jwq9wcKVu02) | [The Language Lab](https://open.spotify.com/artist/4Qj1fEqHSJ3hQc5fHtUsnf) | [Your Boyfriends \(Deleted Scene\)](https://open.spotify.com/album/2IXOvkGVO7gZwgqMPPRqzY) | 2:59 | 2022-11-10 | 2022-12-09 |
+| [CHROME](https://open.spotify.com/track/4SZO3RLiIbBLWLSAhCOAUA) | [ROGI\*](https://open.spotify.com/artist/11jDBhWmFza8NhQOHz63lQ) | [CHROME](https://open.spotify.com/album/6rMLGRkVViByu4I9wyLcA6) | 3:45 | 2026-03-12 |  |
 | [Close my eyes 全部都係你](https://open.spotify.com/track/2C4NU1PZKZQA6Qu5ej93qQ) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [Close my eyes 全部都係你](https://open.spotify.com/album/5bWvx8LCfaGYlJGk3n6Meg) | 3:10 | 2022-06-09 | 2022-09-09 |
 | [Close my eyes 全部都係你](https://open.spotify.com/track/1BH4Kai4GPGCbNCvjDhiGP) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [十個陌生的熟人](https://open.spotify.com/album/2wICmbCIY49EhTL3XCuks2) | 3:14 | 2023-01-05 | 2023-05-26 |
 | [Close of Day](https://open.spotify.com/track/041Al1CrzkJWEq9TEZeFLe) | [玖拾後](https://open.spotify.com/artist/5Duw3fC04trzwlTHkKbzeW) | [Close of Day](https://open.spotify.com/album/58rJ1xtknZVkKCAJfeIP4s) | 4:17 | 2024-12-19 | 2025-03-14 |
@@ -870,6 +871,7 @@
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2023-03-02 | 2023-07-14 |
 | [Star Potential](https://open.spotify.com/track/5aUSWU2GbeBGETUVK31XJK) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Star Potential](https://open.spotify.com/album/5vjJdvi1UoCt71VRxdne0q) | 2:58 | 2025-10-09 |  |
 | [Starfish](https://open.spotify.com/track/4NAb5jpxad0T7U96pGYfR1) | [Angela Wai Nok Hui](https://open.spotify.com/artist/1xgg2MVNK3F8vhuwVb1l0a), [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [Starfish](https://open.spotify.com/album/6g638FymqCgZcrCHlMq9xM) | 3:58 | 2024-05-02 | 2024-11-15 |
+| [Starlight Symphony](https://open.spotify.com/track/2BQqvyviBeLiQ2B7EFsIEe) | [Jason Kui](https://open.spotify.com/artist/4ua3BbXvBOSqAewwD4QQRc) | [Starlight Symphony](https://open.spotify.com/album/2nlo6f0JGThgh6LaBI6SJM) | 4:02 | 2026-03-12 |  |
 | [Stay](https://open.spotify.com/track/0kOBbEfT0pdghV2SvfkngL) | [Hzzi](https://open.spotify.com/artist/6ylNoo2bvpX3xCmlZKIIGm) | [Stay](https://open.spotify.com/album/0batzFZ3TrD3ZQs78hWHef) | 2:33 | 2023-02-02 | 2023-05-26 |
 | [STAY \(with CHANKA\)](https://open.spotify.com/track/2WMn4H7dGtQhUbUHjS32Zh) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [STAY \(with CHANKA\)](https://open.spotify.com/album/1OfZJax1df6NJrr0ZOnvxv) | 2:15 | 2025-03-27 | 2025-07-11 |
 | [Stay With Me](https://open.spotify.com/track/4Zv9U2MdzyUaltADC1h1GG) | [Jol!e](https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq) | [Stay With Me](https://open.spotify.com/album/1K9NGY8X4jRqpy0pKB37j0) | 4:12 | 2024-02-22 | 2024-05-10 |
@@ -1207,6 +1209,7 @@
 | [古怪情歌](https://open.spotify.com/track/4P0HaRPbekow8YCKhHsVB5) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls), [Midnight 海倫](https://open.spotify.com/artist/4MTGOJf14wiMGPB920iXNq) | [古怪情歌](https://open.spotify.com/album/5I1k8TRWMizDJv742hvehN) | 3:38 | 2024-02-08 | 2024-05-10 |
 | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/track/43Y9A3yEEwdpZhlawhQChk) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/album/3y8cczL71BdIcjPVePxT2C) | 2:46 | 2023-12-07 | 2024-02-16 |
 | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/track/5uEstLfRPUgShflpMbh0ON) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [絵麗奈 Erena So](https://open.spotify.com/artist/14SH1hZNtnwtiX9P7hHezA) | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/album/6TGMTWPg3jC81Y5yC4occr) | 3:24 | 2023-09-07 | 2023-12-01 |
+| [可卡因](https://open.spotify.com/track/3hTa2axLakbvyN8pXY3vpm) | [kaine](https://open.spotify.com/artist/0fS1DTXibMLKv67V3DjQd5) | [可卡因](https://open.spotify.com/album/6d0w0ZDwfJx5KMdxUA7xU1) | 2:39 | 2026-03-12 |  |
 | [可否一起寂寞到最後](https://open.spotify.com/track/3KtINGlRBFf8MFHPEmm1OP) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [可否一起寂寞到最後](https://open.spotify.com/album/4jII8Ll5dJ3XxSpHvvWk3t) | 3:48 | 2024-01-25 | 2024-05-10 |
 | [可惜夜](https://open.spotify.com/track/2GZN7n3HbuQXaX5dq8NCPZ) | [SADJAY](https://open.spotify.com/artist/5BRK53kNRxF6YesUpRSv9v) | [可惜夜](https://open.spotify.com/album/7lzKwKSHFYfbOU3QcXUugN) | 3:11 | 2024-09-26 | 2025-02-14 |
 | [名為自然的告別](https://open.spotify.com/track/5qlCDx2eZXGnWxAtbxeSzW) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [名為自然的告別](https://open.spotify.com/album/2pAw8PCv8qwKhU8NSZQaIG) | 5:40 | 2025-06-25 | 2025-11-21 |
@@ -1547,6 +1550,7 @@
 | [草西](https://open.spotify.com/track/3jFv65hSmXNh8XUuFbcDJ0) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [<=P:r0J3CT 2222/>](https://open.spotify.com/album/1gycyhTqFh9fVwH91yo4qM) | 4:10 | 2026-01-08 |  |
 | [荒像](https://open.spotify.com/track/2Ynip7NtQPW6I8DWlIsw5o) | [canband](https://open.spotify.com/artist/4HvstcnuNuFpM9jNOOHVHK) | [荒像](https://open.spotify.com/album/0ojjdCukjgoQKc9igC2Z8f) | 3:28 | 2024-08-01 | 2024-11-15 |
 | [荒謬](https://open.spotify.com/track/2ffz1KYTxcH0szaFI7FPyv) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [ZiNG!](https://open.spotify.com/album/238I1dAZg6aMYIazEk4eiv) | 3:48 | 2022-05-26 | 2022-07-29 |
+| [菠蘿包配雞尾包](https://open.spotify.com/track/58MPSajhLYQeyh5mzwNEX1) | [Sammi Szeto](https://open.spotify.com/artist/0Y5iRhhRnWJ0RX81wL087g) | [菠蘿包配雞尾包](https://open.spotify.com/album/6NLGJu3dVlZy8AJFXnRINs) | 3:36 | 2026-03-12 |  |
 | [落](https://open.spotify.com/track/6y7fatGRm0Z8aPA4lg137f) | [Zelos Wong 黃凱逸](https://open.spotify.com/artist/7q8BUwEEDO6iayv3AUq9bv) | [落](https://open.spotify.com/album/6a4yDv2n8sz3xFBOETb6BF) | 3:54 | 2023-10-26 | 2024-01-05 |
 | [落雨一齊留係屋企](https://open.spotify.com/track/79bMWIVziDRCDF85zta9Zb) | [NatS](https://open.spotify.com/artist/367T9M6uiP4jr6u5DtMD1l), [5gjm999](https://open.spotify.com/artist/06M2LuWYlrYVjg0guNWZJb) | [落雨一齊留係屋企](https://open.spotify.com/album/00ckJrDa0KH5gDjZjDAIkE) | 3:19 | 2023-10-19 | 2024-01-05 |
 | [蒲公英](https://open.spotify.com/track/2S0sJRxltYnCSTy0KSg13U) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [蒲公英](https://open.spotify.com/album/7dKHoxpKBtF1uzrE4Gulki) | 2:51 | 2025-11-06 |  |

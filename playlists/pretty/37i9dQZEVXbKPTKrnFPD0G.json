@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Argentina.",
-  "num_followers": 95139,
+  "num_followers": 95162,
   "original_name": "Top Songs - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MUTO6AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MUYiwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-03-10 20:07:36",
@@ -891,8 +891,8 @@
     {
       "added_at": "2026-03-10 20:07:36",
       "album": {
-        "name": "House of Pleasure",
-        "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
+        "name": "House Of Pleasure",
+        "url": "https://open.spotify.com/album/6sP9EP1NyetOJxmuw2ErZi"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 192120,
+      "duration_ms": 190560,
       "name": "Es un Secreto",
-      "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
+      "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
     },
     {
       "added_at": "2026-03-10 20:07:36",
@@ -987,8 +987,8 @@
     {
       "added_at": "2026-03-10 20:07:36",
       "album": {
-        "name": "Love and Sex",
-        "url": "https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8"
+        "name": "Love And Sex",
+        "url": "https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 203506,
+      "duration_ms": 203973,
       "name": "Fronteo",
-      "url": "https://open.spotify.com/track/0AXKoQuC2NQ8S2QRF0Gu02"
+      "url": "https://open.spotify.com/track/5SE62j47eAyxSOplRGS6st"
     }
   ],
   "unique_name": "Top Songs - Argentina",

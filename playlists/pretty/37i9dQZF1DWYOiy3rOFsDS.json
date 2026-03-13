@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Diana Meril en portada.",
-  "num_followers": 547420,
+  "num_followers": 547413,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-03-06 06:00:02",
       "album": {
-        "name": "\u00bfEn Qu\u00e9 Momento?",
-        "url": "https://open.spotify.com/album/3HoxwdbK9PpMGxcSfOqbPs"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "\u00bfEn Qu\u00e9 Momento?",
-      "url": "https://open.spotify.com/track/5U27L9B2PfV40ksWzQqxNX"
-    },
-    {
-      "added_at": "2026-03-06 06:00:02",
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": "2026-03-06 06:00:02",
+      "album": {
+        "name": "\u00bfEn Qu\u00e9 Momento?",
+        "url": "https://open.spotify.com/album/3HoxwdbK9PpMGxcSfOqbPs"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "\u00bfEn Qu\u00e9 Momento?",
+      "url": "https://open.spotify.com/track/5U27L9B2PfV40ksWzQqxNX"
     },
     {
       "added_at": "2026-03-06 06:00:02",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-03-06 06:00:02",
       "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Contigo en la Distancia (with Carlos Cuevas)",
+      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+    },
+    {
+      "added_at": "2026-03-06 06:00:02",
+      "album": {
         "name": "Te Volv\u00ed a So\u00f1ar",
         "url": "https://open.spotify.com/album/5WoM0K8PODAHa8eYCsbrlv"
       },
@@ -799,22 +819,6 @@
       "duration_ms": 211837,
       "name": "Te Volv\u00ed a So\u00f1ar",
       "url": "https://open.spotify.com/track/0Gb5nrMH23fSpK2aKlCAt4"
-    },
-    {
-      "added_at": "2026-03-06 06:00:02",
-      "album": {
-        "name": "Casi algo",
-        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
-      },
-      "artists": [
-        {
-          "name": "Me Dicen Jos",
-          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
-        }
-      ],
-      "duration_ms": 165229,
-      "name": "Casi algo",
-      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
     },
     {
       "added_at": "2026-03-06 06:00:02",
@@ -835,22 +839,34 @@
     {
       "added_at": "2026-03-06 06:00:02",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
+        "name": "Casi algo",
+        "url": "https://open.spotify.com/album/3FIiOO2a4yHnbCe5zDImkY"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+          "name": "Me Dicen Jos",
+          "url": "https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV"
         }
       ],
-      "duration_ms": 228026,
-      "name": "Contigo en la Distancia (with Carlos Cuevas)",
-      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
+      "duration_ms": 165229,
+      "name": "Casi algo",
+      "url": "https://open.spotify.com/track/2lRIrlut8slUKShhAxJuK7"
+    },
+    {
+      "added_at": "2026-03-06 06:00:02",
+      "album": {
+        "name": "Que Sepan Todos",
+        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
+      },
+      "artists": [
+        {
+          "name": "Las Hermanas Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
+        }
+      ],
+      "duration_ms": 205280,
+      "name": "Que Sepan Todos",
+      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
     },
     {
       "added_at": "2026-03-06 06:00:02",
@@ -891,22 +907,6 @@
     {
       "added_at": "2026-03-06 06:00:02",
       "album": {
-        "name": "Que Sepan Todos",
-        "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
-      },
-      "artists": [
-        {
-          "name": "Las Hermanas Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc"
-        }
-      ],
-      "duration_ms": 205280,
-      "name": "Que Sepan Todos",
-      "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
-    },
-    {
-      "added_at": "2026-03-06 06:00:02",
-      "album": {
         "name": "S\u00f3lo T\u00fa",
         "url": "https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-03-06 06:00:02",
       "album": {
+        "name": "Esto no acab\u00f3 por m\u00ed",
+        "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 207208,
+      "name": "Esto no acab\u00f3 por m\u00ed",
+      "url": "https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb"
+    },
+    {
+      "added_at": "2026-03-06 06:00:02",
+      "album": {
         "name": "A escondidas",
         "url": "https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 206520,
       "name": "Te Ofrezco",
       "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
-    },
-    {
-      "added_at": "2026-03-06 06:00:02",
-      "album": {
-        "name": "Esto no acab\u00f3 por m\u00ed",
-        "url": "https://open.spotify.com/album/1tShB0umEqtrmHzr8mNRdZ"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 207208,
-      "name": "Esto no acab\u00f3 por m\u00ed",
-      "url": "https://open.spotify.com/track/22Go3tznhPvBdgep0nmQSb"
     },
     {
       "added_at": "2026-03-06 06:00:02",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-03-06 06:00:02",
       "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "added_at": "2026-03-06 06:00:02",
+      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
-    },
-    {
-      "added_at": "2026-03-06 06:00:02",
-      "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     }
   ],
   "unique_name": "nuevo bolero",

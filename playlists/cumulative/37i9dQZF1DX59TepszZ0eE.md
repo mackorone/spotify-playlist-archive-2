@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-448 songs - 1 day 23 hr 34 min
+449 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,8 +55,8 @@
 | [Blessings \(feat\. Nontokozo Mkhize\)](https://open.spotify.com/track/2Q04f7HbmxalpjfrPhJMN4) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Nontokozo Mkhize](https://open.spotify.com/artist/1pGEcbHJvZ6u018SwuUtkK) | [Blessings \(feat\. Nontokozo Mkhize\)](https://open.spotify.com/album/5u2BLmpV0KIfiKo1okOuYW) | 4:14 | 2025-05-30 | 2025-07-25 |
 | [Bonk'abantu](https://open.spotify.com/track/5NhTHoojMsw6eUlR5zLMef) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj), [Mussie Fisseha](https://open.spotify.com/artist/0pqfLLrl7qVsHhCjwXqVOw) | [Bonk'abantu](https://open.spotify.com/album/6dnUVcCPU4AWxzFc1sbVui) | 4:05 | 2023-06-16 | 2023-06-30 |
 | [Bow Down and Worship](https://open.spotify.com/track/4pWmkzHatAySpTylNXJOzb) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/7H1DYc7cB7U5jiqhOadKP7) | 10:54 | 2019-09-26 | 2023-03-18 |
+| [Bow Down and Worship \(Live\)](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2023-03-17 |  |
 | [Bow Down and Worship \- Live](https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence \(Live\)](https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR) | 10:54 | 2019-09-26 | 2023-03-12 |
-| [Bow Down and Worship \- Live](https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Glory in His Presence](https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq) | 10:55 | 2023-03-17 |  |
 | [Bulelani/Oh Give Thanks \(Psalm 107:1\) \- Live](https://open.spotify.com/track/6KGpgs31vrR8VA5OflfrQW) | [Ncebakazi Msomi](https://open.spotify.com/artist/51g9htpUzFdCV8GhceWMpX) | [The 37th Psalm \(Live at Emperors Palace\)](https://open.spotify.com/album/1qLHR4gDkXhHEkqnqYkoQ2) | 7:50 | 2025-10-31 | 2026-02-20 |
 | [Certainly](https://open.spotify.com/track/4osmGMXeS9jri3GqAXACYt) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Yousef T Gurupira](https://open.spotify.com/artist/2LtnT8DI2Ct5bPnIXwl2VZ) | [Certainly](https://open.spotify.com/album/7aNaGNekx5e2Px3LwExDKE) | 4:21 | 2025-03-07 | 2025-04-25 |
 | [Consistent God \- Live At Cedarwoods of Sandton, 2023 / Reprise](https://open.spotify.com/track/5B4t3Oj13oo2bZ86w92ZCg) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Consistent God \(Live At Cedarwoods of Sandton, 2023 / Reprise\)](https://open.spotify.com/album/605drAootvO08Oed9ZdP1Z) | 2:23 | 2024-03-29 | 2024-04-05 |
@@ -367,6 +367,7 @@
 | [Umkhuleko We Bandla](https://open.spotify.com/track/2CFDmYlaldjUNC00kNmVRe) | [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Umkhuleko We Bandla](https://open.spotify.com/album/4hlNaELIOZhmQbjLq0Yxum) | 8:27 | 2025-01-03 | 2025-10-31 |
 | [Umkhulu Simakade](https://open.spotify.com/track/2OTsc3vlxgQZeNFhp6JW50) | [Glory of the Last Days](https://open.spotify.com/artist/2TVTBhxlNmH8LKV0DqZBsZ) | [Umhlengi Wami](https://open.spotify.com/album/7nb6gINUO6Ud5VpthuqS9B) | 9:42 | 2024-03-29 | 2024-04-05 |
 | [Umoya Praise Medley \- Live](https://open.spotify.com/track/2Y8Nh5gZpcMl9Uh0NGszhC) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 18: One Purpose \(Live at CityHill Church, Durban 2014\)](https://open.spotify.com/album/3mHxSlMvvFPNA3DSnuYrvr) | 9:58 | 2024-04-05 | 2025-02-14 |
+| [Umsebenzi](https://open.spotify.com/track/5WvhqTI1PunZtoLu7sF4GA) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Umsebenzi](https://open.spotify.com/album/4gq1imAFUvSMMPllTShhpT) | 9:40 | 2026-03-13 |  |
 | [Umuhle \(Live\)](https://open.spotify.com/track/6qMYfriQOG2alYAWFTKBiq) | [Buhle Thela](https://open.spotify.com/artist/3LW26tYtBgsMCv8QpoUuhs) | [Umuhle](https://open.spotify.com/album/540wvtDmjHq2p3muUBUkyV) | 6:54 | 2024-03-29 | 2024-04-05 |
 | [Umuhle Baba \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/5qrjNU3cNBonvH0voYVkK3) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Umuhle Baba \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/0y7wG5mI49wut5VeLU02Kl) | 9:07 | 2024-03-29 | 2024-04-05 |
 | [Umuhle Baba \- Live At Cedarwoods of Sandton, 2023 / Reprise](https://open.spotify.com/track/4N2BsTLoKTUaGwX0aZ9CrY) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Umuhle Baba \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/0y7wG5mI49wut5VeLU02Kl) | 2:51 | 2023-12-01 | 2024-05-03 |

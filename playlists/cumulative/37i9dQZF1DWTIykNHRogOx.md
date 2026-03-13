@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Noor
+> Les  meilleures nouveautés de la chanson française avec Nina Battisti
 
-291 songs - 15 hr 57 min
+293 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2024-06-27 | 2024-08-30 |
 | [La vague](https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO) | [Mesparrow](https://open.spotify.com/artist/5ai4H4duxTBym6XsFjuGlD) | [L'essence vagabonde](https://open.spotify.com/album/0HGBzlMjWbzrdtbs9ktYv9) | 3:32 | 2024-06-27 | 2024-08-23 |
 | [La vie d'adulte](https://open.spotify.com/track/04yfXxzN52u4lZyVfJK9Sh) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [La vie d'adulte](https://open.spotify.com/album/4EakoUqcLXYKZm1peyxirG) | 2:51 | 2026-03-05 |  |
+| [la vie est belle](https://open.spotify.com/track/5dfVikb5FBd3IOxabTwfX9) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [les choses de la vie](https://open.spotify.com/album/0Bsp98Xgpu4s6Q975tqJ2i) | 3:13 | 2026-03-12 |  |
 | [Laisse couler](https://open.spotify.com/track/3x4kQexQGMdT0T1IFxwdyv) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Laisse couler](https://open.spotify.com/album/4omSbwBIdouiHCGBliOInR) | 4:34 | 2025-02-27 | 2025-05-16 |
 | [Langage \- Orchestral](https://open.spotify.com/track/3GbpP0Se1XIcqtUWbFnfiP) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs \(Orchestral Odyssey\)](https://open.spotify.com/album/15FZlljjgimILw4hn7urFj) | 3:02 | 2025-10-02 | 2026-02-20 |
 | [Le cri des loups](https://open.spotify.com/track/6VRAP4mDcZ7sGFNx0meRTT) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [Jeanne](https://open.spotify.com/album/7xXNd8BRyL9n1RpDEpM2X8) | 4:14 | 2025-04-03 | 2025-08-08 |
@@ -198,7 +199,7 @@
 | [mieux](https://open.spotify.com/track/6TT84kS4SrX4HX191MiTJK) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/6ySc4l3npIPfkr9PyvRcgO) | 2:28 | 2026-01-22 |  |
 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 | 2025-07-31 | 2025-12-05 |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 | 2024-11-08 |
-| [Mon amour](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Confession](https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6) | 4:08 | 2025-10-23 |  |
+| [Mon amour](https://open.spotify.com/track/1VQPARXZ68Zxptzvmi4ZvJ) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Confession](https://open.spotify.com/album/2thXDAJEb9XlzTpi8JN0h6) | 4:08 | 2025-10-23 | 2026-03-13 |
 | [Mon épaule](https://open.spotify.com/track/20uMoMNEt8BxWdOP7m19hj) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:43 | 2024-11-21 | 2025-04-11 |
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 | 2024-10-25 |
 | [Mélancolie](https://open.spotify.com/track/3PuQhT22z1XrSwdmGankTn) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Grand piano](https://open.spotify.com/album/45AWJFkNR4ZWoMNiauQFUd) | 3:04 | 2025-01-16 | 2025-06-13 |
@@ -211,6 +212,7 @@
 | [On peut comme ça](https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [On peut comme ça](https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT) | 4:04 | 2025-07-10 | 2025-10-03 |
 | [On s'aimera](https://open.spotify.com/track/3ORZnahwMQvAFnWgHGP3O9) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 2:42 | 2025-01-09 | 2025-05-16 |
 | [On va voir la mer](https://open.spotify.com/track/5PO3Aefu83Q2ZEzG1Ujeyx) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [On va voir la mer](https://open.spotify.com/album/61Q8G8UOL9iUoUOEHeTHvD) | 2:29 | 2026-02-05 |  |
+| [ordi par la fenêtre](https://open.spotify.com/track/5QeBageLpTOxXRGf6P8gWV) | [ange](https://open.spotify.com/artist/4Z07W9SCuNeImQlwTXsczG) | [ordi par la fenêtre](https://open.spotify.com/album/0A5jpGUoZXDz8tjZs0zYdz) | 2:37 | 2026-03-12 |  |
 | [PARADIS](https://open.spotify.com/track/7MMVpcHGMfxsK4TUV0I0JL) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [PARADIS / SIERRA NEVADA](https://open.spotify.com/album/7rlMrXqjgdiDzBHyz090HD) | 2:44 | 2024-11-21 | 2025-04-11 |
 | [Parano](https://open.spotify.com/track/40VO7iidHortIPgj6ZYpbK) | [Matild](https://open.spotify.com/artist/556svfNK6nfvqu9F6N4Eok) | [Parano](https://open.spotify.com/album/2DV7HNzGVAqi0cz1C5QEr2) | 3:10 | 2026-02-27 |  |
 | [Paris](https://open.spotify.com/track/6aBUJSbfXSj4lWbSRB3iyt) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Paris](https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v) | 6:04 | 2024-06-27 | 2024-09-06 |
@@ -269,7 +271,7 @@
 | [Tour du Monde](https://open.spotify.com/track/7kAQ5yUq5uuJfSzHunHWAR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Tour du Monde](https://open.spotify.com/album/7HhfRpFv1nIuFA3C2xYNka) | 3:24 | 2025-10-09 | 2026-03-06 |
 | [Tout dit](https://open.spotify.com/track/5rgGCPU9u78iGV0yIdextZ) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout dit](https://open.spotify.com/album/5D7Egi9aJlMcIBbwNAga1e) | 2:31 | 2024-11-07 | 2025-03-21 |
 | [Tout est de ma faute](https://open.spotify.com/track/5HlIqC9Sc4SkBGGzouYPX4) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Tout est de ma faute](https://open.spotify.com/album/7e88tG4PHQsypyBsk6yt4o) | 2:35 | 2026-02-19 |  |
-| [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 | 2025-10-23 |  |
+| [Tout fait pour](https://open.spotify.com/track/5GibkKOKTC3MHSuGVMrwUj) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Tout fait pour](https://open.spotify.com/album/55unj2AEwXhyHcesIt55jx) | 3:26 | 2025-10-23 | 2026-03-13 |
 | [Tout sera pardonné](https://open.spotify.com/track/7JnXQ3NCIS9oPUQUgldHId) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V) | [Tout sera pardonné](https://open.spotify.com/album/6Y10RjV0HW6UfRk29lY6Mg) | 4:12 | 2025-01-16 | 2025-06-13 |
 | [Tsunami](https://open.spotify.com/track/0lQLvB1hiapg6eJFvb7Oae) | [Canine](https://open.spotify.com/artist/3kiyYrFoBWmWoUyxbSOFAR) | [Tsunami](https://open.spotify.com/album/7M4BbtGu9VPkRBjgZvnLBr) | 2:48 | 2026-02-05 |  |
 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 | 2024-07-25 | 2025-01-10 |

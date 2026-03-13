@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173571,
       "name": "HOT4U",
       "url": "https://open.spotify.com/track/7M8gcVdIKDzYcn1cE5zE7S"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 175990,
       "name": "Lippy",
       "url": "https://open.spotify.com/track/5ReIuSLbXCAUYkg9v0NR7b"
@@ -3543,6 +3543,28 @@
     },
     {
       "album": {
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/2LofBt2rUewqOqNnXZDTJ6"
+      },
+      "artists": [
+        {
+          "name": "Subb-an",
+          "url": "https://open.spotify.com/artist/1GixPUcrjDq3qogmYXbGsh"
+        },
+        {
+          "name": "George The Poet",
+          "url": "https://open.spotify.com/artist/7v8N36cC4msGrIM2YT4LNC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347840,
+      "name": "Obscured Vision",
+      "url": "https://open.spotify.com/track/3Brd55XDbHOqbdtI6xV8CU"
+    },
+    {
+      "album": {
         "name": "OKAY",
         "url": "https://open.spotify.com/album/5dGUCdPKARMirLPY52MnLM"
       },
@@ -3619,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "GSC005",
+        "url": "https://open.spotify.com/album/0g4n0Ui0ahS2CrCiXkHpZT"
+      },
+      "artists": [
+        {
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384105,
+      "name": "One 2 One",
+      "url": "https://open.spotify.com/track/6sgmz6hcWUvp1VDJabeXc4"
+    },
+    {
+      "album": {
         "name": "Grace In Motion",
         "url": "https://open.spotify.com/album/2nwWZ9AxNZmGS1Bep29vzI"
       },
@@ -3692,7 +3732,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 215111,
       "name": "Ouuu",
       "url": "https://open.spotify.com/track/1SmNvAcTXvn6ddh6wvDnvY"
@@ -4940,6 +4980,24 @@
       "duration_ms": 236987,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
+    },
+    {
+      "album": {
+        "name": "Give Yourself To Me",
+        "url": "https://open.spotify.com/album/1nWNxaqAjN0XfhFgYhJGBd"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6VSDyFdqDDouYRQEIBM5pY"
     },
     {
       "album": {

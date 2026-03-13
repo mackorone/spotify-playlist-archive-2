@@ -451,22 +451,6 @@
     {
       "added_at": "2026-02-27 00:00:41",
       "album": {
-        "name": "the beginning of the end",
-        "url": "https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 171810,
-      "name": "the beginning of the end",
-      "url": "https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n"
-    },
-    {
-      "added_at": "2026-02-27 00:00:41",
-      "album": {
         "name": "Date Nite",
         "url": "https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 151281,
       "name": "Date Nite",
       "url": "https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH"
+    },
+    {
+      "added_at": "2026-02-27 00:00:41",
+      "album": {
+        "name": "the beginning of the end",
+        "url": "https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 171810,
+      "name": "the beginning of the end",
+      "url": "https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n"
     },
     {
       "added_at": "2026-02-27 00:00:41",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-02-27 00:00:41",
       "album": {
-        "name": "More Light (feat. Princess Nokia)",
-        "url": "https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8"
-      },
-      "artists": [
-        {
-          "name": "Divine Earth",
-          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
-        },
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        }
-      ],
-      "duration_ms": 212559,
-      "name": "More Light (feat. Princess Nokia)",
-      "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
-    },
-    {
-      "added_at": "2026-02-27 00:00:41",
-      "album": {
         "name": "AppleBottomCigarets",
         "url": "https://open.spotify.com/album/44zWEXs4rEHQotlWwVZKV1"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 216621,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF"
+    },
+    {
+      "added_at": "2026-02-27 00:00:41",
+      "album": {
+        "name": "More Light (feat. Princess Nokia)",
+        "url": "https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8"
+      },
+      "artists": [
+        {
+          "name": "Divine Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        },
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        }
+      ],
+      "duration_ms": 212559,
+      "name": "More Light (feat. Princess Nokia)",
+      "url": "https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z"
     },
     {
       "added_at": "2026-02-27 00:00:41",

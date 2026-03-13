@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe?si=Eijv\-JdSTCumhjsWkOSU6Q>Folabi Nuel</a>
 
-318 songs - 1 day 14 hr 13 min
+319 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 | 2025-02-14 |
 | [Help Me / Show Me Your Glory / I Will Follow You \- Live at Bamm Bamm Music Studios, London](https://open.spotify.com/track/1qYKQW5c0qK6ezLHhc5Hud) | [Isabella Melodies](https://open.spotify.com/artist/4MoAcSftH9uiQEfe8pA0tr) | [The Secret Place Rendezvous, Season 2 \(Live at Bamm Bamm Music Studios, London\)](https://open.spotify.com/album/0yLBaww2WL5qbN12NvjaTJ) | 11:42 | 2025-01-03 | 2025-05-09 |
 | [Here I am](https://open.spotify.com/track/78oQ0ay9cicFhLHIIMs6Me) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Here I am](https://open.spotify.com/album/1iDsQqR04cOALYjGFfO0gm) | 7:15 | 2025-08-22 | 2025-11-28 |
-| [Holy](https://open.spotify.com/track/3982LFG1bAImbFSn4pa8WZ) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Holy](https://open.spotify.com/album/3rjRImkqJJc7OvvS56wKzp) | 10:26 | 2026-02-06 |  |
+| [Holy](https://open.spotify.com/track/3982LFG1bAImbFSn4pa8WZ) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Holy](https://open.spotify.com/album/3rjRImkqJJc7OvvS56wKzp) | 10:26 | 2026-02-06 | 2026-03-13 |
 | [HOLY \- Live](https://open.spotify.com/track/5LIokuDAPMtNTnDWDKbGgm) | [Patience Tumba](https://open.spotify.com/artist/5rl5zLtbpyb9RQHAn2L31v) | [HOLY \(Live\)](https://open.spotify.com/album/3n2PZk98qSBlgdzyrd87eN) | 9:30 | 2024-11-22 | 2024-11-29 |
 | [Holy Ghost My Safe Zone](https://open.spotify.com/track/6eisBzfE1a6sxwFiZBW0Lj) | [Hubert Onuorah](https://open.spotify.com/artist/2pQj1Ma7lTVr7ec77obB4y) | [Holy Ghost My Safe Zone](https://open.spotify.com/album/4PeewXLsxJ53DZxdYto0b6) | 9:36 | 2026-01-30 | 2026-02-27 |
 | [Holy Holy \- Deep Worship Chant](https://open.spotify.com/track/7A5vCT8jIExs23AFUWLv90) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Holy Holy \- Deep Worship Chant](https://open.spotify.com/album/2A863Man9dbk8E8mRerdRY) | 5:43 | 2024-11-29 | 2025-01-31 |
@@ -313,6 +313,7 @@
 | [You Are Always There](https://open.spotify.com/track/2u1XE762ploDotScizdgh5) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:25 | 2024-05-09 |  |
 | [You Are Big](https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh) | [You Are Big](https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX) | 6:20 | 2024-10-25 | 2024-12-13 |
 | [You Are Here \- Live](https://open.spotify.com/track/0O5gv3GXR0CACUU2RMPQBu) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [You Are Here \(Live\)](https://open.spotify.com/album/4ohxMX3C1PR5OkO5vVsEbf) | 5:08 | 2024-09-13 | 2024-11-08 |
+| [You Are Holy](https://open.spotify.com/track/3aModrqpU2p6Vrmfzbb48L) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [You Are Holy](https://open.spotify.com/album/0Kq8ivq7zUkYdbE8TB37fD) | 4:51 | 2026-03-13 |  |
 | [You Are My God \(Live\)](https://open.spotify.com/track/1yayw49jO8k7ITlMWsIrjS) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Green Worship 1.0 \(Live\)](https://open.spotify.com/album/3C0d6kHPNfgTU9670QQtC8) | 7:28 | 2024-05-09 | 2025-02-28 |
 | [You Are the Reason](https://open.spotify.com/track/1c0ALi1HY9oAkWpVrG1UJe) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 6:21 | 2024-05-09 | 2025-09-26 |
 | [You Are There](https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Olamiji Rasheed](https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX) | [You Are There](https://open.spotify.com/album/0rFk98XNaIJkoPATUDYCjm) | 6:21 | 2026-02-20 |  |

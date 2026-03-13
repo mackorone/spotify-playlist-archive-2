@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Diamond in a Process",
+        "url": "https://open.spotify.com/album/5DJMJRwCb46P2lo5Nf2O1n"
+      },
+      "artists": [
+        {
+          "name": "Jiire Smith",
+          "url": "https://open.spotify.com/artist/0VX3LwYsAeOKY4sKXLp9Nc"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132455,
+      "name": "15 Hours",
+      "url": "https://open.spotify.com/track/1APAwszjE7EENUNQgm5OUs"
+    },
+    {
+      "album": {
         "name": "JAGUAR II : Deluxe",
         "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
       },
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 140979,
       "name": "Demure II",
       "url": "https://open.spotify.com/track/27BOm6ll4uotzFwQc4t4bE"
@@ -6636,6 +6654,24 @@
       "duration_ms": 148601,
       "name": "I Lay (feat. Xenia Manasseh)",
       "url": "https://open.spotify.com/track/3OfnodXWoUyR7bgKckTe5p"
+    },
+    {
+      "album": {
+        "name": "to what we were",
+        "url": "https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM"
     },
     {
       "album": {
@@ -12068,7 +12104,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183333,
       "name": "Personal",
       "url": "https://open.spotify.com/track/0EMXklypGROwo70DKaDZYY"

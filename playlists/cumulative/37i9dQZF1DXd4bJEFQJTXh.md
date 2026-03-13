@@ -2,7 +2,7 @@
 
 ### [Family Movie Hits](https://open.spotify.com/playlist/37i9dQZF1DXd4bJEFQJTXh)
 
-> we're turnin' the floor into a zoo, ooh, ooh!!!
+> We’re going to be golden!
 
 243 songs - 12 hr 36 min
 

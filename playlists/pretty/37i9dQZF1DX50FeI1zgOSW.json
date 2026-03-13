@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sarah Black",
-  "num_followers": 18619,
+  "num_followers": 18628,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJHiHQYJ1Ik6/8xFVvW/NEPXiVcr",
+  "snapshot_id": "AAAAAGyNmyYNO4QQlOiwd4sQFtQSAymz",
   "tracks": [
     {
       "added_at": "2026-03-02 06:00:24",
@@ -315,6 +315,26 @@
       "duration_ms": 165174,
       "name": "Ottikita (01)",
       "url": "https://open.spotify.com/track/4QyhVCxgAhugXPfzxilA0Q"
+    },
+    {
+      "added_at": "2026-03-12 04:58:04",
+      "album": {
+        "name": "Patchai Vannam",
+        "url": "https://open.spotify.com/album/2CRytArpsi2Q2Z9tZt2BpU"
+      },
+      "artists": [
+        {
+          "name": "Rockzane",
+          "url": "https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1"
+        },
+        {
+          "name": "SHIV PAUL",
+          "url": "https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f"
+        }
+      ],
+      "duration_ms": 138688,
+      "name": "Patchai Vannam",
+      "url": "https://open.spotify.com/track/6JDzvf2sjdQJE6ICSsQVvq"
     },
     {
       "added_at": "2026-02-19 11:44:49",
@@ -1435,26 +1455,6 @@
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
-        "name": "Viralgal Thodum Dhooram",
-        "url": "https://open.spotify.com/album/3SNHf5Gi4RZxj6m4s5WSWC"
-      },
-      "artists": [
-        {
-          "name": "Stv Andrew",
-          "url": "https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd"
-        },
-        {
-          "name": "Rishi K",
-          "url": "https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj"
-        }
-      ],
-      "duration_ms": 209277,
-      "name": "Viralgal Thodum Dhooram",
-      "url": "https://open.spotify.com/track/07FbuMCgIdi9AqE20KlsZf"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
         "name": "Vidavaa Vidavaa",
         "url": "https://open.spotify.com/album/2O5Km5DktkvsQnyePAxDHk"
       },
@@ -1471,30 +1471,6 @@
       "duration_ms": 219318,
       "name": "Vidavaa Vidavaa",
       "url": "https://open.spotify.com/track/4NYqc7Sgx07u5awh3H1yHP"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Nee Yaaro",
-        "url": "https://open.spotify.com/album/2igS6FPy85uwLaxystVQYG"
-      },
-      "artists": [
-        {
-          "name": "Ahalya Doris S",
-          "url": "https://open.spotify.com/artist/3usgZF0wWk84D8mBdf5FoF"
-        },
-        {
-          "name": "Sanjay Kumar",
-          "url": "https://open.spotify.com/artist/32ad0QtJBapEts8FCsp8MD"
-        },
-        {
-          "name": "Vignesh Vijayaraghavan",
-          "url": "https://open.spotify.com/artist/5wQQ1XWiYpVHDBvsUSMg0c"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Nee Yaaro",
-      "url": "https://open.spotify.com/track/3HJUrDWeltUMXyU9Vwzklx"
     },
     {
       "added_at": "2026-01-09 19:30:11",
@@ -1547,30 +1523,6 @@
       "duration_ms": 148871,
       "name": "Oru Paarva",
       "url": "https://open.spotify.com/track/4UarzRIkmA6JsE8PfTYxWI"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Nenjankootu Kulla",
-        "url": "https://open.spotify.com/album/3y9YrbRN9NQyC0iQYA0zJP"
-      },
-      "artists": [
-        {
-          "name": "Kanav",
-          "url": "https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo"
-        },
-        {
-          "name": "Ashlay JC",
-          "url": "https://open.spotify.com/artist/3zLbhGMrdDFUyU0lUerfxt"
-        },
-        {
-          "name": "Rafi Yoke",
-          "url": "https://open.spotify.com/artist/6v1svztdRgyILSUhLWN6Xy"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Nenjankootu Kulla",
-      "url": "https://open.spotify.com/track/0z3hH8PRagiMJAUOkuTvjg"
     }
   ],
   "unique_name": "RADAR Tamil",

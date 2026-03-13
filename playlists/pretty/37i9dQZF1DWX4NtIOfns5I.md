@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new the army, the navy 🏹
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,938 likes - 101 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,942 likes - 101 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

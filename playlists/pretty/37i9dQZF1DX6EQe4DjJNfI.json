@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Delacruz, P\u00e9ricles",
-  "num_followers": 186074,
+  "num_followers": 186095,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-03-02 15:22:38",
       "album": {
-        "name": "Red On My Lips",
-        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 134406,
-      "name": "Red On My Lips",
-      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
-    },
-    {
-      "added_at": "2026-03-02 15:22:38",
-      "album": {
         "name": "Novehoras",
         "url": "https://open.spotify.com/album/3YAOfa21Gfl5g2cdX4uogw"
       },
@@ -1119,22 +1103,18 @@
     {
       "added_at": "2026-03-02 15:22:38",
       "album": {
-        "name": "Melanina",
-        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
+        "name": "Red On My Lips",
+        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
       },
       "artists": [
         {
-          "name": "Nega",
-          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
-        },
-        {
-          "name": "TX",
-          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Melanina",
-      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
+      "duration_ms": 134406,
+      "name": "Red On My Lips",
+      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
     },
     {
       "added_at": "2026-03-02 15:22:38",
@@ -1151,6 +1131,26 @@
       "duration_ms": 185499,
       "name": "Viu!?",
       "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
+    },
+    {
+      "added_at": "2026-03-02 15:22:38",
+      "album": {
+        "name": "Melanina",
+        "url": "https://open.spotify.com/album/0hZdTZ83F15jpvPREY3YVK"
+      },
+      "artists": [
+        {
+          "name": "Nega",
+          "url": "https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8"
+        },
+        {
+          "name": "TX",
+          "url": "https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Melanina",
+      "url": "https://open.spotify.com/track/4YazQdzbY7zJH9qSSZr7ot"
     },
     {
       "added_at": "2026-03-02 15:22:38",

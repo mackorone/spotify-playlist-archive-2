@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isaias Saad, Julliany Souza, L\u00e9o Brand\u00e3o",
-  "num_followers": 1212170,
+  "num_followers": 1212231,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
+        "name": "Em Todas As \u00c1reas (Milagres)",
+        "url": "https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+        }
+      ],
+      "duration_ms": 297313,
+      "name": "Em Todas As \u00c1reas (Milagres)",
+      "url": "https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
         "name": "IMPERFEITO",
         "url": "https://open.spotify.com/album/4mgrkS4GT9dWU1RzA2vAOo"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 314736,
       "name": "IMPERFEITO",
       "url": "https://open.spotify.com/track/2SswEmtlmAf5VPD69ETNrk"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
-        "name": "Em Todas As \u00c1reas (Milagres)",
-        "url": "https://open.spotify.com/album/3WzDtNKZhRwa5MsIxypB6y"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
-        }
-      ],
-      "duration_ms": 297313,
-      "name": "Em Todas As \u00c1reas (Milagres)",
-      "url": "https://open.spotify.com/track/5oqnLlkjFuXzz1xe6Aj8dT"
     },
     {
       "added_at": "2026-03-09 17:49:40",
@@ -555,6 +555,26 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
+        "name": "Palavra Liberada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL"
+      },
+      "artists": [
+        {
+          "name": "Abra\u00e3o Alencar",
+          "url": "https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 425033,
+      "name": "Palavra Liberada - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae"
+    },
+    {
+      "added_at": "2026-03-09 17:49:40",
+      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
@@ -575,26 +595,6 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
-        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Deive Leonardo",
-          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
-        }
-      ],
-      "duration_ms": 341540,
-      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
-    },
-    {
-      "added_at": "2026-03-09 17:49:40",
-      "album": {
         "name": "Cura | EP 01",
         "url": "https://open.spotify.com/album/0WnOaSP5bwVhfeSioA6YmH"
       },
@@ -611,22 +611,22 @@
     {
       "added_at": "2026-03-09 17:49:40",
       "album": {
-        "name": "Palavra Liberada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1MDa0CVZde9t8jEdJznKnL"
+        "name": "Deus Coloca O Ch\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ntpRjk2x5nSwb7eEaX2mN"
       },
       "artists": [
         {
-          "name": "Abra\u00e3o Alencar",
-          "url": "https://open.spotify.com/artist/15cbuNP8cYJuql1Y1isDPN"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Deive Leonardo",
+          "url": "https://open.spotify.com/artist/2yXSYL4govoGkKNqq6BJQW"
         }
       ],
-      "duration_ms": 425033,
-      "name": "Palavra Liberada - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BR7VJhJYLjOAZ86EgJaae"
+      "duration_ms": 341540,
+      "name": "Deus Coloca O Ch\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5S0FRi4n38dDHrDl3C5MSR"
     },
     {
       "added_at": "2026-03-09 17:49:40",

@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Grupo Triunfadores, Posadas\ud83d\udcf8",
-  "num_followers": 366933,
+  "num_followers": 366955,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "\u00bfQui\u00e9n + Como Yo?",
-        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144984,
-      "name": "X Perro",
-      "url": "https://open.spotify.com/track/2xxSZ3aezlxcuvZ5vECDYZ"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Contigo Quiero (A Caballo)",
         "url": "https://open.spotify.com/album/4EsebZYxCbdKCa8HHGmpL5"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 251149,
       "name": "Contigo Quiero (A Caballo)",
       "url": "https://open.spotify.com/track/0A0SUCIQPukRmRMHhCe52z"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "\u00bfQui\u00e9n + Como Yo?",
+        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144984,
+      "name": "X Perro",
+      "url": "https://open.spotify.com/track/2xxSZ3aezlxcuvZ5vECDYZ"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -215,22 +215,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "La Que Se Fue, Se Fue",
-        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 159621,
-      "name": "La Que Se Fue, Se Fue",
-      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Me Retir\u00e9",
         "url": "https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 124302,
       "name": "Me Retir\u00e9",
       "url": "https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "La Que Se Fue, Se Fue",
+        "url": "https://open.spotify.com/album/60fXvuA8j60Z8kz78kP28e"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 159621,
+      "name": "La Que Se Fue, Se Fue",
+      "url": "https://open.spotify.com/track/2vFNLepne0WkERnX6oIOJe"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "As\u00ed Fue (En Vivo)",
-        "url": "https://open.spotify.com/album/7bGVdRgPAXeMCnfyTAQKE8"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 336785,
-      "name": "As\u00ed Fue - En Vivo",
-      "url": "https://open.spotify.com/track/7JC5J5064iDd0hYvpGdk2Q"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "D\u00f3nde y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 163058,
       "name": "D\u00f3nde y Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "As\u00ed Fue (En Vivo)",
+        "url": "https://open.spotify.com/album/7bGVdRgPAXeMCnfyTAQKE8"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 336785,
+      "name": "As\u00ed Fue - En Vivo",
+      "url": "https://open.spotify.com/track/7JC5J5064iDd0hYvpGdk2Q"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Lo Que Se Dice Amor",
-        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Lo Que Se Dice Amor",
-      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Nadie Se Va Como Lleg\u00f3",
         "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 189628,
       "name": "A Dos De Borrarte",
       "url": "https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Lo Que Se Dice Amor",
+        "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 192935,
+      "name": "Lo Que Se Dice Amor",
+      "url": "https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Eterno",
-        "url": "https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Enamorado Y Feliz",
-      "url": "https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "No soy para ti",
         "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 124785,
       "name": "No soy para ti",
       "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/2yuJ3dc5YyHvdifiZFjJJe"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Enamorado Y Feliz",
+      "url": "https://open.spotify.com/track/3XJfknzRtzAez7JtmtCVNw"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 773154,
-      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Cuando Ama Una Mujer",
         "url": "https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 773154,
+      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
+        "name": "Esa Perra Ya Me Mordi\u00f3",
+        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 210592,
+      "name": "Esa Perra Ya Me Mordi\u00f3",
+      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
         "name": "Se Me Hizo Tarde",
         "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 223250,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
-        "name": "Esa Perra Ya Me Mordi\u00f3",
-        "url": "https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 210592,
-      "name": "Esa Perra Ya Me Mordi\u00f3",
-      "url": "https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Despecho Puro (En Vivo)",
-        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
-      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Ning\u00fan Color Tiene Due\u00f1o",
         "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 205400,
       "name": "Ning\u00fan Color Tiene Due\u00f1o",
       "url": "https://open.spotify.com/track/54NEmG1rbxPHeNnX9JawCu"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Despecho Puro (En Vivo)",
+        "url": "https://open.spotify.com/album/6VpHBWBnIKV6BB2UGal2bW"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 173173,
+      "name": "\u00bfPOR QU\u00c9 ME HACES LLORAR? - En Vivo",
+      "url": "https://open.spotify.com/track/1h9DgoT5M5Hiw9MvPpOp2m"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
+        "name": "Nadie Me Escribe La Vida",
+        "url": "https://open.spotify.com/album/100q2avXshpAXbj9djyoaz"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 174544,
+      "name": "La Desconocida",
+      "url": "https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
         "name": "Juro Que Nunca Volver\u00e9",
         "url": "https://open.spotify.com/album/1VION6pdbHkHU6PlZHQDhP"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 207830,
       "name": "Los Amigos Asi",
       "url": "https://open.spotify.com/track/2ShRtZ8WAWcZQ3aVnh9yIK"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
-        "name": "Nadie Me Escribe La Vida",
-        "url": "https://open.spotify.com/album/100q2avXshpAXbj9djyoaz"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 174544,
-      "name": "La Desconocida",
-      "url": "https://open.spotify.com/track/44AoC1ryjyINEwLbtr5Zr4"
     },
     {
       "added_at": "2026-03-06 06:00:10",

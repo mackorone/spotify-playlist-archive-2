@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 1,981 songs - 4 day 22 hr 37 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 2,004 songs - 4 day 23 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1989,5 +1989,28 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1979 | [Drifting Away](https://open.spotify.com/track/5XyDKHvBLPUQjmev14xOVg) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3) | [Drifting Away](https://open.spotify.com/album/1oN3fHZvxNl4hZXD9pZ3D8) | 3:26 |
 | 1980 | [Veloz](https://open.spotify.com/track/684O5uzlLPREElx1sVhy1P) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 |
 | 1981 | [En Las Buenas y en las malas](https://open.spotify.com/track/3LqXn1KRXCLQcXQuC2oj21) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [En Las Buenas y en las malas](https://open.spotify.com/album/0wviHdHw9IDyv8PR9PSWQv) | 2:52 |
+| 1982 | [No te Quieren Conmigo](https://open.spotify.com/track/0Usktz4px5OykVVxdDQHvM) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No te Quieren Conmigo](https://open.spotify.com/album/1myRJMwsRY6EXrNQYw7eCA) | 2:06 |
+| 1983 | [Se me Pego tu Amor](https://open.spotify.com/track/3ceB8Pb2WgaPv9yvvqJURC) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Se me Pego tu Amor](https://open.spotify.com/album/0DcIBLTGkkHp9rAoDMgsnH) | 2:44 |
+| 1984 | [Sin Condicion](https://open.spotify.com/track/4dCUcPxg14Ax3B4SEjAN4d) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Sin Condicion](https://open.spotify.com/album/2Q0IFbyJMt0x6lX9WWmnWW) | 2:24 |
+| 1985 | [Conmigo que con el](https://open.spotify.com/track/02EHFB1V8mWEpCfiAKmiKW) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Conmigo que con el](https://open.spotify.com/album/6Gx4r64C63rQK4CGmL23GP) | 2:59 |
+| 1986 | [Insomnio Contigo](https://open.spotify.com/track/5LJYq5FVfkuNXRNCH2x1bq) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Insomnio Contigo](https://open.spotify.com/album/4qMBZ8dDiiDtqFdTxOyHxE) | 3:56 |
+| 1987 | [Mirando al Techo](https://open.spotify.com/track/59VkarVZ22hK6mzNox9H64) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Mirando al Techo](https://open.spotify.com/album/7GJ7S0u5Jlu1njiSm44Buh) | 3:14 |
+| 1988 | [condena por ti](https://open.spotify.com/track/57lczXSmu43affSCBw33m7) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [condena por ti](https://open.spotify.com/album/0FB7sw5FbuhA3HwpjAe8Xq) | 3:04 |
+| 1989 | [saben a miel](https://open.spotify.com/track/1thmNQHGofKKHFkbBIiGLp) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [saben a miel](https://open.spotify.com/album/62Fa2kUV4ffZY2BzgP2EKP) | 3:08 |
+| 1990 | [Ojos De Colores](https://open.spotify.com/track/7G0eoN3tG9QWh7oHn0CVay) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Ojos De Colores](https://open.spotify.com/album/1UWHNbpcob0RaBctKfNZXR) | 2:59 |
+| 1991 | [Si Me Miras](https://open.spotify.com/track/497m5resshhJMRXSWY0syQ) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Si Me Miras](https://open.spotify.com/album/0DIxyAffgYaMGKH1tN6XeN) | 2:41 |
+| 1992 | [Lerángatom](https://open.spotify.com/track/74tCgVZubxx6IhyqzbiHEV) | [BRUMIKO](https://open.spotify.com/artist/5SVttRH8PTal59RNTpPGpE) | [Lerángatom](https://open.spotify.com/album/5VRS1aoC0tqBNxJl5StxxC) | 4:15 |
+| 1993 | [Celos que me Delatan](https://open.spotify.com/track/1VfRt5kJCYWlOXYMIqkali) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Celos que me Delatan](https://open.spotify.com/album/7xdIneTMjCsxrobnkyLqxx) | 3:36 |
+| 1994 | [Vanidosa](https://open.spotify.com/track/5rJB2sLMstY6Fu05fXq81Y) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Vanidosa](https://open.spotify.com/album/7kWYR5GSdTklnwBmtZefkU) | 2:19 |
+| 1995 | [Tal Como Eres](https://open.spotify.com/track/0tySsatMVojBkM5mTIF55d) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Tal Como Eres](https://open.spotify.com/album/5I9bAE7wo2RahVjTLwlxMH) | 2:44 |
+| 1996 | [Que No Haya Nada](https://open.spotify.com/track/3LaNrTBY4r0FYdRUftCQ3h) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Que No Haya Nada](https://open.spotify.com/album/3JbgtapJXv7l40MHSjTfZF) | 4:01 |
+| 1997 | [Que Haben Si Quieren](https://open.spotify.com/track/4gLcmzLhqRiN3shgC7A7AZ) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Que Haben Si Quieren](https://open.spotify.com/album/0Tqk2kU54S2PgWU3uhqmDD) | 3:15 |
+| 1998 | [Naci Para Vencer](https://open.spotify.com/track/6mQ0rwtbH3p2BP8emPOBuk) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Naci Para Vencer](https://open.spotify.com/album/75xfB6cUBnro2DJs7c4iHm) | 7:23 |
+| 1999 | [Mi Niña Bonita](https://open.spotify.com/track/35JpFVZztoyQceLfNNswtC) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Mi Niña Bonita](https://open.spotify.com/album/3fNpy5KdbyueT5hM9TsLDr) | 2:02 |
+| 2000 | [Juntos en la Playa](https://open.spotify.com/track/5mOs4uCtRlI06ZUHIkoo9t) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Juntos en la Playa](https://open.spotify.com/album/0tA0nw0PIJU817dg9obfWE) | 2:07 |
+| 2001 | [Donde Caben Mis Sueños](https://open.spotify.com/track/2JbLGmbohs2648kDXsqJD9) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Donde Caben Mis Sueños](https://open.spotify.com/album/2Agar5A3Iwtqs2JdXhX0qb) | 1:37 |
+| 2002 | [Aunque no Sobre Nada](https://open.spotify.com/track/3gzsPdpwoYOt1k5csRZXRi) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Aunque no Sobre Nada](https://open.spotify.com/album/5GdkEMt3dvIiHfGR9tvkCm) | 2:04 |
+| 2003 | [Asi Te Quiero](https://open.spotify.com/track/1ovtRibd9A7snHsGZTyrne) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Asi Te Quiero](https://open.spotify.com/album/54bz5FiwFx168Dy9FYw0Es) | 2:19 |
+| 2004 | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FIRE ON THE BLACK FLAGS](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 |
 
-Snapshot ID: `AAAIR9LlgvhX17uQJ3lAyLbZ5v1iEKfH`
+Snapshot ID: `AAAIXmEBP9p/Bs+xCMLFrSGx+rYl5hTh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Januarta",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: yuandirty",
   "name": "JIVVA",
   "tracks": [
     {
@@ -472,7 +472,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 239137,
       "name": "Be My Love",
       "url": "https://open.spotify.com/track/5a4qqM7xdsHefJBTEzSgVb"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 221590,
       "name": "floating in love",
       "url": "https://open.spotify.com/track/7ilFeaB4SQ5RnQOtzpHaee"
@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "i'm still here",
+        "url": "https://open.spotify.com/album/1fAms58lBFVczbL1ZYD8xy"
+      },
+      "artists": [
+        {
+          "name": "BLINGOUTKID",
+          "url": "https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "i'm still here",
+      "url": "https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF"
+    },
+    {
+      "album": {
         "name": "Ibukota",
         "url": "https://open.spotify.com/album/1LhKzOU1Kxeg2HxrOm6TCS"
       },
@@ -2075,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Keliling",
+        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179225,
+      "name": "Keliling",
+      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
+    },
+    {
+      "album": {
         "name": "Dreane",
         "url": "https://open.spotify.com/album/0dbhJr4XSB9SRuYB8sTnmi"
       },
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 195789,
       "name": "kenapa?",
       "url": "https://open.spotify.com/track/13HHsKH1SuuMvoUwoZ6ngD"
@@ -2684,7 +2720,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206718,
       "name": "Mulai",
       "url": "https://open.spotify.com/track/2gfuoYUfvZwcolvIcpV0ic"
@@ -3769,6 +3805,24 @@
     },
     {
       "album": {
+        "name": "STAY/GO (Do What You Want)",
+        "url": "https://open.spotify.com/album/1xQ4cqjMBG5J1RcFLrl6Mi"
+      },
+      "artists": [
+        {
+          "name": "yuandirty",
+          "url": "https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "STAY/GO (Do What You Want)",
+      "url": "https://open.spotify.com/track/4o1OYUJIRRWoe7qcAAaYv0"
+    },
+    {
+      "album": {
         "name": "Sujud",
         "url": "https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6"
       },
@@ -4116,6 +4170,24 @@
       "duration_ms": 218000,
       "name": "Tunggu Aku",
       "url": "https://open.spotify.com/track/0jCDcmdQ4IjqLNH8qv9x5U"
+    },
+    {
+      "album": {
+        "name": "Under the Silver Moon",
+        "url": "https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Under the Silver Moon",
+      "url": "https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X"
     },
     {
       "album": {

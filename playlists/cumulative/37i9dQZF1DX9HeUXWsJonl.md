@@ -2,9 +2,9 @@
 
 ### [Hot Hits Tunisia](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
 
-> A.L.A en tête de la playlist numéro un en Tunisie.
+> NORDO en tête de la playlist numéro un en Tunisie.
 
-273 songs - 16 hr 18 min
+274 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Watani](https://open.spotify.com/track/6CSz8qjGxCVq2Effqj70n0) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Watani](https://open.spotify.com/album/1AnLeUdRBSPUey9nVMsJYU) | 1:56 | 2022-12-21 | 2023-02-02 |
 | [Weld Ommi](https://open.spotify.com/track/04E5mcdB7gplezv6qqzCA8) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Weld Ommi](https://open.spotify.com/album/1Cu8XwQuQrp39qqStF8NH2) | 3:58 | 2025-06-20 |  |
 | [Wino El Hob](https://open.spotify.com/track/1a2bhHy2PRVTnD5UePaM4N) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Melly](https://open.spotify.com/artist/25AY4L2c6L9B9Eq9GY5d5b) | [Wino El Hob](https://open.spotify.com/album/11D9TxsVmFM1SAiFl1w2Ql) | 6:13 | 2022-02-28 | 2022-05-31 |
+| [Wlidi \| وليدي \(من مسلسل “خطيفة”\)](https://open.spotify.com/track/6hDBmEDjgqGgkBHml6EIrL) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Wlidi \| وليدي \(من مسلسل “خطيفة”\)](https://open.spotify.com/album/1qPennzXzfnFI2QPhiKrNB) | 2:34 | 2026-03-12 |  |
 | [Wliya](https://open.spotify.com/track/6sdYbJwPST9x0XZwQo76VU) | [Maya](https://open.spotify.com/artist/6O72cUuzCnRB78cBCAHmBa) | [Wliya](https://open.spotify.com/album/5d67N7Fi1C0G4SrsZBY8P8) | 3:20 | 2021-12-10 | 2022-01-25 |
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-01-06 | 2023-01-14 |
 | [Ya Aazem Douar](https://open.spotify.com/track/0X1QSVSsI8QPZyODS8271v) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Ya Aazem Douar](https://open.spotify.com/album/2YiBjxEbczGqHWmwlm2oV6) | 3:21 | 2024-03-16 | 2025-09-18 |

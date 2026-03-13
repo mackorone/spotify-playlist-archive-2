@@ -6,8 +6,24 @@
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARhdgp795yj8e/V2seTVry/luDBl3g",
+  "snapshot_id": "AAARhksbPIvMNPHZEc8GArpijY/Aeu47",
   "tracks": [
+    {
+      "added_at": "2026-03-12 20:20:51",
+      "album": {
+        "name": "The Vinci Effect",
+        "url": "https://open.spotify.com/album/5g6Dr3gvIgT1bjzjjLaR6Z"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Paradise Lost, Paradise Found",
+      "url": "https://open.spotify.com/track/4KAVx3Xwjy8mCUJADUEZh5"
+    },
     {
       "added_at": "2026-03-11 13:47:56",
       "album": {

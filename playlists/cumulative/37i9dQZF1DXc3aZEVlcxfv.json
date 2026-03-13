@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "247",
+        "url": "https://open.spotify.com/album/25QhVwbPJYv8ZJF3feFyiV"
+      },
+      "artists": [
+        {
+          "name": "BELIVAS",
+          "url": "https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB"
+        },
+        {
+          "name": "Quabena Asare",
+          "url": "https://open.spotify.com/artist/3ZSpS98h6E0yAk1kc1dNgd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186746,
+      "name": "247",
+      "url": "https://open.spotify.com/track/4yLzE1Rbcr668MMGjVMOnK"
+    },
+    {
+      "album": {
         "name": "4 Love",
         "url": "https://open.spotify.com/album/3lnBsr2vr5Zu0m9RBY0g8N"
       },
@@ -366,6 +388,24 @@
       "duration_ms": 150006,
       "name": "Amen",
       "url": "https://open.spotify.com/track/6pUalEPGkHqKKegfmDWhio"
+    },
+    {
+      "album": {
+        "name": "Amen Amen, Blessing and Glory",
+        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154325,
+      "name": "Amen Amen, Blessing and Glory",
+      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
       "album": {
@@ -1002,7 +1042,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 211513,
       "name": "Biggest Name (Man of Galilee)",
       "url": "https://open.spotify.com/track/4lTqi2OvWg6kJtcmLxPy6A"
@@ -3036,7 +3076,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 182334,
       "name": "ETERNITY",
       "url": "https://open.spotify.com/track/4LMh11K1jZZ01vQ8Qcn9Bl"
@@ -5588,10 +5628,32 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 261307,
       "name": "In a Moment",
       "url": "https://open.spotify.com/track/6hXaqgI3uo1uEWtjLvYlPc"
+    },
+    {
+      "album": {
+        "name": "In Awe",
+        "url": "https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs"
+      },
+      "artists": [
+        {
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
+        },
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279352,
+      "name": "In Awe",
+      "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
     },
     {
       "album": {
@@ -6158,7 +6220,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206300,
       "name": "Joy",
       "url": "https://open.spotify.com/track/4O7LdpkxIfdNEXODDN4ApN"
@@ -6608,6 +6670,24 @@
       "duration_ms": 194384,
       "name": "Love",
       "url": "https://open.spotify.com/track/3ktSoy8XLQNyB5fe0fyRUk"
+    },
+    {
+      "album": {
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
       "album": {
@@ -7251,6 +7331,24 @@
     },
     {
       "album": {
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
+      "album": {
         "name": "Miracles Like Lies",
         "url": "https://open.spotify.com/album/53r1RXoTN1VStVSsoNWoBo"
       },
@@ -7306,7 +7404,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 211097,
       "name": "Mo Wa Dupe - Reimagined",
       "url": "https://open.spotify.com/track/0rCCwRhEacakKBeYHD8fW6"
@@ -7440,7 +7538,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 179999,
       "name": "Moyo Wa Shukrani",
       "url": "https://open.spotify.com/track/2PT4W834PIHj9BMEKbzxuE"
@@ -7652,6 +7750,24 @@
       "duration_ms": 130410,
       "name": "My Lord is Good",
       "url": "https://open.spotify.com/track/6AEQOLEYTFQlorjhbr0e75"
+    },
+    {
+      "album": {
+        "name": "My Lovaa",
+        "url": "https://open.spotify.com/album/1Kebf3KL7OYy9DMhNETrKk"
+      },
+      "artists": [
+        {
+          "name": "StraTeGee",
+          "url": "https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207894,
+      "name": "My Lovaa",
+      "url": "https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4"
     },
     {
       "album": {
@@ -9140,6 +9256,24 @@
     {
       "album": {
         "name": "Reckless Lover",
+        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537386,
+      "name": "Reckless Lover",
+      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
+    },
+    {
+      "album": {
+        "name": "Reckless Lover",
         "url": "https://open.spotify.com/album/0ZbS7b4vWFO6SYJ9uwSDJK"
       },
       "artists": [
@@ -9394,7 +9528,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177391,
       "name": "Sing for You",
       "url": "https://open.spotify.com/track/1IjWj9IbynPzjM1hRVIFR1"
@@ -10462,7 +10596,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 169933,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/3MrxgrJaHZU1sxysl0xU7J"
@@ -11616,6 +11750,24 @@
       "duration_ms": 220694,
       "name": "Your Miracle",
       "url": "https://open.spotify.com/track/6AOa0gulWJIaql3Slh5Cpm"
+    },
+    {
+      "album": {
+        "name": "Your Name (Jehovah)",
+        "url": "https://open.spotify.com/album/3pGUVEyrGU4ZdOsV4K7DRX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Wonders",
+          "url": "https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "Your Name (Jehovah)",
+      "url": "https://open.spotify.com/track/1aXDzj3j8C7vz5hlSUgUWZ"
     },
     {
       "album": {

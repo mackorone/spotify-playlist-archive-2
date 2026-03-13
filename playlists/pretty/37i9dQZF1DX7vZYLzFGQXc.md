@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 푸린 \(Purynn\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,818 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,824 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [The End of the Sky](https://open.spotify.com/track/6m5SER7ES81UOek4xHcnAY) | [Zamgolbers](https://open.spotify.com/artist/5ZOPfXGBx6abXxg8ASoqSg) | [The End of the Sky](https://open.spotify.com/album/2pauKz4cxeXr40seBtW95Z) | 3:53 |
 | 50 | [To you.](https://open.spotify.com/track/60KO4Jd3LaG7XOJflLZ224) | [myojin](https://open.spotify.com/artist/1CAP5RxIYcoJ5aosA5xCC3) | [To you.](https://open.spotify.com/album/2cnQUJet3W9uEuPJ87RfZ6) | 3:52 |
 
-Snapshot ID: `AAAAAOHJZ2Gh2N8fCi/wSZMDm6vc+4z7`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

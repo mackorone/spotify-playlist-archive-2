@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-512 songs - 1 day 6 hr 6 min
+514 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [När änglar dör](https://open.spotify.com/track/4xHRjdU7PG09WUMVoKE0p0) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [När änglar dör](https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN) | 3:11 | 2026-02-12 |  |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-10 |
 | [Någonting som aldrig hänt](https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Någonting som aldrig hänt](https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq) | 3:01 | 2025-08-14 |  |
-| [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 | 2025-09-25 |  |
+| [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 | 2025-09-25 | 2026-03-13 |
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 | 2025-09-26 |
 | [Older](https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Older \(From the TV series ”Tystnaden”\)](https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF) | 3:34 | 2025-11-06 |  |
 | [Om igen](https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Om igen](https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD) | 3:01 | 2025-04-24 | 2025-08-08 |
@@ -337,7 +337,7 @@
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2025-04-11 |
 | [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 | 2025-01-10 |
 | [One\-Trick Pony](https://open.spotify.com/track/6tNz0WzVS7q1136lP8btQX) | [Toni Holgersson](https://open.spotify.com/artist/4mrhln9xCAUxK4fomXAtsB) | [One\-Trick Pony](https://open.spotify.com/album/6N2klg92TmszKj7waK5Xg7) | 4:56 | 2025-11-06 | 2026-02-26 |
-| [Only You](https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Only You](https://open.spotify.com/album/7beHonKtFevWLNsVaMd3CS) | 2:47 | 2025-09-18 |  |
+| [Only You](https://open.spotify.com/track/0ugszZuAOBLhfmybXOWBLN) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Only You](https://open.spotify.com/album/7beHonKtFevWLNsVaMd3CS) | 2:47 | 2025-09-18 | 2026-03-13 |
 | [Opening Act](https://open.spotify.com/track/31ipMJcQ781rbIVshfR5pz) | [Maja Ivarsson](https://open.spotify.com/artist/7mZEi87Lf4Bxy4XQwIyOEK) | [Kamikaze Life EP](https://open.spotify.com/album/5RPK7laTtrNhcZcSS2rvkz) | 2:16 | 2025-03-10 | 2025-08-16 |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-27 | 2024-08-23 |
 | [Orkanen](https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Orkanen](https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0) | 3:16 | 2024-10-10 | 2025-01-24 |
@@ -373,6 +373,7 @@
 | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/track/1i3moAuSbui5eTUiUgRyT2) | [Sven\-Ingvars](https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs) | [Röda trådens slut \(akustisk version\)](https://open.spotify.com/album/3MF0qqqvjc5Lvk3AxfzTo0) | 4:29 | 2026-01-08 |  |
 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 | 2024-06-27 | 2025-03-11 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 | 2025-05-30 |
+| [Sagolik](https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Välkommen hem](https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp) | 3:18 | 2026-03-12 |  |
 | [Sakta lägger båten ut från land](https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Sakta lägger båten ut från land](https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza) | 5:24 | 2025-05-08 | 2025-12-12 |
 | [Sally/Hungry Eyes](https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ) | [June Vide](https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1) | [Sally/Hungry Eyes](https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ) | 3:27 | 2024-06-27 | 2025-01-10 |
 | [Salta tårar](https://open.spotify.com/track/2d7JfqU2Vhe94bedlOJRNy) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Salta tårar](https://open.spotify.com/album/08BcoLD1gNU0NsDRZAdLit) | 3:23 | 2024-06-27 | 2024-08-16 |
@@ -450,6 +451,7 @@
 | [Tiden försvinner](https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Tiden försvinner](https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM) | 3:26 | 2024-09-12 | 2024-10-05 |
 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 | 2025-05-26 | 2026-02-13 |
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |
+| [Tonårsland](https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tonårsland](https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9) | 3:10 | 2026-03-12 |  |
 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hemland](https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw) | 4:39 | 2025-09-25 |  |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-04-25 |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-26 | 2025-04-25 |

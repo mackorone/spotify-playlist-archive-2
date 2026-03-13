@@ -6013,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/3q2x3jEOwVOL0BUU5F5k1E"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180832,
+      "name": "Arrependida\u00e7o",
+      "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
+    },
+    {
+      "album": {
         "name": "Sambas de Enredo Rio Carnaval 2024",
         "url": "https://open.spotify.com/album/2T0O5QwTHRPYRlqUUqekqK"
       },
@@ -11098,7 +11116,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 162507,
       "name": "Bloco dos Apaixonados",
       "url": "https://open.spotify.com/track/68xXgMubo2U5MEGCtJFxzC"
@@ -22110,7 +22128,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 274800,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/18KyJgSmfIPEsimWshBojB"
@@ -48854,6 +48872,32 @@
       "duration_ms": 144160,
       "name": "Melzinho",
       "url": "https://open.spotify.com/track/4HAF5oAZt0Dq7pF6P0NqEW"
+    },
+    {
+      "album": {
+        "name": "Mel\u00f4 De Poucas Ideias (Reggae Funk)",
+        "url": "https://open.spotify.com/album/1VDUiXp4HDp4pFBu9J1An2"
+      },
+      "artists": [
+        {
+          "name": "Dj Slk Sucessada",
+          "url": "https://open.spotify.com/artist/7eIiVTnpCiH9STWibvRB8j"
+        },
+        {
+          "name": "MC K.K",
+          "url": "https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod"
+        },
+        {
+          "name": "MC Marsha",
+          "url": "https://open.spotify.com/artist/6jlX5Md4XM8Qpz86CRnwxP"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "Mel\u00f4 De Poucas Ideias - Reggae Funk",
+      "url": "https://open.spotify.com/track/4f6FcFtp2R5laib20lY51l"
     },
     {
       "album": {

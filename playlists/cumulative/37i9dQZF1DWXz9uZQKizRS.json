@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: zofia justy\u0144ska",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Wojciech Baranowski",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -480,6 +480,24 @@
       "duration_ms": 182000,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/4vDmfYeH1Aw1DBfIXrMcGE"
+    },
+    {
+      "album": {
+        "name": "Orajt",
+        "url": "https://open.spotify.com/album/5PO6PQYdtCM6iBQGKpOc6t"
+      },
+      "artists": [
+        {
+          "name": "T.Love",
+          "url": "https://open.spotify.com/artist/2L14uYIQePr3ZEutb6feZz"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190885,
+      "name": "Agnieszka",
+      "url": "https://open.spotify.com/track/6qLb8o4k8DPQd8EWYabvPF"
     },
     {
       "album": {
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 182500,
       "name": "Bergamo",
       "url": "https://open.spotify.com/track/3vO7yKfaYu8wxOHR5PRu25"
@@ -1456,6 +1474,24 @@
       "duration_ms": 332816,
       "name": "Beze Mnie",
       "url": "https://open.spotify.com/track/0ZeQbTqUFBUYrg6B3qYOv9"
+    },
+    {
+      "album": {
+        "name": "Bezkres",
+        "url": "https://open.spotify.com/album/1Y073Buob8Zz7r0K4CgAb9"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Kisielewski",
+          "url": "https://open.spotify.com/artist/0fi8unZHAE9dNVsLhFIttc"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133474,
+      "name": "Bezkres",
+      "url": "https://open.spotify.com/track/59qbJWw0VrssUQQy60yHIc"
     },
     {
       "album": {
@@ -1686,6 +1722,24 @@
     {
       "album": {
         "name": "Biegn\u0119",
+        "url": "https://open.spotify.com/album/0NcZz3GHpMhxUh7KZs8R33"
+      },
+      "artists": [
+        {
+          "name": "Renata Przemyk",
+          "url": "https://open.spotify.com/artist/6lhrwZITKYJgZE3y7QUk1O"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311235,
+      "name": "Biegn\u0119",
+      "url": "https://open.spotify.com/track/763koXqtK1N7aD4MIjUNMK"
+    },
+    {
+      "album": {
+        "name": "Biegn\u0119",
         "url": "https://open.spotify.com/album/51J98zaqTmcrQJbUJyXobQ"
       },
       "artists": [
@@ -1722,7 +1776,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 197821,
       "name": "bies",
       "url": "https://open.spotify.com/track/5ch5Rr6MYd1FCp4YVTIMnJ"
@@ -3419,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "cisza nocna",
+        "url": "https://open.spotify.com/album/4QEgNqclBN0zi57MznoAZr"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182518,
+      "name": "cisza nocna",
+      "url": "https://open.spotify.com/track/6c6lldByHVVBfqha25sOor"
+    },
+    {
+      "album": {
         "name": "Ci\u0119\u017cary",
         "url": "https://open.spotify.com/album/66BZClkVxER3NqVuBV6ZzZ"
       },
@@ -4296,7 +4368,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 214785,
       "name": "Dafne",
       "url": "https://open.spotify.com/track/5CsAxj0bgx5UvK6KrXWsOZ"
@@ -6146,7 +6218,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166586,
       "name": "Figle",
       "url": "https://open.spotify.com/track/1iSzvIRjWNZMQ2HPPO6Jum"
@@ -6814,7 +6886,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 140000,
       "name": "G\u0141ODNY",
       "url": "https://open.spotify.com/track/5GhnDotHRMFa1sQNRgoXaF"
@@ -7110,6 +7182,24 @@
       "duration_ms": 198454,
       "name": "Hej, pomilczymy",
       "url": "https://open.spotify.com/track/46WXga2og4ASgPXrpN1eyu"
+    },
+    {
+      "album": {
+        "name": "Herbaciana",
+        "url": "https://open.spotify.com/album/2arsGcjiMa2Y86deEL0FEb"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189974,
+      "name": "Herbaciana",
+      "url": "https://open.spotify.com/track/45Ou9sZ8lp14zQKOTWwPRE"
     },
     {
       "album": {
@@ -8156,7 +8246,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 186312,
       "name": "Jazgot",
       "url": "https://open.spotify.com/track/4v6HuRh3AVHwUFwf2dCKQM"
@@ -8366,6 +8456,24 @@
       "duration_ms": 234392,
       "name": "Jestem Zn\u00f3w Na Starcie",
       "url": "https://open.spotify.com/track/0W3woqhVAFSVzlUbKqwvyk"
+    },
+    {
+      "album": {
+        "name": "Jestem Zwyk\u0142ym Ch\u0142opcem",
+        "url": "https://open.spotify.com/album/3FfCU2zq1yRTHeAfiLcRi0"
+      },
+      "artists": [
+        {
+          "name": "oysterboy",
+          "url": "https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "Jestem Zwyk\u0142ym Ch\u0142opcem",
+      "url": "https://open.spotify.com/track/4e3XCNJxsPgzS7uYrn2I0A"
     },
     {
       "album": {
@@ -9084,6 +9192,28 @@
       "duration_ms": 180175,
       "name": "knajpa na my",
       "url": "https://open.spotify.com/track/4MewzEb7sVMTIj16YbEyDH"
+    },
+    {
+      "album": {
+        "name": "KOBIETA PTAK",
+        "url": "https://open.spotify.com/album/6hIMEXRvNREStI1Lp3WAlC"
+      },
+      "artists": [
+        {
+          "name": "Igor Jaszczuk",
+          "url": "https://open.spotify.com/artist/71JlVP66LfnVXwbSrUU7TX"
+        },
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185372,
+      "name": "KOBIETA PTAK",
+      "url": "https://open.spotify.com/track/53zRbcU0GKbvS47wHGeRjl"
     },
     {
       "album": {
@@ -10263,6 +10393,28 @@
     },
     {
       "album": {
+        "name": "Late night (talking)",
+        "url": "https://open.spotify.com/album/41SqNtlsnS1ZEY8erTPjBr"
+      },
+      "artists": [
+        {
+          "name": "Pianqa",
+          "url": "https://open.spotify.com/artist/4oYrYiRzjfgeEub8IoFF0b"
+        },
+        {
+          "name": "Filip Solen",
+          "url": "https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185525,
+      "name": "Laminat",
+      "url": "https://open.spotify.com/track/38aJhuzJ7yW808Dnp74UNE"
+    },
+    {
+      "album": {
         "name": "Larwa",
         "url": "https://open.spotify.com/album/5dD5f4pAmo7xrBxmXSu7mj"
       },
@@ -10754,7 +10906,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 157802,
       "name": "list",
       "url": "https://open.spotify.com/track/4YJqDSndtDB9RAOazz13tm"
@@ -12744,6 +12896,24 @@
       "duration_ms": 228648,
       "name": "mo\u017ce jutro",
       "url": "https://open.spotify.com/track/10JLlJFSWPVF4wIQyu0ydp"
+    },
+    {
+      "album": {
+        "name": "Mo\u017ce tak mia\u0142o by\u0107",
+        "url": "https://open.spotify.com/album/3mK0iMpc4bIRMnLQnnSQyc"
+      },
+      "artists": [
+        {
+          "name": "21 Gram",
+          "url": "https://open.spotify.com/artist/0VqM8MxxQGmbygXhyHe7gr"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Mo\u017ce tak mia\u0142o by\u0107",
+      "url": "https://open.spotify.com/track/1N0G2Z3eZs5klaGDWpcwus"
     },
     {
       "album": {
@@ -14845,6 +15015,24 @@
     },
     {
       "album": {
+        "name": "Niedoczas",
+        "url": "https://open.spotify.com/album/7kU2D6qlebMembFf50ek4N"
+      },
+      "artists": [
+        {
+          "name": "Zesp\u00f3\u0142 Sztylety",
+          "url": "https://open.spotify.com/artist/47F5S77b4ceFnR5V44CDQ0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Niedoczas",
+      "url": "https://open.spotify.com/track/2MRnxTu7c0TNBvnHyiu6gK"
+    },
+    {
+      "album": {
         "name": "Neonova",
         "url": "https://open.spotify.com/album/2HdSNW4w2d5ZiC3ucoaYPl"
       },
@@ -15030,7 +15218,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 211970,
       "name": "Niezno\u015bna",
       "url": "https://open.spotify.com/track/7tJXkSHIPbwLpGwkqoueuu"
@@ -15268,7 +15456,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 190029,
       "name": "Noc z Kleopatr\u0105",
       "url": "https://open.spotify.com/track/5sXeZB2LMH4J1gCIKqfi3y"
@@ -16602,7 +16790,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 214705,
       "name": "Panoptykeon",
       "url": "https://open.spotify.com/track/7FpWhtpMv1pyAVcUUAuoEO"
@@ -17260,7 +17448,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 197605,
       "name": "plaster",
       "url": "https://open.spotify.com/track/5wsklRp2hITxdyzwBDfM9r"
@@ -20710,7 +20898,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 189834,
       "name": "Sp\u00f3jrz",
       "url": "https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e"
@@ -22052,7 +22240,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 176407,
       "name": "Technik informatyk",
       "url": "https://open.spotify.com/track/0pdsivHsNRFfJs5cNyGjve"
@@ -22216,7 +22404,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 252000,
       "name": "Ten Sam Sen",
       "url": "https://open.spotify.com/track/4dGBTQDgxHRc4E6ABHxRL0"
@@ -24111,6 +24299,24 @@
     },
     {
       "album": {
+        "name": "Pytania",
+        "url": "https://open.spotify.com/album/6gDgbvpxYVyCTwJ1oLifF5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203936,
+      "name": "W snach",
+      "url": "https://open.spotify.com/track/5FpxCMdHZTVGvHJVtrkBDk"
+    },
+    {
+      "album": {
         "name": "W starym mie\u015bcie chory duch",
         "url": "https://open.spotify.com/album/4BiNwFhLhes2XrYNy8acr9"
       },
@@ -25107,6 +25313,24 @@
     },
     {
       "album": {
+        "name": "Wskocz ze mn\u0105 do rzeki",
+        "url": "https://open.spotify.com/album/2I5k5T92xYgH2MSuSdkXsf"
+      },
+      "artists": [
+        {
+          "name": "Wojciech Baranowski",
+          "url": "https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220161,
+      "name": "Wskocz ze mn\u0105 do rzeki",
+      "url": "https://open.spotify.com/track/1AUqOYNErLK0Nc4mTGr0tP"
+    },
+    {
+      "album": {
         "name": "Wspania\u0142y \u015bwiat",
         "url": "https://open.spotify.com/album/5tCV1jri0G3Mr5iQ4z2LLJ"
       },
@@ -25408,7 +25632,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 140000,
       "name": "wtorek",
       "url": "https://open.spotify.com/track/1C4pxqMhiNfRIXqsCnCN4H"
@@ -25911,6 +26135,24 @@
     },
     {
       "album": {
+        "name": "ZABAWA",
+        "url": "https://open.spotify.com/album/7zxXmhx2abySqYT9fXK90R"
+      },
+      "artists": [
+        {
+          "name": "YULKA",
+          "url": "https://open.spotify.com/artist/4reS0zac7BdO81SDRjjRVM"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195690,
+      "name": "ZABAWA",
+      "url": "https://open.spotify.com/track/2U6w6Pdr9DAzij24JKnLso"
+    },
+    {
+      "album": {
         "name": "zabawa w chowanego",
         "url": "https://open.spotify.com/album/4LPVLn2dXP3hfxiqIzoBtj"
       },
@@ -26128,6 +26370,24 @@
       "duration_ms": 200292,
       "name": "Zadowalacz",
       "url": "https://open.spotify.com/track/3mC3MVLvukhlzh9zbzrhn1"
+    },
+    {
+      "album": {
+        "name": "Zadzwo\u0144 do mnie",
+        "url": "https://open.spotify.com/album/6jnrbDuFlbUXPlOpG3Xsw5"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219077,
+      "name": "Zadzwo\u0144 do mnie",
+      "url": "https://open.spotify.com/track/0b8D8GVhDOwl60VbA01BKr"
     },
     {
       "album": {
@@ -26450,6 +26710,28 @@
       "duration_ms": 299000,
       "name": "Zas\u0142o\u0144",
       "url": "https://open.spotify.com/track/1seZf4bOnKtXWJhRXjvosT"
+    },
+    {
+      "album": {
+        "name": "Zata\u0144czmy jeszcze",
+        "url": "https://open.spotify.com/album/2u7q5iiBqzzbmdpop6itz2"
+      },
+      "artists": [
+        {
+          "name": "SOFIA",
+          "url": "https://open.spotify.com/artist/0rbo3wH0MRchusQt3rXJTV"
+        },
+        {
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229419,
+      "name": "Zata\u0144czmy jeszcze",
+      "url": "https://open.spotify.com/track/5ElI4FfuUsQSOYHpNM5MWc"
     },
     {
       "album": {
@@ -27458,7 +27740,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 240618,
       "name": "\u0106ma",
       "url": "https://open.spotify.com/track/6RLLf19sS5M3DUCBLzV1BK"
@@ -27794,6 +28076,24 @@
       "duration_ms": 204000,
       "name": "\u015awiat pana M",
       "url": "https://open.spotify.com/track/1vRaehyrvRX2GKtqgP3a3g"
+    },
+    {
+      "album": {
+        "name": "\u015aWIAT POEBAO W\u0141A\u015aNIE",
+        "url": "https://open.spotify.com/album/1aJ32FQH44N2oXCBs22esq"
+      },
+      "artists": [
+        {
+          "name": "Mery Spolsky",
+          "url": "https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "\u015aWIAT POEBAO W\u0141A\u015aNIE",
+      "url": "https://open.spotify.com/track/23GDAP6PzinAtAwzkI2TzY"
     },
     {
       "album": {

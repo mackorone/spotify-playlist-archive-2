@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from The Brook & The Bluff
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,713 likes - 151 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,692 likes - 151 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

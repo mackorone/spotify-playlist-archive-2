@@ -2,7 +2,7 @@
 
 ### [2000s Pop Party](https://open.spotify.com/playlist/5JdrbiLfh3yupiAByJwEWi)
 
-> The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: Nelly Furtado
+> The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: The Pussycat Dolls
 
 107 songs - 7 hr 3 min
 

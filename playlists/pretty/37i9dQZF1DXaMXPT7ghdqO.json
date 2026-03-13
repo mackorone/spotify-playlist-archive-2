@@ -1,6 +1,6 @@
 {
   "description": "\u795d\u30fb\u7d50\u62105\u5468\u5e74\uff016\u4eba\u7d44\u30a8\u30f3\u30bf\u30e1\u30e6\u30cb\u30c3\u30c8\u3001\u3059\u3068\u3077\u308a\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01 Music from Japanese entertainment group, Strawberry prince! \u00a9STPR Inc.",
-  "num_followers": 41579,
+  "num_followers": 41580,
   "original_name": "\u3059\u3068\u3077\u308a -Strawberry Prince-",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,18 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u541b\u3068\u50d5\u306e\u79d8\u5bc6\u57fa\u5730",
-        "url": "https://open.spotify.com/album/3eYesa4u7Y4j9fLMyNYFbM"
+        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc (Birthday Ver.)",
+        "url": "https://open.spotify.com/album/3FqqdgpB5is8oIgNPtd253"
       },
       "artists": [
         {
           "name": "\u308b\u3045\u3068",
           "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
-        },
-        {
-          "name": "\u8389\u72ac",
-          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
         }
       ],
-      "duration_ms": 245466,
-      "name": "\u884c\u3051\uff01\u50d5\u3089\u306e\u30b9\u30af\u30fc\u30eb\u30d5\u30ed\u30f3\u30c8\uff01",
-      "url": "https://open.spotify.com/track/2rZ2WQC02AJlrdQjD6l7qQ"
+      "duration_ms": 184000,
+      "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc - Birthday Ver.",
+      "url": "https://open.spotify.com/track/281eQz1w4dcWgaPWTU93a5"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -623,18 +619,22 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc (Birthday Ver.)",
-        "url": "https://open.spotify.com/album/3FqqdgpB5is8oIgNPtd253"
+        "name": "\u541b\u3068\u50d5\u306e\u79d8\u5bc6\u57fa\u5730",
+        "url": "https://open.spotify.com/album/3eYesa4u7Y4j9fLMyNYFbM"
       },
       "artists": [
         {
           "name": "\u308b\u3045\u3068",
           "url": "https://open.spotify.com/artist/4HVrQm6wGdr7u8MpunIVIa"
+        },
+        {
+          "name": "\u8389\u72ac",
+          "url": "https://open.spotify.com/artist/3of301alMiUWK1KFTLcj4L"
         }
       ],
-      "duration_ms": 184000,
-      "name": "\u541b\u3068\u50d5\u306e\u30b9\u30c8\u30fc\u30ea\u30fc - Birthday Ver.",
-      "url": "https://open.spotify.com/track/281eQz1w4dcWgaPWTU93a5"
+      "duration_ms": 245466,
+      "name": "\u884c\u3051\uff01\u50d5\u3089\u306e\u30b9\u30af\u30fc\u30eb\u30d5\u30ed\u30f3\u30c8\uff01",
+      "url": "https://open.spotify.com/track/2rZ2WQC02AJlrdQjD6l7qQ"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 135720,
-      "name": "\u30a4\u30bf\u30ba\u30e9\u30ca\u30a4\u30c8\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/0byUF4CYDVJXJ9mkMiDUu3"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
         "name": "\u30ca\u30df\u30c0\u30e1",
         "url": "https://open.spotify.com/album/1zYayr9HkFUjZlbv4C4zUZ"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 238404,
       "name": "\u30ca\u30df\u30c0\u30e1",
       "url": "https://open.spotify.com/track/7eI11v0S0SpB896efwVkCX"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 135720,
+      "name": "\u30a4\u30bf\u30ba\u30e9\u30ca\u30a4\u30c8\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/0byUF4CYDVJXJ9mkMiDUu3"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 146760,
-      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc\uff01",
-      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
+      "duration_ms": 218253,
+      "name": "\u624b\u3092\u3064\u306a\u3044\u3067\u6b69\u3053\u3046",
+      "url": "https://open.spotify.com/track/0i4m7S9avadyMHkg7yMNCk"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
         }
       ],
-      "duration_ms": 218253,
-      "name": "\u624b\u3092\u3064\u306a\u3044\u3067\u6b69\u3053\u3046",
-      "url": "https://open.spotify.com/track/0i4m7S9avadyMHkg7yMNCk"
+      "duration_ms": 146760,
+      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc\uff01",
+      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
     },
     {
       "added_at": "2025-06-13 08:46:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-06-13 08:46:52",
       "album": {
-        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3089\u3076\u3063\uff01",
-        "url": "https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 221013,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6l2v6ZZpknWRWwW5YKEuOP"
-    },
-    {
-      "added_at": "2025-06-13 08:46:52",
-      "album": {
         "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/5MBXtk3exQrlbR0n8jsuec"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 244186,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/2v4wmPnKa2OEXhOeWdNJV2"
+    },
+    {
+      "added_at": "2025-06-13 08:46:52",
+      "album": {
+        "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3089\u3076\u3063\uff01",
+        "url": "https://open.spotify.com/album/6JRx2reXbLsdIyupLh88Ms"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 221013,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6l2v6ZZpknWRWwW5YKEuOP"
     },
     {
       "added_at": "2025-06-13 08:46:52",

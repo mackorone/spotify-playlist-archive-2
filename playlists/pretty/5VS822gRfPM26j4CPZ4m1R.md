@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,968 likes - 639 songs - 1 day 13 hr 59 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,969 likes - 641 songs - 1 day 14 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -647,5 +647,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 637 | [Criaturas da Noite](https://open.spotify.com/track/52QOOeICT7uUg3EaET0Xr0) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R), [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Criaturas da Noite](https://open.spotify.com/album/6AxgdZrrtWJjYxRePiprqr) | 1:46 |
 | 638 | [Bye Dummy](https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Bye Dummy](https://open.spotify.com/album/0BPaiZ5xFY692UPO6Hfw10) | 2:49 |
 | 639 | [Gum Head II](https://open.spotify.com/track/637QmKCvSglVuabJ7MowG6) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [SAP](https://open.spotify.com/album/5qWAWScy8fUrOgwWphDvdD) | 1:45 |
+| 640 | [it's over !! u blew it !!](https://open.spotify.com/track/5e7I8UlUfpawvYLdJYFMlj) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 1:56 |
+| 641 | [freak // 1994](https://open.spotify.com/track/0Beh1edFw2ytAIGgU4iiUh) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 2:51 |
 
-Snapshot ID: `AAAMYmNlQ6AwmvOmwHZTZy7RUsPkNHc8`
+Snapshot ID: `AAAMZJVLV6JOnT/NmNxx3edMKpIAlX5w`

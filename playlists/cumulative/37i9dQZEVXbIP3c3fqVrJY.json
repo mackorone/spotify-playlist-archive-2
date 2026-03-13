@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -5176,7 +5176,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 172631,
       "name": "Bou\u0159ka",
       "url": "https://open.spotify.com/track/2ggAzCUl7LpmPQJbFElstm"
@@ -17080,7 +17080,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -25362,7 +25362,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "NARCOS",
       "url": "https://open.spotify.com/track/5HVr2Ay42xJgB2VZ7CUJQJ"
@@ -29730,6 +29730,28 @@
       "duration_ms": 140000,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/380R5e7LAf0hrbXZE1Q2Mn"
+    },
+    {
+      "album": {
+        "name": "PERFECT TRIP",
+        "url": "https://open.spotify.com/album/3tJDsazasWfmmKL6yamI3z"
+      },
+      "artists": [
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "PERFECT TRIP",
+      "url": "https://open.spotify.com/track/6lcDV507PWKokm2WGStAX8"
     },
     {
       "album": {
@@ -34498,7 +34520,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 207360,
       "name": "SI JE*LA",
       "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
@@ -35670,7 +35692,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75"
@@ -37372,7 +37394,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 166299,
       "name": "Syndrom",
       "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
@@ -41824,7 +41846,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 214736,
       "name": "Virtu\u00e1ln\u00ed drogy",
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
@@ -45162,7 +45184,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 240116,
       "name": "Zub za zub",
       "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"

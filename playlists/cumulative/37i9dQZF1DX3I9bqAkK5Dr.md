@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
 
-494 songs - 1 day 5 hr 40 min
+495 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Theerani](https://open.spotify.com/track/52juP9nzMJg7KODjsK0NFl) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS) | [Theerani](https://open.spotify.com/album/4dYQ3LdSjwyl17Xh1cVSG5) | 3:19 | 2026-02-14 |  |
 | [Thelinde Gallo](https://open.spotify.com/track/0sr7KiSW4BxXqHr55tq80k) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Thelinde Gallo](https://open.spotify.com/album/0ofdW2BHss7f7v9qRj8E6C) | 5:00 | 2024-06-10 | 2024-06-22 |
 | [Thenela Vanala](https://open.spotify.com/track/0Tug4GRIUPSAPD3D5renfm) | [Veeha](https://open.spotify.com/artist/6w4uvzVKaujaFJx6HokFBL), [Charan Arjun](https://open.spotify.com/artist/75yCfkTG0b56BdrEhoNreg) | [Thenela Vanala](https://open.spotify.com/album/4C7gHf2uvW2pdbSfCrgLUS) | 3:00 | 2025-11-20 |  |
+| [Tholi Prema](https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA) | [Anirudh Suswaram](https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue), [Sterlin Nithya](https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To), [Anirudh Shandilya Maramraju](https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo) | [Tholi Prema](https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM) | 4:38 | 2026-03-12 |  |
 | [Tholi Prema](https://open.spotify.com/track/7CTfCAF0IWye3nPUdpBXln) | [Megha R B](https://open.spotify.com/artist/3IZRjoo6zWeehTdtRV7kAt), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Tholi Prema](https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH) | 2:45 | 2023-06-05 | 2023-08-03 |
 | [Time Pass](https://open.spotify.com/track/63YIpXTYeO1lRjWq0qgrZY) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [Time Pass](https://open.spotify.com/album/30esheOCFO7ouhiPHGT6lf) | 2:56 | 2025-01-10 | 2025-04-24 |
 | [TSUNAMI](https://open.spotify.com/track/6BoAJg1rH7KqCg2Cz4dcGp) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [TSUNAMI](https://open.spotify.com/album/4ySQiIqxkmw0VOIbKL0rhS) | 2:54 | 2025-01-20 | 2025-04-18 |

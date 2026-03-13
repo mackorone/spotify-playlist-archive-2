@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "38 inch loveseat",
+        "url": "https://open.spotify.com/album/2n5Bjj04OWh44d2yCOlyrr"
+      },
+      "artists": [
+        {
+          "name": "Clyde Crooks",
+          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "38 inch loveseat",
+      "url": "https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs"
+    },
+    {
+      "album": {
         "name": "I Killed Your Dog",
         "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
       },
@@ -618,7 +636,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 244653,
       "name": "barnyard",
       "url": "https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi"

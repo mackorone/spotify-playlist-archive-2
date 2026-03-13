@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "...At The Holiday Party",
+      "url": "https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -6874,24 +6892,6 @@
       "duration_ms": 174765,
       "name": "Zinnias",
       "url": "https://open.spotify.com/track/67bSS4aLrasUNp3EQjdHTT"
-    },
-    {
-      "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "date_added": "2024-04-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 257746,
-      "name": "\u2026At The Holiday Party",
-      "url": "https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFyqhBuzEZK8S"

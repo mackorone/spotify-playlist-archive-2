@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Aya Nakamura",
+  "description": "Les hits zouk & kompa du moment. Photo : Na\u00efka",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -4039,6 +4039,28 @@
     },
     {
       "album": {
+        "name": "Mon Amour Est Mort",
+        "url": "https://open.spotify.com/album/4tpwXfLxXS7DR2i0uHpGmy"
+      },
+      "artists": [
+        {
+          "name": "Axel Tony",
+          "url": "https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh"
+        },
+        {
+          "name": "Yoan",
+          "url": "https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206512,
+      "name": "Mon Amour Est Mort",
+      "url": "https://open.spotify.com/track/4fQpwVa1OrHQrk4sKSjkXG"
+    },
+    {
+      "album": {
         "name": "Mon BB",
         "url": "https://open.spotify.com/album/3eLQpjrB5OHzAXWdZdpyI9"
       },
@@ -7158,7 +7180,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 144866,
       "name": "Trop sexy",
       "url": "https://open.spotify.com/track/01lBKtR4KIXBYaZx2JXtjM"

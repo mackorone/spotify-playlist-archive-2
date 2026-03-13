@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Kwanjai. Artwork: Isu Kim",
+  "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PURDIE. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 204965,
       "name": "Aye",
       "url": "https://open.spotify.com/track/336q6HSE4S4yoS3YYBAZyc"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 268694,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/7hGtKpepHfqNl8JNZnlCef"
@@ -4346,7 +4346,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158863,
       "name": "It's You",
       "url": "https://open.spotify.com/track/3QrY0qMZ7eEQKPzafGzp2d"
@@ -14283,6 +14283,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a (.)",
+        "url": "https://open.spotify.com/album/0MpS43139mVqimnAqi3tPj"
+      },
+      "artists": [
+        {
+          "name": "Wallry",
+          "url": "https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a (.)",
+      "url": "https://open.spotify.com/track/3MtkUahUMBEsELTiLWjOF9"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e33\u0e15\u0e2d\u0e1a\u0e02\u0e2d\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21 (fleck.)",
         "url": "https://open.spotify.com/album/351cCT7UIXXgcWoF1Lpkxw"
       },
@@ -18547,6 +18565,24 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e44\u0e23\u0e49\u0e2b\u0e31\u0e27\u0e43\u0e08 (Flowery)",
+        "url": "https://open.spotify.com/album/2SEl8iMuCtoaWWIGmHnCn9"
+      },
+      "artists": [
+        {
+          "name": "LAILIN",
+          "url": "https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233937,
+      "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e44\u0e23\u0e49\u0e2b\u0e31\u0e27\u0e43\u0e08 (Flowery)",
+      "url": "https://open.spotify.com/track/7MQUKIEeIiENHSDjXViMMu"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e31\u0e1a\u0e40\u0e1a\u0e34\u0e49\u0e25\u0e0a\u0e35\u0e2a\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e40\u0e01\u0e2d\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/5ZQAp9WAuj3xQKNHx3l7AA"
       },
@@ -18996,7 +19032,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 172758,
       "name": "\u0e14\u0e49\u0e27\u0e22\u0e23\u0e31\u0e01\u0e41\u0e25\u0e30\u0e0a\u0e35\u0e27\u0e32",
       "url": "https://open.spotify.com/track/7q8o4sHySnWrkhw3xlkb5O"
@@ -24871,6 +24907,24 @@
     },
     {
       "album": {
+        "name": "\u0e1d\u0e31\u0e19\u0e14\u0e35 (STRETCH)",
+        "url": "https://open.spotify.com/album/53qWHmVLmDeXLdfZ2UFmTc"
+      },
+      "artists": [
+        {
+          "name": "PURDIE",
+          "url": "https://open.spotify.com/artist/4vCJjHzzIXlvcSTKReXXhK"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u0e1d\u0e31\u0e19\u0e14\u0e35 (STRETCH)",
+      "url": "https://open.spotify.com/track/4IHVzqAhfmOA4LwUPqS0uJ"
+    },
+    {
+      "album": {
         "name": "\u0e1d\u0e31\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
         "url": "https://open.spotify.com/album/4oORbkvGNGvqmV72ganEn2"
       },
@@ -25667,6 +25721,24 @@
     },
     {
       "album": {
+        "name": "QUARTER-LIFE CRISIS",
+        "url": "https://open.spotify.com/album/45iACMJHqyoZy0aQWoFzJs"
+      },
+      "artists": [
+        {
+          "name": "YODSARUN",
+          "url": "https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "\u0e1e\u0e32\u0e22\u0e38 (WHIRLWIND)",
+      "url": "https://open.spotify.com/track/6jTc7RgypAf0Ub17ZcPw2L"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e34\u0e18\u0e35\u0e01\u0e23 (an interviewer)",
         "url": "https://open.spotify.com/album/0n8Ojby3dMlcXm6312D7eR"
       },
@@ -25932,6 +26004,24 @@
       "duration_ms": 241250,
       "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 (feat. dopameen & IAmLast)",
       "url": "https://open.spotify.com/track/1YLRLshOz0o8m0UQO7ZEm2"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
+        "url": "https://open.spotify.com/album/1gDb8Oahh6uHy4lK3tRN8a"
+      },
+      "artists": [
+        {
+          "name": "chaopimburabha",
+          "url": "https://open.spotify.com/artist/72oN0LjuQweZ8i1xKM3Err"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260905,
+      "name": "\u0e1e\u0e48\u0e2d\u0e40\u0e18\u0e2d\u0e0a\u0e37\u0e48\u0e2d\u0e44\u0e23? (crazy question)",
+      "url": "https://open.spotify.com/track/5osNdD6oA5UcDMK0R13PJ3"
     },
     {
       "album": {
@@ -26296,6 +26386,24 @@
       "duration_ms": 192967,
       "name": "\u0e20\u0e32\u0e1e\u0e25\u0e27\u0e07\u0e15\u0e32 (Daydream)",
       "url": "https://open.spotify.com/track/0tF5QdtIxrB01fhL5gukw6"
+    },
+    {
+      "album": {
+        "name": "\u0e20\u0e32\u0e1e\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/44DmI4olS2KnXxF0Qwhujg"
+      },
+      "artists": [
+        {
+          "name": "Dena Euprasert",
+          "url": "https://open.spotify.com/artist/5mLzhpjIOXrJBCjmfv0rUb"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234101,
+      "name": "\u0e20\u0e32\u0e1e\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/4k0NvtSeR1PsD0ISDaSZJj"
     },
     {
       "album": {
@@ -37577,6 +37685,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e14\u0e47\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e25\u0e49\u0e27\u0e44\u0e07(\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e01\u0e31\u0e19)",
+        "url": "https://open.spotify.com/album/7LwAHr6GsDIcS0U21WfSJV"
+      },
+      "artists": [
+        {
+          "name": "EYE Nuttanichar",
+          "url": "https://open.spotify.com/artist/0Zz8nyoky80zR9W05adPu1"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189900,
+      "name": "\u0e40\u0e14\u0e47\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e25\u0e49\u0e27\u0e44\u0e07(\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e01\u0e31\u0e19)",
+      "url": "https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e14\u0e47\u0e01\u0e14\u0e37\u0e49\u0e2d",
         "url": "https://open.spotify.com/album/2EylGzMkiw3JaHJhheEcDw"
       },
@@ -44189,6 +44315,24 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e14\u0e1e\u0e32\u0e21\u0e35\u0e19 (Dopamine)",
+        "url": "https://open.spotify.com/album/0rDyYO85nyHQ9k3lUzofeR"
+      },
+      "artists": [
+        {
+          "name": "ANYSIDE",
+          "url": "https://open.spotify.com/artist/0VcGii0wCyoi5E0Hf8fII0"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u0e42\u0e14\u0e1e\u0e32\u0e21\u0e35\u0e19 (Dopamine)",
+      "url": "https://open.spotify.com/track/0jfldE751eWtWo2K1VXjHT"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e14\u0e40\u0e23\u0e21\u0e48\u0e2d\u0e19",
         "url": "https://open.spotify.com/album/2uuL0QCwrG4M8GAzdjJo4m"
       },
@@ -46289,6 +46433,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e01\u0e27\u0e19\u0e25\u0e30 (NO CHOICE)",
+        "url": "https://open.spotify.com/album/4FxiTWurfgO10Sl9oNdQD7"
+      },
+      "artists": [
+        {
+          "name": "DEBEST",
+          "url": "https://open.spotify.com/artist/2cFXSl4GMmdasQSdoiSLYB"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195371,
+      "name": "\u0e44\u0e21\u0e48\u0e01\u0e27\u0e19\u0e25\u0e30 (NO CHOICE)",
+      "url": "https://open.spotify.com/track/3ZG3jPWtVHLsR5p2EyjVND"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e02\u0e2d",
         "url": "https://open.spotify.com/album/4thZHG7wke31nW300pngU3"
       },
@@ -47048,7 +47210,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 221676,
       "name": "\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49 - Maybe I Like You",
       "url": "https://open.spotify.com/track/3nlOJWe1dqhEkdYg5oqA9q"

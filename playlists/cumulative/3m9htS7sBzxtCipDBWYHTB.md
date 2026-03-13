@@ -4,7 +4,7 @@
 
 > The numb flavor of depression
 
-31 songs - 1 hr 48 min
+32 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Color in Your Cheeks](https://open.spotify.com/track/5NfLknyes6L0h5dDB6ZPck) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/0SSMTJHDokOaKuaLaeSAYd) | 2:40 | 2023-03-23 |  |
 | [Dark in Here](https://open.spotify.com/track/2o2stv4uGKSYuUaghBTVX3) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dark in Here](https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4) | 3:23 | 2025-02-17 |  |
 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 | 2024-04-08 |  |
+| [Disco! in the Panic Room](https://open.spotify.com/track/3gvusUWj94UpHw0Iv1RWhx) | [Bug Hunter](https://open.spotify.com/artist/3icuKNh1iYRvYPiEkxiAfR) | [The Rough Draft](https://open.spotify.com/album/3BIJimflJCEKdoMFSenabT) | 3:31 | 2026-03-13 |  |
 | [Dissonance](https://open.spotify.com/track/7mOD2D8wpU4X5XgZS0dhTA) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Disposable Everything](https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc) | 2:00 | 2023-12-05 |  |
 | [Early Sunsets Over Monroeville](https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:05 | 2024-10-27 |  |
 | [Everything Is Temporary \(Sticks and Stones\)](https://open.spotify.com/track/2ROoHzuEZV64bi3TCHEvzZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 3:04 | 2022-10-11 |  |

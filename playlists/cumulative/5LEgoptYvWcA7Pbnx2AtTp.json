@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "BOO HOO",
+        "url": "https://open.spotify.com/album/2EY8rTI7ZaU9f68LDXIsZk"
+      },
+      "artists": [
+        {
+          "name": "Aurelio Voltaire",
+          "url": "https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311946,
+      "name": "BRAINS! (from the Cartoon Network's GRIM AND EVIL)",
+      "url": "https://open.spotify.com/track/4W6GZFd0xDFEux8Jw59UJf"
+    },
+    {
+      "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV"
       },
@@ -1410,6 +1428,24 @@
       "duration_ms": 282746,
       "name": "Hot for Teacher - 2015 Remaster",
       "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+    },
+    {
+      "album": {
+        "name": "Rare Americans 2",
+        "url": "https://open.spotify.com/album/3XaGggSCmE8nuUWMm1G5CU"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197248,
+      "name": "Hullabaloo",
+      "url": "https://open.spotify.com/track/1L2MyJvWX5TCEGUWR2LdRJ"
     },
     {
       "album": {

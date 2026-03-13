@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 147210,
+  "num_followers": 147228,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Suricateando",
-        "url": "https://open.spotify.com/album/7oVcPsDEOAMcuAferDjzTx"
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
       },
       "artists": [
         {
-          "name": "Suricato",
-          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        },
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 162089,
-      "name": "Cigana",
-      "url": "https://open.spotify.com/track/30LW6tUCnkLZXuJHNB3bLJ"
+      "duration_ms": 229868,
+      "name": "Sim",
+      "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -291,22 +295,18 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g"
+        "name": "Suricateando",
+        "url": "https://open.spotify.com/album/7oVcPsDEOAMcuAferDjzTx"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        },
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+          "name": "Suricato",
+          "url": "https://open.spotify.com/artist/35j8oMehl8Q9mLnVmkVqMC"
         }
       ],
-      "duration_ms": 229868,
-      "name": "Sim",
-      "url": "https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio"
+      "duration_ms": 162089,
+      "name": "Cigana",
+      "url": "https://open.spotify.com/track/30LW6tUCnkLZXuJHNB3bLJ"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Don't Fade",
-        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 190252,
-      "name": "Don't Fade - Single Version",
-      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "When The Wind Blows (Private Sessions)",
         "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 244393,
       "name": "When The Wind Blows - Private Sessions",
       "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Don't Fade",
+        "url": "https://open.spotify.com/album/0z7QrHUhqM60ZPsNFzxMpx"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 190252,
+      "name": "Don't Fade - Single Version",
+      "url": "https://open.spotify.com/track/0m3hslcOQomyJh8Mz7hdrX"
     },
     {
       "added_at": "2025-10-25 00:54:25",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 207595,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
     },
     {
       "added_at": "2025-10-25 00:54:25",

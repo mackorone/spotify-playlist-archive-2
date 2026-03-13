@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: 1991",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Phibes",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -7770,7 +7770,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 145371,
       "name": "Flex (feat. Coco & Che3kz)",
       "url": "https://open.spotify.com/track/3iC5BVnIythmMgYtcQvxhn"
@@ -11324,7 +11324,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 190344,
       "name": "Inside The Rider",
       "url": "https://open.spotify.com/track/4rRRwQk8RBBM7A9aw8RZy5"
@@ -11490,6 +11490,28 @@
       "duration_ms": 199798,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/7LUCTj2jr9oCpUEkz57sNN"
+    },
+    {
+      "album": {
+        "name": "Jack (Hoax Rework)",
+        "url": "https://open.spotify.com/album/1DORqdh0Z5UxSrLbGGFkZH"
+      },
+      "artists": [
+        {
+          "name": "Breach",
+          "url": "https://open.spotify.com/artist/2MMkuQE0f6CDaamJdWXaCC"
+        },
+        {
+          "name": "Hoax",
+          "url": "https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218034,
+      "name": "Jack - Hoax Rework",
+      "url": "https://open.spotify.com/track/0Uekv0MjYK8cnsWDvQ3fld"
     },
     {
       "album": {
@@ -14117,6 +14139,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/3tOA7f1g8dGZhxGFirxdUr"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0I3taeANTcNz6pIanXgdWh"
+    },
+    {
+      "album": {
         "name": "Family Only",
         "url": "https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk"
       },
@@ -14938,7 +14978,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 169000,
       "name": "Never Know (Love You So)",
       "url": "https://open.spotify.com/track/0DPCEnF33OTbElhEva4IfY"
@@ -22556,6 +22596,28 @@
       "duration_ms": 273103,
       "name": "Time",
       "url": "https://open.spotify.com/track/293nhbAyhi2OfLmk1ECSxE"
+    },
+    {
+      "album": {
+        "name": "Northern Step",
+        "url": "https://open.spotify.com/album/1Nr36ivrv4HGKTUVsu0ppg"
+      },
+      "artists": [
+        {
+          "name": "Worsleyy",
+          "url": "https://open.spotify.com/artist/0bONie91aAoPJqKFMXD8nX"
+        },
+        {
+          "name": "Pete Cannon",
+          "url": "https://open.spotify.com/artist/61S6bNsMZYtmojqjL43MkA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281272,
+      "name": "Timer",
+      "url": "https://open.spotify.com/track/6gIp0bymB0fpiCb4yTFPPJ"
     },
     {
       "album": {

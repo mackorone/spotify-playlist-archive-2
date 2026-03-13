@@ -4,7 +4,7 @@
 
 > 
 
-248 songs - 16 hr 44 min
+249 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Interstellar](https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Interstellar](https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A) | 3:51 | 2025-01-22 |  |
 | [Iron Heart](https://open.spotify.com/track/2JK083CksL35hs6SRfMdVv) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP) | [Netsky](https://open.spotify.com/album/5i90ZRThEcUxoiq9ihDeFA) | 5:56 | 2016-10-05 |  |
 | [Issa Vibe](https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [House of Wax](https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW) | 2:48 | 2024-08-05 |  |
+| [Just The Way You Are](https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Just The Way You Are](https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj) | 3:30 | 2026-03-13 |  |
 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 | 2025-02-24 |  |
 | [Know It](https://open.spotify.com/track/6dQ170Bg6FaHi3ilsiXd6O) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Know It](https://open.spotify.com/album/60Clyibeblhuag7qsma9Yt) | 4:59 | 2019-09-14 |  |
 | [Last Jungle](https://open.spotify.com/track/2kDVDefTovXooa3OiLRR4H) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Sub Focus](https://open.spotify.com/album/0nNtBtAH2wMXoWh1tjThzS) | 3:39 | 2016-01-27 |  |

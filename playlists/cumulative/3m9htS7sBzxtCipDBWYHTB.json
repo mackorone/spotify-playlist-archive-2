@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "The Rough Draft",
+        "url": "https://open.spotify.com/album/3BIJimflJCEKdoMFSenabT"
+      },
+      "artists": [
+        {
+          "name": "Bug Hunter",
+          "url": "https://open.spotify.com/artist/3icuKNh1iYRvYPiEkxiAfR"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211396,
+      "name": "Disco! in the Panic Room",
+      "url": "https://open.spotify.com/track/3gvusUWj94UpHw0Iv1RWhx"
+    },
+    {
+      "album": {
         "name": "Disposable Everything",
         "url": "https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc"
       },

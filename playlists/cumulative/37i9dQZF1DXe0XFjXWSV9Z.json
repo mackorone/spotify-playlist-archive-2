@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
+        "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
+      },
+      "artists": [
+        {
+          "name": "Astros de Mendoza",
+          "url": "https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216826,
+      "name": "Abducci\u00f3n Amazonica, Lamento en la Selva - Remix",
+      "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
+    },
+    {
+      "album": {
         "name": "Entre Bacaner\u00eda y Barbarie",
         "url": "https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU"
       },
@@ -1901,6 +1923,24 @@
     },
     {
       "album": {
+        "name": "Impredecible",
+        "url": "https://open.spotify.com/album/6eBd1fH0K3WOwOx5T4NC38"
+      },
+      "artists": [
+        {
+          "name": "Bareto",
+          "url": "https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247253,
+      "name": "La voz del sinchi",
+      "url": "https://open.spotify.com/track/6XMoJLbM0Q0TpxdSnPQnOe"
+    },
+    {
+      "album": {
         "name": "Hijo de Tigre",
         "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
       },
@@ -1938,28 +1978,6 @@
       "duration_ms": 302602,
       "name": "Lamento en la Selva",
       "url": "https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt"
-    },
-    {
-      "album": {
-        "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
-        "url": "https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07"
-      },
-      "artists": [
-        {
-          "name": "Astros de Mendoza",
-          "url": "https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike"
-        },
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "date_added": "2021-10-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216826,
-      "name": "Lamento en la Selva - Remix",
-      "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
     },
     {
       "album": {
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 226000,
       "name": "OVNI Cumbia",
       "url": "https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm"

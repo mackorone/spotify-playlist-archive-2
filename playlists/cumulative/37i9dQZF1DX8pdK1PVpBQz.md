@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Averie
 
-4,461 songs - 10 day 6 hr 1 min
+4,462 songs - 10 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2211,6 +2211,7 @@
 | [Left My Life](https://open.spotify.com/track/4qmrJbfr0E50vbqCKD1n6m) | [Jaxn Faw](https://open.spotify.com/artist/54QsNeUrZElybJ6hqMzm3s) | [Left My Life](https://open.spotify.com/album/2WvMuz0voHmrtrt7XDKkTR) | 3:25 | 2023-09-27 | 2023-10-20 |
 | [Left Right](https://open.spotify.com/track/6O9C9mJeXopK83yHdKAvAo) | [xiao xiao](https://open.spotify.com/artist/4oiBay4ATBcD4ujBsLobCK) | [Left Right](https://open.spotify.com/album/6cDwVnXXarJNSjfVaZYvb0) | 1:39 | 2025-05-08 | 2025-06-04 |
 | [lego](https://open.spotify.com/track/2lIvl5lxoJxmiyZfG1Mgrf) | [Maple's Pet Dinosaur](https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je) | [lego](https://open.spotify.com/album/23iZtzJsbEpUzWDDWKbHLD) | 2:18 | 2025-08-19 | 2025-09-17 |
+| [Leisure](https://open.spotify.com/track/4wuVZpmDkRpgAhwexsfp30) | [Station Model Violence](https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV) | [Station Model Violence](https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz) | 2:53 | 2026-03-12 |  |
 | [Lemon](https://open.spotify.com/track/1g6WEsZDtRzBx4wa90HFdO) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa) | [Lemon](https://open.spotify.com/album/3MQ0fiOtuTCXhlYfPN3YoJ) | 4:38 | 2021-12-28 | 2022-01-13 |
 | [Lemon Drop](https://open.spotify.com/track/1cDH0zfvvwyS6iI6euMMCc) | [Dbldbl](https://open.spotify.com/artist/0eO4yXZs5l3oyvduOsjITW), [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8) | [Lemon Drop](https://open.spotify.com/album/0UBRIK6BdlzjgdhTR7VKJp) | 3:21 | 2022-10-12 | 2022-11-17 |
 | [Lemon Lime](https://open.spotify.com/track/2WXkVx5MEJjZ7fpIbOGnJO) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Lemon Lime](https://open.spotify.com/album/3ymqSQFuvE9pjyIcjcyIDM) | 4:38 | 2022-05-25 | 2023-01-13 |
@@ -2933,7 +2934,7 @@
 | [Overdrive](https://open.spotify.com/track/1v9gPqNHAnZ3OTvvaAMLJi) | [Siobhan Cotchin](https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3) | [Redemption Arc](https://open.spotify.com/album/79PFthukRlj7I3fDLKq05J) | 3:27 | 2025-08-26 | 2025-10-15 |
 | [Overexposure](https://open.spotify.com/track/6i2tdHukUqmSaPACIra5NR) | [Ekzander](https://open.spotify.com/artist/1ytER2wXvxWlw62HIypkHn) | [Overexposure](https://open.spotify.com/album/7KAfwsmee71TDNpg9ZMUMb) | 6:19 | 2022-06-29 | 2022-07-28 |
 | [Overgrown](https://open.spotify.com/track/1ZPe86cJyQQY0mSOTMtTKp) | [Coconut Cream](https://open.spotify.com/artist/47K0e038iQFkTEzTjWheMX) | [What Kind of Music Do You Like to Listen to?](https://open.spotify.com/album/3tOvq0d6gQ5p9YhNC26Uq2) | 4:07 | 2022-02-23 | 2022-03-24 |
-| [Overnight Sensation](https://open.spotify.com/track/3aS1aJBRmpaquAoLmuGvBy) | [kate moth](https://open.spotify.com/artist/6fQeWG71ShzQVNurNRGR1i) | [Overnight Sensation](https://open.spotify.com/album/69cWkqsxTuYvAbCsSQ5MCN) | 3:02 | 2025-11-18 |  |
+| [Overnight Sensation](https://open.spotify.com/track/3aS1aJBRmpaquAoLmuGvBy) | [kate moth](https://open.spotify.com/artist/6fQeWG71ShzQVNurNRGR1i) | [Overnight Sensation](https://open.spotify.com/album/69cWkqsxTuYvAbCsSQ5MCN) | 3:02 | 2025-11-18 | 2026-03-13 |
 | [OVERRATED](https://open.spotify.com/track/4rVj1hwnXyGUlQCtIT64mU) | [TIA](https://open.spotify.com/artist/6rVjgJjbtiyMmXi2YBryvk) | [OVERRATED](https://open.spotify.com/album/3bKzDRnuzmLoPCajV2lfTm) | 2:58 | 2022-09-28 | 2023-01-13 |
 | [overthinking](https://open.spotify.com/track/5gv5WYrIhVCUDeXjo60AWb) | [Riley From Earth](https://open.spotify.com/artist/1b3TTtQOOT6oVnL4e8dtF3) | [overthinking](https://open.spotify.com/album/6iSr1R777BVfVQNnpqH9ia) | 2:46 | 2025-07-08 | 2025-07-30 |
 | [Own Cloud](https://open.spotify.com/track/0VBqYlRaO5OGtJChCeOYwi) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Lucky Notes](https://open.spotify.com/album/4NWwx6TA31UtfvCVlkKllz) | 2:21 | 2022-10-26 | 2022-11-24 |

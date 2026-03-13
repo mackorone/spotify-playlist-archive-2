@@ -1,12 +1,12 @@
 {
   "description": "All your favourite hairbrush anthems!",
-  "num_followers": 298177,
+  "num_followers": 298222,
   "original_name": "Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPw6+3MVUU9OpOca5JwfkjT2TKIP",
+  "snapshot_id": "AAAAANkUWfYnU//M4drWgYnz0S+0pFUo",
   "tracks": [
     {
       "added_at": "2024-02-07 16:26:58",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 270160,
+      "name": "Here I Go Again 87 - 2007 Remastered Version",
+      "url": "https://open.spotify.com/track/51tuwnX8OPvQCXoBnjMkfF"
+    },
+    {
+      "added_at": "2024-02-07 16:26:58",
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/2RHaVgBsaXdHOvBTOD0vwq"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2024-02-07 16:26:58",
       "album": {
-        "name": "1987",
-        "url": "https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN"
+        "name": "Playlist: The Very Best Of Meat Loaf",
+        "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
       },
       "artists": [
         {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
         }
       ],
-      "duration_ms": 270160,
-      "name": "Here I Go Again 87 - 2007 Remastered Version",
-      "url": "https://open.spotify.com/track/51tuwnX8OPvQCXoBnjMkfF"
+      "duration_ms": 321973,
+      "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
+      "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
     },
     {
       "added_at": "2024-02-07 16:26:58",
@@ -751,22 +767,6 @@
       "duration_ms": 435213,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG"
-    },
-    {
-      "added_at": "2024-02-07 16:26:58",
-      "album": {
-        "name": "Playlist: The Very Best Of Meat Loaf",
-        "url": "https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 321973,
-      "name": "I'd Do Anything for Love (But I Won't Do That) - Radio Edit",
-      "url": "https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas"
     },
     {
       "added_at": "2024-02-07 16:26:58",

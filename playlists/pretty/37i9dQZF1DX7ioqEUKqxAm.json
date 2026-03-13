@@ -1,13 +1,29 @@
 {
-  "description": "\u6b21\u4e16\u4ee3\u306e\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u3092\u62c5\u3046\u65b0\u9032\u6c17\u92ed\u306e\u30af\u30ea\u30a8\u30a4\u30bf\u30fc4\u7d44\u3092\u7279\u96c6 (cover: \u5c71\u7530\u7531\u68a8\u306e\u7720\u308c\u306a\u3044\u306a\u3089\u8336\u3092\u306e\u3093\u3067)",
+  "description": "\u6b21\u4e16\u4ee3\u306e\u30dd\u30c3\u30c9\u30ad\u30e3\u30b9\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u3092\u62c5\u3046\u65b0\u9032\u6c17\u92ed\u306e\u30af\u30ea\u30a8\u30a4\u30bf\u30fc4\u7d44\u3092\u7279\u96c6 (cover: \u30aa\u30c8\u30b3\u306e\u5b50\u80b2\u3066\u3088\u3082\u3082\u3084\u307e\u3070\u306a\u3057)",
   "num_followers": 569,
   "original_name": "RADAR: Podcasters 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC/JtfHg0nP7kfxhYhFzS3VfXLmO",
+  "snapshot_id": "AAAAAPZht6xHwlr0P5j/yRHyZhU8wLOs",
   "tracks": [
+    {
+      "added_at": "2026-03-12 08:00:23",
+      "album": {
+        "name": "\u30aa\u30c8\u30b3\u306e\u5b50\u80b2\u3066\u3088\u3082\u3082\u3084\u307e\u3070\u306a\u3057",
+        "url": "https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g"
+      },
+      "artists": [
+        {
+          "name": "\u30aa\u30c8\u30b3\u306e\u5b50\u80b2\u3066\u3088\u3082\u3082\u3084\u307e\u3070\u306a\u3057",
+          "url": "https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g"
+        }
+      ],
+      "duration_ms": 3454056,
+      "name": "\u5b50\u3069\u3082\u305f\u3061\u306e\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9 w/\u5bcc\u6c38\u4eac\u5b50 #58 ",
+      "url": "https://open.spotify.com/episode/5d9MV0Ala5iqlxaQR7ybMt"
+    },
     {
       "added_at": "2026-02-26 08:00:25",
       "album": {
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/episode/3WL7w5MO4TCRoZK8kx4c18"
     },
     {
-      "added_at": "2026-01-08 03:00:28",
+      "added_at": "2026-03-12 08:00:23",
       "album": {
         "name": "\u30aa\u30c8\u30b3\u306e\u5b50\u80b2\u3066\u3088\u3082\u3082\u3084\u307e\u3070\u306a\u3057",
         "url": "https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g"
@@ -132,9 +148,9 @@
           "url": "https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g"
         }
       ],
-      "duration_ms": 1753178,
-      "name": "#17 \u4e00\u5e74\u4e09\u30f6\u6708\u306e\u80b2\u4f11\u3092\u53d6\u3063\u305f\u30ef\u30b1\u301c\u80b2\u4f11\u632f\u308a\u8fd4\u308a\u2460",
-      "url": "https://open.spotify.com/episode/7kJcUSkV8IkwCEZTNGf21e"
+      "duration_ms": 2319073,
+      "name": "\u4f11\u65e5\u3064\u307e\u3089\u306a\u3044 #57 ",
+      "url": "https://open.spotify.com/episode/1zSjWYKW9XylaF9EalL6mF"
     },
     {
       "added_at": "2026-01-08 03:00:28",
@@ -183,22 +199,6 @@
       "duration_ms": 2144989,
       "name": "#36 \u4eca\u5e74\uff11\u756a\u89b3\u305fYouTube\u3063\u3066\u4f55\uff1f",
       "url": "https://open.spotify.com/episode/6X3FMuqMlRsC6uHYcXqXxP"
-    },
-    {
-      "added_at": "2026-01-08 03:00:28",
-      "album": {
-        "name": "\u30aa\u30c8\u30b3\u306e\u5b50\u80b2\u3066\u3088\u3082\u3082\u3084\u307e\u3070\u306a\u3057",
-        "url": "https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g"
-      },
-      "artists": [
-        {
-          "name": "\u30aa\u30c8\u30b3\u306e\u5b50\u80b2\u3066\u3088\u3082\u3082\u3084\u307e\u3070\u306a\u3057",
-          "url": "https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g"
-        }
-      ],
-      "duration_ms": 2052648,
-      "name": "#48 \u30ea\u30a2\u30af\u30b7\u30e7\u30f3\u3068\u30a2\u30c6\u30f3\u30b7\u30e7\u30f3\u3092\u3081\u3050\u308b\u5ea7\u8ac7 w/\u30ef\u30c3\u30b3",
-      "url": "https://open.spotify.com/episode/2mUqDLkUOjnclArAkzpF0P"
     }
   ],
   "unique_name": "RADAR: Podcasters 2026",

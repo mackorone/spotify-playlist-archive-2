@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🍭 Tech house operators, featuring Slaycey
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,723 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,766 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 37 | [Ya Back](https://open.spotify.com/track/5vobiF0t2BT8YY3DR0Thzw) | [GUI2IN](https://open.spotify.com/artist/65U4lJ60s7ip5O2gXCxbql), [AJK](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [Ya Back](https://open.spotify.com/album/5tN4QsmcqL9I6ee9sF92Zk) | 2:35 |
 | 38 | [Pecado](https://open.spotify.com/track/3NHMDiOQ3ZUKdPQXrOYyI2) | [DvirNuns](https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n), [DOX](https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3) | [Pecado](https://open.spotify.com/album/6utaK4AzJ6kJdtkaRoYcXS) | 3:01 |
 | 39 | [Body & Soul](https://open.spotify.com/track/1qkemFylpvVolVww5xXzHe) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Body & Soul / Winning Prize](https://open.spotify.com/album/2mLV1f1aV8pkB45AljGOwp) | 2:41 |
-| 40 | [Interlude](https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek) | [Vlad](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj) | [Interlude EP](https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B) | 3:39 |
+| 40 | [Interlude](https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek) | [VLAD](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj) | [Interlude EP](https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B) | 3:39 |
 | 41 | [Un Gatito Como Tù](https://open.spotify.com/track/2GtT8ecViiBn1Nt6mLiL3l) | [Roberto Surace](https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G) | [Un Gatito Como Tù](https://open.spotify.com/album/4txcVqwQoeJCyg5Zmhn2vP) | 1:58 |
 | 42 | [Energy](https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Kendra Foster](https://open.spotify.com/artist/1RhQ4EIgZsMwOi8ioA7Rbi) | [Energy](https://open.spotify.com/album/0mBllIhbnCSKbRAxyLwKLa) | 2:52 |
 | 43 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |

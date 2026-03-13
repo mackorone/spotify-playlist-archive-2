@@ -4,7 +4,7 @@
 
 > Rustig aan, ff ademen jij.
 
-50 songs - 2 hr 12 min
+51 songs - 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Geen Cartoon](https://open.spotify.com/track/6ljxMRrulo8H4HUAWW4RCs) | [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Geen Cartoon](https://open.spotify.com/album/0dQMeQyC3abWHKdCsekI3C) | 2:35 | 2025-06-27 | 2025-09-26 |
 | [GEKKE GUNZ](https://open.spotify.com/track/5BDr1iWvhH8b4oE192HMpT) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:29 | 2025-06-27 |  |
 | [Gerechtigheid](https://open.spotify.com/track/1IswIiRshxMSGMWGEdsOuw) | [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Gerechtigheid](https://open.spotify.com/album/3FZgUvklx7yGLJO4GfPtBs) | 3:26 | 2025-06-27 |  |
+| [Grimmig](https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Grimmig](https://open.spotify.com/album/0pnHayMlrea3RqrkY0h0ay) | 2:08 | 2026-03-12 |  |
 | [HOOFD HEET](https://open.spotify.com/track/4vzRLazetY00bIIND51cbG) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [ILLIEGALITEIT](https://open.spotify.com/album/3i3Tfr42wK3GZ3x8A8AeKF) | 2:48 | 2025-06-27 |  |
 | [IDEMO](https://open.spotify.com/track/6cjzBMVeoNpHsyIgQ0dMHD) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [IDEMO](https://open.spotify.com/album/11E4GX3b6bp7ucN55tMU0F) | 2:19 | 2025-09-10 |  |
 | [Intro/Aventador](https://open.spotify.com/track/6TtVX0hYJp2Ai0VzDZJBRJ) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD), [RpBeats](https://open.spotify.com/artist/5KycryP0jIKEwY9sl1Fpq9) | [Intro/Aventador](https://open.spotify.com/album/7w7AQJxbxjupFazkF8etvH) | 2:56 | 2025-06-27 |  |
@@ -55,7 +56,7 @@
 | [Terug Naar Toen \(feat\. Lijpe\)](https://open.spotify.com/track/78MjdEavkSKQCungaxkd7V) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [93](https://open.spotify.com/album/5tEjoImmdtJeQVYQx9Ogy4) | 3:20 | 2025-06-27 |  |
 | [U23 \- Freestyle](https://open.spotify.com/track/61saPoK8jz62MCcnWcRkmr) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [U23 \- Freestyle](https://open.spotify.com/album/5KKRZt3Yi7PmctbZNqRjfb) | 2:16 | 2025-06-27 |  |
 | [WHAT THE HELLY](https://open.spotify.com/track/3PrlxQtFCyAlKFC0uZwSXf) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [WHAT THE HELLY](https://open.spotify.com/album/5ESn5GFLsSdYanFcoBxwQl) | 2:10 | 2025-09-15 |  |
-| [Winstmarge](https://open.spotify.com/track/4S5DteUzRbxYwbn78OLLLW) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Winstmarge](https://open.spotify.com/album/3GWsFQce7dHjU3EpGZmlHK) | 2:24 | 2025-06-27 |  |
+| [Winstmarge](https://open.spotify.com/track/4S5DteUzRbxYwbn78OLLLW) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Winstmarge](https://open.spotify.com/album/3GWsFQce7dHjU3EpGZmlHK) | 2:24 | 2025-06-27 | 2026-03-13 |
 | [Yolo](https://open.spotify.com/track/3nwPqKLNPaPmEu3KLEdzpH) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Most Hated](https://open.spotify.com/album/0A9Tl2UXFxbCwMMcFoNN8g) | 3:24 | 2025-06-27 |  |
 | [ZIDANE](https://open.spotify.com/track/4o943cZWj08kb6qSc4UpCt) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [ZIDANE](https://open.spotify.com/album/6EOa9BfPjQ3plNa3lkdYIx) | 2:48 | 2025-06-27 | 2025-09-11 |
 

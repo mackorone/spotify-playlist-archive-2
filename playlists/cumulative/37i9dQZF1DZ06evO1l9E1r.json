@@ -1254,6 +1254,24 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120657,
+      "name": "I Would Prefer Not To",
+      "url": "https://open.spotify.com/track/7dmDk6vYEfYJL47d6nrdgL"
+    },
+    {
+      "album": {
+        "name": "The Bride! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -1376,7 +1394,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 221697,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/0gcpkg1jdlIbNIwDPrpkiU"

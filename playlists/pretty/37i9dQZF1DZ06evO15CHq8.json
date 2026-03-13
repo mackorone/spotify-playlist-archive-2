@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 671833,
+  "num_followers": 671874,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAAA3u9aTsd3UUwPoaUL2w/4Q",
+  "snapshot_id": "abCwgAAAAADN9O9vBFx6sVX7fPa9jlp4",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YUNGDEATHLILLIFE",
+        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "LTE",
+      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GERM HAS A DEATHWISH",
         "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 109898,
       "name": "AWKWARD CAR DRIVE",
       "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YUNGDEATHLILLIFE",
-        "url": "https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "LTE",
-      "url": "https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv"
     },
     {
       "added_at": null,

@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 213678,
       "name": "1,2,3 dayz up",
       "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
@@ -3654,7 +3654,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 153665,
       "name": "BEEP BEEP",
       "url": "https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4"
@@ -6954,7 +6954,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 133000,
       "name": "Cola",
       "url": "https://open.spotify.com/track/2ZFR6vljnZc54BkSFF4NNb"
@@ -10351,6 +10351,28 @@
     },
     {
       "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/4MWlKLKbMUwuv2Tf4Fqk82"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        },
+        {
+          "name": "Uffie",
+          "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204050,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/13xQEvfQjGjwdqHZV1lvqX"
+    },
+    {
+      "album": {
         "name": "brent ii",
         "url": "https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2"
       },
@@ -11556,6 +11578,24 @@
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
+    },
+    {
+      "album": {
+        "name": "famous",
+        "url": "https://open.spotify.com/album/5RU8ec3zzaFg8cGzZDqp9C"
+      },
+      "artists": [
+        {
+          "name": "pager",
+          "url": "https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179300,
+      "name": "famous",
+      "url": "https://open.spotify.com/track/25ynds8G8VI01XYFAX9h7g"
     },
     {
       "album": {
@@ -13460,7 +13500,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 187200,
       "name": "Glitter In My Tears",
       "url": "https://open.spotify.com/track/6ggeF2miuarRU6VjfaWsZK"
@@ -23904,7 +23944,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 159552,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2dvdS4ASD6ntTvFcHiEC7J"
@@ -28258,7 +28298,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161107,
       "name": "please dont hack me!!!!",
       "url": "https://open.spotify.com/track/553l3ZzY91o8YTOR2SQv69"
@@ -36737,6 +36777,24 @@
     },
     {
       "album": {
+        "name": "THROW A FIT",
+        "url": "https://open.spotify.com/album/4RNmWamIYk3KzMt4mULoNj"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126250,
+      "name": "THROW A FIT",
+      "url": "https://open.spotify.com/track/0n0l9X47XiqXjVAC52hzSz"
+    },
+    {
+      "album": {
         "name": "TICK TOCK",
         "url": "https://open.spotify.com/album/4RS2sGxRhVfHotPAzUGRwo"
       },
@@ -37226,6 +37284,24 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
+        "name": "paint me like one of your fav american girls",
+        "url": "https://open.spotify.com/album/1BFVIOOm4faydPogoYMGQ7"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/528UnHNkAN07n2mlYPmwi7"
     },
     {
       "album": {
@@ -40732,6 +40808,36 @@
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far",
       "url": "https://open.spotify.com/track/4nHJcUtNSUVjXRnjdP29Bk"
+    },
+    {
+      "album": {
+        "name": "YUM-ME (Big Softy Remix)",
+        "url": "https://open.spotify.com/album/5givvfq7JorHlh6vIffJjK"
+      },
+      "artists": [
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
+          "name": "Two Planets",
+          "url": "https://open.spotify.com/artist/7ujhs6kppvxNBZyeDVZKhr"
+        },
+        {
+          "name": "Eloise Keeble",
+          "url": "https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9"
+        },
+        {
+          "name": "Big Softy",
+          "url": "https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160922,
+      "name": "YUM-ME - Big Softy Remix",
+      "url": "https://open.spotify.com/track/5iTm9Ud5amR61Yr1I3koZy"
     },
     {
       "album": {

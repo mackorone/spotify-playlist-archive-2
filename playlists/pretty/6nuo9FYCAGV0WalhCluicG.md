@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > From the roads to the globe, UK Rap is life\. The hottest new UK rap, hip\-hop, grime, &amp; drill in 2025\. Cover: Nemzzz
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,299 likes - 107 songs - 5 hr 1 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,296 likes - 107 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 | 87 | [I Need It Now](https://open.spotify.com/track/4jrhI63h2RzQpA4PgOAgGe) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [I Need It Now](https://open.spotify.com/album/3QwtmPuPBkUDuwN5ownyUu) | 3:05 |
 | 88 | [Entrapreneur](https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Entrapreneur](https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh) | 2:24 |
 | 89 | [Blama \(feat\. Tion Wayne & Morrisson\)](https://open.spotify.com/track/5U4D0OfBCz0nrsweh4OXAq) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [The Playlist](https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz) | 2:47 |
-| 90 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 |
+| 90 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga](https://open.spotify.com/artist/5q6mBqEWDgWrCogSav8Sro) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 |
 | 91 | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/track/25roKnaj1LrahRrGjBcqQy) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Landslide \(feat\. Nafe Smallz\)](https://open.spotify.com/album/5IraEqtcwvylKHZlBX1V92) | 3:14 |
 | 92 | [Grey \(feat\. Aitch\)](https://open.spotify.com/track/5XtIcFaG7MjXyjSAiIWH5e) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Grey \(feat\. Aitch\)](https://open.spotify.com/album/7cNzYOvsIKo8wSpwubBwJK) | 2:49 |
 | 93 | [Gorilla](https://open.spotify.com/track/31kE0Epw1WK2qZxAxJLzzh) | [Rimzee](https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Gorilla](https://open.spotify.com/album/7EwikeoUfXNYmpvDQ5ccav) | 2:42 |

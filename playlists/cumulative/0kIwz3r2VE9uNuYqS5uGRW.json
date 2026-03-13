@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/2ZmUAPFUssRDQirDWbpivk"
+      },
+      "artists": [
+        {
+          "name": "Megan Dalby",
+          "url": "https://open.spotify.com/artist/20fkOG8MVEODAofTMn3Xjj"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250383,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/1ZscMbcOPmJZOa8o6C40oE"
+    },
+    {
+      "album": {
         "name": "All My Fault",
         "url": "https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw"
       },
@@ -1295,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "white hearts stain easily",
+        "url": "https://open.spotify.com/album/3H6t0wm5nfjUyLq26sfBIB"
+      },
+      "artists": [
+        {
+          "name": "Ida Elisabeth",
+          "url": "https://open.spotify.com/artist/3sEXUMg9WvdpLcKSsn1zkZ"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "I love you, but I can't let you go",
+      "url": "https://open.spotify.com/track/41FkGXbt9gack4Z9GOtmC1"
+    },
+    {
+      "album": {
         "name": "I Should Go",
         "url": "https://open.spotify.com/album/3Hj1AQjtOfcGiNJuIit0oJ"
       },
@@ -1519,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Latina BB",
+        "url": "https://open.spotify.com/album/19kXzogdcK0IQAKGUI3Je3"
+      },
+      "artists": [
+        {
+          "name": "cami santiz",
+          "url": "https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137278,
+      "name": "Latina BB",
+      "url": "https://open.spotify.com/track/3XqDTOzpLaSUFT2GPwbQW8"
+    },
+    {
+      "album": {
         "name": "Laws",
         "url": "https://open.spotify.com/album/7eqdrllEwQEPEP0R5kdx4N"
       },
@@ -1657,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Me Piden Reggaeton",
+        "url": "https://open.spotify.com/album/1GHvESbUF8VDfXEB71q8kH"
+      },
+      "artists": [
+        {
+          "name": "Big Puffah",
+          "url": "https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Me Piden Reggaeton",
+      "url": "https://open.spotify.com/track/3n6TRgeHQXEgx0PCL5GVWH"
+    },
+    {
+      "album": {
         "name": "THE CODE",
         "url": "https://open.spotify.com/album/1tPBYF7xveQtDPE9DJBqTe"
       },
@@ -1672,6 +1744,32 @@
       "duration_ms": 148800,
       "name": "MEET U AT THE TOP",
       "url": "https://open.spotify.com/track/1Fb3OYey2JClP5kKei8B7m"
+    },
+    {
+      "album": {
+        "name": "Millaje (Remix)",
+        "url": "https://open.spotify.com/album/3i04HHpwa7fH6jtsu8Ysvc"
+      },
+      "artists": [
+        {
+          "name": "Morales",
+          "url": "https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7"
+        },
+        {
+          "name": "ELUVE",
+          "url": "https://open.spotify.com/artist/5vgkWhP4HQTncMrL5OhJd8"
+        },
+        {
+          "name": "Rensu",
+          "url": "https://open.spotify.com/artist/3eQvPkkqBOguBhFsUqenHs"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180456,
+      "name": "Millaje - Remix",
+      "url": "https://open.spotify.com/track/0l6aneTXm37DhQQLzoYyEl"
     },
     {
       "album": {
@@ -1932,6 +2030,24 @@
       "duration_ms": 207157,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/73wr3gNS6bOGO7yv4vCD24"
+    },
+    {
+      "album": {
+        "name": "Or Nah (Spanish Version)",
+        "url": "https://open.spotify.com/album/67MJVFPDbsF5MkaqICtx2U"
+      },
+      "artists": [
+        {
+          "name": "The Samu",
+          "url": "https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125550,
+      "name": "Or Nah - Spanish Version",
+      "url": "https://open.spotify.com/track/3szuFgl7zsoSKNtJAWpMPB"
     },
     {
       "album": {
@@ -2575,6 +2691,28 @@
     },
     {
       "album": {
+        "name": "Sweet Melody",
+        "url": "https://open.spotify.com/album/6jPvRqUMYhY46FaG0eKzpJ"
+      },
+      "artists": [
+        {
+          "name": "Clone 7",
+          "url": "https://open.spotify.com/artist/4dnCRDSafgXYFYZSIqyorO"
+        },
+        {
+          "name": "earthtoalden",
+          "url": "https://open.spotify.com/artist/5zx6J8Y663ANUeJiRgdeqr"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151553,
+      "name": "Sweet Melody",
+      "url": "https://open.spotify.com/track/4vKz1Rs6Cvf3D0Mn8gRH2D"
+    },
+    {
+      "album": {
         "name": "Switch Up",
         "url": "https://open.spotify.com/album/5L94iYncA1of7RQSXO6brj"
       },
@@ -2734,6 +2872,24 @@
       "duration_ms": 148235,
       "name": "The Weekender",
       "url": "https://open.spotify.com/track/1OnHezJi7V03g7Kk1DuF3M"
+    },
+    {
+      "album": {
+        "name": "They Don't Care (About You)",
+        "url": "https://open.spotify.com/album/3vXUDacurGsc1sYMhMP7Ls"
+      },
+      "artists": [
+        {
+          "name": "Cozmicsoulfire",
+          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233045,
+      "name": "They Don't Care (About You)",
+      "url": "https://open.spotify.com/track/2hpb6qsOE6zCIvIzzuPeBN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj wszystkich nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11345,
+  "num_followers": 11420,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -83,26 +83,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "Kamie\u0144 z serca",
-        "url": "https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        },
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
-        }
-      ],
-      "duration_ms": 409600,
-      "name": "Kamie\u0144 z serca",
-      "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/5ecJS5eNY2SQZnzSOg4jwh"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/2S6sxBlNqbxjsGMcSV8wqT"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "Kamie\u0144 z serca",
+        "url": "https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "duration_ms": 409600,
+      "name": "Kamie\u0144 z serca",
+      "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -287,30 +287,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "POKOLOROWANA",
-        "url": "https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1"
-      },
-      "artists": [
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        },
-        {
-          "name": "Szpaku",
-          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
-        },
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "POKOLOROWANA",
-      "url": "https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "TTHE GRIND (DELUXE)",
         "url": "https://open.spotify.com/album/6kWghktaGeQtwLswCTSacE"
       },
@@ -331,6 +307,30 @@
       "duration_ms": 157500,
       "name": "300 BANIEK",
       "url": "https://open.spotify.com/track/4laCtGHEZEupZ7uEDQH2Ae"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "POKOLOROWANA",
+        "url": "https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1"
+      },
+      "artists": [
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        },
+        {
+          "name": "Szpaku",
+          "url": "https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99"
+        },
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "POKOLOROWANA",
+      "url": "https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "To si\u0119 wi\u0119cej nie powt\u00f3rzy",
-        "url": "https://open.spotify.com/album/7kUwGONLTpdhpykSIbantV"
-      },
-      "artists": [
-        {
-          "name": "Gruby Mielzky",
-          "url": "https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM"
-        },
-        {
-          "name": "The Returners",
-          "url": "https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk"
-        }
-      ],
-      "duration_ms": 173414,
-      "name": "To si\u0119 wi\u0119cej nie powt\u00f3rzy",
-      "url": "https://open.spotify.com/track/6d8QmWWjIuwxCjpWwnr5NE"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "ALBUM ALPHA (DEMO)",
         "url": "https://open.spotify.com/album/3B5gMNPmUMIpn05rwuitV6"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 159981,
       "name": "Nie ma takiego numeru",
       "url": "https://open.spotify.com/track/4KwrwRXSWlY95QccTUxiD5"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "To si\u0119 wi\u0119cej nie powt\u00f3rzy",
+        "url": "https://open.spotify.com/album/7kUwGONLTpdhpykSIbantV"
+      },
+      "artists": [
+        {
+          "name": "Gruby Mielzky",
+          "url": "https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM"
+        },
+        {
+          "name": "The Returners",
+          "url": "https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk"
+        }
+      ],
+      "duration_ms": 173414,
+      "name": "To si\u0119 wi\u0119cej nie powt\u00f3rzy",
+      "url": "https://open.spotify.com/track/6d8QmWWjIuwxCjpWwnr5NE"
     },
     {
       "added_at": "2026-02-25 11:19:16",

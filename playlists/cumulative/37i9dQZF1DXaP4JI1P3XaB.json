@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "FLUGEL",
+        "url": "https://open.spotify.com/album/0Blf8vNcYe2jgP4SP1Uws3"
+      },
+      "artists": [
+        {
+          "name": "Andris Mattson",
+          "url": "https://open.spotify.com/artist/0nV2v6lV7IVqXDWMsGQPVX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "...Still",
+      "url": "https://open.spotify.com/track/2BeyoOpeEhkI6NDiSUddJZ"
+    },
+    {
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/05urx7REFTNROuBIGU2t3A"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 597461,
       "name": "6.2",
       "url": "https://open.spotify.com/track/1sDvdrSZ1AbLwPjIV4ddtj"
+    },
+    {
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/6vpHWq7UHPBQ5ohdU31VnM"
+      },
+      "artists": [
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "A Drift Of Things",
+      "url": "https://open.spotify.com/track/4RlDylqFOtYUtXyzS14lN8"
     },
     {
       "album": {
@@ -174,7 +210,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 252693,
       "name": "Cloud Prints",
       "url": "https://open.spotify.com/track/4u6B2B9byWcAHAyqmEnRlY"
@@ -214,7 +250,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"
@@ -415,6 +451,28 @@
     },
     {
       "album": {
+        "name": "Distance Of The Moon",
+        "url": "https://open.spotify.com/album/5kX2ytLCVi2DDvazFFTIrH"
+      },
+      "artists": [
+        {
+          "name": "Nora Stanley",
+          "url": "https://open.spotify.com/artist/5Qapwk8xC4dNfsSeA1KyME"
+        },
+        {
+          "name": "Benny Bock",
+          "url": "https://open.spotify.com/artist/0whJ2FDPMvAL5DQaEox7RD"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121062,
+      "name": "Hawk Hill",
+      "url": "https://open.spotify.com/track/27WgbPsx8JcXKyjKj02hbc"
+    },
+    {
+      "album": {
         "name": "Caput",
         "url": "https://open.spotify.com/album/2xvGwQaDLmp6jYkA8hGgbe"
       },
@@ -608,7 +666,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 446000,
       "name": "Mountain of Air",
       "url": "https://open.spotify.com/track/4KWBMrBBkOvzzm5kkwy2pa"
@@ -663,6 +721,42 @@
     },
     {
       "album": {
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/2K8zklwUx7QIx9tfhaOnvd"
+      },
+      "artists": [
+        {
+          "name": "Aylu",
+          "url": "https://open.spotify.com/artist/1MDwlFKprZOcAzi83BF1VG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216186,
+      "name": "Obelisco Elysium",
+      "url": "https://open.spotify.com/track/3JH7UO0zvFdPB8Uv1zINM3"
+    },
+    {
+      "album": {
+        "name": "Oblique",
+        "url": "https://open.spotify.com/album/6AD1peHaxh1IQfQNNBxQDu"
+      },
+      "artists": [
+        {
+          "name": "Akusmi",
+          "url": "https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198935,
+      "name": "Oblique II",
+      "url": "https://open.spotify.com/track/7rUY4TU7A7F2g0v24Ghws8"
+    },
+    {
+      "album": {
         "name": "Off-Piste",
         "url": "https://open.spotify.com/album/0gxTsSlEsWib1zKa5lZs71"
       },
@@ -696,7 +790,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 333632,
       "name": "One for C",
       "url": "https://open.spotify.com/track/1GPKgxIbAkirtC35xh8vxo"
@@ -892,7 +986,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 1202000,
       "name": "The Milky Sea",
       "url": "https://open.spotify.com/track/01zON3KnXffqqdZDMnHsEp"
@@ -953,6 +1047,28 @@
     },
     {
       "album": {
+        "name": "Pavel Milyakov & Bendik Giske",
+        "url": "https://open.spotify.com/album/4r1Py7hk842cwcK8eZ8tEx"
+      },
+      "artists": [
+        {
+          "name": "Pavel Milyakov",
+          "url": "https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo"
+        },
+        {
+          "name": "Bendik Giske",
+          "url": "https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97876,
+      "name": "Untitled 7",
+      "url": "https://open.spotify.com/track/4oAMTQjWK3APisU7CBAeYR"
+    },
+    {
+      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/2K8zklwUx7QIx9tfhaOnvd"
       },
@@ -964,7 +1080,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 175966,
       "name": "Via Negativa",
       "url": "https://open.spotify.com/track/38PopErPlfj0OgUR1p9fg5"

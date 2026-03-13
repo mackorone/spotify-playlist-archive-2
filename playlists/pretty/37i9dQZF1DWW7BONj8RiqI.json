@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 244497,
+  "num_followers": 244540,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-02-12 17:24:55",
       "album": {
-        "name": "Soak It Good",
-        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
-      },
-      "artists": [
-        {
-          "name": "Skinny Banton",
-          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Soak It Good",
-      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
-    },
-    {
-      "added_at": "2026-02-12 17:24:55",
-      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
+    },
+    {
+      "added_at": "2026-02-12 17:24:55",
+      "album": {
+        "name": "Soak It Good",
+        "url": "https://open.spotify.com/album/5B7LBGOBJYMIEfAldCeFDD"
+      },
+      "artists": [
+        {
+          "name": "Skinny Banton",
+          "url": "https://open.spotify.com/artist/17mmOxzEgy1HQsEhsXvcO6"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Soak It Good",
+      "url": "https://open.spotify.com/track/0wfBV1srBNO2dRyWL1BxS9"
     },
     {
       "added_at": "2026-02-12 17:24:55",

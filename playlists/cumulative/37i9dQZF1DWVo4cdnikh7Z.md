@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Meesaya Murukku 2
 
-2,306 songs - 5 day 19 hr 14 min
+2,307 songs - 5 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1861,6 +1861,7 @@
 | [Thai Thakka Kalyanam](https://open.spotify.com/track/0RWwhF1G1ZgarjxddTQEIu) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Aparna](https://open.spotify.com/artist/4OiRqHPxirRjHT1w8NvwMb) | [Madraskaaran](https://open.spotify.com/album/6xC6lAFjMVsUunRmyW7h3K) | 4:02 | 2025-01-07 | 2025-02-18 |
 | [Thai Thakka Kalyanam \(From "Madraskaaran"\)](https://open.spotify.com/track/22rP4ZtasnKcb3piVHx3HM) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Aparna](https://open.spotify.com/artist/4OiRqHPxirRjHT1w8NvwMb), [Elan](https://open.spotify.com/artist/4YaivpIWtLfgW7wDyZZmLz) | [Thai Thakka Kalyanam \(From "Madraskaaran"\)](https://open.spotify.com/album/3mfKMONe3FcDnRtazLF2Jt) | 4:02 | 2024-09-19 | 2024-10-10 |
 | [Thakida Thadhimi \(From "Boat"\)](https://open.spotify.com/track/050r3774kILHWO4GYsB0Ab) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Deva](https://open.spotify.com/artist/3uVi0q6DLwjjLZTzs51zO1) | [Thakida Thadhimi \(From "Boat"\)](https://open.spotify.com/album/7Ex9DuMwrHhyq64974ajMj) | 2:40 | 2024-07-19 | 2024-08-13 |
+| [Thakka Thai \- From "Cheers Music"](https://open.spotify.com/track/5XmdQR3j0ymfMRQ4XTC68j) | [RITUAL](https://open.spotify.com/artist/2cmiBDa6er4eCF0Fez1gus), [Silvan](https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw) | [Thakka Thai \(From "Cheers Music"\)](https://open.spotify.com/album/0H6yH2chI03zjSY5hWnyco) | 3:01 | 2026-03-12 |  |
 | [Thala Forever \- Whistle for Dhoni](https://open.spotify.com/track/3ksNJELawyxwq4fLdKTPcV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Narendar Sankar](https://open.spotify.com/artist/2sHlh9GXbnnLWMLKT3RqPG), [Arish](https://open.spotify.com/artist/4Rdq83q6jEyKm1d93sMHqX) | [Thala Forever \- Whistle for Dhoni](https://open.spotify.com/album/2ZQjEJaQHe2opILdX8eHik) | 3:28 | 2024-04-12 | 2024-07-23 |
 | [Thalaimaganey](https://open.spotify.com/track/1MX1LngPqGPTm94umi5zEQ) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Swasthika Swaminathan](https://open.spotify.com/artist/6igchCiRtcOLefFuwY2gLL) | [Kaari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6N45ZpLq22cKZQmpDfdVkw) | 2:36 | 2022-07-01 | 2022-07-08 |
 | [Thalaivan Oruvan \| Coke Studio Bharat](https://open.spotify.com/track/1NFJumdx1PMYvgsLGVApOB) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [The Indian Choral Ensemble](https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3) | [Thalaivan Oruvan \| Coke Studio Bharat](https://open.spotify.com/album/2NPLnvRrk22BIk8Oxn1GWe) | 4:04 | 2025-11-03 | 2025-12-23 |

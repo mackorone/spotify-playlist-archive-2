@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Amy Taylor",
+  "description": "Punk spirit, alternative bones. Music that pushes us forward. Cover: Station Model Violence",
   "name": "Wire",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 185806,
       "name": "Advent",
       "url": "https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 197351,
       "name": "Ecstatic Strife",
       "url": "https://open.spotify.com/track/01FYlCtSVcddMczKnmI5dW"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156824,
       "name": "Jetplane",
       "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
@@ -1136,7 +1136,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173637,
       "name": "Joy",
       "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
@@ -1216,6 +1216,24 @@
       "duration_ms": 162206,
       "name": "Lapdog",
       "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "album": {
+        "name": "Station Model Violence",
+        "url": "https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz"
+      },
+      "artists": [
+        {
+          "name": "Station Model Violence",
+          "url": "https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "Leisure",
+      "url": "https://open.spotify.com/track/4wuVZpmDkRpgAhwexsfp30"
     },
     {
       "album": {
@@ -1505,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/65Eocfc9lOiXl4WmPPFUrp"
+      },
+      "artists": [
+        {
+          "name": "Robber Robber",
+          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252458,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3sNJK6XOSqwnKZKXKXXBtK"
+    },
+    {
+      "album": {
         "name": "BIRDBRAIN / PIG",
         "url": "https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq"
       },
@@ -1788,7 +1824,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 185388,
       "name": "S.S.R.I.",
       "url": "https://open.spotify.com/track/4pTYYj4OePKSu2lOBPRcoJ"
@@ -1824,7 +1860,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 182666,
       "name": "SCREWDRIVA",
       "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
@@ -2474,6 +2510,24 @@
       "duration_ms": 264344,
       "name": "WHITE NOISE",
       "url": "https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY"
+    },
+    {
+      "album": {
+        "name": "Institute",
+        "url": "https://open.spotify.com/album/5JBV4NEGXpbw7b5I2RArlk"
+      },
+      "artists": [
+        {
+          "name": "Institute",
+          "url": "https://open.spotify.com/artist/4pLRqnM78ur7geXMT6q2NR"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234733,
+      "name": "Why Are These Men Still Alive",
+      "url": "https://open.spotify.com/track/4oUei1ZLojAfP7iLANoR4e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc"

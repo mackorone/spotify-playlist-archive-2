@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Almanac
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,511 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,451 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 36 | [A New Day](https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z), [HNGT](https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK) | [A New Day](https://open.spotify.com/album/50TJbf8ARpqpcp8lHMapuc) | 3:55 |
 | 37 | [Kickback](https://open.spotify.com/track/0TuLNGHdtIpokrteWvJRkI) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Kickback](https://open.spotify.com/album/6dVZExYegXSg282JmchOUK) | 2:01 |
 | 38 | [Inner Wars](https://open.spotify.com/track/2rHIFv8iIZCpPPTqUkHrgs) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Miguel Ante](https://open.spotify.com/artist/0yLnk8vkyAvMHmEqAsmPKR), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Inner Wars](https://open.spotify.com/album/2fKFnbJnUOt3fVcCs1TnnW) | 3:36 |
-| 39 | [She Wanna Dance](https://open.spotify.com/track/4fkVZCK83FhFlF5A5VvB43) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Melo.Kids](https://open.spotify.com/artist/67zbXa7VOBhfFhM5n6AM33), [Jan Barg](https://open.spotify.com/artist/1OVsnZs1EB2YxziiOk7Ovt), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [She Wanna Dance](https://open.spotify.com/album/18iV0w4E6uAPfIFPRoDGDg) | 3:03 |
+| 39 | [She Wanna Dance](https://open.spotify.com/track/4fkVZCK83FhFlF5A5VvB43) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [MELOOZ](https://open.spotify.com/artist/2tlVoxIEmxwOU4XXQcFg5V), [Jan Barg](https://open.spotify.com/artist/1OVsnZs1EB2YxziiOk7Ovt), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [She Wanna Dance](https://open.spotify.com/album/18iV0w4E6uAPfIFPRoDGDg) | 3:03 |
 | 40 | [Meu Bem](https://open.spotify.com/track/38PgWbU3HdG8yBbJ01ZgHC) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Watzgood](https://open.spotify.com/artist/1ufrKfcoRS0V7srGXC6ADa), [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Meu Bem](https://open.spotify.com/album/1rNEIcD3Ei1pIH7F2zONTK) | 3:12 |
 | 41 | [Deeper Down](https://open.spotify.com/track/1dT9TNIjIEZxdFTcDoRrf6) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [Deeper Down](https://open.spotify.com/album/5Al7wX3B1JAdx5Vs4abv00) | 2:33 |
 | 42 | [Go Back](https://open.spotify.com/track/00wJPHKCBlCTUxP6KuVSiT) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Go Back](https://open.spotify.com/album/4hB27f2YOy4SLCk71mm2r5) | 2:44 |

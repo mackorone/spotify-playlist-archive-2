@@ -1,13 +1,77 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Januarta",
-  "num_followers": 14043,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: yuandirty",
+  "num_followers": 14047,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMLTJ5LtCOc7ESjTYys5ZpGAJ2bM",
+  "snapshot_id": "AAAAAAyHWwFR6gZ7G3JERmWD+ioKEDG1",
   "tracks": [
+    {
+      "added_at": "2026-03-12 18:00:20",
+      "album": {
+        "name": "STAY/GO (Do What You Want)",
+        "url": "https://open.spotify.com/album/1xQ4cqjMBG5J1RcFLrl6Mi"
+      },
+      "artists": [
+        {
+          "name": "yuandirty",
+          "url": "https://open.spotify.com/artist/5ijgD6jZ7Xn1ofH75kQtsQ"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "STAY/GO (Do What You Want)",
+      "url": "https://open.spotify.com/track/4o1OYUJIRRWoe7qcAAaYv0"
+    },
+    {
+      "added_at": "2026-03-12 18:00:20",
+      "album": {
+        "name": "Under the Silver Moon",
+        "url": "https://open.spotify.com/album/578TviwpjNhqZBCWoxphbT"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Under the Silver Moon",
+      "url": "https://open.spotify.com/track/6qa9ImotbPJJ287VzSSN9X"
+    },
+    {
+      "added_at": "2026-03-12 18:00:20",
+      "album": {
+        "name": "Keliling",
+        "url": "https://open.spotify.com/album/3q9Q1LA1ZWOVeH4oITyTPx"
+      },
+      "artists": [
+        {
+          "name": "Farrel Hilal",
+          "url": "https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Keliling",
+      "url": "https://open.spotify.com/track/5HbQ8H511rysCzppm22YSR"
+    },
+    {
+      "added_at": "2026-03-12 18:00:20",
+      "album": {
+        "name": "i'm still here",
+        "url": "https://open.spotify.com/album/1fAms58lBFVczbL1ZYD8xy"
+      },
+      "artists": [
+        {
+          "name": "BLINGOUTKID",
+          "url": "https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "i'm still here",
+      "url": "https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF"
+    },
     {
       "added_at": "2026-03-05 18:00:21",
       "album": {
@@ -639,30 +703,6 @@
     {
       "added_at": "2025-11-20 17:00:10",
       "album": {
-        "name": "kenapa?",
-        "url": "https://open.spotify.com/album/0o8h3D5b6oQqk4bdnmvVtx"
-      },
-      "artists": [
-        {
-          "name": "Jakarta Soul System",
-          "url": "https://open.spotify.com/artist/5twqzbPbyXbM4qrZejp5QP"
-        },
-        {
-          "name": "Bryan Renaldo",
-          "url": "https://open.spotify.com/artist/31cKcUefYLDo9XeNCPbWrR"
-        },
-        {
-          "name": "Jay Yen",
-          "url": "https://open.spotify.com/artist/3JgETLiorvAt8Xfsz6HcRt"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "kenapa?",
-      "url": "https://open.spotify.com/track/13HHsKH1SuuMvoUwoZ6ngD"
-    },
-    {
-      "added_at": "2025-11-20 17:00:10",
-      "album": {
         "name": "Hidup Denganmu",
         "url": "https://open.spotify.com/album/4wogs3ji346jeERxX7jhqe"
       },
@@ -769,26 +809,6 @@
       "url": "https://open.spotify.com/track/3uPBDHYJPFo7ILVzShfwGS"
     },
     {
-      "added_at": "2025-10-23 17:00:26",
-      "album": {
-        "name": "floating in love",
-        "url": "https://open.spotify.com/album/2r7mRLacB3Dk1ws8pNwLMJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Aldi",
-          "url": "https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4"
-        },
-        {
-          "name": "Alvin Wardiman",
-          "url": "https://open.spotify.com/artist/1C1xHPlFYwO4XsngjC87yt"
-        }
-      ],
-      "duration_ms": 221590,
-      "name": "floating in love",
-      "url": "https://open.spotify.com/track/7ilFeaB4SQ5RnQOtzpHaee"
-    },
-    {
       "added_at": "2025-10-16 17:00:27",
       "album": {
         "name": "Cerita Kita",
@@ -819,22 +839,6 @@
       "duration_ms": 156000,
       "name": "SO ASU",
       "url": "https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy"
-    },
-    {
-      "added_at": "2025-10-16 17:00:27",
-      "album": {
-        "name": "Mulai",
-        "url": "https://open.spotify.com/album/2YKI1MqW9OCXphZCF7qWc4"
-      },
-      "artists": [
-        {
-          "name": "RINNI",
-          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
-        }
-      ],
-      "duration_ms": 206718,
-      "name": "Mulai",
-      "url": "https://open.spotify.com/track/2gfuoYUfvZwcolvIcpV0ic"
     },
     {
       "added_at": "2025-10-16 17:00:27",
@@ -951,22 +955,6 @@
       "duration_ms": 221428,
       "name": "BACK 2 YOU",
       "url": "https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09"
-    },
-    {
-      "added_at": "2025-08-28 20:00:28",
-      "album": {
-        "name": "I Love Too Much When I\u2019m Drunk",
-        "url": "https://open.spotify.com/album/4T0HuawiX38S7XQoTO7XLZ"
-      },
-      "artists": [
-        {
-          "name": "I Talk Too Much When I'm Drunk",
-          "url": "https://open.spotify.com/artist/4EvhAbrKkEcqaztPw5wouv"
-        }
-      ],
-      "duration_ms": 239137,
-      "name": "Be My Love",
-      "url": "https://open.spotify.com/track/5a4qqM7xdsHefJBTEzSgVb"
     },
     {
       "added_at": "2025-09-18 17:00:31",

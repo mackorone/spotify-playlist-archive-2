@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Felici e basta di avere Colombre e Maria Antonietta in cover di Indie Italia \ud83e\udde1\ud83c\udf1e",
+  "description": "chiello ti pensiamo sempre \ud83d\udda4",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 164788,
       "name": "2 am (feat. Drast)",
       "url": "https://open.spotify.com/track/6PAQfzssPTEWiQSsWT5WQT"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178772,
       "name": "Col tuo nome",
       "url": "https://open.spotify.com/track/04vbMHJkXt0kjPQoxdqvRf"
@@ -2296,6 +2296,28 @@
       "duration_ms": 182500,
       "name": "Fallito",
       "url": "https://open.spotify.com/track/5SkOX9LGHGBQWn8OLmNEjO"
+    },
+    {
+      "album": {
+        "name": "CALCINACCI",
+        "url": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191199,
+      "name": "Fantasia 2000 (con Franco126)",
+      "url": "https://open.spotify.com/track/19uOf45JYsppo49a8jiMt6"
     },
     {
       "album": {
@@ -3923,6 +3945,32 @@
     },
     {
       "album": {
+        "name": "La mia luce",
+        "url": "https://open.spotify.com/album/5M0phk6dYixgjI3M9n2ZUY"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        },
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        },
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164869,
+      "name": "La mia luce",
+      "url": "https://open.spotify.com/track/7oDYfYCunY45lMFBwuCZFe"
+    },
+    {
+      "album": {
         "name": "La mia preghiera (feat. Sick Tamburo)",
         "url": "https://open.spotify.com/album/7E5wvDTv3sh4PPeltBtfyo"
       },
@@ -4515,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "CALCINACCI",
+        "url": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93"
+      },
+      "artists": [
+        {
+          "name": "Fulminacci",
+          "url": "https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179284,
+      "name": "Maledetto me",
+      "url": "https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6"
+    },
+    {
+      "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp"
       },
@@ -4842,7 +4908,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 134924,
       "name": "mia",
       "url": "https://open.spotify.com/track/2PP6LXaNeA4hTWxq2FVOnr"
@@ -6821,6 +6887,24 @@
     },
     {
       "album": {
+        "name": "Ritorneremo a guardare il Cielo",
+        "url": "https://open.spotify.com/album/0sDJcMrutg2iXvyGPcHDIP"
+      },
+      "artists": [
+        {
+          "name": "Lamante",
+          "url": "https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228658,
+      "name": "Ritorneremo a guardare il Cielo",
+      "url": "https://open.spotify.com/track/1fTVs2Yk7n2YfcdaGTMt5b"
+    },
+    {
+      "album": {
         "name": "RITRATTI",
         "url": "https://open.spotify.com/album/6ABkTNfPckRX79hkmCV92H"
       },
@@ -7522,7 +7606,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161413,
       "name": "Sono pazzo (con Fulminacci)",
       "url": "https://open.spotify.com/track/0ZguavIMCkppK1SLut2xDZ"
@@ -8850,10 +8934,28 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 197996,
       "name": "Verdeforesta",
       "url": "https://open.spotify.com/track/7bjv3V9G6k9sbTyqVEtYrI"
+    },
+    {
+      "album": {
+        "name": "il dolce ricordo della nostra disperata giovent\u00f9",
+        "url": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD"
+      },
+      "artists": [
+        {
+          "name": "faccianuvola",
+          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "verticale",
+      "url": "https://open.spotify.com/track/7CRiclkzpprFei2hnUagca"
     },
     {
       "album": {

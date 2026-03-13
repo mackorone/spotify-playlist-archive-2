@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,000 likes - 581 songs - 1 day 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,014 likes - 581 songs - 1 day 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -404,8 +404,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 394 | [You Can't Lose Me](https://open.spotify.com/track/5BHDp0MlIMLiD9CXh8yhu0) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [02](https://open.spotify.com/album/7iVHDgfwwIh0dfRT8AqghK) | 3:40 |
 | 395 | [Central Park Serenade](https://open.spotify.com/track/0kWkx7ZASlFDwlOf0oelZg) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Christmas In New York](https://open.spotify.com/album/5kxfHvomY2PCiPIvW9esZd) | 4:12 |
 | 396 | [One More Mountain \(Free Again\)](https://open.spotify.com/track/0k4X5Ikasw226QDLnOnL6F) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [The Hurricane \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs) | 3:41 |
-| 397 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 |
-| 398 | [When You Walk Away](https://open.spotify.com/track/4lmb9BoFcfF2ATMZhdH09r) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 4:21 |
+| 397 | [When You Walk Away](https://open.spotify.com/track/4lmb9BoFcfF2ATMZhdH09r) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Living Proof](https://open.spotify.com/album/6wObbsRHMxZIo06tP3hYTa) | 4:21 |
+| 398 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 |
 | 399 | [Criminal](https://open.spotify.com/track/36vQKh4VpaEqz6ODUVSmR8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Nobody Really Knows](https://open.spotify.com/album/0H8xToIay5IeC3CXh60qHF) | 2:45 |
 | 400 | [A Heart Can Only Be So Strong](https://open.spotify.com/track/0wkMXY8Q59u3QLGMLTYMwb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:00 |
 | 401 | [The Only Good Thing \(You Ever Said Was Goodbye\)](https://open.spotify.com/track/0AiTstGRHGrTNKqMisi2Rn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Notorious](https://open.spotify.com/album/5KztrAgu5Q8ZbNhDyPvSxS) | 4:26 |
@@ -564,8 +564,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 554 | [Please \(Dreams\)](https://open.spotify.com/track/1EsNIWbFSDLioy2DyVUcyZ) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 4:03 |
 | 555 | [Loving You Is All I Know](https://open.spotify.com/track/2IKxEzeJaEDioeuxVMxtCs) | [Christina Undhjem](https://open.spotify.com/artist/32eduOoS9D0HT4LwQBkwp0) | [Christina Undhjem EP](https://open.spotify.com/album/77GQSMnOaY5HxEPVpFzkf9) | 3:59 |
 | 556 | [Missin' You Now](https://open.spotify.com/track/0wQyoYLuHGqDoW2N5r49q7) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [1993 Reggae Sumfest \- Live in Jamaica Vol\. 2](https://open.spotify.com/album/1oPzZ8ufYSzMXHbMEenx13) | 2:52 |
-| 557 | [Why Can't I?](https://open.spotify.com/track/3LRypkrjihgVnSwZRgtPrA) | [Blake](https://open.spotify.com/artist/14gwq97kYFSF26mMyHAus2) | [Start Over](https://open.spotify.com/album/2D21gBgqWGyQaklwrrmyk4) | 4:00 |
-| 558 | [Un sens à ma vie \(Version masterisée 2021\)](https://open.spotify.com/track/4JTCKjMhfCBxT9rduhI2oz) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Laura Mayne\-Kerbrat](https://open.spotify.com/album/2S7cfOfDTreaJ7TFbD7U3a) | 4:23 |
+| 557 | [Un sens à ma vie \(Version masterisée 2021\)](https://open.spotify.com/track/4JTCKjMhfCBxT9rduhI2oz) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Laura Mayne\-Kerbrat](https://open.spotify.com/album/2S7cfOfDTreaJ7TFbD7U3a) | 4:23 |
+| 558 | [Why Can't I?](https://open.spotify.com/track/3LRypkrjihgVnSwZRgtPrA) | [Blake](https://open.spotify.com/artist/14gwq97kYFSF26mMyHAus2) | [Start Over](https://open.spotify.com/album/2D21gBgqWGyQaklwrrmyk4) | 4:00 |
 | 559 | [Se te ne vai così \(I Want It to Be Me\)](https://open.spotify.com/track/2UqdjQvvWeqgHknG51BjQw) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB) | [Gli Occhi Grandi Della Luna](https://open.spotify.com/album/1JHneLmyAZl9s2cUaZHjTt) | 3:47 |
 | 560 | [Your Lover](https://open.spotify.com/track/12qV0Jjwu2MwtaV6eOtK79) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Makin' My Way](https://open.spotify.com/album/4I2owAJAzxjTlCSQe7R8DP) | 3:40 |
 | 561 | [Fine Line](https://open.spotify.com/track/0RjH82GUS8gN68oNPpNHSp) | [Bunny Debarge](https://open.spotify.com/artist/08ogPyhMUxFAl78GUFSrQj) | [In Love](https://open.spotify.com/album/2NB5vsJ8lUOghnTO66mhvV) | 4:58 |
@@ -590,4 +590,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 580 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 581 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcL4FgAAAAByVoMbGRq8Rp5fxK1cmsxo`
+Snapshot ID: `AcL9tgAAAAC649ahVkYzKV9aNARIbMKJ`

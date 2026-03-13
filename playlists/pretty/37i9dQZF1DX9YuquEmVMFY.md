@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > \[CAN’T RUSH GREATNESS WORLD TOUR\] 03.14 @ 킨텍스 제2전시장 9홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,925 likes - 20 songs - 54 min 49 sec
+[Spotify](https://open.spotify.com/user/spotify) - 39,993 likes - 20 songs - 54 min 49 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [5 Star](https://open.spotify.com/track/13LV3dDmEmDqiZuLWsrPUZ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1AMLmQdsGMuPwx0fUjzP18) | 2:40 |
 | 20 | [Gata \(feat\. Young Miko\)](https://open.spotify.com/track/1Tfj7wtRzWcGnV1bGayUBM) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1AMLmQdsGMuPwx0fUjzP18) | 3:25 |
 
-Snapshot ID: `AAAAAM4ZvyTjxgCf83VBIOchszGLFJ+q`
+Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`

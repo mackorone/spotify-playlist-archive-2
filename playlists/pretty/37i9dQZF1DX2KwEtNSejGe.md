@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 
 > the ones you can't sing loud enough
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,242 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,514 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KwEtNSejGe.md) - [plain]
 | 99 | [Superstar](https://open.spotify.com/track/3oobWqIgYrSRg18uqRuPIF) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/0XUV61T420G79IxYhTzrX7) | 3:35 |
 | 100 | [How We Do \(Party\)](https://open.spotify.com/track/1dsndFSRXSoQFLjSJ6uPpG) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA Deluxe](https://open.spotify.com/album/3KrONVBdZc7AhGf4v7imlo) | 4:07 |
 
-Snapshot ID: `AAAAAIeSUZ4PniGNFzBu6KalCUxwveGm`
+Snapshot ID: `AAAAACgkl7HAs09jp0LcTRtuo4dEBou0`

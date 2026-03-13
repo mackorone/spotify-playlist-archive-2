@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: UNLIMITED SOUL",
+  "description": "The best dance hits in Africa. Cover: Shandesh",
   "name": "mint Africa",
   "tracks": [
     {
@@ -4772,7 +4772,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 187102,
       "name": "Born A Miracle",
       "url": "https://open.spotify.com/track/7fSDwC0IoCnoclhdhlSanc"
@@ -14963,6 +14963,32 @@
     },
     {
       "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/3QxJkbo1wW4vrbNPHQlNF1"
+      },
+      "artists": [
+        {
+          "name": "Shandesh",
+          "url": "https://open.spotify.com/artist/5ZJCmUoFCgVzfXtralZ9Wy"
+        },
+        {
+          "name": "Thatohatsi",
+          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
+        },
+        {
+          "name": "King Salah",
+          "url": "https://open.spotify.com/artist/7pjNRv5i1KBe7oPzdys04w"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266731,
+      "name": "Ke lekile",
+      "url": "https://open.spotify.com/track/5sHXRFxFhwX9geosXPWHQQ"
+    },
+    {
+      "album": {
         "name": "Keep Me High",
         "url": "https://open.spotify.com/album/065aFjKRHpVIreG9AXeJmg"
       },
@@ -18329,6 +18355,32 @@
     },
     {
       "album": {
+        "name": "Mean 2 Me",
+        "url": "https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm"
+      },
+      "artists": [
+        {
+          "name": "Skyla Tylaa",
+          "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267904,
+      "name": "Mean 2 Me",
+      "url": "https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc"
+    },
+    {
+      "album": {
         "name": "Melanin",
         "url": "https://open.spotify.com/album/1oHJYIR1FdKcxBwYMcLWXE"
       },
@@ -20960,7 +21012,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 404244,
       "name": "Nomathemba",
       "url": "https://open.spotify.com/track/65XFPPDBgBeJ5BeXZ8Sb1k"
@@ -31044,7 +31096,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 374237,
-      "name": "Vele Uyena (Risk It All) (feat. JAZZWRLD, Thukuthela, Elaine & Solaariss)",
+      "name": "Vele Uyena (Risk It All) (feat. Elaine, JAZZWRLD, Thukuthela & Solaariss)",
       "url": "https://open.spotify.com/track/1YwkMl9hCzyinkiioqo6kl"
     },
     {

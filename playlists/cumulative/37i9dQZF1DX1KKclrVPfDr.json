@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 375000,
       "name": "Purain Paat Par",
       "url": "https://open.spotify.com/track/3RuAcWipM4CYbMzQ4zCh5H"
@@ -1474,6 +1474,24 @@
       "duration_ms": 220844,
       "name": "Senurwa Singar Hokhela",
       "url": "https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET"
+    },
+    {
+      "album": {
+        "name": "Beti Ke Biaah",
+        "url": "https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504373,
+      "name": "Shaadi Ke Bandan",
+      "url": "https://open.spotify.com/track/5Ju0yXlVpxYw8DjdMRFzwQ"
     },
     {
       "album": {

@@ -9608,6 +9608,32 @@
     {
       "album": {
         "name": "Tholi Prema",
+        "url": "https://open.spotify.com/album/3Fg6AMNJy3EcRsTpgIStGM"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Sterlin Nithya",
+          "url": "https://open.spotify.com/artist/5wAHgitCqGE2CIxPWWd9To"
+        },
+        {
+          "name": "Anirudh Shandilya Maramraju",
+          "url": "https://open.spotify.com/artist/5A40qkks1e66VxtdLbbdzo"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278117,
+      "name": "Tholi Prema",
+      "url": "https://open.spotify.com/track/1n0vHglFsfr7zFQOybh9IA"
+    },
+    {
+      "album": {
+        "name": "Tholi Prema",
         "url": "https://open.spotify.com/album/2pytPP49fk3VAMPBo9wmbH"
       },
       "artists": [

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: ANOTR",
+  "description": "The home for alternative electronic music. Cover: Chase & Status, Pozer",
   "name": "Altar",
   "tracks": [
     {
@@ -6699,6 +6699,28 @@
     },
     {
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/2rVrgKwvQKGHe9wPjvpsDa"
+      },
+      "artists": [
+        {
+          "name": "Shy One",
+          "url": "https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ"
+        },
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253725,
+      "name": "Driving On Sand",
+      "url": "https://open.spotify.com/track/1XKrSSrclVXSAsrTK0E6y9"
+    },
+    {
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/019wTqhJwTtwhq3IktOPcd"
       },
@@ -9334,7 +9356,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 225454,
       "name": "Free Falling",
       "url": "https://open.spotify.com/track/2OtkVJa0TqrxTSFRfGapXE"
@@ -9934,6 +9956,24 @@
       "duration_ms": 236220,
       "name": "Gild",
       "url": "https://open.spotify.com/track/1xCle6fuuS62o6in7g8GA9"
+    },
+    {
+      "album": {
+        "name": "Gimme A Break A Second",
+        "url": "https://open.spotify.com/album/28x8w3eJyDGmZFLAMSXZZQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208322,
+      "name": "Gimme A Break A Second",
+      "url": "https://open.spotify.com/track/43MpbqyVNmucjUDki9eoS6"
     },
     {
       "album": {
@@ -14852,7 +14892,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 251575,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn"
@@ -15988,7 +16028,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 249500,
       "name": "Milk",
       "url": "https://open.spotify.com/track/0pqghHQoDVBTcsImBKFmHy"
@@ -19392,6 +19432,24 @@
       "duration_ms": 193864,
       "name": "Proud - Dance System Remix",
       "url": "https://open.spotify.com/track/7miCWmqkll2P2MLiG58sUk"
+    },
+    {
+      "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "album": {
@@ -24150,7 +24208,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 207272,
       "name": "The Boy",
       "url": "https://open.spotify.com/track/4sJj3nlx2SO2YJCV13T2CZ"
@@ -25032,6 +25090,28 @@
       "duration_ms": 495858,
       "name": "Three Drums",
       "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
+    },
+    {
+      "album": {
+        "name": "Through The Pain (feat. Pozer)",
+        "url": "https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "Through The Pain (feat. Pozer)",
+      "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
     },
     {
       "album": {

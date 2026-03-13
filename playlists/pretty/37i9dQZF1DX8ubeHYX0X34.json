@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
-  "num_followers": 67834,
+  "num_followers": 67845,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Umeed",
-        "url": "https://open.spotify.com/album/1F85DgYW3VUUaruks6xpnq"
-      },
-      "artists": [
-        {
-          "name": "Bilal Khan",
-          "url": "https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI"
-        }
-      ],
-      "duration_ms": 216970,
-      "name": "Bachana",
-      "url": "https://open.spotify.com/track/0EEqTP594cPCt6YYx1dpKh"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Azadi",
         "url": "https://open.spotify.com/album/5xLL0ENxSbpHlSjstHntIM"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 304333,
       "name": "Sayonee",
       "url": "https://open.spotify.com/track/075QYa566prNemChnZDEY1"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Umeed",
+        "url": "https://open.spotify.com/album/1F85DgYW3VUUaruks6xpnq"
+      },
+      "artists": [
+        {
+          "name": "Bilal Khan",
+          "url": "https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI"
+        }
+      ],
+      "duration_ms": 216970,
+      "name": "Bachana",
+      "url": "https://open.spotify.com/track/0EEqTP594cPCt6YYx1dpKh"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Zinda",
+        "url": "https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        }
+      ],
+      "duration_ms": 316653,
+      "name": "Yeh Hai Meri Kahani (Version I)",
+      "url": "https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 424505,
       "name": "Jal Pari",
       "url": "https://open.spotify.com/track/3O3txttHVdh3sNEDt2yANj"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Zinda",
-        "url": "https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M"
-      },
-      "artists": [
-        {
-          "name": "Strings",
-          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
-        }
-      ],
-      "duration_ms": 316653,
-      "name": "Yeh Hai Meri Kahani (Version I)",
-      "url": "https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Best of Siege",
-        "url": "https://open.spotify.com/album/55tD7F8Levcnd2y2OWMhk1"
+        "name": "Ishq KI Subah",
+        "url": "https://open.spotify.com/album/6yKEf5Fjf27qnreOm4adRB"
       },
       "artists": [
         {
-          "name": "Siege",
-          "url": "https://open.spotify.com/artist/5Q2KMZcKYzQLN0kH3D4SPx"
+          "name": "Faraz Anwar",
+          "url": "https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep"
         }
       ],
-      "duration_ms": 220395,
-      "name": "Police",
-      "url": "https://open.spotify.com/track/7EoXTEs8h0V6rZ0E9iBFlH"
+      "duration_ms": 271999,
+      "name": "Ujaloun Mein",
+      "url": "https://open.spotify.com/track/3DFT1hfyJl6FRKbvPmn1nn"
     }
   ],
   "unique_name": "All Time Pakistani Hits",

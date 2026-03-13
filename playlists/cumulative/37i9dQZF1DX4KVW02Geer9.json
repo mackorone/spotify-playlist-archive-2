@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: aron!",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Tom Misch",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 230247,
       "name": "Chemical Star",
       "url": "https://open.spotify.com/track/0f2mvm0udzDiqsKOkDWWiC"
@@ -2194,10 +2194,32 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 171199,
       "name": "Daylight Dreaming",
       "url": "https://open.spotify.com/track/3zQrllUTQeNu5pxdeH9OjB"
+    },
+    {
+      "album": {
+        "name": "Days Of Us",
+        "url": "https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Kaidi Akinnibi",
+          "url": "https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279682,
+      "name": "Days Of Us (feat. Kaidi Akinnibi)",
+      "url": "https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO"
     },
     {
       "album": {
@@ -2284,7 +2306,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 124200,
       "name": "Dersen Cafe",
       "url": "https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu"
@@ -2730,7 +2752,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 293040,
       "name": "Eternal Reflections (feat. Yussef Dayes)",
       "url": "https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm"
@@ -3496,7 +3518,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 435654,
       "name": "Gnawa",
       "url": "https://open.spotify.com/track/7BXa6HC5lF5HsZsWvOfTll"
@@ -7548,7 +7570,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156538,
       "name": "red in tokyo",
       "url": "https://open.spotify.com/track/4ENpPwWJZlmLwFO1XlfOjE"
@@ -7774,7 +7796,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 275005,
       "name": "Run Like The River",
       "url": "https://open.spotify.com/track/1JEcUbOx7s9PshQORndzlW"
@@ -9139,6 +9161,28 @@
     },
     {
       "album": {
+        "name": "ThunderWave",
+        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "ThunderWave",
+      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+    },
+    {
+      "album": {
         "name": "Thus Sayeth The Lorde",
         "url": "https://open.spotify.com/album/0JvyrqS35YbNV4fY8tzySu"
       },
@@ -9500,6 +9544,28 @@
       "duration_ms": 321323,
       "name": "Unafraid",
       "url": "https://open.spotify.com/track/4y9X3vl2VYtSzhlrhiK93s"
+    },
+    {
+      "album": {
+        "name": "Under the Big Top / Tall Man",
+        "url": "https://open.spotify.com/album/4lEwK9OpYOy5rgck9tIklk"
+      },
+      "artists": [
+        {
+          "name": "Solitary Circus",
+          "url": "https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3"
+        },
+        {
+          "name": "Madoki Yamasaki",
+          "url": "https://open.spotify.com/artist/4h7zqN5uuUd5hwJVTe4Q4j"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229053,
+      "name": "Under the Big Top",
+      "url": "https://open.spotify.com/track/1j19yNXdYBZ8qz2Lf8TYdx"
     },
     {
       "album": {

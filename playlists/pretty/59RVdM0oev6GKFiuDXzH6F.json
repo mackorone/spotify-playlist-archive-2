@@ -6,8 +6,48 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAROrD8jGPeYIT8SbVs3IXRjikzw6ph",
+  "snapshot_id": "AAARPLbINjo3XyPYhKYEa72b/fO54pJN",
   "tracks": [
+    {
+      "added_at": "2026-03-12 23:00:15",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/2LxV8acLKGaFMWwKKgpsV3"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/47z7oDHkBMIkaRBhU8lEuW"
+    },
+    {
+      "added_at": "2026-03-12 23:00:17",
+      "album": {
+        "name": "Ultra Love",
+        "url": "https://open.spotify.com/album/3YbYur6Wonv1WNpZwWfSol"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Brieanna Grace",
+          "url": "https://open.spotify.com/artist/5tpQ8DM8YGZRtBI0zyxTwg"
+        }
+      ],
+      "duration_ms": 203516,
+      "name": "Ultra Love",
+      "url": "https://open.spotify.com/track/6TgbVQLnt84Cj47xaIfNTi"
+    },
     {
       "added_at": "2026-03-06 09:03:02",
       "album": {

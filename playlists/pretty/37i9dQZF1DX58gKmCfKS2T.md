@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58gKmCfKS2T.md) - [plain]
 
 > Marking hip\-hop's 50th anniversary with the most streamed rap songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,933 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,015 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

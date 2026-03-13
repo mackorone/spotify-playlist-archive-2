@@ -1,13 +1,29 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Sinach",
-  "num_followers": 55826,
+  "num_followers": 55854,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdrOR1VZdZKhsWzoIvSnRg3K3OE",
+  "snapshot_id": "AAAAAMbjRwrw7n0AwvNkKmcg5UxldEEp",
   "tracks": [
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Amen Amen, Blessing and Glory",
+        "url": "https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        }
+      ],
+      "duration_ms": 154325,
+      "name": "Amen Amen, Blessing and Glory",
+      "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
+    },
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
@@ -37,56 +53,36 @@
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
     },
     {
-      "added_at": "2025-07-18 00:01:14",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
+        "name": "Reckless Lover",
+        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
         }
       ],
-      "duration_ms": 333386,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
+      "duration_ms": 537386,
+      "name": "Reckless Lover",
+      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
-      "added_at": "2026-02-27 00:01:20",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "TAMUNO",
-        "url": "https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1"
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
       },
       "artists": [
         {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
         }
       ],
-      "duration_ms": 156631,
-      "name": "TAMUNO",
-      "url": "https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
       "added_at": "2026-03-02 12:02:58",
@@ -169,6 +165,22 @@
       "url": "https://open.spotify.com/track/3tpJBR2KkjeXIJ3I8Bs35P"
     },
     {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "My Lovaa",
+        "url": "https://open.spotify.com/album/1Kebf3KL7OYy9DMhNETrKk"
+      },
+      "artists": [
+        {
+          "name": "StraTeGee",
+          "url": "https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR"
+        }
+      ],
+      "duration_ms": 207894,
+      "name": "My Lovaa",
+      "url": "https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4"
+    },
+    {
       "added_at": "2025-12-26 00:01:41",
       "album": {
         "name": "Egwu Ekele",
@@ -213,36 +225,124 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
-      "added_at": "2025-10-17 00:01:26",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "Thank You Jesus",
-        "url": "https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4"
+        "name": "Your Name (Jehovah)",
+        "url": "https://open.spotify.com/album/3pGUVEyrGU4ZdOsV4K7DRX"
       },
       "artists": [
         {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+          "name": "Sarah Wonders",
+          "url": "https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo"
         }
       ],
-      "duration_ms": 562626,
-      "name": "Thank You Jesus",
-      "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
+      "duration_ms": 261600,
+      "name": "Your Name (Jehovah)",
+      "url": "https://open.spotify.com/track/1aXDzj3j8C7vz5hlSUgUWZ"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Rays Of Tamara",
+        "url": "https://open.spotify.com/album/31Ph0MBb9Y85Q8VqwA0Moi"
+      },
+      "artists": [
+        {
+          "name": "Tamar\u00e1",
+          "url": "https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/37vfiHVsdmfJ9YYpvQn7w8"
+    },
+    {
+      "added_at": "2025-07-18 00:01:14",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/7HNYFbvMJdUyD7oiUTTXRg"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 333386,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
     },
     {
       "added_at": "2026-02-27 00:01:20",
       "album": {
-        "name": "UZWAZO ME",
-        "url": "https://open.spotify.com/album/4mEDVhMAcz8SqSGi2YxOfJ"
+        "name": "Your Presence",
+        "url": "https://open.spotify.com/album/3M4GSnoWcAoeHA1Ubo6UJP"
       },
       "artists": [
         {
-          "name": "Naomi Classik",
-          "url": "https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW"
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
         }
       ],
-      "duration_ms": 267679,
-      "name": "UZWAZO ME",
-      "url": "https://open.spotify.com/track/2QnLiyTitKVp7HUJTewKwz"
+      "duration_ms": 295687,
+      "name": "Your Presence",
+      "url": "https://open.spotify.com/track/1ltbxXZhq2pdWcOmo8HXL6"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh"
+    },
+    {
+      "added_at": "2025-12-26 00:01:41",
+      "album": {
+        "name": "Titilailai",
+        "url": "https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Gospel Wills",
+          "url": "https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "Titilailai",
+      "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
+    },
+    {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Repairman",
+        "url": "https://open.spotify.com/album/5kHJz08R4LRFGFiUurfSkm"
+      },
+      "artists": [
+        {
+          "name": "Israel the creator",
+          "url": "https://open.spotify.com/artist/5SATwYWqLzEg84BWHdQjmX"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/57H3m5G16XYRB2KeEdqU4M"
     },
     {
       "added_at": "2025-06-06 00:01:28",
@@ -281,90 +381,6 @@
       "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
     },
     {
-      "added_at": "2026-02-27 00:01:20",
-      "album": {
-        "name": "Your Presence",
-        "url": "https://open.spotify.com/album/3M4GSnoWcAoeHA1Ubo6UJP"
-      },
-      "artists": [
-        {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 295687,
-      "name": "Your Presence",
-      "url": "https://open.spotify.com/track/1ltbxXZhq2pdWcOmo8HXL6"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Holy Forever",
-        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 308066,
-      "name": "Holy Forever",
-      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
-    },
-    {
-      "added_at": "2025-12-26 00:01:41",
-      "album": {
-        "name": "Titilailai",
-        "url": "https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Gospel Wills",
-          "url": "https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "Titilailai",
-      "url": "https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G"
-    },
-    {
-      "added_at": "2025-07-28 09:19:33",
-      "album": {
-        "name": "Refresh",
-        "url": "https://open.spotify.com/album/3llWrDIH2w699etgKIvMHG"
-      },
-      "artists": [
-        {
-          "name": "Oge Stan",
-          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Refresh",
-      "url": "https://open.spotify.com/track/4389ZHH3tiQzRgThj2dobk"
-    },
-    {
-      "added_at": "2026-01-23 00:01:16",
-      "album": {
-        "name": "We Raise a Sound",
-        "url": "https://open.spotify.com/album/0l1LJyoNwsfrke5QjfM8v3"
-      },
-      "artists": [
-        {
-          "name": "Mour Raguel",
-          "url": "https://open.spotify.com/artist/5K9fToEU0EtgqJj3y2UL4z"
-        }
-      ],
-      "duration_ms": 180192,
-      "name": "We Raise a Sound",
-      "url": "https://open.spotify.com/track/334MZUSITwEEyzKnB9dwEE"
-    },
-    {
       "added_at": "2025-10-17 00:01:26",
       "album": {
         "name": "In Christ Alone",
@@ -385,40 +401,40 @@
       "url": "https://open.spotify.com/track/781KXCX8oa31Rldiq8at2l"
     },
     {
-      "added_at": "2025-10-17 00:01:26",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "Benefit",
-        "url": "https://open.spotify.com/album/67V2Bol3ar6ZqB5PXL7MQ8"
+        "name": "247",
+        "url": "https://open.spotify.com/album/25QhVwbPJYv8ZJF3feFyiV"
       },
       "artists": [
         {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+          "name": "BELIVAS",
+          "url": "https://open.spotify.com/artist/6upU4ND688RA6rchdIyIqB"
         },
         {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+          "name": "Quabena Asare",
+          "url": "https://open.spotify.com/artist/3ZSpS98h6E0yAk1kc1dNgd"
         }
       ],
-      "duration_ms": 419027,
-      "name": "Benefit",
-      "url": "https://open.spotify.com/track/36sznNt2BniOB8BWYpWYmP"
+      "duration_ms": 186746,
+      "name": "247",
+      "url": "https://open.spotify.com/track/4yLzE1Rbcr668MMGjVMOnK"
     },
     {
-      "added_at": "2025-12-12 00:01:22",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "Giver of Good Things",
-        "url": "https://open.spotify.com/album/6jUm0DbfPTh0KQlPDMj10E"
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/6x77fLgyIqVac6LncFAA22"
       },
       "artists": [
         {
-          "name": "Joseph Briggs",
-          "url": "https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 148977,
-      "name": "Giver of Good Things",
-      "url": "https://open.spotify.com/track/4aDY4firFK9JKg6AgpPHwP"
+      "duration_ms": 308066,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
     },
     {
       "added_at": "2025-10-17 00:01:26",
@@ -441,24 +457,24 @@
       "url": "https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz"
     },
     {
-      "added_at": "2025-07-18 00:01:14",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+        "name": "In Awe",
+        "url": "https://open.spotify.com/album/1ieIcg5R1XJxMIRFJSfGhs"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Hi-Bred",
+          "url": "https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
         }
       ],
-      "duration_ms": 455007,
-      "name": "Goodness of God",
-      "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
+      "duration_ms": 279352,
+      "name": "In Awe",
+      "url": "https://open.spotify.com/track/4Y54TudheWIYrglYTNsmPn"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -493,6 +509,26 @@
       "url": "https://open.spotify.com/track/2QbgofsZEpfnFtEEis9TIN"
     },
     {
+      "added_at": "2025-07-18 00:01:14",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 455007,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
+    },
+    {
       "added_at": "2024-07-05 00:01:00",
       "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
@@ -511,22 +547,6 @@
       "duration_ms": 646239,
       "name": "Promises (feat. Joe L Barnes, Naomi Raine)",
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
-    },
-    {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Look Now",
-        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
-      },
-      "artists": [
-        {
-          "name": "SONOJ ONOJA",
-          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
-        }
-      ],
-      "duration_ms": 299154,
-      "name": "Look Now",
-      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
     },
     {
       "added_at": "2024-04-05 00:01:00",

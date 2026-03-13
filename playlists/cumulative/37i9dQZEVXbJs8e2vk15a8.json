@@ -4775,6 +4775,52 @@
     },
     {
       "album": {
+        "name": "Amor de Colegio",
+        "url": "https://open.spotify.com/album/5MhSnxb8rLa8Xj7Es766Mb"
+      },
+      "artists": [
+        {
+          "name": "Luxian",
+          "url": "https://open.spotify.com/artist/6pU1pqpZXzQZIQizJpYv95"
+        },
+        {
+          "name": "Andresito Otro Corte",
+          "url": "https://open.spotify.com/artist/6q8z8dubMZel54z4mYu1Oo"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        },
+        {
+          "name": "Bastian la amenaza",
+          "url": "https://open.spotify.com/artist/5I82UfLyXBgRWAvyN8wOv3"
+        },
+        {
+          "name": "Chuchu Retro",
+          "url": "https://open.spotify.com/artist/3BhLm0rzP3kwnkLj7yXAaI"
+        },
+        {
+          "name": "Uzbell",
+          "url": "https://open.spotify.com/artist/5vNX65u7OL1zJMWzzAdLzO"
+        },
+        {
+          "name": "Boss Supreme Lyrics",
+          "url": "https://open.spotify.com/artist/7ccXfHEn2V8jbGGALrk0RQ"
+        },
+        {
+          "name": "Yong Bryel",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289181,
+      "name": "Amor de Colegio",
+      "url": "https://open.spotify.com/track/1mVr9nlGK8jcvEpDroZKlw"
+    },
+    {
+      "album": {
         "name": "Amor de Vago",
         "url": "https://open.spotify.com/album/7dIwIFhUC8xNF0bICvgMX2"
       },
@@ -11940,7 +11986,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-17",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/4txaBpmZBOneum5HnxKKnJ"
@@ -37474,10 +37520,32 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 193800,
       "name": "Las Mu\u00f1equitas",
       "url": "https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f"
+    },
+    {
+      "album": {
+        "name": "Las Mu\u00f1equitas",
+        "url": "https://open.spotify.com/album/2w7YR5gaVkKxrUMfnfEEnz"
+      },
+      "artists": [
+        {
+          "name": "Mr Plata",
+          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Las Mu\u00f1equitas",
+      "url": "https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr"
     },
     {
       "album": {
@@ -39369,6 +39437,24 @@
     },
     {
       "album": {
+        "name": "Looping the Rooms",
+        "url": "https://open.spotify.com/album/3xB1SXkPuXWtu1GARaRLf2"
+      },
+      "artists": [
+        {
+          "name": "rusino",
+          "url": "https://open.spotify.com/artist/2p6kVvES1aPMkHsz22JukH"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134141,
+      "name": "Looping the Rooms",
+      "url": "https://open.spotify.com/track/6IvPX0MmJo8Z1RswPfZUmO"
+    },
+    {
+      "album": {
         "name": "Looping the Rooms / Lambent Aria",
         "url": "https://open.spotify.com/album/6MyiYxY7PsY0aHp1PjA5KM"
       },
@@ -39384,7 +39470,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -40838,7 +40924,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
@@ -46498,7 +46584,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 255800,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/2TOsEYW3J1miYhmEeI9yBW"
@@ -48814,7 +48900,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 146302,
       "name": "No Es Mi Culpa (Remix)",
       "url": "https://open.spotify.com/track/60iSYaCH7YByeOonVbu77s"
@@ -67256,7 +67342,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177336,
       "name": "suficiente.",
       "url": "https://open.spotify.com/track/0jJwHCq4QHtZX20OvkYBSq"

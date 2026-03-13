@@ -687,22 +687,6 @@
     {
       "added_at": "2026-03-09 02:19:56",
       "album": {
-        "name": "To.",
-        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "dear my loves",
-      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
-    },
-    {
-      "added_at": "2026-03-09 02:19:56",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 245000,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
+    },
+    {
+      "added_at": "2026-03-09 02:19:56",
+      "album": {
+        "name": "To.",
+        "url": "https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "dear my loves",
+      "url": "https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo"
     },
     {
       "added_at": "2026-03-09 02:19:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-03-09 02:19:56",
       "album": {
-        "name": "circle",
-        "url": "https://open.spotify.com/album/4BbksAHBI4aDCyWRgnyPan"
-      },
-      "artists": [
-        {
-          "name": "nardis",
-          "url": "https://open.spotify.com/artist/2zijxd48081ELuuNZ6L9I8"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "waves of breath",
-      "url": "https://open.spotify.com/track/5ajLX6U5w0toYHOuHLbYcw"
-    },
-    {
-      "added_at": "2026-03-09 02:19:56",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2026-03-09 02:19:56",
       "album": {
-        "name": "ONGI (Warmth)",
-        "url": "https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD"
+        "name": "circle",
+        "url": "https://open.spotify.com/album/4BbksAHBI4aDCyWRgnyPan"
       },
       "artists": [
         {
-          "name": "Kim Boogyeong",
-          "url": "https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs"
+          "name": "nardis",
+          "url": "https://open.spotify.com/artist/2zijxd48081ELuuNZ6L9I8"
         }
       ],
-      "duration_ms": 292276,
-      "name": "ONGI (Warmth)",
-      "url": "https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG"
+      "duration_ms": 214500,
+      "name": "waves of breath",
+      "url": "https://open.spotify.com/track/5ajLX6U5w0toYHOuHLbYcw"
+    },
+    {
+      "added_at": "2026-03-09 02:19:56",
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/5q19924bYcyPB5dvkivG84"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        }
+      ],
+      "duration_ms": 238575,
+      "name": "Hug Me (I'm In Your Arms)",
+      "url": "https://open.spotify.com/track/5X0bP6vFuvdHl57DWipVQB"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

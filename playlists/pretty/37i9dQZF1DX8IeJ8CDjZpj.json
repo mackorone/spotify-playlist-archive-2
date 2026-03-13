@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 94915,
+  "num_followers": 94944,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "What A Time To Be Alive",
-        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 205879,
-      "name": "Jumpman",
-      "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Amanecer (Remixed)",
         "url": "https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 251653,
       "name": "To My Love - Tainy Remix",
       "url": "https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 205879,
+      "name": "Jumpman",
+      "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Know-It-All (Deluxe)",
-        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/664gdARxaClFsoF5SXKOws"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Viejo Marihuano",
         "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 223560,
       "name": "Cul\u00f3n Culito",
       "url": "https://open.spotify.com/track/2JNqLKnqJejNzrmRLNFNFL"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Know-It-All (Deluxe)",
+        "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/664gdARxaClFsoF5SXKOws"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "New English",
-        "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
-      },
-      "artists": [
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Panda",
-      "url": "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Picky Back To The Roots",
         "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 182746,
       "name": "Picky",
       "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "New English",
+        "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Panda",
+      "url": "https://open.spotify.com/track/5YEOzOojehCqxGQCcQiyR4"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Dangerous Woman",
         "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Don't Mind",
-        "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
       "artists": [
         {
-          "name": "Kent Jones",
-          "url": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 198236,
-      "name": "Don't Mind",
-      "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
+      "duration_ms": 158000,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1459,6 +1443,22 @@
       "duration_ms": 201265,
       "name": "Back To Sleep",
       "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Don't Mind",
+        "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
+      },
+      "artists": [
+        {
+          "name": "Kent Jones",
+          "url": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+        }
+      ],
+      "duration_ms": 198236,
+      "name": "Don't Mind",
+      "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
     },
     {
       "added_at": "2026-01-23 01:08:49",

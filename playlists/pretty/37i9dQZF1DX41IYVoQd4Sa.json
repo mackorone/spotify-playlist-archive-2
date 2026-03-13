@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d4\u05d9\u05dc\u05d4 \u05e8\u05d5\u05d7",
-  "num_followers": 33398,
+  "num_followers": 33404,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
+        "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
         "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/1X7A7EhntT8Lk4c61oPFUL"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 208706,
       "name": "\u05d7\u05dc\u05e7 \u05dc\u05d0 \u05e0\u05e4\u05e8\u05d3 \u05de\u05d0\u05d7\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/7aOFrZTExl780REZ3CIFiN"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
-        "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
-        "url": "https://open.spotify.com/album/4rmIIrkqvUwGiFYfrIQ0uH"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "\u05d0\u05e4\u05e9\u05e8 \u05dc\u05e0\u05e9\u05d5\u05dd",
-      "url": "https://open.spotify.com/track/09zklQ120q209D3xXGrKnZ"
     },
     {
       "added_at": "2026-02-26 22:00:17",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/6Q3RF7PWI9eS8Cjn4hdIcG"
-      },
-      "artists": [
-        {
-          "name": "Assaf Amdursky",
-          "url": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/6L2JIHrrytMYeJIaSOcIdQ"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
         "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 180224,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6Q3RF7PWI9eS8Cjn4hdIcG"
+      },
+      "artists": [
+        {
+          "name": "Assaf Amdursky",
+          "url": "https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "\u05e2\u05d3 \u05e9\u05d9\u05e8\u05d3\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/6L2JIHrrytMYeJIaSOcIdQ"
     },
     {
       "added_at": "2026-02-26 22:00:17",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-26 22:00:17",
       "album": {
-        "name": "\u05d6\u05d0\u05ea \u05d4\u05e9\u05e0\u05d4 \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/0dYeKuFyewaXeFVJRiQYjf"
-      },
-      "artists": [
-        {
-          "name": "Hila Ruach",
-          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
-        }
-      ],
-      "duration_ms": 234821,
-      "name": "\u05d6\u05d0\u05ea \u05d4\u05e9\u05e0\u05d4 \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/6CFI2Rlg4WIjuDOhd26Tcn"
-    },
-    {
-      "added_at": "2026-02-26 22:00:17",
-      "album": {
         "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
         "url": "https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 362108,
       "name": "\u05de\u05ea\u05d7\u05d9\u05dc \u05dc\u05d4\u05ea\u05e2\u05d5\u05e8\u05e8",
       "url": "https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF"
+    },
+    {
+      "added_at": "2026-02-26 22:00:17",
+      "album": {
+        "name": "\u05d6\u05d0\u05ea \u05d4\u05e9\u05e0\u05d4 \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/0dYeKuFyewaXeFVJRiQYjf"
+      },
+      "artists": [
+        {
+          "name": "Hila Ruach",
+          "url": "https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P"
+        }
+      ],
+      "duration_ms": 234821,
+      "name": "\u05d6\u05d0\u05ea \u05d4\u05e9\u05e0\u05d4 \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/6CFI2Rlg4WIjuDOhd26Tcn"
     },
     {
       "added_at": "2026-02-26 22:00:17",

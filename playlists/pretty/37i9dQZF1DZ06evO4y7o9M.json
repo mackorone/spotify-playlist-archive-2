@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 933768,
+  "num_followers": 933953,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAACZj85hqlgouXyXy5zplm6g",
+  "snapshot_id": "abCwgAAAAAAVa2tZSLxEcaN6sMEvJboG",
   "tracks": [
     {
       "added_at": null,
@@ -38,15 +38,11 @@
         {
           "name": "Gael Valenzuela",
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 220467,
-      "name": "DROGA LETAL",
-      "url": "https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B"
+      "duration_ms": 221663,
+      "name": "DEMENCIA",
+      "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
     },
     {
       "added_at": null,
@@ -114,11 +110,15 @@
         {
           "name": "Gael Valenzuela",
           "url": "https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 221663,
-      "name": "DEMENCIA",
-      "url": "https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng"
+      "duration_ms": 220467,
+      "name": "DROGA LETAL",
+      "url": "https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B"
     },
     {
       "added_at": null,

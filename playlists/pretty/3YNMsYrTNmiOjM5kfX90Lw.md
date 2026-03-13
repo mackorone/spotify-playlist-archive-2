@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 479,468 likes - 50 songs - 2 hr 41 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 479,577 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 39 | [Get It All](https://open.spotify.com/track/0RaAhmoE4TuDFNt7ntHYvv) | [DecadeZ](https://open.spotify.com/artist/66rzsIT4PWKYvcxijbtXe1) | [Get It All](https://open.spotify.com/album/0SxW5xu8DQRATbKZpXhUyK) | 3:12 |
 | 40 | [In My Room \- 808 Remix](https://open.spotify.com/track/7eS6ZAaxIX5dyMoZ9pUEv9) | [Lucy Malheur](https://open.spotify.com/artist/2KrTxBdFjjEZyn0T8NnBUP), [Vaios Suarez](https://open.spotify.com/artist/5eiqrVse5cL5QKjJxasRyP) | [In My Room \(808 Remix\)](https://open.spotify.com/album/1VLzHT3nOO9LxHRjNHdR0U) | 4:51 |
 | 41 | [Tuesday](https://open.spotify.com/track/2W7MyG1hjT1LTxs8UWpzqX) | [ElMari.](https://open.spotify.com/artist/1VSbotQRFKXFhBzFesExdW) | [Beginnings](https://open.spotify.com/album/72dbJXc0UsTGsTwrryxN4A) | 2:48 |
-| 42 | [Perdona](https://open.spotify.com/track/6pQYt7w7U2FOxpWx1EVHjU) | [JÆ](https://open.spotify.com/artist/0p48oAFgm1n3c25au4mCQN) | [Perdona](https://open.spotify.com/album/7jh3GNg4o9YPMMzCppXAxH) | 3:05 |
+| 42 | [Perdona](https://open.spotify.com/track/6pQYt7w7U2FOxpWx1EVHjU) | [JÆ Music](https://open.spotify.com/artist/33xh6bw7RcrlmMFHyHiq7H) | [Perdona](https://open.spotify.com/album/7jh3GNg4o9YPMMzCppXAxH) | 3:05 |
 | 43 | [Zaman aldı](https://open.spotify.com/track/1pafF45EHzU9Mp3w5iEuvV) | [Ataman](https://open.spotify.com/artist/1WxKElrxd9U6GcTRjCBPiI) | [Atros](https://open.spotify.com/album/6zRxpSQSPgEhVj0KeYrMWn) | 1:59 |
 | 44 | [Merry Christmas Muthafuckas](https://open.spotify.com/track/0nOMTJHM2nhxxi1XCfV1KG) | [Chutch McGillicutty](https://open.spotify.com/artist/6Efd8h1oH1aqid40BIborp) | [DJ Jimmy Chimichanga's Choice Cuts](https://open.spotify.com/album/6m7B9RMCGQIcWxdeAbq8kg) | 2:54 |
 | 45 | [Bread Crumbs](https://open.spotify.com/track/0aQm8d1y4wNZH8QtIOFIac) | [Joey Splinter](https://open.spotify.com/artist/5G2P5679yuhtqcCG9Pmp7t) | [Bread Crumbs](https://open.spotify.com/album/4ecWb3zuAEWjBshhxZVOH1) | 2:15 |

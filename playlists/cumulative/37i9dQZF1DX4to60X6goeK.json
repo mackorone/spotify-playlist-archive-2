@@ -1459,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "Dragon Style",
+        "url": "https://open.spotify.com/album/0NJrj8gD8zMYzIIuu2mbFY"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176914,
+      "name": "Cost Of Living",
+      "url": "https://open.spotify.com/track/7frbuW4N5CoVYGkSnu4UIa"
+    },
+    {
+      "album": {
         "name": "Count To Ten (2024) / Break the Cycle",
         "url": "https://open.spotify.com/album/6vDQhJv8UlLNuoTGWKsSOG"
       },
@@ -1934,7 +1956,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 189767,
       "name": "Dopamine Hits",
       "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
@@ -5062,7 +5084,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 167314,
       "name": "PURPOSE",
       "url": "https://open.spotify.com/track/35mele207P8xoKXOsTh52L"
@@ -5939,6 +5961,28 @@
     },
     {
       "album": {
+        "name": "Spiders / King Cobra",
+        "url": "https://open.spotify.com/album/0HXm9NUQ9T1UXD34HotUyG"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/29ifn8acGobYLqQY5Tzpbm"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/1uPTyh9D2w6G1l6Hi6fU2k"
+    },
+    {
+      "album": {
         "name": "Spinning Method (Hedex Remix)",
         "url": "https://open.spotify.com/album/6FuW2K2H0iDbf5wZAIyemi"
       },
@@ -6118,6 +6162,24 @@
       "duration_ms": 275862,
       "name": "Steppa",
       "url": "https://open.spotify.com/track/1SNpDm3SL1p0S7vGWfWBxL"
+    },
+    {
+      "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/7LXcPDrT8Ldx3L1OqPjljq"
+      },
+      "artists": [
+        {
+          "name": "Primate",
+          "url": "https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233103,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/3QTI12GOy7qzizzwOb9Oi1"
     },
     {
       "album": {
@@ -6598,7 +6660,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178971,
       "name": "Told You (Soundboy)",
       "url": "https://open.spotify.com/track/2x79nmwPOZB3P9ObCa9QO1"

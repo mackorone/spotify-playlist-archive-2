@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best new AUS & NZ Rap\. Cover: Vv Pete, DEELA
+> The best new AUS & NZ Rap\. Cover: CV, D9ine
 
-1,498 songs - 2 day 21 hr 46 min
+1,500 songs - 2 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [Don't Blink](https://open.spotify.com/track/35KRLrWjVyWcm8wJgxZ2Ci) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Don't Blink](https://open.spotify.com/album/7uXJn8Yn0GKj7m69BcC7IY) | 2:11 | 2023-12-14 | 2024-04-26 |
 | [Don't Get Comfortable](https://open.spotify.com/track/522iAHYiLMmwUtC52S5Dae) | [Talakai](https://open.spotify.com/artist/1wgJmlMWk2CsiVCA7dyu8V) | [Don't Get Comfortable](https://open.spotify.com/album/0TM2tIXgE00r77Emcg7iWu) | 2:49 | 2022-05-12 | 2022-06-24 |
 | [Don't Get Lazy](https://open.spotify.com/track/0bcJAHzozttw6lsFTUoKOL) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Don't Get Lazy](https://open.spotify.com/album/2g1bX1yXG2OkfH7vKjB60D) | 2:04 | 2025-10-16 | 2026-01-15 |
-| [Don't Mean It](https://open.spotify.com/track/6Eyf6gW7hbSxDxANoojy3A) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Don't Mean It](https://open.spotify.com/album/4j4re3aRe0MGpNerHXlJJC) | 2:44 | 2025-12-18 |  |
+| [Don't Mean It](https://open.spotify.com/track/6Eyf6gW7hbSxDxANoojy3A) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Don't Mean It](https://open.spotify.com/album/4j4re3aRe0MGpNerHXlJJC) | 2:44 | 2025-12-18 | 2026-03-13 |
 | [DON'T TALK TO ME](https://open.spotify.com/track/3ZXzByu0ozYfDTwroDBaeS) | [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [DON'T TALK TO ME](https://open.spotify.com/album/7FwKaUCk0UtcE0QCRgP5oF) | 2:27 | 2025-06-12 | 2025-09-26 |
 | [Don't Trip](https://open.spotify.com/track/7wEEe15aeOHQcCZ0yybphn) | [Rhythm Sincere](https://open.spotify.com/artist/5zlqWsil12CiMq8Kx4b9y1), [T.G.T Reapa](https://open.spotify.com/artist/3dJtkoRhSwRCGSAVA0hxzT) | [Don't Trip](https://open.spotify.com/album/7qTnyr2pS2sll0XBIzJiMD) | 2:26 | 2025-02-06 | 2025-02-14 |
 | [Don't Trip \(feat\. Say True God? & Shely210\)](https://open.spotify.com/track/15J6D8yjrxlifw4Yi2jTsV) | [ENZO](https://open.spotify.com/artist/6QDf4GRNBNpCitIgKv0Ybe), [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [Don't Trip \(feat\. Say True God? & Shely210\)](https://open.spotify.com/album/3aGDf8hbcvkwgv1N57vuJn) | 2:47 | 2022-09-15 | 2023-03-10 |
@@ -431,6 +431,7 @@
 | [Final Resort \(feat\. Wewantwraiths & Ay Huncho\)](https://open.spotify.com/track/02FOaMsuOp5zzg85esljQz) | [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Final Resort \(feat\. Wewantwraiths & Ay Huncho\)](https://open.spotify.com/album/6GmB5KetDvtxQHuuv7z7KI) | 3:02 | 2023-07-18 | 2023-11-17 |
 | [FINAL STATEMENT!](https://open.spotify.com/track/1RKVs13pG0kIdNlhKeaUHr) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [FINAL STATEMENT!](https://open.spotify.com/album/5JkVDoJ471lwIrMZFuWavz) | 2:35 | 2023-05-18 | 2023-10-20 |
 | [FINALE](https://open.spotify.com/track/3VOeBY0XjyFtSIiByOOZUQ) | [Jamaica Moana](https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh), [Kevin Jz Prodigy](https://open.spotify.com/artist/1ubi6HKbyDdK01A4lu05Lk) | [BUD & DENI](https://open.spotify.com/album/27j0jVa9hKVPOhRxUDgXe8) | 3:26 | 2025-07-31 | 2025-09-19 |
+| [Find a Way](https://open.spotify.com/track/1gxxycgLPydzoDzXAwz6EG) | [Noble](https://open.spotify.com/artist/007MRB1x9rAofj9AVhAqbO) | [Find a Way](https://open.spotify.com/album/10f9wXSWvgtJlfAqUXIzxI) | 2:38 | 2026-03-12 |  |
 | [FIND THAT OUT](https://open.spotify.com/track/4sJeq1ugqcvV37y8Jr7v02) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [FIND THAT OUT](https://open.spotify.com/album/5JDlQqaZI47GNU3S0fVTQX) | 2:11 | 2024-06-06 | 2024-11-08 |
 | [Finding My Way](https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Finding My Way](https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6) | 2:42 | 2023-10-19 | 2024-04-19 |
 | [FINGERTIPS](https://open.spotify.com/track/7bXsZsdN7cMvjnJiyUHk56) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [FINGERTIPS](https://open.spotify.com/album/46gWaeqUSADSwWwv9tQVeF) | 2:29 | 2025-04-17 | 2025-08-08 |
@@ -1047,6 +1048,7 @@
 | [Push Start](https://open.spotify.com/track/0AWWq2PcKq64cQCjOHpqai) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Push Start](https://open.spotify.com/album/2klbRjJcP5jnYCC9jGJzev) | 1:54 | 2023-06-29 | 2023-07-14 |
 | [PUSSYLOVEMONEY](https://open.spotify.com/track/2bCRG2uVKz4MD5uB8Iyovd) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [PUSSYLOVEMONEY](https://open.spotify.com/album/1yU74LGWOEWvvHbv184dUh) | 2:49 | 2022-10-06 | 2022-11-11 |
 | [Quarantine](https://open.spotify.com/track/6JekNdh8yb0jig33CgUnxN) | [Double S Dons](https://open.spotify.com/artist/1oLymuSNo4PajYWdp9LmxR) | [Quarantine](https://open.spotify.com/album/3HNqt782tj0CEoDnCvuYCc) | 3:27 | 2022-03-21 | 2022-03-25 |
+| [Quarter K](https://open.spotify.com/track/3Cy2t304XY7rctsPTHFxNH) | [CV](https://open.spotify.com/artist/5KJ5ykum0wqQtJF4krqGiS), [D9ine](https://open.spotify.com/artist/0PR10qAHcp9mre9ft5WDIG) | [Quarter K](https://open.spotify.com/album/2bkrmot8LMMtSG5zmxUHc6) | 2:17 | 2026-03-12 |  |
 | [Queenstown](https://open.spotify.com/track/6L0MbYJhGk4XoEaZwWGVVw) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Queenstown](https://open.spotify.com/album/2oLD4argcWCIATfbaTBb3n) | 2:16 | 2023-10-26 | 2024-04-19 |
 | [Question Mark](https://open.spotify.com/track/3PxCtJpgauXfrVh3iCwf4o) | [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [Question Mark](https://open.spotify.com/album/68gwLJUCRoYXU0UajxnZ7c) | 2:58 | 2022-06-09 | 2022-09-16 |
 | [QUICKSAND](https://open.spotify.com/track/4AuDuSGTAGuW22mabb78fq) | [Skem](https://open.spotify.com/artist/0sqLxZdqjtvunfSqUZVuTx) | [QUICKSAND](https://open.spotify.com/album/4Dg7ymW7ktz15BqVQFTPCF) | 2:38 | 2023-05-01 | 2023-08-25 |
@@ -1362,7 +1364,7 @@
 | [U COULD NEVER](https://open.spotify.com/track/7vnDJRa8NtioKdiFj0K1Kz) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [U COULD NEVER](https://open.spotify.com/album/05frh5oKMCvtNTo0PQuA7S) | 1:45 | 2024-11-28 | 2025-01-17 |
 | [U Want More Sir?](https://open.spotify.com/track/236EkzpQgRh15KqngqKarG) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [U Want More Sir?](https://open.spotify.com/album/0wMJWCTt9NbJlSYhgFISDw) | 2:09 | 2022-05-05 | 2022-12-05 |
 | [U Want More Sir?](https://open.spotify.com/track/3wUvWuxos3hdBZJWXmnY4e) | [Srirachi](https://open.spotify.com/artist/3ESTGq7Ogq8simjShfeXOF) | [U Want More Sir?](https://open.spotify.com/album/2ZxzQLaJZLSLKipIOZ2Mr8) | 2:09 | 2022-12-04 | 2023-03-10 |
-| [UH HUH](https://open.spotify.com/track/4dMDT6zWfpMTghJZQfDxIq) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [UH HUH](https://open.spotify.com/album/0s1WTGTuonqjWUvgObSx3U) | 2:28 | 2025-12-11 |  |
+| [UH HUH](https://open.spotify.com/track/4dMDT6zWfpMTghJZQfDxIq) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [UH HUH](https://open.spotify.com/album/0s1WTGTuonqjWUvgObSx3U) | 2:28 | 2025-12-11 | 2026-03-13 |
 | [UH HUH!](https://open.spotify.com/track/7BEfgRKgGxXZWo3Fx7idIX) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [UH HUH!](https://open.spotify.com/album/2BUEV2pIjISYKyPbLTiUCd) | 2:32 | 2025-11-20 |  |
 | [UH UH](https://open.spotify.com/track/6CoSZHbo5BMNY7NKtBvHYX) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [UH UH](https://open.spotify.com/album/6Dcnj6vb8Mdbf7bDT1VY2Q) | 2:05 | 2023-11-23 | 2024-01-12 |
 | [Umva](https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Umva](https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S) | 3:23 | 2024-05-23 | 2024-07-05 |
@@ -1380,7 +1382,7 @@
 | [Up & Stuck](https://open.spotify.com/track/3BcKy00Bn0Dg289aRxyaE2) | [J Emz](https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X), [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Up & Stuck](https://open.spotify.com/album/5OPVh7jvp6aLaJT2qx40vn) | 2:43 | 2025-10-09 | 2026-02-27 |
 | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/track/3PK8TBRB27QOAsmawBeYcB) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [UP FREESTYLE \(w/ Odetari\)](https://open.spotify.com/album/6RVy4V3fnzmeEmjJYBKkfL) | 1:59 | 2025-02-13 | 2025-04-11 |
 | [Up The Score](https://open.spotify.com/track/3ny6FNv232uXYHEEKyZjxp) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Up The Score](https://open.spotify.com/album/5yz40HuTFLi3n5eg2FiQKi) | 2:04 | 2022-06-16 | 2022-11-25 |
-| [Up Up](https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Limerence](https://open.spotify.com/album/1doytOQGYrBOFUHi2Jtxq7) | 2:36 | 2026-02-12 |  |
+| [Up Up](https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH) | [Stt Laurentt](https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw) | [Limerence](https://open.spotify.com/album/1doytOQGYrBOFUHi2Jtxq7) | 2:36 | 2026-02-12 | 2026-03-13 |
 | [UPPERCUT \- BUTCHERED Pt.4](https://open.spotify.com/track/6uCUPPkHVGkYMTzSjXOWBe) | [Lil Wright](https://open.spotify.com/artist/7i03rpnL7xfaXDmCj72JVA) | [UPPERCUT \(BUTCHERED Pt.4\)](https://open.spotify.com/album/7iK7N162n6UzdLWlm7fE53) | 2:10 | 2025-07-17 | 2025-10-17 |
 | [Uzi \(Dialed In\)](https://open.spotify.com/track/2HpzccoOzvOLsY4NYVVJxr) | [Jaal](https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh) | [Uzi \(Dialed In\)](https://open.spotify.com/album/01anLPF4sRzrp33fdAe9n2) | 2:21 | 2024-11-21 | 2025-01-17 |
 | [Vacation](https://open.spotify.com/track/2rBM50RmI41WN02Zj1mCg8) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI) | [Vacation](https://open.spotify.com/album/5jp6e4EqYJZkOhCsWtPt10) | 2:59 | 2024-11-28 | 2025-01-17 |

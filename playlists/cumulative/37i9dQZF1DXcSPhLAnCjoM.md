@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Tant pis pour elle" de Charlotte Cardin est le Grand Hit de la semaine.
+> "Comme Caroline" de Zaho et MC Solaar est le Grand Hit de la semaine.
 
 319 songs - 16 hr 22 min
 

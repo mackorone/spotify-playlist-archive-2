@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "CONSTANT TENSION",
+        "url": "https://open.spotify.com/album/1iV9MAhNCLtM2d9X6FTqZ6"
+      },
+      "artists": [
+        {
+          "name": "Held.",
+          "url": "https://open.spotify.com/artist/3ZOzZEPo5kM5QZlfdF6vgm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300785,
+      "name": "CONSTANT TENSION",
+      "url": "https://open.spotify.com/track/1kg6BZB8zpWDJTgSbCEItf"
+    },
+    {
+      "album": {
         "name": "Cool Blue",
         "url": "https://open.spotify.com/album/1kNFDFmN6qNGtuzT2I06xZ"
       },
@@ -5236,7 +5254,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 124416,
       "name": "I really am feeling better",
       "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
@@ -5464,6 +5482,24 @@
       "duration_ms": 120013,
       "name": "In The Flesh",
       "url": "https://open.spotify.com/track/7h3XDCvLUgYt2t4DEf96Ro"
+    },
+    {
+      "album": {
+        "name": "HELLHOUND",
+        "url": "https://open.spotify.com/album/1oa3NykGHO2mXkEGN3AIVj"
+      },
+      "artists": [
+        {
+          "name": "VIAL",
+          "url": "https://open.spotify.com/artist/7soK35m8BosPkMQ67t7bqf"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146359,
+      "name": "INFECTED",
+      "url": "https://open.spotify.com/track/3p9FdKbV4rIeIiJUjtr4Dm"
     },
     {
       "album": {
@@ -9498,7 +9534,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 227306,
       "name": "Stepping On A Rake",
       "url": "https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W"

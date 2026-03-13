@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Watendawili
 
-344 songs - 19 hr 19 min
+345 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Ndoa \- Remix](https://open.spotify.com/track/2sKzmPp34kXC6P7u5UIgFA) | [Asagwile](https://open.spotify.com/artist/7nyg9DjU0a0NIDVIHOIjCB), [MAARIFA](https://open.spotify.com/artist/3mCWdBlQdpvtsAwavU7R1J), [SHELLO](https://open.spotify.com/artist/1X41B9NfmAuCSKGt7VAA3K) | [God's Plan](https://open.spotify.com/album/0dh9KtyseXQeagY0tUvALn) | 5:11 | 2025-07-24 |  |
 | [Nenda](https://open.spotify.com/track/6RpnK5WTfd82wHnJlKcJBS) | [Gabby Rnb](https://open.spotify.com/artist/7qyETqoh8xSHGFFeNfOlmp) | [Nenda](https://open.spotify.com/album/4Bv7f63ScZR7DwLapCeVgk) | 3:18 | 2023-01-12 | 2023-07-07 |
 | [Nenda Lote](https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 4:24 | 2022-05-26 | 2024-02-02 |
+| [NERVOUS](https://open.spotify.com/track/6Ct7wMxdVRNPozCqMfpdGl) | [Bee Thee Artiste](https://open.spotify.com/artist/07k23Z4w3q5oq7Qq73s1HU), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [NERVOUS](https://open.spotify.com/album/4N5rJQrNlZm5eqJazYiyjZ) | 2:50 | 2026-03-12 |  |
 | [Never Let Go](https://open.spotify.com/track/0oo32fZjl0rwWqNTtwSFak) | [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH), [Kaa La Moto](https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9) | [NEVER LET GO](https://open.spotify.com/album/6bx36cCR1kDtorGigHyASc) | 2:54 | 2023-11-23 | 2023-12-23 |
 | [Ni We](https://open.spotify.com/track/1xTb97ajiL7Rq3dMBk2UJu) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 2:54 | 2022-05-26 | 2023-03-25 |
 | [Nibusu \(feat\. Yammi & Mbosso\)](https://open.spotify.com/track/3rT4o1CqCokObfcJmOZypt) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nibusu \(feat\. Yammi & Mbosso\)](https://open.spotify.com/album/45cqgSwHq5eKZJzRFaE0m8) | 3:37 | 2024-06-20 |  |
@@ -261,7 +262,7 @@
 | [Pull Up](https://open.spotify.com/track/4eXsImZyEfPFOp5SC2uW8A) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Taz](https://open.spotify.com/artist/6bzZpgvlwwhSRV6nbsKrXa), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Pull Up](https://open.spotify.com/album/4X2KerKCdtjZbhVHNYIGty) | 3:07 | 2024-08-22 | 2024-10-18 |
 | [Rafiki](https://open.spotify.com/track/1zO5X1JsGxihdhwdp3mG6X) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Rafiki](https://open.spotify.com/album/19iYWFjjmHxMlhJZJlGhdj) | 2:59 | 2024-07-25 | 2025-01-10 |
 | [Raha \(feat\. Zuchu\)](https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Raha \(feat\. Zuchu\)](https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J) | 3:37 | 2024-05-09 | 2024-09-27 |
-| [Rehab](https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rehab](https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B) | 2:53 | 2025-06-19 |  |
+| [Rehab](https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rehab](https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B) | 2:53 | 2025-06-19 | 2026-03-13 |
 | [Respect](https://open.spotify.com/track/7jYwtiYbcSBaEeS72pSVGI) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls), [Kontawa](https://open.spotify.com/artist/0eAIknlSpzsXC7ScIOXjZk) | [Respect](https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I) | 2:33 | 2023-10-06 | 2024-01-19 |
 | [Rockabye \(feat\. Otile Brown\) \- Remix](https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Rockabye \(feat\. Otile Brown\) \[Remix\]](https://open.spotify.com/album/0uYbJ7UYksWxnuv7e8eohS) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/track/2ffwwOr5k4AFYlbQiopAaQ) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/album/7HLQpGd1FmWMS3ufnnQJ0x) | 3:21 | 2025-02-13 | 2026-01-16 |

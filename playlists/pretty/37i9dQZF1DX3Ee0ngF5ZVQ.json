@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Cody Johnson",
-  "num_followers": 403180,
+  "num_followers": 403181,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
-        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
-      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Worry is a Sickness",
         "url": "https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "I Keep Your Memory Around",
-        "url": "https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE"
+        "name": "She'll Dance For Whiskey [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
+        "url": "https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 186133,
-      "name": "I Keep Your Memory Around",
-      "url": "https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8"
+      "duration_ms": 287400,
+      "name": "She'll Dance For Whiskey - Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)",
+      "url": "https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1023,6 +1007,22 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "I Keep Your Memory Around",
+        "url": "https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "I Keep Your Memory Around",
+      "url": "https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Pontiac (So Tell Me Momma)",
-        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
+        "name": "I'm The One",
+        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
         }
       ],
-      "duration_ms": 225379,
-      "name": "Pontiac (So Tell Me Momma)",
-      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
+      "duration_ms": 175973,
+      "name": "I'm The One (feat. Marty Stuart)",
+      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "I'm The One",
-        "url": "https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu"
+        "name": "Pontiac (So Tell Me Momma)",
+        "url": "https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 175973,
-      "name": "I'm The One (feat. Marty Stuart)",
-      "url": "https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY"
+      "duration_ms": 225379,
+      "name": "Pontiac (So Tell Me Momma)",
+      "url": "https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Honky Tonk in Heaven",
-        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
       },
       "artists": [
         {
-          "name": "Kin Faux",
-          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 167520,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
     },
     {
       "added_at": "2026-03-06 05:00:13",

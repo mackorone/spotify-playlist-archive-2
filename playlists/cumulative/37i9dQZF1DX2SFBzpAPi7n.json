@@ -11188,7 +11188,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183013,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr"
@@ -18366,6 +18366,24 @@
       "duration_ms": 210626,
       "name": "TROUBLE MAKER",
       "url": "https://open.spotify.com/track/05p6Ez6LMSZm6Quhb0QhLj"
+    },
+    {
+      "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/7A1G3vWg6UQ2TO59iaGX9t"
+      },
+      "artists": [
+        {
+          "name": "V01D",
+          "url": "https://open.spotify.com/artist/1AXz12zUZ7GGJO4Z0693Iw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Tug of War",
+      "url": "https://open.spotify.com/track/6clIbMbca7szZquD4XeIdK"
     },
     {
       "album": {

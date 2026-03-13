@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: えんぷてい
 
-1,659 songs - 4 day 4 hr 14 min
+1,661 songs - 4 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,7 +516,7 @@
 | [Punky Blue Kids](https://open.spotify.com/track/6dHNYfZg0EFi9UsDWSxDRh) | [DNA GAINZ](https://open.spotify.com/artist/0bOGtsbotnQiTIHQMehEZx) | [Punky Blue Kids](https://open.spotify.com/album/0xUvDlxHN41wOvOJTqsCEW) | 2:36 | 2024-04-30 | 2024-06-01 |
 | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/track/0QCAkp5NIgQvJNPebs2mrY) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J), [Ryo Takanami](https://open.spotify.com/artist/2u5VEfBMUKDyZqX8KcI3sp), [ninichan](https://open.spotify.com/artist/07RJS61MbDpOxNylSJABHc) | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/album/08PhB7vTCVnSLJmE5RXs8J) | 3:40 | 2025-09-16 | 2025-10-01 |
 | [Rakugaki no Yona](https://open.spotify.com/track/4X7oNqdlt5KkNPUin7iFOP) | [Siberian Husky](https://open.spotify.com/artist/7ar3JkN4hS9Ux4Y421kOQF) | [Rakugaki no Yona](https://open.spotify.com/album/1LH56flbKHCibAi3vKW1Wt) | 3:54 | 2025-04-22 | 2025-05-07 |
-| [Ray](https://open.spotify.com/track/08VP35lzv2o06F6PjKEV7Z) | [夜々](https://open.spotify.com/artist/6t7fsMJuax8NObefWoWiOs) | [Ray](https://open.spotify.com/album/0L60JZmsft6EcKGHVWaH1t) | 3:32 | 2026-02-24 |  |
+| [Ray](https://open.spotify.com/track/08VP35lzv2o06F6PjKEV7Z) | [夜々](https://open.spotify.com/artist/6t7fsMJuax8NObefWoWiOs) | [Ray](https://open.spotify.com/album/0L60JZmsft6EcKGHVWaH1t) | 3:32 | 2026-02-24 | 2026-03-13 |
 | [Re\-monolith](https://open.spotify.com/track/2P406Mp2LZ8Iqai7WAUDs3) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Re\-monolith](https://open.spotify.com/album/7AJtqR3thUCneHnGKgHAAa) | 3:23 | 2023-10-12 | 2023-11-16 |
 | [reaction.](https://open.spotify.com/track/4QHxGQALwJXvsK5giCZL4G) | [TOKYO EAST TAPES CLUB](https://open.spotify.com/artist/7JWsVHk8ADundBFrDos52g) | [reaction.](https://open.spotify.com/album/65Wjk9YUinHojVBs4eMXYw) | 3:32 | 2025-02-18 | 2025-03-05 |
 | [REAL FANTASY](https://open.spotify.com/track/4lb3HFg1c2BEetBbrhrQsF) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [REAL FANTASY](https://open.spotify.com/album/7utEXkXmDViC1KH4JUy1w2) | 2:41 | 2025-07-22 | 2025-08-13 |
@@ -1171,6 +1171,7 @@
 | [ラブソングがいらない君へ](https://open.spotify.com/track/3VXL22jDNdom9SZfdGRM5X) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [ラブソングがいらない君へ](https://open.spotify.com/album/5CaIpCc1HiuulQWhhbtIDv) | 3:43 | 2024-01-16 | 2024-01-18 |
 | [ラブソングにして](https://open.spotify.com/track/5WoE5XLxLdr8TWdHRNuQZZ) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [ラブの手続き](https://open.spotify.com/album/1ANGbGYZDA6frg2PyJR1Hn) | 4:46 | 2025-05-21 | 2025-09-10 |
 | [ラブソングにも時代がある](https://open.spotify.com/track/6Ak9ymTOdgPdPS1ll0pHDe) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [HOME](https://open.spotify.com/album/3XV2J1uGpn5kvPv4SYOXmF) | 4:26 | 2024-03-26 | 2024-06-01 |
+| [ラブソングはとまらないよ](https://open.spotify.com/track/4jXfslf2JuTp2oBDEtVUD1) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [いきものがかり meets 2](https://open.spotify.com/album/0RodoOXPrLGPK89Ohbof9j) | 4:57 | 2026-03-10 |  |
 | [ラプソディ](https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [ラプソディ](https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I) | 3:41 | 2025-04-15 | 2026-01-15 |
 | [ラベンダー](https://open.spotify.com/track/2Cv48BmDIypI1BWl6jKCOG) | [パンク少年](https://open.spotify.com/artist/2GXmpDE8BoCyPmD631q5ii) | [ラベンダー](https://open.spotify.com/album/04QKGioMwbXrHWKch19diq) | 4:01 | 2025-07-22 | 2025-07-30 |
 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 | 2024-04-16 | 2024-12-18 |
@@ -1353,6 +1354,7 @@
 | [幻と一緒](https://open.spotify.com/track/0WEQBWySwG92KovrXTQRq7) | [望月起市](https://open.spotify.com/artist/30X4hEsMvjJc0b5BJizNkV) | [幻と一緒](https://open.spotify.com/album/1jKmzHzOAcVVSGhiGCGhYL) | 3:36 | 2025-05-21 | 2025-06-04 |
 | [幻陽](https://open.spotify.com/track/7DSNoKeR28MdcU1kSGwjz1) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [幻陽](https://open.spotify.com/album/4iTDgRLajqImZ6lnImUaD3) | 3:57 | 2023-08-08 | 2023-08-10 |
 | [幽霊まぼろし](https://open.spotify.com/track/1r1HD6uCMxqEoQ2iO2dyDY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [幽霊まぼろし](https://open.spotify.com/album/5cvt0g4QiNPR3ti7qI1Kd6) | 2:10 | 2025-07-08 | 2025-09-26 |
+| [弱虫のうた](https://open.spotify.com/track/3pvxtQONcyNDWahRBM3hPK) | [PEDRO](https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0) | [弱虫のうた](https://open.spotify.com/album/3GBlU4rfLNGjPJrhBhVQIi) | 3:18 | 2026-03-10 |  |
 | [彗星](https://open.spotify.com/track/6DMRyyJQev1wsAPPWN1IpY) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [彗星](https://open.spotify.com/album/4D2ad9KMisLaxdsU4b5sF6) | 3:25 | 2024-07-02 | 2024-09-04 |
 | [影絵の街](https://open.spotify.com/track/60yWiKpwmyVo2aJILrdEG6) | [taiti](https://open.spotify.com/artist/7mAFrzaqkSY0TDqUNoSm9n) | [影絵の街](https://open.spotify.com/album/22oAw8X7VytntcBVVLKHwT) | 2:10 | 2025-01-21 | 2025-02-05 |
 | [往日](https://open.spotify.com/track/2r73737Z4jWYKizwA2px9u) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [君にみた季節](https://open.spotify.com/album/7h4kEEvu4nS8U4Ooahptko) | 3:42 | 2024-02-13 | 2024-02-15 |
@@ -1527,7 +1529,7 @@
 | [独裁者](https://open.spotify.com/track/2Hb2XOCGJhIQgdSttFT3Dk) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [独裁者](https://open.spotify.com/album/16izsDEbb5XxP59h9QVQdK) | 3:46 | 2023-12-19 | 2024-02-14 |
 | [献立](https://open.spotify.com/track/5spEPEm3qrnVgYXPmbRvg0) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [献立](https://open.spotify.com/album/1tzrNANBwmDd9SQusziSub) | 3:42 | 2024-12-17 | 2025-02-17 |
 | [現在を生きるのだ。](https://open.spotify.com/track/0zZn7tupk239zwb3SPFmT1) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 4:37 | 2024-04-16 | 2024-12-18 |
-| [現実という名のアプリ](https://open.spotify.com/track/5lmB0MuDe4y5ObJJHTaufj) | [窓際ぼっち倶楽部](https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ) | [世界の窓際から e.p](https://open.spotify.com/album/6tbhnHfNrokdjDMd0vNiRc) | 2:52 | 2026-02-11 |  |
+| [現実という名のアプリ](https://open.spotify.com/track/5lmB0MuDe4y5ObJJHTaufj) | [窓際ぼっち倶楽部](https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ) | [世界の窓際から e.p](https://open.spotify.com/album/6tbhnHfNrokdjDMd0vNiRc) | 2:52 | 2026-02-11 | 2026-03-13 |
 | [甘々吟味](https://open.spotify.com/track/5dWGDuwERNJJdLdRo4nmYy) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [甘々吟味](https://open.spotify.com/album/2vX4yji8UPr3R1xrAEZfFA) | 3:12 | 2026-02-11 |  |
 | [甘露だらり](https://open.spotify.com/track/4BCgjjnzkJalrl9SnplmCq) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [甘露だらり](https://open.spotify.com/album/1R1UtJNpjSpQJbiSlBEejO) | 4:22 | 2025-07-22 | 2025-07-30 |
 | [生きていけ](https://open.spotify.com/track/4uspo6i0fd9peTizVwC9iv) | [プッシュプルポット](https://open.spotify.com/artist/1yMQBPXyIRvB9yiBaF5tJh) | [生き抜いたその先で](https://open.spotify.com/album/2FyVjcFbP52DYoFzSCATiv) | 2:19 | 2023-12-12 | 2023-12-14 |

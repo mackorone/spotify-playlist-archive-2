@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακαλύψτε τραγούδια Ελληνίδων τραγουδιστριών σε μια έκδοση που συνεπιμελήθηκε η Ria Ellinidou
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,112 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,118 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [MON CHERI](https://open.spotify.com/track/3H1bue0LzrCFfv3tajKqh0) | [KIANNA](https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy), [Solid Grace](https://open.spotify.com/artist/61c8WjJKoVMvcB1dMHb8dk) | [IT'S OK](https://open.spotify.com/album/4k1xcVukvzQD50VgL5UkPr) | 1:50 |
 | 50 | [Bar To Navagio](https://open.spotify.com/track/6hFbdZKubPI63dfyUolcoo) | [Peggy Zina](https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz) | [Unplugged](https://open.spotify.com/album/6MUq6BJ8859bd95x9SvhaR) | 2:57 |
 
-Snapshot ID: `AAAAAJZTdCClneQGjlLvCHluVUbHazbX`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "in your eyes",
+        "url": "https://open.spotify.com/album/4jtdFDvahvr1hhEOsV2BWr"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317388,
+      "name": "in your eyes",
+      "url": "https://open.spotify.com/track/1Lex0gvGPc1895VBluRjv5"
+    },
+    {
+      "album": {
         "name": "So No One Told You Life Was Gonna Be This Way",
         "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
       },

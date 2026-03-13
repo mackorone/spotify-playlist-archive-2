@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-616 songs - 1 day 11 hr 23 min
+617 songs - 1 day 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -560,13 +560,14 @@
 | [The Energiser](https://open.spotify.com/track/5pnQtywOCWO5yVG0ijAzt3) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp) | [The Energiser](https://open.spotify.com/album/6iDMk2c4HkGc5hS93bCtSx) | 3:29 | 2024-11-22 | 2025-08-23 |
 | [The Infamous VIP](https://open.spotify.com/track/2DYoBJ7pNAKkrlTdZYVMAb) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [The Infamous VIP](https://open.spotify.com/album/1MgoHY4iTY58C1brBKqicJ) | 2:50 | 2025-11-28 | 2026-02-16 |
 | [The Message](https://open.spotify.com/track/0dvS1sGglBYuyITICGnRkn) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [The Message](https://open.spotify.com/album/0Op5yfCn79QH6VBJU00qxX) | 3:00 | 2024-03-01 | 2024-06-28 |
-| [The Otherside](https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [The Otherside](https://open.spotify.com/album/3NlGya1cuzMLZmGcHaOW75) | 3:18 | 2026-01-23 |  |
+| [The Otherside](https://open.spotify.com/track/3Kp5R1DBY7aGcErCzHFwBR) | [Refracta](https://open.spotify.com/artist/1xlnNlzIKpl7Yc5Xto4Xxg) | [The Otherside](https://open.spotify.com/album/3NlGya1cuzMLZmGcHaOW75) | 3:18 | 2026-01-23 | 2026-03-13 |
 | [The Samurai](https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby), [Purple Velvet Curtains](https://open.spotify.com/artist/5UNXmWQKKqqBCxmcotxXmO) | [The Samurai](https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H) | 3:51 | 2025-08-28 | 2026-03-06 |
 | [The Speaker](https://open.spotify.com/track/2dMSlDUweM20x4WjXbKTBi) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Grace Barton](https://open.spotify.com/artist/6sliIMvgGGdk8GRPD2FwMx) | [The Speaker](https://open.spotify.com/album/3kQYo33KoxYrraQsXZpGBk) | 2:38 | 2025-11-14 |  |
 | [THE WAY I ROLL](https://open.spotify.com/track/4Hiddy4c4DbTR0HyBycuQQ) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [THE WAY I ROLL](https://open.spotify.com/album/7D50ajSo5ltD3MPQVksYlC) | 3:08 | 2025-04-03 | 2025-11-28 |
 | [This Is Acid](https://open.spotify.com/track/0PRrHOr1x8PLwuZk9bpK41) | [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2) | [This Is Acid](https://open.spotify.com/album/6cjwCH2eVtno2LF5ZQGpMM) | 3:22 | 2026-01-23 | 2026-01-28 |
 | [This Is Goodbye](https://open.spotify.com/track/6gkQQhUt1VaHmWz2WpOPxh) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF), [Alibi](https://open.spotify.com/artist/64AcsjHBz0mv71VKuQfmXV), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [This Is Goodbye](https://open.spotify.com/album/2xXQWmPGktx6jyh22RGEmq) | 3:39 | 2025-01-31 | 2025-11-14 |
 | [Through It All \- Hedex Remix](https://open.spotify.com/track/5ts712TiZXqdbbkef0mRrI) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t) | [Through It All \(Hedex Remix\)](https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot) | 3:50 | 2022-09-30 | 2024-02-23 |
+| [Through The Pain \(feat\. Pozer\)](https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Through The Pain \(feat\. Pozer\)](https://open.spotify.com/album/10jaP6iO7YACKWJrrChMm2) | 3:00 | 2026-03-13 |  |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-05-19 | 2024-07-27 |
 | [To The Limit](https://open.spotify.com/track/1aaz5QC5JW5YuyYq8AGHTI) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [To The Limit](https://open.spotify.com/album/7kdeCxqXIipxJ1bJyrcyM1) | 2:41 | 2025-02-07 | 2025-11-28 |
 | [To The Sky](https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [To The Sky](https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez) | 3:11 | 2024-10-18 | 2025-08-23 |

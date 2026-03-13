@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : 2L",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Bigflo & Oli",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -1359,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Maison vide",
+        "url": "https://open.spotify.com/album/09Dn2l3vOvnqwC4qgHzeXl"
+      },
+      "artists": [
+        {
+          "name": "Dinaa",
+          "url": "https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS"
+        },
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/2YhsSXzPhXPWYXIg4MehMA"
+    },
+    {
+      "album": {
         "name": "Para\u00eet que les miracles n'existent pas",
         "url": "https://open.spotify.com/album/6LUXDm9fS8mtWtJFhVcM95"
       },
@@ -1998,7 +2020,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173008,
       "name": "dreamcatcher",
       "url": "https://open.spotify.com/track/3uGde4uiGbvmekwcvPcQ5C"
@@ -3367,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258996,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/28kLe1YD8fxrUTf6duHVs8"
+    },
+    {
+      "album": {
         "name": "Mode Op\u00e9ratoire, vol. 1",
         "url": "https://open.spotify.com/album/02JVLf0vhEoGxGmoWZn5lq"
       },
@@ -3600,6 +3640,24 @@
       "duration_ms": 87288,
       "name": "L'HUISSIER",
       "url": "https://open.spotify.com/track/4LEhfm150HU9cZ2zX36Nko"
+    },
+    {
+      "album": {
+        "name": "L'ombre sur le mur",
+        "url": "https://open.spotify.com/album/1Ry18d6fNXh3ve7juQ2gUx"
+      },
+      "artists": [
+        {
+          "name": "Tha Manz",
+          "url": "https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165806,
+      "name": "L'ombre sur le mur",
+      "url": "https://open.spotify.com/track/2MZ4mIdlRFfA1aEj2CIyMF"
     },
     {
       "album": {
@@ -4350,7 +4408,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 225225,
       "name": "LES CIGOGNES",
       "url": "https://open.spotify.com/track/2UDSxqfUGepeU8tACTRDeX"
@@ -5226,7 +5284,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177391,
       "name": "NAPALM",
       "url": "https://open.spotify.com/track/6w3Sn7CAirceTJMUNMoEGh"

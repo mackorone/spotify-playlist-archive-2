@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Ramey Memo, Lockjaw, Ecto Peach and more",
+  "description": "With Rob Harrowven, Ecto Peach, JUST LIZZY and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-11",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 189160,
       "name": "Boogeyman Baby",
       "url": "https://open.spotify.com/track/1gTamoxyyN6jEe8LfpgxMx"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 229642,
       "name": "Call Me Anytime",
       "url": "https://open.spotify.com/track/4F2L9o04CSuAyxVw2apteH"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206896,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/6zOTd6Pahvwas06vzXh3Dr"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 181503,
       "name": "Cringe",
       "url": "https://open.spotify.com/track/42KNXHh9zILElQGre9fQQM"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 167907,
       "name": "Diamond Dust",
       "url": "https://open.spotify.com/track/0C6ArJYSXjvjQe1OiSxiZM"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 224817,
       "name": "Finger in a Jar",
       "url": "https://open.spotify.com/track/2KrD8yXSL2ZP2WifpBGCge"
@@ -3043,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "Live Me Down",
+        "url": "https://open.spotify.com/album/373PswKsi92tmmYWQ7Dxu4"
+      },
+      "artists": [
+        {
+          "name": "Sydney Sherrill",
+          "url": "https://open.spotify.com/artist/2DQfAwIhzT92e3QnCmIDSh"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170748,
+      "name": "God Bless LES",
+      "url": "https://open.spotify.com/track/52qPKsa6qE6g3geoVgS7xa"
+    },
+    {
+      "album": {
         "name": "Going Down",
         "url": "https://open.spotify.com/album/6jjXS29r3Y0VbYMBhyDq0O"
       },
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 207000,
       "name": "Grape Crush",
       "url": "https://open.spotify.com/track/4OqKb3MOfnufyrFnhDQnZO"
@@ -3214,7 +3232,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -4310,7 +4328,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 201468,
       "name": "Laissez-faire",
       "url": "https://open.spotify.com/track/7iAGjF1eTqPxTuzN7Gjo39"
@@ -4689,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "Lucy's On The Lake",
+        "url": "https://open.spotify.com/album/0jt6HfLr5Ehchi4SPdjEcR"
+      },
+      "artists": [
+        {
+          "name": "The Perjury Revival",
+          "url": "https://open.spotify.com/artist/1xW9We24ylNHAeqiPnDdiw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295113,
+      "name": "Lucy's On The Lake",
+      "url": "https://open.spotify.com/track/5vhyjnJsnxnkazlUiMFH6K"
+    },
+    {
+      "album": {
         "name": "Alles Kaputt",
         "url": "https://open.spotify.com/album/0dkE5T6RJutoZzPM7fDjEv"
       },
@@ -4758,6 +4794,24 @@
       "duration_ms": 339000,
       "name": "Martyr#1",
       "url": "https://open.spotify.com/track/6cMAWahZmQfn57wmxGcxfM"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/0GMxfRQPVnw4SSlrMdiTix"
+      },
+      "artists": [
+        {
+          "name": "My Life As A Moth",
+          "url": "https://open.spotify.com/artist/7DCTXxw17nnS8DjUWvEQ8S"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177720,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1JyTISB7tyTTDBZIYL23ty"
     },
     {
       "album": {
@@ -5198,7 +5252,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 325360,
       "name": "No Control",
       "url": "https://open.spotify.com/track/6mZdV5bEK8wrPPDlI6sxem"
@@ -6174,7 +6228,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 216230,
       "name": "Sapphic Lipstain",
       "url": "https://open.spotify.com/track/64jtoWn9jBfVBFD3iIaIOA"
@@ -6438,7 +6492,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 129946,
       "name": "Shake Yer Body",
       "url": "https://open.spotify.com/track/3XwYF9iAOnogC9VdU9teF9"
@@ -6876,7 +6930,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -7794,7 +7848,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 187252,
       "name": "This Elegant Deal",
       "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
@@ -7819,6 +7873,28 @@
     },
     {
       "album": {
+        "name": "Murmurs Under Memphis",
+        "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "Elunoir Unloveable",
+          "url": "https://open.spotify.com/artist/2CSg3TJjxy6EhW4jR8g47h"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Thrive",
+      "url": "https://open.spotify.com/track/4GUZCVqPJAcH0qDkkAWEoT"
+    },
+    {
+      "album": {
         "name": "Through The Looking Glass",
         "url": "https://open.spotify.com/album/1LP2k580115ie2Za9u7tdx"
       },
@@ -7830,7 +7906,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"

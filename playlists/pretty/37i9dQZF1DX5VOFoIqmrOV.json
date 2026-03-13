@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 452667,
+  "num_followers": 452911,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
     },
     {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Nannaku Prematho",
+        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
+      },
+      "artists": [
+        {
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
+    },
+    {
       "added_at": "2023-03-16 06:15:29",
       "album": {
         "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
@@ -511,22 +527,6 @@
       "duration_ms": 225424,
       "name": "Mastaaru Mastaaru (From \"Sir\")(Telugu)",
       "url": "https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Nannaku Prematho",
-        "url": "https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo"
-      },
-      "artists": [
-        {
-          "name": "Sooraj Santhosh",
-          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv"
     },
     {
       "added_at": "2023-01-11 20:52:12",
@@ -581,30 +581,6 @@
       "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
-        "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
-      "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Falaknuma Das (Original Motion Picture Soundtrack)",
@@ -627,6 +603,30 @@
       "duration_ms": 301500,
       "name": "Arerey Manasa",
       "url": "https://open.spotify.com/track/3XwpSZtT3clAjJqVW0Cgoi"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
+        "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
+      "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
     },
     {
       "added_at": "2023-02-10 09:20:04",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/00AfDW29vK3ZR3rVeSENpO"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Kirrak Party",
+        "url": "https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Guruvaram",
+      "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
+    },
+    {
       "added_at": "2023-05-04 06:50:45",
       "album": {
         "name": "Chitralahari (Original Motion Picture Soundtrack)",
@@ -979,22 +995,6 @@
       "duration_ms": 217875,
       "name": "Prema Vennela",
       "url": "https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Kirrak Party",
-        "url": "https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Guruvaram",
-      "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
     },
     {
       "added_at": "2021-12-16 12:46:43",
@@ -1061,6 +1061,22 @@
       "url": "https://open.spotify.com/track/2R8sh9H3YqdufrgMA9LNcz"
     },
     {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Maharshi",
+        "url": "https://open.spotify.com/album/3wAsZ0sTfkJvspCMlW5azC"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 168600,
+      "name": "Idhe Kadha Nee Katha",
+      "url": "https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX"
+    },
+    {
       "added_at": "2022-11-28 04:35:07",
       "album": {
         "name": "Boss Party (From \"Waltair Veerayya\")",
@@ -1083,22 +1099,6 @@
       "duration_ms": 200208,
       "name": "Boss Party (From \"Waltair Veerayya\")",
       "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
-    },
-    {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Maharshi",
-        "url": "https://open.spotify.com/album/3wAsZ0sTfkJvspCMlW5azC"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "Idhe Kadha Nee Katha",
-      "url": "https://open.spotify.com/track/344RDDZ8T7QFFqIT377ZOX"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-12 05:49:47",
       "album": {
+        "name": "Rules Ranjann",
+        "url": "https://open.spotify.com/album/6zrZW4bbHa1AUfxPtommPQ"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 199072,
+      "name": "Sammohanuda",
+      "url": "https://open.spotify.com/track/5eMYLnT3O6EBIKiDBHOEvm"
+    },
+    {
+      "added_at": "2023-12-12 05:49:47",
+      "album": {
         "name": "Month Of Madhu",
         "url": "https://open.spotify.com/album/1AhmzluHPzzD5bO8i8RKRK"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 224554,
       "name": "Oh Na Madhu",
       "url": "https://open.spotify.com/track/46WainWGEgKqmUpnfEnzlH"
-    },
-    {
-      "added_at": "2023-12-12 05:49:47",
-      "album": {
-        "name": "Rules Ranjann",
-        "url": "https://open.spotify.com/album/6zrZW4bbHa1AUfxPtommPQ"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 199072,
-      "name": "Sammohanuda",
-      "url": "https://open.spotify.com/track/5eMYLnT3O6EBIKiDBHOEvm"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1473,30 +1473,6 @@
       "url": "https://open.spotify.com/track/48bsZQGBWex5u1qNOrSMMU"
     },
     {
-      "added_at": "2024-04-18 09:26:24",
-      "album": {
-        "name": "Om Bheem Bush",
-        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
-      },
-      "artists": [
-        {
-          "name": "Sunny M.R.",
-          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 211670,
-      "name": "Anuvanuvuu",
-      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
-    },
-    {
       "added_at": "2025-12-16 12:04:49",
       "album": {
         "name": "Yuddham Sharanam",
@@ -1519,6 +1495,30 @@
       "duration_ms": 170132,
       "name": "Adedo Maayalley",
       "url": "https://open.spotify.com/track/2wW6MB66dej6GyVBowYnUz"
+    },
+    {
+      "added_at": "2024-04-18 09:26:24",
+      "album": {
+        "name": "Om Bheem Bush",
+        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
+      },
+      "artists": [
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 211670,
+      "name": "Anuvanuvuu",
+      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
       "added_at": "2022-07-24 04:40:57",

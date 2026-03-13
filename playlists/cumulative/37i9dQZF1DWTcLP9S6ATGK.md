@@ -2,9 +2,9 @@
 
 ### [Musik Akhir Pekan](https://open.spotify.com/playlist/37i9dQZF1DWTcLP9S6ATGK)
 
-> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Armada
+> Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Janita Gabriela, Putri Sashi
 
-844 songs - 2 day 7 hr 6 min
+845 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Merayu Waktu](https://open.spotify.com/track/0Iztx9RuDGm04zedKwgBfx) | [Rhea Asmara](https://open.spotify.com/artist/1AWmwnZnIWWvGynh2DeUEo) | [Merayu Waktu](https://open.spotify.com/album/0tBFsuhQejcP9z0bZMOp2V) | 3:42 | 2024-06-27 | 2024-08-16 |
 | [Merelakan](https://open.spotify.com/track/3ZQayXj1KxVVF9sXem5wmw) | [Angie Carvalho](https://open.spotify.com/artist/6nUQOIpgG7Sf0DqSJODNmK) | [Merelakan](https://open.spotify.com/album/3yJQyg5a43YCySZIGl1IXa) | 3:49 | 2025-10-02 | 2026-02-13 |
 | [Merindu Lagi](https://open.spotify.com/track/49cQR3bjxEndbqK2qARYds) | [Mesa Hira](https://open.spotify.com/artist/7ynP6OqOCJe3k4JTk1Tjwc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Merindu Lagi](https://open.spotify.com/album/3b54FSMtFWyHk0CpeinEch) | 2:55 | 2025-06-05 | 2026-02-13 |
+| [Merindukanmu](https://open.spotify.com/track/3EDHh1W0wnk7voXNUf2lQ5) | [Janita Gabriela](https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7), [Putri Sashi](https://open.spotify.com/artist/4iUvDxXt7alOb7xME0zhLS) | [Merindukanmu](https://open.spotify.com/album/3wdR0SWZ1rdo1BipbFEgI1) | 4:27 | 2026-03-12 |  |
 | [Merindumu lagi](https://open.spotify.com/track/2EhHCazu5nK0S3oljv0B6l) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Merindumu lagi](https://open.spotify.com/album/4LTGuJdFIcKgJfHjsK0lE7) | 3:38 | 2025-07-17 |  |
 | [Meski Perih](https://open.spotify.com/track/3WENCaPrHs2oVQ1zzTQvRb) | [Ronald Dewa](https://open.spotify.com/artist/2zrMuruIsDXrQIQHuLU0sj) | [Meski Perih](https://open.spotify.com/album/3EiqKc8pjPT0nJ0gcqEjjo) | 4:35 | 2025-12-05 | 2026-02-13 |
 | [Mewek \- feat\. Helmi Utta](https://open.spotify.com/track/7jrSPYjaXjll7VqHqrmkzm) | [Kayyis](https://open.spotify.com/artist/4sDsaZuleO6kWxInPdOjcC), [Helmi Utta](https://open.spotify.com/artist/39JS42rH1yHMax2Te0Bys3) | [Mewek \(feat\. Helmi Utta\)](https://open.spotify.com/album/4u65zpDgyGAJnMzK8C6Oxt) | 3:59 | 2024-12-20 | 2025-03-21 |

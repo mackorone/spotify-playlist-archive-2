@@ -1,12 +1,12 @@
 {
   "description": "Playlist",
-  "num_followers": 17968,
+  "num_followers": 17969,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMYmNlQ6AwmvOmwHZTZy7RUsPkNHc8",
+  "snapshot_id": "AAAMZJVLV6JOnT/NmNxx3edMKpIAlX5w",
   "tracks": [
     {
       "added_at": "2026-03-06 08:23:36",
@@ -10551,6 +10551,38 @@
       "duration_ms": 105500,
       "name": "Gum Head II",
       "url": "https://open.spotify.com/track/637QmKCvSglVuabJ7MowG6"
+    },
+    {
+      "added_at": "2026-03-12 14:13:40",
+      "album": {
+        "name": "BF 4-EVER",
+        "url": "https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp"
+      },
+      "artists": [
+        {
+          "name": "banzai florist",
+          "url": "https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7"
+        }
+      ],
+      "duration_ms": 116089,
+      "name": "it's over !! u blew it !!",
+      "url": "https://open.spotify.com/track/5e7I8UlUfpawvYLdJYFMlj"
+    },
+    {
+      "added_at": "2026-03-12 14:13:44",
+      "album": {
+        "name": "BF 4-EVER",
+        "url": "https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp"
+      },
+      "artists": [
+        {
+          "name": "banzai florist",
+          "url": "https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7"
+        }
+      ],
+      "duration_ms": 171425,
+      "name": "freak // 1994",
+      "url": "https://open.spotify.com/track/0Beh1edFw2ytAIGgU4iiUh"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,973 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,977 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 7 | [Misirlou \- Remastered 1995](https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Best Of Martin Denny's Exotica](https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5) | 2:38 |
 | 8 | [Alika \- Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
 | 9 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
-| 10 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |
-| 11 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
+| 10 | [Sunset on the Kona Kai](https://open.spotify.com/track/60YSnSjVaDXc1QmGzMtbEu) | [The Tikiyaki Orchestra](https://open.spotify.com/artist/7kJPKUUnHCennOOEBxjidx) | [Swingin' sounds for the Jungle Jetset !](https://open.spotify.com/album/4gI81mkI8rD1z4zjW5RENc) | 3:40 |
+| 11 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |
 | 12 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 13 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
 | 14 | [Alika](https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R) | [Genoa Keawe](https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy) | [Hana Hou! Vol\. 1](https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt) | 4:36 |
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 63 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |
 | 64 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
 | 65 | [Ringo Oiwake](https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1) | [Ethel Azama](https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV) | [Cool Heat + Exotic Dreams](https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK) | 2:34 |
-| 66 | [Bim\-Boo](https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP) | [Chaino](https://open.spotify.com/artist/6odPRDb7fKDOFYPZQvEQlp) | [Kirby Allen Presents: Eye Of The Spectre](https://open.spotify.com/album/5n6we7GWIrbonq6GeKWOkO) | 3:27 |
-| 67 | [Hana Maui](https://open.spotify.com/track/44af8bRzfNjWQrx28h2eeP) | [Chick Floyd & His Orchestra](https://open.spotify.com/artist/4eamYt7q78mgbl55OkWBxW) | [Exotic World](https://open.spotify.com/album/5Q5D1PmZjo2l6bG3dOsKQ5) | 3:21 |
-| 68 | [Palmeras](https://open.spotify.com/track/5iR7o7agHc6Xfyoa15dxKa) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:20 |
-| 69 | [Colors of Hawaiki](https://open.spotify.com/track/2diwam6gjyWIsaIQ3OZ59A) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Call of the Islands](https://open.spotify.com/album/2hp5uasLT9eKTERMX4rYWD) | 3:06 |
-| 70 | [Kawohikukapulani](https://open.spotify.com/track/2t5nydEEeYdsi2hR33TRjx) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 2:26 |
-| 71 | [I Kona](https://open.spotify.com/track/5rexglBxLZ18rUnHha32Xy) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 3:35 |
-| 72 | [When It's Time to Go](https://open.spotify.com/track/7cENS3IEG7zkmRgwtXg7Cs) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/12U7NpnNfc1XbMxDkndmqd) | 2:43 |
+| 66 | [Hana Maui](https://open.spotify.com/track/44af8bRzfNjWQrx28h2eeP) | [Chick Floyd & His Orchestra](https://open.spotify.com/artist/4eamYt7q78mgbl55OkWBxW) | [Exotic World](https://open.spotify.com/album/5Q5D1PmZjo2l6bG3dOsKQ5) | 3:21 |
+| 67 | [Palmeras](https://open.spotify.com/track/5iR7o7agHc6Xfyoa15dxKa) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/4UlE2kIAik6pcM15aztAhs) | 2:20 |
+| 68 | [Colors of Hawaiki](https://open.spotify.com/track/2diwam6gjyWIsaIQ3OZ59A) | [Ìxtahuele](https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN) | [Call of the Islands](https://open.spotify.com/album/2hp5uasLT9eKTERMX4rYWD) | 3:06 |
+| 69 | [Kawohikukapulani](https://open.spotify.com/track/2t5nydEEeYdsi2hR33TRjx) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Hawaiian Sunset](https://open.spotify.com/album/0krfVkBvqQxmQXAXOFeuwg) | 2:26 |
+| 70 | [I Kona](https://open.spotify.com/track/5rexglBxLZ18rUnHha32Xy) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 3:35 |
+| 71 | [When It's Time to Go](https://open.spotify.com/track/7cENS3IEG7zkmRgwtXg7Cs) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [When It's Time to Go](https://open.spotify.com/album/12U7NpnNfc1XbMxDkndmqd) | 2:43 |
+| 72 | [Bim\-Boo](https://open.spotify.com/track/3CtH4aqghgXtPZzg9YBweP) | [Chaino](https://open.spotify.com/artist/6odPRDb7fKDOFYPZQvEQlp) | [Kirby Allen Presents: Eye Of The Spectre](https://open.spotify.com/album/5n6we7GWIrbonq6GeKWOkO) | 3:27 |
 | 73 | [Jivaro](https://open.spotify.com/track/1pP9JVGU5jKP7sWah8ROPx) | [Yma Sumac](https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d) | [Yma Sumac \- Story Of The Jivaro Vol\. 1](https://open.spotify.com/album/4HKVsoMLahluq4lxl3VMKb) | 2:55 |
 | 74 | [Yellow Bird](https://open.spotify.com/track/3KOC0porpfAeFFYuA4d73z) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Yellow Bird](https://open.spotify.com/album/20MWtXQ8eH0hgOi8Sf7KyX) | 2:44 |
-| 75 | [Lust](https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4) | [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Lisbon Antigua \(One Mint Julep Lounge 1953 \- 1956\)](https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS) | 2:59 |
-| 76 | [Hanalei Moon](https://open.spotify.com/track/0THpBIexGSqkHkvkyk51CJ) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 4:35 |
+| 75 | [Hanalei Moon](https://open.spotify.com/track/0THpBIexGSqkHkvkyk51CJ) | [Dennis Pavao](https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX) | [The Golden Voice of Hawai'i, Vol\. 1](https://open.spotify.com/album/6c13l06xAppZ30jLRHp0N1) | 4:35 |
+| 76 | [Lust](https://open.spotify.com/track/3UbYI0HPdoJJlZHsjx6yE4) | [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Lisbon Antigua \(One Mint Julep Lounge 1953 \- 1956\)](https://open.spotify.com/album/25tMpbJhW0vuldZbQ1tjpS) | 2:59 |
 
 Snapshot ID: `AAAAAH0MVTbbqVs4XVguEFodzUxQGpBV`

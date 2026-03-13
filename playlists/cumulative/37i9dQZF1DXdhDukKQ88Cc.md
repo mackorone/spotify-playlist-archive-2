@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> 🔥 de største nye rap hits i dk 🔥 cover: Cizzo
+> 🔥 de største nye rap hits i dk 🔥 cover: Kundo
 
-508 songs - 21 hr 40 min
+511 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Christopher Nolan](https://open.spotify.com/track/1grqsdlUGsZTWZtCWkFwlc) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Christopher Nolan](https://open.spotify.com/album/1c5G0v0IQRGziB4LpatXyx) | 2:43 | 2025-08-07 | 2025-08-22 |
 | [CHU CHU CHA](https://open.spotify.com/track/3EfyNPxKn8PmM6ivb29yvf) | [NS Gang](https://open.spotify.com/artist/7dqU1R2GEszJk2C0ScnwQW) | [CHU CHU CHA](https://open.spotify.com/album/7pxcGrZXxHn8ihWZKcrHHZ) | 2:30 | 2025-04-24 | 2025-05-30 |
 | [Cinema](https://open.spotify.com/track/0uvfJzdcz7rKBlDshVco6M) | [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Cinema](https://open.spotify.com/album/5mtaGoCppxoFcyZ7B02wiV) | 2:54 | 2024-12-05 | 2025-04-18 |
+| [Clean](https://open.spotify.com/track/5ema5NZYuNZq32lRGss7N0) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [ScandiPacc](https://open.spotify.com/album/4nNMcP9D0VgqdfoWDShV0Q) | 1:54 | 2026-03-12 |  |
 | [CLEOPATRA](https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [CLEOPATRA](https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6) | 2:15 | 2024-10-03 |  |
 | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/track/7mUPCop88z8A4mTP1Rxrvq) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Cobra \(feat\. Jamaika\)](https://open.spotify.com/album/6ODopWPSC73RjkK0bN3UjL) | 2:41 | 2026-01-08 |  |
 | [Coconut Dreams](https://open.spotify.com/track/6s5fTvO1t80qZ61xjeCv9m) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Coconut Dreams](https://open.spotify.com/album/3RmzF1NpJTdGoBcHHg9WYF) | 2:54 | 2024-06-06 | 2024-11-08 |
@@ -239,6 +240,7 @@
 | [Hvad Forventer De Freestyle](https://open.spotify.com/track/6RmGU9ICkzy6iE9gZf48yL) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Hvad Forventer De Freestyle](https://open.spotify.com/album/4QAoPfSuW02X1wgDOqbkgq) | 2:12 | 2025-07-17 | 2025-08-29 |
 | [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 | 2024-02-29 | 2024-05-14 |
 | [Hvem Har Stedet](https://open.spotify.com/track/7gA1XMv2BnRU6h1hjj5iUA) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hvem Har Stedet](https://open.spotify.com/album/6QxcuBWX5mHp4OiKp5g4xU) | 2:01 | 2025-03-27 | 2025-05-30 |
+| [Hver Dag](https://open.spotify.com/track/2oaR5QU69kcdbeQvJV3yLd) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Hver Dag](https://open.spotify.com/album/5Dicwkd8fam4tqR6nCGyEL) | 2:32 | 2026-03-12 |  |
 | [Hverdagsting](https://open.spotify.com/track/1jfNg2O6NG0kqzKoVM6ZOi) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Hverdagsting](https://open.spotify.com/album/63Ry8S7K5yhxzBPHW3kgp4) | 3:10 | 2023-11-16 | 2024-04-05 |
 | [Hvor Vi Ender Dagen](https://open.spotify.com/track/3bbwRqVUjKVA1WvDLVz7Fm) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Hvor Vi Ender Dagen](https://open.spotify.com/album/2LTeZ1R2DloKBQBKUz6lYQ) | 2:23 | 2025-06-19 |  |
 | [HVOR?](https://open.spotify.com/track/4aulpJDCPgeHqHAeVgai0w) | [Fello](https://open.spotify.com/artist/0DxesKtokPaIuPodpnbD7O) | [HVOR?](https://open.spotify.com/album/0CE410MJZoXw8X9qVbm6vg) | 2:13 | 2025-09-11 | 2025-09-26 |
@@ -263,6 +265,7 @@
 | [Imponeret/smukt&rigtigt](https://open.spotify.com/track/2Nsbcnwb1sSYtujPzzLOMa) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 3:39 | 2024-03-21 | 2024-04-26 |
 | [Indre Stemme](https://open.spotify.com/track/0CToGTNJzK0JxMJM6otPON) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [BOILERS](https://open.spotify.com/artist/3xdxQ8fboHLHVfL9R4MvZ8) | [Indre Stemme](https://open.spotify.com/album/0MiIHv48KMk7FoqCe1mues) | 2:42 | 2024-04-09 | 2025-01-10 |
 | [Indtil Solen Kom \(Feat\. Branco\)](https://open.spotify.com/track/1kYSGphNRoOpYoe3x63qsd) | [Sinds](https://open.spotify.com/artist/5LQSZR4648SuVALNNyHx3G), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Indtil Solen Kom \(Feat\. Branco\)](https://open.spotify.com/album/6jd21AriSyqHTX9fpyr1qr) | 2:25 | 2024-08-29 | 2025-01-17 |
+| [INITIALER](https://open.spotify.com/track/4oCEv3TMIR40w5Ymju5GQl) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [INITIALER](https://open.spotify.com/album/6ubm3y76MDFZpEvpBOjxGp) | 2:23 | 2026-03-12 |  |
 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 | 2023-09-21 | 2024-02-23 |
 | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n) | 2:54 | 2024-02-01 | 2024-10-04 |
 | [INTRO.VERT](https://open.spotify.com/track/5QzTdxetiyLCGJC29UI1kK) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [INTRO.VERT](https://open.spotify.com/album/1jAjltECXiV61MCcpDnWeY) | 2:34 | 2024-11-07 | 2024-12-06 |

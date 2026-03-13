@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest dance hits! Cover: Dom Dolla",
-  "num_followers": 452589,
+  "num_followers": 452595,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADalj1i0mEytzbiDJkS4KucPPNgA",
+  "snapshot_id": "AAAAAD2Mf99gfVrYzL0tdapBcdP9WZtm",
   "tracks": [
     {
       "added_at": "2026-03-05 13:00:11",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
+      "added_at": "2026-03-05 13:00:11",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 113702,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
+    },
+    {
       "added_at": "2026-02-26 13:00:14",
       "album": {
         "name": "Upside Down",
@@ -47,6 +63,46 @@
       "duration_ms": 125625,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW"
+    },
+    {
+      "added_at": "2026-03-05 13:00:11",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "added_at": "2026-02-26 13:00:14",
+      "album": {
+        "name": "Alive (Alok Remix)",
+        "url": "https://open.spotify.com/album/6n8PLpI64QEpSJLJFVqmvh"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 161982,
+      "name": "Alive - Alok Remix",
+      "url": "https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE"
     },
     {
       "added_at": "2026-02-26 13:00:14",
@@ -85,96 +141,24 @@
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
-      "added_at": "2026-03-05 13:00:11",
+      "added_at": "2026-03-12 13:00:12",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 113702,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
-    },
-    {
-      "added_at": "2026-02-26 13:00:14",
-      "album": {
-        "name": "My Loving",
-        "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         },
         {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
         }
       ],
-      "duration_ms": 170213,
-      "name": "My Loving",
-      "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
-    },
-    {
-      "added_at": "2026-02-26 13:00:14",
-      "album": {
-        "name": "Alive (Alok Remix)",
-        "url": "https://open.spotify.com/album/6n8PLpI64QEpSJLJFVqmvh"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 161982,
-      "name": "Alive - Alok Remix",
-      "url": "https://open.spotify.com/track/2Pe2GeYteFLUHrCPTihWmE"
-    },
-    {
-      "added_at": "2026-03-05 13:00:11",
-      "album": {
-        "name": "New Religion",
-        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
-    },
-    {
-      "added_at": "2026-02-26 13:00:14",
-      "album": {
-        "name": "Cry For You (2025)",
-        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 176363,
-      "name": "Cry For You (2025)",
-      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
+      "duration_ms": 268640,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa"
     },
     {
       "added_at": "2026-02-26 13:00:14",
@@ -197,24 +181,24 @@
       "url": "https://open.spotify.com/track/4yM4Z1ifPXm4qFetMI659J"
     },
     {
-      "added_at": "2026-02-26 13:00:14",
+      "added_at": "2026-03-12 13:00:12",
       "album": {
-        "name": "Doin' It feat. MC DT",
-        "url": "https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc"
+        "name": "SATA",
+        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
       },
       "artists": [
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "MC DT",
-          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
         }
       ],
-      "duration_ms": 177831,
-      "name": "Doin' it featuring MC DT",
-      "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
+      "duration_ms": 182678,
+      "name": "SATA",
+      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
     },
     {
       "added_at": "2026-02-26 13:00:14",
@@ -241,6 +225,82 @@
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
     },
     {
+      "added_at": "2026-02-26 13:00:14",
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "duration_ms": 187279,
+      "name": "Contact",
+      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
+    },
+    {
+      "added_at": "2026-02-26 13:00:14",
+      "album": {
+        "name": "Doin' It feat. MC DT",
+        "url": "https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "MC DT",
+          "url": "https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6"
+        }
+      ],
+      "duration_ms": 177831,
+      "name": "Doin' it featuring MC DT",
+      "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
+    },
+    {
+      "added_at": "2026-02-26 13:00:14",
+      "album": {
+        "name": "My Loving",
+        "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 170213,
+      "name": "My Loving",
+      "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
+    },
+    {
+      "added_at": "2026-02-26 13:00:14",
+      "album": {
+        "name": "Cry For You (2025)",
+        "url": "https://open.spotify.com/album/7pYLQoKHX1JlhuUyti0HwF"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Cry For You (2025)",
+      "url": "https://open.spotify.com/track/2xVDlAuxS6rhEMXOlX9h07"
+    },
+    {
       "added_at": "2026-03-05 13:00:11",
       "album": {
         "name": "Stay Blessed",
@@ -261,24 +321,80 @@
       "url": "https://open.spotify.com/track/6I2J6iwtx4DpuFF5YX1Tav"
     },
     {
-      "added_at": "2026-02-26 13:00:14",
+      "added_at": "2026-03-12 13:00:12",
       "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
+        "name": "Stay Blessed",
+        "url": "https://open.spotify.com/album/41RuCkxLwXxcDe04TFuiXC"
       },
       "artists": [
         {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
         },
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
         }
       ],
-      "duration_ms": 187279,
-      "name": "Contact",
-      "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
+      "duration_ms": 164558,
+      "name": "Stay Blessed",
+      "url": "https://open.spotify.com/track/0BNV8qChVecUDgWV8xAmWl"
+    },
+    {
+      "added_at": "2026-03-05 13:00:11",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 154618,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28"
+    },
+    {
+      "added_at": "2026-03-05 13:00:11",
+      "album": {
+        "name": "That's Her (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/0UMIA4uXznjDkoS6Ru5jAj"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "That's Her (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/1kkgrnr6OWVBnks8OhZQio"
+    },
+    {
+      "added_at": "2026-02-26 13:00:14",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/3tljDywU5DOVRM3J9bZWoO"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 231498,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1nTIzrBPl6PLG6SokJ89lP"
     },
     {
       "added_at": "2026-02-26 13:00:14",
@@ -303,58 +419,6 @@
       "duration_ms": 178148,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
-    },
-    {
-      "added_at": "2026-03-05 13:00:11",
-      "album": {
-        "name": "That's Her (feat. Wiz Khalifa)",
-        "url": "https://open.spotify.com/album/0UMIA4uXznjDkoS6Ru5jAj"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "That's Her (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/1kkgrnr6OWVBnks8OhZQio"
-    },
-    {
-      "added_at": "2026-03-05 13:00:11",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28"
-    },
-    {
-      "added_at": "2026-02-26 13:00:14",
-      "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/3tljDywU5DOVRM3J9bZWoO"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 231498,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/1nTIzrBPl6PLG6SokJ89lP"
     },
     {
       "added_at": "2026-02-26 13:00:14",
@@ -1499,66 +1563,6 @@
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
-    },
-    {
-      "added_at": "2026-02-26 13:00:14",
-      "album": {
-        "name": "Restart (ft. KLP)",
-        "url": "https://open.spotify.com/album/1q1MrlDS7p0APneFaobN71"
-      },
-      "artists": [
-        {
-          "name": "Human Movement",
-          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
-        },
-        {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
-        }
-      ],
-      "duration_ms": 215735,
-      "name": "Restart (ft. KLP)",
-      "url": "https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd"
-    },
-    {
-      "added_at": "2026-02-26 13:00:14",
-      "album": {
-        "name": "UNCONDITIONAL",
-        "url": "https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        },
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 181294,
-      "name": "UNCONDITIONAL",
-      "url": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl"
-    },
-    {
-      "added_at": "2026-02-26 13:00:14",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/2IAYy77xcXJ78vWwLNu8Qv"
-      },
-      "artists": [
-        {
-          "name": "Liam Conner",
-          "url": "https://open.spotify.com/artist/0uIGZDE3WVOqjjciTcinaD"
-        },
-        {
-          "name": "Amanda Wilson",
-          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
-        }
-      ],
-      "duration_ms": 153809,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/0V589TDWJZrKIEdoodVVOs"
     }
   ],
   "unique_name": "Dance Generation",

@@ -797,6 +797,32 @@
     },
     {
       "album": {
+        "name": "A Sangue Frio",
+        "url": "https://open.spotify.com/album/59Kkx26A6q5PUSd49WoC83"
+      },
+      "artists": [
+        {
+          "name": "For\u00e7a Suprema",
+          "url": "https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3"
+        },
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/23yq6Jr4TRstJpoqQuTlYo"
+        },
+        {
+          "name": "Mundo Segundo",
+          "url": "https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "A Sangue Frio",
+      "url": "https://open.spotify.com/track/5lw0TJfpoSfAxaCyv9B5rV"
+    },
+    {
+      "album": {
         "name": "Aben\u00e7oada",
         "url": "https://open.spotify.com/album/7hN8YE4OReQ9ehbcTPJJrf"
       },
@@ -1296,7 +1322,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 168000,
       "name": "Alta Cultura - BrownSkinDevil",
       "url": "https://open.spotify.com/track/6OiMVGKSKO9Ix9i7rz38M7"
@@ -1496,7 +1522,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 143668,
       "name": "AMANH\u00c3",
       "url": "https://open.spotify.com/track/07Teg6yZ0fcfA7QO6utyFE"
@@ -1950,7 +1976,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 148333,
       "name": "ASCENS\u00c3O",
       "url": "https://open.spotify.com/track/1RpEQM2WrIm4ltkW0UHC3B"
@@ -3288,7 +3314,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158326,
       "name": "Cacau",
       "url": "https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO"
@@ -7424,7 +7450,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 256000,
       "name": "Fios de Prata",
       "url": "https://open.spotify.com/track/27IJkVx44jtyXCU7GHMOPO"
@@ -7602,6 +7628,28 @@
       "duration_ms": 153778,
       "name": "Forever Na Street",
       "url": "https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH"
+    },
+    {
+      "album": {
+        "name": "Filho do Povo",
+        "url": "https://open.spotify.com/album/5WJsQiKEvMZNcPsr6LBwXI"
+      },
+      "artists": [
+        {
+          "name": "Ney Chiqui",
+          "url": "https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx"
+        },
+        {
+          "name": "Paulelson",
+          "url": "https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "Foto",
+      "url": "https://open.spotify.com/track/7KCwYhEvGzShKw5exsNQMq"
     },
     {
       "album": {
@@ -11696,7 +11744,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183500,
       "name": "MOXXXPIRII",
       "url": "https://open.spotify.com/track/3W1L721fuS3pRLrt973Ewc"
@@ -12128,7 +12176,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 172692,
       "name": "Namorar D\u00e1 Medo",
       "url": "https://open.spotify.com/track/5n3RfToptMuNzW0BGRn9Oa"
@@ -13177,6 +13225,32 @@
     },
     {
       "album": {
+        "name": "O Pecado do C\u00e9u",
+        "url": "https://open.spotify.com/album/3sAYcPjSX1Ra4DySZOwLam"
+      },
+      "artists": [
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "O Pecado do C\u00e9u",
+      "url": "https://open.spotify.com/track/1WzYJoPHtavG3VNEmQgexA"
+    },
+    {
+      "album": {
         "name": "O Peixe Morre Pela Boca",
         "url": "https://open.spotify.com/album/4e4U4mk7rUxVkaRMpHtenJ"
       },
@@ -13356,7 +13430,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 219106,
       "name": "Olhar",
       "url": "https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb"
@@ -13976,7 +14050,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 172880,
       "name": "Para L\u00e1 Da Espuma",
       "url": "https://open.spotify.com/track/7DCaU5AhNIzlHJ2VG0YwJR"
@@ -14086,6 +14160,24 @@
       "duration_ms": 165358,
       "name": "Party Priv\u00e9",
       "url": "https://open.spotify.com/track/6Ix3fpyBPrjMPYDdbGb9zz"
+    },
+    {
+      "album": {
+        "name": "Passo A Passo",
+        "url": "https://open.spotify.com/album/4xyyQhrYhcImnKrVUDxBUS"
+      },
+      "artists": [
+        {
+          "name": "Carl\u00e3o",
+          "url": "https://open.spotify.com/artist/4byuw0pyzVNeEONKcPIpAA"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "Passo A Passo",
+      "url": "https://open.spotify.com/track/14QnuCRgIP0mxhknKJuX5b"
     },
     {
       "album": {
@@ -14887,6 +14979,24 @@
     },
     {
       "album": {
+        "name": "PREDESTINADO",
+        "url": "https://open.spotify.com/album/7ywq5NfAhbz7tWEgMv6OpL"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "PREDESTINADO",
+      "url": "https://open.spotify.com/track/3LeHyNkhgNHllY4T56dVfx"
+    },
+    {
+      "album": {
         "name": "Pre\u00e7o",
         "url": "https://open.spotify.com/album/6bU9EUg8WgzYif0lbeoQ2w"
       },
@@ -15312,7 +15422,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 145180,
       "name": "Quase",
       "url": "https://open.spotify.com/track/1SysQN5EYHlbU7uDogTJ2A"
@@ -18348,6 +18458,28 @@
       "duration_ms": 208000,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT"
+    },
+    {
+      "album": {
+        "name": "Trapstars",
+        "url": "https://open.spotify.com/album/0tBUTWjx917cJ7LPnqOYzJ"
+      },
+      "artists": [
+        {
+          "name": "Dezinho",
+          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
+        },
+        {
+          "name": "Ljayy",
+          "url": "https://open.spotify.com/artist/1oQCAqfWmaWGvpqsmgiBrO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168487,
+      "name": "Trapstars",
+      "url": "https://open.spotify.com/track/2XvjmtdhxjWqiSZIg7227x"
     },
     {
       "album": {

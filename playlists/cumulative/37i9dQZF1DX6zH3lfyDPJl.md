@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-197 songs - 12 hr 17 min
+200 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-03-14 |  |
 | [beautiful](https://open.spotify.com/track/2iTIccPiyyQDATAk32V1jq) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7) | [beautiful](https://open.spotify.com/album/6Tesrm78R6HujygeuC74l8) | 2:51 | 2025-10-20 | 2025-11-11 |
 | [Because](https://open.spotify.com/track/6dc6iZ6Htwg0T1b2m9PO2L) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Because](https://open.spotify.com/album/2k5FNmZE4XTIf5h8W5sNsJ) | 3:28 | 2024-08-05 | 2025-04-02 |
+| [beginner](https://open.spotify.com/track/2GrIclL8FD8Wzin0t3eEAx) | [kanegi.](https://open.spotify.com/artist/1IbdIX1U1e04JRrrh9HQSc) | [archives 17](https://open.spotify.com/album/3yvSXYnGm1S0DUILkVXzRp) | 3:18 | 2026-03-12 |  |
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2024-08-05 | 2025-04-02 |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-08-05 | 2025-04-02 |
 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 | 2025-06-12 |  |
@@ -81,6 +82,7 @@
 | [Hangang \(feat\. heyden\)](https://open.spotify.com/track/21YCFVm4CFHR6EjTh4T1Lh) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Hangang](https://open.spotify.com/album/0bPdAOUP9WXFrTcM9S8PMU) | 3:02 | 2025-07-24 | 2025-10-21 |
 | [Hangang II \(feat\. prettyhappy\)](https://open.spotify.com/track/6woyNdP7fe5xasTrj0oVtA) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Hangang II](https://open.spotify.com/album/5by7mr8U2nbj4m5QbyQdcf) | 4:04 | 2025-10-20 | 2025-11-11 |
 | [Heya](https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [TEAM BABY](https://open.spotify.com/album/4x4xyLYUjyyBqKlkFT4YdY) | 5:25 | 2026-02-05 | 2026-02-14 |
+| [Hide](https://open.spotify.com/track/43tsrOxxkFrv9bfY0f3sVm) | [Shin Yun Su](https://open.spotify.com/artist/6rOnmyhXrGZGUIsafDi1DG) | [pension rm\. 04 \- Hide](https://open.spotify.com/album/01ahO5SDqOlFdkoDSAk1G0) | 3:27 | 2026-03-12 |  |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-08-05 | 2025-05-02 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2025-05-30 |  |
 | [homesick](https://open.spotify.com/track/2FZIabCRMEWAYfN69Ijn1U) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 5:06 | 2025-05-30 |  |
@@ -90,7 +92,7 @@
 | [I'm Watching a Loneliness Just Arisen](https://open.spotify.com/track/2xfoFuQxQeEkQRgY3tF1JU) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 3:49 | 2024-08-05 | 2025-04-02 |
 | [Inner Eden](https://open.spotify.com/track/3WUq4X29XbjWDDN3i6ALnk) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 4:21 | 2024-08-05 | 2025-04-02 |
 | [Inside a Dream \(feat\. prettyhappy\)](https://open.spotify.com/track/4gzLhua7QMpnF1arrhQgul) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [Dream Age](https://open.spotify.com/album/2mYhQdT3IPYP5OX0riiLvK) | 3:06 | 2025-09-08 | 2025-10-21 |
-| [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 | 2026-02-13 |  |
+| [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 | 2026-02-13 | 2026-03-13 |
 | [Kill Me](https://open.spotify.com/track/7LmfRICcwf2WMFUfeyo4xz) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Kill Me](https://open.spotify.com/album/1hYpOYEGgSNcVAgJnW7eC7) | 4:02 | 2024-08-05 | 2025-04-02 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-08-05 | 2025-05-02 |
 | [L](https://open.spotify.com/track/08yMOmydumplen59qUD4zf) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [L](https://open.spotify.com/album/6m2BgbFl4IgJf7zJ48sxko) | 3:36 | 2024-08-05 | 2025-04-02 |
@@ -99,7 +101,7 @@
 | [Lily of The Valley](https://open.spotify.com/track/4gAIUEY7VkeiKQOPwIYaYb) | [DANIEL](https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6) | [Flower](https://open.spotify.com/album/2M7Shx9AkhvDRs33JZR7wx) | 4:57 | 2025-04-17 |  |
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-30 | 2025-08-20 |
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-08-05 |  |
-| [LOST](https://open.spotify.com/track/23alqwXGP0AULQNNLoo8hP) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [LOST \(Positively Yours X THAMA\) \[Original Soundtrack\]](https://open.spotify.com/album/7jUK0orRr3PukdcFBmI5eb) | 4:17 | 2026-02-13 |  |
+| [LOST](https://open.spotify.com/track/23alqwXGP0AULQNNLoo8hP) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [LOST \(Positively Yours X THAMA\) \[Original Soundtrack\]](https://open.spotify.com/album/7jUK0orRr3PukdcFBmI5eb) | 4:17 | 2026-02-13 | 2026-03-13 |
 | [Lost In Space](https://open.spotify.com/track/1PIBxfR4k67snh0hUSgzPs) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Lost In Space](https://open.spotify.com/album/02lrMtGj1XXii9azaaBtPl) | 4:18 | 2024-08-05 | 2025-05-31 |
 | [Love Is You](https://open.spotify.com/track/5iDpbj6HcDohfP5UCNeIOZ) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Flower](https://open.spotify.com/album/6sR8UXsdokd18ak4Eflyuw) | 3:53 | 2026-01-26 | 2026-02-14 |
 | [Love Shine](https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt) | [LEEHEESANG](https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz) | [WHOEVER](https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj) | 4:26 | 2025-04-17 |  |
@@ -157,6 +159,7 @@
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-08-05 |  |
 | [Shadow of You](https://open.spotify.com/track/0dYn8RJrjXi5jh7pnhrcZi) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:16 | 2025-06-12 | 2025-08-20 |
 | [She](https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [She](https://open.spotify.com/album/3LwTiul097ARDdI02bgKO9) | 3:14 | 2024-08-05 | 2025-06-13 |
+| [shorthand and shorthand](https://open.spotify.com/track/4LCyhDCUayVayYCLvNJfDn) | [2danji](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [a public walk](https://open.spotify.com/album/1PEy98fZ5FmI2R71CCK2zt) | 2:10 | 2026-03-12 |  |
 | [Shouldn't Be](https://open.spotify.com/track/7F6PtLP6fJPVtA1FWVkl8K) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Shouldn't Be](https://open.spotify.com/album/0GObFfKRxmmY7lAeehFO51) | 3:30 | 2025-07-10 | 2026-02-17 |
 | [Shy Eyes](https://open.spotify.com/track/4nO1CkQRa3y8dgnv6D1AsA) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:12 | 2024-08-05 | 2025-04-02 |
 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 | 2024-08-05 | 2025-04-18 |
@@ -200,7 +203,7 @@
 | [wwwe](https://open.spotify.com/track/5kWOut7CPSesQrSvzTON1h) | [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [wwwe](https://open.spotify.com/album/6mMVTxz0WbExTvCYdK1mJ6) | 3:42 | 2024-08-05 | 2025-04-02 |
 | [YA,YA 야,야](https://open.spotify.com/track/3BwKReqxpaS1CCsLkydw5a) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YA,YA 야,야](https://open.spotify.com/album/2XfaxkhGc0Bpn6TDUR7Vhu) | 4:42 | 2024-08-05 | 2025-04-02 |
 | [Yes](https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 7:06 | 2024-08-05 | 2025-04-18 |
-| [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/08QharKdouaH70SCqhfcZM) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 2:47 | 2024-08-05 |  |
+| [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/08QharKdouaH70SCqhfcZM) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Model](https://open.spotify.com/album/64SX9Efb2JGW3rJFE1ZddJ) | 2:47 | 2024-08-05 | 2026-03-13 |
 | [YOUtopia](https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:02 | 2024-08-05 |  |
 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2024-08-05 |  |
 | [너의 파도 Wave](https://open.spotify.com/track/1TyMONNhBWywC5Xtmc67rd) | [Bye Bye Badman](https://open.spotify.com/artist/14stFRB2PwF6QdKNHDdMnh) | [너의 파도 Wave](https://open.spotify.com/album/7CKrjaE2vn2QQ0nRLarsXn) | 3:58 | 2024-08-05 | 2025-04-02 |

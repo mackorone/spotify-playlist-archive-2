@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 244361,
+  "num_followers": 244428,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -251,8 +251,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Solo Para Ti",
-        "url": "https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714"
+        "name": "No Te Olvidare",
+        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 252573,
-      "name": "Amigo M\u00edo",
-      "url": "https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC"
+      "duration_ms": 229840,
+      "name": "No Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -331,8 +331,8 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "No Te Olvidare",
-        "url": "https://open.spotify.com/album/3Us3CXsmEyaFYTgqOnCzUy"
+        "name": "Solo Para Ti",
+        "url": "https://open.spotify.com/album/7DW7Kdtf2syoUnwd0z8714"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
         }
       ],
-      "duration_ms": 229840,
-      "name": "No Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3baOh8JLoNB3DdO2cBbTSK"
+      "duration_ms": 252573,
+      "name": "Amigo M\u00edo",
+      "url": "https://open.spotify.com/track/4ITL0FFTc4LRFyvUVeY4CC"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Qui\u00e9n Iba A Pensar (Remastered)",
-        "url": "https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 240826,
-      "name": "Qui\u00e9n Iba A Pensar",
-      "url": "https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Ven Mi Amor",
         "url": "https://open.spotify.com/album/2hZlBpUoeN4SMo7yJtieX8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232533,
       "name": "Ahora Dile",
       "url": "https://open.spotify.com/track/51yTzGq5mutXExkKS87nbM"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Qui\u00e9n Iba A Pensar (Remastered)",
+        "url": "https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 240826,
+      "name": "Qui\u00e9n Iba A Pensar",
+      "url": "https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Puro Tejano Gold",
-        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
-      },
-      "artists": [
-        {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Si Me Faltas Tu (Remastered)",
         "url": "https://open.spotify.com/album/3a3u36KzWbTPclPqE82eYB"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 251903,
       "name": "Yo Te Voy A Amar",
       "url": "https://open.spotify.com/track/60PDeZGuhX1YqmBdMcxNQ1"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Puro Tejano Gold",
+        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
+      },
+      "artists": [
+        {
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Puro Tejano",
-        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
-      },
-      "artists": [
-        {
-          "name": "Little Joe",
-          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Borrachera",
-      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Que Cante El Mundo (Remastered)",
         "url": "https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 544800,
       "name": "Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Dev\u00f3rame Otra Vez, Qu\u00e9 Esperabas featuring Jay Perez",
       "url": "https://open.spotify.com/track/1yyuvKMFwBzIw8xu9rq6Dv"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "Puro Tejano",
+        "url": "https://open.spotify.com/album/4BtAAu0k6eU8P6HLRrWYjr"
+      },
+      "artists": [
+        {
+          "name": "Little Joe",
+          "url": "https://open.spotify.com/artist/3uA4pgIfWvRN5Ika88wgby"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "Borrachera",
+      "url": "https://open.spotify.com/track/3fNk8B1ITMz5ChnG3uV0J5"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -751,22 +751,6 @@
       "duration_ms": 294533,
       "name": "Las Nubes",
       "url": "https://open.spotify.com/track/5x6z28U8d6qYXR4cqU8zN9"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
-      },
-      "artists": [
-        {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -815,6 +799,22 @@
       "duration_ms": 278546,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
+      },
+      "artists": [
+        {
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
     },
     {
       "added_at": "2024-05-02 04:14:20",

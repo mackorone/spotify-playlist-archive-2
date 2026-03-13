@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 274626,
       "name": "Alasidi",
       "url": "https://open.spotify.com/track/07S3LkvTWmZ8tq00EUnIPZ"
@@ -872,6 +872,24 @@
       "duration_ms": 233866,
       "name": "Duna ma yelema",
       "url": "https://open.spotify.com/track/6luGztVGxfGDfaqpONWUAS"
+    },
+    {
+      "album": {
+        "name": "Hoggar",
+        "url": "https://open.spotify.com/album/2gqUcbYA8djTbahHOE7hjx"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214723,
+      "name": "Erghad Afewo",
+      "url": "https://open.spotify.com/track/2356DCJaegEGZ9qPTRrojb"
     },
     {
       "album": {

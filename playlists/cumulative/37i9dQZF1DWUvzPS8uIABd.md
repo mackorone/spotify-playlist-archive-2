@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-911 songs - 1 day 21 hr 28 min
+912 songs - 1 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/track/6kbZCTF1nRX5hby64Z1Wmq) | [EME](https://open.spotify.com/artist/2g0v8ntUy4SSbvrHhUljE5), [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Ota mut takas \(feat\. Ville Veikka\)](https://open.spotify.com/album/1CARdA6I2UNChyv6Njcsua) | 3:13 | 2024-07-11 | 2024-08-10 |
 | [Ota varovasti \- Vain elämää kausi 16](https://open.spotify.com/track/15noY1bk3ACNXkvWE3zX25) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Ota varovasti \(Vain elämää kausi 16\)](https://open.spotify.com/album/7EbTNyURsRrJqaiyv2CRHq) | 3:48 | 2025-10-23 | 2025-11-14 |
 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 | 2024-08-22 | 2025-01-03 |
+| [Oulu](https://open.spotify.com/track/643eEKPaQKeIidBzPKvpOK) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Oulu](https://open.spotify.com/album/2uJxtEJyur2udfc7Vn1k13) | 2:35 | 2026-03-12 |  |
 | [Oulunkyläst ikuisuuteen \(feat\. VilleGalle\) \- Gnistan Remix](https://open.spotify.com/track/5CaQCCTayPEW74Ap3ChQYz) | [Gasellit](https://open.spotify.com/artist/1iVTfRuCrTJJ7QudNpQatF), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Oulunkyläst ikuisuuteen \(feat\. VilleGalle\) \- Gnistan Remix](https://open.spotify.com/album/3pGnQSUKn0QIOfkEqkBfLn) | 2:04 | 2024-09-12 | 2024-09-20 |
 | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/track/7Jj5JuuZAog8yd4F33h9Wq) | [Keko Salata](https://open.spotify.com/artist/18KcOgLds5SUgIpQIveiJN), [Kumma José](https://open.spotify.com/artist/3xdVNHKbThYuZSQ2sXV3iR) | [Outoja unia \(feat\. Kumma José\)](https://open.spotify.com/album/0QjEnxzRAaKmHJT0y9aQ7a) | 2:38 | 2025-09-11 | 2025-09-27 |
 | [P\-ralli](https://open.spotify.com/track/28qrMoNw10RZBlF9kONeYY) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [P\-ralli](https://open.spotify.com/album/3UA2Ezi0FqHXvZkuHo0Z2n) | 2:49 | 2024-10-17 | 2024-11-08 |
@@ -619,7 +620,7 @@
 | [Rakastut muihin tyttöihin](https://open.spotify.com/track/73I8G01m1fv2RWx6sR9GZW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Rakastut muihin tyttöihin](https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc) | 2:15 | 2024-10-24 | 2024-12-06 |
 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 | 2025-09-18 | 2025-10-17 |
 | [Rakkaudenkipee](https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Rakkaudenkipee](https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7) | 2:54 | 2026-01-23 |  |
-| [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 | 2025-10-23 |  |
+| [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 | 2025-10-23 | 2026-03-13 |
 | [Rakkaus on sokea \(feat\. Senni\)](https://open.spotify.com/track/3xhaHaYHk2W3iF0oZYaqDO) | [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Rakkaus on sokea \(feat\. Senni\)](https://open.spotify.com/album/1BlVmzKtkoV7M1zxsKtUJc) | 2:44 | 2025-09-04 | 2025-11-21 |
 | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Rakkauteen \(Vain elämää kausi 16\)](https://open.spotify.com/album/7FUgrkjZ2S7YYeXGvaFlsn) | 3:15 | 2025-10-09 | 2026-02-13 |
 | [RANDOM](https://open.spotify.com/track/05e4kdlalqyXn9FhpYJQ9F) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [RANDOM](https://open.spotify.com/album/7AF9dwF6qTEZ5RRdsgiENM) | 3:01 | 2024-11-28 | 2024-12-13 |

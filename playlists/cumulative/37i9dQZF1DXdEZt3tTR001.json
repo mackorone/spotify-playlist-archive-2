@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
+    },
+    {
+      "album": {
         "name": "DON'T PLAY WITH MY HEART",
         "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
       },
@@ -6978,7 +6996,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 341066,
       "name": "Traffic Lights (feat. Thom Yorke)",
       "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"

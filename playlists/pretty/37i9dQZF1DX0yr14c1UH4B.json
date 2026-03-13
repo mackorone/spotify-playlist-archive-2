@@ -1,13 +1,45 @@
 {
-  "description": "It's all about the song  \ud83c\udfa7 cover: Kingfishr\n\ud83d\udccdSomewhere between indie, pop, folk and country",
-  "num_followers": 105255,
+  "description": "It's all about the song  \ud83c\udfa7 cover: Kacey Musgraves\n\ud83d\udccdSomewhere between indie, pop, folk and country",
+  "num_followers": 105253,
   "original_name": "Common Thread",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHqqpTr190AGpFqvbMlwUzqWsOpw",
+  "snapshot_id": "AAAAAA8GQ/iJOns0BWtgIKKjkqU6XF65",
   "tracks": [
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "Dry Spell",
+        "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
+    },
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "When You Fall In Love",
+        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "duration_ms": 187057,
+      "name": "When You Fall In Love",
+      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
+    },
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
@@ -45,6 +77,22 @@
       "url": "https://open.spotify.com/track/3tmfku440xHAmxVZHkFYru"
     },
     {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "duration_ms": 250883,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj"
+    },
+    {
       "added_at": "2026-03-06 00:00:27",
       "album": {
         "name": "The Blade",
@@ -61,6 +109,38 @@
       "url": "https://open.spotify.com/track/4xlkVxykYvk6i7Co32lMDS"
     },
     {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 259751,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+    },
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "Please, Don't Wake Me",
+        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "duration_ms": 219406,
+      "name": "Please, Don't Wake Me",
+      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
+    },
+    {
       "added_at": "2026-03-06 00:00:27",
       "album": {
         "name": "Old Holy Feeling",
@@ -75,6 +155,22 @@
       "duration_ms": 306852,
       "name": "Old Holy Feeling",
       "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
+    },
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "Henrietta",
+        "url": "https://open.spotify.com/album/00SK7X2cLpcb6V85WI2jKb"
+      },
+      "artists": [
+        {
+          "name": "Hetta Falzon",
+          "url": "https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Switch It Off",
+      "url": "https://open.spotify.com/track/3kPkeU9RPb1vpdMwcoUqjI"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -147,6 +243,38 @@
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
+        "name": "Be Her",
+        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Be Her",
+      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "A Mile In My Mind",
+        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "added_at": "2026-03-06 00:00:27",
+      "album": {
         "name": "Nothing in it for me",
         "url": "https://open.spotify.com/album/0kQmPCFvJmBXszQL98Km0W"
       },
@@ -207,6 +335,22 @@
       "duration_ms": 190093,
       "name": "Devil You Know",
       "url": "https://open.spotify.com/track/0SvFR7coUg1LeJvGPWxG2w"
+    },
+    {
+      "added_at": "2026-03-06 00:00:27",
+      "album": {
+        "name": "At Home In My Mind",
+        "url": "https://open.spotify.com/album/43LAwuczPIoLgL2t8N82h6"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 231117,
+      "name": "Lonelier In Heaven",
+      "url": "https://open.spotify.com/track/5qCElyP7yuoJNqgWi8CiyL"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -289,6 +433,22 @@
       "url": "https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk"
     },
     {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "And Then Came September",
+        "url": "https://open.spotify.com/album/3TgJvi94iXXwyuz4E0C196"
+      },
+      "artists": [
+        {
+          "name": "NEDA",
+          "url": "https://open.spotify.com/artist/3ujRcPTesvftBGcy2rkzrl"
+        }
+      ],
+      "duration_ms": 201478,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/1NCpCxB5reg9O8TWxGz4XY"
+    },
+    {
       "added_at": "2026-03-06 00:00:27",
       "album": {
         "name": "War To Love",
@@ -303,6 +463,22 @@
       "duration_ms": 226770,
       "name": "War To Love",
       "url": "https://open.spotify.com/track/2WY1WmPZN1Kxh216rdMwu0"
+    },
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/6P9HOZik0V0fIraLQ92hRA"
+      },
+      "artists": [
+        {
+          "name": "Luke Marshall Black",
+          "url": "https://open.spotify.com/artist/25qOkwX6KXvIxboaXBQ2Jw"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/16cplAoOxG2iKOb3ENH0ZD"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -337,6 +513,22 @@
       "url": "https://open.spotify.com/track/62PtPi007Plw18uTqeZU6n"
     },
     {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "Can't Sit Still",
+        "url": "https://open.spotify.com/album/4RseAUz5ufSX0SazOe9kfc"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 215146,
+      "name": "Can't Sit Still",
+      "url": "https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J"
+    },
+    {
       "added_at": "2026-03-06 00:00:27",
       "album": {
         "name": "real life",
@@ -367,30 +559,6 @@
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Atlanta",
-        "url": "https://open.spotify.com/album/0D5Js6PSJm4xsy872qRBgf"
-      },
-      "artists": [
-        {
-          "name": "Gnarls Barkley",
-          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        },
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Turn Your Heart Back On",
-      "url": "https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -443,6 +611,22 @@
       "duration_ms": 227299,
       "name": "I See You",
       "url": "https://open.spotify.com/track/0QFokWg1OVO1gAfRMJSdVl"
+    },
+    {
+      "added_at": "2026-03-13 00:00:11",
+      "album": {
+        "name": "Fishing Song",
+        "url": "https://open.spotify.com/album/2wBY2tlSRSu4tG2qyzFCoW"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Fishing Song",
+      "url": "https://open.spotify.com/track/13xvAufEtZkbdpkxkCBeUC"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -623,6 +807,22 @@
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
+        "name": "hands to myself",
+        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 160491,
+      "name": "hands to myself",
+      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
+    },
+    {
+      "added_at": "2026-03-06 00:00:27",
+      "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
@@ -659,22 +859,6 @@
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
-        "name": "Love Will Kill Me",
-        "url": "https://open.spotify.com/album/1hRgrg6gwZmLV9DkSaxtdx"
-      },
-      "artists": [
-        {
-          "name": "Hetta Falzon",
-          "url": "https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH"
-        }
-      ],
-      "duration_ms": 198386,
-      "name": "Love Will Kill Me",
-      "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
@@ -691,22 +875,6 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Be Her",
-        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Be Her",
-      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -883,6 +1051,30 @@
       "duration_ms": 181181,
       "name": "Empty Of You",
       "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
+    },
+    {
+      "added_at": "2026-03-06 00:00:27",
+      "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/0D5Js6PSJm4xsy872qRBgf"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Turn Your Heart Back On",
+      "url": "https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -1079,22 +1271,6 @@
       "duration_ms": 198862,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/0vAt0UiWhyWHDaQkbrjO5F"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "At Home In My Mind",
-        "url": "https://open.spotify.com/album/43LAwuczPIoLgL2t8N82h6"
-      },
-      "artists": [
-        {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
-        }
-      ],
-      "duration_ms": 231117,
-      "name": "Lonelier In Heaven",
-      "url": "https://open.spotify.com/track/5qCElyP7yuoJNqgWi8CiyL"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -1343,22 +1519,6 @@
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
-        "name": "Sleepless in a Hotel Room",
-        "url": "https://open.spotify.com/album/4svTVbjxKUxzSUBI0HYvds"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 177674,
-      "name": "Sleepless in a Hotel Room",
-      "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
       },
@@ -1375,22 +1535,6 @@
       "duration_ms": 229346,
       "name": "Over (feat. Tom Odell)",
       "url": "https://open.spotify.com/track/7pRx2dk34DHINRWCytBPm4"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Miss",
-        "url": "https://open.spotify.com/album/1FzOkO7pp3y2Q8BXffpLsb"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 217700,
-      "name": "Miss",
-      "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -1495,38 +1639,6 @@
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
-        "name": "hands to myself",
-        "url": "https://open.spotify.com/album/6hFrFTTnn4LiZr8izHX1zf"
-      },
-      "artists": [
-        {
-          "name": "Keni Titus",
-          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
-        }
-      ],
-      "duration_ms": 160491,
-      "name": "hands to myself",
-      "url": "https://open.spotify.com/track/312F4NjnSnTbFI70e435is"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "For You, My Love",
-        "url": "https://open.spotify.com/album/5yyo2qqQg0y0Sjtr321PPE"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 192236,
-      "name": "For You, My Love",
-      "url": "https://open.spotify.com/track/5upTmFcG7SR5MiNZIWlriI"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/5Q18GtyAco5jhxjhftppGh"
       },
@@ -1571,38 +1683,6 @@
       "duration_ms": 152076,
       "name": "sticks and stones",
       "url": "https://open.spotify.com/track/6YUOUEBVYXnF4ZQRTDpORz"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Castles In The Sky",
-        "url": "https://open.spotify.com/album/2TsXL10mNSTiemVaHoFlPi"
-      },
-      "artists": [
-        {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Castles In The Sky",
-      "url": "https://open.spotify.com/track/3XqVZir88UNWitDqg07yk3"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Halcyon (Deluxe)",
-        "url": "https://open.spotify.com/album/4P1BBeZSJSknyrfkLbD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/0P2Oin9RGR8ILP5xYNSBiy"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -1671,22 +1751,6 @@
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
-        "name": "the minute you're gone",
-        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "the minute you're gone",
-      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/0oxxb3CLGo9cLHvnuvSEOF"
       },
@@ -1715,22 +1779,6 @@
       "duration_ms": 178560,
       "name": "Woven",
       "url": "https://open.spotify.com/track/5faq5yGNX96s9iuegnbx4s"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Please Don't Hate Me",
-        "url": "https://open.spotify.com/album/03p0tlHZsQRjw54rG4hPkd"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Please Don't Hate Me",
-      "url": "https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -1799,22 +1847,6 @@
     {
       "added_at": "2026-03-06 00:00:27",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/4GCl2J72Hzykrt4Ajv0rJU"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Steer",
-          "url": "https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH"
-        }
-      ],
-      "duration_ms": 208129,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/22UXcHkB8wArgD6H8Si4Ui"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
         "name": "This Must Be Love",
         "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
       },
@@ -1843,22 +1875,6 @@
       "duration_ms": 160500,
       "name": "CAGE",
       "url": "https://open.spotify.com/track/13AirMsRBWPGcPfVniLBL0"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Wedding Song",
-        "url": "https://open.spotify.com/album/5F5FlH0DmqWvPZEi2bMAsX"
-      },
-      "artists": [
-        {
-          "name": "Ellie Nanni",
-          "url": "https://open.spotify.com/artist/3spMydBaIHg5DCbXY8tDqc"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Wedding Song",
-      "url": "https://open.spotify.com/track/5JIP0Z45bvhVBmILzAuIbF"
     },
     {
       "added_at": "2026-03-06 00:00:27",
@@ -1923,22 +1939,6 @@
       "duration_ms": 117118,
       "name": "count on you",
       "url": "https://open.spotify.com/track/56YC3sgpExaLtf9AsYTnos"
-    },
-    {
-      "added_at": "2026-03-06 00:00:27",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/0j5Blq32IUAxXU7y1NtqBv"
-      },
-      "artists": [
-        {
-          "name": "Lewis Fitzgerald",
-          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
-        }
-      ],
-      "duration_ms": 155788,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/13BDreSwqXdUyIbFyt4ifY"
     },
     {
       "added_at": "2026-03-06 00:00:27",

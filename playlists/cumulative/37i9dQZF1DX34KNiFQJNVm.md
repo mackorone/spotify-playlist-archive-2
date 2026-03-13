@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Raphaela Santos com LUDMILLA, Israel & Rodolffo, Harry Styles, MC Cabelinho com Tz da Coronel, Gilsons e muito mais!
 
-17,452 songs - 36 day 23 hr 53 min
+17,453 songs - 36 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6759,6 +6759,7 @@
 | [Greve De Beijo \- Ao Vivo](https://open.spotify.com/track/2LQ67PtoEgJSaRSqoh4k2E) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Let's Bora UDI \(Ao Vivo\)](https://open.spotify.com/album/6qoyIq6P1ARy6Chl6WHFTf) | 2:37 | 2024-03-01 | 2024-03-09 |
 | [GRG](https://open.spotify.com/track/1ic5raNHZd8GAxkQbGD8XU) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [GRG](https://open.spotify.com/album/3fabgcse8DMKk4jOdZmf87) | 2:00 | 2025-08-09 | 2025-08-23 |
 | [Grifes \(Conheço bem\)](https://open.spotify.com/track/3y1t0IpeIxB6YCIPEq6fLu) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn) | [Grifes \(Conheço bem\)](https://open.spotify.com/album/24bK4v0OKbE1nEwDa6w9Xe) | 2:24 | 2023-06-02 | 2023-06-10 |
+| [grillos](https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [grillos](https://open.spotify.com/album/72dy2ivRHVBBycsT0347Mc) | 3:24 | 2026-03-06 |  |
 | [Grinding All Season](https://open.spotify.com/track/1p2AbhtzG2Njx2x0JB83zA) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Grinding All Season](https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2) | 2:50 | 2022-02-11 | 2022-02-19 |
 | [Gringo](https://open.spotify.com/track/7tGY7AG6nPFCeP2KAXZCen) | [Akashi Cruz](https://open.spotify.com/artist/68wF4X9K8JFav3YlPFtsR2) | [Gringo](https://open.spotify.com/album/3bFrxMbPC5kxbVWfYkqDzF) | 2:11 | 2025-04-11 | 2025-04-19 |
 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 | 2024-04-26 | 2024-05-03 |

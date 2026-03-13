@@ -1,12 +1,12 @@
 {
   "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Aterciopelados en portada.",
-  "num_followers": 21305,
+  "num_followers": 21310,
   "original_name": "IRIS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFcl5k5MLYBgJD/whWagQmsGmB7T",
+  "snapshot_id": "AAAAAKD93xB8I0zTFncsmbPIFSLHCN9M",
   "tracks": [
     {
       "added_at": "2026-03-06 16:32:56",
@@ -83,6 +83,22 @@
       "duration_ms": 159333,
       "name": "Se Vienen Cositas",
       "url": "https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI"
+    },
+    {
+      "added_at": "2026-03-12 22:45:38",
+      "album": {
+        "name": "FAUNA",
+        "url": "https://open.spotify.com/album/54sHbojbRXsCPxVCLiXxQQ"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "duration_ms": 202180,
+      "name": "Oso en invierno",
+      "url": "https://open.spotify.com/track/4eoIEcqr9Fx65fGtBvH7A5"
     },
     {
       "added_at": "2026-03-06 16:32:56",
@@ -887,22 +903,6 @@
       "duration_ms": 217148,
       "name": "El Juego",
       "url": "https://open.spotify.com/track/32JCK5B9YEYNVpDNdZKZ32"
-    },
-    {
-      "added_at": "2026-03-06 16:32:56",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/2ba1GR1RqRdQGVVY4wWuOI"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
     }
   ],
   "unique_name": "IRIS",

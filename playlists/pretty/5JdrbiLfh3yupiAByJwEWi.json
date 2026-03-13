@@ -1,13 +1,29 @@
 {
-  "description": "The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: Nelly Furtado",
-  "num_followers": 15288,
+  "description": "The best party hits from the decade that gave you Katy Perry, Rihanna, Lady Gaga and more! Cover: The Pussycat Dolls",
+  "num_followers": 15290,
   "original_name": "2000s Pop Party",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAB6/RGzm+fxLha90MGLYjeS9F6KYSW",
+  "snapshot_id": "AAAB7gJ2H4pVzt6NApkb23C6+m3zCjPv",
   "tracks": [
+    {
+      "added_at": "2026-02-23 16:51:22",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/3BxWKCI06eQ5Od8TY2JBeA"
+    },
     {
       "added_at": "2026-02-23 16:51:22",
       "album": {
@@ -223,22 +239,6 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
-    },
-    {
-      "added_at": "2026-02-23 16:51:22",
-      "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/3BxWKCI06eQ5Od8TY2JBeA"
     },
     {
       "added_at": "2026-02-23 16:51:22",

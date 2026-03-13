@@ -4,10 +4,11 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-199 songs - 12 hr 34 min
+200 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Abducción Amazonica, Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 | 2021-10-20 |  |
 | [Aguaepanela Fantástica](https://open.spotify.com/track/3gTZmynwI06fQJHhvr0P2E) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Entre Bacanería y Barbarie](https://open.spotify.com/album/4l94tB5FUn0iUYDNIgmypU) | 4:15 | 2021-11-12 | 2024-04-19 |
 | [Aguaepanela Fantástica](https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Aguaepanela Fantástica](https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j) | 4:15 | 2021-11-12 | 2024-02-10 |
 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-23 |  |
@@ -108,9 +109,9 @@
 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 | 2021-10-20 |  |
 | [La Número Uno](https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 4:04 | 2021-10-20 | 2023-10-11 |
 | [La Piña Madura Radio Edit](https://open.spotify.com/track/1KbW5xShKYpq2cPYq49HgC) | [Abelardo Carbono](https://open.spotify.com/artist/2gvexCrSP72GLvESGZQ772), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [La Piña Madura](https://open.spotify.com/album/11jzzoQCbX95jp8pzK4pqf) | 4:50 | 2025-01-21 |  |
+| [La voz del sinchi](https://open.spotify.com/track/6XMoJLbM0Q0TpxdSnPQnOe) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Impredecible](https://open.spotify.com/album/6eBd1fH0K3WOwOx5T4NC38) | 4:07 | 2025-05-19 |  |
 | [La Weá](https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 5:56 | 2021-10-20 |  |
 | [Lamento en la Selva](https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 5:02 | 2021-10-20 |  |
-| [Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 | 2021-10-20 |  |
 | [Lazalypso](https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y) | 3:33 | 2021-10-20 | 2024-04-19 |
 | [Lobos al Escape](https://open.spotify.com/track/2UMTGUu66hP2dW3rvQJIgL) | [Los Orientales de Paramonga](https://open.spotify.com/artist/6XpyhLSGgaliI2y0nYcD1c) | [Los Orientales de Paramonga](https://open.spotify.com/album/5vKNkmVM7uDQzx1C99I0Vy) | 2:31 | 2021-10-20 |  |
 | [Loco Playa](https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Loco Playa](https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7) | 3:37 | 2021-10-20 |  |
@@ -146,7 +147,7 @@
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 | 2024-04-19 |
 | [Onda tropical \- Cumbia Version](https://open.spotify.com/track/6jN40i3UnbYaQ10cvgEzci) | [Doble Play](https://open.spotify.com/artist/3vy6O47cuQ2Q9gEtmnG8S8), [Rodrigo Martínez Torres](https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7) | [Onda tropical \(Cumbia Version\)](https://open.spotify.com/album/6xrn1xN8mBj1rvPaSrE3o8) | 3:24 | 2024-08-07 |  |
 | [Otro Muerde el Polvo \(Another One Bites the Dust\)](https://open.spotify.com/track/6v5qsDOyBIoVELFdppFWfD) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 3:32 | 2021-10-20 | 2024-04-19 |
-| [OVNI Cumbia](https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [OVNI Cumbia](https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP) | 3:46 | 2023-09-25 |  |
+| [OVNI Cumbia](https://open.spotify.com/track/4HaTOY6NHoWNr80QXs5sEm) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [OVNI Cumbia](https://open.spotify.com/album/5zIwx6VzbPOyDsHyutXhVP) | 3:46 | 2023-09-25 | 2026-03-13 |
 | [Paga la Cuenta Sinverguenza](https://open.spotify.com/track/56PULupF5Gt50FyostKuMd) | [Manzanita](https://open.spotify.com/artist/6YZOLlgZ38qVDSxVv9xg0G) | [The Roots of Chicha 2](https://open.spotify.com/album/6eYFx3AtyfJggMN3kWpIqI) | 3:09 | 2021-10-20 | 2024-04-19 |
 | [Palermo's Grunch](https://open.spotify.com/track/3QIIQCAJeIFpi9GK0vB6Ye) | [Los Pirañas](https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq) | [Palermo's Grunch](https://open.spotify.com/album/4QjEWC8yYh8JQna57ZKFaj) | 5:08 | 2025-05-19 |  |
 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 | 2021-10-20 | 2025-11-08 |

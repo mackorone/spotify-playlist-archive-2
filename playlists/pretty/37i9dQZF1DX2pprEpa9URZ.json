@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 898472,
+  "num_followers": 898635,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -414,10 +414,6 @@
         {
           "name": "mor\u2022a\u2022mor",
           "url": "https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42"
-        },
-        {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
         }
       ],
       "duration_ms": 171840,
@@ -715,6 +711,22 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
+    },
+    {
+      "added_at": "2026-02-27 16:16:13",
+      "album": {
         "name": "Waya",
         "url": "https://open.spotify.com/album/1KDIQD5as4eTpPS8YfgKfB"
       },
@@ -739,22 +751,6 @@
       "duration_ms": 222096,
       "name": "Waya",
       "url": "https://open.spotify.com/track/4Dd72AtS6qXYPNSLE8cpMq"
-    },
-    {
-      "added_at": "2026-02-27 16:16:13",
-      "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2026-02-27 16:16:13",
@@ -1027,26 +1023,18 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
-        "name": "Asalam Alaikum",
-        "url": "https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw"
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
       "artists": [
         {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        },
-        {
-          "name": "ZSS",
-          "url": "https://open.spotify.com/artist/0EdHRrvfxXevJFUB3wBVbe"
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
         }
       ],
-      "duration_ms": 303386,
-      "name": "Asalam Alaikum",
-      "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2026-02-27 16:16:13",
@@ -1087,18 +1075,26 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+        "name": "Asalam Alaikum",
+        "url": "https://open.spotify.com/album/0Ujw0Jt3rQlsEkH16pcXXw"
       },
       "artists": [
         {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        },
+        {
+          "name": "ZSS",
+          "url": "https://open.spotify.com/artist/0EdHRrvfxXevJFUB3wBVbe"
         }
       ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+      "duration_ms": 303386,
+      "name": "Asalam Alaikum",
+      "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
     },
     {
       "added_at": "2026-02-27 16:16:13",
@@ -1135,26 +1131,6 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Gruwski",
-          "url": "https://open.spotify.com/artist/0XMmdHuO3XYx3PCqqgCen6"
-        }
-      ],
-      "duration_ms": 416014,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
-    },
-    {
-      "added_at": "2026-02-27 16:16:13",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
       },
@@ -1187,6 +1163,26 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
+      "added_at": "2026-02-27 16:16:13",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Gruwski",
+          "url": "https://open.spotify.com/artist/0XMmdHuO3XYx3PCqqgCen6"
+        }
+      ],
+      "duration_ms": 416014,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
     },
     {
       "added_at": "2026-02-27 16:16:13",
@@ -1323,6 +1319,22 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
+        "name": "Solstice Vibes III",
+        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
+      },
+      "artists": [
+        {
+          "name": "Agawe",
+          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
+        }
+      ],
+      "duration_ms": 403831,
+      "name": "Flowers in Mind",
+      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+    },
+    {
+      "added_at": "2026-02-27 16:16:13",
+      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
       },
@@ -1343,18 +1355,18 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
-        "name": "Solstice Vibes III",
-        "url": "https://open.spotify.com/album/7CUKEZ8e3CrjmuhAPDrBCF"
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
       "artists": [
         {
-          "name": "Agawe",
-          "url": "https://open.spotify.com/artist/0JDQtfHCZKUpi3CJRkX2cn"
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
         }
       ],
-      "duration_ms": 403831,
-      "name": "Flowers in Mind",
-      "url": "https://open.spotify.com/track/5h88XmzAYzb6Quy9C9VRsz"
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2026-02-27 16:16:13",
@@ -1387,22 +1399,6 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2026-02-27 16:16:13",
-      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn"
       },
@@ -1431,26 +1427,6 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
-        "name": "Casablanca",
-        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
-      },
-      "artists": [
-        {
-          "name": "Lilya Mandre",
-          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 285148,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
-    },
-    {
-      "added_at": "2026-02-27 16:16:13",
-      "album": {
         "name": "Dilmano Dilbero (Sariel Orenda Remix)",
         "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
       },
@@ -1471,26 +1447,22 @@
     {
       "added_at": "2026-02-27 16:16:13",
       "album": {
-        "name": "No Bad Vibes (with Jayda G)",
-        "url": "https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W"
+        "name": "Casablanca",
+        "url": "https://open.spotify.com/album/2G4vviYLIiVAspd8iGdihA"
       },
       "artists": [
         {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
         },
         {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
         }
       ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes (with Jayda G)",
-      "url": "https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl"
+      "duration_ms": 285148,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
     },
     {
       "added_at": "2026-02-27 16:16:13",
@@ -1547,6 +1519,26 @@
       "duration_ms": 304418,
       "name": "Samra Samra",
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2026-02-27 16:16:13",
+      "album": {
+        "name": "Neko Ep",
+        "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
+      },
+      "artists": [
+        {
+          "name": "Jacob Groening",
+          "url": "https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f"
+        },
+        {
+          "name": "Kotoe",
+          "url": "https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM"
+        }
+      ],
+      "duration_ms": 273523,
+      "name": "Neko (feat Kotoe)",
+      "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
     }
   ],
   "unique_name": "Org\u00e1nica",

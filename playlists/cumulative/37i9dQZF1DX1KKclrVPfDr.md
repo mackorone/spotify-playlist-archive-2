@@ -4,7 +4,7 @@
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-84 songs - 6 hr 12 min
+85 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Parichhawan Me](https://open.spotify.com/track/273OjO0cHi4P8xhEDEIRli) | [Pawan Singh](https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT), [Shivani Singh](https://open.spotify.com/artist/22bsH6ya7Wbrlf9Snsw8q3) | [Parichhawan Me](https://open.spotify.com/album/5pSqXD2Nv2Tykx1GOTa6Az) | 3:13 | 2026-03-06 |  |
 | [PATNA WALI MUNIYA](https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw), [Lk Laxmikaant](https://open.spotify.com/artist/7qCFqTfOt35oCPFR2iBe3K), [Pankaj Narayan](https://open.spotify.com/artist/3bDA8NEDAIL4AjA8m2zDY8) | [PATNA WALI MUNIYA](https://open.spotify.com/album/4GQY4S99fAQnaYmwpKyUkl) | 4:06 | 2025-09-15 | 2026-03-07 |
 | [Purab Disha Se \- Lagan Geet](https://open.spotify.com/track/0m2gwu1YhGPbaphMUVNbZo) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Piya Ke Nagariya](https://open.spotify.com/album/6n20SlnH9DmN3TEK0fZicn) | 5:48 | 2026-03-06 |  |
-| [Purain Paat Par](https://open.spotify.com/track/3RuAcWipM4CYbMzQ4zCh5H) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 6:15 | 2026-03-06 |  |
+| [Purain Paat Par](https://open.spotify.com/track/3RuAcWipM4CYbMzQ4zCh5H) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 6:15 | 2026-03-06 | 2026-03-13 |
 | [Puri Tarkari](https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [Puri Tarkari](https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7) | 2:54 | 2025-09-15 |  |
 | [Pyaar ka Vyapar](https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Pyaar ka Vyapar](https://open.spotify.com/album/0oC8Z3ACgjvm2ZprSMhsOP) | 3:24 | 2025-09-15 | 2026-03-07 |
 | [Re Sajni](https://open.spotify.com/track/4hiPErACgGGVB6NN3jSH6G) | [Kiran Kashyap](https://open.spotify.com/artist/7FGFKpRL065kNi42y4vsI0) | [Re Sajni](https://open.spotify.com/album/4pkKfwkjUlm9kcuDkItqFx) | 3:10 | 2025-09-15 | 2026-03-07 |
@@ -82,6 +82,7 @@
 | [SAWARIYA](https://open.spotify.com/track/3yq59mQFfnqp8oh1Dxi8VC) | [Sneh Upadhya](https://open.spotify.com/artist/0BKTe6AJKYVv7i26bn1Aoi) | [SAWARIYA](https://open.spotify.com/album/5rKYTYpHErvjHQwoDZAfMT) | 3:26 | 2025-09-15 | 2026-03-07 |
 | [Senura Chhodave La Gaon](https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e) | [Priyanka Singh](https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M) | [Senura Chhodave La Gaon](https://open.spotify.com/album/3xNSBgYyybfL3GvmueMqzv) | 5:21 | 2025-09-15 |  |
 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 | 2026-03-06 |  |
+| [Shaadi Ke Bandan](https://open.spotify.com/track/5Ju0yXlVpxYw8DjdMRFzwQ) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Beti Ke Biaah](https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR) | 8:24 | 2026-03-06 |  |
 | [Shubh Vivah](https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ) | [Neelkamal Singh](https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC), [Amrita Dixit](https://open.spotify.com/artist/2u9ayLxzYVTazdBQmotAXH), [Antra Singh Priyanka](https://open.spotify.com/artist/1ddZZOn4qZRdqnmLuzPcKd) | [Shubh Vivah](https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA) | 12:58 | 2026-03-06 |  |
 | [Sikadiya](https://open.spotify.com/track/4d4eiUekZmnWelJZt90nB8) | [Khushbu Tiwari KT](https://open.spotify.com/artist/2fzxSTOd2GIgQWLCSUUFkk) | [Sikadiya](https://open.spotify.com/album/6GdKZ1aZEVeZIOiRspXdBX) | 4:42 | 2026-03-06 |  |
 | [Sir Ke Sundoor Re Gavanva](https://open.spotify.com/track/1lUZzS2Yt5MjSXgFAxmq4f) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:13 | 2026-03-06 |  |

@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: AtHeart \(앳하트\)\)
 
-1,612 songs - 3 day 14 hr 29 min
+1,613 songs - 3 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,7 +1056,7 @@
 | [PARADISE](https://open.spotify.com/track/20pXBnV8q1xnWzSijxq6QM) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:50 | 2025-09-01 | 2025-10-18 |
 | [PARANOIA](https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy) | [KANG DANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [PARANOIA](https://open.spotify.com/album/6vxwhImvm7xkbIMk0e1LVv) | 3:15 | 2021-02-16 | 2021-05-18 |
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-30 | 2022-11-19 |
-| [PASS](https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz) | [AxMxP](https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C) | [Amplify My Way](https://open.spotify.com/album/7IuDZgFQceNCdHLYNUGCZD) | 2:38 | 2026-01-21 |  |
+| [PASS](https://open.spotify.com/track/0V32dVXNkIfrRrenhbR0Sz) | [AxMxP](https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C) | [Amplify My Way](https://open.spotify.com/album/7IuDZgFQceNCdHLYNUGCZD) | 2:38 | 2026-01-21 | 2026-03-13 |
 | [PASTEL](https://open.spotify.com/track/4q0CYq46WxuMBCrXcs57vq) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [PASTEL](https://open.spotify.com/album/1QxYNSafFlcKwmnazaU8yE) | 3:20 | 2024-02-26 | 2024-03-31 |
 | [PDA](https://open.spotify.com/track/67SdDCd4AgsXf9bMSqWx5G) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [PDA](https://open.spotify.com/album/441CBoBxPuKC9ZGBSJpAoL) | 2:45 | 2025-07-16 | 2025-09-02 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-01 | 2022-02-18 |
@@ -1458,6 +1458,7 @@
 | [Undercover](https://open.spotify.com/track/25hPY8NCwcvXr21YdWmPns) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [SERIES 'O' \[ROUND 3 : WHOLE\]](https://open.spotify.com/album/5b2HT9dEEZptUsusV1Klc5) | 3:07 | 2022-05-03 | 2022-06-30 |
 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUN BI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 | 2022-10-14 | 2023-03-07 |
 | [Undo](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:48 | 2022-07-13 | 2022-10-15 |
+| [UNIQUE](https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [UNIQUE](https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk) | 2:52 | 2026-03-12 |  |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-13 | 2022-02-18 |
 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 | 2021-04-08 | 2021-07-01 |
 | [Unspoken](https://open.spotify.com/track/2SZV68dIWppxeD6y7ndQXk) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Unspoken](https://open.spotify.com/album/6VYC3AJkBYltP9ajuEHQgJ) | 2:55 | 2024-09-20 | 2024-11-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Curated by human Spotify editors\. Featuring PITCHBLACK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,840 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,006 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 13 | [Daddy's Got A Gun](https://open.spotify.com/track/5lTLXjOzbA9MAregavAu0U) | [Allnight](https://open.spotify.com/artist/0s8cHQ7qsebgXl9G5QvwOK), [L0\-G](https://open.spotify.com/artist/141tVOTrAyMU3VdELgMMqP) | [Daddy's Got A Gun](https://open.spotify.com/album/6rcpBsXMlpZ7hCGKFGlum0) | 3:28 |
 | 14 | [Vandal](https://open.spotify.com/track/34negURT6NVTALh9x2J6ue) | [MARTHA](https://open.spotify.com/artist/1HE0B5Oou0HaoNW90uYG7w) | [Vandal EP](https://open.spotify.com/album/6gkJ1vjjgtkc3axIiuh5KX) | 4:05 |
 | 15 | [We Bump](https://open.spotify.com/track/0ycX5qVMMoi6kS4j8Cxcl3) | [logeybear](https://open.spotify.com/artist/2O68UspB1Ei8cR0x8vtSgB) | [We Bump](https://open.spotify.com/album/0dtMXCtB4H96GuzCIpvH6M) | 3:31 |
-| 16 | [Interlude](https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek) | [Vlad](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj) | [Interlude EP](https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B) | 3:39 |
+| 16 | [Interlude](https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek) | [VLAD](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj) | [Interlude EP](https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B) | 3:39 |
 | 17 | [Maneater](https://open.spotify.com/track/53uxeteSi9xQBJV89BfVER) | [Vanny Granata](https://open.spotify.com/artist/7sMVXhUHC2WPL5n05yspP5) | [Maneater](https://open.spotify.com/album/2Wj8EGLR2CE5YO5hJU8u9J) | 4:57 |
 | 18 | [MONEY IN THE BANK](https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [MONEY IN THE BANK](https://open.spotify.com/album/7kWrHQb4ORQ5mRBeoVuR4a) | 2:12 |
 | 19 | [DREAM](https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [DREAM](https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl) | 4:23 |

@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 37 | [Don't Hurt Yourself \- Deepend Remix](https://open.spotify.com/track/0HtHu2T3dJuGtDXqHtXlvU) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Don't Hurt Yourself \(Deepend Remix\)](https://open.spotify.com/album/6eEFqfwgJMkqzaGP8kQTdn) | 2:58 |
 | 38 | [glued to the floor](https://open.spotify.com/track/7h35wSYNVXTtcy2Dv1n4mQ) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:18 |
 | 39 | [Bad For My Health \(Stripped\)](https://open.spotify.com/track/4vpQz6adwHuqzKcNiQvzOw) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Bad For My Health \(Stripped\)](https://open.spotify.com/album/5KaxWmfiDaHJqxiXc8Fn8g) | 2:16 |
-| 40 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 |
-| 41 | [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 |
+| 40 | [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 |
+| 41 | [I Should Be a Bird](https://open.spotify.com/track/0ZRZeLNAKPHBwkalUqW1xz) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/7hnwD5fSafzPIxpkbbO8Dk) | 3:59 |
 | 42 | [Wicked Rhythm](https://open.spotify.com/track/4nqYQNGEozDAAHgr7mpdpD) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:00 |
 | 43 | [Five Times \(Acoustic\)](https://open.spotify.com/track/3V03591pqKBD8r9vOOs29Z) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Five Times \(Acoustic\)](https://open.spotify.com/album/5eFyFbPBSGkQMIANPn4tkf) | 3:53 |
 | 44 | [Nowhere](https://open.spotify.com/track/1EfSY6vpLYxpB0Yvzb3kUR) | [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Nowhere](https://open.spotify.com/album/3wqkLsMBNhwECtY6YWXsIN) | 3:08 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 115 | [3D](https://open.spotify.com/track/2OtCO79wkJ0wGpTQqgaG1u) | [Tash Blake](https://open.spotify.com/artist/2BTuO9Djg1SvpQ6fupdlnB) | [3D](https://open.spotify.com/album/0w5santyjrfiZPqul2isJn) | 1:56 |
 | 116 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AcL4FgAAAADa5dRC1erBVzRqtunY1yb0`
+Snapshot ID: `AcL9tgAAAAB5DXWoTeCAsMVv6gL8Fbv8`

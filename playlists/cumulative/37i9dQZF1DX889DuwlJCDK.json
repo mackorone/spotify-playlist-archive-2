@@ -9192,7 +9192,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 212085,
       "name": "Ray",
       "url": "https://open.spotify.com/track/08VP35lzv2o06F6PjKEV7Z"
@@ -21027,6 +21027,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u304d\u3082\u306e\u304c\u304b\u308a meets 2",
+        "url": "https://open.spotify.com/album/0RodoOXPrLGPK89Ohbof9j"
+      },
+      "artists": [
+        {
+          "name": "neguse.",
+          "url": "https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297453,
+      "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3068\u307e\u3089\u306a\u3044\u3088",
+      "url": "https://open.spotify.com/track/4jXfslf2JuTp2oBDEtVUD1"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
         "url": "https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I"
       },
@@ -24319,6 +24337,24 @@
     },
     {
       "album": {
+        "name": "\u5f31\u866b\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/3GBlU4rfLNGjPJrhBhVQIi"
+      },
+      "artists": [
+        {
+          "name": "PEDRO",
+          "url": "https://open.spotify.com/artist/3lIKnWNb3Z1Q71eZszY3p0"
+        }
+      ],
+      "date_added": "2026-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198879,
+      "name": "\u5f31\u866b\u306e\u3046\u305f",
+      "url": "https://open.spotify.com/track/3pvxtQONcyNDWahRBM3hPK"
+    },
+    {
+      "album": {
         "name": "\u5f57\u661f",
         "url": "https://open.spotify.com/album/4D2ad9KMisLaxdsU4b5sF6"
       },
@@ -27474,7 +27510,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 172000,
       "name": "\u73fe\u5b9f\u3068\u3044\u3046\u540d\u306e\u30a2\u30d7\u30ea",
       "url": "https://open.spotify.com/track/5lmB0MuDe4y5ObJJHTaufj"

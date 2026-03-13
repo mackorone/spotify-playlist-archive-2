@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,026 likes - 358 songs - 18 hr 8 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,028 likes - 358 songs - 18 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So Long](https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [So Long](https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz) | 4:15 |
-| 2 | [NI4NI](https://open.spotify.com/track/2UmXnlHwi4dsPl9eizEhlI) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [NI4NI](https://open.spotify.com/album/0nOAwAvokahlFr5LEeWttF) | 4:12 |
-| 3 | [PTSU](https://open.spotify.com/track/2GCFtDFjaIHq7eKZKTZ4eU) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PTSU](https://open.spotify.com/album/6bLBHHxW6BQAax5GI30TwB) | 2:59 |
-| 4 | [zip](https://open.spotify.com/track/628T47wvIfjsBko9Lwkkpb) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [zip](https://open.spotify.com/album/2AUBPZdJMfdcOnU7MeozSV) | 1:48 |
-| 5 | [HOLD IT DOWN](https://open.spotify.com/track/6wFsExchVj17dTRNzMyoLO) | [f0xtr0t](https://open.spotify.com/artist/671ydWFXmxU9Y7p8I8NaeN) | [HOLD IT DOWN](https://open.spotify.com/album/4DdJyHl6IY5Tb41pkaMzIB) | 3:05 |
-| 6 | [Superstar](https://open.spotify.com/track/1d0yjcfqJcgyM2jcTsNF9Z) | [Trash Modjo](https://open.spotify.com/artist/0sqd55dX3mOswXySd46NT5), [PartyFowl](https://open.spotify.com/artist/1NhZDu9Qf3YtbQZC458hg1), [DJ Trashtail](https://open.spotify.com/artist/48KJapfAlCxYJlR1JqvVex), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [Together](https://open.spotify.com/album/7bQrXFtvhRKXpXjewkeD4Q) | 2:42 |
-| 7 | [anything4u](https://open.spotify.com/track/10ovr4LpA0ZP7yYoNmhKuP) | [mayflowers](https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z) | [anything4u](https://open.spotify.com/album/4uqZBwMo4q1FZE1FaxxGhp) | 3:30 |
+| 2 | [anything4u](https://open.spotify.com/track/10ovr4LpA0ZP7yYoNmhKuP) | [mayflowers](https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z) | [anything4u](https://open.spotify.com/album/4uqZBwMo4q1FZE1FaxxGhp) | 3:30 |
+| 3 | [NI4NI](https://open.spotify.com/track/2UmXnlHwi4dsPl9eizEhlI) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [NI4NI](https://open.spotify.com/album/0nOAwAvokahlFr5LEeWttF) | 4:12 |
+| 4 | [PTSU](https://open.spotify.com/track/2GCFtDFjaIHq7eKZKTZ4eU) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U), [Shwabadi](https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X) | [PTSU](https://open.spotify.com/album/6bLBHHxW6BQAax5GI30TwB) | 2:59 |
+| 5 | [zip](https://open.spotify.com/track/628T47wvIfjsBko9Lwkkpb) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [zip](https://open.spotify.com/album/2AUBPZdJMfdcOnU7MeozSV) | 1:48 |
+| 6 | [HOLD IT DOWN](https://open.spotify.com/track/6wFsExchVj17dTRNzMyoLO) | [f0xtr0t](https://open.spotify.com/artist/671ydWFXmxU9Y7p8I8NaeN) | [HOLD IT DOWN](https://open.spotify.com/album/4DdJyHl6IY5Tb41pkaMzIB) | 3:05 |
+| 7 | [Superstar](https://open.spotify.com/track/1d0yjcfqJcgyM2jcTsNF9Z) | [Trash Modjo](https://open.spotify.com/artist/0sqd55dX3mOswXySd46NT5), [PartyFowl](https://open.spotify.com/artist/1NhZDu9Qf3YtbQZC458hg1), [DJ Trashtail](https://open.spotify.com/artist/48KJapfAlCxYJlR1JqvVex), [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [Together](https://open.spotify.com/album/7bQrXFtvhRKXpXjewkeD4Q) | 2:42 |
 | 8 | [what would my phone do without me](https://open.spotify.com/track/3MBBdWC2F0OdPEtEMsWGwu) | [YDXX](https://open.spotify.com/artist/5HTGIsBvCg8NpbTZuXkmJQ) | [what would my phone do without me](https://open.spotify.com/album/0VZFED1R1Xhnk5YypOHVgS) | 1:38 |
 | 9 | [Butterflies!](https://open.spotify.com/track/0SCJdGWXXSfLTi5eYACXhb) | [JerichoFoxMusic](https://open.spotify.com/artist/2oWG0jJGw2mLVwIggsVM38) | [Butterflies!](https://open.spotify.com/album/4b619JWo2PlOa3k3CK6B2t) | 3:02 |
 | 10 | [PARTY SONG \(REBOUND\)](https://open.spotify.com/track/3z7lzSmS78799IxjBfkJUp) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [AFTERPARTY \(REBOUND\)](https://open.spotify.com/album/6cCyVjH2D4Ne2bN6qFxiHF) | 1:40 |
@@ -367,4 +367,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 357 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 358 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAFECL+p7H3cli8/YMQThLXYnOvFmbx`
+Snapshot ID: `AAAFEp1B/nvmHzuUo4LXKAXVno3GzGiG`

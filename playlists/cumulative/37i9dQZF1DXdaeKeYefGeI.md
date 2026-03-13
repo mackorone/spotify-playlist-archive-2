@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Pip Lieke Lucas
 
-249 songs - 15 hr 7 min
+250 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Hou Van Mij](https://open.spotify.com/track/0p8NKK6n6wrvgPf0AUho6h) | [Bökkers](https://open.spotify.com/artist/4r9YVlVbFPpqo0vcCaKIE6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Hou Van Mij](https://open.spotify.com/album/4FnEHt85qGmedL41l7zErJ) | 3:13 | 2023-02-10 | 2025-03-14 |
 | [Hou Vol](https://open.spotify.com/track/5o90I3Cz1RhjnIkMkHKlyQ) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Hou Vol](https://open.spotify.com/album/3yfUzi4ZtDytrnzKkHrcE3) | 3:38 | 2025-05-22 |  |
 | [Houten Pak](https://open.spotify.com/track/2E2Uc9dF8dlsRmM6EA51hj) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Man In Nood](https://open.spotify.com/album/4shvyUUcdrdIwd0lIlIXCU) | 3:03 | 2024-03-04 | 2024-04-12 |
+| [Iedereen](https://open.spotify.com/track/6bmJJv4rw4YvaiXT68Mlxe) | [Lucky Fonz III](https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm) | [De zachte krachten](https://open.spotify.com/album/7FbZmatGGAGIkcuAeU5mM9) | 2:52 | 2026-03-12 |  |
 | [Ik Doe Het Al](https://open.spotify.com/track/5lwAw6HWkieGDGd0bkIBgu) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Ik Doe Het Al](https://open.spotify.com/album/5cGRwq3Nb0FwdIAZxOV3as) | 2:45 | 2024-01-25 | 2024-07-19 |
 | [Ik heb je vergeven](https://open.spotify.com/track/5eGNTkEgie3bPoQpuw07PE) | [Myra Pilar](https://open.spotify.com/artist/0XGEZus6caWFUFpPGYotPX) | [Ik heb je vergeven](https://open.spotify.com/album/0aEpho7U0oTDSQmophOKuH) | 3:32 | 2023-02-10 | 2023-04-07 |
 | [Ik Hobbel](https://open.spotify.com/track/6tpeejrVeDYkU8WhLpmWuV) | [Theun met een h](https://open.spotify.com/artist/0gPKa3T9bOhyyUkGeYcf2I) | [Ik Hobbel](https://open.spotify.com/album/4Dp6OZeo6qDXlRWm3YRPhK) | 3:02 | 2023-03-23 | 2025-04-26 |
@@ -131,7 +132,7 @@
 | [Kom Terug](https://open.spotify.com/track/4ovxUTMs3Mi7ntZS2tJojk) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [tot ziens, Justine Keller](https://open.spotify.com/album/2aeLBdqU5aMNt5TPKuDHRg) | 3:50 | 2023-02-10 | 2023-04-26 |
 | [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2025-03-13 | 2025-09-05 |
 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 | 2023-02-10 |  |
-| [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 | 2023-02-10 |  |
+| [Laat Me](https://open.spotify.com/track/6XzBlaRUFcps7zkKgZWh7E) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Dag En Nacht](https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe) | 5:05 | 2023-02-10 | 2026-03-13 |
 | [Laat Me / Vivre \- Lange versie](https://open.spotify.com/track/1IpdAKuSYrQKTXs0KpypFb) | [Gerard Alderliefste](https://open.spotify.com/artist/718CHttAO54nPQXP00EzmD), [Alderliefste](https://open.spotify.com/artist/5J8ns43YpsiTRsG45N1cDi) | [Laat Me / Vivre](https://open.spotify.com/album/0d4Dr3RCYyHXFgWz0PFD1M) | 6:25 | 2023-02-10 |  |
 | [Laat Mij In Die Waan \- In De Basis](https://open.spotify.com/track/26mA2v7PUMenye7GiIZ9jo) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [In De Basis: Kant C](https://open.spotify.com/album/7i1vRdGnnv6x0wpb7UDTzf) | 3:03 | 2023-02-10 | 2023-09-15 |
 | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/track/5OiG2BpIKuSxbJ53hznAXO) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Laat Ons Klinken \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/7JNbi2drC5WH6HvINEqboL) | 3:31 | 2025-04-28 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11877,
+  "num_followers": 11882,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAABUCQQK15M4GCn+5rGbH4ix",
+  "snapshot_id": "abCwgAAAAAAqojaKXEPUzxEyGUAg4Gk2",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6kBdFPbSCU3kfzV1a2tXEj"
+        "name": "In the Wake of Determination",
+        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 194370,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/2fhBazTvPdHa27az86vVui"
+      "duration_ms": 247386,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 192978,
-      "name": "Halos",
-      "url": "https://open.spotify.com/track/6JhrwJgdChkPu2eTjQuNwR"
+      "duration_ms": 194370,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/0EsQOpewhnLrKqscGePWsK"
     },
     {
       "added_at": null,
@@ -135,70 +135,6 @@
       "duration_ms": 176805,
       "name": "Tear Me to Pieces",
       "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Wake of Determination",
-        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Page Avenue",
-        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "And the Hero Will Drown",
-      "url": "https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 193571,
-      "name": "3 am",
-      "url": "https://open.spotify.com/track/53QgcXBbWGgLIo1JQyphKV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 164621,
-      "name": "Real Life",
-      "url": "https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P"
     },
     {
       "added_at": null,
@@ -228,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Sidewalks",
-      "url": "https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh"
+      "duration_ms": 193106,
+      "name": "And the Hero Will Drown",
+      "url": "https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS"
     },
     {
       "added_at": null,
@@ -244,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 207625,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
+      "duration_ms": 192978,
+      "name": "Halos",
+      "url": "https://open.spotify.com/track/6JhrwJgdChkPu2eTjQuNwR"
     },
     {
       "added_at": null,
@@ -260,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 171729,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+      "duration_ms": 164621,
+      "name": "Real Life",
+      "url": "https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P"
     },
     {
       "added_at": null,
@@ -292,9 +228,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 213026,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1"
+      "duration_ms": 214706,
+      "name": "Sidewalks",
+      "url": "https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh"
     },
     {
       "added_at": null,
@@ -306,15 +242,27 @@
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 176343,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO"
+      "duration_ms": 193571,
+      "name": "3 am",
+      "url": "https://open.spotify.com/track/53QgcXBbWGgLIo1JQyphKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "added_at": null,
@@ -335,6 +283,38 @@
       "duration_ms": 271353,
       "name": "Just Close Your Eyes (Christian)",
       "url": "https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Page Avenue",
+        "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
     },
     {
       "added_at": null,
@@ -371,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.R.S.O.N.",
-        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 175440,
-      "name": "Good for Me / Feel so Bad",
-      "url": "https://open.spotify.com/track/36rJku5SUIgqYAqE0gum1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GALLOWS",
         "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
       },
@@ -403,6 +367,26 @@
       "duration_ms": 182266,
       "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
       "url": "https://open.spotify.com/track/5580dJLUADgZBviPFLPGD4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A.R.S.O.N.",
+        "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
+        }
+      ],
+      "duration_ms": 176343,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO"
     },
     {
       "added_at": null,
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 224480,
-      "name": "The Black Swan",
-      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
+      "duration_ms": 240240,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
     },
     {
       "added_at": null,
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+      "duration_ms": 224480,
+      "name": "The Black Swan",
+      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
     }
   ],
   "unique_name": "This Is Story Of The Year",

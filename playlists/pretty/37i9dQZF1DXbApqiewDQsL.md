@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring MauXo
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,584 likes - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,592 likes - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 29 | [Niña Matcha](https://open.spotify.com/track/3QvA5rh4AzKHyGGM35MdKM) | [El Malo](https://open.spotify.com/artist/1Y5P1Ee66yzDRTQiJDdkiy) | [Niña Matcha](https://open.spotify.com/album/49R3QFxWtckhYRqFkTkf6P) | 3:14 |
 | 30 | [Miss Universo](https://open.spotify.com/track/2NZxcFNZ7ZXMUusf5QwM3z) | [Benji V](https://open.spotify.com/artist/6fkUHseNm5m0sScnOOJxWA), [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Miss Universo](https://open.spotify.com/album/4G6ib6G5zNkcHgqwxwt9LQ) | 2:17 |
 
-Snapshot ID: `AAAAAOCv2NWWioI8KE7LhHr5OE1akSN2`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

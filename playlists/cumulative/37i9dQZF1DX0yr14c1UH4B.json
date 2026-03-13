@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "It's all about the song  \ud83c\udfa7 cover: Kingfishr\n\ud83d\udccdSomewhere between indie, pop, folk and country",
+  "description": "It's all about the song  \ud83c\udfa7 cover: Kacey Musgraves\n\ud83d\udccdSomewhere between indie, pop, folk and country",
   "name": "Common Thread",
   "tracks": [
     {
@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "ALONE",
+        "url": "https://open.spotify.com/album/6P9HOZik0V0fIraLQ92hRA"
+      },
+      "artists": [
+        {
+          "name": "Luke Marshall Black",
+          "url": "https://open.spotify.com/artist/25qOkwX6KXvIxboaXBQ2Jw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146054,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/16cplAoOxG2iKOb3ENH0ZD"
+    },
+    {
+      "album": {
         "name": "Always Love featuring Hyunjin (Stray Kids)",
         "url": "https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a"
       },
@@ -572,6 +590,24 @@
       "duration_ms": 219846,
       "name": "Angel Boy",
       "url": "https://open.spotify.com/track/2OD7229uwYHl6kKDbfexOF"
+    },
+    {
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/7pzCdqx626x7QP57oCoPGz"
+      },
+      "artists": [
+        {
+          "name": "Ben Ellis",
+          "url": "https://open.spotify.com/artist/3u0GaOtYxsIbwldWs8dgE8"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250883,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/4eUvMQ6bLmDoI0ZvVDo6Tj"
     },
     {
       "album": {
@@ -1751,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Can't Sit Still",
+        "url": "https://open.spotify.com/album/4RseAUz5ufSX0SazOe9kfc"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "Can't Sit Still",
+      "url": "https://open.spotify.com/track/024avm1IHjbHmvpFQyl38J"
+    },
+    {
+      "album": {
         "name": "Carmen",
         "url": "https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2"
       },
@@ -1780,7 +1834,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 156478,
       "name": "Castles In The Sky",
       "url": "https://open.spotify.com/track/3XqVZir88UNWitDqg07yk3"
@@ -3027,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Dry Spell",
+        "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
+    },
+    {
+      "album": {
         "name": "JESS",
         "url": "https://open.spotify.com/album/4Ql1u2tIY6R7xRXnBgYmKE"
       },
@@ -3719,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Fishing Song",
+        "url": "https://open.spotify.com/album/2wBY2tlSRSu4tG2qyzFCoW"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Fishing Song",
+      "url": "https://open.spotify.com/track/13xvAufEtZkbdpkxkCBeUC"
+    },
+    {
+      "album": {
         "name": "Five Thousand Miles",
         "url": "https://open.spotify.com/album/3lVGavtlcUEjYKy9lh5rgi"
       },
@@ -3882,7 +3972,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 192236,
       "name": "For You, My Love",
       "url": "https://open.spotify.com/track/5upTmFcG7SR5MiNZIWlriI"
@@ -4426,7 +4516,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 155788,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/13BDreSwqXdUyIbFyt4ifY"
@@ -4707,6 +4797,24 @@
     },
     {
       "album": {
+        "name": "And Then Came September",
+        "url": "https://open.spotify.com/album/3TgJvi94iXXwyuz4E0C196"
+      },
+      "artists": [
+        {
+          "name": "NEDA",
+          "url": "https://open.spotify.com/artist/3ujRcPTesvftBGcy2rkzrl"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201478,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/1NCpCxB5reg9O8TWxGz4XY"
+    },
+    {
+      "album": {
         "name": "Head Underwater",
         "url": "https://open.spotify.com/album/52IA9m2bwmNyVWdf1QypOz"
       },
@@ -4898,7 +5006,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 154000,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/0P2Oin9RGR8ILP5xYNSBiy"
@@ -7114,7 +7222,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 198386,
       "name": "Love Will Kill Me",
       "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
@@ -7337,6 +7445,24 @@
     },
     {
       "album": {
+        "name": "For Mary",
+        "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259751,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/6kqr9XZcHzVnIN5Oz4u4C3"
+    },
+    {
+      "album": {
         "name": "Maybe I",
         "url": "https://open.spotify.com/album/1p3H8RBMBjwaE8vYWeCBOp"
       },
@@ -7424,7 +7550,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 208129,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/22UXcHkB8wArgD6H8Si4Ui"
@@ -7442,7 +7568,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 217700,
       "name": "Miss",
       "url": "https://open.spotify.com/track/7vBOMoBKb6InbMdQiFwRCO"
@@ -8972,10 +9098,28 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 214071,
       "name": "Please Don't Hate Me",
       "url": "https://open.spotify.com/track/2cAQTyGQYeeYMukxgi6uEG"
+    },
+    {
+      "album": {
+        "name": "Please, Don't Wake Me",
+        "url": "https://open.spotify.com/album/15m3V8167ASqP1zZM5PlRA"
+      },
+      "artists": [
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219406,
+      "name": "Please, Don't Wake Me",
+      "url": "https://open.spotify.com/track/5klM0moZLMUCaAgLDO0jJ7"
     },
     {
       "album": {
@@ -10232,7 +10376,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177674,
       "name": "Sleepless in a Hotel Room",
       "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
@@ -11281,6 +11425,24 @@
     },
     {
       "album": {
+        "name": "Henrietta",
+        "url": "https://open.spotify.com/album/00SK7X2cLpcb6V85WI2jKb"
+      },
+      "artists": [
+        {
+          "name": "Hetta Falzon",
+          "url": "https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Switch It Off",
+      "url": "https://open.spotify.com/track/3kPkeU9RPb1vpdMwcoUqjI"
+    },
+    {
+      "album": {
         "name": "Take A Sexy Picture Of Me",
         "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
       },
@@ -11802,7 +11964,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 183374,
       "name": "the minute you're gone",
       "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
@@ -12358,6 +12520,24 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "album": {
+        "name": "A Mile In My Mind",
+        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
     },
     {
       "album": {
@@ -13060,7 +13240,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 213933,
       "name": "Wedding Song",
       "url": "https://open.spotify.com/track/5JIP0Z45bvhVBmILzAuIbF"
@@ -13226,6 +13406,24 @@
       "duration_ms": 212682,
       "name": "When We Kiss",
       "url": "https://open.spotify.com/track/2U6OhuQxQDXvWKNtjjvt7x"
+    },
+    {
+      "album": {
+        "name": "When You Fall In Love",
+        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187057,
+      "name": "When You Fall In Love",
+      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
     },
     {
       "album": {

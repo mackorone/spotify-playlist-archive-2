@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw\_JxQqKkC0xBdre1Tw">Teni</a> and <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,847 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,851 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 17 | [Flawed Beautiful Creatures \- Remix](https://open.spotify.com/track/0WTulzuFqIxlc6JGXA7k64) | [Ronnie Loko](https://open.spotify.com/artist/31pyFA6w9TNMDOxUXZb33w), [Stacy Barthe](https://open.spotify.com/artist/0yq6uHIfFks9yOURUuCITV) | [Flawed Beautiful Creatures \(Remix\)](https://open.spotify.com/album/53R7F0PckbWSEG8m4vep2v) | 4:28 |
 | 18 | [Eleganza](https://open.spotify.com/track/3H1JWxZmvOR5CGaeYtPVzt) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Eleganza](https://open.spotify.com/album/2qHeADbkgLU5XLlP0pyKRR) | 3:01 |
 | 19 | [Mr\. Parker](https://open.spotify.com/track/390cSkHKKjiQawiiAvQxyl) | [Skelvin](https://open.spotify.com/artist/5LTAJPBjxITKSLQb5wAbIc), [Corizo](https://open.spotify.com/artist/5TDcsaFykPA6PCbyd1yRlw), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Mr\. Parker](https://open.spotify.com/album/42ciHWnCfwa97AfOEYWYZZ) | 3:51 |
-| 20 | [Armageddon](https://open.spotify.com/track/3B4gGTLrKtQiwl7sKySpvT) | [Dellé](https://open.spotify.com/artist/4Bldm9wIvjM4fDXyDLwH9i), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Armageddon](https://open.spotify.com/album/2yPRo3Mz5ojB9CO8CQHZ8i) | 2:58 |
+| 20 | [Armageddon](https://open.spotify.com/track/3B4gGTLrKtQiwl7sKySpvT) | [Dellé](https://open.spotify.com/artist/4Bldm9wIvjM4fDXyDLwH9i), [JUGGLERZ](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Armageddon](https://open.spotify.com/album/2yPRo3Mz5ojB9CO8CQHZ8i) | 2:58 |
 | 21 | [Water Water Yansh](https://open.spotify.com/track/0VSDlMxY0MmkVrTloPOKuJ) | [OBA DDJ45](https://open.spotify.com/artist/0YYhkcOClhez1bIgsKwB3M), [Muripounds](https://open.spotify.com/artist/3hEUb73oRSHRqUwGSShcG5), [Emmyblaqcfr\_](https://open.spotify.com/artist/3vmt0ECmETTJzJInF8maoB) | [Water Water Yansh](https://open.spotify.com/album/5Fx3D1mEkXudkDzqZxWK95) | 3:32 |
 | 22 | [Oblee \(Remix\)](https://open.spotify.com/track/3NbhGCx2XzyxwzL8YT8rCU) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Slimcase](https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY), [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Oblee \(Remix\)](https://open.spotify.com/album/4BCn7qyLYTsWlSTAXdO0tC) | 2:40 |
 | 23 | [Jo Vibe Remix](https://open.spotify.com/track/0Z9FI7KCUie4rowDZMJvbK) | [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Jo Vibe Remix](https://open.spotify.com/album/2DtfoxVGDXVooE1143c3mz) | 2:14 |

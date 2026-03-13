@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 648393,
+  "num_followers": 648610,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Serie 32: Yndio",
-        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "Dame Un Beso Y Dime Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Entre Nubes",
         "url": "https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 200973,
       "name": "Nubes De Algod\u00f3n",
       "url": "https://open.spotify.com/track/6ix0BzodvL1XYM4tvWLIwn"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Serie 32: Yndio",
+        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Dame Un Beso Y Dime Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Juntos Para Siempre",
-        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
-      },
-      "artists": [
-        {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Me Est\u00e1 Doliendo Dejarte",
-      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Verano De Amor",
         "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 205346,
       "name": "Me Quede Llorando",
       "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Juntos Para Siempre",
+        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
+      },
+      "artists": [
+        {
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Me Est\u00e1 Doliendo Dejarte",
+      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Viva el Amor",
-        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Dulcemente Enamorada",
-      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 218866,
       "name": "Enamorado De Tus Ojos",
       "url": "https://open.spotify.com/track/18aKiLS41s7J5RqfAVm9l5"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Viva el Amor",
+        "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Dulcemente Enamorada",
+      "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
     },
     {
       "added_at": "2024-08-28 00:51:57",

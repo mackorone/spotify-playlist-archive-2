@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> La Rvfleuze au top de la première playlist de rap français.
+> Nono La Grinta au top de la première playlist de rap français.
 
 419 songs - 21 hr 8 min
 

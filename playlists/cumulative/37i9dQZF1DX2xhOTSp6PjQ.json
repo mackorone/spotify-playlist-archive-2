@@ -5197,6 +5197,32 @@
     },
     {
       "album": {
+        "name": "Uthando Lwami 2.0",
+        "url": "https://open.spotify.com/album/6orZcsvAEQDkgpccHiRQfl"
+      },
+      "artists": [
+        {
+          "name": "Lihle Xhakaza",
+          "url": "https://open.spotify.com/artist/6GD0nzyhk6IOrjnUOWb25a"
+        },
+        {
+          "name": "Shenge Wasehlalankosi",
+          "url": "https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz"
+        },
+        {
+          "name": "Samkelisiwe Ncwane",
+          "url": "https://open.spotify.com/artist/2JuXtHN1aSXNpUAPLztPUX"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333334,
+      "name": "Uthando Lwami 2.0",
+      "url": "https://open.spotify.com/track/1pBdkvTWIOTqMSKbBh13gr"
+    },
+    {
+      "album": {
         "name": "Uvume Kanjani?",
         "url": "https://open.spotify.com/album/1EQ6FllXqVYFKGVjRKtDRp"
       },

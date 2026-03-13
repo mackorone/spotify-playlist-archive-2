@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 159692,
       "name": "Bir Ev Vard\u0131",
       "url": "https://open.spotify.com/track/0FH7zgmFuF8hgndYl0Jb8l"
@@ -3240,7 +3240,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 146000,
       "name": "D\u00fc\u015ferim Akl\u0131na",
       "url": "https://open.spotify.com/track/2NiqrLj88lenL5MAfMbA4f"
@@ -6697,6 +6697,24 @@
     },
     {
       "album": {
+        "name": "Peki \u00d6yle Olsun",
+        "url": "https://open.spotify.com/album/4c4UCx12jdeDe3FtHniGIx"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel",
+          "url": "https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Peki \u00d6yle Olsun",
+      "url": "https://open.spotify.com/track/6QHkJAqfl4mSUBhznWsVqP"
+    },
+    {
+      "album": {
         "name": "pi\u015fman...",
         "url": "https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G"
       },
@@ -7364,6 +7382,28 @@
       "duration_ms": 172806,
       "name": "Sersem",
       "url": "https://open.spotify.com/track/0ryZM7pn8qOvUxudgYSHwf"
+    },
+    {
+      "album": {
+        "name": "Efsane I",
+        "url": "https://open.spotify.com/album/0Bf2XouHZMoSGn50fxfrcA"
+      },
+      "artists": [
+        {
+          "name": "Emre Altu\u011f",
+          "url": "https://open.spotify.com/artist/6CtMmrX12kYA3O4kINuWjZ"
+        },
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195236,
+      "name": "Serseri",
+      "url": "https://open.spotify.com/track/33uHDjMPVYI8Mcct0HUiD2"
     },
     {
       "album": {

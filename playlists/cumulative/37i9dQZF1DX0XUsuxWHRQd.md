@@ -4,7 +4,7 @@
 
 > Music from J\. Cole, Don Toliver and Baby Keem.
 
-2,685 songs - 5 day 19 hr 18 min
+2,686 songs - 5 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2285,6 +2285,7 @@
 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-09-22 | 2023-11-25 |
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2021-06-05 | 2021-09-18 |
 | [Tell Me U Luv Me \(with Trippie Redd\)](https://open.spotify.com/track/4CNcRgjGw1v9VQaTaytdnD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Tell Me U Luv Me \(with Trippie Redd\)](https://open.spotify.com/album/1zrSQiqgj4P16lpHeUFtmD) | 3:00 | 2020-05-29 | 2020-06-05 |
+| [Tell Me When to Go \(feat\. Keak da Sneak\)](https://open.spotify.com/track/7eJ5kRpMNPAk7ccCDKywjH) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Keak Da Sneak](https://open.spotify.com/artist/1sPpJhevOYz54gNgeh2LaV) | [My Ghetto Report Card](https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl) | 3:57 | 2026-03-12 |  |
 | [TELL ME\. FT\. LIL BABY & 42 DUGG.](https://open.spotify.com/track/0mKK1wzmqVelwP0f0gBjhT) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [ALREADY LEGEND\. \(THANK YOU Edition\)](https://open.spotify.com/album/64yQR2eLdCTa0ZHBEpqR0v) | 3:00 | 2025-11-28 | 2025-12-06 |
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/3ohd1ahp3G0OVBH27BwIpt) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith \(Deluxe\)](https://open.spotify.com/album/2N539CVAkXd9Jk722m1i6D) | 3:35 | 2021-07-24 | 2021-10-16 |
 | [TEN](https://open.spotify.com/track/47Mu0yAp5p468MRmGzNXE6) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [TEN](https://open.spotify.com/album/1qh5bAhH9uToDaAoQUmjfA) | 2:08 | 2025-02-14 | 2025-03-01 |

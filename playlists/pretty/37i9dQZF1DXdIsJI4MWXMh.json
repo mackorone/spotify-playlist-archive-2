@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 80037,
+  "num_followers": 80047,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "12 A\u00f1os de Historia",
-        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
-      },
-      "artists": [
-        {
-          "name": "Los Cumbieros",
-          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "La Rumbera",
-      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Tornado Ranchero",
         "url": "https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 267859,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "12 A\u00f1os de Historia",
+        "url": "https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn"
+      },
+      "artists": [
+        {
+          "name": "Los Cumbieros",
+          "url": "https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "La Rumbera",
+      "url": "https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Galantes y Caballeros",
-        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 152816,
-      "name": "Galantes y Caballeros",
-      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 194481,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Galantes y Caballeros",
+        "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
+      },
+      "artists": [
+        {
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Galantes y Caballeros",
+      "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Micaela",
-        "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
+        "name": "La Vida No Vale Nada",
+        "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
       },
       "artists": [
         {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
         }
       ],
-      "duration_ms": 195973,
-      "name": "La Micaela",
-      "url": "https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi"
+      "duration_ms": 204255,
+      "name": "La Vida No Vale Nada",
+      "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "La Vida No Vale Nada",
-        "url": "https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC"
+        "name": "La Micaela",
+        "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
       },
       "artists": [
         {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
         }
       ],
-      "duration_ms": 204255,
-      "name": "La Vida No Vale Nada",
-      "url": "https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7"
+      "duration_ms": 195973,
+      "name": "La Micaela",
+      "url": "https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Yo Lo Canto y Tu Lo Bailas",
-        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+        "name": "Tu Amor Barato",
+        "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
       },
       "artists": [
         {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+          "name": "RIVALES DE CHILE",
+          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
+        },
+        {
+          "name": "Incondicionales",
+          "url": "https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog"
         }
       ],
-      "duration_ms": 231393,
-      "name": "Matalas",
-      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+      "duration_ms": 196862,
+      "name": "Tu Amor Barato",
+      "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1619,6 +1623,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Yo Lo Canto y Tu Lo Bailas",
+        "url": "https://open.spotify.com/album/3UW6tbYhtJYrYVGR0U85W1"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres de Parral",
+          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+        }
+      ],
+      "duration_ms": 231393,
+      "name": "Matalas",
+      "url": "https://open.spotify.com/track/7pSYLS1okWaevRLU2oXCqa"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 215266,
       "name": "Tatuaje",
       "url": "https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Tu Amor Barato",
-        "url": "https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA"
-      },
-      "artists": [
-        {
-          "name": "RIVALES DE CHILE",
-          "url": "https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g"
-        },
-        {
-          "name": "Incondicionales",
-          "url": "https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog"
-        }
-      ],
-      "duration_ms": 196862,
-      "name": "Tu Amor Barato",
-      "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "De Fiesta Con los Braos",
-        "url": "https://open.spotify.com/album/2VeiRxdUOwogVqJJ35yMzX"
+        "name": "La Sustancia",
+        "url": "https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1"
       },
       "artists": [
         {
-          "name": "Los Tigres de Parral",
-          "url": "https://open.spotify.com/artist/4HZb1I1ON6nfxpMmMPql6B"
+          "name": "Los S\u00faper Sicarios",
+          "url": "https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4"
         }
       ],
-      "duration_ms": 267335,
-      "name": "Abrazado de un Poste",
-      "url": "https://open.spotify.com/track/1XruxMWn7b7WjTiw6ItLDG"
+      "duration_ms": 206949,
+      "name": "La Sustancia",
+      "url": "https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk"
     }
   ],
   "unique_name": "Ranchera Chilena",

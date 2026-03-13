@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Yasmeen",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Margane",
   "name": "le miel",
   "tracks": [
     {
@@ -272,7 +272,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 211638,
       "name": "AALACH",
       "url": "https://open.spotify.com/track/6Kpo1jIjaB7PxfXgz4JLEk"
@@ -5259,6 +5259,24 @@
     },
     {
       "album": {
+        "name": "Lettre",
+        "url": "https://open.spotify.com/album/2WqcSYRkddq5eAyEL0hZ0G"
+      },
+      "artists": [
+        {
+          "name": "Margane",
+          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219415,
+      "name": "Lettre",
+      "url": "https://open.spotify.com/track/1CUIqcCDWdAnSHBT2qtc09"
+    },
+    {
+      "album": {
         "name": "Lettre \u00e0 l'Univers",
         "url": "https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm"
       },
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 179175,
       "name": "LOVESHIFT",
       "url": "https://open.spotify.com/track/7bA3UbSXn7rLfe2r3PZm7r"
@@ -6470,6 +6488,24 @@
       "duration_ms": 208959,
       "name": "noir",
       "url": "https://open.spotify.com/track/68GY3pIeYHDWdgouxq8LuU"
+    },
+    {
+      "album": {
+        "name": "Bonjour (Deluxe)",
+        "url": "https://open.spotify.com/album/4yKFiO4nMfDQ2BzBWlABsk"
+      },
+      "artists": [
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227120,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/2JgtUiRnw0aVu7qe0jDZC0"
     },
     {
       "album": {
@@ -7598,7 +7634,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 209299,
       "name": "PRINCE",
       "url": "https://open.spotify.com/track/4fYucR7ilEZpJBiupnDeTE"

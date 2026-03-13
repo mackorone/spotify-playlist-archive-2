@@ -1,6 +1,6 @@
 {
   "description": "Unearth the year's most exciting rock and alternative hidden gems. Cover: Chloe Slater",
-  "num_followers": 34135,
+  "num_followers": 34134,
   "original_name": "2024 Rock songs you may have missed",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Home in Another Life",
+        "url": "https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY"
+      },
+      "artists": [
+        {
+          "name": "Enumclaw",
+          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
+        }
+      ],
+      "duration_ms": 212958,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Before I Die",
         "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Home in Another Life",
-        "url": "https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY"
-      },
-      "artists": [
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        }
-      ],
-      "duration_ms": 212958,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh"
     },
     {
       "added_at": "2024-12-04 12:15:00",

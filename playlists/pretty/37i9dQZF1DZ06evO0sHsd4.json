@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 21024,
+  "num_followers": 21042,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAADKQxD6+LPF3BBdwlFLNaed",
+  "snapshot_id": "abCwgAAAAACwDUHWhdKqpL0IXKubkUqW",
   "tracks": [
     {
       "added_at": null,
@@ -275,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
       },
       "artists": [
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 158840,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/4Eqe4SB2vnbVrDdRydHku3"
+      "duration_ms": 200254,
+      "name": "Todo Es Diferente",
+      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
     },
     {
       "added_at": null,
@@ -311,22 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
       "artists": [
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 200254,
-      "name": "Todo Es Diferente",
-      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
+      "duration_ms": 158840,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/4Eqe4SB2vnbVrDdRydHku3"
     },
     {
       "added_at": null,
@@ -347,38 +347,6 @@
       "duration_ms": 170155,
       "name": "Maybach",
       "url": "https://open.spotify.com/track/4icH0O4D7CZOs9reT2CXVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 185285,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 195334,
-      "name": "0 SENTIMIENTOS",
-      "url": "https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x"
     },
     {
       "added_at": null,
@@ -407,6 +375,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 195334,
+      "name": "0 SENTIMIENTOS",
+      "url": "https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 185285,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Enfiest\u00f3 El Carnal",
         "url": "https://open.spotify.com/album/4SBT3my679xNKekRzXfzef"
       },
@@ -419,42 +419,6 @@
       "duration_ms": 209497,
       "name": "Se Enfiest\u00f3 El Carnal",
       "url": "https://open.spotify.com/track/64HKf9jN6Un0wsZ6FpdkjK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 141034,
-      "name": "Jalados",
-      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LA ODISEA",
-        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 232509,
-      "name": "HOLOCAUSTO NUCLEAR",
-      "url": "https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF"
     },
     {
       "added_at": null,
@@ -479,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien High",
-        "url": "https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa"
+        "name": "LA ODISEA",
+        "url": "https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA"
       },
       "artists": [
         {
@@ -488,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 207671,
-      "name": "Bien High",
-      "url": "https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q"
+      "duration_ms": 232509,
+      "name": "HOLOCAUSTO NUCLEAR",
+      "url": "https://open.spotify.com/track/4khbwjIk7vG1NA0W3ILdoF"
     },
     {
       "added_at": null,
@@ -504,13 +468,29 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         },
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 154477,
-      "name": "Chicoteado",
-      "url": "https://open.spotify.com/track/4yLpSp8304JdjUWXK6TWrA"
+      "duration_ms": 141034,
+      "name": "Jalados",
+      "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien High",
+        "url": "https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 207671,
+      "name": "Bien High",
+      "url": "https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q"
     },
     {
       "added_at": null,
@@ -555,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 154477,
+      "name": "Chicoteado",
+      "url": "https://open.spotify.com/track/4yLpSp8304JdjUWXK6TWrA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mas Alto Que El Everest",
         "url": "https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 181824,
       "name": "Mas Alto Que El Everest",
       "url": "https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 178114,
-      "name": "Heisenberg",
-      "url": "https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 170089,
       "name": "Exclusive",
       "url": "https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 178114,
+      "name": "Heisenberg",
+      "url": "https://open.spotify.com/track/1qovVn8DTFXeyfzyu9Plx0"
     },
     {
       "added_at": null,

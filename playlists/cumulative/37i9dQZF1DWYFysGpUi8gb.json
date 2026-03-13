@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unearthing music that makes us feel interesting, featuring max winter.",
+  "description": "unearthing music that makes us feel interesting, featuring iceage ",
   "name": "melomania",
   "tracks": [
     {
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 248114,
       "name": "Drawbacks",
       "url": "https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ"
@@ -2920,7 +2920,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 160000,
       "name": "Excruciating Heights",
       "url": "https://open.spotify.com/track/57133ll3L1wgpVmMTgbbdT"
@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 184367,
       "name": "Felt it truly",
       "url": "https://open.spotify.com/track/7iSKMgUVkSDKckMzcgSGSz"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158360,
       "name": "Hanging on a Bassline",
       "url": "https://open.spotify.com/track/4z0lcaGvXOHJsZozZkBcao"
@@ -3925,6 +3925,24 @@
     },
     {
       "album": {
+        "name": "Lean In",
+        "url": "https://open.spotify.com/album/6BfQzQ2UkZpOOAeIlt9C27"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248619,
+      "name": "Hope More, Hopeless",
+      "url": "https://open.spotify.com/track/5KF3rlMLECKRDzmQret8xh"
+    },
+    {
+      "album": {
         "name": "HOT MESS",
         "url": "https://open.spotify.com/album/6nT5hqcDpuYXssUPI5WXx9"
       },
@@ -3990,7 +4008,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 202000,
       "name": "I Can Be A Freak",
       "url": "https://open.spotify.com/track/2sLWIsNSMyUXJB8xJsLxOp"
@@ -4206,7 +4224,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 278026,
       "name": "I'm A Pretty Showboy",
       "url": "https://open.spotify.com/track/3DGSTIks3JiZPXIJhmpomC"
@@ -4408,6 +4426,24 @@
       "duration_ms": 267504,
       "name": "Jacked",
       "url": "https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc"
+    },
+    {
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/3XbF9sy0I1olj0FPW8liAk"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197997,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/0FXwIu4BmpxGIV0R3cWgFy"
     },
     {
       "album": {
@@ -5880,7 +5916,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 186640,
       "name": "Not Ideal",
       "url": "https://open.spotify.com/track/3h4VpzoEM7UaC9aBfIfYt4"
@@ -7144,7 +7180,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 165626,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5kGXSHROs8MdVVBVBkX8d4"
@@ -7583,6 +7619,24 @@
     },
     {
       "album": {
+        "name": "Sour Carol, I",
+        "url": "https://open.spotify.com/album/3KDTW9nBRTcSVIGnORxLzy"
+      },
+      "artists": [
+        {
+          "name": "ladylike",
+          "url": "https://open.spotify.com/artist/6u8UBNI8HFEPxpaQYBquZ9"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310974,
+      "name": "Sour Carol, I",
+      "url": "https://open.spotify.com/track/6g0gxCx3KIhfCVnXSnLq2n"
+    },
+    {
+      "album": {
         "name": "New Wave Vaudeville",
         "url": "https://open.spotify.com/album/2uhoS0ciqS2XeadVtyq4i7"
       },
@@ -7727,6 +7781,24 @@
     },
     {
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/75az8Y4wNKLh8PpMz6h4zF"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205274,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/3PdE19PCcon8iVW9KXtRWl"
+    },
+    {
+      "album": {
         "name": "no scope",
         "url": "https://open.spotify.com/album/1MoHchytw6sq4hhC28JZ7x"
       },
@@ -7738,7 +7810,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 251407,
       "name": "starburn",
       "url": "https://open.spotify.com/track/5vxJWk68XR1eXjRIutqcuA"

@@ -2,7 +2,7 @@
 
 ### [Afro Rap](https://open.spotify.com/playlist/37i9dQZF1DX3oRZ26ZzwxF)
 
-> Le meilleur du rap africain francophone\. Photo : TRK.
+> Le meilleur du rap africain francophone\. Photo : Didi B
 
 277 songs - 12 hr 48 min
 
@@ -138,7 +138,7 @@
 | [J COMMANDE](https://open.spotify.com/track/1y6TvjEXs7ks2A13CkkjWN) | [LiFkA](https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf) | [NNPP \- PRELUDE](https://open.spotify.com/album/6FSMaKXZfN1VHwdz8FPtJr) | 2:39 | 2025-12-11 | 2026-01-30 |
 | [JAMAIS CHERLA \(feat\. Døpelym & Himra\)](https://open.spotify.com/track/6pywovJJTEQYgwvrrTAABN) | [GENERATION NERF](https://open.spotify.com/artist/3ziKkD2C372I89eVBTHL8t), [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [JAMAIS CHERLA \(feat\. Døpelym & Himra\)](https://open.spotify.com/album/3mtkFgDdHkrNd58yC3KPGv) | 2:48 | 2025-08-07 | 2025-10-17 |
 | [John wick](https://open.spotify.com/track/3lYhS2MnoQzTJ9s6SePZIz) | [Dopeboy DMG](https://open.spotify.com/artist/045cLSz5eLY329gTdSiCKH) | [Invictus](https://open.spotify.com/album/5Stk1SFLqNGuZJnLGMaF3X) | 2:57 | 2025-06-05 | 2025-07-11 |
-| [Juventus](https://open.spotify.com/track/3s5ujKHSnBop24gkiH2y9g) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [Juventus Nueva Era](https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw) | 2:47 | 2025-11-13 |  |
+| [Juventus](https://open.spotify.com/track/3s5ujKHSnBop24gkiH2y9g) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV) | [Juventus Nueva Era](https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw) | 2:47 | 2025-11-13 | 2026-03-13 |
 | [KATI\-K](https://open.spotify.com/track/49L6HSlrQ8DOrAOAmHathK) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [KATI\-K](https://open.spotify.com/album/572IgrZPGEt7PxkovVXqib) | 2:26 | 2025-05-29 | 2025-10-03 |
 | [Kilometazz](https://open.spotify.com/track/7wlEX9Sfm0ALjdGsDR7OuE) | [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF), [Kawid](https://open.spotify.com/artist/5syggS0mW2lbXyA9L5XzRN) | [Kilometazz](https://open.spotify.com/album/5N11YqiaSWPE8NfWs9XJwI) | 2:48 | 2025-10-16 | 2025-11-07 |
 | [KING KESTER](https://open.spotify.com/track/6Zhv93rhjjYtsJb3FWoIpe) | [Cash Crime](https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn) | [NO PUSH BIDNEZZ](https://open.spotify.com/album/3ZxPy9ox9hFbBPDlT4CPnW) | 2:40 | 2025-10-23 | 2025-11-21 |

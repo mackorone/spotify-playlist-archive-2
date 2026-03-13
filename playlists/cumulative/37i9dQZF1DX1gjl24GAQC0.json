@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: WOODZ) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: P1Harmony) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -564,7 +564,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 151000,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/1L0pXWUh7MmjJ9sEtvbH9W"
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 199660,
       "name": "Back to Life",
       "url": "https://open.spotify.com/track/25Artaot36s1WF8VPrdNbS"
@@ -13477,6 +13477,24 @@
     },
     {
       "album": {
+        "name": "01",
+        "url": "https://open.spotify.com/album/7A1G3vWg6UQ2TO59iaGX9t"
+      },
+      "artists": [
+        {
+          "name": "V01D",
+          "url": "https://open.spotify.com/artist/1AXz12zUZ7GGJO4Z0693Iw"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Tug of War",
+      "url": "https://open.spotify.com/track/6clIbMbca7szZquD4XeIdK"
+    },
+    {
+      "album": {
         "name": "BLOSSOM",
         "url": "https://open.spotify.com/album/7beQFEkNFuQ8q39fp2psKX"
       },
@@ -13636,6 +13654,24 @@
       "duration_ms": 192653,
       "name": "ULlala: Poisoning",
       "url": "https://open.spotify.com/track/2KRW7vfIQXiuXchn8O1ISy"
+    },
+    {
+      "album": {
+        "name": "UNIQUE",
+        "url": "https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "UNIQUE",
+      "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"
     },
     {
       "album": {

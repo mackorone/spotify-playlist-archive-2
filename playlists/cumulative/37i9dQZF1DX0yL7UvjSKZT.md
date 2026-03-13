@@ -2,9 +2,9 @@
 
 ### [Indie Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0yL7UvjSKZT)
 
-> Fresh takes on that high lonesome sound\. Cover: Theo Kandel
+> Fresh takes on that high lonesome sound\. Cover: The Brudi Brothers
 
-531 songs - 1 day 8 hr 48 min
+532 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Cumberland Gap](https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Cumberland Gap](https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq) | 1:08 | 2024-06-14 |  |
 | [Dance Upon Your Grave](https://open.spotify.com/track/36YuzKine9MqBM84LUTOHr) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [City Painted Gold](https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri) | 3:06 | 2021-10-01 | 2022-01-22 |
 | [Dangling Like Keys](https://open.spotify.com/track/4vSXALtdV6pZDKIHZCGP9f) | [The Bombadils](https://open.spotify.com/artist/493LaUkdvofHBb12qHUG60) | [Dear Friend](https://open.spotify.com/album/4yAg7GLpyQrxbGp18OeTH4) | 3:57 | 2023-01-13 | 2023-07-22 |
+| [Dark and Stormy](https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Dark and Stormy](https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx) | 3:07 | 2026-03-13 |  |
 | [Daughter of the Highlands](https://open.spotify.com/track/6C7OVZKLsu1Nj73Xr5RoLl) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Jubilee](https://open.spotify.com/album/1kFrfbpzO4oDKzLMhLtxHN) | 4:22 | 2023-08-25 | 2024-04-19 |
 | [Daughter of the Highlands](https://open.spotify.com/track/30vFgOT7ribc5PafgFiJ50) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Jubilee](https://open.spotify.com/album/5sVC9YU9VdVhQhGxayUX0n) | 4:22 | 2024-04-12 |  |
 | [Dawning \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/3xePjad1SGw3noniehfKRe) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Dawning \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/1bnTtiLFHJbx0kvhLeDibN) | 6:27 | 2024-08-09 |  |
@@ -384,7 +385,7 @@
 | [Sing Along \- Demo](https://open.spotify.com/track/2KfEwhZO0XH8hpRq0qeGGt) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant \(Deluxe Edition\)](https://open.spotify.com/album/1rvogFExMDIwuKKmUBru0A) | 4:03 | 2021-10-01 | 2022-07-29 |
 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 | 2023-05-15 | 2024-02-24 |
 | [Sleeptalking](https://open.spotify.com/track/1cM6J7w8USlRVBz2qsAd47) | [Peter Groppe](https://open.spotify.com/artist/6acVRuS3iyAQH9LXDrsRL5), [Annie Elise](https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq) | [Sleeptalking](https://open.spotify.com/album/347KmzgyYTujDnrWn9PsnR) | 2:58 | 2023-08-11 | 2024-08-31 |
-| [Sleepy Time](https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S) | [Hotspur Johnny](https://open.spotify.com/artist/0mqmWeOf4VWEOPNtDUsMx1) | [Hotspur Johnny](https://open.spotify.com/album/1bE4pxD3ERkHw2OiVdp2DB) | 3:29 | 2023-08-11 |  |
+| [Sleepy Time](https://open.spotify.com/track/0kieVmYJQ4Wsu1ACppFP4S) | [Hotspur Johnny](https://open.spotify.com/artist/0mqmWeOf4VWEOPNtDUsMx1) | [Hotspur Johnny](https://open.spotify.com/album/1bE4pxD3ERkHw2OiVdp2DB) | 3:29 | 2023-08-11 | 2026-03-13 |
 | [Small Town Scandal \(Bluegrass Version\)](https://open.spotify.com/track/48TliGToigYGdZiqKSrcMF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts \(Deluxe Edition\)](https://open.spotify.com/album/78gqMA4jrmtgwb9O94ZgYh) | 4:00 | 2025-02-28 |  |
 | [Small Towns \(Are Smaller for Girls\)](https://open.spotify.com/track/5kOTn1SJ6cYZflxDX3ujaU) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/4rjzMJ4sxZc8nG0LmBphLc) | 3:05 | 2024-04-12 |  |
 | [Smell the Rose](https://open.spotify.com/track/2QfNlp82e742oe5HFyZhTG) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [Smell the Rose](https://open.spotify.com/album/5eO2RJaMeBEmn4oCsFdnmx) | 4:01 | 2025-10-10 |  |

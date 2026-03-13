@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20902,
+  "num_followers": 20907,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAACGN+ddcV7RC5SsUgN2iJJi",
+  "snapshot_id": "abCwgAAAAAAl5POLH9MWortVtM6Ccd7g",
   "tracks": [
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 192102,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/2NR2i4RnPZNKs85Anpyqel"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Summer Sampler",
         "url": "https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 239089,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 192102,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/2NR2i4RnPZNKs85Anpyqel"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Walk Thru (feat. Problem)",
-      "url": "https://open.spotify.com/track/5259GVdvIOBkcqo6L2i9qw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 259506,
       "name": "I Know (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/22BwaoGHQOTfFhHTndm7DQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Walk Thru (feat. Problem)",
+      "url": "https://open.spotify.com/track/5259GVdvIOBkcqo6L2i9qw"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "They Don't Know",
-      "url": "https://open.spotify.com/track/7vvmO2zdUpDfgGLJunyG7v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 216613,
       "name": "I Heard (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7p9i63OhLwIPAEWILdPZho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/7vvmO2zdUpDfgGLJunyG7v"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 162246,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Young OG Project",
         "url": "https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 256506,
       "name": "We Good",
       "url": "https://open.spotify.com/track/11B2LpmjMH4BH1XwynLT9R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 162246,
-      "name": "Gamble",
-      "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
     },
     {
       "added_at": null,

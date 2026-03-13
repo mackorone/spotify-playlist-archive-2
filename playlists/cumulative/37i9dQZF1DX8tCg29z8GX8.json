@@ -7707,6 +7707,28 @@
     },
     {
       "album": {
+        "name": "Kyekyere Me",
+        "url": "https://open.spotify.com/album/4mYhORV8LXSMUw7jW1WUiy"
+      },
+      "artists": [
+        {
+          "name": "Ess thee Legend",
+          "url": "https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA"
+        },
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Kyekyere Me",
+      "url": "https://open.spotify.com/track/5kSLwrX3DptO1p4II5yjCJ"
+    },
+    {
+      "album": {
         "name": "La vida Loca",
         "url": "https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm"
       },
@@ -8791,6 +8813,24 @@
     },
     {
       "album": {
+        "name": "Masallaci",
+        "url": "https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125050,
+      "name": "Masallaci",
+      "url": "https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ"
+    },
+    {
+      "album": {
         "name": "Masesa",
         "url": "https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S"
       },
@@ -8956,7 +8996,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 208566,
       "name": "Mek\u0254n Ad\u0254",
       "url": "https://open.spotify.com/track/5BMh2DnkrOAbSipoWka1Xk"
@@ -13094,7 +13134,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 166312,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"

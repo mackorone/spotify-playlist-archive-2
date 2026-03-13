@@ -4,7 +4,7 @@
 
 > 
 
-906 songs - 2 day 23 hr 16 min
+907 songs - 2 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Lait de coco \- Dub](https://open.spotify.com/track/5A73Nnju5DCi8EV6wPvI5H) | [Maya](https://open.spotify.com/artist/0sMy71g5dm5Vxn1TWd8xPj) | [French Disco Boogie Sounds, Vol\. 3](https://open.spotify.com/album/1rrj6REWeqLfHuJpIZET5P) | 3:55 | 2022-02-17 |  |
 | [Lala Belu](https://open.spotify.com/track/5UiIkqFIInNtTGxbOzPmJ7) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm) | [Lala Belu](https://open.spotify.com/album/5daH3Ogui4BqvMrMLaEJ2Q) | 4:42 | 2021-03-08 |  |
 | [Lanmou raid No\. 1](https://open.spotify.com/track/3DoVyT9lZ0YM82EsBMfD6n) | [Battery Cremil](https://open.spotify.com/artist/7j1Cq8wprHBrqsNmRqsoSL) | [200% Zouk souvenirs 100% Tubes](https://open.spotify.com/album/25D9a4DhXgvspWVrwF5nYR) | 5:38 | 2019-08-24 |  |
+| [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 | 2026-03-12 |  |
 | [Las Palé](https://open.spotify.com/track/0VcoW5zySo7DYCt2l5mD2Z) | [Feeling Kréyol](https://open.spotify.com/artist/1e5dRbjFbRHlIOiIWGyFk9) | [Las Palé](https://open.spotify.com/album/3uIYXwWQgMPJkGiOHrt5Vz) | 4:30 | 2022-01-04 |  |
 | [Las Palé](https://open.spotify.com/track/1oLu8jyegvRNUPIxF6NrUe) | [Feeling Kréyol](https://open.spotify.com/artist/1e5dRbjFbRHlIOiIWGyFk9) | [Las Palé](https://open.spotify.com/album/6VltPsQ5oNPab6RBitzfgx) | 4:30 | 2021-04-08 |  |
 | [Last Summer Whisper](https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Heaven Beach](https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS) | 4:59 | 2020-11-16 |  |

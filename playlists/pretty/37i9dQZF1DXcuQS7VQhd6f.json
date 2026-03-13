@@ -1,6 +1,6 @@
 {
   "description": "All the Gospel classics you, your mama, and your mama's mama love, in one encouraging playlist!  Cover: John P. Kee",
-  "num_followers": 49648,
+  "num_followers": 49729,
   "original_name": "Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "Whatcha Lookin' 4",
+        "url": "https://open.spotify.com/album/0Ire0yqH9G0mycLF1jrXxD"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "duration_ms": 274306,
+      "name": "Melodies From Heaven",
+      "url": "https://open.spotify.com/track/2KxluFxumfo23bZqZzGToW"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "Whatcha Lookin' 4",
-        "url": "https://open.spotify.com/album/0Ire0yqH9G0mycLF1jrXxD"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
-        }
-      ],
-      "duration_ms": 274306,
-      "name": "Melodies From Heaven",
-      "url": "https://open.spotify.com/track/2KxluFxumfo23bZqZzGToW"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Adoration",
-        "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
-      },
-      "artists": [
-        {
-          "name": "Richard Smallwood",
-          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
-        },
-        {
-          "name": "Vision",
-          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
-        }
-      ],
-      "duration_ms": 299600,
-      "name": "Total Praise (with Vision) - Live",
-      "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Goshen",
         "url": "https://open.spotify.com/album/5I7ZELo8C7inVlMqfW7U1e"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4pc1Tfi0bguzV4LgA3nSSi"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
+      },
+      "artists": [
+        {
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m"
+        }
+      ],
+      "duration_ms": 299600,
+      "name": "Total Praise (with Vision) - Live",
+      "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Save The World",
-        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
       },
       "artists": [
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 264693,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
+      "duration_ms": 384466,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Your Great Name",
-        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
+        "name": "Save The World",
+        "url": "https://open.spotify.com/album/2id38Vd87tLJiKOHfWRqLH"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 384466,
-      "name": "Your Great Name",
-      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
+      "duration_ms": 264693,
+      "name": "The Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2XVRlYilsT0FEMetvDI0UA"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Mountain High Valley Low",
-        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
+        "name": "God's Property from Kirk Franklin's Nu Nation",
+        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
       },
       "artists": [
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "Gods Property",
+          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
         }
       ],
-      "duration_ms": 417706,
-      "name": "In the Midst of It All",
-      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
+      "duration_ms": 321600,
+      "name": "More Than I Can Bear",
+      "url": "https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "God's Property from Kirk Franklin's Nu Nation",
-        "url": "https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E"
+        "name": "Mountain High Valley Low",
+        "url": "https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M"
       },
       "artists": [
         {
-          "name": "Gods Property",
-          "url": "https://open.spotify.com/artist/3xtft29VZ2knyu7dEC9N7X"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 321600,
-      "name": "More Than I Can Bear",
-      "url": "https://open.spotify.com/track/6hr7Ivu11c0HWIM79ha8sX"
+      "duration_ms": 417706,
+      "name": "In the Midst of It All",
+      "url": "https://open.spotify.com/track/1Pd0T4S4Ey5BChcU5rEAfn"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 276773,
-      "name": "I Know I've Been Changed",
-      "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Setlist: The Very Best of Kurt Carr & The Kurt Carr Singers",
         "url": "https://open.spotify.com/album/5jOdkocSgaJP5gaZxqQYb3"
       },
@@ -1355,18 +1339,34 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "V2...",
-        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
       },
       "artists": [
         {
-          "name": "J Moss",
-          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Praise on the Inside",
-      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
+      "duration_ms": 276773,
+      "name": "I Know I've Been Changed",
+      "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Trin-i-tee 5:7",
+        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
+      },
+      "artists": [
+        {
+          "name": "Trin-I-Tee 5:7",
+          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+        }
+      ],
+      "duration_ms": 261398,
+      "name": "God's Grace",
+      "url": "https://open.spotify.com/track/5yssJ3vVVA8IlNS2YFYtxW"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Trin-i-tee 5:7",
-        "url": "https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj"
+        "name": "V2...",
+        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
       },
       "artists": [
         {
-          "name": "Trin-I-Tee 5:7",
-          "url": "https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I"
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
         }
       ],
-      "duration_ms": 261398,
-      "name": "God's Grace",
-      "url": "https://open.spotify.com/track/5yssJ3vVVA8IlNS2YFYtxW"
+      "duration_ms": 223666,
+      "name": "Praise on the Inside",
+      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Stand",
-      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Take It Back",
         "url": "https://open.spotify.com/album/55GT0tiIaTpKsUhgMmBTaU"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 404666,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/518g0gs6NP9fHtUkgEfr5k"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Stand",
+      "url": "https://open.spotify.com/track/0WTfSVCIpYQLfBJZkDHkte"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "I Need You (Live)",
-        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 323877,
-      "name": "I Need You (Live)",
-      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Stax Profiles: Rance Allen",
         "url": "https://open.spotify.com/album/4Xr5nKSwjfiUX7f0vksm8P"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 262079,
       "name": "I Belong To You",
       "url": "https://open.spotify.com/track/5jhFCeJJ1bKZW0UunvVBgM"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Donnie McClurkin",
-        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
-      },
-      "artists": [
-        {
-          "name": "Donnie McClurkin",
-          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
-        }
-      ],
-      "duration_ms": 322973,
-      "name": "Speak to My Heart",
-      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "Think About These Things",
         "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 153853,
       "name": "Winning",
       "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Donnie McClurkin",
+        "url": "https://open.spotify.com/album/6ywrIjrzBJb1WPnmpYfmmn"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "duration_ms": 322973,
+      "name": "Speak to My Heart",
+      "url": "https://open.spotify.com/track/3nAwU0F5Tb3wdeSa2mAMe5"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2279,38 +2279,6 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "Alive In South Africa",
-        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 480560,
-      "name": "Alpha And Omega - Live",
-      "url": "https://open.spotify.com/track/61DPLakz3GX3KTliq6Xwek"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
-        }
-      ],
-      "duration_ms": 377280,
-      "name": "Awanwan Do",
-      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UyE4UHYnNJ6zGoJmTcJ0u"
       },
@@ -2347,24 +2315,8 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
-        "name": "As We Worship Live",
-        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 326826,
-      "name": "I Give Myself Away",
-      "url": "https://open.spotify.com/track/75BWWyySBqv0OZAN6w6OtM"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+        "name": "Alive In South Africa",
+        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
       },
       "artists": [
         {
@@ -2372,9 +2324,25 @@
           "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 357306,
-      "name": "Not Forgotten - Live",
-      "url": "https://open.spotify.com/track/6Vkzf0DotL1ICs9noLC16Q"
+      "duration_ms": 480560,
+      "name": "Alpha And Omega - Live",
+      "url": "https://open.spotify.com/track/61DPLakz3GX3KTliq6Xwek"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+        }
+      ],
+      "duration_ms": 377280,
+      "name": "Awanwan Do",
+      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2395,6 +2363,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "As We Worship Live",
+        "url": "https://open.spotify.com/album/0ejgR3hHi3voRjeBex95cx"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 326826,
+      "name": "I Give Myself Away",
+      "url": "https://open.spotify.com/track/75BWWyySBqv0OZAN6w6OtM"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/3riCApH5rikK2q1GXHxpss"
       },
@@ -2411,6 +2395,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 357306,
+      "name": "Not Forgotten - Live",
+      "url": "https://open.spotify.com/track/6Vkzf0DotL1ICs9noLC16Q"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "More Than Anything (Radio Edit)",
         "url": "https://open.spotify.com/album/2Mk07z67gI2kAyGCg4HHNk"
       },
@@ -2423,38 +2423,6 @@
       "duration_ms": 260120,
       "name": "More Than Anything (Radio Edit)",
       "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "Withholding Nothing",
-        "url": "https://open.spotify.com/album/5B9unOzZJFcwbj25HpJOVK"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Withholding Nothing",
-      "url": "https://open.spotify.com/track/0xshvIbrnQm55HVLpKKz2K"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "Alive In South Africa",
-        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 413266,
-      "name": "To Worship You I Live - Live",
-      "url": "https://open.spotify.com/track/5uIRfBq9GiUY7TRE3E2GNJ"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2479,6 +2447,22 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "Withholding Nothing",
+        "url": "https://open.spotify.com/album/5B9unOzZJFcwbj25HpJOVK"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Withholding Nothing",
+      "url": "https://open.spotify.com/track/0xshvIbrnQm55HVLpKKz2K"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "The Essential Kirk Franklin",
         "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 305666,
       "name": "Stomp (Remix)",
       "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
+        "name": "Alive In South Africa",
+        "url": "https://open.spotify.com/album/01m3EzPehzCnh4CKgxJKVn"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 413266,
+      "name": "To Worship You I Live - Live",
+      "url": "https://open.spotify.com/track/5uIRfBq9GiUY7TRE3E2GNJ"
     },
     {
       "added_at": "2026-02-13 12:47:48",
@@ -2515,6 +2515,26 @@
     {
       "added_at": "2026-02-13 12:47:48",
       "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Put A Praise On It - Live",
+      "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
+    },
+    {
+      "added_at": "2026-02-13 12:47:48",
+      "album": {
         "name": "Souled Out",
         "url": "https://open.spotify.com/album/36ZKkdsXITImTQwjRwNDhr"
       },
@@ -2531,22 +2551,6 @@
       "duration_ms": 234293,
       "name": "Souled Out",
       "url": "https://open.spotify.com/track/1Wedx2PUcry2oJU8rUTsTe"
-    },
-    {
-      "added_at": "2026-02-13 12:47:48",
-      "album": {
-        "name": "The Essential Yolanda Adams",
-        "url": "https://open.spotify.com/album/4sOJp2pBThvDJWECcO82wr"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
-        }
-      ],
-      "duration_ms": 387573,
-      "name": "The Battle Is the Lord's",
-      "url": "https://open.spotify.com/track/3Xg7RAV68Y0l8xyqQsuKJe"
     }
   ],
   "unique_name": "Gospel Classics",

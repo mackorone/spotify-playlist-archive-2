@@ -1,6 +1,6 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 3928067,
+  "num_followers": 3928982,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Masterpiece: Nuestra Obra Maestra",
+        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
+      },
+      "artists": [
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 232560,
+      "name": "Igual Que Ayer",
+      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 243226,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/7mPwkbaoiQ5bf8FPbRJzUr"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Masterpiece: Nuestra Obra Maestra",
-        "url": "https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE"
-      },
-      "artists": [
-        {
-          "name": "R.K.M & Ken-Y",
-          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
-        }
-      ],
-      "duration_ms": 232560,
-      "name": "Igual Que Ayer",
-      "url": "https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 288400,
-      "name": "No Te Veo - Remix",
-      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/7lGCEseaqunqtGS0q7QBt1"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 209946,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/1IJ7aLnLkfzALz85c4tdgc"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 288400,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/72tAU6b10AgYfEFKrykp8J"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
-      },
-      "artists": [
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Los Verdaderos",
         "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 226640,
       "name": "Hoy Lo Siento (feat. Tony Dize)",
       "url": "https://open.spotify.com/track/0zOTCXeKyojEa4kNkUqrQK"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/45IOnEpVUdxWUZFqpZ7Xvz"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Big Yamo o Nada",
-        "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
-      },
-      "artists": [
-        {
-          "name": "Big Yamo",
-          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
-        },
-        {
-          "name": "Vato 18k",
-          "url": "https://open.spotify.com/artist/7LikFezeadIOOH8CCBbEL5"
-        }
-      ],
-      "duration_ms": 185077,
-      "name": "Entre la Playa Ella y Yo",
-      "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
         "url": "https://open.spotify.com/album/63KShmoudDQpMk8eFWBLjb"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 293773,
       "name": "Hoy (feat. Daddy Yankee, J-Alvarez & Jory)",
       "url": "https://open.spotify.com/track/2MrP2Sv5Zbj1qckTKD1pVn"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Big Yamo o Nada",
+        "url": "https://open.spotify.com/album/4mLZPjMTdg2Io0fOYuJ1Ch"
+      },
+      "artists": [
+        {
+          "name": "Big Yamo",
+          "url": "https://open.spotify.com/artist/1a2HwAlOE2wUPmNisvZxSw"
+        },
+        {
+          "name": "Vato 18k",
+          "url": "https://open.spotify.com/artist/7LikFezeadIOOH8CCBbEL5"
+        }
+      ],
+      "duration_ms": 185077,
+      "name": "Entre la Playa Ella y Yo",
+      "url": "https://open.spotify.com/track/1tvdNGCcgAhYaYq7ouIYGJ"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Ella Se Contradice (feat. Plan B)",
-        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
+        "name": "El Abayarde",
+        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
       "artists": [
         {
-          "name": "Baby Rasta y Gringo",
-          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 256756,
-      "name": "Ella Se Contradice (feat. Plan B)",
-      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
+      "duration_ms": 240200,
+      "name": "Guasa, Guasa",
+      "url": "https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "El Abayarde",
-        "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
+        "name": "Ella Se Contradice (feat. Plan B)",
+        "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
       },
       "artists": [
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Baby Rasta y Gringo",
+          "url": "https://open.spotify.com/artist/3IEvQoAohcGX7CdrbtIle7"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
         }
       ],
-      "duration_ms": 240200,
-      "name": "Guasa, Guasa",
-      "url": "https://open.spotify.com/track/6sfBQReZH9v9tYSs82Xt1O"
+      "duration_ms": 256756,
+      "name": "Ella Se Contradice (feat. Plan B)",
+      "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Plan Calle",
+        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
+      },
+      "artists": [
+        {
+          "name": "Latin Fresh",
+          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Bata Bata 2",
+      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 227853,
       "name": "Hola Beb\u00e9",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Plan Calle",
-        "url": "https://open.spotify.com/album/7ku5AqOktQG9t6GsSE0BL8"
-      },
-      "artists": [
-        {
-          "name": "Latin Fresh",
-          "url": "https://open.spotify.com/artist/1NRrKr08wLdYUdSOnNDs7M"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Bata Bata 2",
-      "url": "https://open.spotify.com/track/1N1KlnNm1NE4INLOrKN3fi"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Chica 10",
-        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
-      },
-      "artists": [
-        {
-          "name": "Fusion Perreo",
-          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
-        }
-      ],
-      "duration_ms": 229015,
-      "name": "Chica 10",
-      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Los Reyes del Perreo",
         "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
       },
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Chica 10",
+        "url": "https://open.spotify.com/album/4wyYvQglx8mrdxPLOKPCvG"
+      },
+      "artists": [
+        {
+          "name": "Fusion Perreo",
+          "url": "https://open.spotify.com/artist/5UcNTjJChL9EcbhrWaRlMI"
+        }
+      ],
+      "duration_ms": 229015,
+      "name": "Chica 10",
+      "url": "https://open.spotify.com/track/0UJapEivI95Bl2CU8OYKNh"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Reggaeton Rulers: Los Que Ponen",
         "url": "https://open.spotify.com/album/369oPiSP9Y3CzTR6uWU4Da"
       },
@@ -1883,6 +1883,22 @@
       "duration_ms": 219133,
       "name": "Let's Go To My Crib",
       "url": "https://open.spotify.com/track/4SarxFaP7ObsGVqqztIjTO"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -1951,22 +1967,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Top Of The Line",
-        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Tocarte Toa (2008 / Remix)",
         "url": "https://open.spotify.com/album/0rlXTj8oXS1sQbDXHhmBnf"
       },
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Los Reyes del Perreo",
-        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Me Quiere Besar",
-      "url": "https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "My Destiny",
         "url": "https://open.spotify.com/album/0Q7X6qJEAc0rggA0GUL5VG"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 288288,
       "name": "Descara",
       "url": "https://open.spotify.com/track/20Zj7TB00BDSp7KLUJaEvU"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Los Reyes del Perreo",
+        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Me Quiere Besar",
+      "url": "https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2075,42 +2075,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Los Verdaderos",
-        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
-        },
-        {
-          "name": "Lennox",
-          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Amor Genuino",
-      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Mas Flow - Los Benjamins",
-        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Alocate",
-      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -2131,6 +2095,42 @@
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Alocate",
+      "url": "https://open.spotify.com/track/6Xc5cfbWz7MUxqAZpxj2bT"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Los Verdaderos",
+        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Amor Genuino",
+      "url": "https://open.spotify.com/track/0CyUWy7lIuWwYEeoRJlxND"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3EZqNZv60m7uPbyKlFUJ1Y"
-      },
-      "artists": [
-        {
-          "name": "Yaga & Mackie",
-          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "Acech\u00e1ndote",
-      "url": "https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
         "name": "La Pelicula",
         "url": "https://open.spotify.com/album/6EAn7VG0UE83hUkzrUMBME"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 204094,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/5kGGEaHEzrtqC4UJr8LiVR"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3EZqNZv60m7uPbyKlFUJ1Y"
+      },
+      "artists": [
+        {
+          "name": "Yaga & Mackie",
+          "url": "https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "Acech\u00e1ndote",
+      "url": "https://open.spotify.com/track/1how0UKUUwdF0ukchBbVy4"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3071,8 +3071,8 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Flow la Discoteka 2",
-        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
+        "name": "Mi Historia",
+        "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
       },
       "artists": [
         {
@@ -3080,13 +3080,17 @@
           "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         },
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Tejo Calderon",
+          "url": "https://open.spotify.com/artist/0NXFKE1cg2xTasxzotAcPN"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
         }
       ],
-      "duration_ms": 264212,
-      "name": "Chica Virtual (feat. Arcangel)",
-      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
+      "duration_ms": 195816,
+      "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
+      "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3103,26 +3107,6 @@
       "duration_ms": 196053,
       "name": "Vampiresa",
       "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
-    },
-    {
-      "added_at": "2025-12-29 17:06:55",
-      "album": {
-        "name": "Los Verdaderos",
-        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
-      },
-      "artists": [
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
-        },
-        {
-          "name": "Lennox",
-          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
-        }
-      ],
-      "duration_ms": 261306,
-      "name": "Como Curar",
-      "url": "https://open.spotify.com/track/62AhexN6mMJiNwKcjmY4QZ"
     },
     {
       "added_at": "2025-12-29 17:06:55",
@@ -3151,6 +3135,26 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
+        "name": "Los Verdaderos",
+        "url": "https://open.spotify.com/album/3jsGdxB4wVM7iT4w21fPtH"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/68Yelg8HOZqYn4EjOnXsZy"
+        },
+        {
+          "name": "Lennox",
+          "url": "https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo"
+        }
+      ],
+      "duration_ms": 261306,
+      "name": "Como Curar",
+      "url": "https://open.spotify.com/track/62AhexN6mMJiNwKcjmY4QZ"
+    },
+    {
+      "added_at": "2025-12-29 17:06:55",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx"
       },
@@ -3175,8 +3179,8 @@
     {
       "added_at": "2025-12-29 17:06:55",
       "album": {
-        "name": "Mi Historia",
-        "url": "https://open.spotify.com/album/7GhCq3DjpF2LBif2eVKflR"
+        "name": "Flow la Discoteka 2",
+        "url": "https://open.spotify.com/album/2BWXXmkWvvqCFc5qzbi22D"
       },
       "artists": [
         {
@@ -3184,17 +3188,13 @@
           "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         },
         {
-          "name": "Tejo Calderon",
-          "url": "https://open.spotify.com/artist/0NXFKE1cg2xTasxzotAcPN"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 195816,
-      "name": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
-      "url": "https://open.spotify.com/track/5XxOOXTiDicBrQXv0PAAH6"
+      "duration_ms": 264212,
+      "name": "Chica Virtual (feat. Arcangel)",
+      "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
     },
     {
       "added_at": "2025-12-29 17:06:55",

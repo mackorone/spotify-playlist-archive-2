@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-272 songs - 17 hr 21 min
+273 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2020](https://open.spotify.com/track/2JCskibhK5KQk8v8An371h) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [2020](https://open.spotify.com/album/3pssxznFPsw3TO2ns1Mey3) | 4:35 | 2021-12-16 | 2022-07-28 |
 | [2023](https://open.spotify.com/track/7eM5YIrVzZFcXIe2hZ9IiB) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Heil ved \- Musikken](https://open.spotify.com/album/5mqPvf7oEXdng9pKsSz9NI) | 3:15 | 2023-12-14 | 2024-01-19 |
 | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/track/6HNnIJeTCjp3t3oj30nuW3) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Myra](https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5) | [Adams Sang \(feat\. Myra\)](https://open.spotify.com/album/3s7wpsEiUTSvJwSQ7L3G5Z) | 4:27 | 2022-01-20 | 2022-07-09 |
-| [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 |  |
+| [Aldri i livet](https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Aldri i livet](https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r) | 3:08 | 2021-12-16 | 2026-03-13 |
 | [Alexander Kiellands plass \- Live](https://open.spotify.com/track/1vOMjmVZF9azOFd6SjIQuv) | [Lillebjørn Nilsen](https://open.spotify.com/artist/2cEkdzGxcB731g81iUsH6e), [Andy Irvine](https://open.spotify.com/artist/1nVYeUhlYzmXf0Dl9yk8P2) | [Live in Telemark](https://open.spotify.com/album/1ICtv14N8EWSJKe7GjUIhj) | 3:15 | 2022-03-23 | 2022-07-10 |
 | [Alle de tinga \(allting blei stilt\)](https://open.spotify.com/track/0iuowI2TuzdWdsoJgHJle0) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Like små](https://open.spotify.com/album/0mc6rENGnb9PREGbN4IUao) | 4:23 | 2021-12-16 | 2022-06-28 |
 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 | 2022-07-14 | 2024-04-19 |
@@ -119,6 +119,7 @@
 | [Heile Livet](https://open.spotify.com/track/1ceubw1ZmicRUFAymxh7Qi) | [Terje Tysland](https://open.spotify.com/artist/3DiSZJGP4rtIXmqpRlFca7) | [Gutta På By\`n](https://open.spotify.com/album/3Xx43BvyIoKsXOcPNA1pIu) | 5:50 | 2022-02-10 | 2022-07-28 |
 | [Heile veien ned](https://open.spotify.com/track/37BdNAd2PInnfRCVeq6HOi) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Heile veien ned](https://open.spotify.com/album/1bPeKBeiPxL33kcyI4GdzE) | 4:24 | 2025-01-16 | 2025-10-15 |
 | [Heim igjen](https://open.spotify.com/track/1fbdwwnIq1J1dfySdyJqAK) | [Ida Jenshus](https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd) | [Heim igjen](https://open.spotify.com/album/1roeS2EV5XHBorIbHg6vxO) | 4:20 | 2021-12-16 | 2022-07-17 |
+| [Heime her](https://open.spotify.com/track/3BJMDOBPtlJQ7oYNXYM38q) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Heime her \(fra "Jon blir bonde" \- sesong 2\)](https://open.spotify.com/album/63jRhWh0VGSaZxH9W6NVME) | 3:33 | 2026-03-12 |  |
 | [Heimlandsong](https://open.spotify.com/track/5hymGjLtHryPaJsy7RcgBJ) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C), [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Heimlandsong](https://open.spotify.com/album/5lk6moS6CZPICHbU1xRJ5m) | 4:46 | 2023-08-31 | 2025-01-21 |
 | [Himmelblå](https://open.spotify.com/track/76aHRAWLLROERsUoj7qxaR) | [Anne Marie Almedal](https://open.spotify.com/artist/49nP0U2x9Egz06cjDphoez) | [Blue Sky Blue](https://open.spotify.com/album/4sfHf8C3gtRkGS4eX1tB0X) | 3:47 | 2021-12-16 | 2022-07-25 |
 | [Himmelblå](https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05) | [Inge Bremnes](https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB) | [Har det no å si](https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd) | 3:45 | 2023-04-13 | 2024-04-19 |

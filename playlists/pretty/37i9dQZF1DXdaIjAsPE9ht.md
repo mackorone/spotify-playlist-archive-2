@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 
 > sad lofi to keep your thoughts company when u r down 🌧️ remember this too shall pass
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,940 likes - 100 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,917 likes - 100 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaIjAsPE9ht.md) - [plain]
 | 99 | [Distance](https://open.spotify.com/track/4TDmvOpMxFoF7MX6gQh1Ld) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Philip Somber](https://open.spotify.com/artist/3xJD9x3Dw6g4g5naFYe0qi) | [Forest Of Dreams](https://open.spotify.com/album/7GubKoMp9Lr1XqEtpspcZI) | 3:05 |
 | 100 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
 
-Snapshot ID: `AAAAAFQoCDnE69Sw6bmps/YBAgEWCn4H`
+Snapshot ID: `AAAAAO3U1fo3o/ZZtI6s3HBut3iMjOVZ`

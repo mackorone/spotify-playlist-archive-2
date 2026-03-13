@@ -2,15 +2,15 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Amy Taylor
+> Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Station Model Violence
 
-132 songs - 7 hr 14 min
+135 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-10-23 | 2025-11-28 |
 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 | 2026-02-05 |  |
-| [Advent](https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY) | [G.U.N](https://open.spotify.com/artist/1isYB1JfzwRLNg0SkXHH1U), [Megan Joy](https://open.spotify.com/artist/1kwj0sY4n6bPlKcHTm39Cj) | [To Heaven, From Hollywood](https://open.spotify.com/album/4D2S3rrJFLT47lJjUHEzdc) | 3:05 | 2025-10-23 |  |
+| [Advent](https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY) | [G.U.N](https://open.spotify.com/artist/1isYB1JfzwRLNg0SkXHH1U), [Megan Joy](https://open.spotify.com/artist/1kwj0sY4n6bPlKcHTm39Cj) | [To Heaven, From Hollywood](https://open.spotify.com/album/4D2S3rrJFLT47lJjUHEzdc) | 3:05 | 2025-10-23 | 2026-03-13 |
 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 | 2025-12-12 |
 | [ASSIGNMENT](https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM) | [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6) | [ASSIGNMENT](https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c) | 2:23 | 2026-02-05 |  |
 | [Automate Me](https://open.spotify.com/track/42VOxxXnw23ir7nNRDPL8J) | [Speed Week](https://open.spotify.com/artist/1YqOI80mYoot4jWj39VlMn) | [Automate Me](https://open.spotify.com/album/0TCRkaqYIeodw6bJ7B8OqR) | 3:43 | 2025-10-23 | 2026-02-06 |
@@ -41,7 +41,7 @@
 | [Dream Bigger](https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Dream Bigger](https://open.spotify.com/album/4kIvdcIBu9AymMzJUsgyI1) | 3:05 | 2025-10-23 | 2026-02-13 |
 | [Easy Now](https://open.spotify.com/track/116Q6WPhxJhZZCkjlzXiaE) | [Fan Girl](https://open.spotify.com/artist/5T6xZyiyC7t9IChfUHu4zt) | [Easy Now](https://open.spotify.com/album/6EWtwbgoSPagWHzNc3lS5r) | 4:20 | 2026-02-19 |  |
 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 | 2025-10-23 |  |
-| [Ecstatic Strife](https://open.spotify.com/track/01FYlCtSVcddMczKnmI5dW) | [R.M.F.C.](https://open.spotify.com/artist/7bpsiElrldRZYB3CbwFZlx) | [Ecstatic Strife](https://open.spotify.com/album/4x98bw8VXp4pNJoEwrquID) | 3:17 | 2025-10-23 |  |
+| [Ecstatic Strife](https://open.spotify.com/track/01FYlCtSVcddMczKnmI5dW) | [R.M.F.C.](https://open.spotify.com/artist/7bpsiElrldRZYB3CbwFZlx) | [Ecstatic Strife](https://open.spotify.com/album/4x98bw8VXp4pNJoEwrquID) | 3:17 | 2025-10-23 | 2026-03-13 |
 | [Elitest G.O.A.T.](https://open.spotify.com/track/2p9VQReMQ1yHLMEdH3KrWc) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Elitest G.O.A.T.](https://open.spotify.com/album/2wgsMdq9nZr7YhHjrcjSKF) | 3:25 | 2026-01-15 |  |
 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 | 2025-10-23 | 2026-01-23 |
 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 | 2025-10-23 | 2026-02-21 |
@@ -66,13 +66,14 @@
 | [I.D.C.](https://open.spotify.com/track/2nnyvuEKMFWm006YaI5fb1) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [I.D.C.](https://open.spotify.com/album/2JcaLMni0sJcuU2rEGOd9w) | 3:31 | 2026-01-15 |  |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-02-05 |  |
 | [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 | 2025-10-23 | 2025-12-12 |
-| [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 |  |
+| [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 | 2026-03-13 |
 | [Jets](https://open.spotify.com/track/7KHCTOQdd3fbhE4A4nLMMg) | [Billions](https://open.spotify.com/artist/0d4Vp1bZp6pienWr5UZk4o) | [Jets](https://open.spotify.com/album/4XT8suRAQcriBXpFu1Sepd) | 3:13 | 2026-02-19 |  |
-| [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-15 |  |
+| [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 | 2026-01-15 | 2026-03-13 |
 | [Just a Memory](https://open.spotify.com/track/10ElMw2aUfjQgq0l9ATVXR) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Just a Memory](https://open.spotify.com/album/7ChJguOeuMu7fwDhFooODN) | 3:31 | 2025-12-18 |  |
 | [Landed In A Trap](https://open.spotify.com/track/2McVnlCfJVaRFNeSwIAUgU) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Landed In A Trap](https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE) | 1:24 | 2025-10-23 | 2026-01-15 |
 | [Landslide](https://open.spotify.com/track/3YGUjZ9giUQTnseoUqf0By) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg), [Sans Merit](https://open.spotify.com/artist/6ArU4k8PS1STHehmWH770a) | [Landslide](https://open.spotify.com/album/0xlFiNYXN3cF666OLUxRlz) | 3:21 | 2025-10-23 | 2026-01-15 |
 | [Lapdog](https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Online 24/7](https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC) | 2:42 | 2026-02-12 |  |
+| [Leisure](https://open.spotify.com/track/4wuVZpmDkRpgAhwexsfp30) | [Station Model Violence](https://open.spotify.com/artist/4NZX3oX5pJYixdC5WvoySV) | [Station Model Violence](https://open.spotify.com/album/0hM5rkGJ8NgqqRJsBwu5Bz) | 2:53 | 2026-03-12 |  |
 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 | 2026-01-29 |  |
 | [Long Line](https://open.spotify.com/track/2hj5Qm88WoLdKPut2KGoRD) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Long Line](https://open.spotify.com/album/2rG5spc0tbdMY3pwVB7vkd) | 3:32 | 2025-10-23 | 2025-11-21 |
 | [Mad Rooter](https://open.spotify.com/track/6cuXSWojM83UcPkrfbd75t) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [Mad Rooter](https://open.spotify.com/album/4n5Lg3hYCaJIv434OImVaO) | 3:05 | 2025-10-23 |  |
@@ -88,6 +89,7 @@
 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-23 | 2026-02-21 |
 | [One Train](https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [One Train](https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN) | 2:32 | 2025-10-23 | 2025-12-19 |
 | [Parasite](https://open.spotify.com/track/6JIh5QYBFfoaRQkYvpnkvH) | [Big Modern](https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp) | [Parasite](https://open.spotify.com/album/50MUt4o2af60ChoEniSgfB) | 2:27 | 2025-10-23 |  |
+| [Pieces](https://open.spotify.com/track/3sNJK6XOSqwnKZKXKXXBtK) | [Robber Robber](https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM) | [Pieces](https://open.spotify.com/album/65Eocfc9lOiXl4WmPPFUrp) | 4:12 | 2026-03-12 |  |
 | [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 | 2025-11-20 |  |
 | [Pigeon](https://open.spotify.com/track/20xPTgR9luxSduaKnv3hok) | [Ebop](https://open.spotify.com/artist/2Efy3ySYJ83uBkokvfdwxn) | [Pigeon](https://open.spotify.com/album/1OEcnuGKiWFB4BaASFzTSk) | 3:21 | 2026-01-22 |  |
 | [PIRATE RADIO](https://open.spotify.com/track/6HQFxxX9d7HailblPX0Nxy) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [PIRATE RADIO](https://open.spotify.com/album/1bxj95VYRQYbEzaEHD3fp3) | 2:54 | 2025-10-23 |  |
@@ -102,9 +104,9 @@
 | [rooster](https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [rooster](https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e) | 5:35 | 2025-10-23 |  |
 | [Rule 31](https://open.spotify.com/track/7pAfFtGxND5IaeRzOuPHcJ) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Rule 31](https://open.spotify.com/album/2SMWUV7fij4YwtmQqYiJjx) | 4:14 | 2025-11-27 |  |
 | [runner, run](https://open.spotify.com/track/7MB8QI8h0w9GRSiAFXB7yy) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h), [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [runner, run](https://open.spotify.com/album/27qKTpRGe2yiWdcbdAQ54I) | 2:09 | 2025-10-23 | 2025-11-28 |
-| [S.S.R.I.](https://open.spotify.com/track/4pTYYj4OePKSu2lOBPRcoJ) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [S.S.R.I.](https://open.spotify.com/album/3VJCA3crUdrG5qj1Oxe8fS) | 3:05 | 2025-10-23 |  |
+| [S.S.R.I.](https://open.spotify.com/track/4pTYYj4OePKSu2lOBPRcoJ) | [Special Guest](https://open.spotify.com/artist/4WPcB3czUtzQ2QT1MAikKu) | [S.S.R.I.](https://open.spotify.com/album/3VJCA3crUdrG5qj1Oxe8fS) | 3:05 | 2025-10-23 | 2026-03-13 |
 | [Scorching Heat](https://open.spotify.com/track/0VNlrimGojC31fEX3c7T78) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Scorching Heat](https://open.spotify.com/album/0qhOi2eJxJ0yFthw12DVwT) | 3:14 | 2025-10-23 |  |
-| [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 | 2025-10-23 |  |
+| [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 | 2025-10-23 | 2026-03-13 |
 | [Secrets](https://open.spotify.com/track/7LN2eS7gyXt1MenkXRlqAF) | [Itchy and the Nits](https://open.spotify.com/artist/2HaxruhERCGJpz57qqjk8h) | [Greetings from Itchy and the Nits](https://open.spotify.com/album/0zgz2F5kH668aSUvdI4rfY) | 1:35 | 2026-02-12 |  |
 | [Shiver](https://open.spotify.com/track/4QMNfomTyuHSNStuWlxsIP) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Shiver](https://open.spotify.com/album/2YzSbPtiRvuUf6CogAbNcE) | 3:56 | 2025-11-27 |  |
 | [Sick Sad World](https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Sick Sad World](https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9) | 2:53 | 2025-10-23 |  |
@@ -140,5 +142,6 @@
 | [want someone](https://open.spotify.com/track/6z3OIvA4hWhL9tAqh4pG5N) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [want someone](https://open.spotify.com/album/6sHptB5hwfGcHfTk2x9I4d) | 2:40 | 2025-10-23 | 2026-01-15 |
 | [Waterboy](https://open.spotify.com/track/2Nyztwz6fs4sXGCqIhAwIO) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [viagr aboys](https://open.spotify.com/album/0ibbISvq4loJXVtZquKrQB) | 2:58 | 2025-10-23 | 2026-02-27 |
 | [WHITE NOISE](https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [WHITE NOISE](https://open.spotify.com/album/4Ujzbe9tXwfIZabmtPFAEC) | 4:24 | 2026-02-26 |  |
+| [Why Are These Men Still Alive](https://open.spotify.com/track/4oUei1ZLojAfP7iLANoR4e) | [Institute](https://open.spotify.com/artist/4pLRqnM78ur7geXMT6q2NR) | [Institute](https://open.spotify.com/album/5JBV4NEGXpbw7b5I2RArlk) | 3:54 | 2026-03-12 |  |
 
 \*This playlist was first scraped on 2025-10-28. Prior content cannot be recovered.

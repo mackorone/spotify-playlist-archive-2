@@ -2,14 +2,14 @@
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Lazza
+> Solo hit rap da ascoltare in loop\. Cover: Salmo
 
 264 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-11-28 |  |
-| [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 | 2022-08-10 | 2025-11-30 |
+| [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 | 2022-08-10 |  |
 | [100 MESSAGGI](https://open.spotify.com/track/2l4NKSQbBA3sV0nxpNjSkj) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O) | 4:04 | 2025-07-02 |  |
 | [1984](https://open.spotify.com/track/0OU4v07h5oT26f4zmxzddH) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Hellvisback](https://open.spotify.com/album/6o2ipzLDelm6yXU0v4ZOIK) | 4:09 | 2024-11-28 |  |
 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 | 2022-04-28 |  |
@@ -246,7 +246,7 @@
 | [Tesla \(feat\. Sfera Ebbasta & DrefGold\)](https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:05 | 2022-04-28 |  |
 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 | 2022-08-10 | 2023-07-19 |
 | [Tip Tap](https://open.spotify.com/track/1u9C89v58yfZkMgFe7rBS1) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 2:09 | 2025-07-02 |  |
-| [Toradol](https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC8 – Singles](https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj) | 2:16 | 2023-02-09 |  |
+| [Toradol](https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC8 – Singles](https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj) | 2:16 | 2023-02-09 | 2026-03-13 |
 | [Torna Da Me](https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:00 | 2022-04-28 |  |
 | [Tran Tran](https://open.spotify.com/track/1S2VLr8j9KVbroLn76RF4i) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Tran Tran](https://open.spotify.com/album/6no7XEwjK8pAELt9aClXFx) | 3:40 | 2022-04-28 | 2022-07-28 |
 | [Trankilo](https://open.spotify.com/track/4hwwDxMDxwNbCyUJuI5sLa) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Chic Nisello](https://open.spotify.com/album/5ksomJymWCuZ7bCuqypCPk) | 4:00 | 2022-05-27 | 2022-06-08 |

@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 592702,
+  "num_followers": 592755,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "DIME SI ERES FELIZ VOL.2",
         "url": "https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 171667,
       "name": "DIME SI ERES FELIZ VOL.2",
       "url": "https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Por la V\u00eda R\u00e1pida",
+        "url": "https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3"
+      },
+      "artists": [
+        {
+          "name": "Los Chicos de la V\u00eda",
+          "url": "https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Te Llev\u00e1s Todo",
+      "url": "https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "BM | DJ TAO Turreo Sessions #17",
         "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 176144,
       "name": "BM | DJ TAO Turreo Sessions #17",
       "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Por la V\u00eda R\u00e1pida",
-        "url": "https://open.spotify.com/album/2flujZvgYJgwZQlcUh7WE3"
-      },
-      "artists": [
-        {
-          "name": "Los Chicos de la V\u00eda",
-          "url": "https://open.spotify.com/artist/1nfSzeihND1mzlXT78LFGl"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Te Llev\u00e1s Todo",
-      "url": "https://open.spotify.com/track/5tu5SdJNNQR5pgEFA1XusS"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "La Noche",
-        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 230448,
       "name": "Sigue bailando mi amor",
       "url": "https://open.spotify.com/track/5YMmXk3DlySsw2z5BS47Hq"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "FERNANDITO",
-        "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "FERNANDITO",
-      "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Close de Ort!",
         "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+        "name": "FERNANDITO",
+        "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
       },
       "artists": [
         {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
+      "duration_ms": 131853,
+      "name": "FERNANDITO",
+      "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "\u00danico en Su Especie",
-        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
       },
       "artists": [
         {
-          "name": "El Tecla",
-          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
         }
       ],
-      "duration_ms": 225280,
-      "name": "A Chillar a Otra Parte",
-      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1391,6 +1375,22 @@
       "duration_ms": 269113,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/3VmasUuFOaQPRFMPuGLpjw"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "\u00danico en Su Especie",
+        "url": "https://open.spotify.com/album/1wU7LHfFlihSDZUJ6EU1Tf"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "A Chillar a Otra Parte",
+      "url": "https://open.spotify.com/track/6rbRGG6KLfSCLW5EN4VlsI"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Tiempos Dorados",
-        "url": "https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 157964,
-      "name": "Tiempos Dorados",
-      "url": "https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Su Majestad",
         "url": "https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 236016,
       "name": "Dile Tu",
       "url": "https://open.spotify.com/track/0VcW26sjYxiQCPFkXstR5z"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/6JMXDUoze1hWpr7UMpRq5B"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 157964,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/7d4gwV1hcZQ7ZGHYLwOl87"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1747,6 +1747,26 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "DJ ALEX, EL NOBA - TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "DJ ALEX, EL NOBA - TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Vamos A Amanecer (Remix)",
         "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
       },
@@ -1771,22 +1791,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "DJ ALEX, EL NOBA - TEKA | E6",
-        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+        "name": "Quien Te Hace Bailar",
+        "url": "https://open.spotify.com/album/2r4rjtAQQz4VCodWCY1GdR"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "1 de kal",
+          "url": "https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1"
         }
       ],
-      "duration_ms": 137500,
-      "name": "DJ ALEX, EL NOBA - TEKA | E6",
-      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
+      "duration_ms": 169680,
+      "name": "Poco a Poco",
+      "url": "https://open.spotify.com/track/7DOUhxMyjnZzwrZJafjxZ5"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1803,22 +1819,6 @@
       "duration_ms": 201346,
       "name": "La pata sucia",
       "url": "https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Quien Te Hace Bailar",
-        "url": "https://open.spotify.com/album/2r4rjtAQQz4VCodWCY1GdR"
-      },
-      "artists": [
-        {
-          "name": "1 de kal",
-          "url": "https://open.spotify.com/artist/25S9QqOslbH6r8cvnP3WY1"
-        }
-      ],
-      "duration_ms": 169680,
-      "name": "Poco a Poco",
-      "url": "https://open.spotify.com/track/7DOUhxMyjnZzwrZJafjxZ5"
     },
     {
       "added_at": "2026-02-13 19:04:43",

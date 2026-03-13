@@ -298,6 +298,24 @@
     {
       "album": {
         "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303333,
+      "name": "Broken Hymns",
+      "url": "https://open.spotify.com/track/2OMqDQENvS5CF7UN0wQJT4"
+    },
+    {
+      "album": {
+        "name": "Going Out In Style",
         "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
       },
       "artists": [
@@ -808,7 +826,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158880,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"

@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Aya Nakamura
+> Les hits zouk & kompa du moment\. Photo : Naïka
 
-382 songs - 20 hr 5 min
+383 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Moi qu'il faut](https://open.spotify.com/track/0QIEtVgrkPA4unGz3CofT9) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Moi qu'il faut](https://open.spotify.com/album/2ZVM58LzB4oG8Y9A41JqHu) | 3:02 | 2025-03-06 | 2025-05-02 |
 | [Mon Ame](https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Mon Ame](https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz) | 2:50 | 2023-12-21 | 2024-01-26 |
 | [Mon Ame \- Gouyad Remix](https://open.spotify.com/track/00rSchsTFFQtIgVvWGfdUv) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [King Bouji](https://open.spotify.com/artist/1Q0GT56P1DZTHDsAYQihnX) | [Mon Ame \(Gouyad Remix\)](https://open.spotify.com/album/4KIpKdDmy0UZZ4WaqKsnpZ) | 3:06 | 2024-06-20 | 2024-08-23 |
+| [Mon Amour Est Mort](https://open.spotify.com/track/4fQpwVa1OrHQrk4sKSjkXG) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Mon Amour Est Mort](https://open.spotify.com/album/4tpwXfLxXS7DR2i0uHpGmy) | 3:26 | 2026-03-12 |  |
 | [Mon BB](https://open.spotify.com/track/1ej20IxApkQjeM0QCB4Jfa) | [XIV](https://open.spotify.com/artist/5TYWbwBIIkfhJHUrYbatRF) | [Mon BB](https://open.spotify.com/album/3eLQpjrB5OHzAXWdZdpyI9) | 2:49 | 2025-06-26 | 2025-08-15 |
 | [Mon histoire](https://open.spotify.com/track/4twsrwCYrH2KOBD7w5fcnF) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [SAM](https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Mon histoire](https://open.spotify.com/album/188goE3k1VuOP645a5kWJT) | 2:44 | 2025-12-11 | 2026-02-20 |
 | [Mon Pilote](https://open.spotify.com/track/6pPgz6TJYE3Zi6STuj9Ovm) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN), [Jayneziss](https://open.spotify.com/artist/2gQcVMHBDwjdYAEOzubaHV) | [Mon Pilote](https://open.spotify.com/album/1aby69IK1A9OsyeFBWB5Xe) | 2:33 | 2025-09-25 | 2025-11-21 |
@@ -357,7 +358,7 @@
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-11-24 |
 | [TROP DOUX](https://open.spotify.com/track/7qk5RFp7PrxzguPkTdgkmq) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [TROP DOUX](https://open.spotify.com/album/52mKE8lmxbVpXyAVJa4lX7) | 3:28 | 2023-09-28 | 2023-10-27 |
 | [TROP LOVE](https://open.spotify.com/track/33dJhAnryWez0YcwdwRLIt) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [HISTOIRES D'AMOUR](https://open.spotify.com/album/7eiylQt70j5hQ2kDAQrY46) | 3:00 | 2025-05-08 | 2025-10-17 |
-| [Trop sexy](https://open.spotify.com/track/01lBKtR4KIXBYaZx2JXtjM) | [Rody Khems](https://open.spotify.com/artist/0VhG1tpChOSPrXDI4WzNdc) | [Trop sexy](https://open.spotify.com/album/4c07LJDKfy5rBTzZIRuTki) | 2:24 | 2026-02-12 |  |
+| [Trop sexy](https://open.spotify.com/track/01lBKtR4KIXBYaZx2JXtjM) | [Rody Khems](https://open.spotify.com/artist/0VhG1tpChOSPrXDI4WzNdc) | [Trop sexy](https://open.spotify.com/album/4c07LJDKfy5rBTzZIRuTki) | 2:24 | 2026-02-12 | 2026-03-13 |
 | [Trophy](https://open.spotify.com/track/1mKlQnt4FPb2R4HV5cn5y1) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Féeries](https://open.spotify.com/album/2W94yzXafkE28LcyiQD4YH) | 2:59 | 2023-09-28 | 2023-11-17 |
 | [Trophée](https://open.spotify.com/track/4bMmiLEjHHhwqo8fKIRayx) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP) | [Trophée](https://open.spotify.com/album/1814HhtSuacyysbTwr79mO) | 2:57 | 2024-08-29 | 2024-11-08 |
 | [TU ME TOUCHES](https://open.spotify.com/track/1CMYEMTuKG82siF0FMAlqn) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [Thayna](https://open.spotify.com/artist/1TeJHWmFIoKu01utt6n3kR), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [TU ME TOUCHES](https://open.spotify.com/album/2INKDIz39NOpEhXTkydqnc) | 3:32 | 2023-11-23 | 2024-02-09 |

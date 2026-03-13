@@ -4168,7 +4168,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 139200,
       "name": "Back2Basic",
       "url": "https://open.spotify.com/track/33ce8S1SLKoVDlFKe9klj5"
@@ -7782,7 +7782,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 128850,
       "name": "CASANOVA",
       "url": "https://open.spotify.com/track/00N0RDX7n9W2LcgYQuECL3"
@@ -8396,7 +8396,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 178716,
       "name": "Claro",
       "url": "https://open.spotify.com/track/2cubNnPImuh0D1FO2VAIpG"
@@ -9184,7 +9184,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 137142,
       "name": "DAG 1",
       "url": "https://open.spotify.com/track/41mJC8hN8Sw4ga7Xwr6gOa"
@@ -9584,7 +9584,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 105405,
       "name": "DBF",
       "url": "https://open.spotify.com/track/052oUmwK9lJ1KclTCYo6IN"
@@ -9774,6 +9774,24 @@
       "duration_ms": 156531,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/6Xk5ST2mrdwy8YJZDQzzyb"
+    },
+    {
+      "album": {
+        "name": "Delila",
+        "url": "https://open.spotify.com/album/4b9iVCHUMnSouROAbWVseL"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "Delila",
+      "url": "https://open.spotify.com/track/2LZIZx9vXKcAdEXUnxTDRF"
     },
     {
       "album": {
@@ -12113,6 +12131,24 @@
     },
     {
       "album": {
+        "name": "En kvinna",
+        "url": "https://open.spotify.com/album/1kczuZfv0VNtT5EwD8wUcj"
+      },
+      "artists": [
+        {
+          "name": "Nisch",
+          "url": "https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "En kvinna",
+      "url": "https://open.spotify.com/track/1EMIIKoPYKELjVp1gVO4Uf"
+    },
+    {
+      "album": {
         "name": "En kv\u00e4ll i en gr\u00e4nd",
         "url": "https://open.spotify.com/album/4ufjdT9uaUphHRsWlPwgMa"
       },
@@ -12396,7 +12432,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 110400,
       "name": "Ett Glas",
       "url": "https://open.spotify.com/track/7gwuSvvrzy6icRYDg8tWwh"
@@ -12698,7 +12734,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161095,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/2KsU2kCLYql5LlrHUG67uR"
@@ -13634,6 +13670,28 @@
       "duration_ms": 177062,
       "name": "flygplansl\u00e4ge",
       "url": "https://open.spotify.com/track/2TcAeEJb8CKeRml6SSwmJf"
+    },
+    {
+      "album": {
+        "name": "FNM",
+        "url": "https://open.spotify.com/album/409QAf2a77VlR1sjWqG0D7"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "NBLNATION",
+          "url": "https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129056,
+      "name": "FNM",
+      "url": "https://open.spotify.com/track/5B3jedHeAo1g8r9iUGcE0m"
     },
     {
       "album": {
@@ -17656,7 +17714,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161062,
       "name": "HIPHOP",
       "url": "https://open.spotify.com/track/00bc0LQQBwiu9XpF6IfzLQ"
@@ -18250,7 +18308,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 147046,
       "name": "Hur ska jag m\u00e5",
       "url": "https://open.spotify.com/track/2F55MZek0xwxjGXxoHp9DR"
@@ -19684,7 +19742,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 146526,
       "name": "Inte varit mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/6msXMdpztfzw0xap11pm8o"
@@ -21318,7 +21376,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 161311,
       "name": "KOD",
       "url": "https://open.spotify.com/track/490dfoKXBgfjw15bMdczWm"
@@ -21896,7 +21954,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 180845,
       "name": "Kraft",
       "url": "https://open.spotify.com/track/0vj31m7sRV5bw7qpKqnCAd"
@@ -22140,7 +22198,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 130812,
       "name": "K\u00e4nna som jag",
       "url": "https://open.spotify.com/track/1KYuRB76TVOtPKKQhB9dVN"
@@ -23274,6 +23332,28 @@
       "duration_ms": 160166,
       "name": "Linda Hammar",
       "url": "https://open.spotify.com/track/10lQfRr7I7KvMBEN1734cI"
+    },
+    {
+      "album": {
+        "name": "LIPSTICK",
+        "url": "https://open.spotify.com/album/5e006P5k1cNp8GSOH672Vw"
+      },
+      "artists": [
+        {
+          "name": "Valentin",
+          "url": "https://open.spotify.com/artist/4wyiRaOaZMbqROCIEJjcPs"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151127,
+      "name": "LIPSTICK",
+      "url": "https://open.spotify.com/track/34f7ivCAdEtOMZeRlL5YcO"
     },
     {
       "album": {
@@ -24552,7 +24632,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 155566,
       "name": "L\u00e5t Mig Ber\u00e4tta",
       "url": "https://open.spotify.com/track/6SkvXCOaOERANcAsuJO6ov"
@@ -26144,7 +26224,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 169924,
       "name": "Menat",
       "url": "https://open.spotify.com/track/5n1I8EpMbDmBVHjv1eh489"
@@ -31042,7 +31122,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 149333,
       "name": "Pick & Pack",
       "url": "https://open.spotify.com/track/5ZZvA49i9O0Eta3bD8vWCu"
@@ -32720,7 +32800,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 146400,
       "name": "RIKARE",
       "url": "https://open.spotify.com/track/0e4TrMdo69LscyRvJxdB7U"
@@ -37388,7 +37468,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 114666,
       "name": "Sweden Beef",
       "url": "https://open.spotify.com/track/1QnzK1fXddVNZijq1tNVGM"
@@ -39753,6 +39833,24 @@
     },
     {
       "album": {
+        "name": "Trafficante",
+        "url": "https://open.spotify.com/album/0ilH9PaVHS7H8nGdEF24dU"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108571,
+      "name": "Trafficante",
+      "url": "https://open.spotify.com/track/0ThftADgLWQORiaVqELAHC"
+    },
+    {
+      "album": {
         "name": "TRAFIK",
         "url": "https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy"
       },
@@ -41818,7 +41916,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 131282,
       "name": "Vespa",
       "url": "https://open.spotify.com/track/1kRfkFEJD6ojL353QVOgYd"
@@ -43392,7 +43490,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 162295,
       "name": "X",
       "url": "https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj"
@@ -44006,7 +44104,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 125581,
       "name": "\u00c4lvsj\u00f6 Macken",
       "url": "https://open.spotify.com/track/2XqUjJ0wYTDENHanyngt5T"

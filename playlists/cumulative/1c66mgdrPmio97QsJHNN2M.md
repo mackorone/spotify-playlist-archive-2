@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-1,371 songs - 3 day 2 hr 33 min
+1,377 songs - 3 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [BEYOND MY REACH](https://open.spotify.com/track/652NnQ1m3eWcua8MQ0o0B3) | [oblivious](https://open.spotify.com/artist/19LndR3DnzJma8Gj0C5ccz) | [BEYOND MY REACH](https://open.spotify.com/album/59sZlu642XN4SG9FuVnBQb) | 3:24 | 2025-12-27 | 2026-01-28 |
 | [Beyond the Galaxies](https://open.spotify.com/track/6nuVgxXUY9yqW6jRwqcVs9) | [Northern Orbit](https://open.spotify.com/artist/3HRsU30Xs4TFD4arZcr7t3) | [Beyond the Galaxies](https://open.spotify.com/album/02FmDtJx2FML3faE4FFrAB) | 3:45 | 2025-11-10 | 2025-12-11 |
 | [Biffadotum Riffaroni](https://open.spotify.com/track/0LTmzCaGQEyx9AkdeoNxPK) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 3:02 | 2025-11-28 | 2025-12-31 |
+| [Big City](https://open.spotify.com/track/5BYoDRCWOj8zDc7Frujd9F) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [What The Moon Doesn't Tell The Sun](https://open.spotify.com/album/3qYwKbKVXTEvl8uIZFhhiJ) | 2:47 | 2026-03-12 |  |
 | [Bittersweet](https://open.spotify.com/track/2mIW97xTbYQsWa8YT2v7EL) | [Axel Karl](https://open.spotify.com/artist/3dw28DJWbKoIerGTg7Uu6c) | [Bittersweet](https://open.spotify.com/album/3ffPHVXvTaSViQk5GxtkVk) | 2:54 | 2025-10-31 | 2025-12-01 |
 | [Bla Bla Bla Bla](https://open.spotify.com/track/6Fmv2w41oZahxZLgKmlgex) | [Xenia](https://open.spotify.com/artist/5fvJdvl7fyA7xNwDErRNEb) | [Bla Bla Bla Bla](https://open.spotify.com/album/2dtnn5KGkZOPAlbqD4HTiw) | 2:24 | 2025-12-10 | 2026-01-15 |
 | [Blaa Blaa Blaa](https://open.spotify.com/track/7GzSgRpu452g0MHK4mezws) | [Tapany](https://open.spotify.com/artist/7MI44S2fRIrOiOovCyY3xS) | [Blaa Blaa Blaa](https://open.spotify.com/album/3fNTQi5eXA8vqk2loEg3Yq) | 2:24 | 2025-11-19 | 2025-12-20 |
@@ -190,10 +191,12 @@
 | [Can't Keep My Eyes Open \- Acoustic Guitar Version](https://open.spotify.com/track/0Bllg5UmklzsDHyR1sOYJH) | [Destiny Now](https://open.spotify.com/artist/2TyusiCeuCiPUac6SZht5q) | [Can't Keep My Eyes Open](https://open.spotify.com/album/1uP6gSztoVcdQu38qHM0CZ) | 2:57 | 2026-01-17 | 2026-02-21 |
 | [Can't Stay The Same](https://open.spotify.com/track/699YB1MVINHgwMyJH7kjfR) | [Collbu](https://open.spotify.com/artist/4hybYMTf3XAQmcZaxK5kGO) | [Head Staples](https://open.spotify.com/album/49Ojh2lxlquxy0g3jJOA37) | 3:30 | 2025-11-16 | 2025-12-19 |
 | [Can't Stop Smiling](https://open.spotify.com/track/1kPfgvriOwem5fhgf4Q82V) | [Koko Marz](https://open.spotify.com/artist/5NjPSmnnxmBZL60TOGz3eY) | [Can't Stop Smiling](https://open.spotify.com/album/1zwxHfYJNZB8Plb7Wfp3Fu) | 2:57 | 2025-12-16 | 2026-01-17 |
+| [Can't You See](https://open.spotify.com/track/6qc3wycEQ8YQV5dJYjO8fe) | [Costa Music](https://open.spotify.com/artist/2MizJsi3uuTkCPZQtydDw0), [JILIAAN](https://open.spotify.com/artist/17yyfQ7wzJe81fBROPmErz) | [Can't You See](https://open.spotify.com/album/2PaNcoJtA72K6VTWhMPbLW) | 2:48 | 2026-03-12 |  |
 | [Caroline \(sunset mix\)](https://open.spotify.com/track/46zW6iGU3sst36NmRFj01z) | [Ernst + Graham](https://open.spotify.com/artist/0rt2PXAHbjDsvJ0LQrHTaJ) | [Caroline](https://open.spotify.com/album/68JJWlIKr6Oa32gX23Cw6u) | 2:14 | 2025-12-28 | 2026-02-03 |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-07 | 2026-01-15 |
 | [Case 411](https://open.spotify.com/track/7JXJu8h7Pj3Uz1RPKx505d) | [NuSkript](https://open.spotify.com/artist/3HaDs5KOPlKWZoSawrsihg) | [Case 411](https://open.spotify.com/album/5ahhndb600UDiDIjBh2Dws) | 3:18 | 2026-03-04 |  |
 | [Casual](https://open.spotify.com/track/1vmGXvx2MbJLspMLSPTDC8) | [Fahren](https://open.spotify.com/artist/0NlPtPyTy63f4PdfcSzRxc) | [Casual](https://open.spotify.com/album/3mqLpOeoVxgrvj2s0XFzlr) | 4:32 | 2026-01-07 | 2026-02-09 |
+| [Caught in the motion](https://open.spotify.com/track/5lrTQX1qN9BOSp3OXCjN82) | [Daria Diva](https://open.spotify.com/artist/00tyx6ZhSGWk8D3hU4kx9n) | [Caught in the motion](https://open.spotify.com/album/1P3A5hh804ZSOoStR807La) | 1:17 | 2026-03-12 |  |
 | [Chance It](https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Chance It](https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH) | 2:56 | 2025-10-21 | 2025-11-23 |
 | [chandelier](https://open.spotify.com/track/77ho7KSzYoU7bTYa1dnz9t) | [Gwammz](https://open.spotify.com/artist/61M7qdbyweH4aLzPmRGy3b) | [Lavenderlight](https://open.spotify.com/album/6O9Ke55bG1MnKrqqroA5eW) | 3:38 | 2025-11-10 | 2025-12-11 |
 | [Change](https://open.spotify.com/track/6tMtJphfj5XDQ3mPcxmhd9) | [Nova Laen](https://open.spotify.com/artist/0TyUS7iLsP9ctdwhKk2AdG) | [Stories from Jupiter!](https://open.spotify.com/album/2wDlgWBl64xQ5jcP2f3C5S) | 1:30 | 2026-01-11 | 2026-02-12 |
@@ -574,6 +577,7 @@
 | [i'm fine](https://open.spotify.com/track/0pvxQcEMUO3mcWIB6leHqr) | [kawaiiwork](https://open.spotify.com/artist/5woOnF8Y9rFQOih8vXljoF) | [i'm fine](https://open.spotify.com/album/0SR1flarnKjoz4hYMaxiWn) | 2:15 | 2025-11-23 | 2025-12-25 |
 | [I'm Getting Fit This Year](https://open.spotify.com/track/1LowISSw0sDM4K64DpTCiM) | [Adikemis](https://open.spotify.com/artist/26Jl2OOeEBZxKyioybIvhh) | [I'm Getting Fit This Year](https://open.spotify.com/album/2ALKJDMvhYDf0F1dWaxW5Y) | 2:50 | 2026-02-24 |  |
 | [I'm Golden](https://open.spotify.com/track/1yAdoHbXcto43hmoUn6eK0) | [Marla Grey](https://open.spotify.com/artist/4xGLEueGKmkYO26r7Uh1B4) | [I'm Golden](https://open.spotify.com/album/6Kcbm0BqrA50DlJpMaVX3L) | 3:17 | 2025-12-03 | 2026-01-04 |
+| [I'm letting go](https://open.spotify.com/track/56v1Hz6GMZtMNet7Ae9HwU) | [Kindred Morning](https://open.spotify.com/artist/69pU7Fz84uEcxa7YlcfAAC) | [I'm letting go](https://open.spotify.com/album/4T0S3RSSgO8TcIbYqVCMVf) | 2:49 | 2026-03-12 |  |
 | [Ich gegen mich](https://open.spotify.com/track/3wv5HK5JD0P36E3VKrbEKH) | [Srila](https://open.spotify.com/artist/7CJ9BUJHlOGUjp1RkpOVLl) | [Ich gegen mich](https://open.spotify.com/album/7J8ZnD0YaEronkMWTtrjn7) | 3:02 | 2026-02-03 | 2026-03-06 |
 | [Ich will nur dich](https://open.spotify.com/track/1lNBW4xtLBOuLDr80Y6LY1) | [Marc Aviano](https://open.spotify.com/artist/07X0BAHJwXOLVyfwkwE2mU) | [Ich will nur dich](https://open.spotify.com/album/2lcIu02H5Gmylt7Gs9PxcX) | 3:23 | 2026-03-07 |  |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2025-11-19 | 2025-12-21 |
@@ -701,6 +705,7 @@
 | [lost my love](https://open.spotify.com/track/3nh18o0W0aAoXn0SmDec5E) | [Mustafa!](https://open.spotify.com/artist/5pcPIjWVjazBClmhAp7mr4) | [lost my love](https://open.spotify.com/album/7oQ2JJdkZ2enJhA8muW4Cw) | 3:21 | 2025-12-03 | 2026-01-04 |
 | [LOVE 2099!](https://open.spotify.com/track/0oQgiZ4SmJn4G7q924NIdB) | [!GNIT](https://open.spotify.com/artist/4jKNcjcuuHtdhndwgWZK4R) | [!G](https://open.spotify.com/album/0NY7Y1w7DCQgEVX4J4yTjj) | 2:49 | 2025-12-07 | 2026-01-15 |
 | [Love City](https://open.spotify.com/track/4OCAhNWlSmkrD1DmSSGRRT) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Love City](https://open.spotify.com/album/6v7CaxYtJJnq0BeBFvAPLX) | 2:43 | 2025-12-13 | 2026-01-15 |
+| [Love Forever](https://open.spotify.com/track/1B0oJwUpdX8liSVWHjSoBp) | [T.Ai.S](https://open.spotify.com/artist/4mesYLCZ2JPvWBMvImr8nH) | [Love Forever](https://open.spotify.com/album/5mbRemwzSYj3KxrblwLPIq) | 3:16 | 2026-03-12 |  |
 | [love is a burden](https://open.spotify.com/track/6tjC6qZjgaA8QxOzzOHlmk) | [wrongplaylist](https://open.spotify.com/artist/7LUjMPX8YexWvdlr9AdjAI) | [love is a burden](https://open.spotify.com/album/74CDpYakY2N6MSdws0TUEq) | 1:09 | 2026-03-07 |  |
 | [Love Is a Stranger](https://open.spotify.com/track/3hs7FZwopRhxMeyVVohWP9) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Love Is a Stranger](https://open.spotify.com/album/3mD3ZttYam1p7meTY6QJDJ) | 3:03 | 2025-10-04 | 2025-12-25 |
 | [Love Me Tenderly](https://open.spotify.com/track/1T9e9KfZqVRXStewmPJkUZ) | [Myckon](https://open.spotify.com/artist/5OWengxn46u0Ek59ocDbLE) | [Tenderly Love](https://open.spotify.com/album/3Ff4qGFAPBhjxli8HVphi0) | 3:36 | 2026-02-09 | 2026-03-12 |
@@ -1170,6 +1175,7 @@
 | [The Older Me](https://open.spotify.com/track/4vXJcBQaVfDr5n0n9wqMOd) | [Cupp](https://open.spotify.com/artist/0TUYzuNtOTqWXXW1xVGiB8) | [One the Beginning](https://open.spotify.com/album/4kdnk2M9nTdtOZnLeSqma4) | 2:14 | 2026-01-25 | 2026-02-26 |
 | [The One I Want Beside Me](https://open.spotify.com/track/4EtCyjZQCF2fxV6eKYxXXH) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [The One I Want Beside Me](https://open.spotify.com/album/6k3PoNmrxC5o2gYpjvFm6b) | 3:51 | 2025-10-27 | 2025-11-29 |
 | [The One I've Never Met Who I Long For](https://open.spotify.com/track/5gJiUz1Zvsdg3uxTSmfff2) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [The One I've Never Met Who I Long For](https://open.spotify.com/album/0wMwzqtR7WwKnTe9HJtRyH) | 2:59 | 2026-01-28 | 2026-03-02 |
+| [The Past Is Present](https://open.spotify.com/track/0vsQjuXEr9nZFzcFoHBKyT) | [TJ Jones](https://open.spotify.com/artist/3PEeM3BXrH0nqzy8luUw3F) | [The Past Is Present](https://open.spotify.com/album/6pEp4Z4yvGrZRQ9uHQoa3P) | 2:12 | 2026-03-12 |  |
 | [The Perfect Storm](https://open.spotify.com/track/7nnntwfElXa9djMo39cZfX) | [Loui Daniels](https://open.spotify.com/artist/6Uwm4rmMWByLZUTEMDi9Vf) | [Genesis](https://open.spotify.com/album/3xd0zTXVjCZO3HF2MyMSW9) | 4:52 | 2026-02-23 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-12 | 2025-12-13 |
 | [The Prize is the Soul](https://open.spotify.com/track/6b71ar7PxORH4Sfj0GMpWw) | [MontVernon](https://open.spotify.com/artist/1groUtEe6F4Re1dYUnVaSm) | [Atmosphere](https://open.spotify.com/album/4fOJM9bVe7kU2ZGVlO56Dm) | 4:32 | 2025-11-15 | 2025-12-17 |

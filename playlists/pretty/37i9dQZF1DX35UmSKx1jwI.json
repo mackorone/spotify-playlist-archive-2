@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 143700,
+  "num_followers": 143727,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/2TtIyrBFSBPHMWcjD4fUMp"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        },
-        {
-          "name": "Apple Gule",
-          "url": "https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1"
-        }
-      ],
-      "duration_ms": 163274,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/3iMYKoUsn5X0ctIAXvgmSf"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
         "name": "Colours & Lights",
         "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 188995,
       "name": "Colours & Lights",
       "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/2TtIyrBFSBPHMWcjD4fUMp"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Apple Gule",
+          "url": "https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1"
+        }
+      ],
+      "duration_ms": 163274,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/3iMYKoUsn5X0ctIAXvgmSf"
     }
   ],
   "unique_name": "Gym Beats",

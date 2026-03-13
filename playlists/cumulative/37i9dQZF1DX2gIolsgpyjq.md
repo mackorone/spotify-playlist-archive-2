@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: MYKKE
+> The best new music by independent artists in the Nordics\. Cover: Zoumer
 
-1,571 songs - 3 day 10 hr 35 min
+1,579 songs - 3 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Catch Ya On The Beat](https://open.spotify.com/track/692kmpFFjaehI2go4YaIlu) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [LUDO](https://open.spotify.com/artist/1cPXzshpnCQxb3K9xbmDxn) | [Catch Ya On The Beat](https://open.spotify.com/album/2BczwDigZJCc1NRKhqQmej) | 1:46 | 2026-01-29 |  |
 | [caught by a wind](https://open.spotify.com/track/5pW040aRDPplY0Zdv06aas) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [caught by a wind](https://open.spotify.com/album/6RlPFqhYv6w3CKP0YKXuWB) | 3:05 | 2024-05-30 | 2024-07-27 |
 | [Celestial](https://open.spotify.com/track/7r0bbN93tEYoKzXC2n9kgR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Celestial](https://open.spotify.com/album/15sUyX3R3ogXhlN8jpzrGx) | 2:25 | 2025-10-02 | 2025-12-04 |
+| [Celestial Passion](https://open.spotify.com/track/7gVxMMmG5LQQ8uf7dWQ0ga) | [EILA](https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf) | [Celestial Passion](https://open.spotify.com/album/39uAUgQKplK8g4GuFRatg0) | 2:21 | 2026-03-12 |  |
 | [Certain Death](https://open.spotify.com/track/41wkfkzZQ6FU8bTI2f8nH6) | [Clara Malby](https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH) | [Certain Death](https://open.spotify.com/album/5DlIl8iuoAQSDk6zVXcBNe) | 3:21 | 2024-09-05 | 2024-10-11 |
 | [Chameleon](https://open.spotify.com/track/7deikA8SR1syatHaY2q3vA) | [ louii lane](https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v) | [Eternity/Chameleon](https://open.spotify.com/album/26QEx2C6zmGQWLbVEdhp8I) | 3:28 | 2025-06-19 | 2025-08-15 |
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 | 2026-02-13 |
@@ -366,6 +367,7 @@
 | [Dreaming of You](https://open.spotify.com/track/5ACpj0beBlHTxtmstEYjGl) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Sunny Hill](https://open.spotify.com/album/4zRyvMQMLHkPlZJkXWF1M7) | 4:00 | 2024-03-21 | 2024-04-26 |
 | [Dreams](https://open.spotify.com/track/4JlNq9ivHuNlxlOaag67Dc) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Dreams](https://open.spotify.com/album/6tWZEkyND0CHp8tbXA1Zr6) | 4:07 | 2025-08-21 | 2026-01-01 |
 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 | 2025-11-13 |  |
+| [driving \(so many emotions\)](https://open.spotify.com/track/7yEb7bJZ6HEVPXaBUU5jDD) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [e.a.l\. \(euro arab lovergirl\)](https://open.spotify.com/album/4XUlpIcXlnqe5xkscLOwEJ) | 3:02 | 2026-03-12 |  |
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-11 | 2025-10-31 |
 | [Dum](https://open.spotify.com/track/4wyAu7nHsJBueYKu6Z2ub5) | [GERILJAPOP](https://open.spotify.com/artist/2LTtjD401W2QShUkzpprCd) | [Dum](https://open.spotify.com/album/4luASKsAJFJFzO4hUj8QJR) | 1:42 | 2024-02-08 | 2024-03-01 |
 | [Dust](https://open.spotify.com/track/4qTnw6vZ9GJVmJxwLMZgJR) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 3:27 | 2025-12-03 | 2026-01-01 |
@@ -481,6 +483,7 @@
 | [Fortuneteller](https://open.spotify.com/track/0FMM57pGzUK87SDIzNDcN9) | [Two dots and a smile](https://open.spotify.com/artist/0UbodjjA2yRw1iFYbDgRIr) | [Fortuneteller](https://open.spotify.com/album/5mIid79bkHjxvMLmDp0Z7o) | 4:31 | 2025-10-16 | 2026-02-06 |
 | [Found](https://open.spotify.com/track/6W37Y4SPJyXyS3u6OS6ab6) | [Özgür Can](https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi) | [Found](https://open.spotify.com/album/35doqyE14bQ0BjCtcK4QgQ) | 5:02 | 2024-07-25 | 2024-08-30 |
 | [Four Lines](https://open.spotify.com/track/2scMtJuoUmvZSuoexUJptp) | [Enler & Tallen](https://open.spotify.com/artist/0PaXLR15yjwwYP0Ro5r6wo) | [Four Lines](https://open.spotify.com/album/4IDki5h2lFwF4H6rR7dhya) | 3:40 | 2025-02-27 | 2025-03-28 |
+| [Frankie](https://open.spotify.com/track/47fMuVSN5yQozooX2Vd0J7) | [Sylvie's Head](https://open.spotify.com/artist/6Re2HYnIxbLkNiAY5QqPDa) | [Frankie](https://open.spotify.com/album/79hWREXqkYRwRzCjp3Uc2g) | 4:22 | 2026-03-12 |  |
 | [Fraud](https://open.spotify.com/track/4IRV9YWThTmcNxrwpDXVGC) | [STHLMA](https://open.spotify.com/artist/4ka7VkwmzaGw0gDASqniao) | [Fraud](https://open.spotify.com/album/5tOaNFYIr43KXbSnNnxB1e) | 3:46 | 2025-10-30 | 2026-02-13 |
 | [Free](https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Free](https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL) | 2:29 | 2024-06-20 | 2024-08-09 |
 | [Free Falling](https://open.spotify.com/track/5v6XZ6a5iT9jKXoKUlGDip) | [Club 8](https://open.spotify.com/artist/0bDw4crr1aysTpUTjI3Wqx) | [Free Falling](https://open.spotify.com/album/04uKVOqC9Zzo5PcGJFccyn) | 2:20 | 2024-05-09 | 2024-05-24 |
@@ -823,6 +826,7 @@
 | [Lonely Crowd](https://open.spotify.com/track/48KycotUHUnYcl4aUSqVDT) | [Argenti](https://open.spotify.com/artist/2vYCPMnzzNCODn2GK2xdm3), [Oskar Byggeth](https://open.spotify.com/artist/5mAbmh3sYSrvjY2ekoIvAA), [Ellen K](https://open.spotify.com/artist/5csH1t9m18XNiM8IDEwoAA) | [Lonely Crowd](https://open.spotify.com/album/2OkMyaT7KmgxhBzGGGEcWK) | 2:38 | 2024-08-01 | 2024-09-20 |
 | [longest day on the beach](https://open.spotify.com/track/2Yhf2mOGeU0YDE4LapXmWE) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [longest day on the beach](https://open.spotify.com/album/0yrDVStpgEO9ZM3By7REEP) | 4:11 | 2025-03-27 | 2025-05-23 |
 | [Longin](https://open.spotify.com/track/13ffA0P734eqHxuF74ULCl) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Longin](https://open.spotify.com/album/0Zb8G04uGeMRMY1OTNWYsx) | 2:54 | 2025-01-02 | 2025-03-21 |
+| [Longing To Miss You](https://open.spotify.com/track/4f9COiymGtHKXm8ViDzHMf) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Longing To Miss You](https://open.spotify.com/album/1IIz4fmRzdzjBRrmAjMP8z) | 3:51 | 2026-03-12 |  |
 | [Look At Me](https://open.spotify.com/track/5fCFcvq313ZNgHAqFZTN51) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [Look At Me](https://open.spotify.com/album/0ThHEj3uBQKpzXXjxkNYJz) | 3:18 | 2025-05-30 | 2025-07-18 |
 | [Look For Love](https://open.spotify.com/track/1RpGmrWD4JGKgfitDJW8k8) | [Poetically](https://open.spotify.com/artist/1LLGwmjGWuH8rqw48p7kkx) | [Look For Love](https://open.spotify.com/album/23BcJBvnSbbpKXoF0de9Hi) | 3:08 | 2025-04-03 | 2025-05-09 |
 | [Look The Other Way](https://open.spotify.com/track/5oEJg0qBp6gdAxQdplBZqL) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/0zPcVDVk6uPmGPOFWHtLAW) | 3:33 | 2024-02-22 | 2024-03-15 |
@@ -844,6 +848,7 @@
 | [Loud with you \(Angel\)](https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [Loud with you \(Angel\)](https://open.spotify.com/album/5lRV0HzbDTApICK2SZOr2W) | 3:16 | 2025-01-09 | 2025-03-21 |
 | [Love Is A Trap](https://open.spotify.com/track/1C8oiysXkAycdB30Kd22Et) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Love Is A Trap](https://open.spotify.com/album/60z4drZtyVUax17b1P9mUm) | 3:24 | 2024-04-11 | 2024-06-21 |
 | [Love Is Only Fun with You](https://open.spotify.com/track/0CdR8LkcVr8YJEoLrTJ1Bh) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Love Is Only Fun with You](https://open.spotify.com/album/2Ag5VFOHDYXaBODmVbO1Y7) | 3:21 | 2024-07-25 | 2024-10-11 |
+| [love isn't everything](https://open.spotify.com/track/75kGiT9k4Gor7JOBbl4QWi) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [love isn't everything](https://open.spotify.com/album/2GHPtoxe8P9I9fbbq8eG77) | 3:27 | 2026-03-12 |  |
 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 | 2025-01-30 | 2025-02-21 |
 | [Love Me One More Time](https://open.spotify.com/track/4bXsNJgYxshTRZHevGj18v) | [Jonas Wallin](https://open.spotify.com/artist/1nj8AqytomxmHbAtYweL0w) | [Love Me One More Time](https://open.spotify.com/album/2PY0w8l8TivHXSR6qc8LWA) | 3:09 | 2024-02-08 | 2024-02-16 |
 | [Love You Right](https://open.spotify.com/track/0lc4pk8yFSCnQfXyGQLPqx) | [Deliverie](https://open.spotify.com/artist/1oGA7ikSikSgGvjtFE6rIU) | [Love You Right](https://open.spotify.com/album/79HZVKPc4jyPX24vbeyCyQ) | 2:48 | 2025-06-12 | 2025-08-01 |
@@ -1052,6 +1057,7 @@
 | [PAPER](https://open.spotify.com/track/1MLwnmOvoamIfdDutlrLdl) | [MAMI UMAMI](https://open.spotify.com/artist/1gXudtIPsBxon00193AQb9) | [PAPER](https://open.spotify.com/album/6UFcBYr8ybmW6I3nUKTseh) | 2:54 | 2025-05-16 | 2025-06-27 |
 | [paper plane](https://open.spotify.com/track/0sX4DD5LzSRbyeH5cQ13gp) | [lucca](https://open.spotify.com/artist/0wkRL12dR8YrRM3JPzXd1N) | [paper plane](https://open.spotify.com/album/2yJABCaws6mVHX1qSdOr7y) | 3:31 | 2025-09-04 | 2025-10-24 |
 | [Paper Plane](https://open.spotify.com/track/131xhReqlOCdRHcr7IeaBE) | [Stefanos Yowhannes](https://open.spotify.com/artist/3DPvgiToOaxx6HKfs0S3IG) | [Paper Plane](https://open.spotify.com/album/7l9wi09Ni0C53ogwgexw1H) | 2:36 | 2025-05-08 | 2025-06-13 |
+| [Pardon Me](https://open.spotify.com/track/4pnbLZ74D1KUCqDHwe2CXn) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Pardon Me](https://open.spotify.com/album/7A2lM8Nv9uSsopJk5PvaRp) | 2:18 | 2026-03-12 |  |
 | [Pari Mon Cheri](https://open.spotify.com/track/7as7LZUBGdh9kfxrjgc5Nt) | [Natali Noor](https://open.spotify.com/artist/4pbDqb4qTvdtUTeJViSQ0k), [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D) | [Pari Mon Cheri](https://open.spotify.com/album/3Rz1UxLFaJ7H8UfSpkoovQ) | 2:44 | 2024-11-07 | 2024-12-05 |
 | [paris in the spring](https://open.spotify.com/track/1TQS8fill5F6romSiROzgS) | [Gucci Caliente](https://open.spotify.com/artist/4N7SqLrL5qK5pQpxoLnUfd) | [paris in the spring](https://open.spotify.com/album/44KcbkmUKNPE7A0ko2eGrf) | 1:06 | 2024-04-25 | 2024-05-03 |
 | [Part Of Me](https://open.spotify.com/track/4aNchgQxPS8WoljkQCmZeG) | [SKGN](https://open.spotify.com/artist/4sVaOfvOqPgs3Qr1NDorKN), [Protocol Lab](https://open.spotify.com/artist/06JAfjaLQglgC2iiRBSkKr) | [Part Of Me](https://open.spotify.com/album/06BrKmUURt78uljb8ALizQ) | 2:36 | 2024-05-23 | 2024-06-28 |
@@ -1493,6 +1499,7 @@
 | [We All Need Something](https://open.spotify.com/track/6To0jvbvZENYNU7jEekAz4) | [GRETA](https://open.spotify.com/artist/6qcpBIlSWMhas6waVUKCbK) | [We All Need Something](https://open.spotify.com/album/3Kh6b0BqZP7up91oSVfjeD) | 3:11 | 2024-09-19 | 2024-11-01 |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2024-11-29 |
 | [Weak](https://open.spotify.com/track/7IoOgmEwcj8Cj6dTDHQ2IC) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Weak](https://open.spotify.com/album/18k9auOfMZJfLSklwRp9yh) | 3:48 | 2024-08-29 | 2024-10-11 |
+| [WEIGHT](https://open.spotify.com/track/7pssZaeccsZTRmgVMQDGCh) | [itcallsme i](https://open.spotify.com/artist/4cNXNIM45F8r6ipv3yY8p6) | [WEIGHT](https://open.spotify.com/album/7vh8xQwnuWfJFy91GBfvhs) | 2:40 | 2026-03-12 |  |
 | [Weight Of The World](https://open.spotify.com/track/7DSd2T750UHvm8UdAUrDep) | [Veneda Terry](https://open.spotify.com/artist/6zGtbySTcFcwW2bm9rUgsy) | [Weight Of The World](https://open.spotify.com/album/4Ir0KvelGyFGsNfiuSLp1U) | 2:42 | 2025-11-06 | 2026-02-13 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-05-09 |
 | [Well, that's all for now..](https://open.spotify.com/track/0OSwOqUTpBuBN9FdzM4COg) | [Crawly](https://open.spotify.com/artist/6zQ2Dzlyli3ph6sHiXRuG0) | [Well, that's all for now..](https://open.spotify.com/album/6owLx9Zwb6lnzDIt2sBzQy) | 2:11 | 2024-08-22 | 2024-09-27 |
@@ -1535,6 +1542,7 @@
 | [Winner](https://open.spotify.com/track/6J64hC7a0UuD4IumFsRK2C) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Winner](https://open.spotify.com/album/1ICCSSc8Cgc2SaeqJo4dsk) | 2:24 | 2024-05-23 | 2025-01-03 |
 | [Winner](https://open.spotify.com/track/2DYrqA9kKJVmUvrpMhck7o) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/0oEKuvn37uaYExAiq7UfUm) | 3:37 | 2024-10-03 | 2024-11-29 |
 | [Winners](https://open.spotify.com/track/1hdsDWHEQXKHib0qC1tNcw) | [Mia Berg](https://open.spotify.com/artist/2olyZZaveIJkOzSNS23Ybf) | [Winners](https://open.spotify.com/album/4zttdXeme29P8b57yPxqfx) | 3:06 | 2024-02-08 | 2024-02-16 |
+| [wish I did](https://open.spotify.com/track/1JD1Jmc81iMs4bcGUNnN7W) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [wish I did](https://open.spotify.com/album/1QNXdmIyAviteAsQ7Qq8At) | 2:20 | 2026-03-12 |  |
 | [Wish You Went Away](https://open.spotify.com/track/3tAGwaqjDdPVjXUOBGlRHB) | [Ung Dior](https://open.spotify.com/artist/7p9DwiJ5VWnCRoR971gt9Y) | [Serotina](https://open.spotify.com/album/6Rseam11GImvYGhJvaK5Oc) | 3:02 | 2025-04-24 | 2025-05-30 |
 | [Wishful Thinking](https://open.spotify.com/track/1DqOPto9UBk7Gyy3HciEcX) | [helly](https://open.spotify.com/artist/6jzDzmS7KpZgvlM3bi4nhX) | [Wishful Thinking](https://open.spotify.com/album/4GDOe4UEcugRpiRQ4SdYJ9) | 1:53 | 2025-04-10 | 2025-05-17 |
 | [Withered lights](https://open.spotify.com/track/4aZyHJdrrktgYPS7R991Ed) | [Linnea Awad](https://open.spotify.com/artist/4ol01UJxFIWX3X1zxExtXU) | [Withered lights](https://open.spotify.com/album/21WlL4kGtVnnP6Vk2Z1XRl) | 3:40 | 2025-01-02 | 2025-02-14 |

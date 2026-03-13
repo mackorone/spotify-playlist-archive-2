@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "#fyp songs voor je playlist | \"schouder in de kom hij vliegt er bijna uit\" - Siggy & D1ns",
+  "description": "#fyp songs voor je playlist",
   "name": "Viral Hits NL",
   "tracks": [
     {
@@ -5922,6 +5922,24 @@
       "duration_ms": 115200,
       "name": "HaHUA (Doei Doei)",
       "url": "https://open.spotify.com/track/4qWdCSPVYD4FeEPW6tS7jU"
+    },
+    {
+      "album": {
+        "name": "Hans Kazan",
+        "url": "https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hans Kazan",
+      "url": "https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun"
     },
     {
       "album": {

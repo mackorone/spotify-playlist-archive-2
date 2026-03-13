@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59811,
+  "num_followers": 59824,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAx6xGxsefwjL7nDCLW4yJuDu/ncDHL",
+  "snapshot_id": "AAAx7+oCJ99U8s/R6DKNdG4sbScflD3p",
   "tracks": [
     {
       "added_at": "2026-03-07 02:57:31",
@@ -379,22 +379,6 @@
       "duration_ms": 119124,
       "name": "handshake",
       "url": "https://open.spotify.com/track/5zvtcPBrlCUWeIHw46hiZ0"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "El Ni\u00f1o Bola",
-        "url": "https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv"
-      },
-      "artists": [
-        {
-          "name": "mori",
-          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
-        }
-      ],
-      "duration_ms": 131251,
-      "name": "DANCE",
-      "url": "https://open.spotify.com/track/1jzbdTVxAXmQjWGqwJFGIb"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -967,6 +951,38 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
+        "name": "hand reaching through flames",
+        "url": "https://open.spotify.com/album/3Px6bMGUNXUA38x3TxVZ3e"
+      },
+      "artists": [
+        {
+          "name": "offering field",
+          "url": "https://open.spotify.com/artist/2FPlGSW8N52xcPx2yxZrBm"
+        }
+      ],
+      "duration_ms": 145577,
+      "name": "no inner light",
+      "url": "https://open.spotify.com/track/5lKfu4ixk1e2r711eRya3y"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "Marine Life",
+        "url": "https://open.spotify.com/album/5MWvRxEh0bhWNTASroqlyz"
+      },
+      "artists": [
+        {
+          "name": "Large",
+          "url": "https://open.spotify.com/artist/2kdVNNa0nVzWCSisGU3tMx"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Bumpy Ride",
+      "url": "https://open.spotify.com/track/6RkSLyQtradK2Fuz8WAOMn"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
         "name": "Firing Line",
         "url": "https://open.spotify.com/album/6fmBSEBty6mYDQ7LHNFJcp"
       },
@@ -999,34 +1015,18 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
-        "name": "Marine Life",
-        "url": "https://open.spotify.com/album/5MWvRxEh0bhWNTASroqlyz"
+        "name": "El Ni\u00f1o Bola",
+        "url": "https://open.spotify.com/album/3Bo7xLuNrJhubah3xYLCqv"
       },
       "artists": [
         {
-          "name": "Large",
-          "url": "https://open.spotify.com/artist/2kdVNNa0nVzWCSisGU3tMx"
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
         }
       ],
-      "duration_ms": 209760,
-      "name": "Bumpy Ride",
-      "url": "https://open.spotify.com/track/6RkSLyQtradK2Fuz8WAOMn"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "hand reaching through flames",
-        "url": "https://open.spotify.com/album/3Px6bMGUNXUA38x3TxVZ3e"
-      },
-      "artists": [
-        {
-          "name": "offering field",
-          "url": "https://open.spotify.com/artist/2FPlGSW8N52xcPx2yxZrBm"
-        }
-      ],
-      "duration_ms": 145577,
-      "name": "no inner light",
-      "url": "https://open.spotify.com/track/5lKfu4ixk1e2r711eRya3y"
+      "duration_ms": 131251,
+      "name": "DANCE",
+      "url": "https://open.spotify.com/track/1jzbdTVxAXmQjWGqwJFGIb"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
-        "name": "With Love,",
-        "url": "https://open.spotify.com/album/16d2k2Lfm9lLstR107GGvf"
-      },
-      "artists": [
-        {
-          "name": "Quiet Bloom",
-          "url": "https://open.spotify.com/artist/1NUx8jPSomSBDiNTA1fguh"
-        }
-      ],
-      "duration_ms": 265865,
-      "name": "With Love,",
-      "url": "https://open.spotify.com/track/6mOZE63yONNHpbra4bcodl"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
         "name": "Varied Sections",
         "url": "https://open.spotify.com/album/280fT7awDhj6lzBhN16QG9"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 180000,
       "name": "It Gets Too Late",
       "url": "https://open.spotify.com/track/7brqtT5AZieM72xvFowVw9"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "With Love,",
+        "url": "https://open.spotify.com/album/16d2k2Lfm9lLstR107GGvf"
+      },
+      "artists": [
+        {
+          "name": "Quiet Bloom",
+          "url": "https://open.spotify.com/artist/1NUx8jPSomSBDiNTA1fguh"
+        }
+      ],
+      "duration_ms": 265865,
+      "name": "With Love,",
+      "url": "https://open.spotify.com/track/6mOZE63yONNHpbra4bcodl"
     },
     {
       "added_at": "2026-03-07 02:57:31",

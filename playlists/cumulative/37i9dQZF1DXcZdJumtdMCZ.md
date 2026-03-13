@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Jaxk
 
-289 songs - 15 hr 27 min
+290 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Thathai Thathai](https://open.spotify.com/track/4NYAItpYLDFjc8QKTSHPgO) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Blaaze](https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E), [Vasundhara Das](https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/50eHE6YZSsA6Cy3WwzimZ2) | 5:53 | 2022-02-08 | 2023-11-11 |
 | [The One \(From "Retro"\)](https://open.spotify.com/track/2m3QwNw6Xe4s8MfapdTbWo) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [SVDP](https://open.spotify.com/artist/3P8KLEIz09I7tN6YUqPhAb), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx), [The Indian Choral Ensemble](https://open.spotify.com/artist/4Rp2Fp4kllqWQWZLbEZgm3) | [The One \(From "Retro"\)](https://open.spotify.com/album/4DrXmo88SfZ2gV8tBFvsTu) | 3:59 | 2025-04-18 |  |
 | [The Pen](https://open.spotify.com/track/3cFeOpj5DXuQFe0omvUK4B) | [Ess\-K](https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN), [Da Papes](https://open.spotify.com/artist/7GhVU0cLmPZ0H0MQm8ESXp), [mc roshn](https://open.spotify.com/artist/19JA4WMs34m89XEAUspLBO), [Martin Jazz](https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu) | [The Pen](https://open.spotify.com/album/1drsi7guHzi4Fs3ysH0C9I) | 2:57 | 2025-06-06 |  |
+| [THEE](https://open.spotify.com/track/3tMnDr6GRVZa7Po1iZn9nU) | [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO) | [THEE](https://open.spotify.com/album/1aKEwzSnSO4axIM0B9NOAa) | 3:37 | 2026-03-12 |  |
 | [Thee \- From "Think Indie"](https://open.spotify.com/track/58ZCxYMfAZol17hKcyNk9G) | [Ankith Gupta](https://open.spotify.com/artist/3MF9NNtt4etTc8GUZB8gCa), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [U\-A Music](https://open.spotify.com/artist/1a2PWoPEf1usxgK1gC0EXY) | [Thee \(From "Think Indie"\)](https://open.spotify.com/album/4RGkxAZsU2AydhGBQJe0YS) | 2:03 | 2024-12-29 | 2025-10-10 |
 | [Theeratha Rakkalam \- From "Vasantha Mullai"](https://open.spotify.com/track/7p9LVqDT4Lx0dN6i8wI18a) | [Rajesh Murugesan](https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Theeratha Rakkalam \(From "Vasantha Mullai"\)](https://open.spotify.com/album/4PBVJDCVIm1URRv4n1rsWG) | 4:26 | 2023-01-31 | 2023-05-13 |
 | [THERLA](https://open.spotify.com/track/4Zw5X1KH4JgIyM1KhsaoUp) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq) | [THERLA](https://open.spotify.com/album/4kazkLAwsVEjAm7Dxjsahc) | 1:07 | 2024-12-29 | 2025-07-22 |

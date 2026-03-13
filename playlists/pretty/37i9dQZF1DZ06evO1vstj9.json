@@ -1,12 +1,12 @@
 {
   "description": "This is Elmiene. The essential tracks, all in one playlist.",
-  "num_followers": 8357,
+  "num_followers": 8374,
   "original_name": "This Is Elmiene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aa9fAAAAAABi157nNXcqRxQCeA0J7VIo",
+  "snapshot_id": "abCwgAAAAACmUX+qB6s5gapgVNkHHt0X",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 247480,
-      "name": "Ode To Win",
-      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
+      "duration_ms": 155986,
+      "name": "Until It's Dust",
+      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL-MEAN",
-        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 251501,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cry Against The Wind",
         "url": "https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn"
       },
@@ -359,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL-MEAN",
+        "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 251501,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anyway I Can",
         "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
       },
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 155986,
-      "name": "Until It's Dust",
-      "url": "https://open.spotify.com/track/616o0X9kcvy732UKKnL68j"
+      "duration_ms": 247480,
+      "name": "Ode To Win",
+      "url": "https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 218150,
-      "name": "Open Light",
-      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anyways",
         "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 176888,
       "name": "Anyways",
       "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 218150,
+      "name": "Open Light",
+      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Promise Me A Rose",
-      "url": "https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anyway I Can",
         "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
       },
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From 525",
-        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
       "artists": [
         {
@@ -496,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 192520,
-      "name": "Untitled (How Does It Feel?) - Live From 525",
-      "url": "https://open.spotify.com/track/2YJnUBbDDQ83tPEfAxcVOu"
+      "duration_ms": 201640,
+      "name": "Promise Me A Rose",
+      "url": "https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ"
     },
     {
       "added_at": null,
@@ -519,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+        "name": "Live From 525",
+        "url": "https://open.spotify.com/album/09FRB4tzCfBnHUS1E4XvdA"
       },
       "artists": [
         {
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 224842,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/3WJI2S7Zz9pEfHnke2Z6k8"
+      "duration_ms": 192520,
+      "name": "Untitled (How Does It Feel?) - Live From 525",
+      "url": "https://open.spotify.com/track/2YJnUBbDDQ83tPEfAxcVOu"
     },
     {
       "added_at": null,
@@ -551,6 +535,22 @@
       "duration_ms": 152610,
       "name": "Shame (with Elmiene)",
       "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 224842,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/3WJI2S7Zz9pEfHnke2Z6k8"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For The Deported",
-        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 107693,
-      "name": "For The Deported",
-      "url": "https://open.spotify.com/track/5t1FOawyraADWixmy5pmWM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Brussels",
         "url": "https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 140929,
       "name": "Ribbon In The Sky - Live From Brussels",
       "url": "https://open.spotify.com/track/6xA1xHUaD3tNNsHWpYoPKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 107693,
+      "name": "For The Deported",
+      "url": "https://open.spotify.com/track/5t1FOawyraADWixmy5pmWM"
     },
     {
       "added_at": null,

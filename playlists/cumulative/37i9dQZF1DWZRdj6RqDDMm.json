@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Can't Go Nowhere",
+        "url": "https://open.spotify.com/album/6pj7GyNOfPJmHcG1xReDaV"
+      },
+      "artists": [
+        {
+          "name": "Davison A",
+          "url": "https://open.spotify.com/artist/0DFTAGDdaN4PPkg7kiKE22"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230485,
+      "name": "Cant Go Nowhere",
+      "url": "https://open.spotify.com/track/10A7cGtZ89a8ftU4D49Ug6"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -5582,10 +5600,36 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 186718,
       "name": "JAGINMA",
       "url": "https://open.spotify.com/track/73vPpHMLDwR3t23Gzbx9Jk"
+    },
+    {
+      "album": {
+        "name": "Jer 29:11",
+        "url": "https://open.spotify.com/album/6NmoEADm1LeEBkbiTH7gtH"
+      },
+      "artists": [
+        {
+          "name": "Giliane",
+          "url": "https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t"
+        },
+        {
+          "name": "King David",
+          "url": "https://open.spotify.com/artist/2WfcnJTwdLDv27kLEIbKIe"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "Jer 29:11",
+      "url": "https://open.spotify.com/track/5PDZ7l9ZiyokBLf07XA4sh"
     },
     {
       "album": {
@@ -6422,6 +6466,24 @@
       "duration_ms": 132056,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/1cJi8GvduWWsW9WnlFw0zD"
+    },
+    {
+      "album": {
+        "name": "Sonship",
+        "url": "https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154039,
+      "name": "Love Assurance",
+      "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
       "album": {
@@ -7350,7 +7412,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 220799,
       "name": "Much More",
       "url": "https://open.spotify.com/track/0HikoZv7IMC8KbNVNFuinm"
@@ -8932,7 +8994,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 234666,
       "name": "Opelope Jesu",
       "url": "https://open.spotify.com/track/4UDxCoU21fhAAmOnMeQ6Jp"

@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,129 songs - 2 day 5 hr 36 min
+1,130 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Aji Aji](https://open.spotify.com/track/2lo7W7vYvMN3BOfKDxdxfB) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Aji Aji](https://open.spotify.com/album/1KsNClWF91RCnkBnqIVMam) | 2:46 | 2023-10-27 | 2023-12-15 |
 | [Aki Palsanmäki](https://open.spotify.com/track/51GCWwcg1BvcEohqgMy3ol) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5), [Stafa](https://open.spotify.com/artist/44isaRoVaZH5mdGrGm3hv5) | [Aki Palsanmäki](https://open.spotify.com/album/5djLeMnycGunj2cGDCcZFp) | 2:27 | 2023-09-21 | 2023-10-13 |
 | [Alcoholic](https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Alcoholic](https://open.spotify.com/album/2El1YK63AksH46UztnNsgD) | 2:55 | 2025-12-11 |  |
-| [ALIBI](https://open.spotify.com/track/5YyPs8z96MtGuiu8dKO0XL) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [ALIBI](https://open.spotify.com/album/5VMY4rBbCqsxa2zDToeCND) | 2:40 | 2026-02-26 |  |
+| [ALIBI](https://open.spotify.com/track/5YyPs8z96MtGuiu8dKO0XL) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c) | [ALIBI](https://open.spotify.com/album/5VMY4rBbCqsxa2zDToeCND) | 2:40 | 2026-02-26 | 2026-03-13 |
 | [Alkemia](https://open.spotify.com/track/2QMNxvmd92po5PW4GbTQUN) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Alkemia / Showbisn€s](https://open.spotify.com/album/6EMVXMLTJAujvHB6LwiCmk) | 2:51 | 2026-01-01 |  |
 | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Alkuhuuma \(feat\. ANI\)](https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36) | 2:10 | 2025-01-23 | 2025-03-14 |
 | [Allstar \(feat\. ibe\)](https://open.spotify.com/track/6NSjIm8OZLsjcJQgUdsGNr) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Allstar \(feat\. ibe\)](https://open.spotify.com/album/6wyZ9WblNTfN4LGHcsg7cf) | 3:01 | 2023-09-21 | 2023-11-03 |
@@ -1034,6 +1034,7 @@
 | [TÄÄ ILTA \(feat\. Senya\)](https://open.spotify.com/track/3Q2AIM4SuTHcar4Wy1hAr2) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [TÄÄ ILTA \(feat\. Senya\)](https://open.spotify.com/album/2YjdIxfTnEMMWL436k0hAR) | 2:49 | 2023-09-21 | 2023-10-20 |
 | [Tää on se kesä \(feat\. Juno\)](https://open.spotify.com/track/4zFkX52MQGSqrkLHLvRhmG) | [TuuriUli](https://open.spotify.com/artist/4bdVhqWUYJo5n6evj621t7), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9) | [Tää on se kesä \(feat\. Juno\)](https://open.spotify.com/album/4nG0mFMKgm0KMZxCbH2T34) | 3:09 | 2024-05-09 | 2024-07-02 |
 | [Tää päättyy meihin](https://open.spotify.com/track/1mfdve1Oy4dfsAvchjV9CR) | [Laascone](https://open.spotify.com/artist/3IU1HyzJQQGVjFYIc6kv7c) | [Tää päättyy meihin](https://open.spotify.com/album/4NRp6rdZtP5mZl30y2y6dc) | 3:22 | 2024-04-11 | 2024-04-26 |
+| [Täälpäin](https://open.spotify.com/track/0Gf5abbjb5XibbQRAwsCPq) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g), [Van Hegen](https://open.spotify.com/artist/5SpJ7wupgkKXKKpMATIhe9) | [Täälpäin](https://open.spotify.com/album/32Tow3LoxvoHqW4EO0fVbv) | 3:14 | 2026-03-12 |  |
 | [Unii ja Painajaisii](https://open.spotify.com/track/7aj37mjEdyevzQ7Bdoan7e) | [Nenerchy](https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy) | [Unii ja Painajaisii](https://open.spotify.com/album/5oROHF0GmEig7aYLO0zAtX) | 3:10 | 2024-03-14 | 2024-04-05 |
 | [Up](https://open.spotify.com/track/2ESCQGR2fFf3OScucQ6mci) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mushkila](https://open.spotify.com/album/763qzlJigg3lsHzP6Knuy3) | 2:36 | 2024-09-05 | 2024-11-29 |
 | [UP NOW](https://open.spotify.com/track/42C5z31jTMKBi1YHgyq8wK) | [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om), [ez](https://open.spotify.com/artist/13b4x7l89ymNwCrh4dKmje) | [ONE AND ONLY](https://open.spotify.com/album/0d0AJkrzyUGTmwIk4KX3yP) | 2:42 | 2024-12-12 | 2025-01-10 |

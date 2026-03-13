@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Luch\u00e8 in cover della playlist urban pi\u00f9 grande d'Italia \ud83e\udd1d\ud83c\udffb",
+  "description": "Sayf in cover della playlist urban pi\u00f9 grande d'Italia \ud83c\udfba",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -5773,6 +5773,28 @@
     },
     {
       "album": {
+        "name": "VT3SOR",
+        "url": "https://open.spotify.com/album/55QEon5ZPCIoRdKn2q54iI"
+      },
+      "artists": [
+        {
+          "name": "Vaz T\u00e8",
+          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144071,
+      "name": "Da zero (feat. Tedua)",
+      "url": "https://open.spotify.com/track/3KAQXWJOVEYmq2GdsWCsVx"
+    },
+    {
+      "album": {
         "name": "DAMME 'NA MANO",
         "url": "https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7"
       },
@@ -8494,7 +8516,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 201182,
       "name": "Girasole (feat. Rkomi)",
       "url": "https://open.spotify.com/track/6QYSy0nHV8WoBRLqtz6Oa2"
@@ -9660,7 +9682,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 207658,
       "name": "Il Doc 6 (feat. Young Hash, Flaco G & Niky Savage)",
       "url": "https://open.spotify.com/track/3wc9qnWunrQUXUPNhtAaNi"
@@ -12829,6 +12851,32 @@
     },
     {
       "album": {
+        "name": "CRACK MUSICA II",
+        "url": "https://open.spotify.com/album/2F2oWAicT6LTTTa7QbvWU6"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121904,
+      "name": "MODALIT\u00c0 DARK",
+      "url": "https://open.spotify.com/track/2HnE0Q1fnanFPgM5NvQuS2"
+    },
+    {
+      "album": {
         "name": "SANTANA MONEY GANG",
         "url": "https://open.spotify.com/album/71agI93AilqukvHURp6tGy"
       },
@@ -13012,7 +13060,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 228570,
       "name": "MONEY MACHINE (feat. Lazza & Tony Effe)",
       "url": "https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB"
@@ -19086,7 +19134,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177000,
       "name": "Sobrio (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/4i4fICUiw3gUJGfsfD7WvL"

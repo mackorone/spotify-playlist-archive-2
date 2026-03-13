@@ -2,7 +2,7 @@
 
 ### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
 
-> New soul\-infused music! Cover: Jordan Rakei
+> New soul\-infused music! Cover: Jalen Ngonda
 
 1,255 songs - 3 day 4 hr 1 min
 

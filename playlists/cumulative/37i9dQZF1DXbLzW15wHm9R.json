@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Original and synced songs that stay with you long after the credits roll... Cover: GOAT",
+  "description": "Original and synced songs that stay with you long after the credits roll... Cover: One Battle After Another.",
   "name": "needle drop",
   "tracks": [
     {
@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190065,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH"
+    },
+    {
+      "album": {
         "name": "Dirty Work (From Hacks Season 3)",
         "url": "https://open.spotify.com/album/1a4ly9vEHKWV34UnBKOpbH"
       },
@@ -1100,6 +1118,24 @@
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "album": {
+        "name": "Dumb Waiters",
+        "url": "https://open.spotify.com/album/0mAdqzN9yJcVPxynCO5uAW"
+      },
+      "artists": [
+        {
+          "name": "The Korgis",
+          "url": "https://open.spotify.com/artist/69zRcOlNdSZ17VfIZe4VU3"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "Everybody's Got to Learn Sometime (Alternate Version)",
+      "url": "https://open.spotify.com/track/5AHXPUWInQ69Nf7hLCz1Ud"
     },
     {
       "album": {
@@ -3386,6 +3422,24 @@
       "duration_ms": 71192,
       "name": "The Muppet Show Theme (2026)",
       "url": "https://open.spotify.com/track/5H5uvwkFM4uG3Aymi83rXa"
+    },
+    {
+      "album": {
+        "name": "Pieces of a Man",
+        "url": "https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl"
+      },
+      "artists": [
+        {
+          "name": "Gil Scott-Heron",
+          "url": "https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "The Revolution Will Not Be Televised",
+      "url": "https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV"
     },
     {
       "album": {

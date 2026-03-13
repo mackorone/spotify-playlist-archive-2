@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "All energy. Cover: Joshua Idehen",
+  "description": "All energy. Cover: Jeremy Olander",
   "name": "Open Air",
   "tracks": [
     {
@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "When The Rain Falls",
+        "url": "https://open.spotify.com/album/13RhgQd0eUlDbt89Zz9Apj"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261252,
+      "name": "Arrival",
+      "url": "https://open.spotify.com/track/4yJjWnT3962mIgaxA3ktg1"
+    },
+    {
+      "album": {
         "name": "Asa",
         "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
@@ -1718,6 +1736,24 @@
       "duration_ms": 211381,
       "name": "Aylyak",
       "url": "https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z"
+    },
+    {
+      "album": {
+        "name": "Yes Empress / B Phonk",
+        "url": "https://open.spotify.com/album/3UwP6GYYBjZ1M0Uae7phZM"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357295,
+      "name": "B Phonk",
+      "url": "https://open.spotify.com/track/15HHFfltYQLrQ54KnOuqi8"
     },
     {
       "album": {
@@ -3022,6 +3058,24 @@
       "duration_ms": 143255,
       "name": "Bololo - MichaelBM & Francesco V Remix",
       "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
+    },
+    {
+      "album": {
+        "name": "[EC2A02] BOMBA EP",
+        "url": "https://open.spotify.com/album/0JkfjagtVTPOzQtIKyoe2g"
+      },
+      "artists": [
+        {
+          "name": "Renceau",
+          "url": "https://open.spotify.com/artist/5grCmWFT1dIPxLpzGZtxlU"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241913,
+      "name": "Bomba (Club Mix)",
+      "url": "https://open.spotify.com/track/3QxSDqReNbVVGv9T68TWit"
     },
     {
       "album": {
@@ -6545,6 +6599,24 @@
     },
     {
       "album": {
+        "name": "Flowkey E.P.",
+        "url": "https://open.spotify.com/album/3kvM2dRL7p3rN9h2qb87Yp"
+      },
+      "artists": [
+        {
+          "name": "Fabe (Ger)",
+          "url": "https://open.spotify.com/artist/6B26Bff3HRDm1VnX3hr60j"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405076,
+      "name": "Don't Stop The Fight",
+      "url": "https://open.spotify.com/track/6QzcQLJoW7qYXzI0SeW6Ha"
+    },
+    {
+      "album": {
         "name": "Don't Understand",
         "url": "https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC"
       },
@@ -7007,6 +7079,28 @@
     },
     {
       "album": {
+        "name": "Echoed Dafnino",
+        "url": "https://open.spotify.com/album/2VklyfVYWd26jxCdsuRHsj"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        },
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333301,
+      "name": "Echoed Dafnino",
+      "url": "https://open.spotify.com/track/5j1easQ6EXdPWE8DGF7CEo"
+    },
+    {
+      "album": {
         "name": "EfEm",
         "url": "https://open.spotify.com/album/2fyLAusukpHDgtwNZ6swX9"
       },
@@ -7098,7 +7192,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 374000,
       "name": "Electrify",
       "url": "https://open.spotify.com/track/3PNo5wtrN8tiY10NlsrNY0"
@@ -7651,6 +7745,24 @@
     },
     {
       "album": {
+        "name": "Face Your Fear EP",
+        "url": "https://open.spotify.com/album/0XMhm8QmEQCQwRC90N5FKU"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219354,
+      "name": "Face Your Fear",
+      "url": "https://open.spotify.com/track/4HTD64x2NstZsK1su3OFd6"
+    },
+    {
+      "album": {
         "name": "Near Life Experience",
         "url": "https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv"
       },
@@ -7804,7 +7916,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 168837,
       "name": "Fancy $hit",
       "url": "https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O"
@@ -10222,7 +10334,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 153192,
       "name": "Green Nights",
       "url": "https://open.spotify.com/track/43OTS5qjTsNWe515us0Zd4"
@@ -11930,6 +12042,24 @@
       "duration_ms": 211575,
       "name": "I Guess We're Not The Same",
       "url": "https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J"
+    },
+    {
+      "album": {
+        "name": "I Luv U",
+        "url": "https://open.spotify.com/album/42MLG779IfYGL9YrDmI6EG"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "I Luv U",
+      "url": "https://open.spotify.com/track/3aoClcyQLlgEvvohVmycO3"
     },
     {
       "album": {
@@ -14956,7 +15086,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 137404,
       "name": "Liquor Store (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/1Ofr85G2VL1z2Ge4g0R6CT"
@@ -15912,7 +16042,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 281500,
       "name": "Man With a Second Face",
       "url": "https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO"
@@ -16104,7 +16234,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 164332,
       "name": "Maximum",
       "url": "https://open.spotify.com/track/1qVlXWReJaQAjz0zhbfxjA"
@@ -23476,7 +23606,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 271415,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N"
@@ -24314,7 +24444,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206769,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/6sYvATWuGzOpelNWTEaD1P"
@@ -27094,6 +27224,24 @@
       "duration_ms": 260194,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
+    },
+    {
+      "album": {
+        "name": "Eternal Pursuit",
+        "url": "https://open.spotify.com/album/4Imrlxkqln8ZoYFQy0nmRS"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/4LjIlU0XW6R4bYUHCmZ9ss"
     },
     {
       "album": {

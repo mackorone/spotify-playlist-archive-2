@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241 likes - 35 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 242 likes - 35 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Passenger Princess](https://open.spotify.com/track/6GAI8f3Kb4IfOPj28WXGUS) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:15 |
 | 2 | [foreigner](https://open.spotify.com/track/5W8Bhbhy33PBeEeCeQtsAx) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:37 |
-| 3 | [sushi for breakfast](https://open.spotify.com/track/6sNxPUqycedL5qKgzUClVs) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [sushi for breakfast](https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy) | 2:07 |
-| 4 | [Monster](https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Monster](https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS) | 2:46 |
+| 3 | [Monster](https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Monster](https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS) | 2:46 |
+| 4 | [sushi for breakfast](https://open.spotify.com/track/6sNxPUqycedL5qKgzUClVs) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [sushi for breakfast](https://open.spotify.com/album/4Vk4WD5RYrocyVqwTNBoBy) | 2:07 |
 | 5 | [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 |
 | 6 | [16](https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [16](https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq) | 2:24 |
 | 7 | [TSUNAMI](https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [TSUNAMI](https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr) | 2:06 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 34 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
 | 35 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
 
-Snapshot ID: `aa9fAAAAAADVvduNlMMmjr7QkYtlpUMH`
+Snapshot ID: `abCwgAAAAADPmVm4npzwBLMAWBZfMeos`

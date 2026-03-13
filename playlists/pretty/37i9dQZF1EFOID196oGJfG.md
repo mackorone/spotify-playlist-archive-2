@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/65nBq6bgZmJvMvlnrFxyud">Rory Adams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149 likes - 39 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 150 likes - 39 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 38 | [Cigarette](https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Cigarette](https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq) | 2:38 |
 | 39 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcL3+AAAAABP4BA/5I/3zbxeo7FGz36C`
+Snapshot ID: `AcL91AAAAACqAiXSrS357u96MGa5NDa1`

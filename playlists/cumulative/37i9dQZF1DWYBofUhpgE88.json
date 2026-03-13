@@ -422,7 +422,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 151421,
       "name": "Allenamento #2",
       "url": "https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC"
@@ -1446,6 +1446,28 @@
       "duration_ms": 165925,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5byejpzYFf4l4t7JMTADUb"
+    },
+    {
+      "album": {
+        "name": "boy you turn me",
+        "url": "https://open.spotify.com/album/0yYcF3WuWkHIYpsyWUpRfA"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192331,
+      "name": "boy you turn me",
+      "url": "https://open.spotify.com/track/5xM6Saib7CixujU8BFW2eN"
     },
     {
       "album": {

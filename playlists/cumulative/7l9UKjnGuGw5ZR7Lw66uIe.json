@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Bilen Varsa",
+        "url": "https://open.spotify.com/album/1InCVaeeXbDzR3kSLD08VA"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Bilen Varsa",
+      "url": "https://open.spotify.com/track/4X7mqQVz8rs6rbbe0iTMiC"
+    },
+    {
+      "album": {
         "name": "Derin Mevzular",
         "url": "https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX"
       },

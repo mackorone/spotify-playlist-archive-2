@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 71707,
+  "num_followers": 71723,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Os Garotin Session 2",
-        "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 249255,
-      "name": "Maldade",
-      "url": "https://open.spotify.com/track/4a1BLWVTSwGno5lUJS7s0h"
-    },
-    {
-      "added_at": "2026-03-06 13:13:22",
-      "album": {
         "name": "s\u00f3 (mais) uma vez",
         "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 221596,
       "name": "s\u00f3 (mais) uma vez",
       "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
+    },
+    {
+      "added_at": "2026-03-06 13:13:22",
+      "album": {
+        "name": "Os Garotin Session 2",
+        "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 249255,
+      "name": "Maldade",
+      "url": "https://open.spotify.com/track/4a1BLWVTSwGno5lUJS7s0h"
     },
     {
       "added_at": "2026-03-06 13:13:22",
@@ -539,26 +539,6 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Eu Te Entendo",
-        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 157437,
-      "name": "Eu Te Entendo",
-      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
-    },
-    {
-      "added_at": "2026-03-06 13:13:22",
-      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 357248,
       "name": "Se Foi",
       "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
+    },
+    {
+      "added_at": "2026-03-06 13:13:22",
+      "album": {
+        "name": "Eu Te Entendo",
+        "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
+      },
+      "artists": [
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 157437,
+      "name": "Eu Te Entendo",
+      "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
     },
     {
       "added_at": "2026-03-06 13:13:22",

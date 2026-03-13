@@ -2,7 +2,7 @@
 
 ### [Весняний релакс](https://open.spotify.com/playlist/37i9dQZF1DX2X2YHi92QqA)
 
-> Прощавай, зимо! 🌞👗🌺
+> Тепло вже тут\. Все буде добре 🫶🌺
 
 250 songs - 13 hr 30 min
 

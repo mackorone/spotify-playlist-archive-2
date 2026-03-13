@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuwe tijdloze muziek. Cover: Bruno Mars",
+  "description": "Nieuwe tijdloze muziek. Cover: Kensington",
   "name": "Altijd Goed",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 179671,
       "name": "21",
       "url": "https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE"
@@ -258,6 +258,28 @@
       "duration_ms": 217019,
       "name": "A Little Too High",
       "url": "https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ"
+    },
+    {
+      "album": {
+        "name": "A Rainy Night in Soho",
+        "url": "https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272127,
+      "name": "A Rainy Night in Soho",
+      "url": "https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51"
     },
     {
       "album": {
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 192017,
       "name": "Between You And Me",
       "url": "https://open.spotify.com/track/4yVNunq9yjeqF7AVfV09Ra"
@@ -2302,6 +2324,24 @@
       "duration_ms": 350542,
       "name": "Coming Undone - Single Edit",
       "url": "https://open.spotify.com/track/6LU9IjSKhlOg0uU2eXj9Mo"
+    },
+    {
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
     },
     {
       "album": {
@@ -3389,6 +3429,28 @@
     },
     {
       "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/5cimXUSd1VSZCwYEph003V"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        },
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201531,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/481cyatp9kM5pUha4kw1qY"
+    },
+    {
+      "album": {
         "name": "Drive Safe",
         "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
@@ -3570,6 +3632,24 @@
       "duration_ms": 177880,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/50bF97TPPv2zeUecGGEkZg"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/55z3ChHdosGm28ieptmg7E"
     },
     {
       "album": {
@@ -6600,7 +6680,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 206884,
       "name": "Il mio giorno preferito",
       "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
@@ -7639,6 +7719,24 @@
     },
     {
       "album": {
+        "name": "Livin' For",
+        "url": "https://open.spotify.com/album/7waKmw79F9XR4PzgxCwzqk"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219103,
+      "name": "Livin' For",
+      "url": "https://open.spotify.com/track/61XPuOp0FkBsucySpjoWVG"
+    },
+    {
+      "album": {
         "name": "London, Tokyo",
         "url": "https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3"
       },
@@ -8410,7 +8508,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 177056,
       "name": "Morning",
       "url": "https://open.spotify.com/track/4VQ9pA1QmZW8pdR5T0AB3R"
@@ -10476,7 +10574,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 219923,
       "name": "Same Heart",
       "url": "https://open.spotify.com/track/0eSP9vw73vQzohA5tIOyOf"
@@ -11356,7 +11454,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 203433,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/1PXiU7yaE1iAhz8XyqhJaK"
@@ -14858,6 +14956,24 @@
       "duration_ms": 179389,
       "name": "When The Cool Kids Ruled",
       "url": "https://open.spotify.com/track/3Hu4BWIaB52Ewje9HnFPDZ"
+    },
+    {
+      "album": {
+        "name": "When You Fall In Love",
+        "url": "https://open.spotify.com/album/3X3uvYaZeOMSOlarmh8yye"
+      },
+      "artists": [
+        {
+          "name": "Blair Davie",
+          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187057,
+      "name": "When You Fall In Love",
+      "url": "https://open.spotify.com/track/2YTbiiaPXli0b4zzjGetAJ"
     },
     {
       "album": {

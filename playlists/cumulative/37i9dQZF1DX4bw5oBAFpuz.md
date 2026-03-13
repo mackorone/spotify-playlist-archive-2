@@ -4,12 +4,12 @@
 
 > Ideale muziek voor de werkdag
 
-625 songs - 1 day 11 hr 32 min
+626 songs - 1 day 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-02-23 | 2024-10-04 |
-| [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-26 |  |
+| [16](https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [The Indien](https://open.spotify.com/album/05PciBASYTdhW356MVCSLS) | 3:01 | 2024-03-26 | 2026-03-13 |
 | [17](https://open.spotify.com/track/0ipSZJxKLs1F2LNTl0GF6y) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [17](https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe) | 3:38 | 2023-09-07 |  |
 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 | 2023-02-23 | 2025-05-10 |
 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 | 2025-09-11 |  |
@@ -353,6 +353,7 @@
 | [Miracles](https://open.spotify.com/track/6LTULqwZrAFfdzJnsOaEmy) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Beste Zangers 2021 \(Joe Buck\)](https://open.spotify.com/album/0VcY5kRBSi02BjPs314Aze) | 2:27 | 2023-02-23 | 2024-04-19 |
 | [Misfits](https://open.spotify.com/track/1YNKJeJImFDqyOtJD543uH) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Misfits](https://open.spotify.com/album/65VFiBQZyDAxVq5Fy3cpIr) | 2:42 | 2025-06-02 |  |
 | [Money In My Head](https://open.spotify.com/track/4ndeAoy1m2FzBiASupmnNX) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Something Out Of Nothing](https://open.spotify.com/album/52avYCo20BfLgGk50FvyRW) | 3:08 | 2024-01-16 | 2025-03-18 |
+| [Morning](https://open.spotify.com/track/4VQ9pA1QmZW8pdR5T0AB3R) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Morning](https://open.spotify.com/album/4sHcIgIww30W4pqcm9PEKi) | 2:57 | 2026-03-12 |  |
 | [Mr\. Perfect](https://open.spotify.com/track/0mbHXi8yxRMXJbayDMF6zH) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [396](https://open.spotify.com/album/1oSGbegSlLHm4ibhbFWWik) | 3:07 | 2023-02-23 | 2024-03-27 |
 | [My Baby Left Me](https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc) | [Rox](https://open.spotify.com/artist/535yDaYpxzTz2T323SM5ro) | [My Baby Left Me](https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT) | 3:33 | 2023-04-25 | 2024-03-01 |
 | [My First Heartbreak](https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My First Heartbreak](https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm) | 3:26 | 2025-05-01 |  |

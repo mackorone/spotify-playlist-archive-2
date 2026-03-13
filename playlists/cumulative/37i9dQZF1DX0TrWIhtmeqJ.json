@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: Sade Olutola",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: KiLLOWEN",
   "name": "We Move",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 144631,
       "name": "All Da Same",
       "url": "https://open.spotify.com/track/4n4SppfXnfxYXfdLUSHGBs"
+    },
+    {
+      "album": {
+        "name": "Antihistamine",
+        "url": "https://open.spotify.com/album/59Eqptt4nEwOPcMVb8mGcL"
+      },
+      "artists": [
+        {
+          "name": "Kojaque",
+          "url": "https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169786,
+      "name": "Antihistamine",
+      "url": "https://open.spotify.com/track/1Y2UbnQCMIJQczK5gii5Bp"
     },
     {
       "album": {
@@ -630,7 +648,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 140546,
       "name": "entitled",
       "url": "https://open.spotify.com/track/7jn7SOuYxnrAoz3QSmhIgQ"
@@ -674,6 +692,24 @@
       "duration_ms": 173455,
       "name": "EVERYBODY KNOW",
       "url": "https://open.spotify.com/track/4fUuR2Z9UR2JNjer9CY3DI"
+    },
+    {
+      "album": {
+        "name": "Addicted To Nostalgia",
+        "url": "https://open.spotify.com/album/14TFuH1XAcLG7DAU0wFWiA"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i"
     },
     {
       "album": {
@@ -760,7 +796,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 160000,
       "name": "Fix Me",
       "url": "https://open.spotify.com/track/4TrkCFHI3zUBPweubDIlSD"
@@ -1002,7 +1038,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 216621,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF"
@@ -1140,7 +1176,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 173333,
       "name": "I'm So",
       "url": "https://open.spotify.com/track/7gDNfsOHByamepCcGlutLi"
@@ -1664,6 +1700,28 @@
       "duration_ms": 128421,
       "name": "One More",
       "url": "https://open.spotify.com/track/5tIGuk52YhmumV4dbzzITj"
+    },
+    {
+      "album": {
+        "name": "#FEDERAL++",
+        "url": "https://open.spotify.com/album/6Xo6JB03TxDvxF0KE0QXfU"
+      },
+      "artists": [
+        {
+          "name": "SINN6R",
+          "url": "https://open.spotify.com/artist/7eUESbuvdPXjeidnqrCeyY"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/6ZdnXGLHEtYuvb49N9nGfq"
     },
     {
       "album": {
@@ -2557,6 +2615,42 @@
     },
     {
       "album": {
+        "name": "BabyGoated",
+        "url": "https://open.spotify.com/album/3FZ6gGy6XkRkIMyRkxrKtE"
+      },
+      "artists": [
+        {
+          "name": "Amy Gadiaga",
+          "url": "https://open.spotify.com/artist/0dxlAHVTQOgD6ZRwSeit7x"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6WZSsiLYdjbdDlClK1lPjE"
+    },
+    {
+      "album": {
+        "name": "A Mile In My Mind",
+        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+    },
+    {
+      "album": {
         "name": "Trippin'",
         "url": "https://open.spotify.com/album/42HmHOPTR9tLzYm5pM7Uib"
       },
@@ -2844,7 +2938,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 127374,
       "name": "Whine On Me",
       "url": "https://open.spotify.com/track/7lSwOtmyMx0eWWTSR9KbFb"

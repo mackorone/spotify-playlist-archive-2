@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Glory in His Presence",
+        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dube",
+          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655253,
+      "name": "Bow Down and Worship (Live)",
+      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
+    },
+    {
+      "album": {
         "name": "Glory in His Presence (Live)",
         "url": "https://open.spotify.com/album/61dyXejpR6WO0w4gBfHKcR"
       },
@@ -1014,24 +1032,6 @@
       "duration_ms": 654333,
       "name": "Bow Down and Worship - Live",
       "url": "https://open.spotify.com/track/3Iw1xzERcMPz1zAN8O3O7C"
-    },
-    {
-      "album": {
-        "name": "Glory in His Presence",
-        "url": "https://open.spotify.com/album/4H0LkLQqfqbryyNUmzDvoq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dube",
-          "url": "https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2"
-        }
-      ],
-      "date_added": "2023-03-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 655253,
-      "name": "Bow Down and Worship - Live",
-      "url": "https://open.spotify.com/track/4pwIlf5w1m2gZJ97o49fpJ"
     },
     {
       "album": {
@@ -7160,6 +7160,24 @@
       "duration_ms": 598053,
       "name": "Umoya Praise Medley - Live",
       "url": "https://open.spotify.com/track/2Y8Nh5gZpcMl9Uh0NGszhC"
+    },
+    {
+      "album": {
+        "name": "Umsebenzi",
+        "url": "https://open.spotify.com/album/4gq1imAFUvSMMPllTShhpT"
+      },
+      "artists": [
+        {
+          "name": "Nozipho Phiri",
+          "url": "https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580053,
+      "name": "Umsebenzi",
+      "url": "https://open.spotify.com/track/5WvhqTI1PunZtoLu7sF4GA"
     },
     {
       "album": {

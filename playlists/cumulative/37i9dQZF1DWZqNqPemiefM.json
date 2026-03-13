@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Exportion",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: Shuta Hasunuma",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -398,6 +398,24 @@
       "duration_ms": 408506,
       "name": "6:48",
       "url": "https://open.spotify.com/track/0RhuiUu6AKa04y88CkdvAe"
+    },
+    {
+      "album": {
+        "name": "7 Days Later",
+        "url": "https://open.spotify.com/album/3ATiAZh8zJpZyJIotTx73u"
+      },
+      "artists": [
+        {
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "7 Days Later",
+      "url": "https://open.spotify.com/track/6SA92SWtmoKu17fAQkLMBo"
     },
     {
       "album": {
@@ -2044,6 +2062,24 @@
       "duration_ms": 498600,
       "name": "Blue Fox",
       "url": "https://open.spotify.com/track/7wN13OOw6TPVzgQWqGBykx"
+    },
+    {
+      "album": {
+        "name": "Blue Horizon Memory",
+        "url": "https://open.spotify.com/album/5nFmBMuFgJcvvap8XEIDbi"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Blue Horizon Memory",
+      "url": "https://open.spotify.com/track/51jQ0GrxQzcsr2ZFGAaHUM"
     },
     {
       "album": {
@@ -4035,6 +4071,24 @@
     },
     {
       "album": {
+        "name": "Rainscape",
+        "url": "https://open.spotify.com/album/3azeFYKH4YVrSNM8m5FxU3"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137106,
+      "name": "Drizzle (Echo)",
+      "url": "https://open.spotify.com/track/4wVpQwlI7ZBY6W4CCgy5zD"
+    },
+    {
+      "album": {
         "name": "Re:",
         "url": "https://open.spotify.com/album/4Z1jNDMJ1v7O38ZlD5wM90"
       },
@@ -4685,6 +4739,28 @@
     },
     {
       "album": {
+        "name": "Shines for Eternity",
+        "url": "https://open.spotify.com/album/5JIHOxpA0PJD37OfWwCzw5"
+      },
+      "artists": [
+        {
+          "name": "Felicia Atkinson",
+          "url": "https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we"
+        },
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Film Still / The Sea",
+      "url": "https://open.spotify.com/track/3PTJMPYf7v8whShHLK3IzL"
+    },
+    {
+      "album": {
         "name": "Film Still / The Sea",
         "url": "https://open.spotify.com/album/5zq6yxphawT7ClHlPPTwGf"
       },
@@ -5282,7 +5358,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 299674,
       "name": "Futaba, Fukushima II",
       "url": "https://open.spotify.com/track/3rx0ljO37LT732HdM2NCiC"
@@ -5372,7 +5448,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 275217,
       "name": "GBTC",
       "url": "https://open.spotify.com/track/51IUGiz8ZOcujHlQuuTszO"
@@ -5934,7 +6010,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 147053,
       "name": "Hazy Colors",
       "url": "https://open.spotify.com/track/7tmLKzeAlDLp2QuGosr351"
@@ -6486,7 +6562,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 80626,
       "name": "Ibuki",
       "url": "https://open.spotify.com/track/4aZeIfJtB9FeYXl2TWGbpc"
@@ -7359,6 +7435,24 @@
     },
     {
       "album": {
+        "name": "Jungle Kids",
+        "url": "https://open.spotify.com/album/6Tg7ronpyKQ352PnloXZ35"
+      },
+      "artists": [
+        {
+          "name": "Sajge",
+          "url": "https://open.spotify.com/artist/7vVL4vGnzo7GGdxJ2DWCoD"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190474,
+      "name": "Jungle Kids",
+      "url": "https://open.spotify.com/track/2JdTDN0JnwALdyra3FKZM8"
+    },
+    {
+      "album": {
         "name": "Yofukashi",
         "url": "https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf"
       },
@@ -7458,7 +7552,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 306705,
       "name": "Kazegafuku",
       "url": "https://open.spotify.com/track/3IstLCRbBdCPmjWwPDYwtr"
@@ -8722,6 +8816,24 @@
       "duration_ms": 237781,
       "name": "Marimba Dub",
       "url": "https://open.spotify.com/track/0QMi6HLSf6Pgd74vO7DkO7"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u7dd1\u9752\u304c\u660e\u3051\u308b\u65e5\u306b [ \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af ]",
+        "url": "https://open.spotify.com/album/7on80832jQgKIQPSFUnthw"
+      },
+      "artists": [
+        {
+          "name": "Shuta Hasunuma",
+          "url": "https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114346,
+      "name": "Mask",
+      "url": "https://open.spotify.com/track/58nwiA4KUq0raeYbP5Bv9h"
     },
     {
       "album": {
@@ -10846,6 +10958,24 @@
       "duration_ms": 291315,
       "name": "perfect drawing",
       "url": "https://open.spotify.com/track/6To87kWCF7WHTV1JnPuOVn"
+    },
+    {
+      "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/5gAZ3nPwUIKqsljcfaUlI1"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256806,
+      "name": "Permanent Vacation",
+      "url": "https://open.spotify.com/track/2TB6VjgjeY6lElURwtB5Eg"
     },
     {
       "album": {
@@ -16776,7 +16906,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 165142,
       "name": "Yoi no Myojo - Beatless Version",
       "url": "https://open.spotify.com/track/0YLwcmaIpZSQcDkUMlwqsn"

@@ -38146,7 +38146,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Poney",
       "url": "https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r"
@@ -44590,6 +44590,24 @@
     {
       "album": {
         "name": "SRT FULL NWAR",
+        "url": "https://open.spotify.com/album/10S8OLvQhSmtF2tmk5Nr0g"
+      },
+      "artists": [
+        {
+          "name": "MINUISKI",
+          "url": "https://open.spotify.com/artist/1FfPeHlceaZLaDaN7SMxdZ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187959,
+      "name": "SRT FULL NWAR",
+      "url": "https://open.spotify.com/track/3NaM8jq5zSHdAa0idhBAmA"
+    },
+    {
+      "album": {
+        "name": "SRT FULL NWAR",
         "url": "https://open.spotify.com/album/1ami8fmVq2Jv4F1tNIS0wC"
       },
       "artists": [
@@ -44600,7 +44618,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 187959,
       "name": "SRT FULL NWAR",
       "url": "https://open.spotify.com/track/6US5ckvpkICMbKb3lAvHLX"
@@ -45478,7 +45496,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 181083,
       "name": "T'avais raison",
       "url": "https://open.spotify.com/track/39zpVyhyhefIUTW8XXxv01"
@@ -45698,7 +45716,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 158185,
       "name": "Tant pis pour elle",
       "url": "https://open.spotify.com/track/2GDZe8GdXd0LoUtpVpMUVy"
@@ -51832,7 +51850,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1614842,
+  "num_followers": 1615124,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
-        "name": "i like the way you kiss me (burnt)",
-        "url": "https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "i like the way you kiss me - burnt",
-      "url": "https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd"
-    },
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
         "name": "CLEARED - Remix (Slowed / Sped Up)",
         "url": "https://open.spotify.com/album/2c8DjbK7TaAUYkYWouikkH"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 167109,
       "name": "CLEARED - Remix (Slowed)",
       "url": "https://open.spotify.com/track/2G2zAIs50FJyvutTfZqkZj"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
+        "name": "i like the way you kiss me (burnt)",
+        "url": "https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "i like the way you kiss me - burnt",
+      "url": "https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd"
     },
     {
       "added_at": "2026-03-04 00:58:24",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
-        "name": "Shootout (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
-      },
-      "artists": [
-        {
-          "name": "Izzamuzzic",
-          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
-        },
-        {
-          "name": "Julien Marchal",
-          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
-        }
-      ],
-      "duration_ms": 140142,
-      "name": "Shootout (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
-    },
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 271299,
       "name": "Nevada - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
+        "name": "Shootout (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG"
+      },
+      "artists": [
+        {
+          "name": "Izzamuzzic",
+          "url": "https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8"
+        },
+        {
+          "name": "Julien Marchal",
+          "url": "https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU"
+        }
+      ],
+      "duration_ms": 140142,
+      "name": "Shootout (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz"
     },
     {
       "added_at": "2026-03-04 00:58:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-03-04 00:58:24",
       "album": {
-        "name": "Goth (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/2cu8b9WLmyDoK0mLwfhysh"
-      },
-      "artists": [
-        {
-          "name": "Sidewalks and Skeletons",
-          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
-        }
-      ],
-      "duration_ms": 252628,
-      "name": "Goth (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz"
-    },
-    {
-      "added_at": "2026-03-04 00:58:24",
-      "album": {
         "name": "Never Let Go (Of Me) [Heist Edit]",
         "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 94028,
       "name": "Never Let Go (Of Me) - Slowed",
       "url": "https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK"
+    },
+    {
+      "added_at": "2026-03-04 00:58:24",
+      "album": {
+        "name": "Goth (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/2cu8b9WLmyDoK0mLwfhysh"
+      },
+      "artists": [
+        {
+          "name": "Sidewalks and Skeletons",
+          "url": "https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1"
+        }
+      ],
+      "duration_ms": 252628,
+      "name": "Goth (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz"
     },
     {
       "added_at": "2026-03-04 00:58:24",

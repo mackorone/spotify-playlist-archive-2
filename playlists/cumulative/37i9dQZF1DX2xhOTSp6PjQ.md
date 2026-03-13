@@ -4,7 +4,7 @@
 
 > Khuphuka lapho… seku\-late! Cover: Phangandawo
 
-286 songs - 22 hr 37 min
+287 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Ushwebile \(feat\. Mjolisi\)](https://open.spotify.com/track/7xhd84IlV2WBbsOnQukuoh) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Ushwebile](https://open.spotify.com/album/3ryGy5CyeoufmARyYHTk1H) | 3:59 | 2025-08-29 |  |
 | [UTHAND'OLUSHA](https://open.spotify.com/track/4JqYjzSAjcPl7sc4cJtoaE) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [NATIONAL ANTHEM](https://open.spotify.com/album/1ALfXDK2aes4nEs0OWt4No) | 5:02 | 2023-12-01 | 2025-11-28 |
 | [Uthando Lunye](https://open.spotify.com/track/6vT6ApD2icv6IjGfEMdRHo) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Uthando Lunye](https://open.spotify.com/album/185M5vZmISiDK7Q4ufbAMr) | 4:13 | 2023-04-29 | 2023-08-25 |
+| [Uthando Lwami 2.0](https://open.spotify.com/track/1pBdkvTWIOTqMSKbBh13gr) | [Lihle Xhakaza](https://open.spotify.com/artist/6GD0nzyhk6IOrjnUOWb25a), [Shenge Wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz), [Samkelisiwe Ncwane](https://open.spotify.com/artist/2JuXtHN1aSXNpUAPLztPUX) | [Uthando Lwami 2.0](https://open.spotify.com/album/6orZcsvAEQDkgpccHiRQfl) | 5:33 | 2026-03-12 |  |
 | [Uvume Kanjani?](https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Uvume Kanjani?](https://open.spotify.com/album/1EQ6FllXqVYFKGVjRKtDRp) | 4:44 | 2025-03-31 |  |
 | [Uyangithanda](https://open.spotify.com/track/15RuL9oTamznOswkGKF8rD) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Eyokuza](https://open.spotify.com/album/0r4p4Z9eRFUsKYq5OQiuHJ) | 4:12 | 2023-06-15 | 2024-06-14 |
 | [UYINSIZWA KOBANI](https://open.spotify.com/track/6hFRRT8YKi9PaNfXH1H36E) | [AMA AK47](https://open.spotify.com/artist/4EhqhDbkMsMg3v5XPVrBs2) | [SILWA NEMPILO](https://open.spotify.com/album/3BrkIp0jI17rm6iFMz0lHL) | 11:59 | 2024-04-22 | 2024-07-13 |

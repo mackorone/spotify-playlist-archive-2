@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Assia Keva
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: BLINGOUTKID
 
-591 songs - 1 day 10 hr 33 min
+593 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [DESTINY](https://open.spotify.com/track/4JyewXavoNDSkLdX1A2cjI) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj) | [DESTINY](https://open.spotify.com/album/6hKFay0QfMNYhM6P4TI0SA) | 3:16 | 2025-01-17 | 2025-04-11 |
 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 | 2024-06-27 | 2024-11-16 |
 | [DIAL](https://open.spotify.com/track/3X8Bs7p1JETpwWPoKIMOxB) | [XANDEGA](https://open.spotify.com/artist/344sZKVzlNX1OQmSDFwxzr), [Will Mara](https://open.spotify.com/artist/5NxczTw9yZIX62WvzQ24mF) | [DIAL](https://open.spotify.com/album/4cx4kw7Bv1lWzujkxIsTNQ) | 3:25 | 2025-05-01 | 2025-06-13 |
+| [Difference](https://open.spotify.com/track/1bhMxRHujv6SzNMDeFAw9T) | [safiradinda](https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP) | [Difference](https://open.spotify.com/album/3Md6Ln2jgbj4Wakq37VS5q) | 3:08 | 2026-03-13 |  |
 | [Do I Care Too Much](https://open.spotify.com/track/7eSo5rcuv7zeoBkbJ4lJRL) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do I Care Too Much](https://open.spotify.com/album/0prwA9DdZkDMec5T5aLcEk) | 4:04 | 2024-06-27 | 2025-01-18 |
 | [Do I Matter?](https://open.spotify.com/track/3XcmjyiIE4L4BaoKJ9MyUH) | [syauu](https://open.spotify.com/artist/0DPiScXk2cvmh1cjWu9jaT) | [Do I Matter?](https://open.spotify.com/album/4AeuB5Z6ujkNMrUh9jp3WF) | 5:27 | 2025-09-29 | 2025-11-07 |
 | [Do Right Baby!](https://open.spotify.com/track/7iR9lD79PCHKBdliUNNLSY) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Do Right Baby!](https://open.spotify.com/album/0lOMc60o5tKvGONQttYUNi) | 4:53 | 2024-07-23 | 2024-09-27 |
@@ -273,6 +274,7 @@
 | [I'll Love You 'Till The Day I Die](https://open.spotify.com/track/20hcxDegCgbbB98t5os7mF) | [Showbiz](https://open.spotify.com/artist/1qrWyeykFOOSGikuDQA9eC) | [I'll Love You 'Till The Day I Die](https://open.spotify.com/album/68kIPM9n8kCa9vgecDDZu7) | 6:44 | 2025-08-29 | 2025-12-06 |
 | [I'm Old Fashioned](https://open.spotify.com/track/4mC42wzxxH9BlU3xwe3XOR) | [Vanessa Shavonne](https://open.spotify.com/artist/4ITvgKI1DUW1wDPkWEycP9) | [I'm Old Fashioned](https://open.spotify.com/album/6fjZYH9jfnOWfeZaT0kK6N) | 3:15 | 2024-06-27 | 2024-08-10 |
 | [I'm on My Way](https://open.spotify.com/track/3XvgSDedqSOqJVW7vnbo8P) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [I'm on My Way](https://open.spotify.com/album/3K8KlJNK2SOgM8NyDWMrre) | 4:14 | 2025-10-16 | 2026-02-13 |
+| [i'm still here](https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [i'm still here](https://open.spotify.com/album/1fAms58lBFVczbL1ZYD8xy) | 3:00 | 2026-03-13 |  |
 | [iamwhoiam](https://open.spotify.com/track/6tBpJD3UgzAw7LytOja8hd) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn) | [iamwhoiam](https://open.spotify.com/album/3dt2D11xSFiklfB9OK1jrZ) | 4:48 | 2025-05-01 | 2025-06-13 |
 | [Idea of You](https://open.spotify.com/track/4zfbfAmuxAD4Eevm1Kr7tN) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Idea of You](https://open.spotify.com/album/5PIXEonnpeD2zCG81NDXJn) | 2:39 | 2024-10-31 | 2025-01-24 |
 | [If I Try](https://open.spotify.com/track/0qIgVDoNehrhbtGxB5HOTr) | [Emma Elliott](https://open.spotify.com/artist/40XszRQeZirel3YEpF2SNp) | [If I Try](https://open.spotify.com/album/3RHZL0wgxQAg0uq1dQZ7cy) | 3:48 | 2025-03-13 | 2025-05-02 |

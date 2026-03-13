@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Rare Americans 2",
+        "url": "https://open.spotify.com/album/3XaGggSCmE8nuUWMm1G5CU"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197248,
+      "name": "Hullabaloo",
+      "url": "https://open.spotify.com/track/1L2MyJvWX5TCEGUWR2LdRJ"
+    },
+    {
+      "album": {
         "name": "Farewell: Live From The Universal Amphitheatre-Halloween 1995",
         "url": "https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5"
       },

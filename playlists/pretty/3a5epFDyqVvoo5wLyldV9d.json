@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAAEA0Hy4QygJ/JqFNHYeEM/o3NsdvRx",
+  "snapshot_id": "AAAEBEHwcOB/MI15//qsAsBClckr1cKH",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -15043,6 +15043,26 @@
       "duration_ms": 286173,
       "name": "Orisa",
       "url": "https://open.spotify.com/track/35casNAhTwSC3ofq9KeNAw"
+    },
+    {
+      "added_at": "2026-03-12 12:14:44",
+      "album": {
+        "name": "Rita Lee",
+        "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        },
+        {
+          "name": "Roberto De Carvalho",
+          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
+        }
+      ],
+      "duration_ms": 310760,
+      "name": "Lan\u00e7a Perfume",
+      "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
     }
   ],
   "unique_name": "Worldly",

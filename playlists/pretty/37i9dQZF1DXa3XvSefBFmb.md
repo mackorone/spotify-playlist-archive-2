@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouça estas extraordinárias artistas femininas numa edição especial com curadoria de Rita Rocha.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,109 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,108 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Ai Se os Meus Olhos Falassem](https://open.spotify.com/track/2zqEA3CKhoflLG06ENg7ao) | [Raquel Tavares](https://open.spotify.com/artist/7IaezJ3t50nl6S1NISCgxj) | [Deles por Mim e à Antiga](https://open.spotify.com/album/3NpQWgs1EelIVivxrRdKiQ) | 4:05 |
 | 50 | [Como é Fraco o Coração \(feat\. Tiago Nogueira\)](https://open.spotify.com/track/2Wx3KYVPj7OxIPPcCwQqMl) | [Elisa](https://open.spotify.com/artist/5dmOPgOqzAhlpOlGFUouNh), [Tiago Nogueira](https://open.spotify.com/artist/4eGX5Ukp5TPGJGYVmC91UF) | [Como é Fraco o Coração \(feat\. Tiago Nogueira\)](https://open.spotify.com/album/0Oj590VuDO7PDwHnlz8Cq1) | 2:46 |
 
-Snapshot ID: `AAAAAJs5HC30PB+5sOsVr5nrXRlakwUt`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

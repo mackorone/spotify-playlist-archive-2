@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 112000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/41S9T0UnfZHBabzzufoAbi"
@@ -5702,6 +5702,32 @@
       "duration_ms": 117333,
       "name": "Tralla 2",
       "url": "https://open.spotify.com/track/0EsGkdTrGBRBT0eV367C0Q"
+    },
+    {
+      "album": {
+        "name": "Trigger Talk",
+        "url": "https://open.spotify.com/album/7EqftYxGFT8wATPPUNxvVJ"
+      },
+      "artists": [
+        {
+          "name": "Raman Romana",
+          "url": "https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv"
+        },
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/4CwrwTrDILSiVdik8oy2F5"
+        },
+        {
+          "name": "Rian Music",
+          "url": "https://open.spotify.com/artist/6VFus9iJ0TVxR1Sjj4uD0Y"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155943,
+      "name": "Trigger Talk",
+      "url": "https://open.spotify.com/track/5kbkuNUP1282MNseJFPPDB"
     },
     {
       "album": {

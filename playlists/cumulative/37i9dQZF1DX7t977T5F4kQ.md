@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest and recent Ghana party starters\. Cover: Wendy Shay
+> The hottest and recent Ghana party starters\. Cover: Pappy Kojo
 
-613 songs - 1 day 7 hr 36 min
+616 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 | 2023-09-08 | 2024-06-01 |
 | [Kwaku Ananse \- Remix](https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Kwaku Ananse \(Remix\)](https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE) | 3:23 | 2023-11-10 | 2025-08-23 |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-11-04 | 2024-03-01 |
+| [Kwesi Arthur II](https://open.spotify.com/track/1PxzVVP6W9zkcdZsd8zukW) | [Cojo Rae](https://open.spotify.com/artist/2cyI5iIzdXOeUWRWBzfNlC), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Kwesi Arthur II](https://open.spotify.com/album/5S03i4bznJ31ubq9pvS73V) | 2:38 | 2026-03-13 |  |
 | [Kyelensa](https://open.spotify.com/track/2I8sAeOtAAOHgM0nhmPYY1) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [Kyelensa](https://open.spotify.com/album/2N9DdwbIf0xdXhIcEFc6HY) | 2:08 | 2024-06-28 | 2024-08-26 |
 | [La vida Loca](https://open.spotify.com/track/4Hxx6KY9Hrq6q3NFZkR1gV) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [La vida Loca](https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm) | 4:26 | 2025-09-19 | 2025-11-28 |
 | [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Labadi \(feat\. King Promise\)](https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4) | 3:18 | 2022-11-04 | 2024-03-01 |
@@ -338,6 +339,7 @@
 | [Many Many Things](https://open.spotify.com/track/4uzKhhLD4m4ZgIOmUzXDBP) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Trustn God](https://open.spotify.com/album/7o3klRMAbNadUbQOIjnJlb) | 2:53 | 2025-07-25 | 2025-08-23 |
 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 | 2025-01-22 |
 | [Maradona](https://open.spotify.com/track/6J2Xc1SgiPbF3UgS4Qfguv) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Maradona](https://open.spotify.com/album/0DklTPJBpPqQaAUP6ZXmhR) | 3:14 | 2023-10-20 | 2023-11-10 |
+| [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 | 2026-03-13 |  |
 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-06 | 2025-02-21 |
 | [Me Ne Woa](https://open.spotify.com/track/08vdSZrMk6bY8zjkA3CIld) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [2+](https://open.spotify.com/album/1swMrYyV71fXCRLLVb4L76) | 3:30 | 2025-01-31 | 2025-03-22 |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-22 | 2024-04-12 |
@@ -619,6 +621,7 @@
 | [Your Ghost](https://open.spotify.com/track/4jWDJjKkwzMDjou8X7V0Ml) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Your Ghost / Ayekoo](https://open.spotify.com/album/6OwmHKMoOpPX9N8l35xX3B) | 2:42 | 2025-05-30 | 2025-09-19 |
 | [Your Love](https://open.spotify.com/track/1ShiPLLMEUiVQXH7ve6YNd) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [Your Love](https://open.spotify.com/album/2fPnNvgrjv72VfQcW5pTzc) | 3:14 | 2023-08-10 | 2024-06-28 |
 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 | 2023-02-23 | 2023-03-18 |
+| [Your Way](https://open.spotify.com/track/5WLQv9nYwTjnSOsSLCLp4p) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Your Way](https://open.spotify.com/album/3UvySzeiIjLKzXgBemMVt1) | 2:55 | 2026-03-13 |  |
 | [Zero 2 Hero](https://open.spotify.com/track/0q7STqnfVgqOLZAxUiY18l) | [Stay Jay](https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW), [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Zero 2 Hero](https://open.spotify.com/album/3xsbqb7t5LxchPsDS5cejq) | 2:57 | 2023-12-22 | 2024-02-03 |
 | [Zormizor \(Asabone\)](https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Zormizor \(Asabone\)](https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz) | 3:04 | 2024-06-07 |  |
 

@@ -2,9 +2,9 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: Moliy and Bee&Honey
+> Catching flights and going global\. Cover: Patoranking & Buju Banton
 
-786 songs - 1 day 17 hr 31 min
+787 songs - 1 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ACTIVE](https://open.spotify.com/track/2EdcRG3Xf7pgfNIJu5TuFK) | [Blvk H3ro](https://open.spotify.com/artist/29v52R5tPpJ0Hrh1VnmZoZ), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [ACTIVE](https://open.spotify.com/album/78Y8S2DDfiZ8ZfcHzABxxF) | 2:22 | 2024-10-12 | 2024-10-18 |
 | [Addicted](https://open.spotify.com/track/0f1B2xgH5lXQ5ZYt1jZICc) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Bridging The Gap](https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z) | 3:26 | 2024-03-01 | 2024-03-15 |
 | [Afraid, Pt\. 2](https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Afraid, Pt\. 2](https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n) | 3:00 | 2025-03-14 | 2025-03-29 |
+| [African Soldier](https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [African Soldier](https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan) | 2:46 | 2026-03-12 |  |
 | [Afrikan Di Alien \(feat\. Black Sherif\)](https://open.spotify.com/track/1qSvve0ixeiLKdNixcEPT6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 2:25 | 2024-11-15 | 2024-11-23 |
 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 | 2025-10-24 | 2026-03-06 |
 | [Akorfa](https://open.spotify.com/track/3CL86NHbA0NjfdS28TE2Wb) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Lighter Tod](https://open.spotify.com/artist/3b3Vzpjyj5I1xOmVVKglUk) | [Akorfa](https://open.spotify.com/album/7gCyJwNjycvJfQDeVXGUrk) | 3:04 | 2025-01-31 | 2025-02-22 |
@@ -479,7 +480,7 @@
 | [NO HAY BREAK \(feat\. Omah Lay\)](https://open.spotify.com/track/3SidxlqZdO4wtPvrTaDBin) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:06 | 2025-07-18 | 2025-08-22 |
 | [No Isolation \(Part II\)](https://open.spotify.com/track/6IW0JN8TIUeKeslPPjH8P2) | [B\-Fela](https://open.spotify.com/artist/1oMLS8mxtxSDjBira08J0I), [Curtis J](https://open.spotify.com/artist/1myX1TbX6OkGrelfyeRwxd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [No Isolation \(Part II\)](https://open.spotify.com/album/1fD113EtQRN4PBASz9N5F6) | 2:59 | 2022-06-02 | 2022-06-24 |
 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 | 2023-06-30 | 2024-07-19 |
-| [No Maquines Tanto](https://open.spotify.com/track/3O70qh6WJXPuGl2TuJZs87) | [Hector Nazza](https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Flow 2050](https://open.spotify.com/album/15MVDhJWsEJInysiWBEcKe) | 3:26 | 2025-11-28 |  |
+| [No Maquines Tanto](https://open.spotify.com/track/3O70qh6WJXPuGl2TuJZs87) | [Hector Nazza](https://open.spotify.com/artist/1WGxt0iUo8qfQlzwIAlxQB), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Flow 2050](https://open.spotify.com/album/15MVDhJWsEJInysiWBEcKe) | 3:26 | 2025-11-28 | 2026-03-13 |
 | [No Me Borres De Tu Vida](https://open.spotify.com/track/7i6AaH7qRu33zP5qnHcpFp) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [El Tortas](https://open.spotify.com/artist/2ip2TBLRbOuBdv0fBGThjK) | [No Me Borres De Tu Vida](https://open.spotify.com/album/5zR84ygN6kSMAMYOCEjKSA) | 2:58 | 2024-05-31 | 2024-06-07 |
 | [No No No](https://open.spotify.com/track/1u94M8yWKbDL8u7f2t9AJH) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/2JMSc4BycSB8lkaZQyT3Bm) | 2:35 | 2022-09-28 | 2022-10-14 |
 | [No Police](https://open.spotify.com/track/555YPV71yCcEdeHhCGFE1h) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Mix It Up, Vol\. 3](https://open.spotify.com/album/2cE1RskVBcMiIhrsGQgV5P) | 4:23 | 2024-07-05 | 2024-10-18 |

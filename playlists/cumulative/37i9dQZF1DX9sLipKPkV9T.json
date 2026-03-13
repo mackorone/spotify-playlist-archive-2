@@ -753,6 +753,28 @@
     },
     {
       "album": {
+        "name": "Michelle",
+        "url": "https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3"
+      },
+      "artists": [
+        {
+          "name": "Noam Bettan",
+          "url": "https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn"
+        },
+        {
+          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
+          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180517,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/22g4vKHFze17AV7vnequhG"
+    },
+    {
+      "album": {
         "name": "Mon Amour (Cover)",
         "url": "https://open.spotify.com/album/111m5PY3IQd6FJb91WVkQ0"
       },
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 207636,
       "name": "\u05d0\u05d4\u05d1\u05ea \u05d7\u05d9\u05d9",
       "url": "https://open.spotify.com/track/4T87Z2bkvgdLI9sECWYF7i"
@@ -1676,6 +1698,24 @@
       "duration_ms": 173684,
       "name": "\u05d0\u05d5\u05e8",
       "url": "https://open.spotify.com/track/1HNItVZCGypC82tE0M82NP"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/5JXW0V742z8QdUa09jx6T1"
+      },
+      "artists": [
+        {
+          "name": "Tamir Levy",
+          "url": "https://open.spotify.com/artist/6YTt6SEgXwIcvo97g8ojJS"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158257,
+      "name": "\u05d0\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/3TcxeIu6YSlsRkqrMPy7sN"
     },
     {
       "album": {
@@ -6530,7 +6570,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 184000,
       "name": "\u05dc\u05d1 \u05dc\u05d1\u05df",
       "url": "https://open.spotify.com/track/6MG1IJFvf8OoZRRUTFMEAa"
@@ -8806,7 +8846,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 275571,
       "name": "\u05e1\u05d5\u05e3 \u05e1\u05d5\u05e3 \u05d0\u05d5\u05e9\u05e8",
       "url": "https://open.spotify.com/track/6UMasAhgSVmei7z6UgsIre"
@@ -9498,7 +9538,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-13",
       "duration_ms": 150433,
       "name": "\u05e2\u05e9\u05e8\u05d9\u05dd \u05d3\u05e7\u05d5\u05ea (\u05e1\u05d5\u05b9\u05e4\u05d9)",
       "url": "https://open.spotify.com/track/6U9PLR5B8aNXStxU6SRwzt"
@@ -10405,6 +10445,24 @@
     },
     {
       "album": {
+        "name": "\u05e4\u05d5\u05d8\u05e0\u05e6\u05d9\u05d0\u05dc",
+        "url": "https://open.spotify.com/album/4mCDjFBNk8wEDcXcfizOcY"
+      },
+      "artists": [
+        {
+          "name": "Eden Derso",
+          "url": "https://open.spotify.com/artist/7sG6GYc2AsX0HNOkVdGCO4"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171212,
+      "name": "\u05e8\u05e2 \u05d0\u05d5 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/3RqKfepB74o8PNtsP1L2IS"
+    },
+    {
+      "album": {
         "name": "\u05e8\u05e2\u05d1\u05d4",
         "url": "https://open.spotify.com/album/3EQHd9soy7hoUJ16DpIRHl"
       },
@@ -11164,6 +11222,24 @@
       "duration_ms": 183428,
       "name": "\u200e\u2068\u05db\u05e9\u05d6\u05d4 \u05e0\u05d2\u05de\u05e8",
       "url": "https://open.spotify.com/track/6j8JqkDNLwuEJdsIaDf5D3"
+    },
+    {
+      "album": {
+        "name": "\u05e1\u05e8\u05e0\u05d3\u05d4",
+        "url": "https://open.spotify.com/album/6s4e8e5q2YJDIymT1qPtYi"
+      },
+      "artists": [
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        }
+      ],
+      "date_added": "2026-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "\u2060\u05d0\u05d5\u05e7\u05e1\u05d9\u05d8\u05d5\u05e6\u05d9\u05df",
+      "url": "https://open.spotify.com/track/7DjA5GXNzgA1SKVRtXuQXY"
     },
     {
       "album": {

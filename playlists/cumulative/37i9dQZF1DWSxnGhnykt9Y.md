@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Juno
 
-232 songs - 10 hr 52 min
+233 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 | 2024-11-29 | 2025-07-05 |
 | [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2024-11-29 |  |
 | [Busy & Broke](https://open.spotify.com/track/5oGQ7wWe5DxxWJDVbpwNnm) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [Busy & Broke](https://open.spotify.com/album/2beprFW3yOohVHvReH74ei) | 2:11 | 2024-11-29 | 2025-05-30 |
-| [Busy Body](https://open.spotify.com/track/6GNR77cARsUEuYAacz5fPr) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Busy Body](https://open.spotify.com/album/6zsTa35bn3dzyTRADdbRfd) | 3:15 | 2026-02-27 |  |
+| [Busy Body](https://open.spotify.com/track/6GNR77cARsUEuYAacz5fPr) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Busy Body](https://open.spotify.com/album/6zsTa35bn3dzyTRADdbRfd) | 3:15 | 2026-02-27 | 2026-03-13 |
 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-06-20 | 2025-08-30 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 |  |
 | [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 | 2025-10-25 |
@@ -97,7 +97,7 @@
 | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 | 2025-11-28 |  |
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 | 2025-07-18 |
 | [iSizwe](https://open.spotify.com/track/75JT334u8Lx25FOMrJWDfQ) | [Thalie MaMbooica](https://open.spotify.com/artist/4QDUrDd9oDGPYb7Rgl8fy7) | [Ntinga Ntaka](https://open.spotify.com/album/6LGuH784qLJaTf03VPcj9s) | 2:30 | 2025-06-13 | 2025-07-05 |
-| [Jamzy Vibe](https://open.spotify.com/track/3QsKvy5KtKrtx5QkkGTtVv) | [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Jamzy Vibe](https://open.spotify.com/album/4PFeRdNEbdUXgLeIRlRkMa) | 2:18 | 2025-11-07 | 2025-12-05 |
+| [Jamzy Vibe](https://open.spotify.com/track/3QsKvy5KtKrtx5QkkGTtVv) | [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Jamzy Vibe](https://open.spotify.com/album/4PFeRdNEbdUXgLeIRlRkMa) | 2:18 | 2025-11-07 |  |
 | [JEWO](https://open.spotify.com/track/4jO0ZoVUDh79c9fg7eFI52) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [JEWO](https://open.spotify.com/album/1NaKzEKHBXGC62MHBTgmOW) | 3:05 | 2024-12-16 | 2025-10-25 |
 | [Journey](https://open.spotify.com/track/5ReWZfDl0ZaFdhUi617FVp) | [PholaPreye](https://open.spotify.com/artist/1SrQsw28qIWqVzZc3G2EkE) | [Journey](https://open.spotify.com/album/20r4mfuM8UzBn25OnbIogd) | 3:14 | 2025-05-16 | 2025-07-05 |
 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 | 2024-11-29 | 2025-09-20 |
@@ -110,6 +110,7 @@
 | [Kash and Karry](https://open.spotify.com/track/3biNFviRXIJFhNULZxZHM0) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Kash and Karry](https://open.spotify.com/album/0tqImbmIBOdXGzPKBDbFo2) | 2:57 | 2024-11-29 | 2025-03-01 |
 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 | 2025-03-21 | 2025-10-25 |
 | [Knock](https://open.spotify.com/track/14k9nxK5v4bLLpqPdHQKVl) | [Efe Keyz](https://open.spotify.com/artist/6Tdbrk6PZeJ1p8Nr2NUQ5y) | [Knock](https://open.spotify.com/album/7Aq9uJUnF5cIRoJjONlEY0) | 3:38 | 2025-03-28 | 2025-05-17 |
+| [Kor \(Thank You\)](https://open.spotify.com/track/4Tqpu067VKD9yRDYhIZWCb) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf) | [Kor \(Thank You\)](https://open.spotify.com/album/1C5fdseqZUwdypojIoyhps) | 3:17 | 2026-03-13 |  |
 | [Ladida](https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Ladida](https://open.spotify.com/album/5H10ukTXc6mnzTe7leaQPJ) | 2:11 | 2025-05-30 |  |
 | [Lady](https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nollypop](https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT) | 2:09 | 2024-12-16 | 2025-01-22 |
 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 | 2025-03-14 | 2026-02-28 |
@@ -125,7 +126,7 @@
 | [Love Na Scam](https://open.spotify.com/track/5DoU2Z4yrJtDWohxvjqlfr) | [BOII](https://open.spotify.com/artist/7JThC6ggJATjWKKrHZULVf) | [Love Na Scam](https://open.spotify.com/album/3UnAYxlUXkEZNmqPkMEas9) | 3:22 | 2024-11-29 | 2026-02-28 |
 | [Lukaku](https://open.spotify.com/track/1d1XEBuQ4NrlJIKJgYKWYt) | [Nella](https://open.spotify.com/artist/1srgbcQlCI56byuqb1FphT) | [Lukaku](https://open.spotify.com/album/17ppUP83ffoLReW5NMdhaX) | 2:41 | 2026-03-06 |  |
 | [Lése](https://open.spotify.com/track/4c6dzSgtxFaDNCiqQEC57P) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Lése](https://open.spotify.com/album/0F6LCG8A6xAl5D2E2vTaGy) | 3:55 | 2025-10-17 |  |
-| [Mama Bear](https://open.spotify.com/track/4E4ufQZZ3hV06rOdhJz8WX) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Mama Bear](https://open.spotify.com/album/6dGxuzROGa15txjFgN6DDh) | 2:33 | 2026-02-20 |  |
+| [Mama Bear](https://open.spotify.com/track/4E4ufQZZ3hV06rOdhJz8WX) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Mama Bear](https://open.spotify.com/album/6dGxuzROGa15txjFgN6DDh) | 2:33 | 2026-02-20 | 2026-03-13 |
 | [Manyana](https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Manyana](https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5) | 3:04 | 2024-11-29 |  |
 | [Maritha](https://open.spotify.com/track/0ZZEN6PN9CTnxhmZ4Map6k) | [Bwiza](https://open.spotify.com/artist/0KaDWWyzyRd8aRJlPyFQrX) | [25 SHADES](https://open.spotify.com/album/794yUvUkCNvJWKdEAdJVdS) | 3:05 | 2025-05-15 | 2025-07-05 |
 | [MASSOKO NA MABELE](https://open.spotify.com/track/1skF9pCBGMFDnaQGuVa0v0) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:57 | 2025-05-30 | 2025-06-27 |

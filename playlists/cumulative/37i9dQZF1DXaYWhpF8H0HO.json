@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Assia Keva",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: BLINGOUTKID",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -2464,6 +2464,24 @@
       "duration_ms": 205234,
       "name": "DIAL",
       "url": "https://open.spotify.com/track/3X8Bs7p1JETpwWPoKIMOxB"
+    },
+    {
+      "album": {
+        "name": "Difference",
+        "url": "https://open.spotify.com/album/3Md6Ln2jgbj4Wakq37VS5q"
+      },
+      "artists": [
+        {
+          "name": "safiradinda",
+          "url": "https://open.spotify.com/artist/2dptqJyVPAcFp771zi3IOP"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Difference",
+      "url": "https://open.spotify.com/track/1bhMxRHujv6SzNMDeFAw9T"
     },
     {
       "album": {
@@ -5072,6 +5090,24 @@
       "duration_ms": 254952,
       "name": "I'm on My Way",
       "url": "https://open.spotify.com/track/3XvgSDedqSOqJVW7vnbo8P"
+    },
+    {
+      "album": {
+        "name": "i'm still here",
+        "url": "https://open.spotify.com/album/1fAms58lBFVczbL1ZYD8xy"
+      },
+      "artists": [
+        {
+          "name": "BLINGOUTKID",
+          "url": "https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN"
+        }
+      ],
+      "date_added": "2026-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "i'm still here",
+      "url": "https://open.spotify.com/track/5eMUGXMkukhd4GUB5aENaF"
     },
     {
       "album": {
